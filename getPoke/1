@@ -1,12 +1,12 @@
 [
     {
-        "animeId": "canary",
-        "episodeId": "canary-episode-1",
-        "name": "Canary",
-        "episodeNum": "1",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/canary.png",
-        "episodeUrl": "https://www1.gogoanime.ee//canary-episode-1"
+        "animeId": "pokemon-indigo-league",
+        "episodeId": "pokemon-indigo-league-episode-1",
+        "name": "Pokémon: Indigo League",
+        "episodeNum": "82",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-indigo-league.png",
+        "episodeUrl": "../pokemon-indigo-league"
     },
     {
         "animeId": "chiikawa",
