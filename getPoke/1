@@ -72,49 +72,49 @@
         "episodeUrl": "../pokemon-advanced-battle"
     },
     {
-        "animeId": "meitantei-conan-hannin-no-hanzawa-san",
-        "episodeId": "meitantei-conan-hannin-no-hanzawa-san-episode-2",
-        "name": "Meitantei Conan: Hannin no Hanzawa-san",
-        "episodeNum": "2",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/meitantei-conan-hannin-no-hanzawa-san-1662695027.png",
-        "episodeUrl": "https://www1.gogoanime.ee//meitantei-conan-hannin-no-hanzawa-san-episode-2"
+        "animeId": "pokemon-battle-frontier",
+        "episodeId": "pokemon-battle-frontier-episode-1",
+        "name": "Pokémon: Battle Frontier",
+        "episodeNum": "47",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-battle-frontier.png",
+        "episodeUrl": "../pokemon-battle-frontier"
     },
     {
-        "animeId": "sekai-no-owari-ni-shiba-inu-to",
-        "episodeId": "sekai-no-owari-ni-shiba-inu-to-episode-38",
-        "name": "Sekai no Owari ni Shiba Inu to",
-        "episodeNum": "38",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/sekai-no-owari-ni-shiba-inu-to.png",
-        "episodeUrl": "https://www1.gogoanime.ee//sekai-no-owari-ni-shiba-inu-to-episode-38"
+        "animeId": "pokemon-diamond-and-pearl",
+        "episodeId": "pokemon-diamond-and-pearl-episode-1",
+        "name": "Pokémon Diamond and Pearl",
+        "episodeNum": "51",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-diamond-and-pearl.png",
+        "episodeUrl": "../pokemon-diamond-and-pearl"
     },
     {
-        "animeId": "yugioh-go-rush",
-        "episodeId": "yugioh-go-rush-episode-28",
-        "name": "Yu☆Gi☆Oh!: Go Rush!!",
-        "episodeNum": "28",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/yugioh-go-rush.png",
-        "episodeUrl": "https://www1.gogoanime.ee//yugioh-go-rush-episode-28"
+        "animeId": "pokemon-diamond-and-pearl-battle-dimension",
+        "episodeId": "pokemon-diamond-and-pearl-battle-dimension-episode-1",
+        "name": "Pokémon: Diamond and Pearl: Battle Dimension",
+        "episodeNum": "52",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-diamond-and-pearl-battle-dimension.png",
+        "episodeUrl": "../pokemon-diamond-and-pearl-battle-dimension"
     },
     {
-        "animeId": "golden-kamuy-4th-season",
-        "episodeId": "golden-kamuy-4th-season-episode-2",
-        "name": "Golden Kamuy 4th Season",
-        "episodeNum": "2",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/golden-kamuy-4th-season-1664388504.png",
-        "episodeUrl": "https://www1.gogoanime.ee//golden-kamuy-4th-season-episode-2"
+        "animeId": "pokemon-diamond-and-pearl-galactic-battles",
+        "episodeId": "pokemon-diamond-and-pearl-galactic-battles-episode-1",
+        "name": "Pokémon: Diamond and Pearl: Galactic Battles",
+        "episodeNum": "52",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-diamond-and-pearl-galactic-battles.png",
+        "episodeUrl": "../pokemon-diamond-and-pearl-galactic-battles"
     },
     {
-        "animeId": "shinmai-renkinjutsushi-no-tenpo-keiei",
-        "episodeId": "shinmai-renkinjutsushi-no-tenpo-keiei-episode-2",
-        "name": "Shinmai Renkinjutsushi no Tenpo Keiei",
-        "episodeNum": "2",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/shinmai-renkinjutsushi-no-tenpo-keiei-1664394432.png",
-        "episodeUrl": "https://www1.gogoanime.ee//shinmai-renkinjutsushi-no-tenpo-keiei-episode-2"
+        "animeId": "pokemon-diamond-and-pearl-sinnoh-league-victors",
+        "episodeId": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-1",
+        "name": "Pokémon: Diamond and Pearl: Sinnoh League Victors",
+        "episodeNum": "34",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-diamond-and-pearl-sinnoh-league-victors.png",
+        "episodeUrl": "../pokemon-diamond-and-pearl-sinnoh-league-victors"
     },
     {
         "animeId": "love-live-superstar-2nd-season",
