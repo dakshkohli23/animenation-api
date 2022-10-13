@@ -117,31 +117,31 @@
         "episodeUrl": "../anime/pokemon-diamond-and-pearl-sinnoh-league-victors"
     },
     {
-        "animeId": "love-live-superstar-2nd-season",
-        "episodeId": "love-live-superstar-2nd-season-episode-12",
-        "name": "Love Live! Superstar!! 2nd Season",
-        "episodeNum": "12",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/love-live-superstar-2nd-season.png",
-        "episodeUrl": "https://www1.gogoanime.ee//love-live-superstar-2nd-season-episode-12"
+        "animeId": "pokemon-black-white",
+        "episodeId": "pokemon-black-white-episode-1",
+        "name": "Pokémon Black and White",
+        "episodeNum": "48",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-black-white.png",
+        "episodeUrl": "../anime/pokemon-black-white"
     },
     {
-        "animeId": "bleach-sennen-kessen-hen",
-        "episodeId": "bleach-sennen-kessen-hen-episode-1",
-        "name": "Bleach: Sennen Kessen-hen",
-        "episodeNum": "1",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/bleach-sennen-kessen-hen-1664387572.png",
-        "episodeUrl": "https://www1.gogoanime.ee//bleach-sennen-kessen-hen-episode-1"
+        "animeId": "pokemon-black-white-rival-destinies",
+        "episodeId": "pokemon-black-white-rival-destinies-episode-1",
+        "name": "Pokémon: Black & White: Rival Destinies",
+        "episodeNum": "49",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-black-white-rival-destinies.png",
+        "episodeUrl": "../anime/pokemon-black-white-rival-destinies"
     },
     {
-        "animeId": "cap-kakumei-bottleman-dx",
-        "episodeId": "cap-kakumei-bottleman-dx-episode-28",
-        "name": "Cap Kakumei Bottleman DX",
-        "episodeNum": "28",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/cap-kakumei-bottleman-dx.png",
-        "episodeUrl": "https://www1.gogoanime.ee//cap-kakumei-bottleman-dx-episode-28"
+        "animeId": "pokemon-black-white-adventures-in-unova-and-beyond",
+        "episodeId": "pokemon-black-white-adventures-in-unova-and-beyond",
+        "name": "Pokémon: Black & White: Adventures in Unova and Beyond",
+        "episodeNum": "45",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.png",
+        "episodeUrl": "../anime/pokemon-black-white-adventures-in-unova-and-beyond"
     },
     {
         "animeId": "punirunes",
