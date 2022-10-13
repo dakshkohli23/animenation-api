@@ -54,22 +54,22 @@
         "episodeUrl": "../pokemon-advanced"
     },
     {
-        "animeId": "vazzrock-the-animation",
-        "episodeId": "vazzrock-the-animation-episode-2",
-        "name": "Vazzrock The Animation",
-        "episodeNum": "2",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/vazzrock-the-animation.png",
-        "episodeUrl": "https://www1.gogoanime.ee//vazzrock-the-animation-episode-2"
+        "animeId": "pokemon-advanced-challenge",
+        "episodeId": "pokemon-advanced-challenge-episode-1",
+        "name": "Pokémon: Advanced Challenge",
+        "episodeNum": "52",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-advanced-challenge.png",
+        "episodeUrl": "../pokemon-advanced-challenge"
     },
     {
-        "animeId": "shinobi-no-ittoki",
-        "episodeId": "shinobi-no-ittoki-episode-2",
+        "animeId": "pokemon-advanced-battle",
+        "episodeId": "pokemon-advanced-battle-episode-1",
         "name": "Shinobi no Ittoki",
-        "episodeNum": "2",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/shinobi-no-ittoki-1664394512.png",
-        "episodeUrl": "https://www1.gogoanime.ee//shinobi-no-ittoki-episode-2"
+        "episodeNum": "52",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-advanced-battle.png",
+        "episodeUrl": "../pokemon-advanced-battle"
     },
     {
         "animeId": "meitantei-conan-hannin-no-hanzawa-san",
