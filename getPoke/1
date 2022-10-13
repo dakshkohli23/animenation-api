@@ -144,39 +144,84 @@
         "episodeUrl": "../anime/pokemon-black-white-adventures-in-unova-and-beyond"
     },
     {
-        "animeId": "punirunes",
-        "episodeId": "punirunes-episode-2",
-        "name": "Punirunes",
-        "episodeNum": "2",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/punirunes.png",
-        "episodeUrl": "https://www1.gogoanime.ee//punirunes-episode-2"
+        "animeId": "pokemon-the-series-xy",
+        "episodeId": "pokemon-the-series-xy-episode-1",
+        "name": "Pokémon the Series: XY",
+        "episodeNum": "48",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-series-xy.png",
+        "episodeUrl": "../anime/pokemon-the-series-xy"
     },
     {
-        "animeId": "chibi-maruko-chan",
-        "episodeId": "chibi-maruko-chan-episode-86",
-        "name": "Chibi Maruko-chan",
-        "episodeNum": "86",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/chibi-maruko-chan.png",
-        "episodeUrl": "https://www1.gogoanime.ee//chibi-maruko-chan-episode-86"
+        "animeId": "pokemon-the-series-xy-kalos-quest",
+        "episodeId": "pokemon-the-series-xy-kalos-quest-episode-1",
+        "name": "Pokémon the Series: XY Kalos Quest",
+        "episodeNum": "45",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-series-xy-kalos-quest.png",
+        "episodeUrl": "../anime/pokemon-the-series-xy-kalos-quest"
     },
     {
-        "animeId": "knights-of-the-zodiac-saint-seiya-battle-for-sanctuary",
-        "episodeId": "knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-12",
-        "name": "Knights of the Zodiac: Saint Seiya - Battle for Sanctuary",
-        "episodeNum": "12",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/knights-of-the-zodiac-saint-seiya-battle-for-sanctuary.png",
-        "episodeUrl": "https://www1.gogoanime.ee//knights-of-the-zodiac-saint-seiya-battle-for-sanctuary-episode-12"
+        "animeId": "pokemon-the-series-xyz",
+        "episodeId": "pokemon-the-series-xyz-episode-1",
+        "name": "Pokémon the Series: XY Kalos Quest",
+        "episodeNum": "48",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokpokemon-the-series-xyz.png",
+        "episodeUrl": "../anime/pokemon-the-series-xyz"
     },
     {
-        "animeId": "peter-grill-to-kenja-no-jikan-super-extra",
-        "episodeId": "peter-grill-to-kenja-no-jikan-super-extra-episode-1",
-        "name": "Peter Grill to Kenja no Jikan: Super Extra",
-        "episodeNum": "1",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/peter-grill-to-kenja-no-jikan-super-extra.png",
-        "episodeUrl": "https://www1.gogoanime.ee//peter-grill-to-kenja-no-jikan-super-extra-episode-1"
+        "animeId": "pokemon-the-series-sun-moon",
+        "episodeId": "pokemon-the-series-sun-moon-episode-1",
+        "name": "Pokémon the Series: Sun & Moon",
+        "episodeNum": "43",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-series-sun-moon.png",
+        "episodeUrl": "../anime/pokemon-the-series-sun-moon"
+    },
+    {
+        "animeId": "pokemon-the-series-sun-moon-ultra-adventures",
+        "episodeId": "pokemon-the-series-sun-moon-ultra-adventures-episode-1",
+        "name": "Pokémon the Series: Sun & Moon – Ultra Adventures",
+        "episodeNum": "48",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-adventures.png",
+        "episodeUrl": "../anime/pokemon-the-series-sun-moon-ultra-adventures"
+    },
+    {
+        "animeId": "pokemon-the-series-sun-moon-ultra-legends",
+        "episodeId": "pokemon-the-series-sun-moon-ultra-legends-episode-1",
+        "name": "Pokémon the Series: Sun & Moon – Ultra Legends",
+        "episodeNum": "54",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-legends.png",
+        "episodeUrl": "../anime/pokemon-the-series-sun-moon-ultra-legends"
+    },
+    {
+        "animeId": "pokemon-journeys-the-series",
+        "episodeId": "pokemon-journeys-the-series-episode-1",
+        "name": "Pokémon Journeys: The Series",
+        "episodeNum": "48",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-journeys-the-series.png",
+        "episodeUrl": "../anime/pokemon-journeys-the-series"
+    },
+    {
+        "animeId": "pokemon-master-journeys-the-series",
+        "episodeId": "pokemon-master-journeys-the-series-episode-1",
+        "name": "Pokémon Master Journeys: The Series",
+        "episodeNum": "42",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-master-journeys-the-series.png",
+        "episodeUrl": "../anime/pokemon-master-journeys-the-series"
+    },
+    {
+        "animeId": "pokemon-ultimate-journeys",
+        "episodeId": "pokemon-ultimate-journeys-episode-1",
+        "name": "Pokémon Ultimate Journeys: The Series",
+        "episodeNum": "20",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-ultimate-journeys.png",
+        "episodeUrl": "../anime/pokemon-ultimate-journeys"
     }
 ]
