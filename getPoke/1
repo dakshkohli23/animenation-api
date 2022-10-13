@@ -28,7 +28,7 @@
     },
     {
         "animeId": "pokemon-johto-league-champions",
-        "episodeId": "pokemon-johto-league-champions-episode-11",
+        "episodeId": "pokemon-johto-league-champions-episode-1",
         "name": "Pokémon Johto League Champions",
         "episodeNum": "52",
         "subOrDub": "DUB",
@@ -36,22 +36,22 @@
         "episodeUrl": "../pokemon-johto-league-champions"
     },
     {
-        "animeId": "chainsaw-man",
-        "episodeId": "chainsaw-man-episode-1",
-        "name": "Chainsaw Man",
-        "episodeNum": "1",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/chainsaw-man-1664388043.png",
-        "episodeUrl": "https://www1.gogoanime.ee//chainsaw-man-episode-1"
+        "animeId": "pokemon-master-quest",
+        "episodeId": "pokemon-master-quest-episode-1",
+        "name": "Pokémon: Master Quest",
+        "episodeNum": "65",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-master-quest.png",
+        "episodeUrl": "../pokemon-master-quest"
     },
     {
-        "animeId": "yama-no-susume-next-summit",
-        "episodeId": "yama-no-susume-next-summit-episode-2",
-        "name": "Yama no Susume: Next Summit",
-        "episodeNum": "2",
-        "subOrDub": "SUB",
-        "imgUrl": "https://gogocdn.net/cover/yama-no-susume-next-summit-1664395028.png",
-        "episodeUrl": "https://www1.gogoanime.ee//yama-no-susume-next-summit-episode-2"
+        "animeId": "pokemon-advanced",
+        "episodeId": "pokemon-advanced-episode-1",
+        "name": "Pokémon Advanced",
+        "episodeNum": "40",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-advanced.png",
+        "episodeUrl": "../pokemon-advanced"
     },
     {
         "animeId": "vazzrock-the-animation",
