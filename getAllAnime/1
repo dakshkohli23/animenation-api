@@ -6,6 +6,7 @@
         "episodeNum": "82",
         "subOrDub": "DUB",
         "imgUrl": "../cover/pokemon-indigo-league.png",
-        "episodeUrl": "../anime/pokemon-indigo-league"
+        "episodeUrl": "../anime/pokemon-indigo-league",
+		"type": "TV"
     }
 ]
