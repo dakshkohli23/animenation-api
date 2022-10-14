@@ -1,10 +1,11 @@
 [
     {
-        "animeTitle": "Pokémon: Indigo League",
         "animeId": "pokemon-indigo-league",
-		subOrDub": "DUB",
-		"episodeNum": "82",
-		"imgUrl": "../cover/pokemon-indigo-league.png",
-        "liTitle": "<div class=\"thumnail_tool\"><img src=\"https://gogocdn.net/images/anime/5745.jpg\" onerror=\"this.className=`hide`\"></div><div style=\"float: left; width: 300px\"><a class=\"bigChar\" href=\"\">.Hack//G.U. Returner</a><p class=\"type\"><span>Genre: </span><a href=\"https://gogoanime.dk/genre/adventure\" title=\"Adventure\">Adventure</a><a href=\"https://gogoanime.dk/genre/drama\" title=\"Drama\">, Drama</a><a href=\"https://gogoanime.dk/genre/game\" title=\"Game\">, Game</a><a href=\"https://gogoanime.dk/genre/harem\" title=\"Harem\">, Harem</a><a href=\"https://gogoanime.dk/genre/martial-arts\" title=\"Martial Arts\">, Martial Arts</a><a href=\"https://gogoanime.dk/genre/seinen\" title=\"Seinen\">, Seinen</a></p><p class=\"type\"><span>Released: </span>2007</p><p class=\"type\"><span>Status: </span> Completed</p><p class=\"sumer\"><span>Plot Summary: </span> hack//G.U. Returner is a single-episode OVA offered to fans who completed all three GU Games, featuring characters from the .hack//G.U. Games and .hack//Roots.</p></div>"
+        "episodeId": "pokemon-indigo-league-episode-1",
+        "name": "Pokémon: Indigo League",
+        "episodeNum": "82",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-indigo-league.png",
+        "episodeUrl": "../anime/pokemon-indigo-league"
     }
 ]
