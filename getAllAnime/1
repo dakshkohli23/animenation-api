@@ -7,6 +7,246 @@
         "subOrDub": "DUB",
         "imgUrl": "../cover/pokemon-indigo-league.png",
         "episodeUrl": "../anime/pokemon-indigo-league",
-		"type": "TV"
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-adventures-in-the-orange-islands",
+        "episodeId": "pokemon-adventures-in-the-orange-islands-episode-1",
+        "name": "Pokémon: Adventures in the Orange Islands",
+        "episodeNum": "36",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-adventures-in-the-orange-islands.png",
+        "episodeUrl": "../anime/pokemon-adventures-in-the-orange-islands",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-the-johto-journeys",
+        "episodeId": "pokemon-the-johto-journeys-episode-1",
+        "name": "Pokémon: The Johto Journeys",
+        "episodeNum": "41",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-johto-journeys.png",
+        "episodeUrl": "../anime/pokemon-the-johto-journeys",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-johto-league-champions",
+        "episodeId": "pokemon-johto-league-champions-episode-1",
+        "name": "Pokémon Johto League Champions",
+        "episodeNum": "52",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-johto-league-champions.png",
+        "episodeUrl": "../anime/pokemon-johto-league-champions",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-master-quest",
+        "episodeId": "pokemon-master-quest-episode-1",
+        "name": "Pokémon: Master Quest",
+        "episodeNum": "65",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-master-quest.png",
+        "episodeUrl": "../anime/pokemon-master-quest",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-advanced",
+        "episodeId": "pokemon-advanced-episode-1",
+        "name": "Pokémon Advanced",
+        "episodeNum": "40",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-advanced.png",
+        "episodeUrl": "../anime/pokemon-advanced",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-advanced-challenge",
+        "episodeId": "pokemon-advanced-challenge-episode-1",
+        "name": "Pokémon: Advanced Challenge",
+        "episodeNum": "52",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-advanced-challenge.png",
+        "episodeUrl": "../anime/pokemon-advanced-challenge",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-advanced-battle",
+        "episodeId": "pokemon-advanced-battle-episode-1",
+        "name": "Pokémon: Advanced Battle",
+        "episodeNum": "52",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-advanced-battle.png",
+        "episodeUrl": "../anime/pokemon-advanced-battle",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-battle-frontier",
+        "episodeId": "pokemon-battle-frontier-episode-1",
+        "name": "Pokémon: Battle Frontier",
+        "episodeNum": "47",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-battle-frontier.png",
+        "episodeUrl": "../anime/pokemon-battle-frontier",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-diamond-and-pearl",
+        "episodeId": "pokemon-diamond-and-pearl-episode-1",
+        "name": "Pokémon Diamond and Pearl",
+        "episodeNum": "51",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-diamond-and-pearl.png",
+        "episodeUrl": "../anime/pokemon-diamond-and-pearl",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-diamond-and-pearl-battle-dimension",
+        "episodeId": "pokemon-diamond-and-pearl-battle-dimension-episode-1",
+        "name": "Pokémon: Diamond and Pearl: Battle Dimension",
+        "episodeNum": "52",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-diamond-and-pearl-battle-dimension.png",
+        "episodeUrl": "../anime/pokemon-diamond-and-pearl-battle-dimension",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-diamond-and-pearl-galactic-battles",
+        "episodeId": "pokemon-diamond-and-pearl-galactic-battles-episode-1",
+        "name": "Pokémon: Diamond and Pearl: Galactic Battles",
+        "episodeNum": "52",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-diamond-and-pearl-galactic-battles.png",
+        "episodeUrl": "../anime/pokemon-diamond-and-pearl-galactic-battles",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-diamond-and-pearl-sinnoh-league-victors",
+        "episodeId": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-1",
+        "name": "Pokémon: Diamond and Pearl: Sinnoh League Victors",
+        "episodeNum": "34",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-diamond-and-pearl-sinnoh-league-victors.png",
+        "episodeUrl": "../anime/pokemon-diamond-and-pearl-sinnoh-league-victors",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-black-white",
+        "episodeId": "pokemon-black-white-episode-1",
+        "name": "Pokémon Black and White",
+        "episodeNum": "48",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-black-white.png",
+        "episodeUrl": "../anime/pokemon-black-white",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-black-white-rival-destinies",
+        "episodeId": "pokemon-black-white-rival-destinies-episode-1",
+        "name": "Pokémon: Black & White: Rival Destinies",
+        "episodeNum": "49",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-black-white-rival-destinies.png",
+        "episodeUrl": "../anime/pokemon-black-white-rival-destinies",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-black-white-adventures-in-unova-and-beyond",
+        "episodeId": "pokemon-black-white-adventures-in-unova-and-beyond",
+        "name": "Pokémon: Black & White: Adventures in Unova and Beyond",
+        "episodeNum": "45",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.png",
+        "episodeUrl": "../anime/pokemon-black-white-adventures-in-unova-and-beyond",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-the-series-xy",
+        "episodeId": "pokemon-the-series-xy-episode-1",
+        "name": "Pokémon the Series: XY",
+        "episodeNum": "48",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-series-xy.png",
+        "episodeUrl": "../anime/pokemon-the-series-xy",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-the-series-xy-kalos-quest",
+        "episodeId": "pokemon-the-series-xy-kalos-quest-episode-1",
+        "name": "Pokémon the Series: XY Kalos Quest",
+        "episodeNum": "45",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-series-xy-kalos-quest.png",
+        "episodeUrl": "../anime/pokemon-the-series-xy-kalos-quest",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-the-series-xyz",
+        "episodeId": "pokemon-the-series-xyz-episode-1",
+        "name": "Pokémon the Series: XYZ",
+        "episodeNum": "48",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-series-xyz.png",
+        "episodeUrl": "../anime/pokemon-the-series-xyz",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-the-series-sun-moon",
+        "episodeId": "pokemon-the-series-sun-moon-episode-1",
+        "name": "Pokémon the Series: Sun & Moon",
+        "episodeNum": "43",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-series-sun-moon.png",
+        "episodeUrl": "../anime/pokemon-the-series-sun-moon",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-the-series-sun-moon-ultra-adventures",
+        "episodeId": "pokemon-the-series-sun-moon-ultra-adventures-episode-1",
+        "name": "Pokémon the Series: Sun & Moon – Ultra Adventures",
+        "episodeNum": "48",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-adventures.png",
+        "episodeUrl": "../anime/pokemon-the-series-sun-moon-ultra-adventures",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-the-series-sun-moon-ultra-legends",
+        "episodeId": "pokemon-the-series-sun-moon-ultra-legends-episode-1",
+        "name": "Pokémon the Series: Sun & Moon – Ultra Legends",
+        "episodeNum": "54",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-legends.png",
+        "episodeUrl": "../anime/pokemon-the-series-sun-moon-ultra-legends",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-journeys-the-series",
+        "episodeId": "pokemon-journeys-the-series-episode-1",
+        "name": "Pokémon Journeys: The Series",
+        "episodeNum": "48",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-journeys-the-series.png",
+        "episodeUrl": "../anime/pokemon-journeys-the-series",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-master-journeys-the-series",
+        "episodeId": "pokemon-master-journeys-the-series-episode-1",
+        "name": "Pokémon Master Journeys: The Series",
+        "episodeNum": "42",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-master-journeys-the-series.png",
+        "episodeUrl": "../anime/pokemon-master-journeys-the-series",
+		"type": "Dub"
+    },
+    {
+        "animeId": "pokemon-ultimate-journeys",
+        "episodeId": "pokemon-ultimate-journeys-episode-1",
+        "name": "Pokémon Ultimate Journeys: The Series",
+        "episodeNum": "20",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/pokemon-ultimate-journeys.png",
+        "episodeUrl": "../anime/pokemon-ultimate-journeys",
+		"type": "Dub"
     }
 ]
