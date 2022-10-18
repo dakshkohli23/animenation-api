@@ -1,0 +1,12 @@
+[
+    {
+        "animeId": "attack-on-titan",
+        "episodeId": "attack-on-titan-episode-1",
+        "name": "Attack On Titan",
+        "episodeNum": "25",
+        "subOrDub": "DUB",
+        "imgUrl": "../cover/attack-on-titan.png",
+        "episodeUrl": "../anime/attack-on-titan",
+		    "type": "Dub"
+    }
+]
