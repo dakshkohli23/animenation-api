@@ -31,7 +31,8 @@
       ],
       "totalEpisodes": 12,
       "duration": 25,
-      "type": "TV"
+      "type": "TV",
+	  "animeUrl": "/anime/chainsaw-man"
     },
 	{
       "id": "124395",
@@ -61,7 +62,8 @@
       ],
       "totalEpisodes": 13,
       "duration": 24,
-      "type": "TV"
+      "type": "TV",
+	  "animeUrl": "/anime/uzaki-chan-wa-asobitai-double"
     },
     {
       "id": "139630",
@@ -90,7 +92,8 @@
       ],
       "totalEpisodes": 25,
       "duration": 24,
-      "type": "TV"
+      "type": "TV",
+	  "animeUrl": "/anime/boku-no-hero-academia-6th-season"
     },
     {
       "id": "142838",
@@ -116,7 +119,8 @@
       ],
       "totalEpisodes": 13,
       "duration": 24,
-      "type": "TV"
+      "type": "TV",
+	  "animeUrl": "/anime/spy-x-family-part-2"
     },	
     {
       "id": "131520",
@@ -146,7 +150,8 @@
       ],
       "totalEpisodes": 1,
       "duration": "2hr 16min",
-      "type": "Movie"
+      "type": "Movie",
+	  "animeUrl": "/anime/5-toubun-no-hanayome-movie"
     },
     {
       "id": "21",
@@ -173,7 +178,8 @@
       ],
       "totalEpisodes": 1040,
       "duration": 24,
-      "type": "TV"
+      "type": "TV",
+	  "animeUrl": "/anime/one-piece"
     },
     {
       "id": "137822",
@@ -202,8 +208,8 @@
       ],
       "totalEpisodes": 24,
       "duration": 25,
-      "type": "TV"
-    },
+      "type": "TV",
+	  "animeUrl": "/anime/blue-lock"
     
     {
       "id": "131573",
@@ -227,7 +233,8 @@
       ],
       "totalEpisodes": 1,
       "duration": "1hr 45",
-      "type": "Movie"
+      "type": "Movie",
+	  "animeUrl": "/anime/jujutsu-kaisen-0"
     },
     {
       "id": "140439",
@@ -258,7 +265,8 @@
       ],
       "totalEpisodes": 5,
       "duration": 24,
-      "type": "TV"
+      "type": "TV",
+	  "animeUrl": "/anime/mob-psycho-100-iii"
     }
   ]
 }
