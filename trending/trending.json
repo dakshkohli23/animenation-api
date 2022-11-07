@@ -1,0 +1,87 @@
+<!--Slider --->
+
+<div class="wrapper">
+
+  <div class="slider-content">
+    <div class="bg-shape">
+      <img src="https://res.cloudinary.com/muhammederdem/image/upload/q_60/v1536405214/starwars/logo.webp" alt="">
+    </div>
+
+    <div class="product-img">
+<?php 
+    $json = file_get_contents("https://api.consumet.org/meta/anilist/trending");
+    $json = json_decode($json, true);
+    foreach($json['results'] as $key => $spotlight) { ?>
+	<?php $title = $spotlight['title']; { ?>
+      <div class="product-img__item" id="img<?=$key+1?>">
+        <img src="<?=$spotlight['image']?>" alt="<?=$title['romaji']?>" class="product-img__img">
+      </div>
+	 <?php } ?>
+	 <?php } ?>
+
+    </div>
+
+
+
+    <div class="product-slider">
+      <button class="prev disabled">
+        <span class="icon">
+          <svg class="icon icon-arrow-right"><use xlink:href="#icon-arrow-left"></use></svg>
+        </span>
+      </button>
+      <button class="next">
+        <span class="icon">
+          <svg class="icon icon-arrow-right"><use xlink:href="#icon-arrow-right"></use></svg>
+        </span>
+      </button>
+
+      <div class="product-slider__wrp swiper-wrapper">
+	  <?php 
+    $json = file_get_contents("https://api.consumet.org/meta/anilist/trending");
+    $json = json_decode($json, true);
+    foreach($json['results'] as $key => $spotlight) { ?>
+    <?php $title = $spotlight['title']; { ?>
+        <div class="product-slider__item swiper-slide" data-target="img<?=$key+1?>">
+          <div class="product-slider__card">
+            <img src="<?=$spotlight['cover']?>" alt="<?=$title['romaji']?>" class="product-slider__cover">
+            <div class="product-slider__content">
+              <h1 class="product-slider__title"><?=$title['romaji']?></h1>
+              <span class="product-slider__tag"><?=$spotlight['type'];?></span>
+              <span class="product-slider__tag">HD</span>
+              <span class="product-slider__tag"><?=$spotlight['status'];?></span>
+              <span class="product-slider__tag"><?=$spotlight['releaseDate'];?></span>
+			  
+              <div class="product-ctr">
+                <div class="product-labels">
+                  <div class="product-labels__title"><?=substr($spotlight['description'],0,250)?></div>
+                </div>
+              </div>
+
+              <div class="product-slider__bottom">
+                <button class="product-slider__cart">
+				<?php $trailer = $spotlight['trailer']; { ?>
+                   <a href="https://www.youtube.com/watch?v=<?=$trailer['id']?>"><i class="fa-solid fa-play"></i> Watch Trailer </a>
+				 <?php } ?>
+                </button>
+				<button class="product-slider__cart">
+                  <a href="../anilist/info?id=<?=$spotlight['id']?>"> <i class="fa-solid fa-circle-info"></i> Details</a>
+                </button>
+              
+              </div>
+            </div>
+          </div>
+        </div>
+		
+    <?php } ?>
+    <?php } ?>
+	
+
+      </div>
+    </div>
+
+  </div>
+
+
+</div>
+
+<!--Slider End-->
