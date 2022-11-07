@@ -93,31 +93,61 @@
       "type": "TV"
     },
     {
-      "id": "21",
-      "malId": 21,
+      "id": "142838",
+      "malId": 50602,
       "title": {
-        "romaji": "ONE PIECE",
-        "english": "ONE PIECE",
-        "native": "ONE PIECE",
-        "userPreferred": "ONE PIECE"
+        "romaji": "SPY×FAMILY Part 2",
+        "english": "SPY x FAMILY Cour 2",
+        "native": "SPY×FAMILY 2クール",
+        "userPreferred": "SPY×FAMILY"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-ECZSqfknAqAT.jpg",
       "trailer": {},
-      "description": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.<br><br>\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach One Piece.<br><br>\n<b>*This includes following special episodes:</b><br>\n- Chopperman to the Rescue! Protect the TV Station by the Shore! (Episode 336)<br>\n- The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! (Episode 492)<br>\n- Team Formation! Save Chopper (Episode 542)<br>\n- History's Strongest Collaboration vs. Glutton of the Sea (Episode 590)<br>\n- 20th Anniversary! Special Romance Dawn (Episode 907)",
+      "description": "The second half of SPYxFAMILY.",
       "status": "Airing",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
-      "rating": 87,
-      "releaseDate": 1999,
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142838-tynuN00wxmKO.jpg",
+      "rating": 85,
+      "releaseDate": 2022,
       "genres": [
         "Action",
-        "Adventure",
         "Comedy",
-        "Drama",
-        "Fantasy"
+        "Slice of Life",
+        "Supernatural"
       ],
-      "totalEpisodes": 1039,
+      "totalEpisodes": 13,
       "duration": 24,
       "type": "TV"
+    },
+	
+    {
+      "id": "131520",
+      "malId": 39783,
+      "title": {
+        "romaji": "Go-toubun no Hanayome Movie",
+        "english": "The Quintessential Quintuplets Movie",
+        "native": "映画 五等分の花嫁",
+        "userPreferred": "Quintessential Quintuplets"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131520-kCOY9XBAbMcX.png",
+      "trailer": {
+        "id": "GTjfXPANIXY",
+        "site": "youtube",
+        "thumbnail": "http://img.youtube.com/vi/GTjfXPANIXY/default.jpg"
+	  },
+      "description": "A sequel film to Go-toubun no Hanayome ∬. When five lovely young girls who hate studying hire part-time tutor Futaro, he guides not only their education but also their hearts. Time spent has brought them all closer, with feelings growing within the girls and Futaro. As they finish their third year of high school and their last school festival approaches, they set their sights on what’s next. Is there a future with one of them and Futaro?",
+      "status": "Airing",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131520-4T10viyUm9Rd.jpg",
+      "rating": 81,
+      "releaseDate": 2022,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "totalEpisodes": 1,
+      "duration": "2hr 16min",
+      "type": "Movie"
     },
     {
       "id": "137822",
