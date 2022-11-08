@@ -1,12 +1,12 @@
 [
     {
-        "animeId": "jujutsu-kaisen",
-        "episodeId": "jujutsu-kaisen-episode-01",
+        "animeId": "jujutsu-kaisen-tv",
+        "episodeId": "jujutsu-kaisen-tv-episode-01",
         "name": "Jujutsu Kaisen",
         "episodeNum": "24",
         "subOrDub": "sub",
         "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
-        "episodeUrl": "watch/jujutsu-kaisen-episode-01"
+        "episodeUrl": "watch/jujutsu-kaisen-tv-episode-01"
     },
     {
         "animeId": "one-piece",
