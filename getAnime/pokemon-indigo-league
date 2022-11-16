@@ -48,21 +48,21 @@
   "type": "TV",
   "recommendations": [
     {
-      "id": 11061,
-      "malId": 11061,
+      "id": 527,
+      "malId": 527,
       "title": {
-        "romaji": "HUNTER×HUNTER (2011)",
-        "english": "Hunter x Hunter (2011)",
-        "native": "HUNTER×HUNTER (2011)",
-        "userPreferred": "HUNTER×HUNTER (2011)"
+        "romaji": "Pokémon: Adventures in the Orange Islands",
+        "english": "Pokémon: Adventures in the Orange Islands",
+        "native": "Pokémon: Adventures in the Orange Islands",
+        "userPreferred": "Pokémon: Adventures in the Orange Islands"
       },
       "status": "Completed",
-      "episodes": 148,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png",
+      "episodes": 36,
+      "image": "../cover/pokemon-adventures-in-the-orange-islands.png",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11061-8WkkTZ6duKpq.jpg",
-      "rating": 89,
+      "rating": 71,
       "type": "TV",
-	  "animeurl": "hunter-x-hunter-2011"
+	  "animeurl": "pokemon-adventures-in-the-orange-islands"
     },
     {
       "id": 269,
