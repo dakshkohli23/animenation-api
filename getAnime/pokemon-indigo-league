@@ -82,21 +82,21 @@
 	  "animeurl": "pokemon-the-johto-journeys"
     },
     {
-      "id": 20605,
-      "malId": 22319,
+      "id": 527,
+      "malId": 527,
       "title": {
-        "romaji": "Tokyo Ghoul",
-        "english": "Tokyo Ghoul",
-        "native": "東京喰種 トーキョーグール",
-        "userPreferred": "Tokyo Ghoul"
+        "romaji": "Pokémon: Johto League Champions",
+        "english": "Pokémon: Johto League Champions",
+        "native": "Pokémon: Johto League Champions",
+        "userPreferred": "Pokémon: Johto League Champions"
       },
       "status": "Completed",
-      "episodes": 12,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20605-fmnHdfurM7m6.jpg",
+      "episodes": 52,
+      "image": "../cover/pokemon-johto-league-champions.png",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20605-RCJ7M71zLmrh.jpg",
-      "rating": 75,
+      "rating": 71,
       "type": "TV",
-	  "animeurl": "tokyo-ghoul"
+	  "animeurl": "pokemon-johto-league-champions"
     },
     {
       "id": 20447,
