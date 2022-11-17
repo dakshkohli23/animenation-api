@@ -9,7 +9,7 @@
   "synonyms": [
     "Pokémon",
     "Pokémon: Indigo League",
-    "Pokémon Season 01"
+    "Pokémon Season: 1"
   ],
   "isLicensed": true,
   "isAdult": false,
@@ -53,7 +53,7 @@
       "title": {
         "romaji": "Pokémon: Adventures in the Orange Islands",
         "english": "Pokémon: Adventures in the Orange Islands",
-        "native": "Pokémon: Adventures in the Orange Islands",
+        "native": "ポケットモンスター",
         "userPreferred": "Pokémon: Adventures in the Orange Islands"
       },
       "status": "Completed",
@@ -70,7 +70,7 @@
       "title": {
         "romaji": "Pokémon: The Johto Journeys",
         "english": "Pokémon: The Johto Journeys",
-        "native": "Pokémon: The Johto Journeys",
+        "native": "ポケットモンスター",
         "userPreferred": "Pokémon: The Johto Journeys"
       },
       "status": "Completed",
@@ -87,7 +87,7 @@
       "title": {
         "romaji": "Pokémon: Johto League Champions",
         "english": "Pokémon: Johto League Champions",
-        "native": "Pokémon: Johto League Champions",
+        "native": "ポケットモンスター",
         "userPreferred": "Pokémon: Johto League Champions"
       },
       "status": "Completed",
@@ -99,21 +99,21 @@
 	  "animeurl": "pokemon-johto-league-champions"
     },
     {
-      "id": 20447,
-      "malId": 20507,
+      "id": 527,
+      "malId": 527,
       "title": {
-        "romaji": "Noragami",
-        "english": "Noragami",
-        "native": "ノラガミ",
-        "userPreferred": "Noragami"
+        "romaji": "Pokémon: Master Quest",
+        "english": "Pokémon: Master Quest",
+        "native": "ポケットモンスター",
+        "userPreferred": "Pokémon: Master Quest"
       },
       "status": "Completed",
-      "episodes": 12,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
+      "episodes": 65,
+      "image": "../cover/pokemon-master-quest.png",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20447-nlgQQzcgWbgw.jpg",
-      "rating": 78,
+      "rating": 71,
       "type": "TV",
-	  "animeurl": "noragami"
+	  "animeurl": "pokemon-master-quest"
     },
     {
       "id": 20,
