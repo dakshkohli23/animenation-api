@@ -9,7 +9,7 @@
   "synonyms": [
     "Pokémon",
     "Pokémon: Indigo League",
-    "Pokémon Season: 1"
+    "Pokémon Season 01"
   ],
   "isLicensed": true,
   "isAdult": false,
@@ -116,21 +116,21 @@
 	  "animeurl": "pokemon-master-quest"
     },
     {
-      "id": 20,
-      "malId": 20,
+      "id": 1564,
+      "malId": 1564,
       "title": {
-        "romaji": "NARUTO",
-        "english": "Naruto",
-        "native": "NARUTO -ナルト-",
-        "userPreferred": "NARUTO"
+        "romaji": "Pokémon: Advanced",
+        "english": "Pokémon: Advanced",
+        "native": "ポケットモンスター　アドバンスジェネレーション",
+        "userPreferred": "Pokémon: Advanced"
       },
       "status": "Completed",
-      "episodes": 220,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+      "episodes": 40,
+      "image": "../cover/pokemon-advanced.png",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20-HHxhPj5JD13a.jpg",
-      "rating": 79,
+      "rating": 68,
       "type": "TV",
-	  "animeurl": "naruto"
+	  "animeurl": "pokemon-advanced"
     },
     {
       "id": 101922,
