@@ -145,43 +145,43 @@
       "episodes": 52,
       "image": "../cover/pokemon-advanced-challenge.png",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101922-YfZhKBUDDS6L.jpg",
-      "rating": 84,
+      "rating": 68,
       "type": "TV",
 	  "animeurl": "pokemon-advanced-challenge"
     },
     {
-      "id": 21507,
-      "malId": 32182,
+      "id": 1564,
+      "malId": 1564,
       "title": {
-        "romaji": "Mob Psycho 100",
-        "english": "Mob Psycho 100",
-        "native": "モブサイコ100",
-        "userPreferred": "Mob Psycho 100"
+        "romaji": "Pokémon: Advanced Battle",
+        "english": "Pokémon: Advanced Battle",
+        "native": "ポケットモンスター　アドバンスジェネレーション",
+        "userPreferred": "Pokémon: Advanced Battle"
       },
       "status": "Completed",
-      "episodes": 12,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-BICFCVZY3xQb.jpg",
+      "episodes": 52,
+      "image": "../cover/pokemon-advanced-battle.png",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21507-Qx8bGsLXUgLo.jpg",
-      "rating": 84,
+      "rating": 68,
       "type": "TV",
-	  "animeurl": "mob-psycho-100"
+	  "animeurl": "pokemon-advanced-battle"
     },
     {
-      "id": 112151,
-      "malId": 40456,
+      "id": 1564,
+      "malId": 1564,
       "title": {
-        "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen",
-        "english": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-        "native": "鬼滅の刃 無限列車編",
-        "userPreferred": "Kimetsu no Yaiba: Mugen Ressha-hen"
+        "romaji": "Pokémon: Battle Frontier",
+        "english": "Pokémon: Battle Frontier",
+        "native": "ポケットモンスター　アドバンスジェネレーション",
+        "userPreferred": "Pokémon: Battle Frontier"
       },
       "status": "Completed",
-      "episodes": 1,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
+      "episodes": 47,
+      "image": "../cover/pokemon-battle-frontier.png",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
-      "rating": 85,
-      "type": "MOVIE",
-	  "animeurl": "kimetsu-no-yaiba-mugen-ressha-hen"
+      "rating": 68,
+      "type": "TV",
+	  "animeurl": "pokemon-battle-frontier"
     }
   ],
   "characters": [
