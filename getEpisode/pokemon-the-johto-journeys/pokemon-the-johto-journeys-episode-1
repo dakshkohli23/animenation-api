@@ -8,7 +8,7 @@
             "alias": "pokemon-the-johto-journeys",
             "episode_page": "\n  <li>\n  <a href=\"#\" class=\"active\" ep_start=\"0\" ep_end=\"41\">0-41</a>\n    </li>\n \n",
             "nextEpText": "Pokémon: The Johto Journeys 2 >>",
-            "nextEpLink": "/pokemon-the-johto-journeys-episode-2"
-	"prevEpText": "",
+            "nextEpLink": "/pokemon-the-johto-journeys-episode-2",
+	    "prevEpText": "",
             "prevEpLink": ""
         }
