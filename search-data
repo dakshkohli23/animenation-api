@@ -9,7 +9,7 @@
   },
   {
     "name":"Pokemon: Indigo League ",
-    "image": "/cover/pokemon-indigo-league",
+    "image": "../cover/pokemon-indigo-league",
     "location":"/anime/pokemon-indigo-league",
     "type": "TV",
     "season": "Spring 1997",
