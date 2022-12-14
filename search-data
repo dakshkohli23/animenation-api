@@ -6,5 +6,13 @@
     "type": "TV",
     "season": "Fall 2020",
     "duration": "24"
+  },
+  {
+    "name":"Pokemon: Indigo League ",
+    "image": "/cover/pokemon-indigo-league",
+    "location":"/anime/pokemon-indigo-league",
+    "type": "TV",
+    "season": "Spring 1997",
+    "duration": "82"
   }
 ]
