@@ -52,6 +52,23 @@
   "subOrDub": "dub",
   "type": "TV",
   "recommendations": [
+  {
+      "id": 9107,
+      "malId": 9107,
+      "title": {
+        "romaji": "Pokémon: Black & White: Rival Destinies",
+        "english": "Pokémon: Black & White: Rival Destinies",
+        "native": "ポケットモンスター ベストウイッシュ シーズン2",
+        "userPreferred": "Pokémon: Black & White: Rival Destinies"
+      },
+      "status": "Completed",
+      "episodes": 49,
+      "image": "../cover/pokemon-black-white-rival-destinies.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
+      "rating": 70,
+      "type": "TV",
+	  "animeurl": "pokemon-black-white-rival-destinies"
+    },
     {
       "id": 17873,
       "malId": 17873,
