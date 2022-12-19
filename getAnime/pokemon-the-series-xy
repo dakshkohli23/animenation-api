@@ -63,28 +63,11 @@
       },
       "status": "Completed",
       "episodes": 45,
-      "image": "../cover/pokemon-black-white-rival-destinies-adventures-in-unova-and-beyond.png",
+      "image": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.png",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
       "rating": 70,
       "type": "TV",
 	  "animeurl": "pokemon-black-white-rival-destinies-adventures-in-unova-and-beyond"
-    },
-    {
-      "id": 19291,
-      "malId": 19291,
-      "title": {
-        "romaji": "Pokémon The Series: XY Kalos Quest",
-        "english": "Pokémon The Series: XY",
-        "native": "ポケットモンスターXY",
-        "userPreferred": "Pokemon XY"
-      },
-      "status": "Completed",
-      "episodes": 48,
-      "image": "../cover/pokemon-the-series-xy.png",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
-      "rating": 70,
-      "type": "TV",
-	  "animeurl": "pokemon-the-series-xy"
     },
     {
       "id": 19291,
