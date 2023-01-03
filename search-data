@@ -5,14 +5,24 @@
     "location":"/anime/jujutsu-kaisen-tv",
     "type": "TV",
     "season": "Fall 2020",
-    "duration": "24"
+    "episode": "24"
   },
   {
-    "name":"Pokemon: Indigo League ",
+    "name":"Pokemon: Indigo League",
     "image": "../cover/pokemon-indigo-league.png",
     "location":"/anime/pokemon-indigo-league",
     "type": "TV",
     "season": "Spring 1997",
-    "duration": "82"
+    "episode": "82"
+  },
+  {
+    "name":"Pokemon: Adventures in the Orange Islands",
+    "image": "../cover/pokemon-adventures-in-the-orange-islands.png",
+    "location":"/anime/pokemon-adventures-in-the-orange-islands",
+    "type": "TV",
+    "season": "Winter 1999",
+    "episode": "36"
   }
+  
 ]
+
