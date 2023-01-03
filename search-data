@@ -30,6 +30,14 @@
     "type": "TV",
     "season": "Fall 1999",
     "episode": "41"
+  },
+  {
+    "name":"Pokemon: Johto League Champions",
+    "image": "../cover/pokemon-johto-league-champions.png",
+    "location":"/anime/pokemon-johto-league-champions",
+    "type": "TV",
+    "season": "Summer 2001",
+    "episode": "52"
   }
   
 ]
