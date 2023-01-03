@@ -212,18 +212,18 @@
       "id": 112153,
       "malId": 112153,
       "title": {
-        "romaji": "Pokémon Journeys: The Series",
-        "english": "Pokémon Journeys: The Series",
+        "romaji": "Pokémon Master Journeys: The Series",
+        "english": "Pokémon Master Journeys: The Series",
         "native": "ポケットモンスター (2019)",
-        "userPreferred": "Pokemon Journeys: The Series, Pokemon 2019"
+        "userPreferred": "Pokemon Master Journeys: The Series, Pokemon 2019"
       },
       "status": "Completed",
-      "episodes": 45,
+      "episodes": 42,
       "image": "../cover/pokemon-journeys-the-series.png",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112153-01RDuvgGTXjp.jpg",
       "rating": 72,
       "type": "TV",
-	  "animeurl": "pokemon-journeys-the-series"
+	  "animeurl": "pokemon-master-journeys-the-series"
     }
   ],
   "characters": [
