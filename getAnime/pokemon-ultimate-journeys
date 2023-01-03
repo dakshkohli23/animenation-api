@@ -36,11 +36,11 @@
     "day": 17
   },
   "endDate": {
-    "year": "",
-    "month": "",
-    "day": ""
+    "year": "?",
+    "month": ,
+    "day": 
   },
-  "totalEpisodes": 46,
+  "totalEpisodes": 28,
   "rating": 73,
   "duration": 24,
   "genres": [
@@ -2664,96 +2664,6 @@
       "id": "pokemon-ultimate-journeys-episode-28",
       "title": "Pokémon Ultimate Journeys: The Series Episode 28",
       "number": 28
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-29",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-30",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-31",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-32",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-33",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-34",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-35",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-36",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-37",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-38",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-39",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-40",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-41",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-42",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-43",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-44",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-45",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 45",
-      "number": 45
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-46",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 46",
-      "number": 46
     }
   ]
 }
