@@ -22,6 +22,14 @@
     "type": "TV",
     "season": "Winter 1999",
     "episode": "36"
+  },
+  {
+    "name":"Pokemon: The Johto Journeys",
+    "image": "../cover/pokemon-the-johto-journeys.png",
+    "location":"/anime/pokemon-the-johto-journeys",
+    "type": "TV",
+    "season": "Fall 1999",
+    "episode": "41"
   }
   
 ]
