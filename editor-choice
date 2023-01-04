@@ -5,5 +5,12 @@
     "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png",
     "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127230-uv8EA5WiTc7d.jpg",
     "animeUrl": "/anime/chainsaw-man"
+  },
+  {
+    "animeId": "one-piece",
+    "animeTitle": "One Piece",
+    "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg",
+    "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+    "animeUrl": "/anime/one-piece"
   }
 ]
