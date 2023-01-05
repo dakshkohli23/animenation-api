@@ -38,7 +38,174 @@
     "type": "TV",
     "season": "Summer 2001",
     "episode": "52"
+  },
+  {
+    "name":"Pokemon: Master Quest",
+    "image": "../cover/pokemon-master-quest.png",
+    "location":"/anime/pokemon-master-quest",
+    "type": "TV",
+    "season": "Summer 2001",
+    "episode": "65"
+  },
+  {
+    "name":"Pokemon: Advanced",
+    "image": "../cover/pokemon-advanced.png",
+    "location":"/anime/pokemon-advanced",
+    "type": "TV",
+    "season": "Fall 2002",
+    "episode": "40"
+  },
+  {
+    "name":"Pokemon: Advanced Challenge",
+    "image": "../cover/pokemon-advanced-challenge.png",
+    "location":"/anime/pokemon-advanced-challenge",
+    "type": "TV",
+    "season": "Summer 2003",
+    "episode": "52"
+  },
+  {
+    "name":"Pokemon: Advanced Battle",
+    "image": "../cover/pokemon-advanced-battle.png",
+    "location":"/anime/pokemon-advanced-battle",
+    "type": "TV",
+    "season": "Summer 2005",
+    "episode": "52"
+  },
+  {
+    "name":"Pokemon: Battle Frontier",
+    "image": "../cover/pokemon-battle-frontier.png",
+    "location":"/anime/pokemon-battle-frontier",
+    "type": "TV",
+    "season": "Fall 2005",
+    "episode": "47"
+  },
+  {
+    "name":"Pokemon: Diamond and Pearl",
+    "image": "../cover/pokemon-diamond-and-pearl.png",
+    "location":"/anime/pokemon-diamond-and-pearl",
+    "type": "TV",
+    "season": "Summer 2006",
+    "episode": "47"
+  },
+  {
+    "name":"Pokemon: DP Battle Dimension",
+    "image": "../cover/pokemon-diamond-and-pearl-battle-dimension.png",
+    "location":"/anime/pokemon-diamond-and-pearl-battle-dimension",
+    "type": "TV",
+    "season": "Fall 2007",
+    "episode": "52"
+  },
+  {
+    "name":"Pokemon: DP Galactic Battles",
+    "image": "../cover/pokemon-diamond-and-pearl-galactic-battles.png",
+    "location":"/anime/pokemon-diamond-and-pearl-galactic-battles",
+    "type": "TV",
+    "season": "Fall 2008",
+    "episode": "52"
+  },
+  {
+    "name":"Pokemon: DP Sinnoh League Victors",
+    "image": "../cover/pokemon-diamond-and-pearl-sinnoh-league-victors.png",
+    "location":"/anime/pokemon-diamond-and-pearl-sinnoh-league-victors",
+    "type": "TV",
+    "season": "Winter 2010",
+    "episode": "34"
+  },
+  {
+    "name":"Pokemon: Black & White",
+    "image": "../cover/pokemon-black-white.png",
+    "location":"/anime/pokemon-black-white",
+    "type": "TV",
+    "season": "Summer 2010",
+    "episode": "48"
+  },
+  {
+    "name":"Pokemon: BW Rival Destinies",
+    "image": "../cover/pokemon-black-white-rival-destinies.png",
+    "location":"/anime/pokemon-black-white-rival-destinies",
+    "type": "TV",
+    "season": "Winter 2012",
+    "episode": "49"
+  },
+  {
+    "name":"Pokemon: BW Adventures in Unova and Beyond",
+    "image": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.png",
+    "location":"/anime/pokemon-black-white-adventures-in-unova-and-beyond",
+    "type": "TV",
+    "season": "Winter 2013",
+    "episode": "45"
+  },
+  {
+    "name":"Pokemon The Series: XY",
+    "image": "../cover/pokemon-the-series-xy.png",
+    "location":"/anime/pokemon-the-series-xy",
+    "type": "TV",
+    "season": "Fall 2013",
+    "episode": "48"
+  },
+  {
+    "name":"Pokemon The Series: XY Kalos Quest",
+    "image": "../cover/pokemon-the-series-xy-kalos-quest.png",
+    "location":"/anime/pokemon-the-series-xy-kalos-quest",
+    "type": "TV",
+    "season": "Fall 2014",
+    "episode": "45"
+  },
+  {
+    "name":"Pokemon The Series: XYZ",
+    "image": "../cover/pokemon-the-series-xyz.png",
+    "location":"/anime/pokemon-the-series-xyz",
+    "type": "TV",
+    "season": "Winter 2016",
+    "episode": "48"
+  },
+  {
+    "name":"Pokemon The Series: Sun & Moon",
+    "image": "../cover/pokemon-the-series-sun-moon.png",
+    "location":"/anime/pokemon-the-series-sun-moon-xyz",
+    "type": "TV",
+    "season": "Spring 2017",
+    "episode": "43"
+  },
+  {
+    "name":"Pokemon The Series: Sun & Moon – Ultra Adventures",
+    "image": "../cover/pokemon-the-series-sun-moon-ultra-adventures.png",
+    "location":"/anime/pokemon-the-series-sun-moon-ultra-adventures",
+    "type": "TV",
+    "season": "Spring 2018",
+    "episode": "48"
+  },
+  {
+    "name":"Pokemon The Series: Sun & Moon – Ultra Legends",
+    "image": "../cover/pokemon-the-series-sun-moon-ultra-legends.png",
+    "location":"/anime/pokemon-the-series-sun-moon-ultra-legends",
+    "type": "TV",
+    "season": "Winter 2019",
+    "episode": "54"
+  },
+  {
+    "name":"Pokemon Journeys: The Series",
+    "image": "../cover/pokemon-journeys-the-series.png",
+    "location":"/anime/pokemon-journeys-the-series",
+    "type": "TV",
+    "season": "Fall 2019",
+    "episode": "48"
+  },
+  {
+    "name":"Pokemon Master Journeys: The Series",
+    "image": "../cover/pokemon-master-journeys-the-series.png",
+    "location":"/anime/pokemon-master-journeys-the-series",
+    "type": "TV",
+    "season": "Fall 2020",
+    "episode": "42"
+  },
+  {
+    "name":"Pokemon Ultimate Journeys: The Series",
+    "image": "../cover/pokemon-ultimate-journeys.png",
+    "location":"/anime/pokemon-ultimate-journeys",
+    "type": "TV",
+    "season": "Fall 2021",
+    "episode": "28"
   }
   
 ]
-
