@@ -33,7 +33,7 @@
       "duration": 25,
       "type": "TV",
 	  "animeUrl": "/anime/chainsaw-man",
-	  "animeUrl": "/watch/chainsaw-man"
+	  "watchUrl": "/watch/chainsaw-man"
     },
 	{
       "id": "124395",
@@ -65,7 +65,7 @@
       "duration": 24,
       "type": "TV",
 	  "animeUrl": "/anime/uzaki-chan-wa-asobitai-double",
-	  "animeUrl": "/watch/uzaki-chan-wa-asobitai-double"
+	  "watchUrl": "/watch/uzaki-chan-wa-asobitai-double"
     },
     {
       "id": "139630",
@@ -96,7 +96,7 @@
       "duration": 24,
       "type": "TV",
 	  "animeUrl": "/anime/boku-no-hero-academia-6th-season",
-	  "animeUrl": "/watch/boku-no-hero-academia-6th-season"
+	  "watchUrl": "/watch/boku-no-hero-academia-6th-season"
     },
     {
       "id": "142838",
@@ -124,7 +124,7 @@
       "duration": 24,
       "type": "TV",
 	  "animeUrl": "/anime/spy-x-family-part-2",
-	  "animeUrl": "/watch/spy-x-family-part-2"
+	  "watchUrl": "/watch/spy-x-family-part-2"
     },	
     {
       "id": "131520",
@@ -156,7 +156,7 @@
       "duration": "2hr 16min",
       "type": "Movie",
 	  "animeUrl": "/anime/5-toubun-no-hanayome-movie",
-	  "animeUrl": "/watch/5-toubun-no-hanayome-movie"
+	  "watchUrl": "/watch/5-toubun-no-hanayome-movie"
     },
     {
       "id": "21",
@@ -185,7 +185,7 @@
       "duration": 24,
       "type": "TV",
 	  "animeUrl": "/anime/one-piece",
-	  "animeUrl": "/watch/one-piece"
+	  "watchUrl": "/watch/one-piece"
     },
     {
       "id": "137822",
@@ -216,7 +216,7 @@
       "duration": 25,
       "type": "TV",
 	  "animeUrl": "/anime/blue-lock",
-	  "animeUrl": "/watch/blue-lock"
+	  "watchUrl": "/watch/blue-lock"
     },
     {
       "id": "131573",
@@ -242,7 +242,7 @@
       "duration": "1hr 45",
       "type": "Movie",
 	  "animeUrl": "/anime/jujutsu-kaisen-0",
-	  "animeUrl": "/watch/jujutsu-kaisen-0"
+	  "watchUrl": "/watch/jujutsu-kaisen-0"
     },
     {
       "id": "140439",
@@ -275,7 +275,7 @@
       "duration": 24,
       "type": "TV",
 	  "animeUrl": "/anime/mob-psycho-100-iii",
-	  "animeUrl": "/watch/mob-psycho-100-iii"
+	  "watchUrl": "/watch/mob-psycho-100-iii"
     }
   ]
 }
