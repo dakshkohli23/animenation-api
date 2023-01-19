@@ -9,6 +9,6 @@
             "episode_page": "\n  <li>\n  <a href=\"#\" class=\"active\" ep_start=\"0\" ep_end=\"24\">0-24</a>\n    </li>\n \n",
             "nextEpText": "Tokyo Revengers 2 >>",
             "nextEpLink": "/tokyo-revengers-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "prevEpText": "<< Tokyo Revengers 0",
+            "prevEpLink": "/tokyo-revengers-episode-0"
         }
