@@ -1,5 +1,14 @@
 [
     {
+        "animeId": "tokyo-revengers",
+        "episodeId": "tokyo-revengers-episode-1",
+        "name": "Tokyo Revengers",
+        "episodeNum": "24",
+        "subOrDub": "dub",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120120-mBmQUtMloszF.jpg",
+        "episodeUrl": "watch/tokyo-revengers-episode-1"
+    },
+    {
         "animeId": "jujutsu-kaisen-tv",
         "episodeId": "jujutsu-kaisen-tv-episode-1",
         "name": "Jujutsu Kaisen",
