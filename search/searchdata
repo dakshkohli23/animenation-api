@@ -6,7 +6,7 @@
         "episodeNum": "82",
         "subOrDub": "DUB",
         "imgUrl": "../cover/pokemon-indigo-league.png",
-        "episodeUrl": "../anime/pokemon-indigo-league",
+        "episodeUrl": "../anime/pokemon-indigo-league"
     },
     {
         "animeId": "pokemon-adventures-in-the-orange-islands",
@@ -15,6 +15,6 @@
         "episodeNum": "36",
         "subOrDub": "DUB",
         "imgUrl": "../cover/pokemon-adventures-in-the-orange-islands.png",
-        "episodeUrl": "../anime/pokemon-adventures-in-the-orange-islands",
+        "episodeUrl": "../anime/pokemon-adventures-in-the-orange-islands"
     }
 ]
