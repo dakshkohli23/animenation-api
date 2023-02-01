@@ -61,18 +61,18 @@
   "type": "TV",
   "recommendations": [
     {
-      "id": 20829,
-      "malId": 26243,
+      "id": 101922,
+      "malId": 38000,
       "title": {
-        "romaji": "Owari no Seraph",
-        "english": "Seraph of the End: Vampire Reign",
-        "native": "終わりのセラフ",
-        "userPreferred": "Owari no Seraph"
+        "romaji": "Kimetsu no Yaiba",
+        "english": "Demon Slayer: Kimetsu no Yaiba",
+        "native": "鬼滅の刃",
+        "userPreferred": "Demon Slayer: Kimetsu no Yaiba: Bonds of Siblings"
       },
       "status": "Completed",
-      "episodes": 12,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20829-PYKVvgUqJVUK.png",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20829-1BRrVJAxlEKT.jpg",
+      "episodes": 26,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-PEn1CTc93blC.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101922-YfZhKBUDDS6L.jpg",
       "rating": 73,
       "type": "TV"
     },
