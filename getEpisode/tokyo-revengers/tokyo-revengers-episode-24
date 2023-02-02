@@ -1,13 +1,11 @@
 {
-            "server1": "https://sbchill.com/e/k5vonlezahnp.html",
+            "server1": "k5vonlezahnp",
             "animeNameWithEP": "Tokyo Revengers Episode 24 English Dubbed",
             "ep_num": "24",
-            "ep_download": "https://sbchill.com/d/k5vonlezahnp.html",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
             "alias": "tokyo-revengers",
-            "episode_page": "\n  <li>\n  <a href=\"#\" class=\"active\" ep_start=\"0\" ep_end=\"24\">0-24</a>\n    </li>\n \n",
-			"nextEpText": "",
+	    "nextEpText": "",
             "nextEpLink": "",
             "prevEpText": "<< Tokyo Revengers Episode 23",
             "prevEpLink": "/tokyo-revengers-episode-23"
