@@ -1,12 +1,10 @@
 {
-            "server1": "https://sblongvu.com/e/sas01tegmz81.html",
+            "server1": "sas01tegmz81",
             "animeNameWithEP": "Pokémon: Master Quest 48 English Dubbed",
             "ep_num": "48",
-            "ep_download": "https://sblongvu.com/d/sas01tegmz81.html",
             "anime_info": "pokemon-master-quest",
             "movie_id": "527",
             "alias": "pokemon-master-quest",
-            "episode_page": "\n  <li>\n  <a href=\"#\" class=\"active\" ep_start=\"0\" ep_end=\"65\">0-65</a>\n    </li>\n \n",
             "nextEpText": "Pokémon: Master Quest 49 >>",
             "nextEpLink": "/pokemon-master-quest-episode-49",
             "prevEpText": "<< Pokémon: Master Quest Episode 47",
