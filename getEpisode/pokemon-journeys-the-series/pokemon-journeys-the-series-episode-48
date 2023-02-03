@@ -1,13 +1,11 @@
 {
-            "server1": "https://sbchill.com/e/cjb57oyjwdfv.html",
+            "server1": "cjb57oyjwdfv",
             "animeNameWithEP": "Pokémon Journeys: The Series Episode 48 English Dubbed",
             "ep_num": "48",
-            "ep_download": "https://sbchill.com/d/cjb57oyjwdfv.html",
             "anime_info": "pokemon-journeys-the-series",
             "movie_id": "112153",
             "alias": "pokemon-journeys-the-series",
-            "episode_page": "\n  <li>\n  <a href=\"#\" class=\"active\" ep_start=\"0\" ep_end=\"48\">0-48</a>\n    </li>\n \n",
-			"nextEpText": "",
+	    "nextEpText": "",
             "nextEpLink": "",
             "prevEpText": "<< Pokémon Journeys: The Series Episode 47",
             "prevEpLink": "/pokemon-journeys-the-series-episode-47"
