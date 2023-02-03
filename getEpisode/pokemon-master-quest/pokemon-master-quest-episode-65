@@ -1,13 +1,11 @@
 {
-            "server1": "https://sblongvu.com/e/je0hsrsxoixs.html",
+            "server1": "je0hsrsxoixs",
             "animeNameWithEP": "Pokémon: Master Quest 65 English Dubbed",
             "ep_num": "65",
-            "ep_download": "https://sblongvu.com/d/je0hsrsxoixs.html",
             "anime_info": "pokemon-master-quest",
             "movie_id": "527",
             "alias": "pokemon-master-quest",
-            "episode_page": "\n  <li>\n  <a href=\"#\" class=\"active\" ep_start=\"0\" ep_end=\"65\">0-65</a>\n    </li>\n \n",
-			"nextEpText": "",
+	    "nextEpText": "",
             "nextEpLink": "",
             "prevEpText": "<< Pokémon: Master Quest Episode 64",
             "prevEpLink": "/pokemon-master-quest-episode-64"
