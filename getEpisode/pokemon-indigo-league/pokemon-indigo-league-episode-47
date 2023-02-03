@@ -1,12 +1,10 @@
 {
-    "server1": "https://sbanh.com/e/1ypa1dki8zet.html",
+    "server1": "1ypa1dki8zet",
     "animeNameWithEP": "Pokémon: Indigo League Episode 47 English Dubbed",
     "ep_num": "47",
-    "ep_download": "https://sbanh.com/d/1ypa1dki8zet.html",
     "anime_info": "pokemon-indigo-league",
     "movie_id": "527",
     "alias": "pokemon-indigo-league",
-    "episode_page": "\n  <li>\n  <a href=\"#\" class=\"active\" ep_start=\"0\" ep_end=\"50\">0-50</a>\n    </li>\n \n  <li>\n  <a href=\"#\" class=\"active\" ep_start=\"51\" ep_end=\"82\">51-82</a>\n    </li>\n ",
     "nextEpText": "Pokémon: Indigo League Episode 48 >>",
     "nextEpLink": "/pokemon-indigo-league-episode-48",
     "prevEpText": "<< Pokémon: Indigo League Episode 46",
