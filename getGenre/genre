@@ -8,7 +8,7 @@
             "type": "tv",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png",
             "episodeUrl": "anime/chainsaw-man",
-            "genres": "Action,Comedy,Drama,Horror,Supernatural"
+            "genres": ["Action", "Comedy", "Drama", "Horror", "Supernatural"]
         },
         {
             "animeId": "kimetsu-no-yaiba-yuukaku-hen",
