@@ -5,9 +5,10 @@
             "name": "Chainsaw Man",
             "episodeNum": "12",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png",
             "episodeUrl": "anime/chainsaw-man",
-            "genres": ["Action", "Comedy", "Drama", "Horror", "Supernatural"]
+            "genres": "Action,Comedy,Drama,Horror,Supernatural"
         },
         {
             "animeId": "kimetsu-no-yaiba-yuukaku-hen",
@@ -15,9 +16,9 @@
             "name": "Demon Slayer: Entertainment District Arc",
             "episodeNum": "11",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
-            "episodeUrl": "anime/kimetsu-no-yaiba-yuukaku-hen",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"]
+            "episodeUrl": "anime/kimetsu-no-yaiba-yuukaku-hen"
         },
         {
             "animeId": "kimetsu-no-yaiba",
@@ -25,9 +26,9 @@
             "name": "Demon Slayer: Kimetsu no Yaiba",
             "episodeNum": "26",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-PEn1CTc93blC.jpg",
-            "episodeUrl": "anime/kimetsu-no-yaiba",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"]
+            "episodeUrl": "anime/kimetsu-no-yaiba"
         },
         {
             "animeId": "kimetsu-no-yaiba-mugen-ressha-hen",
@@ -35,9 +36,9 @@
             "name": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
             "episodeNum": "7",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129874-g6ZKXB94Hui1.jpg",
-            "episodeUrl": "anime/kimetsu-no-yaiba-mugen-ressha-hen",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Mystery", "Supernatural"]
+            "episodeUrl": "anime/kimetsu-no-yaiba-mugen-ressha-hen"
         },
         {
             "animeId": "how-not-to-summon-a-demon-lord",
@@ -45,6 +46,7 @@
             "name": "How NOT to Summon a Demon Lord",
             "episodeNum": "12",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101004-rJLBIWGypbYK.png",
             "episodeUrl": "anime/how-not-to-summon-a-demon-lord"
         },
@@ -54,6 +56,7 @@
             "name": "How NOT to Summon a Demon Lord Ω",
             "episodeNum": "10",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117448-bsPgVDD85sjB.jpg",
             "episodeUrl": "anime/how-not-to-summon-a-demon-lord-season-2"
         },
@@ -63,6 +66,7 @@
             "name": "Jujutsu Kaisen",
             "episodeNum": "24",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
             "episodeUrl": "anime/jujutsu-kaisen-tv"
         },
@@ -72,9 +76,9 @@
             "name": "Junior High and High School!! Kimetsu Academy Story",
             "episodeNum": "3",
             "subOrDub": "sub",
+            "type": "tv",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154541-uw1iAxNKdUAf.png",
-            "episodeUrl": "anime/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
-            "genres": "Comedy"
+            "episodeUrl": "anime/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen"
         },
         {
             "animeId": "pokemon-advanced",
@@ -82,6 +86,7 @@
             "name": "Pokémon Advanced",
             "episodeNum": "40",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-master-quest.png",
             "episodeUrl": "anime/pokemon-advanced"
         },
@@ -91,6 +96,7 @@
             "name": "Pokémon Black and White",
             "episodeNum": "48",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-black-white.png",
             "episodeUrl": "anime/pokemon-black-white"
         },
@@ -100,6 +106,7 @@
             "name": "Pokémon Diamond and Pearl",
             "episodeNum": "51",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-diamond-and-pearl.png",
             "episodeUrl": "anime/pokemon-diamond-and-pearl"
         },
@@ -109,6 +116,7 @@
             "name": "Pokémon Johto League Champions",
             "episodeNum": "52",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-johto-league-champions.png",
             "episodeUrl": "anime/pokemon-johto-league-champions"
         },
@@ -118,6 +126,7 @@
             "name": "Pokémon Journeys: The Series",
             "episodeNum": "48",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-journeys-the-series.png",
             "episodeUrl": "anime/pokemon-journeys-the-series"
         },
@@ -127,6 +136,7 @@
             "name": "Pokémon Master Journeys: The Series",
             "episodeNum": "42",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-master-journeys-the-series.png",
             "episodeUrl": "anime/pokemon-master-journeys-the-series"
         },
@@ -136,6 +146,7 @@
             "name": "Pokémon the Series: Sun & Moon",
             "episodeNum": "43",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-the-series-sun-moon.png",
             "episodeUrl": "anime/pokemon-the-series-sun-moon"
         },
@@ -145,6 +156,7 @@
             "name": "Pokémon the Series: Sun & Moon – Ultra Adventures",
             "episodeNum": "48",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-adventures.png",
             "episodeUrl": "anime/pokemon-the-series-sun-moon-ultra-adventures"
         },
@@ -154,6 +166,7 @@
             "name": "Pokémon the Series: Sun & Moon – Ultra Legends",
             "episodeNum": "54",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-legends.png",
             "episodeUrl": "anime/pokemon-the-series-sun-moon-ultra-legends"
         },
@@ -163,6 +176,7 @@
             "name": "Pokémon the Series: XY",
             "episodeNum": "48",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-the-series-xy.png",
             "episodeUrl": "anime/pokemon-the-series-xy"
         },
@@ -172,6 +186,7 @@
             "name": "Pokémon the Series: XY Kalos Quest",
             "episodeNum": "45",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-the-series-xy-kalos-quest.png",
             "episodeUrl": "anime/pokemon-the-series-xy-kalos-quest"
         },
@@ -181,6 +196,7 @@
             "name": "Pokémon the Series: XYZ",
             "episodeNum": "48",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-the-series-xyz.png",
             "episodeUrl": "anime/pokemon-the-series-xyz"
         },
@@ -190,6 +206,7 @@
             "name": "Pokémon Ultimate Journeys: The Series",
             "episodeNum": "31",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-ultimate-journeys.png",
             "episodeUrl": "anime/pokemon-ultimate-journeys"
         },
@@ -199,6 +216,7 @@
             "name": "Pokémon: Advanced Battle",
             "episodeNum": "52",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-advanced-battle.png",
             "episodeUrl": "anime/pokemon-advanced-battle"
         },
@@ -208,6 +226,7 @@
             "name": "Pokémon: Advanced Challenge",
             "episodeNum": "52",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-advanced-challenge.png",
             "episodeUrl": "anime/pokemon-advanced-challenge"
         },
@@ -217,6 +236,7 @@
             "name": "Pokémon: Adventures in the Orange Islands",
             "episodeNum": "36",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-adventures-in-the-orange-islands.png",
             "episodeUrl": "anime/pokemon-adventures-in-the-orange-islands"
         },
@@ -226,6 +246,7 @@
             "name": "Pokémon: Battle Frontier",
             "episodeNum": "47",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-advanced-battle.png",
             "episodeUrl": "anime/pokemon-battle-frontier"
         },
@@ -235,6 +256,7 @@
             "name": "Pokémon: Black & White: Adventures in Unova and Beyond",
             "episodeNum": "45",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.png",
             "episodeUrl": "anime/pokemon-black-white-adventures-in-unova-and-beyond"
         },
@@ -244,6 +266,7 @@
             "name": "Pokémon: Black & White: Rival Destinies",
             "episodeNum": "49",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-black-white-rival-destinies.png",
             "episodeUrl": "anime/pokemon-black-white-rival-destinies"
         },
@@ -253,6 +276,7 @@
             "name": "Pokémon: Diamond and Pearl: Battle Dimension",
             "episodeNum": "52",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-diamond-and-pearl-battle-dimension.png",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-battle-dimension"
         },
@@ -262,6 +286,7 @@
             "name": "Pokémon: Diamond and Pearl: Galactic Battles",
             "episodeNum": "52",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-diamond-and-pearl-galactic-battles.png",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-galactic-battles"
         },
@@ -271,6 +296,7 @@
             "name": "Pokémon: Diamond and Pearl: Sinnoh League Victors",
             "episodeNum": "34",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-diamond-and-pearl-sinnoh-league-victors.png",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-sinnoh-league-victors"
         },
@@ -280,6 +306,7 @@
             "name": "Pokémon: Indigo League",
             "episodeNum": "82",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-indigo-league.png",
             "episodeUrl": "anime/pokemon-indigo-league"
         },
@@ -289,6 +316,7 @@
             "name": "Pokémon: Master Quest",
             "episodeNum": "65",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-master-quest.png",
             "episodeUrl": "anime/pokemon-master-quest"
         },
@@ -298,6 +326,7 @@
             "name": "Pokémon: The Johto Journeys",
             "episodeNum": "41",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "../cover/pokemon-the-johto-journeys.png",
             "episodeUrl": "anime/pokemon-the-johto-journeys"
         },
@@ -307,6 +336,7 @@
             "name": "SPY×FAMILY",
             "episodeNum": "12",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg",
             "episodeUrl": "anime/spy-x-family"
         },
@@ -316,7 +346,8 @@
             "name": "Tokyo Revengers",
             "episodeNum": "24",
             "subOrDub": "dub",
+            "type": "tv",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120120-mBmQUtMloszF.jpg",
             "episodeUrl": "anime/tokyo-revengers"
         }
-]
+    ]
