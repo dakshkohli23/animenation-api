@@ -1,13 +1,11 @@
 {
-            "server1": "https://sblongvu.com/e/nn5hn3ehlsak.html",
+            "server1": "nn5hn3ehlsak",
             "animeNameWithEP": "Pokémon The Series: Sun & Moon Episode 43 English Dubbed",
             "ep_num": "43",
-            "ep_download": "https://sblongvu.com/d/nn5hn3ehlsak.html",
             "anime_info": "pokemon-the-series-sun-moon",
             "movie_id": "97634",
             "alias": "pokemon-the-series-sun-moon",
-            "episode_page": "\n  <li>\n  <a href=\"#\" class=\"active\" ep_start=\"0\" ep_end=\"43\">0-43</a>\n    </li>\n \n",
-			"nextEpText": "",
+	    "nextEpText": "",
             "nextEpLink": "",
             "prevEpText": "<< Pokémon The Series: Sun & Moon Episode 42",
             "prevEpLink": "/pokemon-the-series-sun-moon-episode-42"
