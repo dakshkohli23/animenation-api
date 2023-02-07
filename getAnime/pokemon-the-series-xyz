@@ -38,11 +38,7 @@
   "totalEpisodes": 48,
   "rating": 75,
   "duration": 24,
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Fantasy"
-  ],
+  "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
   "season": "Winter",
   "studios": [
     "OLM"
