@@ -43,11 +43,7 @@
   "totalEpisodes": 28,
   "rating": 73,
   "duration": 24,
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Fantasy"
-  ],
+  "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
   "season": "Fall",
   "studios": [
     "OLM"
