@@ -35,11 +35,7 @@
   "totalEpisodes": 82,
   "rating": 71,
   "duration": 24,
-  "genres": [
-    "Adventure",
-    "Comedy",
-    "Fantasy"
-  ],
+  "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
   "season": "Spring",
   "studios": [
     "OLM"
