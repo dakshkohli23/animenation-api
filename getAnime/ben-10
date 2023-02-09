@@ -15,7 +15,7 @@
 	"popularity": 9999,
 	"color": "#6b1a1a",
 	"cover": "../cover/ben-10-cover.jpg",
-	"description": "Ben 10 (retroactively known as Classic Ben 10) is an American animated series created by Man of Action. It is produced by Cartoon Network Studios and Distributed By Warner Bros. Domestic Television. The series is about a 10-year-old boy named Ben Tennyson who gets a watch-style alien device called the <b>Omnitrix</b>. Attached to his wrist, it allows him to transform into 10 different alien creatures with different abilities, allowing him to fight evil from Earth and space with his cousin Gwen and grandfather Max.",
+	"description": "When 10-year-old Ben Tennyson discovers a mysterious device, he gains the power to change into ten different alien heroes, each with uniquely awesome powers. With such abilities at his disposal, Ben realizes a greater responsibility to help others and stop evildoers, but that doesn't mean he's above a little superpowered mischief now and then.",
 	"status": "Completed",
 	"releaseDate": 2005,
 	"startDate": {
@@ -29,9 +29,9 @@
 		"day": 15
 	},
 	"totalEpisodes": 52,
-	"rating": 74,
+	"rating": 81,
 	"duration": 22,
-	"genres": ["Action", "Adventure", "Science", "Fantasy", "Superhero"],
+	"genres": ["Action", "Adventure", "Comedy", "Science", "Sci-Fi", "Fantasy", "Superhero"],
 	"season": "FALL",
 	"studios": ["Cartoon Network"],
 	"subOrDub": "dub",
