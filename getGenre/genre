@@ -11,6 +11,17 @@
             "genres": ["Action", "Comedy", "Drama", "Horror", "Supernatural"]
         },
         {
+            "animeId": "ben-10",
+            "episodeId": "ben-10-episode-1",
+            "name": "Ben 10 (2005)",
+            "episodeNum": "52",
+            "subOrDub": "dub",
+            "type": "tv",
+            "imgUrl": "../cover/ben-10-poster.jpg",
+            "episodeUrl": "anime/ben-10",
+            "genres": ["Action", "Adventure", "Science", "Fantasy", "Superhero"]
+        },
+        {
             "animeId": "kimetsu-no-yaiba-yuukaku-hen",
             "episodeId": "kimetsu-no-yaiba-yuukaku-hen-episode-1",
             "name": "Demon Slayer: Entertainment District Arc",
