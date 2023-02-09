@@ -1,0 +1,136 @@
+{
+	"id": "10",
+	"title": {
+		"romaji": "Ben 10",
+		"english": "Ben 10 (2005)",
+		"native": "Ben 10 Classic"
+	},
+	"malId": 44511,
+	"synonyms": ["Ben 10", "Ben 10 (2005)", "Ben 10 Classic", "Classic Ben 10"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"trailer": {},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png",
+	"popularity": 9999,
+	"color": "#6b1a1a",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127230-o8IRwCGVr9KW.jpg",
+	"description": "Ben 10 (retroactively known as Classic Ben 10) is an American animated series created by Man of Action. It is produced by Cartoon Network Studios and Distributed By Warner Bros. Domestic Television. The series is about a 10-year-old boy named Ben Tennyson who gets a watch-style alien device called the <b>Omnitrix</b>. Attached to his wrist, it allows him to transform into 10 different alien creatures with different abilities, allowing him to fight evil from Earth and space with his cousin Gwen and grandfather Max.",
+	"status": "Completed",
+	"releaseDate": 2005,
+	"startDate": {
+		"year": 2005,
+		"month": 12,
+		"day": 27
+	},
+	"endDate": {
+		"year": 2008,
+		"month": 4,
+		"day": 15
+	},
+	"totalEpisodes": 52,
+	"rating": 74,
+	"duration": 22,
+	"genres": ["Action", "Adventure", "Science", "Fantasy", "Superhero"],
+	"season": "FALL",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"mappings": {},
+	"episodes": [{
+		"id": "ben-10-episode-1",
+		"title": "And Then There Were 10",
+		"description": "An alien device with metamorphic properties crash lands on Earth and attaches itself to an often-grousing juvenile who's on a road trip with extended family.",
+		"number": 1,
+		"image": "https://m.media-amazon.com/images/M/MV5BYjQ3ZTczZGYtZDBlOS00MzY1LWE2YjYtY2U1NDdiOTlhMDExXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-2",
+		"title": "Washington B.C.",
+		"description": "Ben confronts an evil genetic manipulator who feels just as he does - sorely deprived of recognition and rewards for his astonishing capabilities.",
+		"number": 2,
+		"image": "https://m.media-amazon.com/images/M/MV5BZWNlNTg4NTMtZTM5NC00NDQyLWJkZjctNDk1NDcyNjY2ODY2XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-3",
+		"title": "The Krakken",
+		"description": "After pretending to be a monster in a nearby lake to scare Gwen, a real lake monster appears. Now Ben is hard-pressed to get anyone to believe him, but not for long.",
+		"number": 3,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTA1MjAzMzEtYmRlNi00NDUwLWEwNTItOTU3ODNhNTU1M2I0XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-4",
+		"title": "Permanent Retirement",
+		"description": "The group stops in a retirement community to visit Aunt Vera, but Ben finds the aged residents to be quite a bit more physically dynamic than one should ever expect.",
+		"number": 4,
+		"image": "https://m.media-amazon.com/images/M/MV5BZmU3YmI3NGQtNWNmZC00NTJkLTllY2QtZWNjZWRjOGJmMDc3XkEyXkFqcGdeQXVyNTk4NDI4NTE@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-5",
+		"title": "Hunted",
+		"description": "Grandpa tries to help Ben by setting up a training area. He also tries to teach him to think about his selections and his moves. In the mean time, Vilgax sends some bounty hunters after the Omnitrix.",
+		"number": 5,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTc3MjE0OTE0Ml5BMl5BanBnXkFtZTgwMzIyMDQ2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-6",
+		"title": "Tourist Trap",
+		"description": "Feeling gypped at a boring mid-west tourist attraction, Ben's payback ruins several exhibitions. One exhibit, though, turns out to be a lot more than anyone bargained for when it releases a relentless electrical prankster named Megawatt.",
+		"number": 6,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjMyMDkyODk0N15BMl5BanBnXkFtZTgwNjMxMDQ2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-7",
+		"title": "Kevin 11",
+		"description": "Ben meets a teenager named Kevin in an arcade. He has the ability to absorb any form of energy. They team up, only for Ben to discover that Kevin is only interested in using Ben's Omnitrix to do bad.",
+		"number": 7,
+		"image": "https://m.media-amazon.com/images/M/MV5BMzU3OTAwYzYtMDRiOC00MGZjLTkxOWUtNGMzZDE5NTkyNzkxXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-8",
+		"title": "The Alliance",
+		"description": "The Alliance",
+		"number": 8,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTY5Njk5NjQ0MF5BMl5BanBnXkFtZTgwMDQxMDQ2MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-9",
+		"title": "Last Laugh",
+		"description": "Ben's secret fear of clowns absents him from the big top just as an evil soul-sucking clown goes into his act, but Gwen, Grandpa Max and the rest of the town aren't as fortunate.",
+		"number": 9,
+		"image": "https://m.media-amazon.com/images/M/MV5BZDIwYzY0OWUtYjU4MS00MGM1LWJiOGItMGYzYWZjZThhYTJkXkEyXkFqcGdeQXVyNTk4NDI4NTE@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-10",
+		"title": "Lucky Girl",
+		"description": "Following an altercation in a witchcraft museum, Gwen acquires a potent charm that grants enough extraordinary good luck for her to proclaim herself a new superhero - Lucky Girl.",
+		"number": 10,
+		"image": "https://m.media-amazon.com/images/M/MV5BYmRiZGU4MTItZDFhNy00OGY1LWE2ZjgtZGZkZWI1MjJkZWY5XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-11",
+		"title": "A Small Problem",
+		"description": "Ben is too short for a ride at a water park, so he uses the Omnitrix to sneak in. An alien enthusiast captures Grey Matter and wants to announce it to the world, so he contacts The Organization, which wants the alien for its own plans.",
+		"number": 11,
+		"image": "https://m.media-amazon.com/images/M/MV5BNzliOTEwN2YtNWM5YS00YjRkLWI3NDktMmNkMTc3Y2I2Zjg2XkEyXkFqcGdeQXVyNTk4NDI4NTE@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-12",
+		"title": "Side Effects",
+		"description": "Ben's cold affects his alien transformations, leaving Wildmutt virtually blind, Four Arms with putrid puss pockets and Heatblast far from able to warm up. Not good when there's a bug-manipulating maniac threatening a city.",
+		"number": 12,
+		"image": "https://m.media-amazon.com/images/M/MV5BOTM0ZTNkNzktYzc5Ny00NzgyLTg0ZWMtZGFlMTNlMGE1N2FjXkEyXkFqcGdeQXVyNTk4NDI4NTE@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-episode-13",
+		"title": "Secrets",
+		"description": "Vilgax himself finally comes after Ben. As Ben finds Vilgax to be more than he and his alien selves can handle, Grandpa Max reveals a secret past when he seeks help from a hidden base beneath Mount Rushmore.",
+		"number": 13,
+		"image": "https://m.media-amazon.com/images/M/MV5BNGU4NGMzZDItYjgzMi00MDE3LWE0ZDctMGRmNTVmNWZlYTQyXkEyXkFqcGdeQXVyNTk4NDI4NTE@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}
+	]
+}
