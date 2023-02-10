@@ -39,7 +39,7 @@
 	"genres": ["Action", "Comedy", "Slice of Life", "Supernatural"],
 	"season": "FALL",
 	"studios": ["Wit Studio", "CloverWorks"],
-	"subOrDub": "dub",
+	"subOrDub": "sub",
 	"type": "TV",
 	"recommendations": [{
 		"id": 140960,
@@ -73,8 +73,7 @@
 		"rating": 84,
 		"type": "TV",
 		"animeurl": "spy-x-family-part-2"
-	}
-	],
+	}],
 	"characters": [{
 		"id": 138101,
 		"role": "MAIN",
