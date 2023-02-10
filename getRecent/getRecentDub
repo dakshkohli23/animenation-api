@@ -1,5 +1,14 @@
 [
     {
+        "animeId": "spy-x-family-part-2",
+        "episodeId": "spy-x-family-part-2-episode-1",
+        "name": "SPY×FAMILY Part 2",
+        "episodeNum": "13",
+        "subOrDub": "dub",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-ECZSqfknAqAT.jpg",
+        "episodeUrl": "anime/spy-x-family-part-2"
+    },
+    {
         "animeId": "kimetsu-no-yaiba-yuukaku-hen",
         "episodeId": "kimetsu-no-yaiba-yuukaku-hen-episode-1",
         "name": "Demon Slayer: Entertainment District Arc",
