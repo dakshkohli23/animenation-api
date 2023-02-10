@@ -42,201 +42,37 @@
 	"subOrDub": "dub",
 	"type": "TV",
 	"recommendations": [{
-		"id": 101921,
-		"malId": 37999,
+		"id": 140960,
+		"malId": 50265,
 		"title": {
-			"romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
-			"english": "Kaguya-sama: Love is War",
-			"native": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
-			"userPreferred": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen"
+			"romaji": "SPY×FAMILY",
+			"english": "SPY×FAMILY",
+			"native": "SPY×FAMILY",
+			"userPreferred": "SPY x FAMILY"
 		},
 		"status": "Completed",
 		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101921-VvdGQy1ZySYf.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101921-GgvvFhlNhzlF.jpg",
-		"rating": 83,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140960-Z7xSvkRxHKfj.jpg",
+		"rating": 86,
 		"type": "TV"
-	}, {
-		"id": 125426,
-		"malId": 43692,
+	},{
+		"id": 142838,
+		"malId": 50602,
 		"title": {
-			"romaji": "Gokushufudou",
-			"english": "The Way of the Househusband",
-			"native": "極主夫道",
-			"userPreferred": "Gokushufudou"
+			"romaji": "SPY×FAMILY Part 2",
+			"english": "SPY x FAMILY Cour 2",
+			"native": "SPY×FAMILY 2クール",
+			"userPreferred": "SPY x FAMILY Part 2"
 		},
 		"status": "Completed",
-		"episodes": 5,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125426-DEm1QpOtkV7o.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/125426-5BS7j1JbgaFp.jpg",
-		"rating": 71,
-		"type": "ONA"
-	}, {
-		"id": 100077,
-		"malId": 36296,
-		"title": {
-			"romaji": "Hinamatsuri",
-			"english": "HINAMATSURI",
-			"native": "ヒナまつり",
-			"userPreferred": "Hinamatsuri"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100077-B4bfXz0wVOPO.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100077-XKMTrxaMGhBj.jpg",
-		"rating": 80,
-		"type": "TV"
-	}, {
-		"id": 113311,
-		"malId": 40716,
-		"title": {
-			"romaji": "Kakushigoto",
-			"english": "Kakushigoto",
-			"native": "かくしごと",
-			"userPreferred": "Kakushigoto"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113311-6bSvvCHBpjpI.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113311-T1FWgCflSKtl.jpg",
-		"rating": 78,
-		"type": "TV"
-	}, {
-		"id": 138882,
-		"malId": 49776,
-		"title": {
-			"romaji": "Kumichou Musume to Sewagakari",
-			"english": "The Yakuza's Guide to Babysitting",
-			"native": "組長娘と世話係",
-			"userPreferred": "Kumichou Musume to Sewagakari"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138882-Ich6OQJxB9P8.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138882-DLq6pAk0dlY5.jpg",
-		"rating": 78,
-		"type": "TV"
-	}, {
-		"id": 110349,
-		"malId": 40052,
-		"title": {
-			"romaji": "GREAT PRETENDER",
-			"english": "Great Pretender",
-			"native": "GREAT PRETENDER",
-			"userPreferred": "GREAT PRETENDER"
-		},
-		"status": "Completed",
-		"episodes": 23,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110349-59hhZ9CNHVdk.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110349-bGG1E4uunLoq.jpg",
-		"rating": 82,
-		"type": "ONA"
-	}, {
-		"id": 114888,
-		"malId": 41120,
-		"title": {
-			"romaji": "Fugou Keiji: Balance:UNLIMITED",
-			"english": "The Millionaire Detective - Balance: UNLIMITED",
-			"native": "富豪刑事 Balance:UNLIMITED",
-			"userPreferred": "Fugou Keiji: Balance:UNLIMITED"
-		},
-		"status": "Completed",
-		"episodes": 11,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114888-lgecUF3O1AWS.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114888-YVXJvMnuWCDb.jpg",
-		"rating": 75,
-		"type": "TV"
-	}, {
-		"id": 21659,
-		"malId": 32828,
-		"title": {
-			"romaji": "Amaama to Inazuma",
-			"english": "Sweetness & Lightning",
-			"native": "甘々と稲妻",
-			"userPreferred": "Amaama to Inazuma"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21659-r1nnqXPIcl9D.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21659-mtAdYXBPnj8B.jpg",
-		"rating": 73,
-		"type": "TV"
-	}, {
-		"id": 139589,
-		"malId": 49909,
-		"title": {
-			"romaji": "Kotarou wa Hitorigurashi",
-			"english": "Kotaro Lives Alone",
-			"native": "コタローは１人暮らし",
-			"userPreferred": "Kotarou wa Hitorigurashi"
-		},
-		"status": "Completed",
-		"episodes": 10,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139589-oFz7JwpwRkQV.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139589-IT7nRd5HGrGN.jpg",
-		"rating": 83,
-		"type": "ONA"
-	}, {
-		"id": 918,
-		"malId": 918,
-		"title": {
-			"romaji": "Gintama",
-			"english": "Gintama",
-			"native": "銀魂",
-			"userPreferred": "Gintama"
-		},
-		"status": "Completed",
-		"episodes": 201,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-hRbQHIkRUebX.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/918-bljqHE1PFArH.jpg",
-		"rating": 85,
-		"type": "TV"
-	}, {
-		"id": 1844,
-		"malId": 1844,
-		"title": {
-			"romaji": "CLAMP Gakuen Tanteidan",
-			"english": "CLAMP School Detectives",
-			"native": "CLAMP学園探偵団",
-			"userPreferred": "CLAMP Gakuen Tanteidan"
-		},
-		"status": "Completed",
-		"episodes": 26,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1844-4tLpH2syumok.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1844-4tLpH2syumok.jpg",
-		"rating": 62,
-		"type": "TV"
-	}, {
-		"id": 132193,
-		"malId": 48707,
-		"title": {
-			"romaji": "Gokushufudou Part 2",
-			"english": "The Way of the Househusband Part 2",
-			"native": "極主夫道 パート2",
-			"userPreferred": "Gokushufudou Part 2"
-		},
-		"status": "Completed",
-		"episodes": 5,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132193-sooBNRHdfLZu.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132193-sooBNRHdfLZu.jpg",
-		"rating": 74,
-		"type": "ONA"
-	}, {
-		"id": 155907,
-		"malId": 53411,
-		"title": {
-			"romaji": "Buddy Daddies",
-			"english": "Buddy Daddies",
-			"native": "Buddy Daddies",
-			"userPreferred": "Buddy Daddies"
-		},
-		"status": "Ongoing",
 		"episodes": 13,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155907-gR7aRwVHwrjc.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155907-UhtFRUPBu4cB.jpg",
-		"rating": 76,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-ECZSqfknAqAT.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142838-tynuN00wxmKO.jpg",
+		"rating": 84,
 		"type": "TV"
-	}],
+	}
+	],
 	"characters": [{
 		"id": 138101,
 		"role": "MAIN",
