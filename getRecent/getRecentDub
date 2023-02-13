@@ -1,5 +1,14 @@
 [
     {
+        "animeId": "ben-10",
+        "episodeId": "ben-10-episode-1",
+        "name": "Ben 10 (2005)",
+        "episodeNum": "52",
+        "subOrDub": "dub",
+        "imgUrl": "../cover/ben-10-poster.jpg",
+        "episodeUrl": "anime/ben-10"
+    },
+    {
         "animeId": "spy-x-family-part-2",
         "episodeId": "spy-x-family-part-2-episode-1",
         "name": "SPY×FAMILY Part 2",
