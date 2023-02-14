@@ -1,0 +1,409 @@
+{
+	"id": "10",
+	"title": {
+		"romaji": "Ben 10: Ultimate Alien",
+		"english": "Ben 10: Ultimate Alien",
+		"native": "Ben 10: Ultimate Alien"
+	},
+	"malId": 44511,
+	"synonyms": ["Ben 10: Ultimate Alien", "Ultimate Alien"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"trailer": {},
+	"image": "../cover/ben-10-ultimate-alien-poster.jpg",
+	"popularity": 1890,
+	"color": "#6b1a1a",
+	"cover": "../cover/ben-10-ultimate-alien-cover.jpg",
+	"description": "With his secret identity now revealed to the world, Ben Tennyson continues to fight evil as a superhero with the help of the newly acquired Ultimatrix.",
+	"status": "Completed",
+	"releaseDate": 2010,
+	"startDate": {
+		"year": 2010,
+		"month": 4,
+		"day": 23
+	},
+	"endDate": {
+		"year": 2012,
+		"month": 3,
+		"day": 31
+	},
+	"totalEpisodes": 52,
+	"rating": 73	,
+	"duration": 22,
+	"genres": ["Action", "Adventure", "Comedy", "Drama", "Science", "Sci-Fi", "Fantasy", "Superhero"],
+	"season": "Spring",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"mappings": {},
+	"episodes": [{
+		"id": "ben-10-ultimate-alien-episode-1",
+		"title": "Fame",
+		"description": "Ben's secret is out. As Ben deals with his newfound fame, a new threat emerges as a thief steals parts of a new advanced spaceship from NASA.",
+		"number": 1,
+		"image": "https://m.media-amazon.com/images/M/MV5BYmMyNDU1ZTQtMmQ0My00YmZkLTk1NGItMzRlYWZhMmY0MmQ0XkEyXkFqcGdeQXVyMjMyOTkyMDY@._V1_UY126_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-2",
+		"title": "Duped",
+		"description": "Ben is supposed to attend a tournament to support his girlfriend, but the Forever Knights are trying to break into a museum. Ben tries to use the Ultimatrix to handle all his obligations.",
+		"number": 2,
+		"image": "https://m.media-amazon.com/images/M/MV5BMmVmOTlkOTQtZTdhNS00ZjAzLTkxZmUtYmNhYzI1YmI1ZmM2XkEyXkFqcGdeQXVyMjMyOTkyMDY@._V1_UY126_CR1,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-3",
+		"title": "Hit 'Em Where They Live",
+		"description": "With Ben's identity known, some of his enemies (such as Zombozo, Rojo, Charmcaster, Vulkanus, and SevenSeven) team up to try to attack his family. Now Ben and friends have to protect them no matter what.",
+		"number": 3,
+		"image": "https://m.media-amazon.com/images/M/MV5BNjhhM2Y1MzktMjQxNy00OTZiLTliMTEtZDM5MzZjMzQ3NWZhXkEyXkFqcGdeQXVyMjMyOTkyMDY@._V1_UY126_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-4",
+		"title": "Video Games",
+		"description": "Ben gets an offer to star in his own video game, but the designer's real motives are part of a plan to destroy Ben.",
+		"number": 4,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjM2NjI0ODE0OV5BMl5BanBnXkFtZTgwMDU5NzQ1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-5",
+		"title": "Escape from Aggregor",
+		"description": "The team encounters another alien who escaped from Aggregor and, through him, learns more about Aggregor's goals.",
+		"number": 5,
+		"image": "https://m.media-amazon.com/images/M/MV5BOTM5NTI1MjczN15BMl5BanBnXkFtZTgwOTc2NzQ1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-6",
+		"title": "Too Hot to Handle",
+		"description": "P'Andor, escaped from Aggregor, now wants help to escape his encapsulating suit, but Kevin's the first to perceive that that's a fatally bad idea.",
+		"number": 6,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTg3MDYwMDg4OF5BMl5BanBnXkFtZTgwODIzNDU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-7",
+		"title": "Andreas' Fault",
+		"description": "Then team encounters another of Aggregor's escaped prisoners, Andreas, whom Argit is using as part of a scheme against the Forever Knights.",
+		"number": 7,
+		"image": "https://m.media-amazon.com/images/M/MV5BODk1Mzc0MDQ2Ml5BMl5BanBnXkFtZTgwOTQ5MzU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-8",
+		"title": "Fused",
+		"description": "Ra'ad, the last of Aggregor's escaped prisoners, attacks Ben and informs the team of the true fate of his comrades. He finds a safe hiding place but one that endangers Ben in the process.",
+		"number": 8,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjE1MDkyNjU4OF5BMl5BanBnXkFtZTgwNjU5MzU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-9",
+		"title": "Hero Time",
+		"description": "Ben meets his hero, Captain Nemesis, who's become jealous of all the attention Ben attracts.",
+		"number": 9,
+		"image": "https://m.media-amazon.com/images/M/MV5BMzQ1OGI1YmMtOThmYi00MTI1LWIxZGEtYmRkZTZjMmYwODg2XkEyXkFqcGdeQXVyMTQ5NTY1MTk3._V1_UY126_CR3,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-10",
+		"title": "Ultimate Aggregor",
+		"description": "Aggregor has all five aliens. The Plumbers manage to disable Aggregor's ship, forcing Aggregor to find a new way to absorb their powers. The team makes a last ditch effort to save the alien prisoners.",
+		"number": 10,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTcyMTk5MjAzMV5BMl5BanBnXkFtZTgwMDQwMTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-11",
+		"title": "Map of Infinity",
+		"description": "Aggregor has absorbed all the powers of his captured aliens. Now he's after the Map of Infinity.",
+		"number": 11,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjE4MzMzNjEzMV5BMl5BanBnXkFtZTgwMTczMjU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-12",
+		"title": "Reflected Glory",
+		"description": "Cash and JT convince the team to allow them to take credit for the team's actions so they can earn money for Cash's mother's operation.",
+		"number": 12,
+		"image": "https://m.media-amazon.com/images/M/MV5BNjc4MTI3MTk2OV5BMl5BanBnXkFtZTgwNTQzMjU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-13",
+		"title": "Deep",
+		"description": "Aggregor is after the next piece of the map on a watery planet.",
+		"number": 13,
+		"image": "https://m.media-amazon.com/images/M/MV5BNTg3MTE2OTc3OV5BMl5BanBnXkFtZTgwOTczMjU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-14",
+		"title": "Where the Magic Happens",
+		"description": "Aggregor escapes to a magical dimension. Gwen asks for Charmcaster's help to pursue him. The team learns about Charmcaster's past and why she's willing to help them now.",
+		"number": 14,
+		"image": "https://m.media-amazon.com/images/M/MV5BMmNjOWRjM2ItMzA4MS00NDEzLWE1MTMtMDcxYTJhMzdhY2YwXkEyXkFqcGdeQXVyMTMzNDQwMDk3._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-15",
+		"title": "Perplexahedron",
+		"description": "The last piece of the map is hidden in an artificial puzzle world.",
+		"number": 15,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjA2MzExMjE0NV5BMl5BanBnXkFtZTgwMjYzMjU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-16",
+		"title": "The Forge of Creation",
+		"description": "As the team makes its final attempt to stop Aggregor, they find an unexpected ally, and one person will make a fateful decision with lasting repercussions.",
+		"number": 16,
+		"image": "https://m.media-amazon.com/images/M/MV5BNTM3NzYwNTc5NF5BMl5BanBnXkFtZTgwNTczMjU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-17",
+		"title": "...Nor Iron Bars a Cage",
+		"description": "Kevin's out for payback on anyone who has ever crossed him. His next stop is a prison in the Null Void. Ben and Gwen try to stop him, where Ben comes to a grim decision.",
+		"number": 17,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjM0MTIzODY0NF5BMl5BanBnXkFtZTgwMjgzMjU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-18",
+		"title": "The Enemy of My Enemy",
+		"description": "Argit asks Ben and Gwen for protection from Kevin, so they take him to the nearest Plumbers Academy, but that won't stop Kevin.",
+		"number": 18,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTA5MTMzOTY3NTNeQTJeQWpwZ15BbWU4MDUzMzI1NTIx._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-19",
+		"title": "Absolute Power: Part 1",
+		"description": "Kevin starts going after Plumbers kids to gain more power. Ben and Gwen continue to argue about how to handle the situation. Gwen tries to find someone who will help her cure Kevin.",
+		"number": 19,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTc3NzI2NjU4Nl5BMl5BanBnXkFtZTgwNzIwNDUyNTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-20",
+		"title": "Absolute Power: Part 2",
+		"description": "Final confrontation with Kevin. While Gwen makes a last ditch effort to save Kevin, Ben fights an all out battle with Kevin.",
+		"number": 20,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTYzOTE5MTcwN15BMl5BanBnXkFtZTgwODIwNDUyNTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-21",
+		"title": "The Transmogrification of Eunice",
+		"description": "The team's camping break is interrupted when a pod crashes nearby. The occupant has no memory who she is or where she came from. Sunder soon arrives to retrieve her.",
+		"number": 21,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTA3NTQ1MzUyODZeQTJeQWpwZ15BbWU4MDUzMDk0NTIx._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-22",
+		"title": "Eye of the Beholder",
+		"description": "Ship runs away to help Baz-El. Julie turns to Ben for help, but after their break up, he's reluctant. Gwen and Kevin accompany Julie on her quest.",
+		"number": 22,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU1ODU0MzU3N15BMl5BanBnXkFtZTgwMjk3MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-23",
+		"title": "Viktor: The Spoils",
+		"description": "The King of Zarkovia asks the team for help with a civil war. The team agrees to help when they find out Dr. Viktor may be involved.",
+		"number": 23,
+		"image": "https://m.media-amazon.com/images/M/MV5BNjgxMTQ0OTAwOF5BMl5BanBnXkFtZTgwODIwNTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-24",
+		"title": "The Big Story",
+		"description": "Jimmy investigates a possible alien sighting. But with no solid evidence, few believe him. As Ben starts acting strangely, the others suspect Jimmy may be right.",
+		"number": 24,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ1NjM4MjM4MV5BMl5BanBnXkFtZTgwOTU1ODU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-25",
+		"title": "Girl Trouble",
+		"description": "Cousin Sunny is supposed to stay with Gwen for the summer. The team learns why her parents sent their child to Gwen when she helps them stop a robot invasion.",
+		"number": 25,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjM1MDA2ODMyNl5BMl5BanBnXkFtZTgwMjQwMTY1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-26",
+		"title": "Revenge of the Swarm",
+		"description": "Ben is attacked by Victor Validus. The team soon discovers that Validus passed away. The team turns to Ben's friend, Elena, for help to locate the Nanite Queen.",
+		"number": 26,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTk2OTgxOTMxMl5BMl5BanBnXkFtZTgwMTM3OTQ1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-27",
+		"title": "The Creature from Beyond",
+		"description": "The Forever Knights open an ancient vault hoping to find weapons. They unwittingly release a creature.",
+		"number": 27,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU4MTcxMTgxNV5BMl5BanBnXkFtZTgwMTk2ODQ1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-28",
+		"title": "Basic Training",
+		"description": "The team is required to attend Plumbers Academy to keep their badges.",
+		"number": 28,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjMxMTk5MzU5M15BMl5BanBnXkFtZTgwMzE3OTQ1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-29",
+		"title": "It's Not Easy Being Gwen",
+		"description": "Gwen Tennyson has a busy schedule. Balancing her family life, school, a friend's recital, and the latest plot by Dr. Animo.",
+		"number": 29,
+		"image": "https://m.media-amazon.com/images/M/MV5BZDUxYjJmZTEtNGZmNS00MjBlLWJhZTItNDg1MDkyZDVhMWQxXkEyXkFqcGdeQXVyMTQ5NTY1MTk3._V1_UY126_CR2,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-30",
+		"title": "Ben 10,000 Returns",
+		"description": "20 years in the future, Eon attacks Ben 10,000, then disappears. Adult Ben travels back in time fearing Eon will attack his younger self, the present day Ben.",
+		"number": 30,
+		"image": "https://m.media-amazon.com/images/M/MV5BMDY4ZWViMzMtZTJkOS00OTE4LWEwMWMtZTY5ZTFhYzkxZWI2XkEyXkFqcGdeQXVyMTQ5NTY1MTk3._V1_UY126_CR11,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-31",
+		"title": "Moonstruck",
+		"description": "Grandpa Max tells the team about his first UFO encounter, which led him to meet Verdona.",
+		"number": 31,
+		"image": "https://m.media-amazon.com/images/M/MV5BOGYwM2ZkNTgtOWJmMS00NTQwLWFlYjYtOTc2NjY3MmY1Mjg1XkEyXkFqcGdeQXVyMTQ5NTY1MTk3._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-32",
+		"title": "Prisoner #775 Is Missing",
+		"description": "After a base is attacked, Max is infuriated when they learn it was a secret alien prison facility. While Max argues with the officer in charge, the team tries to locate an escaped prisoner.",
+		"number": 32,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTc0NjEzNjM5Ml5BMl5BanBnXkFtZTgwNDA4NDU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-33",
+		"title": "The Purge",
+		"description": "Old George, the original Forever Knight, reclaims his position, and orders the Knights to remove all aliens on Earth.",
+		"number": 33,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQyMjIxNDUzNl5BMl5BanBnXkFtZTgwMjM2MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-34",
+		"title": "Simian Says",
+		"description": "Simian asks the team for help when a DNAlien takes over his home world.",
+		"number": 34,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjEyMDEyMjI1NF5BMl5BanBnXkFtZTgwNzI2MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-35",
+		"title": "Greetings from Techadon",
+		"description": "Ben faces Tecadon killer robots that have been programmed to kill him. Each robot is more powerful than the last one. Ben's only chance to survive is for Gwen to find out who commissioned the robots.",
+		"number": 35,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTc4MzAxMTc0N15BMl5BanBnXkFtZTgwMTM2MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-36",
+		"title": "The Flame Keeper's Circle",
+		"description": "Julie gets Ben to visit a charity organization who wants to improve the world with alien technology. Ben soon discovers the charity's benefactor is an old enemy.",
+		"number": 36,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU2OTM2MDk1N15BMl5BanBnXkFtZTgwMjE2MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-37",
+		"title": "Double or Nothing",
+		"description": "Ben finds out there's a new show called 'Ben 10: Live." He finds an old enemy running the show and cashing in on his fame.",
+		"number": 37,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ0MzQ2ODYzMF5BMl5BanBnXkFtZTgwODU2MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-38",
+		"title": "The Perfect Girlfriend",
+		"description": "Julie suddenly leaves a tennis tournament and spends all her time with Ben.",
+		"number": 38,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjIyNDIzNDExMV5BMl5BanBnXkFtZTgwMTU2MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-39",
+		"title": "Ultimate Sacrifice",
+		"description": "Ben's Ultimate transformations have developed their own personalities. Now they want their freedom from Ben.",
+		"number": 39,
+		"image": "https://m.media-amazon.com/images/M/MV5BOTk5OTA2OTcwMl5BMl5BanBnXkFtZTgwODI2MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-40",
+		"title": "The Widening Gyre",
+		"description": "Colonel Rozum asks the team to investigate an island of garbage where people have been disappearing.",
+		"number": 40,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjEwMjk3MjYxN15BMl5BanBnXkFtZTgwOTI2MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-41",
+		"title": "The Mother of All Vreedles",
+		"description": "Ma Vreedle goes to Earth to expand her family by creating clones and using all the water on Earth.",
+		"number": 41,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjQwNTQwNzQzNV5BMl5BanBnXkFtZTgwMzY2MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-42",
+		"title": "A Knight to Remember",
+		"description": "The Flame Keepers realize their mistake too late. Vilgax wants the power of Daigon. The Forever Knights are out to destroy Daigon. Ben and the team try to sort things out.",
+		"number": 42,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjE0ODQwNzA4Nl5BMl5BanBnXkFtZTgwNDI2MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-43",
+		"title": "Solitary Alignment",
+		"description": "Azmuth reveals the origin of the sword and how he first encountered Old George. Ben comes to a decision on how to handle the Daigon.",
+		"number": 43,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ0NDQ1MDg5NV5BMl5BanBnXkFtZTgwNjg3MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-44",
+		"title": "Inspector #13",
+		"description": "A Techadon weapon master comes to Earth and wants the Ultimatrix.",
+		"number": 44,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjM4MjA2MTc1MF5BMl5BanBnXkFtZTgwNzc3MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-45",
+		"title": "The Enemy of My Frenemy",
+		"description": "Gwen and co revisit Legerdomain in hopes of rescuing Charmcaster.",
+		"number": 45,
+		"image": "https://m.media-amazon.com/images/M/MV5BZDhjZjVjOTEtMmMwNC00Nzk0LTgzNTctNDc0ZjcwOTM1ZjVhXkEyXkFqcGdeQXVyMTQ5NTY1MTk3._V1_UY126_CR9,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-46",
+		"title": "Couples Retreat",
+		"description": "Charmcaster & Darkstar team up to destroy Ben, Gwen and Kevin.",
+		"number": 46,
+		"image": "https://m.media-amazon.com/images/M/MV5BYzI3MGVjMWMtMWI1YS00YjAxLTliZjEtNmJjMzkyZjJhNzc1XkEyXkFqcGdeQXVyMTQ5NTY1MTk3._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-47",
+		"title": "Catch a Falling Star",
+		"description": "Movie starlet Jennifer Nocturne is recaptured by the evil Captain Nemesis!",
+		"number": 47,
+		"image": "https://m.media-amazon.com/images/M/MV5BMGYyNzM5OWQtNzcxYy00NDg3LTk1MDctYTY2NWI0YmUxNGQxXkEyXkFqcGdeQXVyMTQ5NTY1MTk3._V1_UY126_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-48",
+		"title": "The Egg Man Cometh",
+		"description": "Dr. Animo returns! Introducing NEW ALIEN, Juryrigg!",
+		"number": 48,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjA3Mzc2MzMwNl5BMl5BanBnXkFtZTgwNDc3MTU1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-49",
+		"title": "Night of the Living Nightmares",
+		"description": "Albedo attempts to get the ultimatrix by invading Ben's mind.",
+		"number": 49,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTA3NDI4NTc1NzheQTJeQWpwZ15BbWU4MDM4MTU1NTIx._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-50",
+		"title": "The Beginning of the End",
+		"description": "The final battle between the Forever Knights and Dagon's Esoterica is in full swing, with Ben caught in the middle!",
+		"number": 50,
+		"image": "https://m.media-amazon.com/images/M/MV5BNDY2MzQyNTA1Nl5BMl5BanBnXkFtZTgwNzY1OTQ1MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-51",
+		"title": "The Ultimate Enemy: Part 1",
+		"description": "The Forever Knights battle Diagon's Esoterica, and Ben's plan to help the knights fails.",
+		"number": 51,
+		"image": "https://m.media-amazon.com/images/M/MV5BZjFjZWNiNmMtMmY0MS00M2FhLTliNjQtODc0ODRjM2NmOWVmXkEyXkFqcGdeQXVyNjUxNDIzMTA@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-ultimate-alien-episode-52",
+		"title": "The Ultimate Enemy: Part 2",
+		"description": "After defeating Vilgax, Ben battles Dagon in his True Form as Ultimate Way Big.",
+		"number": 52,
+		"image": "https://m.media-amazon.com/images/M/MV5BN2I2Y2JjN2EtM2NkZS00YTMzLWI1ODgtM2FhYWY1ZDc0YjRlXkEyXkFqcGdeQXVyNjUxNDIzMTA@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}
+	]
+}
