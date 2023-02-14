@@ -18,7 +18,7 @@
   "isAdult": false,
   "countryOfOrigin": "JP",
   "trailer": {},
-  "image": "../cover/pokemon-the-series-xyz.png",
+  "image": "../cover/pokemon-the-series-xyz.jpg",
   "popularity": 9160,
   "color": "#e45d5d",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21356-Flp4q9AKu0wX.jpg",
@@ -57,7 +57,7 @@
       },
       "status": "Completed",
       "episodes": 49,
-      "image": "../cover/pokemon-black-white-rival-destinies.png",
+      "image": "../cover/pokemon-black-white-rival-destinies.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
       "rating": 70,
       "type": "TV",
@@ -74,7 +74,7 @@
       },
       "status": "Completed",
       "episodes": 45,
-      "image": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.png",
+      "image": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
       "rating": 70,
       "type": "TV",
@@ -91,7 +91,7 @@
       },
       "status": "Completed",
       "episodes": 48,
-      "image": "../cover/pokemon-the-series-xy.png",
+      "image": "../cover/pokemon-the-series-xy.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
       "rating": 70,
       "type": "TV",
@@ -108,7 +108,7 @@
       },
       "status": "Completed",
       "episodes": 45,
-      "image": "../cover/pokemon-the-series-xy-kalos-quest.png",
+      "image": "../cover/pokemon-the-series-xy-kalos-quest.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
       "rating": 70,
       "type": "TV",
@@ -125,7 +125,7 @@
       },
       "status": "Completed",
       "episodes": 43,
-      "image": "../cover/pokemon-the-series-sun-moon.png",
+      "image": "../cover/pokemon-the-series-sun-moon.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97634-rW6evjANAvL9.jpg",
       "rating": 66,
       "type": "TV",
@@ -142,7 +142,7 @@
       },
       "status": "Completed",
       "episodes": 48,
-      "image": "../cover/pokemon-the-series-sun-moon-ultra-adventures.png",
+      "image": "../cover/pokemon-the-series-sun-moon-ultra-adventures.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97634-rW6evjANAvL9.jpg",
       "rating": 66,
       "type": "TV",
@@ -159,7 +159,7 @@
       },
       "status": "Completed",
       "episodes": 54,
-      "image": "../cover/pokemon-the-series-sun-moon-ultra-legends.png",
+      "image": "../cover/pokemon-the-series-sun-moon-ultra-legends.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97634-rW6evjANAvL9.jpg",
       "rating": 66,
       "type": "TV",
@@ -176,7 +176,7 @@
       },
       "status": "Completed",
       "episodes": 48,
-      "image": "../cover/pokemon-journeys-the-series.png",
+      "image": "../cover/pokemon-journeys-the-series.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112153-01RDuvgGTXjp.jpg",
       "rating": 72,
       "type": "TV",
@@ -193,7 +193,7 @@
       },
       "status": "Completed",
       "episodes": 42,
-      "image": "../cover/pokemon-master-journeys-the-series.png",
+      "image": "../cover/pokemon-master-journeys-the-series.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112153-01RDuvgGTXjp.jpg",
       "rating": 72,
       "type": "TV",
@@ -210,7 +210,7 @@
       },
       "status": "Completed",
       "episodes": 45,
-      "image": "../cover/pokemon-ultimate-journeys.png",
+      "image": "../cover/pokemon-ultimate-journeys.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112153-01RDuvgGTXjp.jpg",
       "rating": 72,
       "type": "TV",
@@ -228,7 +228,7 @@
         "native": "伏黒恵",
         "userPreferred": "Megumi Fushiguro"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.jpg",
       "voiceActors": [
         {
           "id": 119617,
@@ -264,7 +264,7 @@
             "native": null,
             "userPreferred": "Cristiano Paglionico"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n231385-wCKFLRTz4hla.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n231385-wCKFLRTz4hla.jpg"
         },
         {
           "id": 189431,
@@ -276,7 +276,7 @@
             "native": "Víctor Miguel Ruiz Cabrera",
             "userPreferred": "Víctor Ruiz"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189431-oGVmmVdly4jp.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189431-oGVmmVdly4jp.jpg"
         },
         {
           "id": 176914,
@@ -312,7 +312,7 @@
             "native": null,
             "userPreferred": "Jannik Endemann"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102002-3Xk1bkO1hWkN.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102002-3Xk1bkO1hWkN.jpg"
         }
       ]
     },
@@ -326,7 +326,7 @@
         "native": "虎杖悠仁",
         "userPreferred": "Yuuji Itadori"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.jpg",
       "voiceActors": [
         {
           "id": 119319,
@@ -338,7 +338,7 @@
             "native": "榎木淳弥",
             "userPreferred": "Junya Enoki"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.jpg"
         },
         {
           "id": 195227,
@@ -424,7 +424,7 @@
         "native": "釘崎野薔薇",
         "userPreferred": "Nobara Kugisaki"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.jpg",
       "voiceActors": [
         {
           "id": 106787,
@@ -436,7 +436,7 @@
             "native": "瀬戸麻沙美",
             "userPreferred": "Asami Seto"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-pNRFEiywJuEx.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-pNRFEiywJuEx.jpg"
         },
         {
           "id": 195228,
@@ -472,7 +472,7 @@
             "native": null,
             "userPreferred": "Ayari Rivera"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195311-lZvqFpUQVLNI.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195311-lZvqFpUQVLNI.jpg"
         },
         {
           "id": 180895,
@@ -484,7 +484,7 @@
             "native": null,
             "userPreferred": "Amanda Brígido"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n180895-nJd1JaEkzl3r.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n180895-nJd1JaEkzl3r.jpg"
         },
         {
           "id": 116429,
@@ -522,7 +522,7 @@
         "native": "五条悟",
         "userPreferred": "Satoru Gojou"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-6m4hNwL2vLML.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-6m4hNwL2vLML.jpg",
       "voiceActors": [
         {
           "id": 95513,
@@ -534,7 +534,7 @@
             "native": "中村悠一",
             "userPreferred": "Yuuichi Nakamura"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.jpg"
         },
         {
           "id": 103491,
@@ -570,7 +570,7 @@
             "native": "José Gilberto Vilchis Barrero",
             "userPreferred": "José Gilberto Vilchis"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105021-Bn6vy2ClY3uX.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105021-Bn6vy2ClY3uX.jpg"
         },
         {
           "id": 175184,
@@ -582,7 +582,7 @@
             "native": null,
             "userPreferred": "Leonardo Rabelo"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175184-FHiCJYMtiWCR.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175184-FHiCJYMtiWCR.jpg"
         },
         {
           "id": 96632,
@@ -620,7 +620,7 @@
         "native": "七海建人",
         "userPreferred": "Kento Nanami"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.jpg",
       "voiceActors": [
         {
           "id": 95591,
@@ -644,7 +644,7 @@
             "native": null,
             "userPreferred": "David Vincent"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101457-DXEZhScJUr5I.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101457-DXEZhScJUr5I.jpg"
         },
         {
           "id": 115082,
@@ -668,7 +668,7 @@
             "native": null,
             "userPreferred": "Carlos Hernández"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182632-e2nWGMpffbnC.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182632-e2nWGMpffbnC.jpg"
         },
         {
           "id": 190262,
@@ -680,7 +680,7 @@
             "native": null,
             "userPreferred": "Nizo Neto"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190262-yrsAl5PxkNuY.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190262-yrsAl5PxkNuY.jpg"
         },
         {
           "id": 154153,
@@ -692,7 +692,7 @@
             "native": null,
             "userPreferred": "Constantin Pappas"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n154153-y6Y8JWyyPnBG.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n154153-y6Y8JWyyPnBG.jpg"
         },
         {
           "id": 139860,
@@ -704,7 +704,7 @@
             "native": null,
             "userPreferred": "Oliver Feld"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139860-fYrDRhWMQI9n.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139860-fYrDRhWMQI9n.jpg"
         }
       ]
     },
@@ -718,7 +718,7 @@
         "native": "楽巌寺嘉伸",
         "userPreferred": "Yoshinobu Gakuganji"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157867-dHdd8ZECuzHx.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157867-dHdd8ZECuzHx.jpg",
       "voiceActors": [
         {
           "id": 96436,
@@ -778,7 +778,7 @@
             "native": null,
             "userPreferred": " Luiz Carlos Persy"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175181-r4CfS7jsTXlq.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175181-r4CfS7jsTXlq.jpg"
         },
         {
           "id": 115394,
@@ -790,7 +790,7 @@
             "native": null,
             "userPreferred": "Frédéric Cerdal"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115394-no7QBJPaqv2f.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115394-no7QBJPaqv2f.jpg"
         },
         {
           "id": 141256,
@@ -828,7 +828,7 @@
             "native": "中島ヨシキ",
             "userPreferred": "Yoshiki Nakajima"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115096-bge79ik3lOOR.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115096-bge79ik3lOOR.jpg"
         },
         {
           "id": 153456,
@@ -864,7 +864,7 @@
             "native": null,
             "userPreferred": "Laurent Gris"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n221385-xrELqLAeOVR1.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n221385-xrELqLAeOVR1.jpg"
         }
       ]
     },
@@ -940,7 +940,7 @@
         "native": "血塗",
         "userPreferred": "Kechizu"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210832-d1Fg0CePSU86.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210832-d1Fg0CePSU86.jpg",
       "voiceActors": [
         {
           "id": 95067,
@@ -952,7 +952,7 @@
             "native": "山口勝平",
             "userPreferred": "Kappei Yamaguchi"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.jpg"
         },
         {
           "id": 201436,
@@ -964,7 +964,7 @@
             "native": null,
             "userPreferred": "Cuauhtemoc Miranda"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201436-NGNVXRJwqEDN.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201436-NGNVXRJwqEDN.jpg"
         },
         {
           "id": 180889,
@@ -1014,7 +1014,7 @@
             "native": "田中敦子",
             "userPreferred": "Atsuko Tanaka"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-QZdjWZLCoWkf.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-QZdjWZLCoWkf.jpg"
         },
         {
           "id": 235011,
@@ -1038,7 +1038,7 @@
             "native": null,
             "userPreferred": "Mayela Fernández"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n233528-BWcnFjAtDrGl.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n233528-BWcnFjAtDrGl.jpg"
         },
         {
           "id": 186419,
@@ -1050,7 +1050,7 @@
             "native": null,
             "userPreferred": "Tonia Mesquita"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n186419-No2MjyEjNVeS.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n186419-No2MjyEjNVeS.jpg"
         },
         {
           "id": 218899,
@@ -1100,7 +1100,7 @@
         "native": "夜蛾正道",
         "userPreferred": "Masamichi Yaga"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189237-ZxNJwVPL8DvW.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189237-ZxNJwVPL8DvW.jpg",
       "voiceActors": [
         {
           "id": 96122,
@@ -1112,7 +1112,7 @@
             "native": "黒田崇矢",
             "userPreferred": "Takaya Kuroda"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96122-KZMI0XXqYtpG.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96122-KZMI0XXqYtpG.jpg"
         },
         {
           "id": 100476,
@@ -1148,7 +1148,7 @@
             "native": null,
             "userPreferred": "Alejandro Ortega"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n202544-L8ib4612LMjF.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n202544-L8ib4612LMjF.jpg"
         },
         {
           "id": 175613,
@@ -1184,7 +1184,7 @@
             "native": null,
             "userPreferred": "Peter Sura"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n138294-1Abgh8gtBeA5.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n138294-1Abgh8gtBeA5.jpg"
         }
       ]
     },
@@ -1198,7 +1198,7 @@
         "native": "井口",
         "userPreferred": "Iguchi"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200767-bTqPLS2Jpiqf.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200767-bTqPLS2Jpiqf.jpg",
       "voiceActors": [
         {
           "id": 129947,
@@ -1234,7 +1234,7 @@
             "native": null,
             "userPreferred": "Alessandro Fattori"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n240255-YUlZqPsayoZA.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n240255-YUlZqPsayoZA.jpg"
         },
         {
           "id": 106537,
@@ -1270,7 +1270,7 @@
             "native": null,
             "userPreferred": "Peter Lontzek"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153695-Fnr4amQyC9pX.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153695-Fnr4amQyC9pX.jpg"
         }
       ]
     },
@@ -1284,7 +1284,7 @@
         "native": "重面春太",
         "userPreferred": "Haruta Shigemo"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209694-xSS6FxN4al3l.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209694-xSS6FxN4al3l.jpg",
       "voiceActors": [
         {
           "id": 95098,
@@ -1308,7 +1308,7 @@
             "native": null,
             "userPreferred": "Chris Hackney"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129650-Zl2AyZpwb7Jz.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129650-Zl2AyZpwb7Jz.jpg"
         },
         {
           "id": 182230,
@@ -1320,7 +1320,7 @@
             "native": "Alberto Bernal García",
             "userPreferred": "Alberto Bernal"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182230-U2LIlKLHrRQZ.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182230-U2LIlKLHrRQZ.jpg"
         },
         {
           "id": 191569,
@@ -1332,7 +1332,7 @@
             "native": null,
             "userPreferred": "Wagner Follare"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n191569-NOyYF26nPBmB.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n191569-NOyYF26nPBmB.jpg"
         },
         {
           "id": 104910,
@@ -1370,7 +1370,7 @@
         "native": "真人",
         "userPreferred": "Mahito"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133702-Y7JRG5vAvjIL.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133702-Y7JRG5vAvjIL.jpg",
       "voiceActors": [
         {
           "id": 105989,
@@ -1394,7 +1394,7 @@
             "native": null,
             "userPreferred": "Lucien Dodge"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115853-aVnQRsRBXXsn.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115853-aVnQRsRBXXsn.jpg"
         },
         {
           "id": 236692,
@@ -1430,7 +1430,7 @@
             "native": null,
             "userPreferred": "Leonardo Santhos"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175174-U4IuF1DVQ0EB.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175174-U4IuF1DVQ0EB.jpg"
         },
         {
           "id": 218904,
@@ -1454,7 +1454,7 @@
             "native": null,
             "userPreferred": "Dirk Stollberg"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102378-gdiNI8WYR9dS.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102378-gdiNI8WYR9dS.jpg"
         }
       ]
     },
@@ -1468,7 +1468,7 @@
         "native": "家入硝子",
         "userPreferred": "Shoko  Ieiri"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158154-UCqbiULli62P.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158154-UCqbiULli62P.jpg",
       "voiceActors": [
         {
           "id": 95054,
@@ -1480,7 +1480,7 @@
             "native": "遠藤綾",
             "userPreferred": "Aya Endou"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.jpg"
         },
         {
           "id": 129224,
@@ -1492,7 +1492,7 @@
             "native": null,
             "userPreferred": "Ryan Bartley"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129224-UOYnTHSiSC9C.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129224-UOYnTHSiSC9C.jpg"
         },
         {
           "id": 279131,
@@ -1516,7 +1516,7 @@
             "native": null,
             "userPreferred": "Elena Torres"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198311-0SHYhYtUVsbj.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198311-0SHYhYtUVsbj.jpg"
         },
         {
           "id": 175193,
@@ -1528,7 +1528,7 @@
             "native": null,
             "userPreferred": "Aline Ghezzi"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175193-s2v0yqtKMy97.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175193-s2v0yqtKMy97.jpg"
         },
         {
           "id": 116893,
@@ -1566,7 +1566,7 @@
         "native": "吉野凪",
         "userPreferred": "Nagi Yoshino"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b194056-yEzHVaAF9eqJ.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b194056-yEzHVaAF9eqJ.jpg",
       "voiceActors": [
         {
           "id": 95277,
@@ -1614,7 +1614,7 @@
             "native": null,
             "userPreferred": "Larissa de Lara"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175186-lqOhEHTetKdJ.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175186-lqOhEHTetKdJ.jpg"
         },
         {
           "id": 167262,
@@ -1700,7 +1700,7 @@
             "native": null,
             "userPreferred": "Héctor Moreno"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201433-zl4OW9AelRHg.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201433-zl4OW9AelRHg.jpg"
         },
         {
           "id": 182692,
@@ -1762,7 +1762,7 @@
             "native": "林勇",
             "userPreferred": "Yuu Hayashi"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116157-MAPYgEeptEUh.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116157-MAPYgEeptEUh.jpg"
         },
         {
           "id": 115853,
@@ -1774,7 +1774,7 @@
             "native": null,
             "userPreferred": "Lucien Dodge"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115853-aVnQRsRBXXsn.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115853-aVnQRsRBXXsn.jpg"
         },
         {
           "id": 225968,
@@ -1822,7 +1822,7 @@
             "native": null,
             "userPreferred": "Fabian Kluckert"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140889-YV7DwP9r0TAZ.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140889-YV7DwP9r0TAZ.jpg"
         }
       ]
     },
@@ -1836,7 +1836,7 @@
         "native": "新田明",
         "userPreferred": "Akari Nitta"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210846-XcRQ643Ne8Pb.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210846-XcRQ643Ne8Pb.jpg",
       "voiceActors": [
         {
           "id": 106361,
@@ -1848,7 +1848,7 @@
             "native": "徳井青空",
             "userPreferred": "Sora Tokui"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106361-EMvWLkEKavEM.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106361-EMvWLkEKavEM.jpg"
         },
         {
           "id": 109285,
@@ -1872,7 +1872,7 @@
             "native": "Karen Montserrat Espinoza Fonseca",
             "userPreferred": "Karen Fonseca"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n233530-Id8ybVwwXyAZ.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n233530-Id8ybVwwXyAZ.jpg"
         },
         {
           "id": 182674,
@@ -1896,7 +1896,7 @@
             "native": null,
             "userPreferred": "Magdalena Turba"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101101-lbaJmCUNBZMi.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101101-lbaJmCUNBZMi.jpg"
         }
       ]
     },
@@ -1910,7 +1910,7 @@
         "native": "漏瑚",
         "userPreferred": "Jougo"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156991-niYjdp9CxO4w.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156991-niYjdp9CxO4w.jpg",
       "voiceActors": [
         {
           "id": 95255,
@@ -1922,7 +1922,7 @@
             "native": "千葉繁",
             "userPreferred": "Shigeru Chiba"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.jpg"
         },
         {
           "id": 95512,
@@ -1958,7 +1958,7 @@
             "native": "Alfonso Obregón Inclán",
             "userPreferred": "Alfonso Obregón"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182554-YnvwrQGTSIjB.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182554-YnvwrQGTSIjB.jpg"
         },
         {
           "id": 175525,
@@ -2008,7 +2008,7 @@
         "native": "伊地知潔高",
         "userPreferred": "Kiyotaka Ijichi"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189238-ItSLams6lRk9.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b189238-ItSLams6lRk9.jpg",
       "voiceActors": [
         {
           "id": 95399,
@@ -2044,7 +2044,7 @@
             "native": null,
             "userPreferred": "Francesco Mei"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n225966-mytzk17EFton.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n225966-mytzk17EFton.jpg"
         },
         {
           "id": 201274,
@@ -2056,7 +2056,7 @@
             "native": null,
             "userPreferred": "Diego Estrada"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201274-cRPFnLKzD8hL.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201274-cRPFnLKzD8hL.jpg"
         },
         {
           "id": 180896,
@@ -2106,7 +2106,7 @@
         "native": "加茂 憲紀",
         "userPreferred": "Noritoshi  Kamo"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157866-UWDtYBoG71PD.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157866-UWDtYBoG71PD.jpg",
       "voiceActors": [
         {
           "id": 95245,
@@ -2130,7 +2130,7 @@
             "native": null,
             "userPreferred": "Landon McDonald"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n130682-CiKGcJqnff0C.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n130682-CiKGcJqnff0C.jpg"
         },
         {
           "id": 234816,
@@ -2154,7 +2154,7 @@
             "native": "Carlos Domínguez Pineda",
             "userPreferred": "Carlos Domínguez"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n233526-0v9UbasgFCX7.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n233526-0v9UbasgFCX7.jpg"
         },
         {
           "id": 210907,
@@ -2166,7 +2166,7 @@
             "native": null,
             "userPreferred": "Francisco Quintiliano"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n210907-bOKjpUyLXM3u.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n210907-bOKjpUyLXM3u.jpg"
         },
         {
           "id": 172665,
@@ -2204,7 +2204,7 @@
         "native": "伊藤翔太",
         "userPreferred": "Shouta Itou"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210062-EIMZ4Nmvx6rP.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210062-EIMZ4Nmvx6rP.jpg",
       "voiceActors": [
         {
           "id": 134224,
@@ -2228,7 +2228,7 @@
             "native": null,
             "userPreferred": "Gianandrea Muià"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n226800-to6J8SFHSVka.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n226800-to6J8SFHSVka.jpg"
         },
         {
           "id": 193991,
@@ -2264,7 +2264,7 @@
             "native": null,
             "userPreferred": "Benoît Fort"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n221384-E5VbVVPvP3Om.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n221384-E5VbVVPvP3Om.jpg"
         },
         {
           "id": 135843,
@@ -2302,7 +2302,7 @@
             "native": "松岡禎丞",
             "userPreferred": "Yoshitsugu Matsuoka"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.jpg"
         },
         {
           "id": 210241,
@@ -2314,7 +2314,7 @@
             "native": null,
             "userPreferred": "Patricio Pedret"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n210241-FSlP0smeD11P.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n210241-FSlP0smeD11P.jpg"
         },
         {
           "id": 153462,
@@ -2352,7 +2352,7 @@
         "native": "宿儺",
         "userPreferred": "Sukuna"
       },
-      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133701-JVAThWqcAncW.png",
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133701-JVAThWqcAncW.jpg",
       "voiceActors": [
         {
           "id": 95095,
@@ -2364,7 +2364,7 @@
             "native": "諏訪部順一",
             "userPreferred": "Junichi Suwabe"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.jpg"
         },
         {
           "id": 128717,
@@ -2388,7 +2388,7 @@
             "native": "Mattia Bressan",
             "userPreferred": "Mattia Bressan"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157480-SxPNCg5EQDlK.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157480-SxPNCg5EQDlK.jpg"
         },
         {
           "id": 195312,
@@ -2400,7 +2400,7 @@
             "native": "Osvaldo Trejo Rodríguez",
             "userPreferred": "Osvaldo Trejo"
           },
-          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195312-MJ64gxuryvT1.png"
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195312-MJ64gxuryvT1.jpg"
         },
         {
           "id": 177125,
