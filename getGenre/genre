@@ -11,6 +11,17 @@
             "genres": ["Action", "Adventure", "Science", "Fantasy", "Superhero"]
         },
         {
+            "animeId": "ben-10-alien-force",
+            "episodeId": "ben-10-alien-force-episode-1",
+            "name": "Ben 10: Alien Force",
+            "episodeNum": "46",
+            "subOrDub": "dub",
+            "type": "tv",
+            "imgUrl": "../cover/ben-10-alien-force-poster.jpg",
+            "episodeUrl": "anime/ben-10-alien-force",
+            "genres": ["Action", "Adventure", "Drama", "Science", "Fantasy", "Superhero"]
+        },
+        {
             "animeId": "chainsaw-man",
             "episodeId": "chainsaw-man-episode-1",
             "name": "Chainsaw Man",
