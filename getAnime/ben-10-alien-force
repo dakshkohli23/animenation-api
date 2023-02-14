@@ -1,0 +1,367 @@
+{
+	"id": "10",
+	"title": {
+		"romaji": "Ben 10: Alien Force",
+		"english": "Ben 10: Alien Force",
+		"native": "Ben 10: Alien Force"
+	},
+	"malId": 44511,
+	"synonyms": ["Ben 10: Alien Force", "Alien Force"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"trailer": {},
+	"image": "../cover/ben-10-alien-force-poster.jpg",
+	"popularity": 2082,
+	"color": "#6b1a1a",
+	"cover": "../cover/ben-10-alien-force-cover.jpg",
+	"description": "Set five years after the end of the original series, Ben Tennyson, now a teenager, once again dons the Omnitrix to protect the earth and other parts of the universe from villainous alien activity. The Omnitrix itself, a wristwatch-shaped device, allows Ben to transform into numerous alien forms, thereby inheriting the unique abilities of that alien race.",
+	"status": "Completed",
+	"releaseDate": 2008,
+	"startDate": {
+		"year": 2008,
+		"month": 4,
+		"day": 18
+	},
+	"endDate": {
+		"year": 2010,
+		"month": 3,
+		"day": 26
+	},
+	"totalEpisodes": 46,
+	"rating": 73	,
+	"duration": 22,
+	"genres": ["Action", "Adventure", "Comedy", "Drama", "Science", "Sci-Fi", "Fantasy", "Superhero"],
+	"season": "Spring",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"mappings": {},
+	"episodes": [{
+		"id": "ben-10-alien-force-episode-1",
+		"title": "Ben 10 Returns, Part One",
+		"description": "Having enjoyed a normal life for several years, Ben dons the Omnitrix once again when Grandpa Max suddenly goes missing.",
+		"number": 1,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTJiNjBlYjgtYWVhYy00YWRiLWFkYzEtY2IxNzQ1OWI2NTZkXkEyXkFqcGdeQXVyMTQ4Mjk2NTA2._V1_UY126_CR10,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-2",
+		"title": "Ben 10 Returns, Part Two",
+		"description": "As Ben adjusts to the new Omnitrix, the team searches for clues to the alien plot on Earth hoping to find Grandpa Max.",
+		"number": 2,
+		"image": "https://m.media-amazon.com/images/M/MV5BMmJkMzY0OGYtYTllNC00N2NhLTgwNmYtZmMyYTFiNjY2NmUyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-3",
+		"title": "Everybody Talks About the Weather",
+		"description": "A signal from Kevin's Plumber badge leads Ben's team to a cornfield where local police pursue a Pyronite-human hybrid they blame for crop circles and recent area fires.",
+		"number": 3,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTEwNDE2NzMxNDReQTJeQWpwZ15BbWU4MDYyNzQ3NzIx._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-4",
+		"title": "Kevin's Big Score",
+		"description": "While making repairs to the Rustbucket, Kevin steals it. He plans to use it as collateral for some other technology, but it gets stolen from him. Ben and Gwen go after Kevin.",
+		"number": 4,
+		"image": "https://m.media-amazon.com/images/M/MV5BNDY2NTIwMzkxM15BMl5BanBnXkFtZTgwNzE3NDc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-5",
+		"title": "All That Glitters",
+		"description": "In seeking the offspring of Plumbers, Ben's team comes upon a suave bio-energy vampire who feeds on high school girls.",
+		"number": 5,
+		"image": "https://m.media-amazon.com/images/M/MV5BMmZkMWFiZGEtMGNlMy00YjU5LWFhMTgtZDRlYzQ4Zjc5ZWFiXkEyXkFqcGdeQXVyMTQ4Mjk2NTA2._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-6",
+		"title": "Max Out",
+		"description": "Ken, Gwen's brother, stops in a small town for engine repairs and disappears. Grandpa Max arrives first to find him, Ben and the others soon after. They learn more about the alien conspiracy, and a heavy price will be paid to stop it.",
+		"number": 6,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjEyMTYxOTAyMV5BMl5BanBnXkFtZTgwODE3NDc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-7",
+		"title": "Pier Pressure",
+		"description": "Ben goes out on a date. All does not go as well as he'd like when objects start attacking him and he's forced to go hero to protect himself, all the while trying to keep his secret from his date.",
+		"number": 7,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU1MTM0MTE3N15BMl5BanBnXkFtZTgwMTI3NDc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-8",
+		"title": "What Are Little Girls Made Of",
+		"description": "While visiting Grandpa Max's favorite fishing hole along with Kevin, Ben and Gwen encounter a sorceress - their paternal grandmother.",
+		"number": 8,
+		"image": "https://m.media-amazon.com/images/M/MV5BMzE3OTEwMzIwOF5BMl5BanBnXkFtZTgwMjE3NDc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-9",
+		"title": "The Gauntlet",
+		"description": "School bully Cash acquires some alien tech that Kevin kept as a souvenir in his car, which transforms Cash into a bully with whom only Ben can reckon.",
+		"number": 9,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjAwNDQ5ODgxOF5BMl5BanBnXkFtZTgwOTA3NDc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-10",
+		"title": "Paradox",
+		"description": "An abandoned military base leads to an encounter with a self-proclaimed hero and a mysterious creature that ages people and objects. The team must stop the creature and help the hero who claims they've met before and will meet again.",
+		"number": 10,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ1NTYyOTQ5MF5BMl5BanBnXkFtZTgwOTE3NDc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-11",
+		"title": "Be-Knighted",
+		"description": "A dragon escapes from the Forever Knights, and they ask Ben for help tracking down/killing the beast. The team learns why the Knights were formed. The hunt for the dragon reveals other surprises.",
+		"number": 11,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTc2MzcyMjU2MF5BMl5BanBnXkFtZTgwNDI3NDc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-12",
+		"title": "Plumbers' Helpers",
+		"description": "Two Plumber offspring are taking down all aliens. Now they have their sites set on Ben's team, forcing the team to fight two of Ben's old alien forms - Four Arms and XLR8.",
+		"number": 12,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjExODg1MjI5Ml5BMl5BanBnXkFtZTgwMDE3NDc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-13",
+		"title": "X = Ben + 2",
+		"description": "When an alien emperor deems to destroy Earth due to the disappearance of his daughter, Ben must use Alien X to restore order, but not everything goes according to plan.",
+		"number": 13,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ0MzA0NzQwMF5BMl5BanBnXkFtZTgwMTE3NDc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-14",
+		"title": "Darkstar Rising",
+		"description": "The team is confronted by a Plumber Magister who accuses them of impersonating Plumbers. Meanwhile, a new foe allies himself with a HighBreed commander.",
+		"number": 14,
+		"image": "https://m.media-amazon.com/images/M/MV5BZmRkYjlkYzAtNDlkNS00MmE1LWIzZjUtMWNjODZjYzk2YmViXkEyXkFqcGdeQXVyMTQ4Mjk2NTA2._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-15",
+		"title": "Alone Together",
+		"description": "During battle, Ben and a HighBreed commander are teleported to a distant world. They must put their differences aside if they're going to have any chance of finding a way to return to Earth.",
+		"number": 15,
+		"image": "https://m.media-amazon.com/images/M/MV5BMzYwMTY4OTQzOF5BMl5BanBnXkFtZTgwOTM3NTg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-16",
+		"title": "Good Copy, Bad Copy",
+		"description": "Following up on reports of Ben having nightly activities, Kevin and Gwen discover what might be described as Ben's evil twin.",
+		"number": 16,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjA0MjA0MDE1NF5BMl5BanBnXkFtZTgwNTQwNjg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-17",
+		"title": "Save the Last Dance",
+		"description": "When Gwen demands that Kevin take her to her school's summer dance, Ben offers Kevin good advice. Meanwhile, Ben and Julie contend with a malfunctioning Omnitrix and a rogue Big Chill.",
+		"number": 17,
+		"image": "https://m.media-amazon.com/images/M/MV5BMDE0MmUxNjAtOWM0ZC00MzQ1LTk4OTEtMDQ2MWZlM2RlNjdjXkEyXkFqcGdeQXVyMTQ4Mjk2NTA2._V1_UY126_CR10,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-18",
+		"title": "Undercover",
+		"description": "When the team turns to Cooper to get Kevin's transporter device working properly, they find their young friend has been abducted. Finding him leads to a well-hidden DNAlien base.",
+		"number": 18,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU0MDcwOTQ1OF5BMl5BanBnXkFtZTgwNDA3MDg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-19",
+		"title": "Pet Project",
+		"description": "The Forever Knights develop a ship they will use to travel to the dragon's home world to destroy all dragons. To make it fully functional, they capture Ship, the alien Upgrade pet Ben and Julie met.",
+		"number": 19,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU4MTY4OTUxNV5BMl5BanBnXkFtZTgwOTY2MDg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-20",
+		"title": "Grounded",
+		"description": "What would happen if Ben's parents found out about his anti-DNAlien exploits and Omnitrix adventures? He's about to find out.",
+		"number": 20,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTExNTE3NTY2MzFeQTJeQWpwZ15BbWU4MDY2NjA4NzIx._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-21",
+		"title": "Voided",
+		"description": "Helen of the Plumbers' Helpers calls Gwen, pleading for help, so Ben goes into the Null Void alone to assist her, finding an old enemy with new powers - and other surprises.",
+		"number": 21,
+		"image": "https://m.media-amazon.com/images/M/MV5BODU2NDU4MzcwNl5BMl5BanBnXkFtZTgwMjgyODg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-22",
+		"title": "Inside Man",
+		"description": "Tyler, a man fighting against DNAlien programming, struggles to regain lost memories and convince local authorities of a hostile alien presence.",
+		"number": 22,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTc0NzgyMzk0OF5BMl5BanBnXkFtZTgwNTI5MTg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-23",
+		"title": "Birds of a Feather",
+		"description": "Ben decides to help an arachnachimp on his lunar quest for a crystal.",
+		"number": 23,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTk4NTY0ODE3NV5BMl5BanBnXkFtZTgwMzI3NTc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-24",
+		"title": "Unearthed",
+		"description": "The team hears of a creature on nightly rampages in the desert and investigates. They find the creature, and some DNAliens.",
+		"number": 24,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjIxMzkwODE1M15BMl5BanBnXkFtZTgwNTQ3NTc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-25",
+		"title": "War of the Worlds: Pt. 1",
+		"description": "Paradox and Azmuth arrive with grave news: The DNAliens are ready to make their move. While Gwen and Kevin gather help, Azmuth reveals some secrets of the Omnitrix and its true purpose.",
+		"number": 25,
+		"image": "https://m.media-amazon.com/images/M/MV5BNTM3MjI5OTA1MV5BMl5BanBnXkFtZTgwMDA0MzM5MzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-26",
+		"title": "War of the Worlds: Pt. 2",
+		"description": "Though Ben's team fails to stop the DNAlien Fleet from arriving, re-enforcements arrive, but this battle can't be won on Earth. A small group goes to the DNAlien home world to force its leaders to stop the invasion.",
+		"number": 26,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU5ODc0NTUwMl5BMl5BanBnXkFtZTgwNzg3MTk3NDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-27",
+		"title": "Vengeance of Vilgax: Pt. 1",
+		"description": "Vilgax has beaten the heroes of ten planets and taken their powers as his own. Now he's looking for Ben.",
+		"number": 27,
+		"image": "https://m.media-amazon.com/images/M/MV5BOTg2ZjY2MGYtYzgzMS00OWUxLWFiMDItN2U5ODk0N2QzODc4XkEyXkFqcGdeQXVyMTMzMzM2Nzky._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-28",
+		"title": "Vengeance of Vilgax: Pt.2",
+		"description": "After their attempt to hack into the Omnitrix fails, the team must track down some of Ben's transformations that escaped before he must face Vilgax in a one-on-one battle for the fate of the Earth.",
+		"number": 28,
+		"image": "https://m.media-amazon.com/images/M/MV5BOTg4NTUwMGEtMGRjYi00MTUyLWEzMTUtMDJkYzFhOGVkZjBmXkEyXkFqcGdeQXVyMTMzMzM2Nzky._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-29",
+		"title": "Inferno",
+		"description": "Grandpa Max asks the team to investigate some strange desert activity, leading them to encounter Vulkanus and his incendiary plans for Earth's future.",
+		"number": 29,
+		"image": "https://m.media-amazon.com/images/M/MV5BNjM3NTY2Mzc1OF5BMl5BanBnXkFtZTgwMjQ5MTg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-30",
+		"title": "Fool's Gold",
+		"description": "Alien Spring Break at a town's Popcorn Festival occurs every 17 years. When one alien goes missing, Max sends the team to find the wayward alien.",
+		"number": 30,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQzOTk3Mjk2Ml5BMl5BanBnXkFtZTgwMjQ5Njg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-31",
+		"title": "Simple",
+		"description": "An alien girl asks for Ben's help to end a war that's lasted for years.",
+		"number": 31,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTUwNzU2NzQxNF5BMl5BanBnXkFtZTgwMDA2NjE1NTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-32",
+		"title": "Vreedle, Vreedle",
+		"description": "Ship's owner decides he wants him back and hires some repo men to retrieve him. Ben and Kevin go to court to take care of things legally, leaving Gwen and Julie to face the repo men.",
+		"number": 32,
+		"image": "https://m.media-amazon.com/images/M/MV5BOGUxMWI5MjYtZTYxOS00M2M0LWFkZjQtYzg2N2U4NjVmNGYzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-33",
+		"title": "Singlehanded",
+		"description": "A retriever who specializes in obtaining rare goods comes after the Omnitrix, dimensionally separating the Omnitrix and a part of Ben. Ben is sent elsewhere, fighting to survive, while his friends try to figure a way to bring him back.",
+		"number": 33,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTY2MjU0NDg2MF5BMl5BanBnXkFtZTgwMjk2Njc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-34",
+		"title": "If All Else Fails",
+		"description": "A sleeper Highbreed awakens, unaware of the war's resolution, he begins his failsafe mission to destroy the Earth.",
+		"number": 34,
+		"image": "https://m.media-amazon.com/images/M/MV5BOTU2OTM1NzY0M15BMl5BanBnXkFtZTgwNDI4Mjg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-35",
+		"title": "In Charm's Way",
+		"description": "Charmcaster wants payback from Gwen. She plots to steal Kevin away from Gwen.",
+		"number": 35,
+		"image": "https://m.media-amazon.com/images/M/MV5BNDkwNTg4ODg0NF5BMl5BanBnXkFtZTgwOTA0Mzg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-36",
+		"title": "Ghost Town",
+		"description": "Ghostfreak, loosed, takes over Vilgax's planet, leaving Vilgax to turn for help to only person who has defeated Ghostfreak before - Ben.",
+		"number": 36,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU3NTMzNTc2NV5BMl5BanBnXkFtZTgwNTA0Mzg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-37",
+		"title": "Trade Off",
+		"description": "Kevin tracks down Darkstar. Darkstar asks for Kevin's help to retrieve an item that could cure both of them.",
+		"number": 37,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjAzNTI4NzY5M15BMl5BanBnXkFtZTgwMDA4Nzc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-38",
+		"title": "Busy Box",
+		"description": "The team investigates some highly advanced alien technology. They find a box that is more advanced than the Omnitrix. Others desire this technology.",
+		"number": 38,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTk2NDQyNjIxNV5BMl5BanBnXkFtZTgwMTA4Nzc3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-39",
+		"title": "Con of Rath",
+		"description": "An alien race asks the team to deliver the Tiffin to another race as a peace offering. The Omnitrix changes Ben into a new form that's highly aggressive, which causes other problems on their peace mission.",
+		"number": 39,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTUyNTI2MDE3OF5BMl5BanBnXkFtZTgwMTU2Mjg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-40",
+		"title": "Primus",
+		"description": "An undisclosed connection between the Omnitrix and the planet Primus teleports Ben and team to the hidden planet when it comes under threat.",
+		"number": 40,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjA0MTA5MTQwMV5BMl5BanBnXkFtZTgwOTQ2Mjg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-41",
+		"title": "Time Heals",
+		"description": "Gwen travels back in time to prevent Kevin and Ben from hacking the Omnitrix. Her actions have unexpected consequences.",
+		"number": 41,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTg3MTI3NTAyNl5BMl5BanBnXkFtZTgwNzY2Mjg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-42",
+		"title": "The Secret of Chromastone",
+		"description": "A celestial alignment and the true function of a power shard leads Tetrax to throttle ChromaStone right out of Ben Tennyson for a time-sensitive assignment.",
+		"number": 42,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ5MjExMjU0M15BMl5BanBnXkFtZTgwNjA3Mjg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-43",
+		"title": "Above and Beyond",
+		"description": "The Plumbers' Helpers receive a distress call from Max, followed by a threatening message from Ben to not interfere. Something's wrong, and the Helpers must face off against their hero Ben.",
+		"number": 43,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjE1OTI0NDU2MV5BMl5BanBnXkFtZTgwOTY2Mjg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-44",
+		"title": "Vendetta",
+		"description": "Ragnarok, the villain who killed Kevin's father, is out to complete the mission he started years ago. Kevin is determined to stop him and get revenge.",
+		"number": 44,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU1MzUyOTg2MF5BMl5BanBnXkFtZTgwMTY2Mjg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-45",
+		"title": "The Final Battle: Part 1",
+		"description": "Vilgax and Albedo team up to defeat Ben, with Albedo armed with Azmuth's latest creation - the Ultimatrix.",
+		"number": 45,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTc5MTIyMjQwNl5BMl5BanBnXkFtZTgwMDE2Mjg3MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-alien-force-episode-46",
+		"title": "The Final Battle: Part 2",
+		"description": "Ben's team faces its greatest challenge - taking on Vilgax without the Omnitrix.",
+		"number": 46,
+		"image": "https://m.media-amazon.com/images/M/MV5BYjY3YWEwNjktMWQ5Zi00YmU4LWJkMTMtNWFkOWM1ZGViOGY3XkEyXkFqcGdeQXVyMTQ4Mjk2NTA2._V1_UY126_CR9,0,224,126_AL_.jpg",
+		"airDate": ""
+	}
+	]
+}
