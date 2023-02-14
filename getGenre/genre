@@ -28,7 +28,7 @@
             "episodeNum": "12",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.jpg",
             "episodeUrl": "anime/chainsaw-man",
             "genres": ["Action", "Comedy", "Drama", "Horror", "Supernatural"]
         },
@@ -72,7 +72,7 @@
             "episodeNum": "12",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101004-rJLBIWGypbYK.png",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101004-rJLBIWGypbYK.jpg",
             "episodeUrl": "anime/how-not-to-summon-a-demon-lord",
             "genres": ["Comedy", "Ecchi", "Fantasy"]
         },
@@ -105,7 +105,7 @@
             "episodeNum": "3",
             "subOrDub": "sub",
             "type": "tv",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154541-uw1iAxNKdUAf.png",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154541-uw1iAxNKdUAf.jpg",
             "episodeUrl": "anime/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
             "genres": ["Comedy"]
         },
@@ -116,7 +116,7 @@
             "episodeNum": "40",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-master-quest.png",
+            "imgUrl": "../cover/pokemon-master-quest.jpg",
             "episodeUrl": "anime/pokemon-advanced",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -127,7 +127,7 @@
             "episodeNum": "48",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-black-white.png",
+            "imgUrl": "../cover/pokemon-black-white.jpg",
             "episodeUrl": "anime/pokemon-black-white",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -138,7 +138,7 @@
             "episodeNum": "51",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-diamond-and-pearl.png",
+            "imgUrl": "../cover/pokemon-diamond-and-pearl.jpg",
             "episodeUrl": "anime/pokemon-diamond-and-pearl",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -149,7 +149,7 @@
             "episodeNum": "52",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-johto-league-champions.png",
+            "imgUrl": "../cover/pokemon-johto-league-champions.jpg",
             "episodeUrl": "anime/pokemon-johto-league-champions",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -160,7 +160,7 @@
             "episodeNum": "48",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-journeys-the-series.png",
+            "imgUrl": "../cover/pokemon-journeys-the-series.jpg",
             "episodeUrl": "anime/pokemon-journeys-the-series",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -171,7 +171,7 @@
             "episodeNum": "42",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-master-journeys-the-series.png",
+            "imgUrl": "../cover/pokemon-master-journeys-the-series.jpg",
             "episodeUrl": "anime/pokemon-master-journeys-the-series",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -182,7 +182,7 @@
             "episodeNum": "43",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-the-series-sun-moon.png",
+            "imgUrl": "../cover/pokemon-the-series-sun-moon.jpg",
             "episodeUrl": "anime/pokemon-the-series-sun-moon",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -193,7 +193,7 @@
             "episodeNum": "48",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-adventures.png",
+            "imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-adventures.jpg",
             "episodeUrl": "anime/pokemon-the-series-sun-moon-ultra-adventures",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -204,7 +204,7 @@
             "episodeNum": "54",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-legends.png",
+            "imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-legends.jpg",
             "episodeUrl": "anime/pokemon-the-series-sun-moon-ultra-legends",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -215,7 +215,7 @@
             "episodeNum": "48",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-the-series-xy.png",
+            "imgUrl": "../cover/pokemon-the-series-xy.jpg",
             "episodeUrl": "anime/pokemon-the-series-xy",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -226,7 +226,7 @@
             "episodeNum": "45",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-the-series-xy-kalos-quest.png",
+            "imgUrl": "../cover/pokemon-the-series-xy-kalos-quest.jpg",
             "episodeUrl": "anime/pokemon-the-series-xy-kalos-quest",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -237,7 +237,7 @@
             "episodeNum": "48",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-the-series-xyz.png",
+            "imgUrl": "../cover/pokemon-the-series-xyz.jpg",
             "episodeUrl": "anime/pokemon-the-series-xyz",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -248,7 +248,7 @@
             "episodeNum": "31",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-ultimate-journeys.png",
+            "imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
             "episodeUrl": "anime/pokemon-ultimate-journeys",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -259,7 +259,7 @@
             "episodeNum": "52",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-advanced-battle.png",
+            "imgUrl": "../cover/pokemon-advanced-battle.jpg",
             "episodeUrl": "anime/pokemon-advanced-battle",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -270,7 +270,7 @@
             "episodeNum": "52",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-advanced-challenge.png",
+            "imgUrl": "../cover/pokemon-advanced-challenge.jpg",
             "episodeUrl": "anime/pokemon-advanced-challenge",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -281,7 +281,7 @@
             "episodeNum": "36",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-adventures-in-the-orange-islands.png",
+            "imgUrl": "../cover/pokemon-adventures-in-the-orange-islands.jpg",
             "episodeUrl": "anime/pokemon-adventures-in-the-orange-islands",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -292,7 +292,7 @@
             "episodeNum": "47",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-advanced-battle.png",
+            "imgUrl": "../cover/pokemon-advanced-battle.jpg",
             "episodeUrl": "anime/pokemon-battle-frontier",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -303,7 +303,7 @@
             "episodeNum": "45",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.png",
+            "imgUrl": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.jpg",
             "episodeUrl": "anime/pokemon-black-white-adventures-in-unova-and-beyond",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -314,7 +314,7 @@
             "episodeNum": "49",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-black-white-rival-destinies.png",
+            "imgUrl": "../cover/pokemon-black-white-rival-destinies.jpg",
             "episodeUrl": "anime/pokemon-black-white-rival-destinies",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -325,7 +325,7 @@
             "episodeNum": "52",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-diamond-and-pearl-battle-dimension.png",
+            "imgUrl": "../cover/pokemon-diamond-and-pearl-battle-dimension.jpg",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-battle-dimension",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -336,7 +336,7 @@
             "episodeNum": "52",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-diamond-and-pearl-galactic-battles.png",
+            "imgUrl": "../cover/pokemon-diamond-and-pearl-galactic-battles.jpg",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-galactic-battles",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -347,7 +347,7 @@
             "episodeNum": "34",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-diamond-and-pearl-sinnoh-league-victors.png",
+            "imgUrl": "../cover/pokemon-diamond-and-pearl-sinnoh-league-victors.jpg",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-sinnoh-league-victors",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -358,7 +358,7 @@
             "episodeNum": "82",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-indigo-league.png",
+            "imgUrl": "../cover/pokemon-indigo-league.jpg",
             "episodeUrl": "anime/pokemon-indigo-league",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -369,7 +369,7 @@
             "episodeNum": "65",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-master-quest.png",
+            "imgUrl": "../cover/pokemon-master-quest.jpg",
             "episodeUrl": "anime/pokemon-master-quest",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
@@ -380,7 +380,7 @@
             "episodeNum": "41",
             "subOrDub": "dub",
             "type": "tv",
-            "imgUrl": "../cover/pokemon-the-johto-journeys.png",
+            "imgUrl": "../cover/pokemon-the-johto-journeys.jpg",
             "episodeUrl": "anime/pokemon-the-johto-journeys",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
