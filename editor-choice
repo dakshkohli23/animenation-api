@@ -1,16 +1,23 @@
 [
   {
-    "animeId": "chainsaw-man",
-    "animeTitle": "Chainsaw Man",
-    "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png",
-    "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127230-uv8EA5WiTc7d.jpg",
-    "animeUrl": "/anime/chainsaw-man"
+    "animeId": "kimetsu-no-yaiba-yuukaku-hen",
+    "animeTitle": "Demon Slayer: Entertainment District Arc",
+    "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
+    "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142329-i413SzLmToZN.jpg",
+    "animeUrl": "/anime/kimetsu-no-yaiba-yuukaku-hen"
   },
   {
-    "animeId": "one-piece",
-    "animeTitle": "One Piece",
-    "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg",
-    "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
-    "animeUrl": "/anime/one-piece"
+    "animeId": "jujutsu-kaisen-tv",
+    "animeTitle": "Jujutsu Kaisen",
+    "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
+    "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113415-jQBSkxWAAk83.jpg",
+    "animeUrl": "/anime/jujutsu-kaisen-tv"
+  },
+  {
+    "animeId": "pokemon-ultimate-journeys",
+    "animeTitle": "Pokémon Ultimate Journeys: The Series",
+    "animeImg": "../cover/pokemon-ultimate-journeys.jpg",
+    "animeCover": "../cover/pokemon-ultimate-journeys.jpg",
+    "animeUrl": "/anime/pokemon-ultimate-journeys"
   }
 ]
