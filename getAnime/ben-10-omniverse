@@ -1,0 +1,605 @@
+{
+	"id": "10",
+	"title": {
+		"romaji": "Ben 10: Omniverse",
+		"english": "Ben 10: Omniverse",
+		"native": "Ben 10: Omniverse"
+	},
+	"malId": 44511,
+	"synonyms": ["Ben 10: Omniverse", "Omniverse"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"trailer": {},
+	"image": "../cover/ben-10-omniverse-poster.jpg",
+	"popularity": 2250,
+	"color": "#6b1a1a",
+	"cover": "../cover/ben-10-omniverse-cover.jpg",
+	"description": "The series follows the adventures of sixteen-year-old Ben Tennyson, wielder of the Omnitrix, an extremely powerful watch-style device that allows Ben to change into a multitude of various aliens; each with their own special abilities and skills. The storylines alternate between that of eleven-year-old Ben (one year after the original series) and sixteen-year-old Ben (a few months after Ben 10: Ultimate Alien). After Gwen leaves for college and Kevin leaves to be closer to her, Ben gets a new partner, a rookie by-the-book alien plumber named Rook Blonko (surname first). On a mission to explore a secret underground alien city named Undertown, Ben explores the quirkier side of things in the alien underground and discovers that enemies from his past are looking for a rematch.",
+	"status": "Completed",
+	"releaseDate": 2012,
+	"startDate": {
+		"year": 2012,
+		"month": 8,
+		"day": 1
+	},
+	"endDate": {
+		"year": 2014,
+		"month": 11,
+		"day": 14
+	},
+	"totalEpisodes": 80,
+	"rating": 73	,
+	"duration": 22,
+	"genres": ["Action", "Adventure", "Comedy", "Drama", "Science", "Sci-Fi", "Fantasy", "Superhero"],
+	"season": "Summer",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"mappings": {},
+	"episodes": [{
+		"id": "ben-10-omniverse-episode-1",
+		"title": "The More Things Change: Part One",
+		"description": "Now on his own, Ben sets out to be a solo superhero, with new alien heroes at his disposal, but Grandpa Max has other plans. (Introducing Rook, Malware, Khyber, Nemetrix alien Crabdozer, new Ben aliens Feedback & Blox, Pakmar)",
+		"number": 1,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQxMzg0NjQ2MF5BMl5BanBnXkFtZTgwMjAxNDIzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-2",
+		"title": "The More Things Change: Part Two",
+		"description": "Ben and Rook discover an underground city beneath Bellwood populated with aliens! But who is terrorizing them? (Introducing Nemetrix alien BugLizard, & Ben alien Shocksquatch, Psyphon, Fistina, Bubblehelmet, Liam)",
+		"number": 2,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQyMjk4MTI1M15BMl5BanBnXkFtZTgwNzQ5NTEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-3",
+		"title": "A Jolt from the Past",
+		"description": "Alien pests from Ben's youth come back, but now they need Ben's help. (Introducing Fistrick, & new Ben alien Gravattack)",
+		"number": 3,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTliZTIzOTktMmQyMi00NTg3LTg5YWQtZjY4MGUzZTA0MzA1XkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-4",
+		"title": "Trouble Helix",
+		"description": "Flashback episode: Young Ben, Gwen, and Grandpa Max visit Azmuth on Galvan Prime. There, they have their first encounter with Malware, a corrupted Mechamorph who's determined to make Azmuth cure him, by any means!",
+		"number": 4,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjAxNTU4NTkzMV5BMl5BanBnXkFtZTgwNTYzNzEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-5",
+		"title": "Have I Got a Deal for You",
+		"description": "Ben and Rook must stop a giant rampaging alien from destroying Bellwood while dealing with a peace-loving alien-rights activist who doesn't want it hurt. (Introducing Hokestar, Solid Plugg 1st appearance, Pax, Sunder)",
+		"number": 5,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjM5MjI0NDc0NF5BMl5BanBnXkFtZTgwNzEyMzIzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-6",
+		"title": "It Was Them",
+		"description": "Dr. Animo has escaped his Plumber prison, and Ben and Rook must track him down before he turns the world into his personal mutant ant farm!",
+		"number": 6,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTY1MTUzNDQyMV5BMl5BanBnXkFtZTgwNTk1OTEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-7",
+		"title": "So Long, and Thanks for All the Smoothies",
+		"description": "When Ben and Rook investigate a mysterious alien ghost ship, they discover that Argit and the Vreedle Brothers are fighting for possession of a doomsday device!",
+		"number": 7,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTUwMjQ2ODc0Nl5BMl5BanBnXkFtZTgwNDU1NDEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-8",
+		"title": "Hot Stretch",
+		"description": "Ben and Rook encounter a race of elastic, hot-blooded aliens in Undertown who want to use a stolen nuclear fusion engine to activate a volcano!",
+		"number": 8,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTk5MDMyNDMyNF5BMl5BanBnXkFtZTgwMTQ1MTIzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-9",
+		"title": "Of Predators and Prey, Part 1",
+		"description": "Khyber and his Nemetrix possessed pet have been testing Ben's skills and gathering information. They now use their collected knowledge to finally face Ben in battle.",
+		"number": 9,
+		"image": "https://m.media-amazon.com/images/M/MV5BMmI3NzFiOTAtNzliYS00OWI5LWJlYTEtNzU5YWQwNTQ4MmE4XkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-10",
+		"title": "Of Predators and Prey, Part 2",
+		"description": "While trapped in Khyber's ship, Ben learns details about the origin of the Nemetrix, and the link between Khyber, Malware, and Dr. Psychobos!",
+		"number": 10,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQwNjgzODEzMV5BMl5BanBnXkFtZTgwMzM1NDEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-11",
+		"title": "Outbreak",
+		"description": "When Dr. Psychobos steals a part out of the Omnitrix, causing chaotic side-effects, it's up to Ben, Rook, and a small team of Plumbers get everything back to normal.",
+		"number": 11,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTUxMjQ2Nzk3OF5BMl5BanBnXkFtZTgwMjI1MzEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-12",
+		"title": "Many Happy Returns",
+		"description": "Gwen and Kevin pay Ben a surprise visit, but does Kevin's strange behavior have anything to do with an angry Tetramand princess, or her father's fleet of warships prepared to attack the Earth?",
+		"number": 12,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ3ODk4ODIzMF5BMl5BanBnXkFtZTgwNTkyNDIzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-13",
+		"title": "Gone Fishin",
+		"description": "When their fishing trip in Undertown takes a bizarre twist, Ben, Rook, and Grandpa Max, begin their search for a ship-bottling alien pirate who has captured Magister Patelliday.",
+		"number": 13,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTUwMDU3NTAxMF5BMl5BanBnXkFtZTgwODg5MjEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-14",
+		"title": "Blukic and Driba Go to Mr. Smoothy's",
+		"description": "The Plumbers' resident geniuses, Blukic and Driba set off to find some smoothies.",
+		"number": 14,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTA3NTY5OTUxNTZeQTJeQWpwZ15BbWU4MDYzNzIxMzIx._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-15",
+		"title": "Malefactor",
+		"description": "Khyber and his dog attacks Ben and Rook while they're at the "Olde Bellwood Days" festival, but does the hunter have other plans?",
+		"number": 15,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ0Nzc2MTE0Nl5BMl5BanBnXkFtZTgwODQ3MjEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-16",
+		"title": "Arrested Development",
+		"description": "Ben and Rook must stop the evil Robots from Dimension 12 while trapped in their own pre-pubescent bodies, thanks to Ben's childhood rival.",
+		"number": 16,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTkwNDM3OTMyM15BMl5BanBnXkFtZTgwNTY3MjEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-17",
+		"title": "Bros in Space",
+		"description": "Rook brings Ben to his home planet to meet the family. Unbeknownst to them, an old foe is raising an army to steal the planet's most precious resource!",
+		"number": 17,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU4MjYwNjA4Nl5BMl5BanBnXkFtZTgwODY4OTEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-18",
+		"title": "Ben Again",
+		"description": "When Eon causes 11-year old Ben swap minds with teen Ben, it's up to Gwen, Rook, and Professor Paradox to set things straight.",
+		"number": 18,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTYyOTE3OTk2NF5BMl5BanBnXkFtZTgwOTU3MjEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-19",
+		"title": "Store 23",
+		"description": "While out looking for the elusive 23rd Mr. Smoothy's store with Blukic and Driba, Ben meets an alternate version of himself.",
+		"number": 19,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjAzNTMzNTczNV5BMl5BanBnXkFtZTgwNjc0MzIzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-20",
+		"title": "Special Delivery",
+		"description": "As payment for destroying his car, Mr. Baumann orders Ben to make deliveries for him without using the Omnitrix.",
+		"number": 20,
+		"image": "https://m.media-amazon.com/images/M/MV5BZmM0YTc1NWYtNjIxOS00ZmMyLTg5ZDEtZjVmMGJlMzMwZDlmXkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-21",
+		"title": "Showdown, Part 1",
+		"description": "The Faction infiltrates Galvan in an attempt to destroy Azmuth.",
+		"number": 21,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTgxNjE3NTY2MF5BMl5BanBnXkFtZTgwOTk2ODE1NTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-22",
+		"title": "Showdown, Part 2",
+		"description": "Ben must deal with a past failure; a deranged Malware launches his final attack.",
+		"number": 22,
+		"image": "https://m.media-amazon.com/images/M/MV5BZTIwZDM0OTMtMzg5MS00NzkyLWI3ZmUtYzA4YWRiMWI2ZWQ5XkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-23",
+		"title": "Tummy Trouble",
+		"description": "When the Incursean armada kidnaps the Gourmand Queen, Ben and Rook must get the warring Gormand factions to work together to save her and stop the Incursean invasion.",
+		"number": 23,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ3ODY2NzY1N15BMl5BanBnXkFtZTgwNTk2ODEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-24",
+		"title": "Vilgax Must Croak",
+		"description": "Ben and Rook escort Vilgax to a maximum-security prison planet, but the Incurseans have other plans.",
+		"number": 24,
+		"image": "https://m.media-amazon.com/images/M/MV5BNDQyODU5OTE2OV5BMl5BanBnXkFtZTgwNDYyODEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-25",
+		"title": "While You Were Away",
+		"description": "Dr. Psychobos and Princess Attea have invaded Rook's home planet Revonnah with an army of Incurseans!",
+		"number": 25,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTczOTMwMjAwMl5BMl5BanBnXkFtZTgwODI1MzIzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-26",
+		"title": "The Frogs of War, Part 1",
+		"description": "With Ben missing, the Incurseans now control the Earth. It's up to Rook and the remaining Plumbers to lead the resistance and fight back!",
+		"number": 26,
+		"image": "https://m.media-amazon.com/images/M/MV5BYTYwZDRkMjMtZDgyNi00YzRhLTgyYWItYjBiYTU3NDgzMmE0XkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-27",
+		"title": "The Frogs of War: Part 2",
+		"description": "The Incurseans take control of Earth, so Rook and the Plumbers must mount a resistance while Ben is missing.",
+		"number": 27,
+		"image": "https://m.media-amazon.com/images/M/MV5BNDZlOWJkMGUtNGJmZS00Y2RjLWFlYWItOGQzN2M1YjliYTRjXkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-28",
+		"title": "Rules of Engagement",
+		"description": "Princess Looma returns to claim Ben as her husband, and she's not going to let anyone stand in her way!",
+		"number": 28,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTkyNzc4NjMxNV5BMl5BanBnXkFtZTgwMzYwMjEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-29",
+		"title": "Rad",
+		"description": "With Plumber agents trapped in Incursean territory, Ben and Rook must employ the services of Rad Dudesman, the roughest, toughest smuggler in the galaxy.",
+		"number": 29,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTczODYxNDI4Nl5BMl5BanBnXkFtZTgwNDQ1MzIzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-30",
+		"title": "Evil's Encore",
+		"description": "Dr. Animo reminisces about when he once took control of the Plumber's HQ in Mount Rushmore.",
+		"number": 30,
+		"image": "https://m.media-amazon.com/images/M/MV5BNDA3MzE4NjE3NV5BMl5BanBnXkFtZTgwOTg0MzIzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-31",
+		"title": "T.G.I.S.",
+		"description": "The Secret Saturdays come to Bellwood.",
+		"number": 31,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTUxOTc0ODM3OF5BMl5BanBnXkFtZTgwMjUxNjEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-32",
+		"title": "Food Around the Corner",
+		"description": "Ben as Gravattack attempts to moderate a fragile peace treaty.",
+		"number": 32,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjM1MDg0MjUwNl5BMl5BanBnXkFtZTgwOTIxMTEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-33",
+		"title": "O Mother, Where Art Thou?",
+		"description": "Ma Vreedle threatens to blow up the sun if Ben and the Plumbers don't find her missing son!",
+		"number": 33,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjA5OTgyNTAyNl5BMl5BanBnXkFtZTgwOTI2MjIzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-34",
+		"title": "Return to Forever",
+		"description": "The Forever Knights threaten to use a sinister weapon to erase all alien DNA on Earth.",
+		"number": 34,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTUwNDg0NDgzMV5BMl5BanBnXkFtZTgwMzI4ODEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-35",
+		"title": "Mud Is Thicker Than Water",
+		"description": "Ben, Gwen and Cousin Lucy try to find out how Psyphon's thugs are getting Plumber technology.",
+		"number": 35,
+		"image": "https://m.media-amazon.com/images/M/MV5BMDIwYzgxMTktYmEzZi00YjQ1LThhZjEtOTg2YmZjOWYxZjBjXkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-36",
+		"title": "OTTO Motives",
+		"description": "Kevin and Rook run into an old enemy from the Null Void while attending an intergalactic auto show. (Re-introducing classic Ben alien, Upgrade)",
+		"number": 36,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQyODc2ODg3N15BMl5BanBnXkFtZTgwMDE2MzEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-37",
+		"title": "The Ultimate Heist",
+		"description": "Albedo seeks a device that will finally change him back into his Galvan form. Meanwhile, Ben is locked in Plumber HQ prison.",
+		"number": 37,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQzNjA1ODQ4MF5BMl5BanBnXkFtZTgwMjI4MzIzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-38",
+		"title": "A Fistful of Brains",
+		"description": "Grandpa Max and Rook are looking for Ben, who's trapped on Khyber's hidden hunting preserve.",
+		"number": 38,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTZiNjM2ZTYtMGQ0ZC00NGMwLTgyY2ItY2U1NzFmOGZhNjMyXkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-39",
+		"title": "For a Few Brains More",
+		"description": "Ben, Rook and Grandpa Max must stop Ultimate Albedo from absorbing Azmuth's intelligence and taking over the galaxy.",
+		"number": 39,
+		"image": "https://m.media-amazon.com/images/M/MV5BZGRmNmE3YzktMzA2Ny00OTAxLWJiYTktM2Y4ODkzY2FkMjBlXkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-40",
+		"title": "Max's Monster",
+		"description": "Grandpa Max's old Plumber partner, Phil, seeks Max's help to tame the monster within.",
+		"number": 40,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQxNzM0NzE5MV5BMl5BanBnXkFtZTgwNjIxMjEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-41",
+		"title": "Something Zombozo This Way Comes",
+		"description": "Ben and Rook must stop Zombozo and the Circus Freaks from turning everyone in Bellwood into zombie clowns!",
+		"number": 41,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ4OTU5MDQxNV5BMl5BanBnXkFtZTgwOTg0NzEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-42",
+		"title": "Mystery, Incorporeal",
+		"description": "An old enemy emerges while Ben and Rook visit Kevin and Gwen at college.",
+		"number": 42,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjM5OTQwMzQ0MV5BMl5BanBnXkFtZTgwMDg4MDIzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-43",
+		"title": "Bengeance Is Mine",
+		"description": "Vilgax's former lackey Psyphon is elated when his master returns.",
+		"number": 43,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTk4MDEyMzE4MF5BMl5BanBnXkFtZTgwNTIxNzEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-44",
+		"title": "An American Benwolf in London",
+		"description": "Ben and Rook are called to London to investigate the Forever Knights' latest activities.",
+		"number": 44,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjM1NDUzMzU1OV5BMl5BanBnXkFtZTgwMDExNzEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-45",
+		"title": "Animo Crackers",
+		"description": "Dr. Animo from the future comes back to the present to help himself defeat Ben once and for all.",
+		"number": 45,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTA4MDgzNjc2ODZeQTJeQWpwZ15BbWU4MDcyMTcxMzIx._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-46",
+		"title": "Rad Monster Party",
+		"description": "Ben and Rook enlist the help of intergalactic smuggler Rad Dudesman to fly them through the Anur System-the home of the monstrous aliens.",
+		"number": 46,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTUwOTQ5Mjc4NF5BMl5BanBnXkFtZTgwODExNzEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-47",
+		"title": "Charmed, I'm Sure",
+		"description": "Still stranded on the monster planet Anur Transyl, Ben and Rook reluctantly team up with Charmcaster to take on Zs'Skayr.",
+		"number": 47,
+		"image": "https://m.media-amazon.com/images/M/MV5BMzMxNjk0MDg1NF5BMl5BanBnXkFtZTgwNDM5OTEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-48",
+		"title": "The Vampire Strikes Back",
+		"description": "Ben, Rook, Hobble and Rad Dudesman come face to face with the evil Lord Transyl, a vampire-like alien who can make anyone his loyal slave.",
+		"number": 48,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTA2NzAxMTQ5NTReQTJeQWpwZ15BbWU4MDkyOTkxMzIx._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-49",
+		"title": "Catfight",
+		"description": "The princess Looma and Attea are at odds over who gets to marry Ben.",
+		"number": 49,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjEwNTg0NjIyMF5BMl5BanBnXkFtZTgwNjY2NzEzMjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-50",
+		"title": "Collect This",
+		"description": "Ben finally meets the ones responsible for his intergalactic TV show, and the actor who makes Ben 10 more famous than Ben himself.",
+		"number": 50,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjE3Njk0NjU1N15BMl5BanBnXkFtZTgwNzY2ODE1NTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-51",
+		"title": "And Then There Were None",
+		"description": "Vilgax and Eon team up to wipe out every Ben in every dimension.",
+		"number": 51,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTc1Njk4NTEyOV5BMl5BanBnXkFtZTgwMDIzNTc5MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-52",
+		"title": "And Then There Was Ben",
+		"description": "Professor Paradox unites the good Bens from across all dimensions to take on Vilgax, Eon, and the evil Bens in the ultimate showdown.",
+		"number": 52,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjM2MTUwOTg5N15BMl5BanBnXkFtZTgwMTIzNTc5MjE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-53",
+		"title": "The Vengers",
+		"description": "Billy Billions, Kangaroo Kommando, and Captain Nemesis team up to take down Ben, and claim his place as protector of Bellwood?!?",
+		"number": 53,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjEyMzUyODU4Nl5BMl5BanBnXkFtZTgwNzM2NTIwMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-54",
+		"title": "Cough It Up",
+		"description": "Psyphon and a gang of bounty hunters are after Argit, who is in possession of a dangerous weapon.",
+		"number": 54,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTA1OTkzNjI1MjleQTJeQWpwZ15BbWU4MDUzNjUyMDMx._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-55",
+		"title": "The Rooters of All Evil",
+		"description": "Meet the Rooters, the Black Ops wing of the Plumbers from the Null Void. They've come looking for someone close to Ben, and they mean business.",
+		"number": 55,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjExMTA0NTA3NV5BMl5BanBnXkFtZTgwNjM2NTIwMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-56",
+		"title": "Blukic and Driba Go to Area 51",
+		"description": "A mysterious Galvan arrives and demands Blukic and Driba to give back a super powerful weapon needed to stop a threat to Earth.",
+		"number": 56,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU5MTUzMzMxM15BMl5BanBnXkFtZTgwMzgzNjkyNTE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-57",
+		"title": "No Honor Among Bros",
+		"description": "Rook is under the influence of Fistrick's "bro" essence, and starts to act like a bro. Can he and Ben infiltrate an alien fight club to claim the Golden Fist?",
+		"number": 57,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTc4NTgxODAwN15BMl5BanBnXkFtZTgwODM2NTIwMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-58",
+		"title": "Universe Vs. Tennyson",
+		"description": "Ben gets dragged into intergalactic court by the other Celestialsapiens for recreating the universe.",
+		"number": 58,
+		"image": "https://m.media-amazon.com/images/M/MV5BODY4NDY1NDQxOF5BMl5BanBnXkFtZTgwNDM2NTIwMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-59",
+		"title": "Weapon XI, Part 1",
+		"description": "Kevin and Argit attempt to warn the amalgam kids about the Rooters intentions meanwhile Ben, Rook, and Gwen set off to find Kevin and land themselves in the Null Void!",
+		"number": 59,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjA4ODcxODEzMF5BMl5BanBnXkFtZTgwMzM2NTIwMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-60",
+		"title": "Weapon XI, Part 2",
+		"description": "The Rooters have seemingly turned Kevin and the Amalgam kids against Ben. Can Rook and Gwen help him overcome the opposition and escape the Null Void?",
+		"number": 60,
+		"image": "https://m.media-amazon.com/images/M/MV5BODMyMTM4MDYwNF5BMl5BanBnXkFtZTgwNTYwNDAxMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-61",
+		"title": "Clyde Five",
+		"description": "Ben's country cousin wants to become a hero like Ben.",
+		"number": 61,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQyODMxMDAwNl5BMl5BanBnXkFtZTgwMzM3ODcwMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-62",
+		"title": "Rook Tales",
+		"description": "Rook's former teacher is willing to save Revonnahgander traditions at any cost.",
+		"number": 62,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjAwNjQ1NDM1MF5BMl5BanBnXkFtZTgwMDA4NTIxMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-63",
+		"title": "Charm School",
+		"description": "Hex has put his days of evil behind him and became a teacher at Friedkin University. Charmcaster attacks Friedkin University.",
+		"number": 63,
+		"image": "https://m.media-amazon.com/images/M/MV5BZTI0MGY0YzktNzc2ZS00OTg5LWI1MTEtZGIxYTc2Y2UyZGM5XkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-64",
+		"title": "The Ballad of Mr. Baumann",
+		"description": "Mr. Baumann has a big secret, and she's not of this Earth.",
+		"number": 64,
+		"image": "https://m.media-amazon.com/images/M/MV5BNDc5OTY1NTMzMF5BMl5BanBnXkFtZTgwNDMwMDgxMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-65",
+		"title": "Fight at the Museum",
+		"description": "Some weird alien artifacts in Bellwood attract enemies from the future and friends from the past.",
+		"number": 65,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTYxNTYxNjcyMl5BMl5BanBnXkFtZTgwNTMwMDgxMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-66",
+		"title": "Breakpoint",
+		"description": "As Wildvine, Ben goes undercover with an alien crime ring and is tempted by their extreme lifestyle.",
+		"number": 66,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjAxODAwNDYxOV5BMl5BanBnXkFtZTgwMzMwMDgxMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-67",
+		"title": "The Color of Monkey",
+		"description": "Everybody's favorite alien con man, Argit, takes on a shady sidekick, Simian, in a shocking new business.",
+		"number": 67,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTk5NzU1OTM4MF5BMl5BanBnXkFtZTgwMTM0MjU5NDE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-68",
+		"title": "Vreedlemania",
+		"description": "Pa Vreedle reunites with Ma for all-out, total cosmic destruction.",
+		"number": 68,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ2Mjg2OTA0OF5BMl5BanBnXkFtZTgwMTMwMDgxMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-69",
+		"title": "It's a Mad, Mad, Mad Ben World: Part 1",
+		"description": "Alternate dimensions, duplicate Bens, and villains from throughout time and space. Just another day in Bellwood.",
+		"number": 69,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTY1OTQzNjI5N15BMl5BanBnXkFtZTgwMjMwMDgxMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-70",
+		"title": "It's a Mad, Mad, Mad Ben World: Part 2",
+		"description": "Ben and Dr. Psychobos become reluctant allies in a parallel- dimension maelstrom.",
+		"number": 70,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTAwMTk1OTMyMjleQTJeQWpwZ15BbWU4MDM3ODI1MzMx._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-71",
+		"title": "From Hedorium to Eternity",
+		"description": "11-year-old Ben, Gwen, and friends go on the adventure of a lifetime in their own backyard.",
+		"number": 71,
+		"image": "https://m.media-amazon.com/images/M/MV5BYWYxZDFmMjAtYTJiNy00MGMyLTlmYWItYmI1ZWQxYjkyOTNhXkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-72",
+		"title": "Stuck on You",
+		"description": "Khyber, aided by a booger-like slime biot named Skurd, attacks Ben and co, but the tables turn when Skurd gloms onto Ben.",
+		"number": 72,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjMwOTk3Njk5OF5BMl5BanBnXkFtZTgwMDc2NjkzMzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-73",
+		"title": "Let's Do the Time War Again",
+		"description": "Ben, Skurd, and Rook find themselves caught in an endless time loop as enemies from the future converge on Bellwood.",
+		"number": 73,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTA1OTI2NDE0NzNeQTJeQWpwZ15BbWU4MDY2NzI0NDMx._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-74",
+		"title": "Secret of Dos Santos",
+		"description": "During Kai's search for the Temple of the Sky, she reluctantly teams up with Ben, Skurd and Rook at the insistence of Kai's grandfather.",
+		"number": 74,
+		"image": "https://m.media-amazon.com/images/M/MV5BNzJmZGFlZGEtYjhmNi00YjBlLTg2MGItNGUyZWU4ZWFmOTg3XkEyXkFqcGdeQXVyNjQ2NzY3MjM@._V1_UY126_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-75",
+		"title": "Third Time's a Charm",
+		"description": "Charmcaster traps Gwendolyn in Ledgerdomain to exact her revenge once and for all.",
+		"number": 75,
+		"image": "https://m.media-amazon.com/images/M/MV5BYTk0NzQ2YTYtNDBlYy00NmQzLWExMmYtZjM3YzUzZDZiZjhjXkEyXkFqcGdeQXVyMTQ5NDQzMTUw._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-76",
+		"title": "The Final Countdown",
+		"description": "Rook and his little Plumbers must defend the Base from a mysterious lockdown.",
+		"number": 76,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjM2NDAyNTExN15BMl5BanBnXkFtZTgwNTU2MjE0MzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-77",
+		"title": "Malgax Attacks",
+		"description": "Ben finally manages to rid himself of Skurd - just when he needs the Slimebiote most.",
+		"number": 77,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTgxMDg3MTEzNF5BMl5BanBnXkFtZTgwNTQ3OTE0MzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-78",
+		"title": "The Most Dangerous Game Show",
+		"description": "Ben fights for his wife on an alien reality show.",
+		"number": 78,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTkxZmNiYjAtYTk3NC00YjYzLWJiN2UtY2MwNzcxZWU0YjE3XkEyXkFqcGdeQXVyMzExODYzNzc@._V1_UY126_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-79",
+		"title": "The End of an Era",
+		"description": "The Time War races towards its dramatic conclusion, with the fate of the entire universe and everything in it since the very beginning of time resting in the hands of Ben 10!",
+		"number": 79,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjIyNzM2OTEzOF5BMl5BanBnXkFtZTgwODgzMDA1MzE@._V1_UX224_CR0,0,224,126_AL_.jpg",
+		"airDate": ""
+	}, {
+		"id": "ben-10-omniverse-episode-80",
+		"title": "A New Dawn",
+		"description": "The Time War brings Ben, Rook, and George Washington together to battle an alien conqueror.",
+		"number": 80,
+		"image": "https://m.media-amazon.com/images/M/MV5BNzczZjI2OGItMDRhOC00NDlhLTgwN2MtYzk3YjdlZjVhZmVjXkEyXkFqcGdeQXVyMTMxNDIyNzc1._V1_UY126_UX224_AL_.jpg",
+		"airDate": ""
+	}
+	]
+}
