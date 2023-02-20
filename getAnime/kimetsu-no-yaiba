@@ -59,8 +59,7 @@
   ],
   "subOrDub": "sub",
   "type": "TV",
-  "recommendations": [
-    {
+  "recommendations": [{
       "id": 101922,
       "malId": 38000,
       "title": {
@@ -92,7 +91,7 @@
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
       "rating": 85,
       "type": "Movie",
-	  "animeurl": ""
+	  "animeurl": "kimetsu-no-yaiba-mugen-resshahen"
     },
     {
       "id": 129874,
@@ -129,6 +128,22 @@
 	  "animeurl": "kimetsu-no-yaiba-yuukaku-hen"
     },
     {
+      "id": 145139,
+      "malId": 51019,
+      "title": {
+        "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+        "english": "Demon Slayer: Swordsmith Village Arc",
+        "native": "鬼滅の刃 刀鍛冶の里編",
+        "userPreferred": "Demon Slayer Swordsmith Village Arc"
+      },
+      "status": "Not Yet Released",
+      "episodes": "",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-Z4DjPTGNyuDj.jpg",
+      "cover": "",
+      "rating": "",
+      "type": "TV"
+    },
+    {
       "id": 129627,
       "malId": 47398,
       "title": {
@@ -143,7 +158,7 @@
       "cover": "",
       "rating": 68,
       "type": "ONA",
-      "animeurl": "kimetsu-gakuen-valentinehen"
+	  "animeurl": "kimetsu-gakuen-valentinehen"
     },
     {
       "id": 154541,
@@ -161,24 +176,7 @@
       "rating": 60,
       "type": "Special",
 	  "animeurl": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen"
-    },
-    {
-      "id": 145139,
-      "malId": 51019,
-      "title": {
-        "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-        "english": "Demon Slayer: Swordsmith Village Arc",
-        "native": "鬼滅の刃 刀鍛冶の里編",
-        "userPreferred": "Demon Slayer Swordsmith Village Arc"
-      },
-      "status": "Not Yet Released",
-      "episodes": "",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-Z4DjPTGNyuDj.jpg",
-      "cover": "",
-      "rating": "",
-      "type": "TV"
-    }
-  ],
+    }],
   "characters": [
     {
       "id": 129130,
