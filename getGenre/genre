@@ -1,5 +1,49 @@
 [
         {
+            "animeId": "shingeki-no-kyojin",
+            "episodeId": "shingeki-no-kyojin-episode-1",
+            "name": "Attack on Titan",
+            "episodeNum": "25",
+            "subOrDub": "dub",
+            "type": "tv",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
+            "episodeUrl": "anime/shingeki-no-kyojin",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery"]
+        },
+        {
+            "animeId": "shingeki-no-kyojin-2",
+            "episodeId": "shingeki-no-kyojin-2-episode-1",
+            "name": "Attack on Titan Season 2",
+            "episodeNum": "12",
+            "subOrDub": "dub",
+            "type": "tv",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
+            "episodeUrl": "anime/shingeki-no-kyojin-2",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery"]
+        },
+        {
+            "animeId": "shingeki-no-kyojin-3",
+            "episodeId": "shingeki-no-kyojin-3-episode-1",
+            "name": "Attack on Titan Season 3 Part 1",
+            "episodeNum": "12",
+            "subOrDub": "dub",
+            "type": "tv",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-5RXELRvwjFl6.jpg",
+            "episodeUrl": "anime/shingeki-no-kyojin-3",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery"]
+        },
+        {
+            "animeId": "shingeki-no-kyojin-3-part-2",
+            "episodeId": "shingeki-no-kyojin-3-part-2-episode-1",
+            "name": "Attack on Titan Season 3 Part 2",
+            "episodeNum": "10",
+            "subOrDub": "dub",
+            "type": "tv",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-LaZYFkmhinfB.jpg",
+            "episodeUrl": "anime/shingeki-no-kyojin-3-part-2",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery"]
+        },
+        {
             "animeId": "ben-10",
             "episodeId": "ben-10-episode-1",
             "name": "Ben 10 (2005)",
