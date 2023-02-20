@@ -1,0 +1,415 @@
+{
+	"id": "145139",
+	"title": {
+		"romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+		"english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+		"native": "鬼滅の刃 刀鍛冶の里編"
+	},
+	"malId": 51019,
+	"synonyms": ["KnY 3", "ดาบพิฆาตอสูร ภาค 3 บทหมู่บ้านช่างตีดาบ"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "a9tq0aS5Zu8",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-Z4DjPTGNyuDj.jpg",
+	"popularity": 64388,
+	"color": "#e4d65d",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-Z4DjPTGNyuDj.jpg",
+	"description": "Adaptation of the Swordsmith Village Arc.",
+	"status": "Not yet aired",
+	"releaseDate": 2023,
+	"startDate": {
+		"year": 2023,
+		"month": 4,
+		"day": null
+	},
+	"endDate": {
+		"year": null,
+		"month": null,
+		"day": null
+	},
+	"totalEpisodes": null,
+	"currentEpisode": null,
+	"rating": null,
+	"duration": null,
+	"genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
+	"season": "SPRING",
+	"studios": ["ufotable"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 126071,
+		"role": "MAIN",
+		"name": {
+			"first": "Tanjirou",
+			"last": "Kamado",
+			"full": "Tanjirou Kamado",
+			"native": "竈門炭治郎",
+			"userPreferred": "Tanjirou Kamado"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png",
+		"voiceActors": [{
+			"id": 111635,
+			"language": "Japanese",
+			"name": {
+				"first": "Natsuki",
+				"last": "Hanae",
+				"full": "Natsuki Hanae",
+				"native": "花江夏樹",
+				"userPreferred": "Natsuki Hanae"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png"
+		}]
+	}, {
+		"id": 137776,
+		"role": "MAIN",
+		"name": {
+			"first": "Genya",
+			"last": "Shinazugawa",
+			"full": "Genya Shinazugawa",
+			"native": "不死川玄弥",
+			"userPreferred": "Genya Shinazugawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137776-E0QuFD7y19OQ.jpg",
+		"voiceActors": [{
+			"id": 95270,
+			"language": "Japanese",
+			"name": {
+				"first": "Nobuhiko",
+				"last": "Okamoto",
+				"full": "Nobuhiko Okamoto",
+				"native": "岡本信彦",
+				"userPreferred": "Nobuhiko Okamoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+		}]
+	}, {
+		"id": 127518,
+		"role": "MAIN",
+		"name": {
+			"first": "Nezuko",
+			"last": "Kamado",
+			"full": "Nezuko Kamado",
+			"native": "竈門禰豆子",
+			"userPreferred": "Nezuko Kamado"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png",
+		"voiceActors": [{
+			"id": 119722,
+			"language": "Japanese",
+			"name": {
+				"first": "Akari",
+				"last": "Kitou",
+				"full": "Akari Kitou",
+				"native": "鬼頭明里",
+				"userPreferred": "Akari Kitou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-5dLCvvv1Rbcc.png"
+		}]
+	}, {
+		"id": 136072,
+		"role": "MAIN",
+		"name": {
+			"first": "Mitsuri",
+			"last": "Kanroji",
+			"full": "Mitsuri Kanroji",
+			"native": "甘露寺蜜璃",
+			"userPreferred": "Mitsuri Kanroji"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png",
+		"voiceActors": [{
+			"id": 95185,
+			"language": "Japanese",
+			"name": {
+				"first": "Kana",
+				"last": "Hanazawa",
+				"full": "Kana Hanazawa",
+				"native": "花澤香菜",
+				"userPreferred": "Kana Hanazawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-vZ6nmfBKQgw1.jpg"
+		}]
+	}, {
+		"id": 136069,
+		"role": "MAIN",
+		"name": {
+			"first": "Muichirou",
+			"last": "Tokitou",
+			"full": "Muichirou Tokitou",
+			"native": "時透無一郎",
+			"userPreferred": "Muichirou Tokitou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png",
+		"voiceActors": [{
+			"id": 110877,
+			"language": "Japanese",
+			"name": {
+				"first": "Kengo",
+				"last": "Kawanishi",
+				"full": "Kengo Kawanishi",
+				"native": "河西健吾",
+				"userPreferred": "Kengo Kawanishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110877-zSEL81OrcDwR.png"
+		}]
+	}, {
+		"id": 141918,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kokushibo",
+			"last": null,
+			"full": "Kokushibo",
+			"native": "黒死牟",
+			"userPreferred": "Kokushibo"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b141918-9YqIlVtH6cYb.png",
+		"voiceActors": [{
+			"id": 95177,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryoutarou",
+				"last": "Okiayu",
+				"full": "Ryoutarou Okiayu",
+				"native": "置鮎龍太郎",
+				"userPreferred": "Ryoutarou Okiayu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95177-6SiaUTf3CLkN.png"
+		}]
+	}, {
+		"id": 144591,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Douma",
+			"last": null,
+			"full": "Douma",
+			"native": "童磨",
+			"userPreferred": "Douma"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b144591-v2yrXtHorZFS.png",
+		"voiceActors": [{
+			"id": 95065,
+			"language": "Japanese",
+			"name": {
+				"first": "Mamoru",
+				"last": "Miyano",
+				"full": "Mamoru Miyano",
+				"native": "宮野真守",
+				"userPreferred": "Mamoru Miyano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+		}]
+	}, {
+		"id": 141694,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Akaza",
+			"last": null,
+			"full": "Akaza",
+			"native": "猗窩座",
+			"userPreferred": "Akaza"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b141694-0COi0GVXPuEn.png",
+		"voiceActors": [{
+			"id": 95017,
+			"language": "Japanese",
+			"name": {
+				"first": "Akira",
+				"last": "Ishida",
+				"full": "Akira Ishida",
+				"native": "石田彰",
+				"userPreferred": "Akira Ishida"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png"
+		}]
+	}, {
+		"id": 129131,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Zenitsu",
+			"last": "Agatsuma",
+			"full": "Zenitsu Agatsuma",
+			"native": "我妻善逸",
+			"userPreferred": "Zenitsu Agatsuma"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png",
+		"voiceActors": [{
+			"id": 95356,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiro",
+				"last": "Shimono",
+				"full": "Hiro Shimono",
+				"native": "下野紘",
+				"userPreferred": "Hiro Shimono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png"
+		}]
+	}, {
+		"id": 139736,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Nakime",
+			"last": null,
+			"full": "Nakime",
+			"native": "鳴女",
+			"userPreferred": "Nakime"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b139736-CrfqAqlktDTP.png",
+		"voiceActors": [{
+			"id": 95158,
+			"language": "Japanese",
+			"name": {
+				"first": "Marina",
+				"last": "Inoue",
+				"full": "Marina Inoue",
+				"native": "井上麻里奈",
+				"userPreferred": "Marina Inoue"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg"
+		}]
+	}, {
+		"id": 129130,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Inosuke",
+			"last": "Hashibira",
+			"full": "Inosuke Hashibira",
+			"native": "嘴平伊之助",
+			"userPreferred": "Inosuke Hashibira"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg",
+		"voiceActors": [{
+			"id": 106817,
+			"language": "Japanese",
+			"name": {
+				"first": "Yoshitsugu",
+				"last": "Matsuoka",
+				"full": "Yoshitsugu Matsuoka",
+				"native": "松岡禎丞",
+				"userPreferred": "Yoshitsugu Matsuoka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png"
+		}]
+	}, {
+		"id": 129132,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Muzan",
+			"last": "Kibutsuji",
+			"full": "Muzan Kibutsuji",
+			"native": "鬼舞辻無惨",
+			"userPreferred": "Muzan Kibutsuji"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b129132-4nIZakUZ1o8W.jpg",
+		"voiceActors": [{
+			"id": 95129,
+			"language": "Japanese",
+			"name": {
+				"first": "Toshihiko",
+				"last": "Seki",
+				"full": "Toshihiko Seki",
+				"native": "関俊彦",
+				"userPreferred": "Toshihiko Seki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95129-AAL7kfwAPpgR.jpg"
+		}]
+	}, {
+		"id": 260323,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hantengu",
+			"last": null,
+			"full": "Hantengu",
+			"native": "半天狗",
+			"userPreferred": "Hantengu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b260323-koyhAgXts28X.png",
+		"voiceActors": [{
+			"id": 95673,
+			"language": "Japanese",
+			"name": {
+				"first": "Toshio",
+				"last": "Furukawa",
+				"full": "Toshio Furukawa",
+				"native": "古川登志夫",
+				"userPreferred": "Toshio Furukawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95673-jNN4GqGgpssj.png"
+		}]
+	}, {
+		"id": 205590,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gyokko",
+			"last": "",
+			"full": "Gyokko",
+			"native": "玉壺",
+			"userPreferred": "Gyokko"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b205590-mNWuXG5oPw4g.jpg",
+		"voiceActors": [{
+			"id": 95097,
+			"language": "Japanese",
+			"name": {
+				"first": "Kousuke",
+				"last": "Toriumi",
+				"full": "Kousuke Toriumi",
+				"native": "鳥海浩輔",
+				"userPreferred": "Kousuke Toriumi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95097-BhSegy6KBLbE.png"
+		}]
+	}],
+	"relations": [{
+		"id": 87216,
+		"relationType": "ADAPTATION",
+		"malId": 96792,
+		"title": {
+			"romaji": "Kimetsu no Yaiba",
+			"english": "Demon Slayer: Kimetsu no Yaiba",
+			"native": "鬼滅の刃",
+			"userPreferred": "Kimetsu no Yaiba"
+		},
+		"status": "Completed",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87216-c9bSNVD10UuD.png",
+		"color": "#f1d628",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/87216-TVKEGfSxAqKs.jpg",
+		"rating": 81
+	}, {
+		"id": 142329,
+		"relationType": "PREQUEL",
+		"malId": 47778,
+		"title": {
+			"romaji": "Kimetsu no Yaiba: Yuukaku-hen",
+			"english": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+			"native": "鬼滅の刃 遊郭編",
+			"userPreferred": "Kimetsu no Yaiba: Yuukaku-hen"
+		},
+		"status": "Completed",
+		"episodes": 11,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
+		"color": "#f19350",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142329-i413SzLmToZN.jpg",
+		"rating": 87
+	}],
+	"mappings": {
+		"mal": 51019,
+		"anidb": 17198,
+		"kitsu": 45866,
+		"anilist": 145139,
+		"thetvdb": 348545,
+		"anisearch": 17088,
+		"livechart": 11084,
+		"notify.moe": "CqN9Rja7R",
+		"anime-planet": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc"
+	},
+	"episodes": []
+}
