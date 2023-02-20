@@ -42,261 +42,123 @@
 	"subOrDub": "sub",
 	"type": "MOVIE",
 	"recommendations": [{
-		"id": 101347,
-		"malId": 37520,
-		"title": {
-			"romaji": "Dororo",
-			"english": "Dororo",
-			"native": "どろろ",
-			"userPreferred": "Dororo"
-		},
-		"status": "Completed",
-		"episodes": 24,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101347-2J2p8qJpxpfZ.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n101347-tHurKfTlhtFl.jpg",
-		"rating": 81,
-		"type": "TV"
-	}, {
-		"id": 21459,
-		"malId": 31964,
-		"title": {
-			"romaji": "Boku no Hero Academia",
-			"english": "My Hero Academia",
-			"native": "僕のヒーローアカデミア",
-			"userPreferred": "Boku no Hero Academia"
-		},
-		"status": "Completed",
-		"episodes": 13,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-DUKLgasrgeNO.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21459-yeVkolGKdGUV.jpg",
-		"rating": 77,
-		"type": "TV"
-	}, {
-		"id": 777,
-		"malId": 777,
-		"title": {
-			"romaji": "HELLSING OVA",
-			"english": "Hellsing Ultimate",
-			"native": "HELLSING OVA",
-			"userPreferred": "HELLSING OVA"
-		},
-		"status": "Completed",
-		"episodes": 10,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx777-wviqUSUoSXAl.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/777-XzPjBZdSRtDT.jpg",
-		"rating": 80,
-		"type": "OVA"
-	}, {
-		"id": 113415,
-		"malId": 40748,
-		"title": {
-			"romaji": "Jujutsu Kaisen",
-			"english": "JUJUTSU KAISEN",
-			"native": "呪術廻戦",
-			"userPreferred": "Jujutsu Kaisen"
-		},
-		"status": "Completed",
-		"episodes": 24,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113415-jQBSkxWAAk83.jpg",
-		"rating": 86,
-		"type": "TV"
-	}, {
-		"id": 108553,
-		"malId": 39565,
-		"title": {
-			"romaji": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
-			"english": "My Hero Academia: Heroes Rising",
-			"native": "僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング",
-			"userPreferred": "Boku no Hero Academia THE MOVIE: Heroes:Rising"
-		},
-		"status": "Completed",
-		"episodes": 1,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108553-rEe0n22hRkPH.jpg",
-		"rating": 79,
-		"type": "MOVIE"
-	}, {
-		"id": 14719,
-		"malId": 14719,
-		"title": {
-			"romaji": "JoJo no Kimyou na Bouken (TV)",
-			"english": "JoJo's Bizarre Adventure (TV)",
-			"native": "ジョジョの奇妙な冒険 (TV)",
-			"userPreferred": "JoJo no Kimyou na Bouken (TV)"
-		},
-		"status": "Completed",
-		"episodes": 26,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14719-XFOPewvDtDdA.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/14719-m7Hv2AxcNNjM.jpg",
-		"rating": 77,
-		"type": "TV"
-	}, {
-		"id": 97940,
-		"malId": 34572,
-		"title": {
-			"romaji": "Black Clover",
-			"english": "Black Clover",
-			"native": "ブラッククローバー",
-			"userPreferred": "Black Clover"
-		},
-		"status": "Completed",
-		"episodes": 170,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-bPydLjny8PUw.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97940-1URQdQ4U1a0b.jpg",
-		"rating": 78,
-		"type": "TV"
-	}, {
-		"id": 1735,
-		"malId": 1735,
-		"title": {
-			"romaji": "NARUTO: Shippuuden",
-			"english": "Naruto: Shippuden",
-			"native": "NARUTO -ナルト- 疾風伝",
-			"userPreferred": "NARUTO: Shippuuden"
-		},
-		"status": "Completed",
-		"episodes": 500,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1735.jpg",
-		"rating": 82,
-		"type": "TV"
-	}, {
-		"id": 21719,
-		"malId": 33050,
-		"title": {
-			"romaji": "Fate/stay night [Heaven's Feel] III. spring song",
-			"english": "Fate/stay night [Heaven’s Feel] III. spring song",
-			"native": "Fate/stay night[Heaven's Feel] ⅠⅠⅠ.spring song",
-			"userPreferred": "Fate/stay night [Heaven's Feel] III. spring song"
-		},
-		"status": "Completed",
-		"episodes": 1,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21719-PKVm9R01Fu1k.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21719-5HkmNCw4YhpP.jpg",
-		"rating": 86,
-		"type": "MOVIE"
-	}, {
-		"id": 129627,
-		"malId": 47398,
-		"title": {
-			"romaji": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen",
-			"english": "Junior High and High School!! Kimetsu Academy Story: Valentine Edition",
-			"native": "中高一貫!!キメツ学園物語  ～バレンタイン編～",
-			"userPreferred": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen"
-		},
-		"status": "Completed",
-		"episodes": 4,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129627-GiVeOqDUAqUC.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129627-GiVeOqDUAqUC.png",
-		"rating": 69,
-		"type": "ONA"
-	}, {
-		"id": 21196,
-		"malId": 28623,
-		"title": {
-			"romaji": "Koutetsujou no Kabaneri",
-			"english": "Kabaneri of the Iron Fortress",
-			"native": "甲鉄城のカバネリ",
-			"userPreferred": "Koutetsujou no Kabaneri"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21196-2PfPfIDrxKki.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21196-0aQqkn5XWmGo.jpg",
-		"rating": 69,
-		"type": "TV"
-	}, {
-		"id": 130912,
-		"malId": 22131,
-		"title": {
-			"romaji": "Train Heroes Movie",
-			"english": null,
-			"native": "劇場版 トレインヒーロー",
-			"userPreferred": "Train Heroes Movie"
-		},
-		"status": "Completed",
-		"episodes": 1,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130912-1tfKVoxDgNrg.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130912-1tfKVoxDgNrg.jpg",
-		"rating": 56,
-		"type": "MOVIE"
-	}, {
-		"id": 16498,
-		"malId": 16498,
-		"title": {
-			"romaji": "Shingeki no Kyojin",
-			"english": "Attack on Titan",
-			"native": "進撃の巨人",
-			"userPreferred": "Shingeki no Kyojin"
-		},
-		"status": "Completed",
-		"episodes": 25,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16498-8jpFCOcDmneX.jpg",
-		"rating": 84,
-		"type": "TV"
-	}, {
-		"id": 131573,
-		"malId": 48561,
-		"title": {
-			"romaji": "Jujutsu Kaisen 0",
-			"english": "JUJUTSU KAISEN 0",
-			"native": "呪術廻戦 0",
-			"userPreferred": "Jujutsu Kaisen 0"
-		},
-		"status": "Completed",
-		"episodes": 1,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131573-rpl82vDEDRm6.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131573-3veuVz5p0z2I.jpg",
-		"rating": 85,
-		"type": "MOVIE"
-	}, {
-		"id": 5114,
-		"malId": 5114,
-		"title": {
-			"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
-			"english": "Fullmetal Alchemist: Brotherhood",
-			"native": "鋼の錬金術師 FULLMETAL ALCHEMIST",
-			"userPreferred": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
-		},
-		"status": "Completed",
-		"episodes": 64,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5114-q0V5URebphSG.jpg",
-		"rating": 90,
-		"type": "TV"
-	}, {
-		"id": 100721,
-		"malId": 35072,
-		"title": {
-			"romaji": "BORUTO: Jump Festa 2016 Special",
-			"english": "Boruto: Jump Festa 2016 Special",
-			"native": "BORUTOジャンプフェスタ 2016",
-			"userPreferred": "BORUTO: Jump Festa 2016 Special"
-		},
-		"status": "Completed",
-		"episodes": 1,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100721-46LfyRVclD8k.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100721-46LfyRVclD8k.jpg",
-		"rating": 56,
-		"type": "SPECIAL"
-	}, {
-		"id": 11737,
-		"malId": 11737,
-		"title": {
-			"romaji": "Ao no Exorcist Movie",
-			"english": "Blue Exorcist: The Movie",
-			"native": "青の祓魔師 -劇場版-",
-			"userPreferred": "Ao no Exorcist Movie"
-		},
-		"status": "Completed",
-		"episodes": 1,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11737-49ya7CBO5wEq.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n11737-34qhsBR8V3Bc.jpg",
-		"rating": 73,
-		"type": "MOVIE"
-	}],
+      "id": 101922,
+      "malId": 38000,
+      "title": {
+        "romaji": "Kimetsu no Yaiba",
+        "english": "Demon Slayer: Kimetsu no Yaiba",
+        "native": "鬼滅の刃",
+        "userPreferred": "Demon Slayer Season 1"
+      },
+      "status": "Completed",
+      "episodes": 26,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-PEn1CTc93blC.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101922-YfZhKBUDDS6L.jpg",
+      "rating": 84,
+      "type": "TV",
+	  "animeurl": "kimetsu-no-yaiba"
+    },
+    {
+      "id": 112151,
+      "malId": 40456,
+      "title": {
+        "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen",
+        "english": "Demon Slayer The Movie: Mugen Train",
+        "native": "鬼滅の刃 無限列車編",
+        "userPreferred": "Demon Slayer Mugen Train Movie"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
+      "rating": 85,
+      "type": "Movie",
+	  "animeurl": "kimetsu-no-yaiba-mugen-resshahen"
+    },
+    {
+      "id": 129874,
+      "malId": 49926,
+      "title": {
+        "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
+        "english": "Demon Slayer: Mugen Train Arc",
+        "native": "鬼滅の刃 無限列車編 (TV)",
+        "userPreferred": "Demon Slayer season 2"
+      },
+      "status": "Completed",
+      "episodes": 7,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129874-g6ZKXB94Hui1.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/129874-3ipZzS50i9Ta.jpg",
+      "rating": 83,
+      "type": "TV",
+	  "animeurl": "kimetsu-no-yaiba-mugen-ressha-hen"
+    },
+	{
+      "id": 142329,
+      "malId": 47778,
+      "title": {
+        "romaji": "Kimetsu no Yaiba: Yuukaku-hen",
+        "english": "Demon Slayer: Entertainment District Arc",
+        "native": "鬼滅の刃 遊郭編",
+        "userPreferred": "Demon Slayer season 2 entertainment district arc"
+      },
+      "status": "Completed",
+      "episodes": 11,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142329-i413SzLmToZN.jpg",
+      "rating": 87,
+      "type": "TV",
+	  "animeurl": "kimetsu-no-yaiba-yuukaku-hen"
+    },
+    {
+      "id": 145139,
+      "malId": 51019,
+      "title": {
+        "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+        "english": "Demon Slayer: Swordsmith Village Arc",
+        "native": "鬼滅の刃 刀鍛冶の里編",
+        "userPreferred": "Demon Slayer Swordsmith Village Arc"
+      },
+      "status": "Not Yet Released",
+      "episodes": "",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-Z4DjPTGNyuDj.jpg",
+      "cover": "",
+      "rating": "",
+      "type": "TV"
+    },
+    {
+      "id": 129627,
+      "malId": 47398,
+      "title": {
+        "romaji": "Kimetsu Gakuen: Valentine-hen",
+        "english": "Junior High and High School!! Kimetsu Academy Story",
+        "native": "キメツ学園 バレンタイン編",
+        "userPreferred": "Kimetsu Gakuen"
+      },
+      "status": "Completed",
+      "episodes": 4,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129627-GiVeOqDUAqUC.png",
+      "cover": "",
+      "rating": 68,
+      "type": "ONA",
+	  "animeurl": "kimetsu-gakuen-valentinehen"
+    },
+    {
+      "id": 154541,
+      "malId": 48861,
+      "title": {
+        "romaji": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+        "english": "Junior High and High School!! Kimetsu Academy Story",
+        "native": "中高一貫!!キメツ学園物語 ～鬼滅の宴=特別編=～",
+        "userPreferred": "Kimetsu Academy: Kimetsu no Utage Special Edition"
+      },
+      "status": "Completed",
+      "episodes": 3,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154541-uw1iAxNKdUAf.png",
+      "cover": "",
+      "rating": 60,
+      "type": "Special",
+	  "animeurl": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen"
+    }],
 	"characters": [{
 		"id": 129133,
 		"role": "MAIN",
