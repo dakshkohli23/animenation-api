@@ -50,6 +50,26 @@
             "episodeUrl": "anime/ben-10"
         },
         {
+            "animeId": "ben-10-2016",
+            "episodeId": "ben-10-2016-episode-1",
+            "name": "Ben 10 (2016)",
+            "episodeNum": "166",
+            "subOrDub": "dub",
+            "imgUrl": "../cover/ben-10-2016-poster.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/ben-10-2016"
+        },
+        {
+            "animeId": "ben-10-speical-2021",
+            "episodeId": "ben-10-speical-2021-episode-1",
+            "name": "Ben 10 Special (2021)",
+            "episodeNum": "3",
+            "subOrDub": "dub",
+            "imgUrl": "../cover/ben-10-speical-2021-poster.jpg",
+            "type": "special",
+            "episodeUrl": "anime/ben-10-speical-2021"
+        },
+        {
             "animeId": "ben-10-alien-force",
             "episodeId": "ben-10-alien-force-episode-1",
             "name": "Ben 10: Alien Force",
@@ -110,16 +130,6 @@
             "episodeUrl": "anime/kimetsu-no-yaiba"
         },
         {
-            "animeId": "kimetsu-no-yaiba-mugen-ressha-hen",
-            "episodeId": "kimetsu-no-yaiba-mugen-ressha-hen-episode-1",
-            "name": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
-            "episodeNum": "7",
-            "subOrDub": "dub",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129874-g6ZKXB94Hui1.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/kimetsu-no-yaiba-mugen-ressha-hen"
-        },
-        {
             "animeId": "kimetsu-no-yaiba-mugen-resshahen",
             "episodeId": "kimetsu-no-yaiba-mugen-resshahen-episode-1",
             "name": "Demon Slayer: Kimetsu no Yaiba Mugen Train",
@@ -128,6 +138,16 @@
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
             "type": "movie",
             "episodeUrl": "anime/kimetsu-no-yaiba-mugen-resshahen"
+        },
+        {
+            "animeId": "kimetsu-no-yaiba-mugen-ressha-hen",
+            "episodeId": "kimetsu-no-yaiba-mugen-ressha-hen-episode-1",
+            "name": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+            "episodeNum": "7",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129874-g6ZKXB94Hui1.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/kimetsu-no-yaiba-mugen-ressha-hen"
         },
         {
             "animeId": "how-not-to-summon-a-demon-lord",
