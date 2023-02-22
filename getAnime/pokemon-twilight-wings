@@ -32,8 +32,8 @@
 		"month": 8,
 		"day": 6
 	},
-	"totalEpisodes": 7,
-	"currentEpisode": 7,
+	"totalEpisodes": 8,
+	"currentEpisode": 8,
 	"rating": 74,
 	"duration": 6,
 	"genres": ["Adventure", "Drama", "Fantasy", "Slice of Life"],
@@ -683,6 +683,13 @@
 		"description": "It’s all come down to this.",
 		"number": 7,
 		"image": "https://artworks.thetvdb.com/banners/series/373770/episodes/5f2c23c7eca80.jpg",
+		"airDate": "2020-08-06T00:00:00.000Z"
+	}, {
+		"id": "pokemon-twilight-wings-episode-8",
+		"title": "Pokémon: Twilight Wings—The Gathering of Stars",
+		"description": "Travel with Leon to the Isle of Armor as he gathers the best Trainers from Galar in the newest episode of Pokémon: Twilight Wings—The Gathering of Stars!",
+		"number": 8,
+		"image": "https://img.youtube.com/vi/rbtybA7xT2M/0.jpg",
 		"airDate": "2020-08-06T00:00:00.000Z"
 	}]
 }
