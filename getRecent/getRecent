@@ -1,5 +1,16 @@
 [
     {
+        "animeId": "pokemon-twilight-wings",
+        "episodeId": "pokemon-twilight-wings-episode-1",
+        "name": "Pokémon: Twilight Wings",
+        "jname": "Hakumei no Tsubasa",
+        "episodeNum": "8",
+        "subOrDub": "dub",
+        "type": "ona",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113932-2sY3uAQq9qSz.png",
+        "episodeUrl": "anime/pokemon-twilight-wings"
+    },
+    {
         "animeId": "secret-of-the-omnitrix",
         "episodeId": "secret-of-the-omnitrix-episode-1",
         "name": "Ben 10: Secret of the Omnitrix",
