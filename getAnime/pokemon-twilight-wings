@@ -1,0 +1,688 @@
+{
+	"id": "113932",
+	"title": {
+		"romaji": "Hakumei no Tsubasa",
+		"english": "Pokémon: Twilight Wings",
+		"native": "薄明の翼"
+	},
+	"malId": 40861,
+	"synonyms": [],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "rYDmL5VH-uk",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/rYDmL5VH-uk/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113932-2sY3uAQq9qSz.png",
+	"popularity": 9047,
+	"color": "#f1e45d",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113932-ZKPbmjZIhkwU.jpg",
+	"description": "An ensemble drama showing the struggles and conflicts of young people living in the Galar region.",
+	"status": "Completed",
+	"releaseDate": 2020,
+	"startDate": {
+		"year": 2020,
+		"month": 1,
+		"day": 15
+	},
+	"endDate": {
+		"year": 2020,
+		"month": 8,
+		"day": 6
+	},
+	"totalEpisodes": 7,
+	"currentEpisode": 7,
+	"rating": 74,
+	"duration": 6,
+	"genres": ["Adventure", "Drama", "Fantasy", "Slice of Life"],
+	"season": "WINTER",
+	"studios": ["Studio Colorido"],
+	"subOrDub": "sub",
+	"type": "ONA",
+	"recommendations": [],
+	"characters": [{
+		"id": 159785,
+		"role": "MAIN",
+		"name": {
+			"first": "Rurina",
+			"last": null,
+			"full": "Rurina",
+			"native": "ルリナ",
+			"userPreferred": "Rurina"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159785-gzrtVRJjTd3u.png",
+		"voiceActors": [{
+			"id": 116517,
+			"language": "Japanese",
+			"name": {
+				"first": "Sora",
+				"last": "Amamiya",
+				"full": "Sora Amamiya",
+				"native": "雨宮天",
+				"userPreferred": "Sora Amamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-NQh6ewlCwzBN.jpg"
+		}, {
+			"id": 156013,
+			"language": "English",
+			"name": {
+				"first": "Anairis",
+				"last": "Quiñones",
+				"full": "Anairis Quiñones",
+				"native": null,
+				"userPreferred": "Anairis Quiñones"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n156013-v06CHeYgx1JL.png"
+		}]
+	}, {
+		"id": 159780,
+		"role": "MAIN",
+		"name": {
+			"first": "Dande",
+			"last": "",
+			"full": "Dande",
+			"native": "ダンデ",
+			"userPreferred": "Dande"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159780-QYgcXPt62Pk0.png",
+		"voiceActors": [{
+			"id": 95079,
+			"language": "Japanese",
+			"name": {
+				"first": "Takahiro",
+				"last": "Sakurai",
+				"full": "Takahiro Sakurai",
+				"native": "櫻井孝宏",
+				"userPreferred": "Takahiro Sakurai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg"
+		}, {
+			"id": 184606,
+			"language": "English",
+			"name": {
+				"first": "Kai",
+				"last": "Jordan",
+				"full": "Kai Jordan",
+				"native": null,
+				"userPreferred": "Kai Jordan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184606-NJbDIZJDeDyB.png"
+		}]
+	}, {
+		"id": 159790,
+		"role": "MAIN",
+		"name": {
+			"first": "Tommy",
+			"last": null,
+			"full": "Tommy",
+			"native": "トミー",
+			"userPreferred": "Tommy"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159790-5TQIgnz8Gsj5.png",
+		"voiceActors": [{
+			"id": 95594,
+			"language": "Japanese",
+			"name": {
+				"first": "Kei",
+				"last": "Shindou",
+				"full": "Kei Shindou",
+				"native": "真堂圭",
+				"userPreferred": "Kei Shindou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95594-uUAU6lh6TMQW.png"
+		}, {
+			"id": 120246,
+			"language": "English",
+			"name": {
+				"first": "Morgan",
+				"last": "Berry",
+				"full": "Morgan Berry",
+				"native": null,
+				"userPreferred": "Morgan Berry"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120246-G6NPhgCxKDg5.png"
+		}]
+	}, {
+		"id": 159792,
+		"role": "MAIN",
+		"name": {
+			"first": "Olive",
+			"last": null,
+			"full": "Olive",
+			"native": "オリーヴ",
+			"userPreferred": "Olive"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159792-HhGLo78ciVBD.png",
+		"voiceActors": [{
+			"id": 159793,
+			"language": "Japanese",
+			"name": {
+				"first": "Ayumi",
+				"last": "Nagao",
+				"full": "Ayumi Nagao",
+				"native": "長尾歩",
+				"userPreferred": "Ayumi Nagao"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n159793-zQpu1IQ3XeZd.png"
+		}, {
+			"id": 142596,
+			"language": "English",
+			"name": {
+				"first": "Julia",
+				"last": "McIlvaine",
+				"full": "Julia McIlvaine",
+				"native": null,
+				"userPreferred": "Julia McIlvaine"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142596-DcBRaw3pnRch.jpg"
+		}]
+	}, {
+		"id": 159783,
+		"role": "MAIN",
+		"name": {
+			"first": "Onion",
+			"last": null,
+			"full": "Onion",
+			"native": "オニオン",
+			"userPreferred": "Onion"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159783-3421Dxpcbd7A.png",
+		"voiceActors": [{
+			"id": 95111,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryou",
+				"last": "Hirohashi",
+				"full": "Ryou Hirohashi",
+				"native": "広橋涼",
+				"userPreferred": "Ryou Hirohashi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/95111-iw76EbsupYkS.jpg"
+		}, {
+			"id": 136022,
+			"language": "English",
+			"name": {
+				"first": "Casey ",
+				"last": "Mongillo",
+				"full": "Casey  Mongillo",
+				"native": null,
+				"userPreferred": "Casey  Mongillo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n136022-uLqscUOwR6yU.jpg"
+		}]
+	}, {
+		"id": 159786,
+		"role": "MAIN",
+		"name": {
+			"first": "Hop",
+			"last": null,
+			"full": "Hop",
+			"native": "ホップ",
+			"userPreferred": "Hop"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159786-OywIycmonxeK.png",
+		"voiceActors": [{
+			"id": 95407,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuko",
+				"last": "Sanpei",
+				"full": "Yuuko Sanpei",
+				"native": "三瓶由布子",
+				"userPreferred": "Yuuko Sanpei"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95407-u8MV6kcAJNV6.png"
+		}, {
+			"id": 146950,
+			"language": "English",
+			"name": {
+				"first": "Griffin",
+				"last": "Puatu",
+				"full": "Griffin Puatu",
+				"native": null,
+				"userPreferred": "Griffin Puatu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n146950-lDIXZlFUZkXo.jpg"
+		}]
+	}, {
+		"id": 159776,
+		"role": "MAIN",
+		"name": {
+			"first": "John",
+			"last": null,
+			"full": "John",
+			"native": "ジョン",
+			"userPreferred": "John"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159776-gOgRC4LIJCf4.png",
+		"voiceActors": [{
+			"id": 101686,
+			"language": "Japanese",
+			"name": {
+				"first": "Aoi",
+				"last": "Yuuki",
+				"full": "Aoi Yuuki",
+				"native": "悠木碧",
+				"userPreferred": "Aoi Yuuki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png"
+		}, {
+			"id": 142596,
+			"language": "English",
+			"name": {
+				"first": "Julia",
+				"last": "McIlvaine",
+				"full": "Julia McIlvaine",
+				"native": null,
+				"userPreferred": "Julia McIlvaine"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142596-DcBRaw3pnRch.jpg"
+		}]
+	}, {
+		"id": 159784,
+		"role": "MAIN",
+		"name": {
+			"first": "Saitou",
+			"last": "",
+			"full": "Saitou",
+			"native": "サイトウ",
+			"userPreferred": "Saitou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159784-IMYTJDDtt9Ux.png",
+		"voiceActors": [{
+			"id": 95413,
+			"language": "Japanese",
+			"name": {
+				"first": "Eri",
+				"last": "Kitamura",
+				"full": "Eri Kitamura",
+				"native": "喜多村英梨",
+				"userPreferred": "Eri Kitamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png"
+		}, {
+			"id": 129678,
+			"language": "English",
+			"name": {
+				"first": "Laura",
+				"last": "Stahl",
+				"full": "Laura Stahl",
+				"native": "Laura Megan Stahl",
+				"userPreferred": "Laura Megan Stahl"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129678-ktHQSAt2Bg1m.jpg"
+		}]
+	}, {
+		"id": 159778,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Taxi no Untenshu",
+			"last": null,
+			"full": "Taxi no Untenshu",
+			"native": "タクシーの運転手",
+			"userPreferred": "Taxi no Untenshu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159778-2Mxpr26cfYfM.png",
+		"voiceActors": [{
+			"id": 106629,
+			"language": "Japanese",
+			"name": {
+				"first": "Seirou",
+				"last": "Ogino",
+				"full": "Seirou Ogino",
+				"native": "荻野晴朗",
+				"userPreferred": "Seirou Ogino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106629-TT3F7WfC3wLq.png"
+		}, {
+			"id": 129652,
+			"language": "English",
+			"name": {
+				"first": "Edward",
+				"last": "Bosco",
+				"full": "Edward Bosco",
+				"native": null,
+				"userPreferred": "Edward Bosco"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129652-PqRlPTEMHvWR.png"
+		}]
+	}, {
+		"id": 165058,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Soudo",
+			"last": "Tsurugi",
+			"full": "Soudo Tsurugi",
+			"native": "剣創人",
+			"userPreferred": "Soudo Tsurugi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b165058-8Eme3h3jINO0.png",
+		"voiceActors": [{
+			"id": 190469,
+			"language": "Japanese",
+			"name": {
+				"first": "Kaichi",
+				"last": "Miyata",
+				"full": "Kaichi Miyata",
+				"native": "宮田海地",
+				"userPreferred": "Kaichi Miyata"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190469-v6lES31Gef9z.png"
+		}]
+	}, {
+		"id": 159782,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yarrow",
+			"last": null,
+			"full": "Yarrow",
+			"native": "ヤロー",
+			"userPreferred": "Yarrow"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159782-nkEJUFBj43xO.png",
+		"voiceActors": [{
+			"id": 102242,
+			"language": "Japanese",
+			"name": {
+				"first": "Tarusuke",
+				"last": "Shingaki",
+				"full": "Tarusuke Shingaki",
+				"native": "新垣樽助",
+				"userPreferred": "Tarusuke Shingaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102242-bx8hrisiHiSK.jpg"
+		}, {
+			"id": 129181,
+			"language": "English",
+			"name": {
+				"first": "Zach",
+				"last": "Aguilar",
+				"full": "Zach Aguilar",
+				"native": null,
+				"userPreferred": "Zach Aguilar"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129181-WaHZNnZqavRo.png"
+		}]
+	}, {
+		"id": 165057,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Schildemilia ",
+			"last": "Tate",
+			"full": "Schildemilia  Tate",
+			"native": "盾・シルドミリア",
+			"userPreferred": "Schildemilia  Tate"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b165057-5s3Hs4Y3rQDT.png",
+		"voiceActors": [{
+			"id": 190470,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuna",
+				"last": "Ogata",
+				"full": "Yuuna Ogata",
+				"native": "緒方佑奈",
+				"userPreferred": "Yuuna Ogata"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190470-iOXKrdVT74vo.png"
+		}]
+	}, {
+		"id": 159787,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sonia",
+			"last": null,
+			"full": "Sonia",
+			"native": "ソニア",
+			"userPreferred": "Sonia"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159787-tQSPqHboiRrN.png",
+		"voiceActors": [{
+			"id": 118806,
+			"language": "Japanese",
+			"name": {
+				"first": "Lynn",
+				"last": "",
+				"full": "Lynn",
+				"native": "りん ",
+				"userPreferred": "Lynn"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118806-AlHvdje5aHje.png"
+		}, {
+			"id": 129665,
+			"language": "English",
+			"name": {
+				"first": "Allegra",
+				"last": "Clark",
+				"full": "Allegra Clark",
+				"native": null,
+				"userPreferred": "Allegra Clark"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129665-djL9QFowB94x.jpg"
+		}]
+	}, {
+		"id": 159781,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Rose",
+			"last": null,
+			"full": "Rose",
+			"native": "ローズ",
+			"userPreferred": "Rose"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159781-wPqXl67r79Ql.png",
+		"voiceActors": [{
+			"id": 101755,
+			"language": "Japanese",
+			"name": {
+				"first": "Kazuhiro",
+				"last": "Yamaji",
+				"full": "Kazuhiro Yamaji",
+				"native": "山路和弘",
+				"userPreferred": "Kazuhiro Yamaji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101755-LsVbHCwg6Pel.png"
+		}, {
+			"id": 100476,
+			"language": "English",
+			"name": {
+				"first": "Keith",
+				"last": "Silverstein",
+				"full": "Keith Silverstein",
+				"native": null,
+				"userPreferred": "Keith Silverstein"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100476-2k3NOkUNC6gZ.jpg"
+		}]
+	}, {
+		"id": 184614,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kibana",
+			"last": null,
+			"full": "Kibana",
+			"native": "キバナ",
+			"userPreferred": "Kibana"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b184614-v1MW4mdNmOA1.png",
+		"voiceActors": [{
+			"id": 95097,
+			"language": "Japanese",
+			"name": {
+				"first": "Kousuke",
+				"last": "Toriumi",
+				"full": "Kousuke Toriumi",
+				"native": "鳥海浩輔",
+				"userPreferred": "Kousuke Toriumi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95097-BhSegy6KBLbE.png"
+		}, {
+			"id": 184645,
+			"language": "English",
+			"name": {
+				"first": "Nazeeh",
+				"last": "Tarsha",
+				"full": "Nazeeh Tarsha",
+				"native": null,
+				"userPreferred": "Nazeeh Tarsha"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184645-PTLX8fE0aggb.png"
+		}]
+	}, {
+		"id": 190467,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Nezu",
+			"last": null,
+			"full": "Nezu",
+			"native": "ネズ",
+			"userPreferred": "Nezu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b190467-4aYjkuMIGt18.png",
+		"voiceActors": [{
+			"id": 95196,
+			"language": "Japanese",
+			"name": {
+				"first": "Kishou",
+				"last": "Taniyama",
+				"full": "Kishou Taniyama",
+				"native": "谷山紀章",
+				"userPreferred": "Kishou Taniyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95196-t2vbxQMee0ci.png"
+		}, {
+			"id": 129652,
+			"language": "English",
+			"name": {
+				"first": "Edward",
+				"last": "Bosco",
+				"full": "Edward Bosco",
+				"native": null,
+				"userPreferred": "Edward Bosco"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129652-PqRlPTEMHvWR.png"
+		}]
+	}, {
+		"id": 167619,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Mary",
+			"last": null,
+			"full": "Mary",
+			"native": "マリィ",
+			"userPreferred": "Mary"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b167619-VENzdUypbE1c.jpg",
+		"voiceActors": []
+	}, {
+		"id": 184621,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Beet",
+			"last": null,
+			"full": "Beet",
+			"native": "ビート",
+			"userPreferred": "Beet"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b184621-6wvvXvzkHLno.png",
+		"voiceActors": []
+	}],
+	"relations": [{
+		"id": 112153,
+		"relationType": "ALTERNATIVE",
+		"malId": 40351,
+		"title": {
+			"romaji": "Pocket Monsters (2019)",
+			"english": "Pokémon Journeys: The Series",
+			"native": "ポケットモンスター (2019)",
+			"userPreferred": "Pocket Monsters (2019)"
+		},
+		"status": "Completed",
+		"episodes": 136,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112153-LK1lpFz3vlvl.png",
+		"color": "#35bbf1",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112153-01RDuvgGTXjp.jpg",
+		"rating": 73
+	}, {
+		"id": 125308,
+		"relationType": "SEQUEL",
+		"malId": 43568,
+		"title": {
+			"romaji": "Hakumei no Tsubasa EXPANSION: Hoshi no Matsuri",
+			"english": "Pokémon: Twilight Wings - The Gathering of Stars",
+			"native": "薄明の翼 EXPANSION ~星の祭~",
+			"userPreferred": "Hakumei no Tsubasa EXPANSION: Hoshi no Matsuri"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125308-rxK3icoDdhGl.png",
+		"color": "#e4c95d",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/125308-Da5CAirFsfsp.jpg",
+		"rating": 69
+	}],
+	"mappings": {
+		"mal": 40861,
+		"anidb": 15309,
+		"kitsu": 42869,
+		"anilist": 113932,
+		"thetvdb": 373770,
+		"anisearch": 14824,
+		"livechart": 9717,
+		"notify.moe": "XPPeTUYZR",
+		"anime-planet": "pokemon-twilight-wings"
+	},
+	"episodes": [{
+		"id": "pokemon-twilight-wings-episode-1",
+		"title": "Letter",
+		"description": "John is a young boy who’s been hospital-bound from an early age. Ever since he saw his first Pokémon battle on TV, he’s been a big fan of Champion Leon—and he’s dreamed of watching one of Leon’s matches in a stadium. Could a visit from Chairman Rose pave the way for his dreams to come true?",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/series/373770/episodes/7493202.jpg",
+		"airDate": "2020-01-15T00:00:00.000Z"
+	}, {
+		"id": "pokemon-twilight-wings-episode-2",
+		"title": "Training",
+		"description": "After losing to Galar’s Champion, Leon, Fighting-type Gym Leader Bea sets out with her Pokémon to elevate their training. Will she find her inner resolve and grow stronger...or will she succumb to the pressure of defeat?",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/series/373770/episodes/62084580.jpg",
+		"airDate": "2020-02-18T00:00:00.000Z"
+	}, {
+		"id": "pokemon-twilight-wings-episode-3",
+		"title": "Buddy",
+		"description": "What could Wooloo be up to?",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/series/373770/episodes/62112026.jpg",
+		"airDate": "2020-03-17T00:00:00.000Z"
+	}, {
+		"id": "pokemon-twilight-wings-episode-4",
+		"title": "Early-Evening Waves",
+		"description": "Reintroducing Nessa: beloved Galar region Gym Leader and model! She strives to be the best in both fields…but Chairman Rose advises her to focus on one path to have the most success. Will she sacrifice one dream in pursuit of the other?",
+		"number": 4,
+		"image": "https://artworks.thetvdb.com/banners/series/373770/episodes/5e981ff256b14.jpg",
+		"airDate": "2020-04-17T00:00:00.000Z"
+	}, {
+		"id": "pokemon-twilight-wings-episode-5",
+		"title": "Assistant",
+		"description": "Rose may be the Chairman, but it’s Oleana who keeps things running in Galar.",
+		"number": 5,
+		"image": "https://artworks.thetvdb.com/banners/series/373770/episodes/5edb3cde58d6b.jpg",
+		"airDate": "2020-06-05T00:00:00.000Z"
+	}, {
+		"id": "pokemon-twilight-wings-episode-6",
+		"title": "Moonlight",
+		"description": "After getting into an argument with his friend John, Tommy wants to make amends. He enlists Allister, Galar’s Ghost-type Gym Leader, to help in a most unusual way.",
+		"number": 6,
+		"image": "https://artworks.thetvdb.com/banners/series/373770/episodes/5efee0c87db0e.jpg",
+		"airDate": "2020-07-03T00:00:00.000Z"
+	}, {
+		"id": "pokemon-twilight-wings-episode-7",
+		"title": "Sky",
+		"description": "It’s all come down to this.",
+		"number": 7,
+		"image": "https://artworks.thetvdb.com/banners/series/373770/episodes/5f2c23c7eca80.jpg",
+		"airDate": "2020-08-06T00:00:00.000Z"
+	}]
+}
