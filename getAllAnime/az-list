@@ -90,6 +90,16 @@
             "episodeUrl": "anime/ben-10-omniverse"
         },
         {
+            "animeId": "secret-of-the-omnitrix",
+            "episodeId": "secret-of-the-omnitrix-episode-1",
+            "name": "Ben 10: Secret of the Omnitrix",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "../cover/secret-of-the-omnitrix-poster.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/secret-of-the-omnitrix"
+        },
+        {
             "animeId": "ben-10-ultimate-alien",
             "episodeId": "ben-10-ultimate-alien-episode-1",
             "name": "Ben 10: Ultimate Alien",
@@ -438,6 +448,16 @@
             "imgUrl": "../cover/pokemon-the-johto-journeys.jpg",
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-johto-journeys"
+        },
+        {
+            "animeId": "pokemon-twilight-wings",
+            "episodeId": "pokemon-twilight-wings-episode-1",
+            "name": "Pokémon: Twilight Wings",
+            "episodeNum": "8",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113932-2sY3uAQq9qSz.png",
+            "type": "ona",
+            "episodeUrl": "anime/pokemon-twilight-wings"
         },
         {
             "animeId": "spy-x-family",
