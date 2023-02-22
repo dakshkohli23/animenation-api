@@ -1,5 +1,16 @@
 [
     {
+        "animeId": "ben-10-speical-2021",
+        "episodeId": "ben-10-speical-2021-episode-1",
+        "name": "Ben 10 Special (2021)",
+        "jname": "Ben 10 Special (2021)",
+        "episodeNum": "3",
+        "subOrDub": "dub",
+        "type": "special",
+        "imgUrl": "../cover/ben-10-speical-2021-poster.jpg",
+        "episodeUrl": "anime/ben-10-speical-2021"
+    },
+    {
         "animeId": "shingeki-no-kyojin-3-part-2",
         "episodeId": "shingeki-no-kyojin-3-part-2-episode-1",
         "name": "Attack on Titan Season 3 Part 2",
