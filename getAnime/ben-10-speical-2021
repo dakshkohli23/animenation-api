@@ -1,0 +1,48 @@
+{
+	"id": "102016",
+	"title": {
+		"romaji": "Ben 10 Special (2021)",
+		"english": "Ben 10 Special (2021)",
+		"native": "Ben 10 Special (2021)"
+	},
+	"malId": 44511,
+	"synonyms": ["Ben 10 Special (2021)", "ben 10"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"trailer": {},
+	"image": "../cover/ben-10-speical-2021-poster.jpg",
+	"popularity": 1890,
+	"color": "#6b1a1a",
+	"cover": "../cover/ben-10-speical-2021-cover.jpg",
+	"description": "Ben 10 is the fifth iteration of the Ben 10 franchise. It serves as a reboot of the television series loosely based upon the original series.",
+	"status": "Completed",
+	"releaseDate": 2016,
+	"startDate": {
+		"year": 2016,
+		"month": 10,
+		"day": 1
+	},
+	"endDate": {
+		"year": 2020,
+		"month": 9,
+		"day": 18
+	},
+	"totalEpisodes": 3,
+	"rating": 3	,
+	"duration": 12,
+	"genres": ["Action", "Adventure", "Comedy", "Drama", "Science", "Sci-Fi", "Fantasy", "Superhero"],
+	"season": "Fall",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"mappings": {},
+	"episodes": [{
+		"id": "ben-10-speical-2021-episode-1",		"title": "",		"description": "",		"number": 1,		"image": "",		"airDate": ""}, 	
+		{"id": "ben-10-speical-2021-episode-2",		"title": "",		"description": "",		"number": 2,		"image": "",		"airDate": ""}, 
+		{"id": "ben-10-speical-2021-episode-3",		"title": "",		"description": "",		"number": 3,		"image": "",		"airDate": ""}
+	]
+}
