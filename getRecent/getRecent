@@ -1,5 +1,16 @@
 [
     {
+        "animeId": "secret-of-the-omnitrix",
+        "episodeId": "secret-of-the-omnitrix-episode-1",
+        "name": "Ben 10: Secret of the Omnitrix",
+        "jname": "Ben 10: Secret of the Omnitrix",
+        "episodeNum": "1",
+        "subOrDub": "dub",
+        "type": "movie",
+        "imgUrl": "../cover/secret-of-the-omnitrix-poster.jpg",
+        "episodeUrl": "anime/secret-of-the-omnitrix"
+    },
+    {
         "animeId": "ben-10-speical-2021",
         "episodeId": "ben-10-speical-2021-episode-1",
         "name": "Ben 10 Special (2021)",
