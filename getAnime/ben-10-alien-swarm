@@ -1,0 +1,46 @@
+{
+	"id": "25642",
+	"title": {
+		"romaji": "Ben 10 Alien Swarm",
+		"english": "Ben 10 Alien Swarm",
+		"native": "Ben 10 Alien Swarm"
+	},
+	"malId": 25642,
+	"synonyms": ["Ben 10 Alien Swarm", "Alien Swarm"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"trailer": {},
+	"image": "../cover/ben-10-alien-swarm-poster.jpg",
+	"popularity": 3478,
+	"color": "#6b1a1a",
+	"cover": "../cover/ben-10-alien-swarm-cover.jpg",
+	"description": "Against his grandfather's orders, Ben Tennyson teams up with the daughter of an old enemy in order to prevent an alien infestation of earth.",
+	"status": "Completed",
+	"releaseDate": 2009,
+	"startDate": {
+		"year": 2009,
+		"month": 9,
+		"day": 15
+	},
+	"endDate": {
+		"year": 2009,
+		"month": 9,
+		"day": 15
+	},
+	"totalEpisodes": 1,
+	"rating": 62,
+	"duration": 90,
+	"genres": ["Action", "Adventure", "Comedy", "Drama", "Science", "Sci-Fi", "Fantasy", "Superhero"],
+	"season": "Fall",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "Movie",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"mappings": {},
+	"episodes": [{
+		"id": "ben-10-alien-swarm-episode-1",		"title": "Ben 10 Alien Swarm",		"description": "2009",		"number": 1,		"image": "https://m.media-amazon.com/images/M/MV5BOTkyNzg0ODI1NF5BMl5BanBnXkFtZTcwMDE3MzAwMw@@._V1_FMjpg_UX600_.jpg",		"airDate": ""}
+	]
+}
