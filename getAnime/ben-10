@@ -36,7 +36,167 @@
 	"studios": ["Cartoon Network"],
 	"subOrDub": "dub",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 10,
+		"malId": 10,
+		"title": {
+			"romaji": "Ben 10 (2005)",
+			"english": "Ben 10 (2005)",
+			"native": "Ben 10 (2005)",
+			"userPreferred": "Ben 10 (2005)"
+		},
+		"status": "Completed",
+		"episodes": 52,
+		"image": "../cover/ben-10-poster.jpg",
+		"cover": "../cover/ben-10-cover.jpg",
+		"rating": 81,
+		"type": "TV",
+		"animeurl": "ben-10"
+	},{
+		"id": 10,
+		"malId": 10,
+		"title": {
+			"romaji": "Ben 10: Alien Force",
+			"english": "Ben 10: Alien Force",
+			"native": "Ben 10: Alien Force",
+			"userPreferred": "Ben 10: Alien Force"
+		},
+		"status": "Completed",
+		"episodes": 46,
+		"image": "../cover/ben-10-alien-force-poster.jpg",
+		"cover": "../cover/ben-10-alien-force-cover.jpg",
+		"rating": 73,
+		"type": "TV",
+		"animeurl": "ben-10-alien-force"
+	},{
+		"id": 10,
+		"malId": 10,
+		"title": {
+			"romaji": "Ben 10: Ultimate Alien",
+			"english": "Ben 10: Ultimate Alien",
+			"native": "Ben 10: Ultimate Alien",
+			"userPreferred": "Ben 10: Ultimate Alien"
+		},
+		"status": "Completed",
+		"episodes": 52,
+		"image": "../cover/ben-10-ultimate-alien-poster.jpg",
+		"cover": "../cover/ben-10-ultimate-alien-cover.jpg",
+		"rating": 73,
+		"type": "TV",
+		"animeurl": "ben-10-ultimate-alien"
+	},{
+		"id": 10,
+		"malId": 10,
+		"title": {
+			"romaji": "Ben 10: Omniverse",
+			"english": "Ben 10: Omniverse",
+			"native": "Ben 10: Omniverse",
+			"userPreferred": "Ben 10: Omniverse"
+		},
+		"status": "Completed",
+		"episodes": 80,
+		"image": "../cover/ben-10-omniverse-poster.jpg",
+		"cover": "../cover/ben-10-omniverse-cover.jpg",
+		"rating": 73,
+		"type": "TV",
+		"animeurl": "ben-10-omniverse"
+	},{
+		"id": 10,
+		"malId": 10,
+		"title": {
+			"romaji": "Ben 10 (2016)",
+			"english": "Ben 10 (2016)",
+			"native": "Ben 10 (2016)",
+			"userPreferred": "Ben 10 (2016)"
+		},
+		"status": "Completed",
+		"episodes": 166,
+		"image": "../cover/ben-10-2016-poster.jpg",
+		"cover": "../cover/ben-10-2016-cover.jpg",
+		"rating": 6,
+		"type": "TV",
+		"animeurl": "ben-10-2016"
+	},{
+		"id": 10,
+		"malId": 10,
+		"title": {
+			"romaji": "Ben 10: Secret of the Omnitrix",
+			"english": "Ben 10: Secret of the Omnitrix",
+			"native": "Ben 10: Secret of the Omnitrix",
+			"userPreferred": "Ben 10: Secret of the Omnitrix"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "../cover/secret-of-the-omnitrix-poster.jpg",
+		"cover": "../cover/secret-of-the-omnitrix-cover.jpg",
+		"rating": 6,
+		"type": "movie",
+		"animeurl": "ben-10-2016"
+	},{
+		"id": 10,
+		"malId": 10,
+		"title": {
+			"romaji": "Ben 10: Race Against Time",
+			"english": "Ben 10: Race Against Time",
+			"native": "Ben 10: Race Against Time",
+			"userPreferred": "Ben 10: Race Against Time"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "../cover/ben-10-race-against-time-poster.jpg",
+		"cover": "../cover/ben-10-race-against-time-cover.jpg",
+		"rating": 28,
+		"type": "movie",
+		"animeurl": "ben-10-race-against-time"
+	},{
+		"id": 10,
+		"malId": 10,
+		"title": {
+			"romaji": "Ben 10: Alien Swarm",
+			"english": "Ben 10: Alien Swarm",
+			"native": "Ben 10: Alien Swarm",
+			"userPreferred": "Ben 10: Alien Swarm"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "../cover/ben-10-alien-swarm-poster.jpg",
+		"cover": "../cover/ben-10-alien-swarm-time-cover.jpg",
+		"rating": 62,
+		"type": "movie",
+		"animeurl": "ben-10-alien-swarm"
+	},{
+		"id": 10,
+		"malId": 10,
+		"title": {
+			"romaji": "Ben 10: Destroy All Aliens",
+			"english": "Ben 10: Destroy All Aliens",
+			"native": "Ben 10: Destroy All Aliens",
+			"userPreferred": "Ben 10: Destroy All Aliens"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "../cover/ben-10-destroy-all-aliens-poster.jpg",
+		"cover": "../cover/ben-10-destroy-all-aliens-cover.jpg",
+		"rating": 60,
+		"type": "movie",
+		"animeurl": "ben-10-destroy-all-aliens"
+	},{
+		"id": 10,
+		"malId": 10,
+		"title": {
+			"romaji": "Ben 10 Versus the Universe: The Movie",
+			"english": "Ben 10 Versus the Universe: The Movie",
+			"native": "Ben 10 Versus the Universe: The Movie",
+			"userPreferred": "Ben 10 Versus the Universe: The Movie"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "../cover/ben-10-verusu-the-universe-poster.jpg",
+		"cover": "../cover/ben-10-verusu-the-universe-cover.jpg",
+		"rating": 77,
+		"type": "movie",
+		"animeurl": "ben-10-verusu-the-universe"
+	}],
 	"characters": [],
 	"relations": [],
 	"mappings": {},
