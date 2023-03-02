@@ -1,5 +1,16 @@
 [
     {
+        "animeId": "shingeki-no-kyojin-the-final-season",
+        "episodeId": "shingeki-no-kyojin-the-final-season-episode-1",
+        "name": "Attack on Titan Final Season",
+        "jname": "Shingeki no Kyojin: The Final Season",
+        "episodeNum": "16",
+        "subOrDub": "dub",
+        "type": "tv",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-qDRIhu50PXzz.jpg",
+        "episodeUrl": "anime/shingeki-no-kyojin-the-final-season"
+    },
+    {
         "animeId": "ben-10-alien-swarm",
         "episodeId": "ben-10-alien-swarm-episode-1",
         "name": "Ben 10 Alien Swarm",
