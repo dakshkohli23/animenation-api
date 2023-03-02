@@ -1,0 +1,46 @@
+{
+	"id": "16000",
+	"title": {
+		"romaji": "Ben 10: Race Against Time",
+		"english": "Ben 10: Race Against Time",
+		"native": "Ben 10: Race Against Time"
+	},
+	"malId": 16000,
+	"synonyms": ["Ben 10: Race Against Time", "Race Against Time"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"trailer": {},
+	"image": "../cover/ben-10-race-against-time-poster.jpg",
+	"popularity": 1890,
+	"color": "#6b1a1a",
+	"cover": "../cover/ben-10-race-against-time-cover.jpg",
+	"description": "Ben Tennyson returns home from summer vacation only to discover that a rapidly aging alien criminal named, Eon, is planning to use an ancient alien artifact to destroy Bellwood.",
+	"status": "Completed",
+	"releaseDate": 2007,
+	"startDate": {
+		"year": 2007,
+		"month": 9,
+		"day": 21
+	},
+	"endDate": {
+		"year": 2007,
+		"month": 9,
+		"day": 21
+	},
+	"totalEpisodes": 1,
+	"rating": 28,
+	"duration": 67,
+	"genres": ["Action", "Adventure", "Comedy", "Drama", "Science", "Sci-Fi", "Fantasy", "Superhero"],
+	"season": "Fall",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "Movie",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"mappings": {},
+	"episodes": [{
+		"id": "ben-10-race-against-time-episode-1",		"title": "Ben 10: Race Against Time",		"description": "Ben, Gwen, and Max must stop an extraterrestrial who plans to open a gateway that leads to an alien invasion.",		"number": 1,		"image": "https://m.media-amazon.com/images/M/MV5BMTEwM2RmY2QtZjRmYy00ODBjLWFiOGYtNjg5MDQ0OWYzY2Q4XkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_FMjpg_UX720_.jpg",		"airDate": ""}
+	]
+}
