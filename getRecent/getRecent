@@ -1,5 +1,16 @@
 [
     {
+        "animeId": "ben-10-race-against-time",
+        "episodeId": "ben-10-race-against-time-episode-1",
+        "name": "Ben 10: Race Against Time",
+        "jname": "Ben 10: Race Against Time",
+        "episodeNum": "1",
+        "subOrDub": "dub",
+        "type": "movie",
+        "imgUrl": "../cover/ben-10-race-against-time-poster.jpg",
+        "episodeUrl": "anime/ben-10-race-against-time"
+    },
+    {
         "animeId": "ben-10-destroy-all-aliens",
         "episodeId": "ben-10-destroy-all-aliens-episode-1",
         "name": "Ben 10: Destroy All Aliens",
