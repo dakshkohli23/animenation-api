@@ -1,5 +1,16 @@
 [
     {
+        "animeId": "ben-10-destroy-all-aliens",
+        "episodeId": "ben-10-destroy-all-aliens-episode-1",
+        "name": "Ben 10: Destroy All Aliens",
+        "jname": "Ben 10: Destroy All Aliens",
+        "episodeNum": "1",
+        "subOrDub": "dub",
+        "type": "movie",
+        "imgUrl": "../cover/ben-10-destroy-all-aliens-poster.jpg",
+        "episodeUrl": "anime/ben-10-destroy-all-aliens"
+    },
+    {
         "animeId": "shingeki-no-kyojin-the-final-season",
         "episodeId": "shingeki-no-kyojin-the-final-season-episode-1",
         "name": "Attack on Titan Final Season",
