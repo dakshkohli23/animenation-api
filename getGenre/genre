@@ -11,6 +11,17 @@
             "genres": ["Action", "Drama", "Fantasy", "Mystery"]
         },
         {
+            "animeId": "shingeki-no-kyojin-the-final-season",
+            "episodeId": "shingeki-no-kyojin-the-final-season-episode-1",
+            "name": "Attack on Titan Final Season",
+            "episodeNum": "16",
+            "subOrDub": "dub",
+            "type": "tv",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-qDRIhu50PXzz.jpg",
+            "episodeUrl": "anime/shingeki-no-kyojin-the-final-season",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery"]
+        },
+        {
             "animeId": "shingeki-no-kyojin-2",
             "episodeId": "shingeki-no-kyojin-2-episode-1",
             "name": "Attack on Titan Season 2",
@@ -77,6 +88,17 @@
             "genres": ["Action", "Adventure", "Drama", "Sci-Fi", "Fantasy", "Superhero"]
         },
         {
+            "animeId": "ben-10-verusu-the-universe",
+            "episodeId": "ben-10-verusu-the-universe-episode-1",
+            "name": "Ben 10 Versus the Universe: The Movie",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "type": "movie",
+            "imgUrl": "../cover/ben-10-verusu-the-universe-poster.jpg",
+            "episodeUrl": "anime/ben-10-verusu-the-universe",
+            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"]
+        },
+        {
             "animeId": "ben-10-alien-force",
             "episodeId": "ben-10-alien-force-episode-1",
             "name": "Ben 10: Alien Force",
@@ -88,6 +110,17 @@
             "genres": ["Action", "Adventure", "Drama", "Sci-Fi", "Fantasy", "Superhero"]
         },
         {
+            "animeId": "ben-10-destroy-all-aliens",
+            "episodeId": "ben-10-destroy-all-aliens-episode-1",
+            "name": "Ben 10: Destroy All Aliens",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "type": "movie",
+            "imgUrl": "../cover/ben-10-destroy-all-aliens-poster.jpg",
+            "episodeUrl": "anime/ben-10-destroy-all-aliens",
+            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"]
+        },
+        {
             "animeId": "ben-10-omniverse",
             "episodeId": "ben-10-omniverse-episode-1",
             "name": "Ben 10: Omniverse",
@@ -97,6 +130,28 @@
             "imgUrl": "../cover/ben-10-omniverse-poster.jpg",
             "episodeUrl": "anime/ben-10-omniverse",
             "genres": ["Action", "Adventure", "Drama", "Sci-Fi", "Fantasy", "Superhero"]
+        },
+        {
+            "animeId": "ben-10-race-against-time",
+            "episodeId": "ben-10-race-against-time-episode-1",
+            "name": "Ben 10: Race Against Time",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "type": "movie",
+            "imgUrl": "../cover/ben-10-race-against-time-poster.jpg",
+            "episodeUrl": "anime/ben-10-race-against-time",
+            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"]
+        },
+        {
+            "animeId": "ben-10-alien-swarm",
+            "episodeId": "ben-10-alien-swarm-episode-1",
+            "name": "Ben 10 Alien Swarm",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "type": "movie",
+            "imgUrl": "../cover/ben-10-alien-swarm-poster.jpg",
+            "episodeUrl": "anime/ben-10-alien-swarm",
+            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"]
         },
         {
             "animeId": "secret-of-the-omnitrix",
