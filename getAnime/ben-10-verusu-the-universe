@@ -1,0 +1,46 @@
+{
+	"id": "724475",
+	"title": {
+		"romaji": "Ben 10 Versus the Universe: The Movie",
+		"english": "Ben 10 Versus the Universe: The Movie",
+		"native": "Ben 10 Versus the Universe: The Movie"
+	},
+	"malId": 724475,
+	"synonyms": ["Ben 10 Versus the Universe: The Movie", "Ben 10 Versus the Universe"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"trailer": {},
+	"image": "../cover/ben-10-verusu-the-universe-poster.jpg",
+	"popularity": 1827,
+	"color": "#6b1a1a",
+	"cover": "../cover/ben-10-verusu-the-universe-cover.jpg",
+	"description": "A blast from Ben's past returns to do double the damage on Team Tennyson and planet Earth itself, forcing Ben to go interstellar to save the day.",
+	"status": "Completed",
+	"releaseDate": 2020,
+	"startDate": {
+		"year": 2020,
+		"month": 10,
+		"day": 10
+	},
+	"endDate": {
+		"year": 2020,
+		"month": 10,
+		"day": 10
+	},
+	"totalEpisodes": 1,
+	"rating": 77,
+	"duration": 72,
+	"genres": ["Action", "Adventure", "Comedy", "Drama", "Science", "Sci-Fi", "Fantasy", "Superhero"],
+	"season": "Fall",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "Movie",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"mappings": {},
+	"episodes": [{
+		"id": "ben-10-verusu-the-universe-episode-1",		"title": "Ben 10 Versus the Universe: The Movie",		"description": "A blast from Ben's past returns to do double the damage on Team Tennyson and planet Earth itself, forcing Ben to go interstellar to save the day.",		"number": 1,		"image": "https://m.media-amazon.com/images/M/MV5BOGZkMmYyYWItYWNjNS00ZDY5LWJhMmQtNzJmZDI3MTkwOTYxXkEyXkFqcGdeQXVyMTE2OTc2MDQ4._V1_FMjpg_UX1280_.jpg",		"airDate": ""}
+	]
+}
