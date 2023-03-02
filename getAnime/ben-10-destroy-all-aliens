@@ -1,0 +1,46 @@
+{
+	"id": "96826",
+	"title": {
+		"romaji": "Ben 10: Destroy All Aliens",
+		"english": "Ben 10: Destroy All Aliens",
+		"native": "Ben 10: Destroy All Aliens"
+	},
+	"malId": 96826,
+	"synonyms": ["Ben 10: Destroy All Aliens", "Secret of the Omnitrix"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"trailer": {},
+	"image": "../cover/ben-10-destroy-all-aliens-poster.jpg",
+	"popularity": 1890,
+	"color": "#6b1a1a",
+	"cover": "../cover/ben-10-destroy-all-aliens-cover.jpg",
+	"description": "Based on the original animated series Ben 10. Ben becomes targeted by an evil Mechamorph Warrior, named "Retaliator," who mistakenly blames Ben for something he did not do and attempts to destroy all aliens. While dealing with the end of summer vacation and a critically damaged Omnitrix, Ben Tennyson finds himself targeted by a mysterious alien bounty hunter.",
+	"status": "Completed",
+	"releaseDate": 2012,
+	"startDate": {
+		"year": 2012,
+		"month": 3,
+		"day": 11
+	},
+	"endDate": {
+		"year": 2012,
+		"month": 3,
+		"day": 11
+	},
+	"totalEpisodes": 1,
+	"rating": 60,
+	"duration": 66,
+	"genres": ["Action", "Adventure", "Comedy", "Drama", "Science", "Sci-Fi", "Fantasy", "Superhero"],
+	"season": "Winter",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "Movie",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"mappings": {},
+	"episodes": [{
+		"id": "ben-10-destroy-all-aliens-episode-1",		"title": "Ben 10: Destroy All Aliens",		"description": "While dealing with the end of summer vacation and a critically damaged Omnitrix, Ben Tennyson finds himself targeted by a mysterious alien bounty hunter.",		"number": 1,		"image": "https://m.media-amazon.com/images/M/MV5BMTkzNTY1NzI0OF5BMl5BanBnXkFtZTgwNTEzMTM2NzE@._V1_FMjpg_UX787_.jpg",		"airDate": ""}
+	]
+}
