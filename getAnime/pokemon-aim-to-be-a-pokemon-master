@@ -1,0 +1,528 @@
+{
+	"id": "158870",
+	"title": {
+		"romaji": "Pocket Monsters: Mezase Pokémon Master",
+		"english": Pokémon: Aim to be a Pokémon Master,
+		"native": "ポケットモンスター　めざせポケモンマスター"
+	},
+	"malId": 53874,
+	"synonyms": ["Pokémon: Aim to be a Pokémon Master"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "NTura9hwAkI",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/NTura9hwAkI/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+	"popularity": 4871,
+	"color": "#e4a128",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+	"description": "<i>Mezase Pokémon Master</i> celebrates the final chapter in Satoshi and Pikachu's story, with their first companions and many Pokémon they have met throughout their journeys making their return.",
+	"status": "Ongoing",
+	"releaseDate": 2023,
+	"startDate": {
+		"year": 2023,
+		"month": 1,
+		"day": 13
+	},
+	"endDate": {
+		"year": null,
+		"month": null,
+		"day": null
+	},
+	"nextAiringEpisode": {
+		"airingTime": 1677837300,
+		"timeUntilAiring": 530,
+		"episode": 8
+	},
+	"totalEpisodes": 11,
+	"currentEpisode": 7,
+	"rating": 74,
+	"duration": null,
+	"genres": ["Adventure", "Fantasy"],
+	"season": "WINTER",
+	"studios": ["OLM"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 2473,
+		"role": "MAIN",
+		"name": {
+			"first": "Satoshi",
+			"last": null,
+			"full": "Satoshi",
+			"native": "サトシ",
+			"userPreferred": "Satoshi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+		"voiceActors": [{
+			"id": 95678,
+			"language": "Japanese",
+			"name": {
+				"first": "Rika",
+				"last": "Matsumoto",
+				"full": "Rika Matsumoto",
+				"native": "松本梨香",
+				"userPreferred": "Rika Matsumoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95678-U0iKFbhteND6.png"
+		}]
+	}, {
+		"id": 3891,
+		"role": "MAIN",
+		"name": {
+			"first": "Pikachu",
+			"last": null,
+			"full": "Pikachu",
+			"native": "ピカチュウ",
+			"userPreferred": "Pikachu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/3891.jpg",
+		"voiceActors": [{
+			"id": 95128,
+			"language": "Japanese",
+			"name": {
+				"first": "Ikue",
+				"last": "Ootani",
+				"full": "Ikue Ootani",
+				"native": "大谷育江",
+				"userPreferred": "Ikue Ootani"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png"
+		}]
+	}, {
+		"id": 3854,
+		"role": "MAIN",
+		"name": {
+			"first": "Takeshi",
+			"last": null,
+			"full": "Takeshi",
+			"native": "タケシ",
+			"userPreferred": "Takeshi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b3854-qMVUF2YmWYoW.png",
+		"voiceActors": [{
+			"id": 95058,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuji",
+				"last": "Ueda",
+				"full": "Yuuji Ueda",
+				"native": "うえだゆうじ",
+				"userPreferred": "Yuuji Ueda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95058-fGnId7E4tgx3.jpg"
+		}]
+	}, {
+		"id": 2909,
+		"role": "MAIN",
+		"name": {
+			"first": "Kasumi",
+			"last": null,
+			"full": "Kasumi",
+			"native": "カスミ",
+			"userPreferred": "Kasumi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b2909-wNDR5aaxwDdi.png",
+		"voiceActors": [{
+			"id": 95273,
+			"language": "Japanese",
+			"name": {
+				"first": "Mayumi",
+				"last": "Iizuka",
+				"full": "Mayumi Iizuka",
+				"native": "飯塚雅弓",
+				"userPreferred": "Mayumi Iizuka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95273-qtMQIJyybJ7O.png"
+		}]
+	}, {
+		"id": 4848,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shigeru",
+			"last": "Ookido",
+			"full": "Shigeru Ookido",
+			"native": "オーキドシゲル",
+			"userPreferred": "Shigeru Ookido"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b4848-vR9au1dEKjyy.png",
+		"voiceActors": []
+	}, {
+		"id": 29184,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hanako",
+			"last": null,
+			"full": "Hanako",
+			"native": "ハナコ ",
+			"userPreferred": "Hanako"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/29184.jpg",
+		"voiceActors": [{
+			"id": 105559,
+			"language": "Japanese",
+			"name": {
+				"first": "Masami",
+				"last": "Toyoshima",
+				"full": "Masami Toyoshima",
+				"native": "豊島まさみ",
+				"userPreferred": "Masami Toyoshima"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105559-YhLPYh0q5ehk.png"
+		}]
+	}, {
+		"id": 7558,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Joy",
+			"last": null,
+			"full": "Joy",
+			"native": "ジョーイ",
+			"userPreferred": "Joy"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b7558-LzxI6BSiinA3.png",
+		"voiceActors": [{
+			"id": 95594,
+			"language": "Japanese",
+			"name": {
+				"first": "Kei",
+				"last": "Shindou",
+				"full": "Kei Shindou",
+				"native": "真堂圭",
+				"userPreferred": "Kei Shindou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95594-uUAU6lh6TMQW.png"
+		}]
+	}, {
+		"id": 3936,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kojirou",
+			"last": null,
+			"full": "Kojirou",
+			"native": "コジロウ",
+			"userPreferred": "Kojirou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b3936-5sX4EZIY2BRU.png",
+		"voiceActors": [{
+			"id": 95022,
+			"language": "Japanese",
+			"name": {
+				"first": "Shinichirou",
+				"last": "Miki",
+				"full": "Shinichirou Miki",
+				"native": "三木眞一郎",
+				"userPreferred": "Shinichirou Miki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png"
+		}]
+	}, {
+		"id": 17783,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yukinari",
+			"last": "Ookido",
+			"full": "Yukinari Ookido",
+			"native": "オーキド・ユキナリ",
+			"userPreferred": "Yukinari Ookido"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b17783-OwYJSOFjd91A.png",
+		"voiceActors": [{
+			"id": 95262,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenyuu",
+				"last": "Horiuchi",
+				"full": "Kenyuu Horiuchi",
+				"native": "堀内賢雄",
+				"userPreferred": "Kenyuu Horiuchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/262.jpg"
+		}]
+	}, {
+		"id": 176871,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mijumaru",
+			"last": null,
+			"full": "Mijumaru",
+			"native": "ミジュマル",
+			"userPreferred": "Mijumaru"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b176871-kTOvY3UZh3cc.png",
+		"voiceActors": []
+	}, {
+		"id": 3935,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Musashi",
+			"last": null,
+			"full": "Musashi",
+			"native": "ムサシ",
+			"userPreferred": "Musashi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b3935-m000RuoIVOGI.png",
+		"voiceActors": [{
+			"id": 95014,
+			"language": "Japanese",
+			"name": {
+				"first": "Megumi",
+				"last": "Hayashibara",
+				"full": "Megumi Hayashibara",
+				"native": "林原めぐみ",
+				"userPreferred": "Megumi Hayashibara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-VqxNuufY94V3.png"
+		}]
+	}, {
+		"id": 26545,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Junsa",
+			"last": null,
+			"full": "Junsa",
+			"native": "ジュンサー",
+			"userPreferred": "Junsa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/26545.jpg",
+		"voiceActors": []
+	}, {
+		"id": 3937,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Nyarth",
+			"last": null,
+			"full": "Nyarth",
+			"native": "ニャース",
+			"userPreferred": "Nyarth"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b3937-qBtTAn2SZqhB.png",
+		"voiceActors": [{
+			"id": 96024,
+			"language": "Japanese",
+			"name": {
+				"first": "Inuko",
+				"last": "Inuyama",
+				"full": "Inuko Inuyama",
+				"native": "犬山イヌコ",
+				"userPreferred": "Inuko Inuyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96024-z7W9WbvflI6S.png"
+		}]
+	}, {
+		"id": 149751,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gureggru",
+			"last": null,
+			"full": "Gureggru",
+			"native": "グレッグル",
+			"userPreferred": "Gureggru"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b149751-CksceMVTsujR.png",
+		"voiceActors": []
+	}, {
+		"id": 136296,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Koduck",
+			"last": null,
+			"full": "Koduck",
+			"native": "コダック",
+			"userPreferred": "Koduck"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b136296-2N0Jp2pV8DeV.png",
+		"voiceActors": [{
+			"id": 96840,
+			"language": "Japanese",
+			"name": {
+				"first": "Rikako",
+				"last": "Aikawa",
+				"full": "Rikako Aikawa",
+				"native": "愛河里花子",
+				"userPreferred": "Rikako Aikawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96840-EjJTxFN32iek.jpg"
+		}]
+	}, {
+		"id": 144635,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sonans",
+			"last": null,
+			"full": "Sonans",
+			"native": "ソーナンス",
+			"userPreferred": "Sonans"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b144635-gUHUUYtPcxuV.png",
+		"voiceActors": []
+	}, {
+		"id": 35525,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Dent",
+			"last": null,
+			"full": "Dent",
+			"native": "デント",
+			"userPreferred": "Dent"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/35525.jpg",
+		"voiceActors": [{
+			"id": 95065,
+			"language": "Japanese",
+			"name": {
+				"first": "Mamoru",
+				"last": "Miyano",
+				"full": "Mamoru Miyano",
+				"native": "宮野真守",
+				"userPreferred": "Mamoru Miyano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+		}]
+	}, {
+		"id": 49915,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Nobori",
+			"last": null,
+			"full": "Nobori",
+			"native": "ノボリ",
+			"userPreferred": "Nobori"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b49915-iXkA27E13h0Z.png",
+		"voiceActors": [{
+			"id": 106133,
+			"language": "Japanese",
+			"name": {
+				"first": "Kensuke",
+				"last": "Satou",
+				"full": "Kensuke Satou",
+				"native": "佐藤健輔",
+				"userPreferred": "Kensuke Satou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106133-4tm6PaftW91h.png"
+		}]
+	}, {
+		"id": 49917,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Kudari",
+			"last": null,
+			"full": "Kudari",
+			"native": "クダリ",
+			"userPreferred": "Kudari"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b49917-z7R70Cmoz7Os.png",
+		"voiceActors": [{
+			"id": 95482,
+			"language": "Japanese",
+			"name": {
+				"first": "Kiyotaka",
+				"last": "Furushima",
+				"full": "Kiyotaka Furushima",
+				"native": "古島清孝",
+				"userPreferred": "Kiyotaka Furushima"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95482-TvNE5H6I7pEb.png"
+		}]
+	}],
+	"relations": [{
+		"id": 112153,
+		"relationType": "PREQUEL",
+		"malId": 40351,
+		"title": {
+			"romaji": "Pocket Monsters (2019)",
+			"english": "Pokémon Journeys: The Series",
+			"native": "ポケットモンスター (2019)",
+			"userPreferred": "Pocket Monsters (2019)"
+		},
+		"status": "Completed",
+		"episodes": 136,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112153-LK1lpFz3vlvl.png",
+		"color": "#35bbf1",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112153-01RDuvgGTXjp.jpg",
+		"rating": 73
+	}, {
+		"id": 162147,
+		"relationType": "OTHER",
+		"malId": 54633,
+		"title": {
+			"romaji": "Pokémon Concierge",
+			"english": "Pokémon Concierge",
+			"native": "ポケモンコンシェルジュ",
+			"userPreferred": "Pokémon Concierge"
+		},
+		"status": "Not yet aired",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-lWEGDf3YCdfe.jpg",
+		"color": "#f1c900",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-lWEGDf3YCdfe.jpg",
+		"rating": null
+	}],
+	"mappings": {
+		"mal": 53874,
+		"anidb": 17780,
+		"kitsu": 46857,
+		"anilist": 158870,
+		"anisearch": 17946,
+		"livechart": 11733,
+		"notify.moe": "G_sKn15Vg",
+		"anime-planet": "pokemon-aim-to-be-a-pokemon-master"
+	},
+	"episodes": [{
+		"id": "pokemon-aim-to-be-a-pokemon-master-episode-1",
+		"title": null,
+		"description": null,
+		"number": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"airDate": "2023-01-13T10:30:50.334Z"
+	}, {
+		"id": "pokemon-aim-to-be-a-pokemon-master-episode-2",
+		"title": null,
+		"description": null,
+		"number": 2,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"airDate": "2023-01-20T09:55:00.000Z"
+	}, {
+		"id": "pokemon-aim-to-be-a-pokemon-master-episode-3",
+		"title": null,
+		"description": null,
+		"number": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"airDate": "2023-01-27T09:55:00.000Z"
+	}, {
+		"id": "pokemon-aim-to-be-a-pokemon-master-episode-4",
+		"title": null,
+		"description": null,
+		"number": 4,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"airDate": "2023-02-03T09:55:00.000Z"
+	}, {
+		"id": "pokemon-aim-to-be-a-pokemon-master-episode-5",
+		"title": null,
+		"description": null,
+		"number": 5,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"airDate": "2023-02-10T09:55:00.000Z"
+	}, {
+		"id": "pokemon-aim-to-be-a-pokemon-master-episode-6",
+		"title": null,
+		"description": null,
+		"number": 6,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"airDate": "2023-02-17T09:55:00.000Z"
+	}, {
+		"id": "pokemon-aim-to-be-a-pokemon-master-episode-7",
+		"title": null,
+		"description": null,
+		"number": 7,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"airDate": "2023-02-24T09:55:00.000Z"
+	}]
+}
