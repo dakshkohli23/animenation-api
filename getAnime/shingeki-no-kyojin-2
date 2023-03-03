@@ -42,259 +42,109 @@
 	"subOrDub": "dub",
 	"type": "TV",
 	"recommendations": [{
-		"id": 20605,
-		"malId": 22319,
+		"id": 16498,
+		"malId": 16498,
 		"title": {
-			"romaji": "Tokyo Ghoul",
-			"english": "Tokyo Ghoul",
-			"native": "東京喰種 トーキョーグール",
-			"userPreferred": "Tokyo Ghoul"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20605-fmnHdfurM7m6.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20605-RCJ7M71zLmrh.jpg",
-		"rating": 75,
-		"type": "TV"
-	}, {
-		"id": 20811,
-		"malId": 25781,
-		"title": {
-			"romaji": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
-			"english": "Attack on Titan: No Regrets",
-			"native": "進撃の巨人 外伝 悔いなき選択",
-			"userPreferred": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku"
-		},
-		"status": "Completed",
-		"episodes": 2,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20811-IvXLdxZkYNcP.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20811-xIuYL1yGMT5S.jpg",
-		"rating": 82,
-		"type": "OVA"
-	}, {
-		"id": 21341,
-		"malId": 31580,
-		"title": {
-			"romaji": "Ajin",
-			"english": "AJIN: Demi-Human",
-			"native": "亜人",
-			"userPreferred": "Ajin"
-		},
-		"status": "Completed",
-		"episodes": 13,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21341-Pyc7SkMEuGsl.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21341-v415m6GrpeZY.jpg",
-		"rating": 71,
-		"type": "TV"
-	}, {
-		"id": 101348,
-		"malId": 37521,
-		"title": {
-			"romaji": "VINLAND SAGA",
-			"english": "Vinland Saga",
-			"native": "ヴィンランド・サガ",
-			"userPreferred": "VINLAND SAGA"
-		},
-		"status": "Completed",
-		"episodes": 24,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-msJS8z91mG0P.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101348-pivKKffCAwAY.jpg",
-		"rating": 87,
-		"type": "TV"
-	}, {
-		"id": 113108,
-		"malId": 40682,
-		"title": {
-			"romaji": "Kingdom 3rd Season",
-			"english": "Kingdom Season 3",
-			"native": "キングダム 第3シリーズ",
-			"userPreferred": "Kingdom 3rd Season"
-		},
-		"status": "Completed",
-		"episodes": 26,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113108-ArjAmFLubVyu.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113108-ArjAmFLubVyu.jpg",
-		"rating": 85,
-		"type": "TV"
-	}, {
-		"id": 101759,
-		"malId": 37779,
-		"title": {
-			"romaji": "Yakusoku no Neverland",
-			"english": "The Promised Neverland",
-			"native": "約束のネバーランド",
-			"userPreferred": "Yakusoku no Neverland"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-NhSwxv7HY9y9.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101759-MhlCoeqnODso.jpg",
-		"rating": 84,
-		"type": "TV"
-	}, {
-		"id": 97984,
-		"malId": 34547,
-		"title": {
-			"romaji": "Shoukoku no Altair",
-			"english": "Altair: A Record of Battles",
-			"native": "将国のアルタイル",
-			"userPreferred": "Shoukoku no Altair"
-		},
-		"status": "Completed",
-		"episodes": 24,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97984-6xwATnrownC5.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97984-ugdKygbuCANB.png",
-		"rating": 68,
-		"type": "TV"
-	}, {
-		"id": 20613,
-		"malId": 22199,
-		"title": {
-			"romaji": "Akame ga Kill!",
-			"english": "Akame ga Kill!",
-			"native": "アカメが斬る！",
-			"userPreferred": "Akame ga Kill!"
-		},
-		"status": "Completed",
-		"episodes": 24,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-4VGGPacciJBL.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20613-CoEQF4qKiWDX.jpg",
-		"rating": 72,
-		"type": "TV"
-	}, {
-		"id": 18397,
-		"malId": 18397,
-		"title": {
-			"romaji": "Shingeki no Kyojin OVA",
-			"english": "Attack on Titan OVA",
-			"native": "進撃の巨人 OVA",
-			"userPreferred": "Shingeki no Kyojin OVA"
-		},
-		"status": "Completed",
-		"episodes": 3,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18397-AnpwhLkSjYL1.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/18397-rG4Vpg67Kr0j.jpg",
-		"rating": 76,
-		"type": "OVA"
-	}, {
-		"id": 108725,
-		"malId": 39617,
-		"title": {
-			"romaji": "Yakusoku no Neverland 2",
-			"english": "The Promised Neverland Season 2",
-			"native": "約束のネバーランド2",
-			"userPreferred": "Yakusoku no Neverland 2"
-		},
-		"status": "Completed",
-		"episodes": 11,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108725-KM8SqUyaUd1o.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108725-lg940Urvxzfu.jpg",
-		"rating": 53,
-		"type": "TV"
-	}, {
-		"id": 1575,
-		"malId": 1575,
-		"title": {
-			"romaji": "Code Geass: Hangyaku no Lelouch",
-			"english": "Code Geass: Lelouch of the Rebellion",
-			"native": "コードギアス 反逆のルルーシュ",
-			"userPreferred": "Code Geass: Hangyaku no Lelouch"
+			"romaji": "Shingeki no Kyojin",
+			"english": "Attack on Titan",
+			"native": "進撃の巨人",
+			"userPreferred": "Attack on Titan"
 		},
 		"status": "Completed",
 		"episodes": 25,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1575-ZJYlg8yjvMKI.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1575.jpg",
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16498-8jpFCOcDmneX.jpg",
 		"rating": 84,
 		"type": "TV"
-	}, {
-		"id": 19,
-		"malId": 19,
+	},{
+		"id": 20958,
+		"malId": 25777,
 		"title": {
-			"romaji": "MONSTER",
-			"english": "Monster",
-			"native": "MONSTER",
-			"userPreferred": "MONSTER"
+			"romaji": "Shingeki no Kyojin 2",
+			"english": "Attack on Titan Season 2",
+			"native": "進撃の巨人２",
+			"userPreferred": "Attack on Titan 2"
 		},
 		"status": "Completed",
-		"episodes": 74,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19-ham53gnijfiN.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19-kJhwsB0Z97tL.jpg",
-		"rating": 88,
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20958-Y7eQdz9VENBD.jpg",
+		"rating": 84,
 		"type": "TV"
-	}, {
-		"id": 11061,
-		"malId": 11061,
+	},{
+		"id": 99147,
+		"malId": 35760,
 		"title": {
-			"romaji": "HUNTER×HUNTER (2011)",
-			"english": "Hunter x Hunter (2011)",
-			"native": "HUNTER×HUNTER (2011)",
-			"userPreferred": "HUNTER×HUNTER (2011)"
+			"romaji": "Shingeki no Kyojin 3",
+			"english": "Attack on Titan Season 3",
+			"native": "進撃の巨人３",
+			"userPreferred": "Attack on Titan 3"
 		},
 		"status": "Completed",
-		"episodes": 148,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11061-8WkkTZ6duKpq.jpg",
-		"rating": 89,
-		"type": "TV"
-	}, {
-		"id": 99634,
-		"malId": 36106,
-		"title": {
-			"romaji": "Shingeki no Kyojin: LOST GIRLS",
-			"english": "Attack on Titan: Lost Girls",
-			"native": "進撃の巨人 LOST GIRLS",
-			"userPreferred": "Shingeki no Kyojin: LOST GIRLS"
-		},
-		"status": "Completed",
-		"episodes": 3,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99634-9u4hdvWwmC2s.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99634-m8hKbCnDL2ue.png",
-		"rating": 77,
-		"type": "OVA"
-	}, {
-		"id": 20692,
-		"malId": 23777,
-		"title": {
-			"romaji": "Shingeki no Kyojin Kouhen: Jiyuu no Tsubasa",
-			"english": "Attack on Titan Part II: Wings of Freedom",
-			"native": "劇場版「進撃の巨人」後編～自由の翼～",
-			"userPreferred": "Shingeki no Kyojin Kouhen: Jiyuu no Tsubasa"
-		},
-		"status": "Completed",
-		"episodes": 1,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20692-fSDEpfDtDg9u.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20692.jpg",
-		"rating": 75,
-		"type": "MOVIE"
-	}, {
-		"id": 131573,
-		"malId": 48561,
-		"title": {
-			"romaji": "Jujutsu Kaisen 0",
-			"english": "JUJUTSU KAISEN 0",
-			"native": "呪術廻戦 0",
-			"userPreferred": "Jujutsu Kaisen 0"
-		},
-		"status": "Completed",
-		"episodes": 1,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131573-rpl82vDEDRm6.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131573-3veuVz5p0z2I.jpg",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-5RXELRvwjFl6.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99147-HACsFVrynFf5.jpg",
 		"rating": 85,
-		"type": "MOVIE"
-	}, {
-		"id": 5114,
-		"malId": 5114,
+		"type": "TV"
+	},{
+		"id": 104578,
+		"malId": 38524,
 		"title": {
-			"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
-			"english": "Fullmetal Alchemist: Brotherhood",
-			"native": "鋼の錬金術師 FULLMETAL ALCHEMIST",
-			"userPreferred": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
+			"romaji": "Shingeki no Kyojin 3 Part 2",
+			"english": "Attack on Titan Season 3 Part 2",
+			"native": "進撃の巨人３ Part.2",
+			"userPreferred": "Attack on Titan Season 3 Part 2"
 		},
 		"status": "Completed",
-		"episodes": 64,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5114-q0V5URebphSG.jpg",
+		"episodes": 10,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-LaZYFkmhinfB.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104578-z7SadpYEuAsy.jpg",
 		"rating": 90,
+		"type": "TV"
+	},{
+		"id": 110277,
+		"malId": 40028,
+		"title": {
+			"romaji": "Shingeki no Kyojin: The Final Season",
+			"english": "Attack on Titan Final Season",
+			"native": "進撃の巨人 The Final Season",
+			"userPreferred": "Attack on Titan Final Season"
+		},
+		"status": "Completed",
+		"episodes": 16,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-qDRIhu50PXzz.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110277-iuGn6F5bK1U1.jpg",
+		"rating": 87,
+		"type": "TV"
+	},{
+		"id": 131681,
+		"malId": 48583,
+		"title": {
+			"romaji": "Shingeki no Kyojin: The Final Season Part 2",
+			"english": "Attack on Titan Final Season Part 2",
+			"native": "進撃の巨人 The Final Season Part 2",
+			"userPreferred": "Attack on Titan Final Season"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-ODIRpBIbR5Eu.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131681-vqkjDYQQpAQ9.jpg",
+		"rating": 86,
+		"type": "TV"
+	},{
+		"id": 146984,
+		"malId": 51535,
+		"title": {
+			"romaji": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Part 1",
+			"english": "Attack on Titan Final Season Part 3",
+			"native": "進撃の巨人 The Final Season完結編 前編",
+			"userPreferred": "Attack on Titan Final Season"
+		},
+		"status": "Completed",
+		"episodes": 0,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146984-yAkTtW2AExVj.jpg",
+		"rating": null,
 		"type": "TV"
 	}],
 	"characters": [{
