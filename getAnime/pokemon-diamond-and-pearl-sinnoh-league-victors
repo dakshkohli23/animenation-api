@@ -43,7 +43,227 @@
   ],
   "subOrDub": "dub",
   "type": "TV",
-  "recommendations": [
+  "recommendations": [ {
+      "id": 1564,
+      "malId": 1564,
+      "title": {
+        "romaji": "Pokémon: Indigo League",
+        "english": "Pokémon: Indigo League",
+        "native": "ポケットモンスター　アドバンスジェネレーション",
+        "userPreferred": "Pokémon: Indigo League"
+      },
+      "status": "Completed",
+      "episodes": 82,
+      "image": "../cover/pokemon-indigo-league.jpg",
+      "cover": "../cover/pokemon-indigo-league.jpg",
+      "rating": 68,
+      "type": "TV",
+	  "animeurl": "pokemon-indigo-league"
+    },
+	{
+      "id": 527,
+      "malId": 527,
+      "title": {
+        "romaji": "Pokémon: Adventures in the Orange Islands",
+        "english": "Pokémon: Adventures in the Orange Islands",
+        "native": "ポケットモンスター",
+        "userPreferred": "Pokémon: Adventures in the Orange Islands"
+      },
+      "status": "Completed",
+      "episodes": 36,
+      "image": "../cover/pokemon-adventures-in-the-orange-islands.jpg",
+      "cover": "../cover/pokemon-adventures-in-the-orange-islands.jpg",
+      "rating": 71,
+      "type": "TV",
+	  "animeurl": "pokemon-adventures-in-the-orange-islands"
+    },
+	{
+      "id": 527,
+      "malId": 527,
+      "title": {
+        "romaji": "Pokémon: The Johto Journeys",
+        "english": "Pokémon: The Johto Journeys",
+        "native": "ポケットモンスター",
+        "userPreferred": "Pokémon: The Johto Journeys"
+      },
+      "status": "Completed",
+      "episodes": 41,
+      "image": "../cover/pokemon-the-johto-journeys.jpg",
+      "cover": "../cover/pokemon-the-johto-journeys.jpg",
+      "rating": 71,
+      "type": "TV",
+	  "animeurl": "pokemon-the-johto-journeys"
+    },
+	{
+      "id": 527,
+      "malId": 527,
+      "title": {
+        "romaji": "Pokémon: Johto League Champions",
+        "english": "Pokémon: Johto League Champions",
+        "native": "ポケットモンスター",
+        "userPreferred": "Pokémon: Johto League Champions"
+      },
+      "status": "Completed",
+      "episodes": 52,
+      "image": "../cover/pokemon-johto-league-champions.jpg",
+      "cover": "../cover/pokemon-johto-league-champions.jpg",
+      "rating": 71,
+      "type": "TV",
+	  "animeurl": "pokemon-johto-league-champions"
+    },
+    {
+      "id": 527,
+      "malId": 527,
+      "title": {
+        "romaji": "Pokémon: Master Quest",
+        "english": "Pokémon: Master Quest",
+        "native": "ポケットモンスター",
+        "userPreferred": "Pokémon: Master Quest"
+      },
+      "status": "Completed",
+      "episodes": 65,
+      "image": "../cover/pokemon-master-quest.jpg",
+      "cover": "../cover/pokemon-master-quest.jpg",
+      "rating": 71,
+      "type": "TV",
+	  "animeurl": "pokemon-master-quest"
+    },
+    {
+      "id": 1564,
+      "malId": 1564,
+      "title": {
+        "romaji": "Pokémon: Advanced",
+        "english": "Pokémon: Advanced",
+        "native": "ポケットモンスター　アドバンスジェネレーション",
+        "userPreferred": "Pokémon: Advanced"
+      },
+      "status": "Completed",
+      "episodes": 40,
+      "image": "../cover/pokemon-advanced.jpg",
+      "cover": "../cover/pokemon-advanced.jpg",
+      "rating": 68,
+      "type": "TV",
+	  "animeurl": "pokemon-advanced"
+    },
+	{
+      "id": 1564,
+      "malId": 1564,
+      "title": {
+        "romaji": "Pokémon: Advanced Challenge",
+        "english": "Pokémon: Advanced Challenge",
+        "native": "ポケットモンスター　アドバンスジェネレーション",
+        "userPreferred": "Pokémon: Advanced Challenge"
+      },
+      "status": "Completed",
+      "episodes": 52,
+      "image": "../cover/pokemon-advanced-challenge.jpg",
+      "cover": "../cover/pokemon-advanced-challenge.jpg",
+      "rating": 68,
+      "type": "TV",
+	  "animeurl": "pokemon-advanced-challenge"
+    },
+    {
+      "id": 1564,
+      "malId": 1564,
+      "title": {
+        "romaji": "Pokémon: Advanced Battle",
+        "english": "Pokémon: Advanced Battle",
+        "native": "ポケットモンスター　アドバンスジェネレーション",
+        "userPreferred": "Pokémon: Advanced Battle"
+      },
+      "status": "Completed",
+      "episodes": 52,
+      "image": "../cover/pokemon-advanced-battle.jpg",
+      "cover": "../cover/pokemon-advanced-battle.jpg",
+      "rating": 68,
+      "type": "TV",
+	  "animeurl": "pokemon-advanced-battle"
+    },
+    {
+      "id": 1564,
+      "malId": 1564,
+      "title": {
+        "romaji": "Pokémon: Battle Frontier",
+        "english": "Pokémon: Battle Frontier",
+        "native": "ポケットモンスター　アドバンスジェネレーション",
+        "userPreferred": "Pokémon: Battle Frontier"
+      },
+      "status": "Completed",
+      "episodes": 47,
+      "image": "../cover/pokemon-battle-frontier.jpg",
+      "cover": "../cover/pokemon-battle-frontier.jpg",
+      "rating": 68,
+      "type": "TV",
+	  "animeurl": "pokemon-battle-frontier"
+    },
+	{
+      "id": 1565,
+      "malId": 1565,
+      "title": {
+        "romaji": "Pokémon: Diamond and Pearl",
+        "english": "Pokémon: Diamond and Pearl",
+        "native": "ポケットモンスター ダイヤモンド&パール",
+        "userPreferred": "Pokémon: Diamond and Pearl"
+      },
+      "status": "Completed",
+      "episodes": 51,
+      "image": "../cover/pokemon-diamond-and-pearl.jpg",
+      "cover": "../cover/pokemon-diamond-and-pearl.jpg",
+      "rating": 70,
+      "type": "TV",
+	  "animeurl": "pokemon-diamond-and-pearl"
+    },
+    {
+      "id": 1565,
+      "malId": 1565,
+      "title": {
+        "romaji": "Pokémon: DP Battle Dimension",
+        "english": "Pokémon: DP Battle Dimension",
+        "native": "ポケットモンスター ダイヤモンド&パール",
+        "userPreferred": "Pokémon: DP Battle Dimension"
+      },
+      "status": "Completed",
+      "episodes": 52,
+      "image": "../cover/pokemon-diamond-and-pearl-battle-dimension.jpg",
+      "cover": "../cover/pokemon-diamond-and-pearl-battle-dimension.jpg",
+      "rating": 70,
+      "type": "TV",
+	  "animeurl": "pokemon-diamond-and-pearl-battle-dimension"
+    },
+	{
+      "id": 1565,
+      "malId": 1565,
+      "title": {
+        "romaji": "Pokémon: DP Galactic Battles",
+        "english": "Pokémon: DP Galactic Battles",
+        "native": "ポケットモンスター ダイヤモンド&パール",
+        "userPreferred": "Pokémon: DP Galactic Battles"
+      },
+      "status": "Completed",
+      "episodes": 52,
+      "image": "../cover/pokemon-diamond-and-pearl-galactic-battles.jpg",
+      "cover": "../cover/pokemon-diamond-and-pearl-galactic-battles.jpg",
+      "rating": 70,
+      "type": "TV",
+	  "animeurl": "pokemon-diamond-and-pearl-galactic-battles"
+    },
+    {
+      "id": 1565,
+      "malId": 1565,
+      "title": {
+        "romaji": "Pokémon: DP Sinnoh League Victors",
+        "english": "Pokémon: DP Sinnoh League Victors",
+        "native": "ポケットモンスター ダイヤモンド&パール",
+        "userPreferred": "Pokémon: DP Sinnoh League Victors"
+      },
+      "status": "Completed",
+      "episodes": 34,
+      "image": "../cover/pokemon-diamond-and-pearl-sinnoh-league-victors.jpg",
+      "cover": "../cover/pokemon-diamond-and-pearl-sinnoh-league-victors.jpg",
+      "rating": 70,
+      "type": "TV",
+	  "animeurl": "pokemon-diamond-and-pearl-sinnoh-league-victors"
+    },
     {
       "id": 9107,
       "malId": 9107,
@@ -56,7 +276,7 @@
       "status": "Completed",
       "episodes": 34,
       "image": "../cover/pokemon-black-white.jpg",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
+      "cover": "../cover/pokemon-black-white.jpg",
       "rating": 70,
       "type": "TV",
 	  "animeurl": "pokemon-black-white"
@@ -73,7 +293,7 @@
       "status": "Completed",
       "episodes": 49,
       "image": "../cover/pokemon-black-white-rival-destinies.jpg",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
+      "cover": "../cover/pokemon-black-white-rival-destinies.jpg",
       "rating": 70,
       "type": "TV",
 	  "animeurl": "pokemon-black-white-rival-destinies"
@@ -90,16 +310,16 @@
       "status": "Completed",
       "episodes": 45,
       "image": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.jpg",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
+      "cover": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.jpg",
       "rating": 70,
       "type": "TV",
 	  "animeurl": "pokemon-black-white-adventures-in-unova-and-beyond"
     },
-    {
+	{
       "id": 19291,
       "malId": 19291,
       "title": {
-        "romaji": "Pokémon The Series: XY Kalos Quest",
+        "romaji": "Pokémon The Series: XY",
         "english": "Pokémon The Series: XY",
         "native": "ポケットモンスターXY",
         "userPreferred": "Pokemon XY"
@@ -107,7 +327,7 @@
       "status": "Completed",
       "episodes": 48,
       "image": "../cover/pokemon-the-series-xy.jpg",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
+      "cover": "../cover/pokemon-the-series-xy.jpg",
       "rating": 70,
       "type": "TV",
 	  "animeurl": "pokemon-the-series-xy"
@@ -124,12 +344,12 @@
       "status": "Completed",
       "episodes": 45,
       "image": "../cover/pokemon-the-series-xy-kalos-quest.jpg",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
+      "cover": "../cover/pokemon-the-series-xy-kalos-quest.jpg",
       "rating": 70,
       "type": "TV",
 	  "animeurl": "pokemon-the-series-xy-kalos-quest"
     },
-    {
+	{
       "id": 21356,
       "malId": 21356,
       "title": {
@@ -141,7 +361,7 @@
       "status": "Completed",
       "episodes": 48,
       "image": "../cover/pokemon-the-series-xyz.jpg",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21356-Flp4q9AKu0wX.jpg",
+      "cover": "../cover/pokemon-the-series-xyz.jpg",
       "rating": 75,
       "type": "TV",
 	  "animeurl": "pokemon-the-series-xyz"
@@ -158,7 +378,7 @@
       "status": "Completed",
       "episodes": 43,
       "image": "../cover/pokemon-the-series-sun-moon.jpg",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97634-rW6evjANAvL9.jpg",
+      "cover": "../cover/pokemon-the-series-sun-moon.jpg",
       "rating": 66,
       "type": "TV",
 	  "animeurl": "pokemon-the-series-sun-moon"
@@ -175,7 +395,7 @@
       "status": "Completed",
       "episodes": 48,
       "image": "../cover/pokemon-the-series-sun-moon-ultra-adventures.jpg",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97634-rW6evjANAvL9.jpg",
+      "cover": "../cover/pokemon-the-series-sun-moon-ultra-adventures.jpg",
       "rating": 66,
       "type": "TV",
 	  "animeurl": "pokemon-the-series-sun-moon-ultra-adventures"
@@ -192,7 +412,7 @@
       "status": "Completed",
       "episodes": 54,
       "image": "../cover/pokemon-the-series-sun-moon-ultra-legends.jpg",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97634-rW6evjANAvL9.jpg",
+      "cover": "../cover/pokemon-the-series-sun-moon-ultra-legends.jpg",
       "rating": 66,
       "type": "TV",
 	  "animeurl": "pokemon-the-series-sun-moon-ultra-adventures"
@@ -209,12 +429,62 @@
       "status": "Completed",
       "episodes": 48,
       "image": "../cover/pokemon-journeys-the-series.jpg",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112153-01RDuvgGTXjp.jpg",
+      "cover": "../cover/pokemon-journeys-the-series.jpg",
       "rating": 72,
       "type": "TV",
 	  "animeurl": "pokemon-journeys-the-series"
-    }
-  ],
+    },
+    {
+      "id": 112153,
+      "malId": 112153,
+      "title": {
+        "romaji": "Pokémon Master Journeys: The Series",
+        "english": "Pokémon Master Journeys: The Series",
+        "native": "ポケットモンスター (2019)",
+        "userPreferred": "Pokemon Master Journeys: The Series, Pokemon 2019"
+      },
+      "status": "Completed",
+      "episodes": 42,
+      "image": "../cover/pokemon-master-journeys-the-series.jpg",
+      "cover": "../cover/pokemon-master-journeys-the-series.jpg",
+      "rating": 72,
+      "type": "TV",
+	  "animeurl": "pokemon-master-journeys-the-series"
+    },
+    {
+      "id": 112153,
+      "malId": 112153,
+      "title": {
+        "romaji": "Pokémon Ultimate Journeys: The Series",
+        "english": "Pokémon Ultimate Journeys: The Series",
+        "native": "ポケットモンスター (2019)",
+        "userPreferred": "Pokemon Ultimate Journeys: The Series, Pokemon 2019"
+      },
+      "status": "Completed",
+      "episodes": 45,
+      "image": "../cover/pokemon-ultimate-journeys-the-series.jpg",
+      "cover": "../cover/pokemon-ultimate-journeys-the-series.jpg",
+      "rating": 72,
+      "type": "TV",
+	  "animeurl": "pokemon-ultimate-journeys-the-series"
+    },
+	{
+      "id": 113932,
+      "malId": 40861,
+      "title": {
+        "romaji": "Hakumei no Tsubasa",
+        "english": "Pokémon: Twilight Wings",
+        "native": "薄明の翼",
+        "userPreferred": "Pokemon: Twilight Wings"
+      },
+      "status": "Completed",
+      "episodes": 8,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113932-2sY3uAQq9qSz.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113932-ZKPbmjZIhkwU.jpg",
+      "rating": 74,
+      "type": "ONA",
+	  "animeurl": "pokemon-twilight-wings"
+    }],
   "characters": [
     {
       "id": 126635,
