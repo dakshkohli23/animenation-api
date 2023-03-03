@@ -486,6 +486,23 @@
       "rating": 74,
       "type": "ONA",
 	  "animeurl": "pokemon-twilight-wings"
+    },
+	{
+      "id": 158870,
+      "malId": 53874,
+      "title": {
+        "romaji": "Pocket Monsters: Mezase Pokémon Master",
+		"english": Pokémon: Aim to be a Pokémon Master,
+		"native": "ポケットモンスター　めざせポケモンマスター",
+        "userPreferred": "Pokemon: Aim to be a Pokemon Master"
+      },
+      "status": "Ongoing",
+      "episodes": 8,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+      "rating": 74,
+      "type": "tv",
+	  "animeurl": "pokemon-aim-to-be-a-pokemon-master"
     }],
   "characters": [
     {
