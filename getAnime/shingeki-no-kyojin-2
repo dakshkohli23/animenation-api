@@ -55,7 +55,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16498-8jpFCOcDmneX.jpg",
 		"rating": 84,
-		"type": "TV"
+		"type": "TV",
+		"animeurl": "shingeki-no-kyojin"
 	},{
 		"id": 20958,
 		"malId": 25777,
@@ -70,7 +71,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20958-Y7eQdz9VENBD.jpg",
 		"rating": 84,
-		"type": "TV"
+		"type": "TV",
+		"animeurl": "shingeki-no-kyojin-2"
 	},{
 		"id": 99147,
 		"malId": 35760,
@@ -85,7 +87,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-5RXELRvwjFl6.jpg",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99147-HACsFVrynFf5.jpg",
 		"rating": 85,
-		"type": "TV"
+		"type": "TV",
+		"animeurl": "shingeki-no-kyojin-3"
 	},{
 		"id": 104578,
 		"malId": 38524,
@@ -100,7 +103,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-LaZYFkmhinfB.jpg",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104578-z7SadpYEuAsy.jpg",
 		"rating": 90,
-		"type": "TV"
+		"type": "TV",
+		"animeurl": "shingeki-no-kyojin-3-part-2"
 	},{
 		"id": 110277,
 		"malId": 40028,
@@ -115,7 +119,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-qDRIhu50PXzz.jpg",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110277-iuGn6F5bK1U1.jpg",
 		"rating": 87,
-		"type": "TV"
+		"type": "TV",
+		"animeurl": "shingeki-no-kyojin-the-final-season"
 	},{
 		"id": 131681,
 		"malId": 48583,
@@ -130,7 +135,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-ODIRpBIbR5Eu.jpg",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131681-vqkjDYQQpAQ9.jpg",
 		"rating": 86,
-		"type": "TV"
+		"type": "TV",
+		"animeurl": "shingeki-no-kyojin-the-final-season-part-2"
 	},{
 		"id": 146984,
 		"malId": 51535,
@@ -145,7 +151,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146984-yAkTtW2AExVj.jpg",
 		"rating": null,
-		"type": "TV"
+		"type": "TV",
+		"animeurl": "shingeki-no-kyojin-the-final-season--kanketsuhen-part-1"
 	}],
 	"characters": [{
 		"id": 40881,
