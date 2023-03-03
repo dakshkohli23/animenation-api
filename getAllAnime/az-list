@@ -20,6 +20,16 @@
             "episodeUrl": "anime/shingeki-no-kyojin-the-final-season"
         },
         {
+            "animeId": "shingeki-no-kyojin-the-final-season--kanketsuhen-part-1",
+            "episodeId": "shingeki-no-kyojin-the-final-season--kanketsuhen-part-1-episode-1",
+            "name": "Attack on Titan Final Season Part 3",
+            "episodeNum": "0",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
+            "type": "special",
+            "episodeUrl": "anime/shingeki-no-kyojin-the-final-season--kanketsuhen-part-1"
+        },
+        {
             "animeId": "shingeki-no-kyojin-2",
             "episodeId": "shingeki-no-kyojin-2-episode-1",
             "name": "Attack on Titan Season 2",
@@ -408,6 +418,16 @@
             "imgUrl": "../cover/pokemon-adventures-in-the-orange-islands.jpg",
             "type": "tv",
             "episodeUrl": "anime/pokemon-adventures-in-the-orange-islands"
+        },
+        {
+            "animeId": "pokemon-aim-to-be-a-pokemon-master",
+            "episodeId": "pokemon-aim-to-be-a-pokemon-master-episode-1",
+            "name": "Pokémon: Aim to be a Pokémon Master",
+            "episodeNum": "8",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/pokemon-aim-to-be-a-pokemon-master"
         },
         {
             "animeId": "pokemon-battle-frontier",
