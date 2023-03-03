@@ -54,7 +54,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101004-rJLBIWGypbYK.png",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101004-D0uuwlijGA0y.jpg",
 		"rating": 66,
-		"type": "TV"
+		"type": "TV",
+	  "animeurl": "how-not-to-summon-a-demon-lord"
 	},{
 		"id": 117448,
 		"malId": 41623,
@@ -69,7 +70,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117448-bsPgVDD85sjB.jpg",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117448-zkxeZbaObKUZ.jpg",
 		"rating": 66,
-		"type": "TV"
+		"type": "TV",
+	  "animeurl": "how-not-to-summon-a-demon-lord-season-2"
 	}],
 	"characters": [{
 		"id": 126795,
