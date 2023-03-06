@@ -21,6 +21,17 @@
         "episodeUrl": "anime/shingeki-no-kyojin-the-final-season--kanketsuhen-part-1"
     },
     {
+        "animeId": "shingeki-no-kyojin-the-final-season-part-2",
+        "episodeId": "shingeki-no-kyojin-the-final-season-part-2-episode-1",
+        "name": "Attack on Titan Final Season Part 2",
+        "jname": "Shingeki no Kyojin: The Final Season Part 2",
+        "episodeNum": "12",
+        "subOrDub": "dub",
+        "type": "tv",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-ODIRpBIbR5Eu.jpg",
+        "episodeUrl": "anime/shingeki-no-kyojin-the-final-season-part-2"
+    },
+    {
         "animeId": "pokemon-aim-to-be-a-pokemon-master",
         "episodeId": "pokemon-aim-to-be-a-pokemon-master-episode-8",
         "name": "Pokémon: Aim to be a Pokémon Master",
