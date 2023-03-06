@@ -1,5 +1,15 @@
 [
     {
+        "animeId": "pokemon-ultimate-journeys",
+        "episodeId": "pokemon-ultimate-journeys-episode-33",
+        "name": "Pokémon Ultimate Journeys: The Series",
+        "jname": "Pocket Monster (2019)",
+        "episodeNum": "33",
+        "subOrDub": "dub",
+        "imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
+        "episodeUrl": "../anime/pokemon-ultimate-journeys"
+    }
+    {
         "animeId": "shingeki-no-kyojin-the-final-season--kanketsuhen-part-1",
         "episodeId": "shingeki-no-kyojin-the-final-season--kanketsuhen-part-1-episode-1",
         "name": "Attack on Titan Final Season Part 3",
