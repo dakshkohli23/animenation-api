@@ -1,0 +1,1857 @@
+{
+	"id": "20992",
+	"title": {
+		"romaji": "Haikyuu!! 2nd Season",
+		"english": "HAIKYU!! 2nd Season",
+		"native": "ハイキュー!! セカンドシーズン"
+	},
+	"malId": 28891,
+	"synonyms": ["ไฮคิว!! คู่ตบฟ้าประทาน ภาค 2"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "R-hXseSbu4U",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/R-hXseSbu4U/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
+	"popularity": 275282,
+	"color": "#f1860d",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20992-QMdqxEjAIAit.jpg",
+	"description": "Following their participation at the Inter-High, the Karasuno High School volleyball team attempts to refocus their efforts, aiming to conquer the Spring tournament instead.\n<br><br>\nWhen they receive an invitation from long-standing rival Nekoma High, Karasuno agrees to take part in a large training camp alongside many notable volleyball teams in Tokyo and even some national level players. By playing with some of the toughest teams in Japan, they hope not only to sharpen their skills, but also come up with new attacks that would strengthen them. Moreover, Hinata and Kageyama attempt to devise a more powerful weapon, one that could possibly break the sturdiest of blocks.\n<br><br>\nFacing what may be their last chance at victory before the senior players graduate, the members of Karasuno's volleyball team must learn to settle their differences and train harder than ever if they hope to overcome formidable opponents old and new—including their archrival Aoba Jousai and its world-class setter Tooru Oikawa.\n<br><br>\n[Written by MAL Rewrite]",
+	"status": "Completed",
+	"releaseDate": 2015,
+	"startDate": {
+		"year": 2015,
+		"month": 10,
+		"day": 4
+	},
+	"endDate": {
+		"year": 2016,
+		"month": 3,
+		"day": 26
+	},
+	"totalEpisodes": 25,
+	"currentEpisode": 25,
+	"rating": 86,
+	"duration": 24,
+	"genres": ["Comedy", "Drama", "Sports"],
+	"season": "FALL",
+	"studios": ["Production I.G"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 64771,
+		"role": "MAIN",
+		"name": {
+			"first": "Tobio",
+			"last": "Kageyama",
+			"full": "Tobio Kageyama",
+			"native": "影山飛雄",
+			"userPreferred": "Tobio Kageyama"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png",
+		"voiceActors": [{
+			"id": 115156,
+			"language": "Japanese",
+			"name": {
+				"first": "Kaito",
+				"last": "Ishikawa",
+				"full": "Kaito Ishikawa",
+				"native": "石川界人",
+				"userPreferred": "Kaito Ishikawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png"
+		}, {
+			"id": 120597,
+			"language": "English",
+			"name": {
+				"first": "Scott",
+				"last": "Gibbs",
+				"full": "Scott Gibbs",
+				"native": null,
+				"userPreferred": "Scott Gibbs"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120597-bLE3PH6TAZ5L.jpg"
+		}, {
+			"id": 159631,
+			"language": "Italian",
+			"name": {
+				"first": "Andrea",
+				"last": "Oldani",
+				"full": "Andrea Oldani",
+				"native": null,
+				"userPreferred": "Andrea Oldani"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 190694,
+			"language": "Spanish",
+			"name": {
+				"first": "Brandon",
+				"last": "Santini",
+				"full": "Brandon Santini",
+				"native": "Brandon Ortiz Santini",
+				"userPreferred": "Brandon Santini"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190694-mgvHnVYGrB7W.jpg"
+		}, {
+			"id": 197596,
+			"language": "Portuguese",
+			"name": {
+				"first": "Bruno ",
+				"last": "Casemiro",
+				"full": "Bruno  Casemiro",
+				"native": null,
+				"userPreferred": "Bruno  Casemiro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197596-SEtg1UBGon8k.jpg"
+		}, {
+			"id": 116417,
+			"language": "German",
+			"name": {
+				"first": "Roman",
+				"last": "Wolko",
+				"full": "Roman Wolko",
+				"native": null,
+				"userPreferred": "Roman Wolko"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116417-TJXhgYKKp2hs.jpg"
+		}]
+	}, {
+		"id": 64769,
+		"role": "MAIN",
+		"name": {
+			"first": "Shouyou",
+			"last": "Hinata",
+			"full": "Shouyou Hinata",
+			"native": "日向翔陽",
+			"userPreferred": "Shouyou Hinata"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png",
+		"voiceActors": [{
+			"id": 110919,
+			"language": "Japanese",
+			"name": {
+				"first": "Ayumu",
+				"last": "Murase",
+				"full": "Ayumu Murase",
+				"native": "村瀬歩",
+				"userPreferred": "Ayumu Murase"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png"
+		}, {
+			"id": 128751,
+			"language": "English",
+			"name": {
+				"first": "Bryson",
+				"last": "Baugus",
+				"full": "Bryson Baugus",
+				"native": null,
+				"userPreferred": "Bryson Baugus"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128751-F22P5B8FUBh5.jpg"
+		}, {
+			"id": 167596,
+			"language": "Italian",
+			"name": {
+				"first": "Simone",
+				"last": "Lupinacci",
+				"full": "Simone Lupinacci",
+				"native": null,
+				"userPreferred": "Simone Lupinacci"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n167596-xNNQ9uP2qmlg.png"
+		}, {
+			"id": 182230,
+			"language": "Spanish",
+			"name": {
+				"first": "Alberto",
+				"last": "Bernal",
+				"full": "Alberto Bernal",
+				"native": "Alberto Bernal García",
+				"userPreferred": "Alberto Bernal"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182230-U2LIlKLHrRQZ.png"
+		}, {
+			"id": 153463,
+			"language": "Portuguese",
+			"name": {
+				"first": "Lucas",
+				"last": "Almeida",
+				"full": "Lucas Almeida",
+				"native": null,
+				"userPreferred": "Lucas Almeida"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153463-MF7Z63vMJ47o.jpg"
+		}, {
+			"id": 119591,
+			"language": "German",
+			"name": {
+				"first": "Christian",
+				"last": "Zeiger",
+				"full": "Christian Zeiger",
+				"native": null,
+				"userPreferred": "Christian Zeiger"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119591-Cqkp0MiISslJ.jpg"
+		}]
+	}, {
+		"id": 88937,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Koutarou",
+			"last": "Bokuto",
+			"full": "Koutarou Bokuto",
+			"native": "木兎光太郎",
+			"userPreferred": "Koutarou Bokuto"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b88937-2GSqkX9TIzYy.png",
+		"voiceActors": [{
+			"id": 96762,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryouhei",
+				"last": "Kimura",
+				"full": "Ryouhei Kimura",
+				"native": "木村良平",
+				"userPreferred": "Ryouhei Kimura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg"
+		}, {
+			"id": 104087,
+			"language": "English",
+			"name": {
+				"first": "Ian",
+				"last": "Sinclair",
+				"full": "Ian Sinclair",
+				"native": null,
+				"userPreferred": "Ian Sinclair"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104087-3g10GTeSoeuW.jpg"
+		}, {
+			"id": 157484,
+			"language": "Italian",
+			"name": {
+				"first": "Jacopo",
+				"last": "Calatroni",
+				"full": "Jacopo Calatroni",
+				"native": null,
+				"userPreferred": "Jacopo Calatroni"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157484-s0pcFLG0e3Pz.jpg"
+		}, {
+			"id": 117179,
+			"language": "Spanish",
+			"name": {
+				"first": "Arturo",
+				"last": "Castañeda",
+				"full": "Arturo Castañeda",
+				"native": null,
+				"userPreferred": "Arturo Castañeda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117179-7jGqruzVaaSq.png"
+		}, {
+			"id": 116195,
+			"language": "Portuguese",
+			"name": {
+				"first": "Caio",
+				"last": "Guarnieri",
+				"full": "Caio Guarnieri",
+				"native": null,
+				"userPreferred": "Caio Guarnieri"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116195-Q7WnpXsxDDJF.png"
+		}, {
+			"id": 101923,
+			"language": "German",
+			"name": {
+				"first": "Julius",
+				"last": "Jellinek",
+				"full": "Julius Jellinek",
+				"native": null,
+				"userPreferred": "Julius Jellinek"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6923.jpg"
+		}]
+	}, {
+		"id": 67323,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Daichi",
+			"last": "Sawamura",
+			"full": "Daichi Sawamura",
+			"native": "澤村大地",
+			"userPreferred": "Daichi Sawamura"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b67323-yFbLDAfJ5ysG.png",
+		"voiceActors": [{
+			"id": 95245,
+			"language": "Japanese",
+			"name": {
+				"first": "Satoshi",
+				"last": "Hino",
+				"full": "Satoshi Hino",
+				"native": "日野聡",
+				"userPreferred": "Satoshi Hino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg"
+		}, {
+			"id": 106701,
+			"language": "English",
+			"name": {
+				"first": "Justin",
+				"last": "Doran",
+				"full": "Justin Doran",
+				"native": null,
+				"userPreferred": "Justin Doran"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/11701.jpg"
+		}, {
+			"id": 183877,
+			"language": "Italian",
+			"name": {
+				"first": "Massimo",
+				"last": "Triggiani",
+				"full": "Massimo Triggiani",
+				"native": null,
+				"userPreferred": "Massimo Triggiani"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 182556,
+			"language": "Spanish",
+			"name": {
+				"first": "Sergio",
+				"last": "Morel",
+				"full": "Sergio Morel",
+				"native": null,
+				"userPreferred": "Sergio Morel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182556-jtAWK35Ff9J6.jpg"
+		}, {
+			"id": 195092,
+			"language": "Portuguese",
+			"name": {
+				"first": "Guilherme",
+				"last": "Marques",
+				"full": "Guilherme Marques",
+				"native": null,
+				"userPreferred": "Guilherme Marques"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195092-e5zNFTfGRO2F.jpg"
+		}, {
+			"id": 131935,
+			"language": "German",
+			"name": {
+				"first": "Arne",
+				"last": "Stephan",
+				"full": "Arne Stephan",
+				"native": null,
+				"userPreferred": "Arne Stephan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131935-kPjvi1wTWHhC.png"
+		}]
+	}, {
+		"id": 73679,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ittetsu",
+			"last": "Takeda",
+			"full": "Ittetsu Takeda",
+			"native": "武田 一鉄",
+			"userPreferred": "Ittetsu Takeda"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n73679-OS9fOsMjSJua.png",
+		"voiceActors": [{
+			"id": 95118,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroshi",
+				"last": "Kamiya",
+				"full": "Hiroshi Kamiya",
+				"native": "神谷浩史",
+				"userPreferred": "Hiroshi Kamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+		}, {
+			"id": 135567,
+			"language": "English",
+			"name": {
+				"first": "Gareth",
+				"last": "West",
+				"full": "Gareth West",
+				"native": null,
+				"userPreferred": "Gareth West"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135567-js8AHXzIxAA7.jpg"
+		}, {
+			"id": 96286,
+			"language": "Italian",
+			"name": {
+				"first": "Massimo",
+				"last": "Di Benedetto",
+				"full": "Massimo Di Benedetto",
+				"native": null,
+				"userPreferred": "Massimo Di Benedetto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96286-TD02rKR1qiHV.png"
+		}, {
+			"id": 182216,
+			"language": "Spanish",
+			"name": {
+				"first": "Miguel Ángel",
+				"last": "Leal ",
+				"full": "Miguel Ángel Leal ",
+				"native": null,
+				"userPreferred": "Miguel Ángel Leal "
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182216-NYnHyG9gPhEw.png"
+		}, {
+			"id": 242854,
+			"language": "Portuguese",
+			"name": {
+				"first": "Ricardo",
+				"last": "Daunt",
+				"full": "Ricardo Daunt",
+				"native": null,
+				"userPreferred": "Ricardo Daunt"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n242854-sIPg2n02KKOU.jpg"
+		}, {
+			"id": 101112,
+			"language": "German",
+			"name": {
+				"first": "Julien",
+				"last": "Haggege",
+				"full": "Julien Haggege",
+				"native": "Julien Haggège",
+				"userPreferred": "Julien Haggege"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6112.jpg"
+		}]
+	}, {
+		"id": 73681,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yuutarou",
+			"last": "Kindaichi",
+			"full": "Yuutarou Kindaichi",
+			"native": "金田一勇太郎",
+			"userPreferred": "Yuutarou Kindaichi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b73681-DBHzToOoEFVb.jpg",
+		"voiceActors": [{
+			"id": 112635,
+			"language": "Japanese",
+			"name": {
+				"first": "Makoto",
+				"last": "Furukawa",
+				"full": "Makoto Furukawa",
+				"native": "古川慎",
+				"userPreferred": "Makoto Furukawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112635-ORlGvRvgf5Nq.png"
+		}, {
+			"id": 95379,
+			"language": "English",
+			"name": {
+				"first": "David",
+				"last": "Matranga",
+				"full": "David Matranga",
+				"native": null,
+				"userPreferred": "David Matranga"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95379-GMh9EncYDh5n.png"
+		}, {
+			"id": 240255,
+			"language": "Italian",
+			"name": {
+				"first": "Alessandro",
+				"last": "Fattori",
+				"full": "Alessandro Fattori",
+				"native": null,
+				"userPreferred": "Alessandro Fattori"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n240255-YUlZqPsayoZA.png"
+		}, {
+			"id": 189479,
+			"language": "Spanish",
+			"name": {
+				"first": "Roberto",
+				"last": "Gutiérrez",
+				"full": "Roberto Gutiérrez",
+				"native": "Roberto Gutiérrez-Teyssier Vázquez",
+				"userPreferred": "Roberto Gutiérrez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189479-samS2Fw059EB.png"
+		}, {
+			"id": 258861,
+			"language": "Portuguese",
+			"name": {
+				"first": "Raan",
+				"last": "Alves",
+				"full": "Raan Alves",
+				"native": "Randerson Alves Andrade",
+				"userPreferred": "Raan Alves"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 106906,
+			"language": "German",
+			"name": {
+				"first": "Sebastian",
+				"last": "Fitzner",
+				"full": "Sebastian Fitzner",
+				"native": null,
+				"userPreferred": "Sebastian Fitzner"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106906-Vpij6JzOEfFQ.png"
+		}]
+	}, {
+		"id": 71267,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kenma",
+			"last": "Kozume",
+			"full": "Kenma Kozume",
+			"native": "孤爪研磨",
+			"userPreferred": "Kenma Kozume"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg",
+		"voiceActors": [{
+			"id": 95672,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuki",
+				"last": "Kaji",
+				"full": "Yuuki Kaji",
+				"native": "梶裕貴",
+				"userPreferred": "Yuuki Kaji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-RN4nm0OFwCyU.png"
+		}, {
+			"id": 95886,
+			"language": "English",
+			"name": {
+				"first": "Clint",
+				"last": "Bickham",
+				"full": "Clint Bickham",
+				"native": null,
+				"userPreferred": "Clint Bickham"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/886.jpg"
+		}, {
+			"id": 157483,
+			"language": "Italian",
+			"name": {
+				"first": "Alessandro",
+				"last": "Pili",
+				"full": "Alessandro Pili",
+				"native": "Alessandro Pili",
+				"userPreferred": "Alessandro Pili"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 181979,
+			"language": "Spanish",
+			"name": {
+				"first": "Javier",
+				"last": "Olguín",
+				"full": "Javier Olguín",
+				"native": null,
+				"userPreferred": "Javier Olguín"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n181979-5mjIa06q28A5.png"
+		}, {
+			"id": 176920,
+			"language": "Portuguese",
+			"name": {
+				"first": "Gustavo",
+				"last": "Nader",
+				"full": "Gustavo Nader",
+				"native": null,
+				"userPreferred": "Gustavo Nader"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176920-QSZyEcLbv262.jpg"
+		}, {
+			"id": 140228,
+			"language": "German",
+			"name": {
+				"first": "Amadeus",
+				"last": "Strobl",
+				"full": "Amadeus Strobl",
+				"native": null,
+				"userPreferred": "Amadeus Strobl"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140228-QkcDFuPKFd9t.jpg"
+		}]
+	}, {
+		"id": 80515,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hisashi",
+			"last": "Kinoshita",
+			"full": "Hisashi Kinoshita",
+			"native": null,
+			"userPreferred": "Hisashi Kinoshita"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b80515-iSRjeok2Ogif.jpg",
+		"voiceActors": [{
+			"id": 119049,
+			"language": "Japanese",
+			"name": {
+				"first": "Nobuyori",
+				"last": "Sagara",
+				"full": "Nobuyori Sagara",
+				"native": "相楽信頼",
+				"userPreferred": "Nobuyori Sagara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/24049-rTdMYFpmBfmN.jpg"
+		}, {
+			"id": 95454,
+			"language": "English",
+			"name": {
+				"first": "Blake",
+				"last": "Shepard",
+				"full": "Blake Shepard",
+				"native": null,
+				"userPreferred": "Blake Shepard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/454.jpg"
+		}, {
+			"id": 266294,
+			"language": "Italian",
+			"name": {
+				"first": "Davide",
+				"last": "Minetto",
+				"full": "Davide Minetto",
+				"native": null,
+				"userPreferred": "Davide Minetto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 233205,
+			"language": "Portuguese",
+			"name": {
+				"first": "Caio",
+				"last": "Freire",
+				"full": "Caio Freire",
+				"native": null,
+				"userPreferred": "Caio Freire"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n233205-QfdOMef98SKu.jpg"
+		}]
+	}, {
+		"id": 137480,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Akinori",
+			"last": "Konoha",
+			"full": "Akinori Konoha",
+			"native": "木葉秋紀",
+			"userPreferred": "Akinori Konoha"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137480-FNUMTKjHNT2W.jpg",
+		"voiceActors": [{
+			"id": 107705,
+			"language": "Japanese",
+			"name": {
+				"first": "Taishi",
+				"last": "Murata",
+				"full": "Taishi Murata",
+				"native": "村田太志",
+				"userPreferred": "Taishi Murata"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107705-lVfYRzWY5AFW.jpg"
+		}, {
+			"id": 290162,
+			"language": "English",
+			"name": {
+				"first": "Kory",
+				"last": "Getman",
+				"full": "Kory Getman",
+				"native": null,
+				"userPreferred": "Kory Getman"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n290162-J70s3jFU7MQJ.jpg"
+		}, {
+			"id": 153456,
+			"language": "Italian",
+			"name": {
+				"first": "Marco",
+				"last": "Benedetti",
+				"full": "Marco Benedetti",
+				"native": null,
+				"userPreferred": "Marco Benedetti"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153456-au2y9zeAClez.jpg"
+		}, {
+			"id": 179632,
+			"language": "Portuguese",
+			"name": {
+				"first": "Matheus",
+				"last": "Ferreira",
+				"full": "Matheus Ferreira",
+				"native": null,
+				"userPreferred": "Matheus Ferreira"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179632-ppgCxWjxnLZn.jpg"
+		}]
+	}, {
+		"id": 137690,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Eri",
+			"last": "Miyanoshita",
+			"full": "Eri Miyanoshita",
+			"native": "宮ノ下英里",
+			"userPreferred": "Eri Miyanoshita"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137690-jY5dHghhHkBf.png",
+		"voiceActors": [{
+			"id": 129324,
+			"language": "Japanese",
+			"name": {
+				"first": "Misa",
+				"last": "Kayama",
+				"full": "Misa Kayama",
+				"native": "嘉山未紗",
+				"userPreferred": "Misa Kayama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129324-Wa1Z0cOgx2TF.png"
+		}, {
+			"id": 165037,
+			"language": "Italian",
+			"name": {
+				"first": "Ludovica",
+				"last": "De Caro",
+				"full": "Ludovica De Caro",
+				"native": null,
+				"userPreferred": "Ludovica De Caro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n165037-AIVdlZArSgfj.png"
+		}, {
+			"id": 205014,
+			"language": "Portuguese",
+			"name": {
+				"first": "Nina",
+				"last": "Carvalho",
+				"full": "Nina Carvalho",
+				"native": null,
+				"userPreferred": "Nina Carvalho"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n205014-1QMewtumpe47.jpg"
+		}]
+	}, {
+		"id": 137602,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Arata",
+			"last": "Tsuchiyu",
+			"full": "Arata Tsuchiyu",
+			"native": "土湯荒田",
+			"userPreferred": "Arata Tsuchiyu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137602-3Hb1mqtvlOSa.png",
+		"voiceActors": [{
+			"id": 156970,
+			"language": "Japanese",
+			"name": {
+				"first": "Juunji",
+				"last": "Tachibana ",
+				"full": "Juunji Tachibana ",
+				"native": "橘潤二",
+				"userPreferred": "Juunji Tachibana "
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n156970-OBcXbZ77pW3G.png"
+		}, {
+			"id": 279424,
+			"language": "Italian",
+			"name": {
+				"first": "Stefano",
+				"last": "Lucchelli",
+				"full": "Stefano Lucchelli",
+				"native": null,
+				"userPreferred": "Stefano Lucchelli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 137471,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sadayuki",
+			"last": "Mizoguchi",
+			"full": "Sadayuki Mizoguchi",
+			"native": "溝口貞幸",
+			"userPreferred": "Sadayuki Mizoguchi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137471-AKKCdEj83s76.png",
+		"voiceActors": [{
+			"id": 106629,
+			"language": "Japanese",
+			"name": {
+				"first": "Seirou",
+				"last": "Ogino",
+				"full": "Seirou Ogino",
+				"native": "荻野晴朗",
+				"userPreferred": "Seirou Ogino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106629-TT3F7WfC3wLq.png"
+		}, {
+			"id": 290054,
+			"language": "English",
+			"name": {
+				"first": "Dano",
+				"last": "Colón",
+				"full": "Dano Colón",
+				"native": null,
+				"userPreferred": "Dano Colón"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 266255,
+			"language": "Italian",
+			"name": {
+				"first": "Omar",
+				"last": "Maestroni",
+				"full": "Omar Maestroni",
+				"native": null,
+				"userPreferred": "Omar Maestroni"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 176950,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fernando",
+				"last": "Ferraz",
+				"full": "Fernando Ferraz",
+				"native": null,
+				"userPreferred": "Fernando Ferraz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176950-wSBDDftVEyvg.png"
+		}]
+	}, {
+		"id": 137470,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Takahiro",
+			"last": "Hanamaki",
+			"full": "Takahiro Hanamaki",
+			"native": "花巻貴大",
+			"userPreferred": "Takahiro Hanamaki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137470-bM0JpKqbB0oK.png",
+		"voiceActors": [{
+			"id": 109163,
+			"language": "Japanese",
+			"name": {
+				"first": "Tooru",
+				"last": "Sakurai",
+				"full": "Tooru Sakurai",
+				"native": "櫻井トオル",
+				"userPreferred": "Tooru Sakurai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109163-KahzNt76su69.png"
+		}, {
+			"id": 141251,
+			"language": "English",
+			"name": {
+				"first": "Jack ",
+				"last": "Ivy",
+				"full": "Jack  Ivy",
+				"native": null,
+				"userPreferred": "Jack  Ivy"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141251-Hm05oLVc22aZ.jpg"
+		}, {
+			"id": 281748,
+			"language": "Italian",
+			"name": {
+				"first": "Andrea",
+				"last": "Moretti",
+				"full": "Andrea Moretti",
+				"native": null,
+				"userPreferred": "Andrea Moretti"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 197972,
+			"language": "Portuguese",
+			"name": {
+				"first": "Samuel",
+				"last": "Fernandes",
+				"full": "Samuel Fernandes",
+				"native": null,
+				"userPreferred": "Samuel Fernandes"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 137616,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tsuyoshi",
+			"last": "Matsushima",
+			"full": "Tsuyoshi Matsushima",
+			"native": "松島剛",
+			"userPreferred": "Tsuyoshi Matsushima"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137616-SYJQD2BMo4td.png",
+		"voiceActors": [{
+			"id": 105446,
+			"language": "Japanese",
+			"name": {
+				"first": "Hisafumi",
+				"last": "Oda",
+				"full": "Hisafumi Oda",
+				"native": "小田久史",
+				"userPreferred": "Hisafumi Oda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105446-rsh3opbT9EQf.jpg"
+		}, {
+			"id": 129498,
+			"language": "English",
+			"name": {
+				"first": "Joel",
+				"last": "McCray",
+				"full": "Joel McCray",
+				"native": null,
+				"userPreferred": "Joel McCray"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 290289,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kiyoshi",
+			"last": null,
+			"full": "Kiyoshi",
+			"native": "清",
+			"userPreferred": "Kiyoshi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b290289-cVbWe30MvEi0.jpg",
+		"voiceActors": [{
+			"id": 95576,
+			"language": "Japanese",
+			"name": {
+				"first": "Eiji",
+				"last": "Takemoto",
+				"full": "Eiji Takemoto",
+				"native": "竹本英史",
+				"userPreferred": "Eiji Takemoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95576-daJz6YMxGaX6.png"
+		}]
+	}, {
+		"id": 137675,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yoshiki",
+			"last": "Towada",
+			"full": "Yoshiki Towada",
+			"native": "十和田良樹",
+			"userPreferred": "Yoshiki Towada"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137675-rGpOTQi54qvw.png",
+		"voiceActors": [{
+			"id": 119715,
+			"language": "Japanese",
+			"name": {
+				"first": "Masakazu",
+				"last": "Nishida",
+				"full": "Masakazu Nishida",
+				"native": "西田雅一",
+				"userPreferred": "Masakazu Nishida"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/24715-SMwbD5QQJelp.jpg"
+		}]
+	}, {
+		"id": 290300,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Takeru",
+			"last": "Oikawa",
+			"full": "Takeru Oikawa",
+			"native": "及川猛",
+			"userPreferred": "Takeru Oikawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b290300-vcnD5tEuDVQF.jpg",
+		"voiceActors": [{
+			"id": 119859,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuka",
+				"last": "Maruyama",
+				"full": "Yuka Maruyama",
+				"native": "丸山有香",
+				"userPreferred": "Yuka Maruyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119859-rAzT5hSBjaJs.png"
+		}]
+	}, {
+		"id": 88938,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Keiji",
+			"last": "Akaashi",
+			"full": "Keiji Akaashi",
+			"native": "赤葦京治",
+			"userPreferred": "Keiji Akaashi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b88938-MQdQoMzEigo1.png",
+		"voiceActors": [{
+			"id": 110743,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryouta",
+				"last": "Oosaka",
+				"full": "Ryouta Oosaka",
+				"native": "逢坂良太",
+				"userPreferred": "Ryouta Oosaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110743-k2SgQwU0JD33.png"
+		}, {
+			"id": 135834,
+			"language": "English",
+			"name": {
+				"first": "Jeremy ",
+				"last": "Gee",
+				"full": "Jeremy  Gee",
+				"native": null,
+				"userPreferred": "Jeremy  Gee"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135834-gaO5cpSDZUwn.jpg"
+		}, {
+			"id": 115248,
+			"language": "Italian",
+			"name": {
+				"first": "Davide",
+				"last": "Albano",
+				"full": "Davide Albano",
+				"native": null,
+				"userPreferred": "Davide Albano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/20248.jpg"
+		}, {
+			"id": 184139,
+			"language": "Spanish",
+			"name": {
+				"first": "Roberto",
+				"last": "Salguero",
+				"full": "Roberto Salguero",
+				"native": null,
+				"userPreferred": "Roberto Salguero"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184139-i79eTGoEkKqd.jpg"
+		}, {
+			"id": 261174,
+			"language": "Portuguese",
+			"name": {
+				"first": "Caio",
+				"last": "Santos",
+				"full": "Caio Santos",
+				"native": null,
+				"userPreferred": "Caio Santos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n261174-Gs38efCWHgzq.jpg"
+		}, {
+			"id": 142228,
+			"language": "German",
+			"name": {
+				"first": "Ozan",
+				"last": "Ünal",
+				"full": "Ozan Ünal",
+				"native": null,
+				"userPreferred": "Ozan Ünal"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142228-t38ERqNOK2hz.jpg"
+		}]
+	}, {
+		"id": 67321,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Koushi",
+			"last": "Sugawara",
+			"full": "Koushi Sugawara",
+			"native": "菅原孝支",
+			"userPreferred": "Koushi Sugawara"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b67321-cxP7NdI0JC3H.png",
+		"voiceActors": [{
+			"id": 95088,
+			"language": "Japanese",
+			"name": {
+				"first": "Miyu",
+				"last": "Irino",
+				"full": "Miyu Irino",
+				"native": "入野自由",
+				"userPreferred": "Miyu Irino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png"
+		}, {
+			"id": 112243,
+			"language": "English",
+			"name": {
+				"first": "Adam",
+				"last": "Gibbs",
+				"full": "Adam Gibbs",
+				"native": null,
+				"userPreferred": "Adam Gibbs"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112243-3kj5gcfGOpiW.png"
+		}, {
+			"id": 167450,
+			"language": "Italian",
+			"name": {
+				"first": "Tommaso",
+				"last": "Zalone",
+				"full": "Tommaso Zalone",
+				"native": null,
+				"userPreferred": "Tommaso Zalone"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 232484,
+			"language": "Spanish",
+			"name": {
+				"first": "David",
+				"last": "Bueno",
+				"full": "David Bueno",
+				"native": null,
+				"userPreferred": "David Bueno"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n232484-1azQtCQzNL7g.png"
+		}, {
+			"id": 197328,
+			"language": "Portuguese",
+			"name": {
+				"first": "Thiago ",
+				"last": "Cordova",
+				"full": "Thiago  Cordova",
+				"native": "Thiago Córdova",
+				"userPreferred": "Thiago  Cordova"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197328-cVtjSGbN9FhW.jpg"
+		}, {
+			"id": 102219,
+			"language": "German",
+			"name": {
+				"first": "Konrad",
+				"last": "Bösherz",
+				"full": "Konrad Bösherz",
+				"native": null,
+				"userPreferred": "Konrad Bösherz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102219-Od3pasyGCIbf.jpg"
+		}]
+	}, {
+		"id": 67689,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kiyoko",
+			"last": "Shimizu",
+			"full": "Kiyoko Shimizu",
+			"native": "清水潔子",
+			"userPreferred": "Kiyoko Shimizu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b67689-QaYw1qDMjwKM.png",
+		"voiceActors": [{
+			"id": 95078,
+			"language": "Japanese",
+			"name": {
+				"first": "Kaori",
+				"last": "Nazuka",
+				"full": "Kaori Nazuka",
+				"native": "名塚佳織",
+				"userPreferred": "Kaori Nazuka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg"
+		}, {
+			"id": 116965,
+			"language": "English",
+			"name": {
+				"first": "Rebekah",
+				"last": "Stevens",
+				"full": "Rebekah Stevens",
+				"native": null,
+				"userPreferred": "Rebekah Stevens"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/21965.jpg"
+		}, {
+			"id": 225967,
+			"language": "Italian",
+			"name": {
+				"first": "Federica",
+				"last": "Simonelli",
+				"full": "Federica Simonelli",
+				"native": null,
+				"userPreferred": "Federica Simonelli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 252185,
+			"language": "Spanish",
+			"name": {
+				"first": "Carla",
+				"last": "Cerda",
+				"full": "Carla Cerda",
+				"native": "Carla Cerda Herrero",
+				"userPreferred": "Carla Cerda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n252185-6DPJld6r7pui.png"
+		}, {
+			"id": 197180,
+			"language": "Portuguese",
+			"name": {
+				"first": "Maitê",
+				"last": "Cunha",
+				"full": "Maitê Cunha",
+				"native": null,
+				"userPreferred": "Maitê Cunha"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197180-Nwhc1jh6wPLo.png"
+		}, {
+			"id": 102705,
+			"language": "German",
+			"name": {
+				"first": "Birte",
+				"last": "Baumgardt",
+				"full": "Birte Baumgardt",
+				"native": null,
+				"userPreferred": "Birte Baumgardt"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7705.jpg"
+		}]
+	}, {
+		"id": 134003,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kanji ",
+			"last": "Koganegawa",
+			"full": "Kanji  Koganegawa",
+			"native": "黄金川貫至",
+			"userPreferred": "Kanji  Koganegawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b134003-CJLCmcaHSkoy.png",
+		"voiceActors": [{
+			"id": 111989,
+			"language": "Japanese",
+			"name": {
+				"first": "Masayuki",
+				"last": "Shouji",
+				"full": "Masayuki Shouji",
+				"native": "庄司将之",
+				"userPreferred": "Masayuki Shouji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/16989.jpg"
+		}, {
+			"id": 135833,
+			"language": "English",
+			"name": {
+				"first": "Mason",
+				"last": "Butler",
+				"full": "Mason Butler",
+				"native": null,
+				"userPreferred": "Mason Butler"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 96087,
+			"language": "Italian",
+			"name": {
+				"first": "Gianluca",
+				"last": "Iacono",
+				"full": "Gianluca Iacono",
+				"native": null,
+				"userPreferred": "Gianluca Iacono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96087-FUVmdkMXQmE5.png"
+		}, {
+			"id": 182561,
+			"language": "Spanish",
+			"name": {
+				"first": "Moisés Iván",
+				"last": "Mora",
+				"full": "Moisés Iván Mora",
+				"native": null,
+				"userPreferred": "Moisés Iván Mora"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182561-2aJ9gdjKFePu.jpg"
+		}, {
+			"id": 192209,
+			"language": "Portuguese",
+			"name": {
+				"first": "Gustavo",
+				"last": "Berriel",
+				"full": "Gustavo Berriel",
+				"native": null,
+				"userPreferred": "Gustavo Berriel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 133028,
+			"language": "German",
+			"name": {
+				"first": "Alexander",
+				"last": "Ziegenbein",
+				"full": "Alexander Ziegenbein",
+				"native": null,
+				"userPreferred": "Alexander Ziegenbein"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 137482,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Takurou",
+			"last": "Oiwake",
+			"full": "Takurou Oiwake",
+			"native": "追分拓朗",
+			"userPreferred": "Takurou Oiwake"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137482-EgU20W0nK30E.png",
+		"voiceActors": [{
+			"id": 95022,
+			"language": "Japanese",
+			"name": {
+				"first": "Shinichirou",
+				"last": "Miki",
+				"full": "Shinichirou Miki",
+				"native": "三木眞一郎",
+				"userPreferred": "Shinichirou Miki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png"
+		}, {
+			"id": 269519,
+			"language": "English",
+			"name": {
+				"first": "Phillip",
+				"last": "Hayes",
+				"full": "Phillip Hayes",
+				"native": null,
+				"userPreferred": "Phillip Hayes"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 96289,
+			"language": "Italian",
+			"name": {
+				"first": "Claudio",
+				"last": "Moneta",
+				"full": "Claudio Moneta",
+				"native": null,
+				"userPreferred": "Claudio Moneta"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96289-6WavF68OhjWa.png"
+		}, {
+			"id": 96698,
+			"language": "Spanish",
+			"name": {
+				"first": "René",
+				"last": "García",
+				"full": "René García",
+				"native": "René García Miranda",
+				"userPreferred": "René García"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96698-hewSUpG0XgRt.png"
+		}, {
+			"id": 176957,
+			"language": "Portuguese",
+			"name": {
+				"first": "Gustavo",
+				"last": "Vergani",
+				"full": "Gustavo Vergani",
+				"native": null,
+				"userPreferred": "Gustavo Vergani"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176957-3PW5KsDEydFp.jpg"
+		}, {
+			"id": 165748,
+			"language": "German",
+			"name": {
+				"first": "Martin",
+				"last": "Brücker",
+				"full": "Martin Brücker",
+				"native": null,
+				"userPreferred": "Martin Brücker"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n165748-47YqdKek64VY.jpg"
+		}]
+	}, {
+		"id": 80517,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kazuhito",
+			"last": "Narita",
+			"full": "Kazuhito Narita",
+			"native": "成田和仁",
+			"userPreferred": "Kazuhito Narita"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/80517-NOTmRuD0WECQ.jpg",
+		"voiceActors": [{
+			"id": 112075,
+			"language": "Japanese",
+			"name": {
+				"first": "Koutarou",
+				"last": "Nishiyama",
+				"full": "Koutarou Nishiyama",
+				"native": "西山宏太朗",
+				"userPreferred": "Koutarou Nishiyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112075-3XkMb12Pl3Mx.jpg"
+		}, {
+			"id": 135568,
+			"language": "English",
+			"name": {
+				"first": "Gabriel",
+				"last": "Regojo",
+				"full": "Gabriel Regojo",
+				"native": null,
+				"userPreferred": "Gabriel Regojo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135568-npTR8VYfkcbz.jpg"
+		}, {
+			"id": 227018,
+			"language": "Italian",
+			"name": {
+				"first": "Maurizio",
+				"last": "Di Girolamo",
+				"full": "Maurizio Di Girolamo",
+				"native": null,
+				"userPreferred": "Maurizio Di Girolamo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 197973,
+			"language": "Portuguese",
+			"name": {
+				"first": "Victor",
+				"last": "Moreno",
+				"full": "Victor Moreno",
+				"native": null,
+				"userPreferred": "Victor Moreno"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197973-tkxdCYWTaLBe.jpg"
+		}]
+	}, {
+		"id": 137541,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ikkei",
+			"last": "Ukai",
+			"full": "Ikkei Ukai",
+			"native": "烏養一繋",
+			"userPreferred": "Ikkei Ukai"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137541-ezvI4unNftsC.png",
+		"voiceActors": [{
+			"id": 96174,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroshi",
+				"last": "Naka",
+				"full": "Hiroshi Naka",
+				"native": "中博史",
+				"userPreferred": "Hiroshi Naka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96174-xESRSYS5NSwN.jpg"
+		}, {
+			"id": 128752,
+			"language": "English",
+			"name": {
+				"first": "James",
+				"last": "Belcher",
+				"full": "James Belcher",
+				"native": null,
+				"userPreferred": "James Belcher"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128752-q7natzit1V0d.jpg"
+		}, {
+			"id": 115262,
+			"language": "Italian",
+			"name": {
+				"first": "Oliviero",
+				"last": "Corbetta",
+				"full": "Oliviero Corbetta",
+				"native": null,
+				"userPreferred": "Oliviero Corbetta"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115262-ljITrTrLVUPJ.jpg"
+		}, {
+			"id": 182226,
+			"language": "Spanish",
+			"name": {
+				"first": "José Luis",
+				"last": "Orozco",
+				"full": "José Luis Orozco",
+				"native": "José Luis Orozco Flores",
+				"userPreferred": "José Luis Orozco"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182226-a5yX20hpnBwh.png"
+		}, {
+			"id": 190264,
+			"language": "Portuguese",
+			"name": {
+				"first": "Carlos",
+				"last": "Seidl",
+				"full": "Carlos Seidl",
+				"native": null,
+				"userPreferred": "Carlos Seidl"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190264-hphXpiNMtBLY.jpg"
+		}]
+	}, {
+		"id": 137478,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yukie",
+			"last": "Shirofuku",
+			"full": "Yukie Shirofuku",
+			"native": "白福雪絵",
+			"userPreferred": "Yukie Shirofuku"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137478-cDU8yiQnpJ8W.jpg",
+		"voiceActors": [{
+			"id": 141412,
+			"language": "Japanese",
+			"name": {
+				"first": "Ayako",
+				"last": "Takeuchi",
+				"full": "Ayako Takeuchi",
+				"native": "竹内絢子",
+				"userPreferred": "Ayako Takeuchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141412-LAxYkYbEMDMl.jpg"
+		}, {
+			"id": 129143,
+			"language": "English",
+			"name": {
+				"first": "Samantha",
+				"last": "Stevens",
+				"full": "Samantha Stevens",
+				"native": null,
+				"userPreferred": "Samantha Stevens"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129143-41iQk0JOvpOl.jpg"
+		}, {
+			"id": 157478,
+			"language": "Italian",
+			"name": {
+				"first": "Giulia",
+				"last": "Bersani",
+				"full": "Giulia Bersani",
+				"native": "Giulia Bersani",
+				"userPreferred": "Giulia Bersani"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 197182,
+			"language": "Portuguese",
+			"name": {
+				"first": "Mari",
+				"last": "Haruno",
+				"full": "Mari Haruno",
+				"native": null,
+				"userPreferred": "Mari Haruno"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197182-mDKkEWvcDi9j.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 21698,
+		"relationType": "SEQUEL",
+		"malId": 32935,
+		"title": {
+			"romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+			"english": "HAIKYU!! 3rd Season",
+			"native": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校",
+			"userPreferred": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou"
+		},
+		"status": "Completed",
+		"episodes": 10,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
+		"color": "#e48635",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21698-jVFRIHAENS5B.jpg",
+		"rating": 87
+	}, {
+		"id": 98884,
+		"relationType": "SUMMARY",
+		"malId": 35110,
+		"title": {
+			"romaji": "Haikyuu!!: Sainou to Sense",
+			"english": "Haikyu!! The Movie: Talent and Sense",
+			"native": "ハイキュー!! 才能とセンス",
+			"userPreferred": "Haikyuu!!: Sainou to Sense"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
+		"color": "#ff9343",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
+		"rating": 79
+	}, {
+		"id": 65243,
+		"relationType": "ADAPTATION",
+		"malId": 35243,
+		"title": {
+			"romaji": "Haikyuu!!",
+			"english": "Haikyu!!",
+			"native": "ハイキュー！！",
+			"userPreferred": "Haikyuu!!"
+		},
+		"status": "Completed",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx65243-mR4MnJFmfaOF.png",
+		"color": "#f17843",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/65243-naohhXW4M4b9.jpg",
+		"rating": 89
+	}, {
+		"id": 107351,
+		"relationType": "SUMMARY",
+		"malId": 35321,
+		"title": {
+			"romaji": "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun",
+			"english": "HAIKYU!! - Special Feature! The Spring Tournament of Their Youth",
+			"native": "ハイキュー!! 特集！春高バレーに賭けた青春",
+			"userPreferred": "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107351-ZKSXmSBU5ENA.jpg",
+		"color": "#e4bb28",
+		"type": "OVA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107351-ZKSXmSBU5ENA.jpg",
+		"rating": 74
+	}, {
+		"id": 21348,
+		"relationType": "SIDE_STORY",
+		"malId": 35806,
+		"title": {
+			"romaji": "Haikyuu!!: VS Akaten",
+			"english": "HAIKYU!!: VS Failing Marks",
+			"native": "ハイキュー!! VS赤点",
+			"userPreferred": "Haikyuu!!: VS Akaten"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21348-IZvxjob7nMH1.jpg",
+		"color": "#e47835",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21348-Baut72cxKVUq.jpg",
+		"rating": 77
+	}, {
+		"id": 20464,
+		"relationType": "PREQUEL",
+		"malId": 20583,
+		"title": {
+			"romaji": "Haikyuu!!",
+			"english": "HAIKYU!!",
+			"native": "ハイキュー!!",
+			"userPreferred": "Haikyuu!!"
+		},
+		"status": "Completed",
+		"episodes": 25,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png",
+		"color": "#e48635",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20464-PpYjO9cPN1gs.jpg",
+		"rating": 83
+	}],
+	"mappings": {
+		"mal": 28891,
+		"anidb": 10981,
+		"kitsu": 10076,
+		"anilist": 20992,
+		"thetvdb": 278157,
+		"anisearch": 10097,
+		"livechart": 1330,
+		"notify.moe": "cjWytFiiR",
+		"anime-planet": "haikyuu-second-season"
+	},
+	"episodes": [{
+		"id": "haikyuu-second-season-episode-1",
+		"title": "Let's Go To Tokyo!!",
+		"description": "After losing in Interhigh, Karasuno High is busy practicing. As Coach Ukai wishes for more practice matches for the team, Ittetsu Takeda barges in with great news: Karasuno has been invited to take part in Nekoma's training camp! Kageyama and Hinata get lost during a run and ends up meeting with Shiratorizawa Academy's Ushijima. After Ushijima claims that the only good player from Aobajōsai High is Oikawa, Hinata challenges him.",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5077089.jpg",
+		"airDate": "2015-10-04T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-2",
+		"title": "Direct Sunlight",
+		"description": "Hinata, Kageyama, Nishinoya, and Tanaka are devastated by the possibility of not going to Tokyō if they fail any of their exams. When forced to study, the second years go to Tanaka's place, but Kageyama and Hinata are having a harder time with their reluctant tutor, Tsukishima. Luckily, Hitoka Yachi, the new manager Shimizu is trying to draft, proves more helpful at teaching the duo.",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5354009.jpg",
+		"airDate": "2015-10-11T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-3",
+		"title": "Townsperson B",
+		"description": "Yachi feels conflicted about joining the volleyball team, but after watching their practice match against Ōginishi High, she begins to see the charm of the team. However, she is having a difficult time expressing her feelings to her mother, afraid that she might disapprove. Luckily, Hinata helps her overcome it by showing to her that even a small role such as a \"Townsperson B\" can be great.",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5354010.jpg",
+		"airDate": "2015-10-18T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-4",
+		"title": "Center Ace",
+		"description": "After Hinata and Kageyama finish their supplementary exam, Saeko Tanaka takes them to join Karasuno team at Tokyo training camp. Now they're on the team, Karasuno wins their first match on the day; however Eikichi from Shinzen High manages to touch on Hinata's quick's. Later on, Hinata meets the half Russian player from Nekoma Lev Haiba; Lev promises him that he will be the first one to stop his quick.",
+		"number": 4,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5354011.jpg",
+		"airDate": "2015-10-25T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-5",
+		"title": "Greed",
+		"description": "The second day of the Tokyo away games. Karasuno isn't able to get a single set against Nekoma, especially with their new player. Hinata and Kageyama's weirdo quick doesn't seem to work on the new Nekoma or the other powerhouse schools for long. Seeing this, Hinata makes a decision...",
+		"number": 5,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5354014.jpg",
+		"airDate": "2015-11-01T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-6",
+		"title": "Tempo",
+		"description": "Hinata and Kageyama are at oddds. Keishin decides to take Hinata to his grandfather, who lead Karasuno to the nationals. Meanwhile, Kageyama runs into...",
+		"number": 6,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5354016.jpg",
+		"airDate": "2015-11-08T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-7",
+		"title": "Moonrise",
+		"description": "In order to achieve a new form, Hinata and Kageyama start practicing on their own. The other members of Karasuno have also started practicing on their own to better themselves, and they have shown some evolution. However, Tsukishima seems indifferent about change and one day after practice, he is asked to serve as blocker...",
+		"number": 7,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5354017.jpg",
+		"airDate": "2015-11-15T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-8",
+		"title": "Illusionary Hero",
+		"description": "Tsukishima begins to think that he shouldn’t put so much effort in training anymore like his brother did, to avoid being disappointed if he fails. Despite practicing very hard, Akiteru failed to become a regular player for Karasuno due to the number of more talented players on the team, including Hinata’s idol, the “Little Giant”.",
+		"number": 8,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5354020.jpg",
+		"airDate": "2015-11-22T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-9",
+		"title": "VS. Umbrella",
+		"description": "The members of Karasuno continue to strengthen the new things they've learned while at the Tokyo training camp. However, Hinata and Kageyama still can't get their quick down. Kageyama is anxious about Hinata losing his spirit and tries to do a normal toss during a practice match, but...",
+		"number": 9,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5354023.jpg",
+		"airDate": "2015-11-29T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-10",
+		"title": "Cogs",
+		"description": "The week-long training camp is finally on its last day. Karasuno's final opponent is Fukurodani High School, and they're determined to win at least one set against the powerhouse school. Are they going to be able to show the fruits of their labor?",
+		"number": 10,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5354048.jpg",
+		"airDate": "2015-12-06T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-11",
+		"title": "Above",
+		"description": "The training camp comes to a close with a barbeque battle. Bokuto talks about rivals from all over the country and the prepare for the upcoming Spring Miyazaki Prefectural Tournament.",
+		"number": 11,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5355681.jpg",
+		"airDate": "2015-12-13T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-12",
+		"title": "Let the Games Begin!",
+		"description": "The first day of the Spring Tournament Miyagi qualifier is finally here. Hinata tries to trush to the bathroom, but he runs into Ohgi Minami's Towada, who plays on the team they're up against first. With various feelings in their hearts, the battle towards nationals begins.",
+		"number": 12,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5437313.jpg",
+		"airDate": "2015-12-20T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-13",
+		"title": "A Simple and Pure Strength",
+		"description": "Their first match to get through to the qualifiers is a match against Kakugawa High School. At the center of Kakugawa's team is a first-year named Hyakuzawa, who is 2 meters tall. At first, Karasuno has trouble dealing with Hyakuzawa's immense power and height, but...",
+		"number": 13,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5445341.jpg",
+		"airDate": "2015-12-27T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-14",
+		"title": "Still Growing",
+		"description": "Just about 2 more months until the qualifiers. Tsukishima's brother invites him to practice with his own team, Kageyama goes to observe a certain team, and Hinata and Kenma promise to have a match that they wouldn't be able to repeat.",
+		"number": 14,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446877.jpg",
+		"airDate": "2016-01-10T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-15",
+		"title": "Place to Play",
+		"description": "Karasuno is finally playing in the qualifier prelims. Their first opponent is the 4th best team from the Inter-High prelims, Johzenji High School. Their motto is to play. What will Karasuno do against their rather unconventional playing method?",
+		"number": 15,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446878.jpg",
+		"airDate": "2016-01-17T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-16",
+		"title": "Next",
+		"description": "Johzenji's carefree rhythm almost breaks Hinata and Kageyama, but they manage to regain their cool with Sawamura's help, and continue the match. Meanwhile, Johzenji's manager, Misaki, tells the team how she really feels about them.",
+		"number": 16,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446879.jpg",
+		"airDate": "2016-01-24T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-17",
+		"title": "The Battle Without Will Power",
+		"description": "As Daichi exits the court, a second year has to push through his self-doubt to lead the team in his stead. On top of that, Yamaguchi comes in to serve but gets nervous.",
+		"number": 17,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446880.jpg",
+		"airDate": "2016-01-31T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-18",
+		"title": "The Losers",
+		"description": "Karasuno can't get back into rhythm without Sawamura, and are having a hard time playing to their full potential. Meanwhile, Hinata battles it out in the air with Wakunan's ace, who has a similar playing style to the Little Giant.",
+		"number": 18,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446881.jpg",
+		"airDate": "2016-02-07T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-19",
+		"title": "The Iron Wall Can Be Rebuilt Again and Again",
+		"description": "Karasuno manages to make it to the semi-finals. Which ever team wins the match between Aoba Johsai and Date Tech will be their next opponent. Date Tech was considered to be the underdog against Oikawa and Aoba Johsai, but they have a new strength on their side...",
+		"number": 19,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446882.jpg",
+		"airDate": "2016-02-14T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-20",
+		"title": "Wiping Out",
+		"description": "The semi-finals of the Spring Tournament. The ones that Karasuno has to face are their bitter rivals at Aoba Johsai High School. Getting over their past loss, they try to reach the finals. A battle with the new Karasuno is about to start.",
+		"number": 20,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446883.jpg",
+		"airDate": "2016-02-21T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-21",
+		"title": "The Destroyer",
+		"description": "Karasuno is facing a completely different Seijoh now that they've called in Kyotani. Karasuno can't seem to gt their rhythm together, meanwhile, Seijoh seems to pick themselves back up. When the flow of the game seems like it's going to change drastically, Karasuno...",
+		"number": 21,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446884.jpg",
+		"airDate": "2016-02-28T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-22",
+		"title": "The Former Coward's Fight",
+		"description": "As Seijoh takes the flow of the game, Keishin sends Yamaguchi out as a pinch server. Yamaguchi ran away from the Wakunan match, but now is he able to turn around this match?",
+		"number": 22,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446885.jpg",
+		"airDate": "2016-03-06T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-23",
+		"title": "\"Team\"",
+		"description": "The final set of the qualifier semi-finals continues with Karasuno and Seijoh. As the teams go neck and neck, both teams put everything they have into this final set.",
+		"number": 23,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446886.jpg",
+		"airDate": "2016-03-13T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-24",
+		"title": "The Absolute Limit Switch",
+		"description": "Neither team is willing to let the other team get ahead. They're both reaching their limit, yet the match continues. They proceed into the final battle to determine who will make it to the finals.",
+		"number": 24,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446887.jpg",
+		"airDate": "2016-03-20T00:00:00.000Z"
+	}, {
+		"id": "haikyuu-second-season-episode-25",
+		"title": "Declaration of War",
+		"description": "After defeating their fated rivals, the Karasuno High School Volleyball Club finally move on to the finals of the Miyazaki Prefecture Qualifiers of the Spring Tournament. They will be facing the strongest school in the prefecture, Shiratorizawa Academy. Their battle for the \"absolute king\" in order to get the one ticket to nationals beings!",
+		"number": 25,
+		"image": "https://artworks.thetvdb.com/banners/episodes/278157/5446888.jpg",
+		"airDate": "2016-03-27T00:00:00.000Z"
+	}]
+}
