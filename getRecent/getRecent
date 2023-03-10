@@ -1,4 +1,16 @@
 [
+
+    {
+        "animeId": "pokemon-aim-to-be-a-pokemon-master",
+        "episodeId": "pokemon-aim-to-be-a-pokemon-master-episode-9",
+        "name": "Pokémon: Aim to be a Pokémon Master",
+        "jname": "Pocket Monsters: Mezase Pokémon Master",
+        "episodeNum": "9",
+        "subOrDub": "sub",
+        "type": "tv",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+        "episodeUrl": "anime/pokemon-aim-to-be-a-pokemon-master"
+    },
     {
         "animeId": "pokemon-the-first-movie",
         "episodeId": "pokemon-the-first-movie-episode-1",
@@ -64,17 +76,6 @@
         "type": "tv",
         "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-ODIRpBIbR5Eu.jpg",
         "episodeUrl": "anime/shingeki-no-kyojin-the-final-season-part-2"
-    },
-    {
-        "animeId": "pokemon-aim-to-be-a-pokemon-master",
-        "episodeId": "pokemon-aim-to-be-a-pokemon-master-episode-8",
-        "name": "Pokémon: Aim to be a Pokémon Master",
-        "jname": "Pocket Monsters: Mezase Pokémon Master",
-        "episodeNum": "8",
-        "subOrDub": "sub",
-        "type": "tv",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
-        "episodeUrl": "anime/pokemon-aim-to-be-a-pokemon-master"
     },
     {
         "animeId": "ben-10-verusu-the-universe",
