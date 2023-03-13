@@ -360,6 +360,18 @@
             "genres": ["Comedy"]
         },
         {
+            "animeId": "one-piece-film-red",
+            "episodeId": "one-piece-film-red-episode-1",
+            "name": "One Piece Film: Red",
+            "jname": "ONE PIECE FILM: RED",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/one-piece-film-red",
+            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Music"]
+        },
+        {
             "animeId": "pokemon-journeys-the-series",
             "episodeId": "pokemon-journeys-the-series-episode-1",
             "name": "Pokemon Journeys: The Series",
