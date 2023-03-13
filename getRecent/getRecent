@@ -1,5 +1,16 @@
 [
     {
+        "animeId": "pokemon-the-movie-spell-of-the-unown",
+        "episodeId": "pokemon-the-movie-spell-of-the-unown-episode-1",
+        "name": "Pokémon 3: The Movie",
+        "jname": "Pocket Monsters: Kesshoutou no Teiou ENTEI",
+        "episodeNum": "1",
+        "subOrDub": "dub",
+        "type": "movie",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1118-90hGoWgDV1k4.jpg",
+        "episodeUrl": "../anime/pokemon-the-movie-spell-of-the-unown"
+    },
+    {
         "animeId": "pokemon-the-movie-2000",
         "episodeId": "pokemon-the-movie-2000-episode-1",
         "name": "Pokémon the Movie 2000",
