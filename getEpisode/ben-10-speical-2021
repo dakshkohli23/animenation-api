@@ -1,0 +1,38 @@
+[
+        {
+            "server1": "ilneie1y3o89",
+            "animeNameWithEP": "Ben 10 Special (2021) Episode 1 Dubbed",
+            "ep_num": "1",
+            "anime_info": "ben-10-speical-2021",
+            "movie_id": "102021",
+            "alias": "ben-10-speical-2021",
+            "nextEpText": "Ben 10 Special (2021) Episode 2 >>",
+            "nextEpLink": "/ben-10-speical-2021-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "afc0tsrtmo3v",
+            "animeNameWithEP": "Ben 10 Special (2021) Episode 2 Dubbed",
+            "ep_num": "2",
+            "anime_info": "ben-10-speical-2021",
+            "movie_id": "102021",
+            "alias": "ben-10-speical-2021",
+            "nextEpText": "Ben 10 Special (2021) Episode 3 >>",
+            "nextEpLink": "/ben-10-speical-2021-episode-3",
+            "prevEpText": "<< Ben 10 Special (2021) Episode 1",
+            "prevEpLink": "/ben-10-speical-2021-episode-1"
+        },
+        {
+            "server1": "qip5qkobwolp",
+            "animeNameWithEP": "Ben 10 Special (2021) Episode 3 Dubbed",
+            "ep_num": "3",
+            "anime_info": "ben-10-speical-2021",
+            "movie_id": "102021",
+            "alias": "ben-10-speical-2021",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Ben 10 Special (2021) Episode 2",
+            "prevEpLink": "/ben-10-speical-2021-episode-2"
+        }
+    ]
