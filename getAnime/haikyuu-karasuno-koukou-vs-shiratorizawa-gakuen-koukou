@@ -41,7 +41,86 @@
 	"studios": ["Production I.G"],
 	"subOrDub": "sub",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+      "id": 20464,
+      "malId": 20583,
+      "title": {
+        "romaji": "Haikyuu!!",
+		"english": "HAIKYU!!",
+		"native": "ハイキュー!!"
+      },
+      "status": "Completed",
+      "episodes": 25,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20464-PpYjO9cPN1gs.jpg",
+      "rating": 83,
+      "type": "tv",
+	  "animeurl": "haikyuu"
+    },
+	{
+      "id": 20992,
+      "malId": 28891,
+      "title": {
+        "romaji": "Haikyuu!! 2nd Season",
+		"english": "HAIKYU!! 2nd Season",
+		"native": "ハイキュー!! セカンドシーズン"
+      },
+      "status": "Completed",
+      "episodes": 25,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20992-QMdqxEjAIAit.jpg",
+      "rating": 86,
+      "type": "tv",
+	  "animeurl": "haikyuu-second-season"
+    },
+	{
+      "id": 21698,
+      "malId": 32935,
+      "title": {
+        "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+		"english": "HAIKYU!! 3rd Season",
+		"native": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校"
+      },
+      "status": "Completed",
+      "episodes": 10,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21698-jVFRIHAENS5B.jpg",
+      "rating": 87,
+      "type": "tv",
+	  "animeurl": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou"
+    },
+	{
+      "id": 106625,
+      "malId": 38883,
+      "title": {
+        "romaji": "Haikyuu!! TO THE TOP",
+		"english": "HAIKYU!! TO THE TOP",
+		"native": "ハイキュー!! TO THE TOP"
+      },
+      "status": "Completed",
+      "episodes": 13,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106625-wab2Mx4NQqPQ.jpg",
+      "rating": 83,
+      "type": "tv",
+	  "animeurl": "haikyuu-to-the-top"
+    },
+	{
+      "id": 113538,
+      "malId": 40776,
+      "title": {
+        "romaji": "Haikyuu!! TO THE TOP 2",
+		"english": "HAIKYU‼ TO THE TOP Part 2",
+		"native": "ハイキュー!! TO THE TOP 2"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113538-tHVE8j5mOPLu.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113538-YAcNXzT07eWR.jpg",
+      "rating": 85,
+      "type": "tv",
+	  "animeurl": "haikyuu-to-the-top-2"
+    }],
 	"characters": [{
 		"id": 64769,
 		"role": "MAIN",
