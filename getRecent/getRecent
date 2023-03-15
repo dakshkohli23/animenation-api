@@ -1,5 +1,27 @@
 [
     {
+        "animeId": "haikyuu-to-the-top-2",
+        "episodeId": "haikyuu-to-the-top-2-episode-1",
+        "name": "HAIKYU‼ TO THE TOP Part 2",
+        "jname": "Haikyuu!! TO THE TOP 2",
+        "episodeNum": "12",
+        "subOrDub": "dub",
+        "type": "tv",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113538-tHVE8j5mOPLu.jpg",
+        "episodeUrl": "../anime/haikyuu-to-the-top-2"
+    },
+    {
+        "animeId": "haikyuu-to-the-top",
+        "episodeId": "haikyuu-to-the-top-episode-1",
+        "name": "HAIKYU!! TO THE TOP",
+        "jname": "Haikyuu!! TO THE TOP",
+        "episodeNum": "13",
+        "subOrDub": "dub",
+        "type": "tv",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
+        "episodeUrl": "../anime/haikyuu-to-the-top"
+    },
+    {
         "animeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou",
         "episodeId": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou-episode-1",
         "name": "HAIKYU!! 3rd Season",
