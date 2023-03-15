@@ -360,6 +360,18 @@
             "genres": ["Action", "Drama", "Supernatural"]
         },
         {
+            "animeId": "jujutsu-kaisen-0",
+            "episodeId": "jujutsu-kaisen-0-episode-1",
+            "name": "JUJUTSU KAISEN 0",
+            "jname": "Jujutsu Kaisen 0",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131573-rpl82vDEDRm6.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/jujutsu-kaisen-0",
+            "genres": ["Action", "Supernatural"]
+        },
+        {
             "animeId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
             "episodeId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen-episode-1",
             "name": "Junior High and High School!! Kimetsu Academy Story",
