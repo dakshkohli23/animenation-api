@@ -420,6 +420,30 @@
             "genres": ["Adventure", "Drama", "Fantasy"]
         },
         {
+            "animeId": "pokemon-4ever-celebi-voice-of-the-forest",
+            "episodeId": "pokemon-4ever-celebi-voice-of-the-forest-episode-1",
+            "name": "Pokemon 4Ever: Celebi - Voice of the Forest",
+            "jname": "Pocket Monsters: Celebi Toki wo Koeta Deai",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1119-Vz0ohBLmZ5uP.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-4ever-celebi-voice-of-the-forest",
+            "genres": ["Adventure", "Comedy", "Drama"]
+        },
+        {
+            "animeId": "pokemon-heroes-latios-and-latias",
+            "episodeId": "pokemon-heroes-latios-and-latias-episode-1",
+            "name": "Pokemon Heroes: Latios and Latias",
+            "jname": "Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1120-dSMPMrXYWlER.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-heroes-latios-and-latias",
+            "genres": ["Adventure", "Comedy", "Drama"]
+        },
+        {
             "animeId": "pokemon-journeys-the-series",
             "episodeId": "pokemon-journeys-the-series-episode-1",
             "name": "Pokemon Journeys: The Series",
