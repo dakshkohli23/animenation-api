@@ -468,6 +468,18 @@
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
         {
+            "animeId": "pokemon-ranger-and-the-temple-of-the-sea",
+            "episodeId": "pokemon-ranger-and-the-temple-of-the-sea-episode-1",
+            "name": "Pokemon Ranger and the Temple of the Sea",
+            "jname": "Pocket Monsters Advanced Generation: Pokemon Ranger to Umi no Ouji Manaphy",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2201-1B1dS0NLJ3g5.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-ranger-and-the-temple-of-the-sea",
+            "genres": ["Adventure"]
+        },
+        {
             "animeId": "pokemon-the-movie-2000",
             "episodeId": "pokemon-the-movie-2000-episode-1",
             "name": "Pokemon the Movie 2000",
@@ -672,6 +684,18 @@
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
         {
+            "animeId": "pokemon-destiny-deoxys",
+            "episodeId": "pokemon-destiny-deoxys-episode-1",
+            "name": "Pokemon: Destiny Deoxys",
+            "jname": "Pocket Monsters Advanced Generation: Rekkuu no Houmonsha Deoxys",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1122-HCkAs0hqlJwK.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-destiny-deoxys",
+            "genres": ["Adventure", "Comedy"]
+        },
+        {
             "animeId": "pokemon-diamond-and-pearl",
             "episodeId": "pokemon-diamond-and-pearl-episode-1",
             "name": "Pokemon: Diamond and Pearl",
@@ -720,6 +744,18 @@
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
         {
+            "animeId": "pokemon-giratina-and-the-sky-warrior",
+            "episodeId": "pokemon-giratina-and-the-sky-warrior-episode-1",
+            "name": "Pokemon: Giratina and the Sky Warrior",
+            "jname": "Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Sheimi",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4026-HO7477AL7ym5.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-giratina-and-the-sky-warrior",
+            "genres": ["Action", "Adventure"]
+        },
+        {
             "animeId": "pokemon-indigo-league",
             "episodeId": "pokemon-indigo-league-episode-1",
             "name": "Pokemon: Indigo League",
@@ -732,6 +768,18 @@
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
         {
+            "animeId": "pokemon-jirachi-wish-maker",
+            "episodeId": "pokemon-jirachi-wish-maker-episode-1",
+            "name": "Pokemon: Jirachi Wish Maker",
+            "jname": "Pocket Monsters Advanced Generation: Nanayo no Negaiboshi Jirachi",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1121-yGTHBrWFTiBm.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-jirachi-wish-maker",
+            "genres": ["Adventure", "Comedy", "Drama", "Fantasy"]
+        },
+        {
             "animeId": "pokemon-johto-league-champions",
             "episodeId": "pokemon-johto-league-champions-episode-1",
             "name": "Pokemon: Johto League Champions",
@@ -742,6 +790,18 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-johto-league-champions",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
+        },
+        {
+            "animeId": "pokemon-lucario-and-the-mystery-of-mew",
+            "episodeId": "pokemon-lucario-and-the-mystery-of-mew-episode-1",
+            "name": "Pokemon: Lucario and the Mystery of Mew",
+            "jname": "Pocket Monsters Advanced Generation: Mew to Hadou no Yuusha Lucario",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1526-ddJiHHGNikuY.png",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-lucario-and-the-mystery-of-mew",
+            "genres": ["Action", "Adventure", "Drama", "Fantasy"]
         },
         {
             "animeId": "pokemon-master-quest",
@@ -778,6 +838,18 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-johto-journeys",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
+        },
+        {
+            "animeId": "pokemon-the-rise-of-darkrai",
+            "episodeId": "pokemon-the-rise-of-darkrai-episode-1",
+            "name": "Pokemon: The Rise of Darkrai",
+            "jname": "Pocket Monsters Diamond & Pearl: Dialga VS Palkia VS Darkrai",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2847-BBQFXVTiy6H7.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-the-rise-of-darkrai",
+            "genres": ["Adventure", "Comedy"]
         },
         {
             "animeId": "pokemon-twilight-wings",
