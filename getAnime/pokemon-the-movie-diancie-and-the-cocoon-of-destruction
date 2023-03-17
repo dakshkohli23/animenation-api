@@ -36,7 +36,7 @@
 	"currentEpisode": 1,
 	"rating": 63,
 	"duration": 76,
-	"genres": [],
+	"genres": ["Adventure", "Comedy", "Fantasy"],
 	"season": "SUMMER",
 	"studios": ["OLM"],
 	"subOrDub": "dub",
