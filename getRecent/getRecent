@@ -1,5 +1,71 @@
 [
     {
+        "animeId": "pokemon-the-movie-secrets-of-the-jungle",
+        "episodeId": "pokemon-the-movie-secrets-of-the-jungle-episode-1",
+        "name": "Pokémon the Movie: Secrets of the Jungle",
+        "jname": "Pocket Monsters: Coco",
+        "episodeNum": "1",
+        "subOrDub": "dub",
+        "type": "movie",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114564-Imh6m5Tejii6.jpg",
+        "episodeUrl": "../anime/pokemon-the-movie-secrets-of-the-jungle"
+    },
+    {
+        "animeId": "pokemon-mewtwo-strikes-back-evolution",
+        "episodeId": "pokemon-mewtwo-strikes-back-evolution-episode-1",
+        "name": "Pokémon: Mewtwo Strikes Back—Evolution",
+        "jname": "Pocket Monsters: Mewtwo no Gyakushuu EVOLUTION",
+        "episodeNum": "1",
+        "subOrDub": "dub",
+        "type": "movie",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106287-THH8DMCFuVNc.png",
+        "episodeUrl": "../anime/pokemon-mewtwo-strikes-back-evolution"
+    },
+    {
+        "animeId": "pokemon-the-movie-the-power-of-us",
+        "episodeId": "pokemon-the-movie-the-power-of-us-episode-1",
+        "name": "Pokémon the Movie: The Power of Us",
+        "jname": "Pocket Monsters: Minna no Monogatari",
+        "episodeNum": "1",
+        "subOrDub": "dub",
+        "type": "movie",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100744-Ys3JTKSHg3Gv.png",
+        "episodeUrl": "../anime/pokemon-the-movie-the-power-of-us"
+    },
+    {
+        "animeId": "pokemon-the-movie-i-choose-you",
+        "episodeId": "pokemon-the-movie-i-choose-you-episode-1",
+        "name": "Pokémon the Movie: I Choose You!",
+        "jname": "Pocket Monsters: Kimi ni Kimeta!",
+        "episodeNum": "1",
+        "subOrDub": "dub",
+        "type": "movie",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98298-Yqus4jNiTNgf.png",
+        "episodeUrl": "../anime/pokemon-the-movie-i-choose-you"
+    },
+    {
+        "animeId": "pokemon-the-movie-volcanion-and-the-mechanical-marvel",
+        "episodeId": "pokemon-the-movie-volcanion-and-the-mechanical-marvel-episode-1",
+        "name": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+        "jname": "Pocket Monsters XY & Z: Volcanion to Karakuri no Magearna",
+        "episodeNum": "1",
+        "subOrDub": "dub",
+        "type": "movie",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98298-Yqus4jNiTNgf.png",
+        "episodeUrl": "../anime/pokemon-the-movie-volcanion-and-the-mechanical-marvel"
+    },
+    {
+        "animeId": "pokemon-the-movie-hoopa-and-the-clash-of-ages",
+        "episodeId": "pokemon-the-movie-hoopa-and-the-clash-of-ages-episode-1",
+        "name": "Pokémon the Movie: Hoopa and the Clash of Ages",
+        "jname": "Pocket Monsters XY: Ring no Chou Majin Hoopa",
+        "episodeNum": "1",
+        "subOrDub": "dub",
+        "type": "movie",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21266-5okUsTjY5nJl.png",
+        "episodeUrl": "../anime/pokemon-the-movie-hoopa-and-the-clash-of-ages"
+    },
+    {
         "animeId": "pokemon-giratina-and-the-sky-warrior",
         "episodeId": "pokemon-giratina-and-the-sky-warrior-episode-1",
         "name": "Pokémon: Giratina and the Sky Warrior",
@@ -163,237 +229,5 @@
         "type": "tv",
         "imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
         "episodeUrl": "../anime/pokemon-ultimate-journeys"
-    },
-
-    {
-        "animeId": "pokemon-aim-to-be-a-pokemon-master",
-        "episodeId": "pokemon-aim-to-be-a-pokemon-master-episode-9",
-        "name": "Pokémon: Aim to be a Pokémon Master",
-        "jname": "Pocket Monsters: Mezase Pokémon Master",
-        "episodeNum": "9",
-        "subOrDub": "sub",
-        "type": "tv",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
-        "episodeUrl": "anime/pokemon-aim-to-be-a-pokemon-master"
-    },
-    {
-        "animeId": "pokemon-the-first-movie",
-        "episodeId": "pokemon-the-first-movie-episode-1",
-        "name": "Pokémon: The First Movie",
-        "jname": "Pocket Monsters: Mewtwo no Gyakushuu",
-        "episodeNum": "1",
-        "subOrDub": "dub",
-        "type": "movie",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx528-HIz7955MvEnN.jpg",
-        "episodeUrl": "../anime/pokemon-the-first-movie"
-    },
-    {
-        "animeId": "haikyuu-second-season",
-        "episodeId": "haikyuu-second-season-episode-1",
-        "name": "HAIKYU!! 2nd Season",
-        "jname": "Haikyuu!! 2nd Season",
-        "episodeNum": "25",
-        "subOrDub": "dub",
-        "type": "tv",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
-        "episodeUrl": "../anime/haikyuu-second-season"
-    },
-    {
-        "animeId": "haikyuu",
-        "episodeId": "haikyuu-episode-1",
-        "name": "HAIKYU!!",
-        "jname": "Haikyuu!!",
-        "episodeNum": "25",
-        "subOrDub": "dub",
-        "type": "tv",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png",
-        "episodeUrl": "../anime/haikyuu"
-    },
-    {
-        "animeId": "shingeki-no-kyojin-the-final-season-kanketsu-hen",
-        "episodeId": "shingeki-no-kyojin-the-final-season-kanketsu-hen-episode-1",
-        "name": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
-        "jname": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
-        "episodeNum": "1",
-        "subOrDub": "sub",
-        "type": "special",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
-        "episodeUrl": "anime/shingeki-no-kyojin-the-final-season-kanketsu-hen"
-    },
-    {
-        "animeId": "shingeki-no-kyojin-the-final-season-part-2",
-        "episodeId": "shingeki-no-kyojin-the-final-season-part-2-episode-1",
-        "name": "Attack on Titan Final Season Part 2",
-        "jname": "Shingeki no Kyojin: The Final Season Part 2",
-        "episodeNum": "12",
-        "subOrDub": "dub",
-        "type": "tv",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-ODIRpBIbR5Eu.jpg",
-        "episodeUrl": "anime/shingeki-no-kyojin-the-final-season-part-2"
-    },
-    {
-        "animeId": "ben-10-verusu-the-universe",
-        "episodeId": "ben-10-verusu-the-universe-episode-1",
-        "name": "Ben 10 Versus the Universe: The Movie",
-        "jname": "Ben 10 Versus the Universe: The Movie",
-        "episodeNum": "1",
-        "subOrDub": "dub",
-        "type": "movie",
-        "imgUrl": "../cover/ben-10-verusu-the-universe-poster.jpg",
-        "episodeUrl": "anime/ben-10-verusu-the-universe"
-    },
-    {
-        "animeId": "ben-10-race-against-time",
-        "episodeId": "ben-10-race-against-time-episode-1",
-        "name": "Ben 10: Race Against Time",
-        "jname": "Ben 10: Race Against Time",
-        "episodeNum": "1",
-        "subOrDub": "dub",
-        "type": "movie",
-        "imgUrl": "../cover/ben-10-race-against-time-poster.jpg",
-        "episodeUrl": "anime/ben-10-race-against-time"
-    },
-    {
-        "animeId": "ben-10-destroy-all-aliens",
-        "episodeId": "ben-10-destroy-all-aliens-episode-1",
-        "name": "Ben 10: Destroy All Aliens",
-        "jname": "Ben 10: Destroy All Aliens",
-        "episodeNum": "1",
-        "subOrDub": "dub",
-        "type": "movie",
-        "imgUrl": "../cover/ben-10-destroy-all-aliens-poster.jpg",
-        "episodeUrl": "anime/ben-10-destroy-all-aliens"
-    },
-    {
-        "animeId": "shingeki-no-kyojin-the-final-season",
-        "episodeId": "shingeki-no-kyojin-the-final-season-episode-1",
-        "name": "Attack on Titan Final Season",
-        "jname": "Shingeki no Kyojin: The Final Season",
-        "episodeNum": "16",
-        "subOrDub": "dub",
-        "type": "tv",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-qDRIhu50PXzz.jpg",
-        "episodeUrl": "anime/shingeki-no-kyojin-the-final-season"
-    },
-    {
-        "animeId": "ben-10-alien-swarm",
-        "episodeId": "ben-10-alien-swarm-episode-1",
-        "name": "Ben 10 Alien Swarm",
-        "jname": "Ben 10 Alien Swarm",
-        "episodeNum": "1",
-        "subOrDub": "dub",
-        "type": "movie",
-        "imgUrl": "../cover/ben-10-alien-swarm-poster.jpg",
-        "episodeUrl": "anime/ben-10-alien-swarm"
-    },
-    {
-        "animeId": "pokemon-twilight-wings",
-        "episodeId": "pokemon-twilight-wings-episode-1",
-        "name": "Pokémon: Twilight Wings",
-        "jname": "Hakumei no Tsubasa",
-        "episodeNum": "8",
-        "subOrDub": "dub",
-        "type": "ona",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113932-2sY3uAQq9qSz.png",
-        "episodeUrl": "anime/pokemon-twilight-wings"
-    },
-    {
-        "animeId": "secret-of-the-omnitrix",
-        "episodeId": "secret-of-the-omnitrix-episode-1",
-        "name": "Ben 10: Secret of the Omnitrix",
-        "jname": "Ben 10: Secret of the Omnitrix",
-        "episodeNum": "1",
-        "subOrDub": "dub",
-        "type": "movie",
-        "imgUrl": "../cover/secret-of-the-omnitrix-poster.jpg",
-        "episodeUrl": "anime/secret-of-the-omnitrix"
-    },
-    {
-        "animeId": "ben-10-speical-2021",
-        "episodeId": "ben-10-speical-2021-episode-1",
-        "name": "Ben 10 Special (2021)",
-        "jname": "Ben 10 Special (2021)",
-        "episodeNum": "3",
-        "subOrDub": "dub",
-        "type": "special",
-        "imgUrl": "../cover/ben-10-speical-2021-poster.jpg",
-        "episodeUrl": "anime/ben-10-speical-2021"
-    },
-    {
-        "animeId": "shingeki-no-kyojin-3-part-2",
-        "episodeId": "shingeki-no-kyojin-3-part-2-episode-1",
-        "name": "Attack on Titan Season 3 Part 2",
-        "jname": "Shingeki no Kyojin 3 Part 2",
-        "episodeNum": "10",
-        "subOrDub": "dub",
-        "type": "tv",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-LaZYFkmhinfB.jpg",
-        "episodeUrl": "anime/shingeki-no-kyojin-3-part-2"
-    },
-    {
-        "animeId": "shingeki-no-kyojin-3",
-        "episodeId": "shingeki-no-kyojin-3-episode-1",
-        "name": "Attack on Titan Season 3",
-        "jname": "Shingeki no Kyojin 3",
-        "episodeNum": "12",
-        "subOrDub": "dub",
-        "type": "tv",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-5RXELRvwjFl6.jpg",
-        "episodeUrl": "anime/shingeki-no-kyojin-3"
-    },
-    {
-        "animeId": "shingeki-no-kyojin-2",
-        "episodeId": "shingeki-no-kyojin-2-episode-1",
-        "name": "Attack on Titan Season 2",
-        "jname": "Shingeki no Kyojin 2",
-        "episodeNum": "12",
-        "subOrDub": "dub",
-        "type": "tv",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
-        "episodeUrl": "anime/shingeki-no-kyojin-2"
-    },
-    {
-        "animeId": "ben-10-ultimate-alien",
-        "episodeId": "ben-10-ultimate-alien-episode-1",
-        "name": "Ben 10: Ultimate Alien",
-        "jname": "Ben 10: Ultimate Alien",
-        "episodeNum": "52",
-        "subOrDub": "dub",
-        "type": "tv",
-        "imgUrl": "../cover/ben-10-ultimate-alien-poster.jpg",
-        "episodeUrl": "anime/ben-10-ultimate-alien"
-    },
-    {
-        "animeId": "ben-10-2016",
-        "episodeId": "ben-10-2016-episode-1",
-        "name": "Ben 10 (2016)",
-        "jname": "Ben 10 (2016)",
-        "episodeNum": "166",
-        "subOrDub": "dub",
-        "type": "tv",
-        "imgUrl": "../cover/ben-10-2016-poster.jpg",
-        "episodeUrl": "anime/ben-10-2016"
-    },
-    {
-        "animeId": "ben-10-alien-force",
-        "episodeId": "ben-10-alien-force-episode-1",
-        "name": "Ben 10: Alien Force",
-        "jname": "Ben 10: Alien Force",
-        "episodeNum": "46",
-        "subOrDub": "dub",
-        "type": "tv",
-        "imgUrl": "../cover/ben-10-alien-force-poster.jpg",
-        "episodeUrl": "anime/ben-10-alien-force"
-    },
-    {
-        "animeId": "ben-10",
-        "episodeId": "ben-10-episode-1",
-        "name": "Ben 10 (2005)",
-        "jname": "Ben 10 (2005)",
-        "episodeNum": "52",
-        "subOrDub": "dub",
-        "type": "tv",
-        "imgUrl": "../cover/ben-10-poster.jpg",
-        "episodeUrl": "anime/ben-10"
     }
 ]
