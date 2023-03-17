@@ -492,6 +492,126 @@
             "genres": ["Adventure", "Drama", "Fantasy"]
         },
         {
+            "animeId": "pokemon-the-movie-black-victini-and-reshiram",
+            "episodeId": "pokemon-the-movie-black-victini-and-reshiram-episode-1",
+            "name": "Pokemon the Movie: Black—Victini and Reshiram",
+            "jname": "Pocket Monsters Best Wishes!: Victini to Shiroki Eiyuu Reshiram",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10740.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-the-movie-black-victini-and-reshiram",
+            "genres": ["Adventure", "Comedy"]
+        },
+        {
+            "animeId": "pokemon-the-movie-diancie-and-the-cocoon-of-destruction",
+            "episodeId": "pokemon-the-movie-diancie-and-the-cocoon-of-destruction-episode-1",
+            "name": "Pokemon the Movie: Diancie and the Cocoon of Destruction",
+            "jname": "Pocket Monsters XY: Hakai no Mayu to Diancie",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20644-qgK3C0fOFR8b.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-the-movie-diancie-and-the-cocoon-of-destruction",
+            "genres": ["Adventure", "Comedy", "Fantasy"]
+        },
+        {
+            "animeId": "pokemon-the-movie-genesect-and-the-legend-awakened",
+            "episodeId": "pokemon-the-movie-genesect-and-the-legend-awakened-episode-1",
+            "name": "Pokemon the Movie: Genesect and the Legend Awakened",
+            "jname": "Pocket Monsters Best Wishes! Shinsoku no Genesect: Mewtwo Kakusei",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16680.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-the-movie-genesect-and-the-legend-awakened",
+            "genres": ["Adventure", "Comedy", "Fantasy"]
+        },
+        {
+            "animeId": "pokemon-the-movie-hoopa-and-the-clash-of-ages",
+            "episodeId": "pokemon-the-movie-hoopa-and-the-clash-of-ages-episode-1",
+            "name": "Pokemon the Movie: Hoopa and the Clash of Ages",
+            "jname": "Pocket Monsters XY: Ring no Chou Majin Hoopa",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21266-5okUsTjY5nJl.png",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-the-movie-hoopa-and-the-clash-of-ages",
+            "genres": ["Adventure", "Fantasy"]
+        },
+        {
+            "animeId": "pokemon-the-movie-i-choose-you",
+            "episodeId": "pokemon-the-movie-i-choose-you-episode-1",
+            "name": "Pokemon the Movie: I Choose You!",
+            "jname": "Pocket Monsters: Kimi ni Kimeta!",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98298-Yqus4jNiTNgf.png",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-the-movie-i-choose-you",
+            "genres": ["Action", "Adventure"]
+        },
+        {
+            "animeId": "pokemon-the-movie-kyurem-vs-the-sword-of-justice",
+            "episodeId": "pokemon-the-movie-kyurem-vs-the-sword-of-justice-episode-1",
+            "name": "Pokemon the Movie: Kyurem VS. The Sword of Justice",
+            "jname": "Pocket Monsters Best Wishes: Kyurem VS Seikenshi",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12671-q8KLIPmicj8R.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-the-movie-kyurem-vs-the-sword-of-justice",
+            "genres": ["Adventure", "Comedy"]
+        },
+        {
+            "animeId": "pokemon-the-movie-secrets-of-the-jungle",
+            "episodeId": "pokemon-the-movie-secrets-of-the-jungle-episode-1",
+            "name": "Pokemon the Movie: Secrets of the Jungle",
+            "jname": "Pocket Monsters: Coco",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114564-Imh6m5Tejii6.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-the-movie-secrets-of-the-jungle",
+            "genres": ["Action", "Adventure"]
+        },
+        {
+            "animeId": "pokemon-the-movie-the-power-of-us",
+            "episodeId": "pokemon-the-movie-the-power-of-us-episode-1",
+            "name": "Pokemon the Movie: The Power of Us",
+            "jname": "Pocket Monsters: Minna no Monogatari",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100744-Ys3JTKSHg3Gv.png",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-the-movie-the-power-of-us",
+            "genres": ["Adventure", "Fantasy"]
+        },
+        {
+            "animeId": "pokemon-the-movie-volcanion-and-the-mechanical-marvel",
+            "episodeId": "pokemon-the-movie-volcanion-and-the-mechanical-marvel-episode-1",
+            "name": "Pokemon the Movie: Volcanion and the Mechanical Marvel",
+            "jname": "Pocket Monsters XY & Z: Volcanion to Karakuri no Magearna",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21651-n7dDqmZQqy3z.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-the-movie-volcanion-and-the-mechanical-marvel",
+            "genres": ["Adventure", "Fantasy"]
+        },
+        {
+            "animeId": "pokemon-the-movie-white-victini-and-zekrom",
+            "episodeId": "pokemon-the-movie-white-victini-and-zekrom-episode-1",
+            "name": "Pokemon the Movie: White—Victini and Zekrom",
+            "jname": "Pocket Monsters Best Wishes!: Victini to Kuroki Eiyuu Zekrom",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9917.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-the-movie-white-victini-and-zekrom",
+            "genres": ["Adventure", "Comedy"]
+        },
+        {
             "animeId": "pokemon-the-series-sun-moon",
             "episodeId": "pokemon-the-series-sun-moon-episode-1",
             "name": "Pokemon The Series: Sun & Moon",
@@ -634,6 +754,18 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-aim-to-be-a-pokemon-master",
             "genres": ["Adventure", "Fantasy"]
+        },
+        {
+            "animeId": "pokemon-arceus-and-the-jewel-of-life",
+            "episodeId": "pokemon-arceus-and-the-jewel-of-life-episode-1",
+            "name": "Pokemon: Arceus and the Jewel of Life",
+            "jname": "Pocket Monsters Diamond & Pearl: Arceus Choukoku no Jikuu e",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6178-QtPWVxYMR2V5.png",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-arceus-and-the-jewel-of-life",
+            "genres": ["Adventure", "Comedy"]
         },
         {
             "animeId": "pokemon-battle-frontier",
@@ -816,6 +948,18 @@
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"]
         },
         {
+            "animeId": "pokemon-mewtwo-strikes-back-evolution",
+            "episodeId": "pokemon-mewtwo-strikes-back-evolution-episode-1",
+            "name": "Pokemon: Mewtwo Strikes Back—Evolution",
+            "jname": "Pocket Monsters: Mewtwo no Gyakushuu EVOLUTION",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106287-THH8DMCFuVNc.png",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-mewtwo-strikes-back-evolution",
+            "genres": ["Adventure", "Comedy", "Drama", "Fantasy", "Sci-Fi"]
+        },
+        {
             "animeId": "pokemon-the-first-movie",
             "episodeId": "pokemon-the-first-movie-episode-1",
             "name": "Pokemon: The First Movie",
@@ -862,6 +1006,18 @@
             "type": "ona",
             "episodeUrl": "anime/pokemon-twilight-wings",
             "genres": ["Adventure", "Drama", "Fantasy", "Slice of Life"]
+        },
+        {
+            "animeId": "pokemon-zoroark-master-of-illusions",
+            "episodeId": "pokemon-zoroark-master-of-illusions-episode-1",
+            "name": "Pokemon: Zoroark—Master of Illusions",
+            "jname": "Pocket Monsters Diamond & Pearl: Genei no Hasha Zoroark",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7695-bgE6h1GXxWMG.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/pokemon-zoroark-master-of-illusions",
+            "genres": ["Action", "Adventure"]
         },
         {
             "animeId": "spy-x-family",
