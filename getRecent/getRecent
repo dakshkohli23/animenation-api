@@ -1,5 +1,16 @@
 [
     {
+        "animeId": "pokemon-ultimate-journeys",
+        "episodeId": "pokemon-ultimate-journeys-episode-10",
+        "name": "Pokémon: Aim to be a Pokémon Master",
+        "jname": "Pocket Monsters: Mezase Pokémon Master",
+        "episodeNum": "35",
+        "subOrDub": "dub",
+        "type": "tv",
+        "imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
+        "episodeUrl": "../anime/pokemon-ultimate-journeys"
+    },
+    {
         "animeId": "pokemon-aim-to-be-a-pokemon-master",
         "episodeId": "pokemon-aim-to-be-a-pokemon-master-episode-10",
         "name": "Pokémon: Aim to be a Pokémon Master",
