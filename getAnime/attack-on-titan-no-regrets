@@ -1,0 +1,546 @@
+{
+	"id": "20811",
+	"title": {
+		"romaji": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
+		"english": "Attack on Titan: No Regrets",
+		"native": "進撃の巨人 外伝 悔いなき選択"
+	},
+	"malId": 25781,
+	"synonyms": ["SnK", "AoT", "ผ่าพิภพไททัน ภาค OAD No Regret", "ผ่าพิภพไททัน OAD "],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "M2XXbgIu4PU",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/M2XXbgIu4PU/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20811-IvXLdxZkYNcP.jpg",
+	"popularity": 100655,
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20811-xIuYL1yGMT5S.jpg",
+	"description": "This prequel to megahit Attack on Titan answers the questions: How did Captain Levi of the Survey Corps go from street thug to humanity's strongest soldier? And how did Commander Erwin become a cold, calculating leader, ready to sacrifice anything to save the human race? The fires that forged this bond of loyalty and trust were intense indeed!\n<br><br>\n(Source: Anime News Network, revised)",
+	"status": "Completed",
+	"releaseDate": 2014,
+	"startDate": {
+		"year": 2014,
+		"month": 12,
+		"day": 9
+	},
+	"endDate": {
+		"year": 2015,
+		"month": 4,
+		"day": 9
+	},
+	"totalEpisodes": 2,
+	"currentEpisode": 2,
+	"rating": 82,
+	"duration": 28,
+	"genres": ["Action", "Fantasy"],
+	"season": "WINTER",
+	"studios": ["Wit Studio"],
+	"subOrDub": "sub",
+	"type": "OVA",
+	"recommendations": [],
+	"characters": [{
+		"id": 45627,
+		"role": "MAIN",
+		"name": {
+			"first": "Levi",
+			"last": "",
+			"full": "Levi",
+			"native": "リヴァイ",
+			"userPreferred": "Levi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
+		"voiceActors": [{
+			"id": 95118,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroshi",
+				"last": "Kamiya",
+				"full": "Hiroshi Kamiya",
+				"native": "神谷浩史",
+				"userPreferred": "Hiroshi Kamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+		}, {
+			"id": 190265,
+			"language": "Portuguese",
+			"name": {
+				"first": "Bruno",
+				"last": "Sangregório",
+				"full": "Bruno Sangregório",
+				"native": null,
+				"userPreferred": "Bruno Sangregório"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190265-ECLpJul29fUS.png"
+		}]
+	}, {
+		"id": 46496,
+		"role": "MAIN",
+		"name": {
+			"first": "Erwin",
+			"last": "Smith",
+			"full": "Erwin Smith",
+			"native": "エルヴィン・スミス",
+			"userPreferred": "Erwin Smith"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png",
+		"voiceActors": [{
+			"id": 95212,
+			"language": "Japanese",
+			"name": {
+				"first": "Daisuke",
+				"last": "Ono",
+				"full": "Daisuke Ono",
+				"native": "小野大輔",
+				"userPreferred": "Daisuke Ono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95212-wX1M4LJN96q2.png"
+		}, {
+			"id": 195092,
+			"language": "Portuguese",
+			"name": {
+				"first": "Guilherme",
+				"last": "Marques",
+				"full": "Guilherme Marques",
+				"native": null,
+				"userPreferred": "Guilherme Marques"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195092-e5zNFTfGRO2F.jpg"
+		}]
+	}, {
+		"id": 87928,
+		"role": "MAIN",
+		"name": {
+			"first": "Furlan",
+			"last": "Church",
+			"full": "Furlan Church",
+			"native": "ファーラン・チャーチ",
+			"userPreferred": "Furlan Church"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n87928-Dfg1T9uJBZ4s.jpg",
+		"voiceActors": [{
+			"id": 95068,
+			"language": "Japanese",
+			"name": {
+				"first": "Kouji",
+				"last": "Yusa",
+				"full": "Kouji Yusa",
+				"native": "遊佐浩二",
+				"userPreferred": "Kouji Yusa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95068-nf823DpvyKof.jpg"
+		}, {
+			"id": 156142,
+			"language": "English",
+			"name": {
+				"first": "Ryan",
+				"last": "Levy",
+				"full": "Ryan Levy",
+				"native": null,
+				"userPreferred": "Ryan Colt Levy"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n156142-sTdHTKMWD61L.jpg"
+		}, {
+			"id": 197596,
+			"language": "Portuguese",
+			"name": {
+				"first": "Bruno ",
+				"last": "Casemiro",
+				"full": "Bruno  Casemiro",
+				"native": null,
+				"userPreferred": "Bruno  Casemiro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197596-SEtg1UBGon8k.jpg"
+		}]
+	}, {
+		"id": 87929,
+		"role": "MAIN",
+		"name": {
+			"first": "Isabel",
+			"last": "Magnolia",
+			"full": "Isabel Magnolia",
+			"native": "イザベル・マグノリア",
+			"userPreferred": "Isabel Magnolia"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n87929-FobmgcjvYLJI.jpg",
+		"voiceActors": [{
+			"id": 95655,
+			"language": "Japanese",
+			"name": {
+				"first": "Mariya",
+				"last": "Ise",
+				"full": "Mariya Ise",
+				"native": "伊瀬茉莉也",
+				"userPreferred": "Mariya Ise"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95655-KbQUnQTroukJ.png"
+		}, {
+			"id": 120664,
+			"language": "English",
+			"name": {
+				"first": "Kristen",
+				"last": "McGuire",
+				"full": "Kristen McGuire",
+				"native": null,
+				"userPreferred": "Kristen McGuire"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120664-R9g32vsbhPaO.jpg"
+		}, {
+			"id": 262307,
+			"language": "Portuguese",
+			"name": {
+				"first": "Manuela",
+				"last": "Origuella",
+				"full": "Manuela Origuella",
+				"native": null,
+				"userPreferred": "Manuela Origuella"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n262307-udK98NDql5DJ.jpg"
+		}]
+	}, {
+		"id": 131213,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Flagon",
+			"last": null,
+			"full": "Flagon",
+			"native": "フラゴン",
+			"userPreferred": "Flagon"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n131213-CkQZP1C7OFw5.png",
+		"voiceActors": [{
+			"id": 95591,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenjirou",
+				"last": "Tsuda",
+				"full": "Kenjirou Tsuda",
+				"native": "津田健次郎",
+				"userPreferred": "Kenjirou Tsuda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+		}, {
+			"id": 279006,
+			"language": "Portuguese",
+			"name": {
+				"first": "André",
+				"last": "Mello",
+				"full": "André Mello",
+				"native": null,
+				"userPreferred": "André Mello"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n279006-xgoDoUXJmVIz.jpg"
+		}]
+	}, {
+		"id": 131214,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Nicholas",
+			"last": "Lovof",
+			"full": "Nicholas Lovof",
+			"native": "ニコラス・ロヴォフ",
+			"userPreferred": "Nicholas Lovof"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n131214-H4OCleYZYXbM.png",
+		"voiceActors": [{
+			"id": 100427,
+			"language": "Japanese",
+			"name": {
+				"first": "Takaya",
+				"last": "Hashi",
+				"full": "Takaya Hashi",
+				"native": "土師孝也",
+				"userPreferred": "Takaya Hashi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100427-rXj5mx6gGNfH.png"
+		}, {
+			"id": 172646,
+			"language": "English",
+			"name": {
+				"first": "David",
+				"last": "Sobolov",
+				"full": "David Sobolov",
+				"native": null,
+				"userPreferred": "David Sobolov"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n172646-RK6DsLBzByW2.jpg"
+		}, {
+			"id": 175181,
+			"language": "Portuguese",
+			"name": {
+				"first": " Luiz Carlos",
+				"last": "Persy",
+				"full": " Luiz Carlos Persy",
+				"native": null,
+				"userPreferred": " Luiz Carlos Persy"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175181-r4CfS7jsTXlq.png"
+		}]
+	}, {
+		"id": 71121,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hange",
+			"last": "Zoe",
+			"full": "Hange Zoe",
+			"native": "ハンジ・ゾエ",
+			"userPreferred": "Hange Zoe"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png",
+		"voiceActors": [{
+			"id": 95082,
+			"language": "Japanese",
+			"name": {
+				"first": "Romi",
+				"last": "Park",
+				"full": "Romi Park",
+				"native": "朴璐美",
+				"userPreferred": "Romi Park"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95082-pNGbnYv4cHAK.png"
+		}, {
+			"id": 199394,
+			"language": "Portuguese",
+			"name": {
+				"first": "Paola",
+				"last": "Molinari",
+				"full": "Paola Molinari",
+				"native": null,
+				"userPreferred": "Paola Molinari"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n199394-woYf7ea0SDcf.jpg"
+		}]
+	}, {
+		"id": 137155,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yan",
+			"last": null,
+			"full": "Yan",
+			"native": "ヤン",
+			"userPreferred": "Yan"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137155-iyCqg8hDghuM.png",
+		"voiceActors": [{
+			"id": 105639,
+			"language": "Japanese",
+			"name": {
+				"first": "Manabu",
+				"last": "Sakamaki",
+				"full": "Manabu Sakamaki",
+				"native": "学 坂巻",
+				"userPreferred": "Manabu Sakamaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/10639.jpg"
+		}]
+	}, {
+		"id": 84305,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Keith",
+			"last": "Shadis",
+			"full": "Keith Shadis",
+			"native": "キース・シャーディス",
+			"userPreferred": "Keith Shadis"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n84305-15nngV5nTUp6.png",
+		"voiceActors": [{
+			"id": 103730,
+			"language": "Japanese",
+			"name": {
+				"first": "Tsuguo",
+				"last": "Mogami",
+				"full": "Tsuguo Mogami",
+				"native": "最上嗣生",
+				"userPreferred": "Tsuguo Mogami"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103730-qtf6D57hUNAf.jpg"
+		}, {
+			"id": 185881,
+			"language": "Portuguese",
+			"name": {
+				"first": "Cassiano",
+				"last": "Ávila",
+				"full": "Cassiano Ávila",
+				"native": null,
+				"userPreferred": "Cassiano Ávila"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185881-tlLhn9XhlurL.jpg"
+		}]
+	}, {
+		"id": 71119,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mike",
+			"last": "Zacharias",
+			"full": "Mike Zacharias",
+			"native": "マイク・ザカリアス",
+			"userPreferred": "Mike Zacharias"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/71119.jpg",
+		"voiceActors": [{
+			"id": 95720,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenta",
+				"last": "Miyake",
+				"full": "Kenta Miyake",
+				"native": "三宅健太",
+				"userPreferred": "Kenta Miyake"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+		}, {
+			"id": 202446,
+			"language": "Portuguese",
+			"name": {
+				"first": "Wilken",
+				"last": "Mazzei",
+				"full": "Wilken Mazzei",
+				"native": null,
+				"userPreferred": "Wilken Mazzei"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n202446-zVd45Xfnc3yo.png"
+		}]
+	}, {
+		"id": 127573,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Moblit",
+			"last": "Berner",
+			"full": "Moblit Berner",
+			"native": "モブリット・バーナー",
+			"userPreferred": "Moblit Berner"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n127573-VSYSvQ1VK1c7.jpg",
+		"voiceActors": [{
+			"id": 100928,
+			"language": "Japanese",
+			"name": {
+				"first": "Rintarou",
+				"last": "Nishi",
+				"full": "Rintarou Nishi",
+				"native": "西凜太朗",
+				"userPreferred": "Rintarou Nishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100928-OfFb5f55VSFB.png"
+		}, {
+			"id": 141356,
+			"language": "Portuguese",
+			"name": {
+				"first": "Alexander",
+				"last": "Vestri",
+				"full": "Alexander Vestri",
+				"native": null,
+				"userPreferred": "Alexander Vestri"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141356-XbKxmfHlDpdz.jpg"
+		}]
+	}, {
+		"id": 71125,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Darius",
+			"last": "Zackly",
+			"full": "Darius Zackly",
+			"native": "ダリス・ザックレー",
+			"userPreferred": "Darius Zackly"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71125-XXymqijVoYzV.png",
+		"voiceActors": []
+	}, {
+		"id": 36309,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Narrator",
+			"last": null,
+			"full": "Narrator",
+			"native": "ナレーター",
+			"userPreferred": "Narrator"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg",
+		"voiceActors": [{
+			"id": 95158,
+			"language": "Japanese",
+			"name": {
+				"first": "Marina",
+				"last": "Inoue",
+				"full": "Marina Inoue",
+				"native": "井上麻里奈",
+				"userPreferred": "Marina Inoue"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg"
+		}, {
+			"id": 197181,
+			"language": "Portuguese",
+			"name": {
+				"first": "Pedro",
+				"last": "Volpato",
+				"full": "Pedro Volpato",
+				"native": null,
+				"userPreferred": "Pedro Volpato"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197181-nfs4vEHAahR1.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 85199,
+		"relationType": "ADAPTATION",
+		"malId": 58007,
+		"title": {
+			"romaji": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
+			"english": "Attack on Titan: No Regrets",
+			"native": "進撃の巨人 外伝 悔いなき選択",
+			"userPreferred": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku"
+		},
+		"status": "Completed",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx85199-IzuYa59zXTBN.jpg",
+		"color": "#f16b5d",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/85199-QYZrn5qDTIK8.jpg",
+		"rating": 79
+	}, {
+		"id": 16498,
+		"relationType": "SEQUEL",
+		"malId": 16498,
+		"title": {
+			"romaji": "Shingeki no Kyojin",
+			"english": "Attack on Titan",
+			"native": "進撃の巨人",
+			"userPreferred": "Shingeki no Kyojin"
+		},
+		"status": "Completed",
+		"episodes": 25,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
+		"color": "#e4a15d",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16498-8jpFCOcDmneX.jpg",
+		"rating": 84
+	}],
+	"mappings": {
+		"mal": 25781,
+		"kitsu": 8674,
+		"anilist": 20811,
+		"anisearch": 10001,
+		"livechart": 755,
+		"notify.moe": "2FTJtKimg",
+		"anime-planet": "attack-on-titan-no-regrets"
+	},
+	"episodes": [{
+		"id": "attack-on-titan-no-regrets-episode-1",
+		"title": "A Choice with No Regrets (Part 1)",
+		"description": null,
+		"number": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20811-IvXLdxZkYNcP.jpg",
+		"airDate": null
+	}, {
+		"id": "attack-on-titan-no-regrets-episode-2",
+		"title": "A Choice with No Regrets (Part 2)",
+		"description": null,
+		"number": 2,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20811-IvXLdxZkYNcP.jpg",
+		"airDate": null
+	}]
+}
