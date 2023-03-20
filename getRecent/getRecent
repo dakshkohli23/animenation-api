@@ -1,5 +1,16 @@
 [
     {
+        "animeId": "attack-on-titan-ova",
+        "episodeId": "attack-on-titan-ova-episode-1",
+        "name": "Attack on Titan OVA",
+        "jname": "Shingeki no Kyojin OVA",
+        "episodeNum": "3",
+        "subOrDub": "dub",
+        "type": "tv",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18397-AnpwhLkSjYL1.jpg",
+        "episodeUrl": "../anime/attack-on-titan-ova"
+    },
+    {
         "animeId": "pokemon-ultimate-journeys",
         "episodeId": "pokemon-ultimate-journeys-episode-35",
         "name": "Pokémon: Aim to be a Pokémon Master",
