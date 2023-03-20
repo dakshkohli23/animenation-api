@@ -1,0 +1,38 @@
+[
+        {
+            "server1": "dm6a2oa91yfn",
+            "animeNameWithEP": "Attack on Titan: Lost Girls Episode 1 Dubbed",
+            "ep_num": "1",
+            "anime_info": "attack-on-titan-lost-girls",
+            "movie_id": "99634",
+            "alias": "attack-on-titan-lost-girls",
+            "nextEpText": "Attack on Titan: Lost Girls Episode 2 >>",
+            "nextEpLink": "/attack-on-titan-lost-girls-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "24416e8phi10",
+            "animeNameWithEP": "Attack on Titan: Lost Girls Episode 2 Dubbed",
+            "ep_num": "2",
+            "anime_info": "attack-on-titan-lost-girls",
+            "movie_id": "99634",
+            "alias": "attack-on-titan-lost-girls",
+            "nextEpText": "Attack on Titan: Lost Girls Episode 3 >>",
+            "nextEpLink": "/attack-on-titan-lost-girls-episode-3",
+            "prevEpText": "<< Attack on Titan: Lost Girls Episode 1",
+            "prevEpLink": "/attack-on-titan-lost-girls-episode-1"
+        },
+        {
+            "server1": "z8pmm6p5qhxz",
+            "animeNameWithEP": "Attack on Titan: Lost Girls Episode 3 Dubbed",
+            "ep_num": "3",
+            "anime_info": "attack-on-titan-lost-girls",
+            "movie_id": "99634",
+            "alias": "attack-on-titan-lost-girls",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Attack on Titan: Lost Girls Episode 2",
+            "prevEpLink": "/attack-on-titan-lost-girls-episode-2"
+        }
+    ]
