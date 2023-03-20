@@ -48,6 +48,18 @@
             "genres": ["Action", "Drama", "Fantasy", "Mystery", "Psychological"]
         },
         {
+            "animeId": "attack-on-titan-ova",
+            "episodeId": "attack-on-titan-ova-episode-1",
+            "name": "Attack on Titan OVA",
+            "jname": "Shingeki no Kyojin OVA",
+            "episodeNum": "3",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18397-AnpwhLkSjYL1.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/attack-on-titan-ova",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery"]
+        },
+        {
             "animeId": "shingeki-no-kyojin-2",
             "episodeId": "shingeki-no-kyojin-2-episode-1",
             "name": "Attack on Titan Season 2",
@@ -82,6 +94,30 @@
             "type": "tv",
             "episodeUrl": "anime/shingeki-no-kyojin-3-part-2",
             "genres": ["Action", "Drama", "Fantasy", "Mystery"]
+        },
+        {
+            "animeId": "attack-on-titan-lost-girls",
+            "episodeId": "attack-on-titan-lost-girls-episode-1",
+            "name": "Attack on Titan: Lost Girls",
+            "jname": "Shingeki no Kyojin: LOST GIRLS",
+            "episodeNum": "3",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99634-9u4hdvWwmC2s.png",
+            "type": "ova",
+            "episodeUrl": "anime/attack-on-titan-lost-girls",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery"]
+        },
+        {
+            "animeId": "attack-on-titan-no-regrets",
+            "episodeId": "attack-on-titan-no-regrets-episode-1",
+            "name": "Attack on Titan: No Regrets",
+            "jname": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
+            "episodeNum": "2",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20811-IvXLdxZkYNcP.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/attack-on-titan-no-regrets",
+            "genres": ["Action", "Fantasy"]
         },
         {
             "animeId": "ben-10",
