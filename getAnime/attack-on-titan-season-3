@@ -88,7 +88,7 @@
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99147-HACsFVrynFf5.jpg",
 		"rating": 85,
 		"type": "TV",
-		"animeurl": "shingeki-no-kyojin-3"
+		"animeurl": "attack-on-titan-season-3"
 	},{
 		"id": 104578,
 		"malId": 38524,
@@ -104,7 +104,7 @@
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104578-z7SadpYEuAsy.jpg",
 		"rating": 90,
 		"type": "TV",
-		"animeurl": "shingeki-no-kyojin-3-part-2"
+		"animeurl": "attack-on-titan-season-3-part-2"
 	},{
 		"id": 110277,
 		"malId": 40028,
@@ -2161,84 +2161,84 @@
 		"anime-planet": "attack-on-titan-3rd-season"
 	},
 	"episodes": [{
-		"id": "shingeki-no-kyojin-3-episode-1",
+		"id": "attack-on-titan-season-3-episode-1",
 		"title": "Smoke Signal",
 		"description": "After barely surviving Eren's recovery, a rising threat from the shadows puts everyone's lives in danger again.\n",
 		"number": 1,
 		"image": "https://artworks.thetvdb.com/banners/episodes/267440/6465435.jpg",
 		"airDate": "2018-07-23T07:00:00.000Z"
 	}, {
-		"id": "shingeki-no-kyojin-3-episode-2",
+		"id": "attack-on-titan-season-3-episode-2",
 		"title": "Pain",
 		"description": "The Scouts take a stand against a new enemy, but it's not just Titans they'll be fighting anymore.\n",
 		"number": 2,
 		"image": "https://artworks.thetvdb.com/banners/episodes/267440/6667862.jpg",
 		"airDate": "2018-07-30T07:00:00.000Z"
 	}, {
-		"id": "shingeki-no-kyojin-3-episode-3",
+		"id": "attack-on-titan-season-3-episode-3",
 		"title": "Old Story",
 		"description": "Historia and Erwin look back on their past, revealing a shady government with a hidden agenda and inspiration for an uprising.",
 		"number": 3,
 		"image": "https://artworks.thetvdb.com/banners/episodes/267440/6667863.jpg",
 		"airDate": "2018-08-06T07:00:00.000Z"
 	}, {
-		"id": "shingeki-no-kyojin-3-episode-4",
+		"id": "attack-on-titan-season-3-episode-4",
 		"title": "Trust",
 		"description": "On the run and running out of time, the Scouts must entrust their lives to others if they plan on surviving.\n",
 		"number": 4,
 		"image": "https://artworks.thetvdb.com/banners/episodes/267440/6667864.jpg",
 		"airDate": "2018-08-13T07:00:00.000Z"
 	}, {
-		"id": "shingeki-no-kyojin-3-episode-5",
+		"id": "attack-on-titan-season-3-episode-5",
 		"title": "Reply",
 		"description": "Erwin pleads his case for the Scouts to be spared, but an unforeseen announcement puts the fate of humanity at risk.",
 		"number": 5,
 		"image": "https://artworks.thetvdb.com/banners/episodes/267440/6667865.jpg",
 		"airDate": "2018-08-20T07:00:00.000Z"
 	}, {
-		"id": "shingeki-no-kyojin-3-episode-6",
+		"id": "attack-on-titan-season-3-episode-6",
 		"title": "Sin",
 		"description": "While sins of the past reveal new truths, both sides prepare for the upcoming showdown before they run out of time.\n",
 		"number": 6,
 		"image": "https://artworks.thetvdb.com/banners/episodes/267440/6667866.jpg",
 		"airDate": "2018-08-27T07:00:00.000Z"
 	}, {
-		"id": "shingeki-no-kyojin-3-episode-7",
+		"id": "attack-on-titan-season-3-episode-7",
 		"title": "Wish",
 		"description": "As battle breaks out, Historia makes a shocking decision which leads to catastrophe.",
 		"number": 7,
 		"image": "https://artworks.thetvdb.com/banners/episodes/267440/6814216.jpg",
 		"airDate": "2018-09-03T07:00:00.000Z"
 	}, {
-		"id": "shingeki-no-kyojin-3-episode-8",
+		"id": "attack-on-titan-season-3-episode-8",
 		"title": "Outside the Walls of Orvud District",
 		"description": "When everything falls apart, Eren must believe in himself to save his friends. But Eren alone may not be enough to stop the impending doom.",
 		"number": 8,
 		"image": "https://artworks.thetvdb.com/banners/episodes/267440/6667868.jpg",
 		"airDate": "2018-09-10T07:00:00.000Z"
 	}, {
-		"id": "shingeki-no-kyojin-3-episode-9",
+		"id": "attack-on-titan-season-3-episode-9",
 		"title": "Ruler of the Walls",
 		"description": "The survey corps and the wall garrison must protect the Orvud District from the impending attack of Rod Reiss's titan.\n",
 		"number": 9,
 		"image": "https://artworks.thetvdb.com/banners/episodes/267440/6667869.jpg",
 		"airDate": "2018-09-17T07:00:00.000Z"
 	}, {
-		"id": "shingeki-no-kyojin-3-episode-10",
+		"id": "attack-on-titan-season-3-episode-10",
 		"title": "Friends",
 		"description": "Kenny recalls the life which has brought him to death's door, but he gets to decide whether to live on or not.",
 		"number": 10,
 		"image": "https://artworks.thetvdb.com/banners/episodes/267440/6667870.jpg",
 		"airDate": "2018-09-24T07:00:00.000Z"
 	}, {
-		"id": "shingeki-no-kyojin-3-episode-11",
+		"id": "attack-on-titan-season-3-episode-11",
 		"title": "Bystander",
 		"description": "Having seen a glimpse of his father's memories, Eren attempts to track down a man hoping they might shed some light on his father's secrets.\n",
 		"number": 11,
 		"image": "https://artworks.thetvdb.com/banners/episodes/267440/6667871.jpg",
 		"airDate": "2018-10-08T07:00:00.000Z"
 	}, {
-		"id": "shingeki-no-kyojin-3-episode-12",
+		"id": "attack-on-titan-season-3-episode-12",
 		"title": "Night of the Battle to Retake the Wall",
 		"description": "The Scouts gather for a feisty feast before leaving to retake Wall Maria to uncover what's hidden in the basement once and for all.\n",
 		"number": 12,
