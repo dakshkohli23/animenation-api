@@ -20,7 +20,7 @@
 	"color": "#e4a128",
 	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
 	"description": "<i>Mezase Pokémon Master</i> celebrates the final chapter in Satoshi and Pikachu's story, with their first companions and many Pokémon they have met throughout their journeys making their return.",
-	"status": "Ongoing",
+	"status": "Completed",
 	"releaseDate": 2023,
 	"startDate": {
 		"year": 2023,
@@ -31,11 +31,6 @@
 		"year": null,
 		"month": null,
 		"day": null
-	},
-	"nextAiringEpisode": {
-		"airingTime": 1677837300,
-		"timeUntilAiring": 530,
-		"episode": 8
 	},
 	"totalEpisodes": 11,
 	"currentEpisode": 7,
