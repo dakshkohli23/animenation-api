@@ -10,6 +10,17 @@
         "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
         "episodeUrl": "../anime/pokemon-aim-to-be-a-pokemon-master"
     },
+        {
+        "animeId": "attack-on-titan-junior-high",
+        "episodeId": "attack-on-titan-junior-high-episode-1",
+        "name": "Attack on Titan: Junior High",
+        "jname": "Shingeki! Kyojin Chuugakkou",
+        "episodeNum": "12",
+        "subOrDub": "dub",
+        "type": "tv",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21281-GwCKcZii6fVf.jpg",
+        "episodeUrl": "../anime/attack-on-titan-junior-high"
+    },
     {
         "animeId": "attack-on-titan-lost-girls",
         "episodeId": "attack-on-titan-lost-girls-episode-1",
