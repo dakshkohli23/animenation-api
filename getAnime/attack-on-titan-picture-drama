@@ -1,0 +1,698 @@
+{
+	"id": "19391",
+	"title": {
+		"romaji": "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan",
+		"english": "Attack on Titan Picture Drama",
+		"native": "「進撃の巨人」ちみキャラ劇場\"とんでけ! 訓練兵団\""
+	},
+	"malId": 19391,
+	"synonyms": [],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19391.jpg",
+	"popularity": 11545,
+	"color": "#936b28",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19391.jpg",
+	"description": "Specials included in BD/DVD.",
+	"status": "Completed",
+	"releaseDate": 2013,
+	"startDate": {
+		"year": 2013,
+		"month": 7,
+		"day": 17
+	},
+	"endDate": {
+		"year": 2014,
+		"month": 3,
+		"day": 19
+	},
+	"totalEpisodes": 9,
+	"currentEpisode": 9,
+	"rating": 62,
+	"duration": 11,
+	"genres": ["Action", "Comedy", "Drama", "Fantasy"],
+	"season": "SUMMER",
+	"studios": ["Wit Studio"],
+	"subOrDub": "sub",
+	"type": "SPECIAL",
+	"recommendations": [],
+	"characters": [{
+		"id": 40882,
+		"role": "MAIN",
+		"name": {
+			"first": "Eren",
+			"last": "Yeager",
+			"full": "Eren Yeager",
+			"native": "エレン・イェーガー",
+			"userPreferred": "Eren Yeager"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
+		"voiceActors": [{
+			"id": 95672,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuki",
+				"last": "Kaji",
+				"full": "Yuuki Kaji",
+				"native": "梶裕貴",
+				"userPreferred": "Yuuki Kaji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-RN4nm0OFwCyU.png"
+		}]
+	}, {
+		"id": 40881,
+		"role": "MAIN",
+		"name": {
+			"first": "Mikasa",
+			"last": "Ackerman",
+			"full": "Mikasa Ackerman",
+			"native": "ミカサ・アッカーマン",
+			"userPreferred": "Mikasa Ackerman"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
+		"voiceActors": [{
+			"id": 100142,
+			"language": "Japanese",
+			"name": {
+				"first": "Yui",
+				"last": "Ishikawa",
+				"full": "Yui Ishikawa",
+				"native": "石川由依",
+				"userPreferred": "Yui Ishikawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100142-k6RP0HzXffUG.png"
+		}]
+	}, {
+		"id": 46494,
+		"role": "MAIN",
+		"name": {
+			"first": "Armin",
+			"last": "Arlert",
+			"full": "Armin Arlert",
+			"native": "アルミン・アルレルト",
+			"userPreferred": "Armin Arlert"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
+		"voiceActors": [{
+			"id": 95158,
+			"language": "Japanese",
+			"name": {
+				"first": "Marina",
+				"last": "Inoue",
+				"full": "Marina Inoue",
+				"native": "井上麻里奈",
+				"userPreferred": "Marina Inoue"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg"
+		}]
+	}, {
+		"id": 127573,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Moblit",
+			"last": "Berner",
+			"full": "Moblit Berner",
+			"native": "モブリット・バーナー",
+			"userPreferred": "Moblit Berner"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n127573-VSYSvQ1VK1c7.jpg",
+		"voiceActors": [{
+			"id": 100928,
+			"language": "Japanese",
+			"name": {
+				"first": "Rintarou",
+				"last": "Nishi",
+				"full": "Rintarou Nishi",
+				"native": "西凜太朗",
+				"userPreferred": "Rintarou Nishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100928-OfFb5f55VSFB.png"
+		}]
+	}, {
+		"id": 71689,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Eld",
+			"last": "Gin",
+			"full": "Eld Gin",
+			"native": "エルド・ジン",
+			"userPreferred": "Eld Gin"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71689-AkkBVdgOWjFU.png",
+		"voiceActors": [{
+			"id": 95260,
+			"language": "Japanese",
+			"name": {
+				"first": "Susumu",
+				"last": "Chiba",
+				"full": "Susumu Chiba",
+				"native": "千葉進歩",
+				"userPreferred": "Susumu Chiba"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95260-pKyM0LbhEznc.png"
+		}]
+	}, {
+		"id": 46488,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Bertolt",
+			"last": "Hoover",
+			"full": "Bertolt Hoover",
+			"native": "ベルトルト・フーバー",
+			"userPreferred": "Bertolt Hoover"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46488-wm6HvkdkHoZu.jpg",
+		"voiceActors": [{
+			"id": 110005,
+			"language": "Japanese",
+			"name": {
+				"first": "Tomohisa",
+				"last": "Hashizume",
+				"full": "Tomohisa Hashizume",
+				"native": "橋詰知久",
+				"userPreferred": "Tomohisa Hashizume"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110005-65qAMtTf7qOb.png"
+		}]
+	}, {
+		"id": 46498,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Jean",
+			"last": "Kirstein",
+			"full": "Jean Kirstein",
+			"native": "ジャン・キルシュタイン",
+			"userPreferred": "Jean Kirstein"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png",
+		"voiceActors": [{
+			"id": 95196,
+			"language": "Japanese",
+			"name": {
+				"first": "Kishou",
+				"last": "Taniyama",
+				"full": "Kishou Taniyama",
+				"native": "谷山紀章",
+				"userPreferred": "Kishou Taniyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95196-t2vbxQMee0ci.png"
+		}]
+	}, {
+		"id": 36309,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Narrator",
+			"last": null,
+			"full": "Narrator",
+			"native": "ナレーター",
+			"userPreferred": "Narrator"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg",
+		"voiceActors": [{
+			"id": 95158,
+			"language": "Japanese",
+			"name": {
+				"first": "Marina",
+				"last": "Inoue",
+				"full": "Marina Inoue",
+				"native": "井上麻里奈",
+				"userPreferred": "Marina Inoue"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg"
+		}]
+	}, {
+		"id": 45887,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sasha",
+			"last": "Blouse",
+			"full": "Sasha Blouse",
+			"native": "サシャ・ブラウス",
+			"userPreferred": "Sasha Blouse"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg",
+		"voiceActors": [{
+			"id": 95034,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuu",
+				"last": "Kobayashi",
+				"full": "Yuu Kobayashi",
+				"native": "小林ゆう",
+				"userPreferred": "Yuu Kobayashi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95034-AwobjrcmkMi9.png"
+		}]
+	}, {
+		"id": 46484,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Reiner",
+			"last": "Braun",
+			"full": "Reiner Braun",
+			"native": "ライナー・ブラウン",
+			"userPreferred": "Reiner Braun"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png",
+		"voiceActors": [{
+			"id": 100626,
+			"language": "Japanese",
+			"name": {
+				"first": "Yoshimasa",
+				"last": "Hosoya",
+				"full": "Yoshimasa Hosoya",
+				"native": "細谷佳正",
+				"userPreferred": "Yoshimasa Hosoya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg"
+		}]
+	}, {
+		"id": 71479,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ymir",
+			"last": null,
+			"full": "Ymir",
+			"native": "ユミル",
+			"userPreferred": "Ymir"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71479-huCD908XIdqv.png",
+		"voiceActors": [{
+			"id": 95504,
+			"language": "Japanese",
+			"name": {
+				"first": "Saki",
+				"last": "Fujita",
+				"full": "Saki Fujita",
+				"native": "藤田咲",
+				"userPreferred": "Saki Fujita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95504-pDIKpd8t2EYU.png"
+		}]
+	}, {
+		"id": 45627,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Levi",
+			"last": "",
+			"full": "Levi",
+			"native": "リヴァイ",
+			"userPreferred": "Levi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
+		"voiceActors": [{
+			"id": 95118,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroshi",
+				"last": "Kamiya",
+				"full": "Hiroshi Kamiya",
+				"native": "神谷浩史",
+				"userPreferred": "Hiroshi Kamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+		}]
+	}, {
+		"id": 46486,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Connie",
+			"last": "Springer",
+			"full": "Connie Springer",
+			"native": "コニー・スプリンガー",
+			"userPreferred": "Connie Springer"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png",
+		"voiceActors": [{
+			"id": 95356,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiro",
+				"last": "Shimono",
+				"full": "Hiro Shimono",
+				"native": "下野紘",
+				"userPreferred": "Hiro Shimono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png"
+		}]
+	}, {
+		"id": 83181,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mina",
+			"last": "Carolina",
+			"full": "Mina Carolina",
+			"native": "ミーナ・カロライナ",
+			"userPreferred": "Mina Carolina"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b83181-EiVdjFn702Mc.png",
+		"voiceActors": [{
+			"id": 106030,
+			"language": "Japanese",
+			"name": {
+				"first": "Chika",
+				"last": "Anzai",
+				"full": "Chika Anzai",
+				"native": "安済知佳",
+				"userPreferred": "Chika Anzai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106030-oz4RUJZ3D9v9.png"
+		}]
+	}, {
+		"id": 62481,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Krista",
+			"last": "Lenz",
+			"full": "Krista Lenz",
+			"native": "クリスタ・レンズ",
+			"userPreferred": "Krista Lenz"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
+		"voiceActors": [{
+			"id": 106236,
+			"language": "Japanese",
+			"name": {
+				"first": "Shiori",
+				"last": "Mikami",
+				"full": "Shiori Mikami",
+				"native": "三上枝織",
+				"userPreferred": "Shiori Mikami"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106236-aGhlIhHPPtjc.png"
+		}]
+	}, {
+		"id": 62483,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Thomas",
+			"last": "Wagner",
+			"full": "Thomas Wagner",
+			"native": "トーマス・ワグナー",
+			"userPreferred": "Thomas Wagner"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b62483-zpSlfucUEgwQ.png",
+		"voiceActors": [{
+			"id": 113465,
+			"language": "Japanese",
+			"name": {
+				"first": "Shigeyuki",
+				"last": "Susaki",
+				"full": "Shigeyuki Susaki",
+				"native": "成幸 須嵜",
+				"userPreferred": "Shigeyuki Susaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/18465.jpg"
+		}]
+	}, {
+		"id": 84305,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Keith",
+			"last": "Shadis",
+			"full": "Keith Shadis",
+			"native": "キース・シャーディス",
+			"userPreferred": "Keith Shadis"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n84305-15nngV5nTUp6.png",
+		"voiceActors": [{
+			"id": 103730,
+			"language": "Japanese",
+			"name": {
+				"first": "Tsuguo",
+				"last": "Mogami",
+				"full": "Tsuguo Mogami",
+				"native": "最上嗣生",
+				"userPreferred": "Tsuguo Mogami"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103730-qtf6D57hUNAf.jpg"
+		}]
+	}, {
+		"id": 71121,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hange",
+			"last": "Zoe",
+			"full": "Hange Zoe",
+			"native": "ハンジ・ゾエ",
+			"userPreferred": "Hange Zoe"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png",
+		"voiceActors": [{
+			"id": 95082,
+			"language": "Japanese",
+			"name": {
+				"first": "Romi",
+				"last": "Park",
+				"full": "Romi Park",
+				"native": "朴璐美",
+				"userPreferred": "Romi Park"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95082-pNGbnYv4cHAK.png"
+		}]
+	}, {
+		"id": 84317,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Franz",
+			"last": "Kefka",
+			"full": "Franz Kefka",
+			"native": "フランツ・ケフカ",
+			"userPreferred": "Franz Kefka"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b84317-mIg4hGXJKhQt.png",
+		"voiceActors": [{
+			"id": 117425,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenta",
+				"last": "Ookuma",
+				"full": "Kenta Ookuma",
+				"native": "大隈健太",
+				"userPreferred": "Kenta Ookuma"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/22425.jpg"
+		}]
+	}, {
+		"id": 71691,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gunther",
+			"last": "Schultz",
+			"full": "Gunther Schultz",
+			"native": "グンタ・シュルツ",
+			"userPreferred": "Gunther Schultz"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71691-9xxv0NFB2CWm.png",
+		"voiceActors": [{
+			"id": 96814,
+			"language": "Japanese",
+			"name": {
+				"first": "Kouzou",
+				"last": "Mito",
+				"full": "Kouzou Mito",
+				"native": "三戸耕三",
+				"userPreferred": "Kouzou Mito"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1814.jpg"
+		}]
+	}, {
+		"id": 62479,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Marco",
+			"last": "Bott",
+			"full": "Marco Bott",
+			"native": "マルコ・ボット",
+			"userPreferred": "Marco Bott"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b62479-mYcTkU1RXymL.jpg",
+		"voiceActors": [{
+			"id": 110743,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryouta",
+				"last": "Oosaka",
+				"full": "Ryouta Oosaka",
+				"native": "逢坂良太",
+				"userPreferred": "Ryouta Oosaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110743-k2SgQwU0JD33.png"
+		}]
+	}, {
+		"id": 46490,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Annie",
+			"last": "Leonhart",
+			"full": "Annie Leonhart",
+			"native": "アニ・レオンハート",
+			"userPreferred": "Annie Leonhart"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg",
+		"voiceActors": [{
+			"id": 100295,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuu",
+				"last": "Shimamura",
+				"full": "Yuu Shimamura",
+				"native": "嶋村侑",
+				"userPreferred": "Yuu Shimamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100295-d7CPqlz4jGaT.png"
+		}]
+	}, {
+		"id": 71687,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Oluo",
+			"last": "Bozard",
+			"full": "Oluo Bozard",
+			"native": "オルオ・ボザド",
+			"userPreferred": "Oluo Bozard"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71687-jd78w4orXonI.png",
+		"voiceActors": [{
+			"id": 95410,
+			"language": "Japanese",
+			"name": {
+				"first": "Shinji",
+				"last": "Kawada",
+				"full": "Shinji Kawada",
+				"native": "川田紳司",
+				"userPreferred": "Shinji Kawada"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95410-J0Pq0hZeFp3j.png"
+		}]
+	}, {
+		"id": 46496,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Erwin",
+			"last": "Smith",
+			"full": "Erwin Smith",
+			"native": "エルヴィン・スミス",
+			"userPreferred": "Erwin Smith"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png",
+		"voiceActors": [{
+			"id": 95212,
+			"language": "Japanese",
+			"name": {
+				"first": "Daisuke",
+				"last": "Ono",
+				"full": "Daisuke Ono",
+				"native": "小野大輔",
+				"userPreferred": "Daisuke Ono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95212-wX1M4LJN96q2.png"
+		}]
+	}, {
+		"id": 84319,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hannah",
+			"last": "Diament",
+			"full": "Hannah Diament",
+			"native": "ハンナ・ディアマント",
+			"userPreferred": "Hannah Diament"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b84319-MkSqCC8JlYR3.png",
+		"voiceActors": [{
+			"id": 115741,
+			"language": "Japanese",
+			"name": {
+				"first": "Megumi",
+				"last": "Satou",
+				"full": "Megumi Satou",
+				"native": "佐藤恵",
+				"userPreferred": "Megumi Satou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115741-K9exazw3oS5w.png"
+		}]
+	}],
+	"relations": [{
+		"id": 16498,
+		"relationType": "PARENT",
+		"malId": 16498,
+		"title": {
+			"romaji": "Shingeki no Kyojin",
+			"english": "Attack on Titan",
+			"native": "進撃の巨人",
+			"userPreferred": "Shingeki no Kyojin"
+		},
+		"status": "Completed",
+		"episodes": 25,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
+		"color": "#e4a15d",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16498-8jpFCOcDmneX.jpg",
+		"rating": 84
+	}],
+	"episodes": [{
+		"id": "attack-on-titan-picture-drama-episode-1",
+		"title": "",
+		"description": "",
+		"number": 1,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "attack-on-titan-picture-drama-episode-2",
+		"title": "",
+		"description": "",
+		"number": 2,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "attack-on-titan-picture-drama-episode-3",
+		"title": "",
+		"description": "",
+		"number": 3,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "attack-on-titan-picture-drama-episode-4",
+		"title": "",
+		"description": "",
+		"number": 4,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "attack-on-titan-picture-drama-episode-5",
+		"title": "",
+		"description": "",
+		"number": 5,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "attack-on-titan-picture-drama-episode-6",
+		"title": "",
+		"description": "",
+		"number": 6,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "attack-on-titan-picture-drama-episode-7",
+		"title": "",
+		"description": "",
+		"number": 7,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "attack-on-titan-picture-drama-episode-8",
+		"title": "",
+		"description": "",
+		"number": 8,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "attack-on-titan-picture-drama-episode-9",
+		"title": "",
+		"description": "",
+		"number": 9,
+		"image": "",
+		"airDate": ""
+	}]
+}
