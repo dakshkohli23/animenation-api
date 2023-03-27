@@ -1,0 +1,86 @@
+[
+        {
+            "server1": "da3baf7fj14w",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 1",
+            "ep_num": "1",
+            "anime_info": "attack-on-titan-survey-corps-levi-squad",
+            "movie_id": "108942",
+            "alias": "attack-on-titan-survey-corps-levi-squad",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 2 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "zrvyqw5juaa9",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 2",
+            "ep_num": "2",
+            "anime_info": "attack-on-titan-survey-corps-levi-squad",
+            "movie_id": "108942",
+            "alias": "attack-on-titan-survey-corps-levi-squad",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 3 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-3",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 1",
+            "prevEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-1"
+        },
+        {
+            "server1": "of2tnapjmace",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 3",
+            "ep_num": "3",
+            "anime_info": "attack-on-titan-survey-corps-levi-squad",
+            "movie_id": "108942",
+            "alias": "attack-on-titan-survey-corps-levi-squad",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 4 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-4",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 2",
+            "prevEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-2"
+        },
+        {
+            "server1": "mkjs7d2kg50j",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 4",
+            "ep_num": "4",
+            "anime_info": "attack-on-titan-survey-corps-levi-squad",
+            "movie_id": "108942",
+            "alias": "attack-on-titan-survey-corps-levi-squad",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 5 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-5",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 3",
+            "prevEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-3"
+        },
+        {
+            "server1": "pxetuirv3fvj",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 5",
+            "ep_num": "5",
+            "anime_info": "attack-on-titan-survey-corps-levi-squad",
+            "movie_id": "108942",
+            "alias": "attack-on-titan-survey-corps-levi-squad",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 6 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-6",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 4",
+            "prevEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-4"
+        },
+        {
+            "server1": "4bdyxsy73m2j",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 6",
+            "ep_num": "6",
+            "anime_info": "attack-on-titan-survey-corps-levi-squad",
+            "movie_id": "108942",
+            "alias": "attack-on-titan-survey-corps-levi-squad",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 7 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-7",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 5",
+            "prevEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-5"
+        },
+        {
+            "server1": "0xp07yrzse3j",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 7",
+            "ep_num": "7",
+            "anime_info": "attack-on-titan-survey-corps-levi-squad",
+            "movie_id": "108942",
+            "alias": "attack-on-titan-survey-corps-levi-squad",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, Levi Squad! Episode 6",
+            "prevEpLink": "/attack-on-titan-survey-corps-levi-squad-episode-6"
+        }
+    ]
