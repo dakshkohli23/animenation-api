@@ -1,0 +1,245 @@
+{
+	"id": "",
+	"title": {
+		"romaji": "Shingeki no Kyojin: Ano Hi Kara",
+		"english": "Attack on Titan: Since That Day",
+		"native": "進撃の巨人 総集編「あの日から」"
+	},
+	"malId": 19285,
+	"synonyms": ["Shingeki no Kyojin Episode 13.5", "Shingeki no Kyojin: Ano Hi Kara", "Attack on Titan: Since That Day"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {},
+	"image": "https://static.bunnycdn.ru/i/cache/images/2018/04/a0802fcc667e1dc1be9c2507f9e2b3a2.jpg",
+	"popularity": 10554,
+	"color": "#e4c993",
+	"cover": "",
+	"description": "Recap of the events in Shingeki no Kyojin that happened prior to episode 14.",
+	"status": "Completed",
+	"releaseDate": 2013,
+	"startDate": {
+		"year": 2013,
+		"month": 7,
+		"day": 7
+	},
+	"endDate": {
+		"year": 2013,
+		"month": 7,
+		"day": 7
+	},
+	"totalEpisodes": 1,
+	"currentEpisode": 1,
+	"rating": 65,
+	"duration": 24,
+	"genres": ["Action", "Drama"],
+	"season": "SUMMER",
+	"studios": ["Wit Studio"],
+	"subOrDub": "sub",
+	"type": "SPECIAL",
+	"recommendations": [],
+	"characters": [{
+		"id": 40882,
+		"role": "MAIN",
+		"name": {
+			"first": "Eren",
+			"last": "Yeager",
+			"full": "Eren Yeager",
+			"native": "エレン・イェーガー",
+			"userPreferred": "Eren Yeager"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
+		"voiceActors": [{
+			"id": 95672,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuki",
+				"last": "Kaji",
+				"full": "Yuuki Kaji",
+				"native": "梶裕貴",
+				"userPreferred": "Yuuki Kaji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-RN4nm0OFwCyU.png"
+		}]
+	}, {
+		"id": 40881,
+		"role": "MAIN",
+		"name": {
+			"first": "Mikasa",
+			"last": "Ackerman",
+			"full": "Mikasa Ackerman",
+			"native": "ミカサ・アッカーマン",
+			"userPreferred": "Mikasa Ackerman"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
+		"voiceActors": [{
+			"id": 100142,
+			"language": "Japanese",
+			"name": {
+				"first": "Yui",
+				"last": "Ishikawa",
+				"full": "Yui Ishikawa",
+				"native": "石川由依",
+				"userPreferred": "Yui Ishikawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100142-k6RP0HzXffUG.png"
+		}]
+	}, {
+		"id": 46494,
+		"role": "MAIN",
+		"name": {
+			"first": "Armin",
+			"last": "Arlert",
+			"full": "Armin Arlert",
+			"native": "アルミン・アルレルト",
+			"userPreferred": "Armin Arlert"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
+		"voiceActors": [{
+			"id": 95158,
+			"language": "Japanese",
+			"name": {
+				"first": "Marina",
+				"last": "Inoue",
+				"full": "Marina Inoue",
+				"native": "井上麻里奈",
+				"userPreferred": "Marina Inoue"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg"
+		}]
+	}, {
+		"id": 46496,
+		"role": "MAIN",
+		"name": {
+			"first": "Erwin",
+			"last": "Smith",
+			"full": "Erwin Smith",
+			"native": "エルヴィン・スミス",
+			"userPreferred": "Erwin Smith"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png",
+		"voiceActors": [{
+			"id": 95212,
+			"language": "Japanese",
+			"name": {
+				"first": "Daisuke",
+				"last": "Ono",
+				"full": "Daisuke Ono",
+				"native": "小野大輔",
+				"userPreferred": "Daisuke Ono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95212-wX1M4LJN96q2.png"
+		}]
+	}, {
+		"id": 62481,
+		"role": "MAIN",
+		"name": {
+			"first": "Krista",
+			"last": "Lenz",
+			"full": "Krista Lenz",
+			"native": "クリスタ・レンズ",
+			"userPreferred": "Krista Lenz"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
+		"voiceActors": [{
+			"id": 106236,
+			"language": "Japanese",
+			"name": {
+				"first": "Shiori",
+				"last": "Mikami",
+				"full": "Shiori Mikami",
+				"native": "三上枝織",
+				"userPreferred": "Shiori Mikami"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106236-aGhlIhHPPtjc.png"
+		}]
+	}, {
+		"id": 45627,
+		"role": "MAIN",
+		"name": {
+			"first": "Levi",
+			"last": "",
+			"full": "Levi",
+			"native": "リヴァイ",
+			"userPreferred": "Levi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
+		"voiceActors": [{
+			"id": 95118,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroshi",
+				"last": "Kamiya",
+				"full": "Hiroshi Kamiya",
+				"native": "神谷浩史",
+				"userPreferred": "Hiroshi Kamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+		}]
+	}, {
+		"id": 127443,
+		"role": "MAIN",
+		"name": {
+			"first": "Kenny",
+			"last": "Ackerman",
+			"full": "Kenny Ackerman",
+			"native": "ケニー・アッカーマン",
+			"userPreferred": "Kenny Ackerman"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/127443-aVMXGOchpsvj.png",
+		"voiceActors": [{
+			"id": 101755,
+			"language": "Japanese",
+			"name": {
+				"first": "Kazuhiro",
+				"last": "Yamaji",
+				"full": "Kazuhiro Yamaji",
+				"native": "山路和弘",
+				"userPreferred": "Kazuhiro Yamaji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101755-LsVbHCwg6Pel.png"
+		}]
+	}],
+	"relations": [{
+		"id": 99147,
+		"relationType": "PARENT",
+		"malId": 35760,
+		"title": {
+			"romaji": "Shingeki no Kyojin 3",
+			"english": "Attack on Titan Season 3",
+			"native": "進撃の巨人３",
+			"userPreferred": "Shingeki no Kyojin 3"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-5RXELRvwjFl6.jpg",
+		"color": "#4386e4",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99147-HACsFVrynFf5.jpg",
+		"rating": 85
+	}, {
+		"id": 120257,
+		"relationType": "SEQUEL",
+		"malId": null,
+		"title": {
+			"romaji": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han Part 2",
+			"english": null,
+			"native": "｢進撃の巨人｣ちみキャラ劇場”新生リヴァイ班” Part 2",
+			"userPreferred": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han Part 2"
+		},
+		"status": "Completed",
+		"episodes": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120257-eerywzUJdLzy.jpg",
+		"color": "#285078",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120257-eerywzUJdLzy.jpg",
+		"rating": 80
+	}],
+	"episodes": [{
+		"id": "attack-on-titan-since-that-day-episode-1",
+		"title": null,
+		"image": "",
+		"number": 1,
+		"description": null
+	}]
+}
