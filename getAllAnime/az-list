@@ -96,6 +96,18 @@
             "genres": ["Action", "Drama", "Fantasy"]
         },
         {
+            "animeId": "attack-on-titan-picture-drama",
+            "episodeId": "attack-on-titan-picture-drama-episode-1",
+            "name": "Attack on Titan Picture Drama",
+            "jname": "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan",
+            "episodeNum": "9",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19391.jpg",
+            "type": "special",
+            "episodeUrl": "anime/attack-on-titan-picture-drama",
+            "genres": ["Action", "Comedy", "Drama", "Fantasy"]
+        },
+        {
             "animeId": "attack-on-titan-season-2",
             "episodeId": "attack-on-titan-season-2-episode-1",
             "name": "Attack on Titan Season 2",
@@ -132,6 +144,30 @@
             "genres": ["Action", "Drama", "Fantasy", "Mystery"]
         },
         {
+            "animeId": "attack-on-titan-survey-corps-levi-squad",
+            "episodeId": "attack-on-titan-survey-corps-levi-squad-episode-1",
+            "name": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad!",
+            "jname": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han",
+            "episodeNum": "7",
+            "subOrDub": "sub",
+            "imgUrl": "https://static.bunnycdn.ru/i/cache/images/a/a6/a66765b28010576a940c830ee048aee3.jpg",
+            "type": "special",
+            "episodeUrl": "anime/attack-on-titan-survey-corps-levi-squad",
+            "genres": ["Comedy", "Fantasy"]
+        },
+        {
+            "animeId": "attack-on-titan-survey-corps-the-final",
+            "episodeId": "attack-on-titan-survey-corps-the-final-episode-1",
+            "name": "Attack on Titan: Chibi Theater - Survey Corps, The Final",
+            "jname": "Shingeki no Kyojin: Chimi Kyara Gekijou - Final",
+            "episodeNum": "7",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139754-tws6cBmwEWPF.jpg",
+            "type": "special",
+            "episodeUrl": "anime/attack-on-titan-survey-corps-the-final",
+            "genres": ["Comedy", "Fantasy"]
+        },
+        {
             "animeId": "attack-on-titan-junior-high",
             "episodeId": "attack-on-titan-junior-high-episode-1",
             "name": "Attack on Titan: Junior High",
@@ -166,6 +202,18 @@
             "type": "ova",
             "episodeUrl": "anime/attack-on-titan-no-regrets",
             "genres": ["Action", "Fantasy"]
+        },
+        {
+            "animeId": "attack-on-titan-since-that-day",
+            "episodeId": "attack-on-titan-since-that-day-episode-1",
+            "name": "Attack on Titan: Since That Day",
+            "jname": "Shingeki no Kyojin: Ano Hi Kara",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://static.bunnycdn.ru/i/cache/images/2018/04/a0802fcc667e1dc1be9c2507f9e2b3a2.jpg",
+            "type": "special",
+            "episodeUrl": "anime/attack-on-titan-since-that-day",
+            "genres": ["Action", "Drama"]
         },
         {
             "animeId": "attack-on-titan-the-roar-of-awakening",
