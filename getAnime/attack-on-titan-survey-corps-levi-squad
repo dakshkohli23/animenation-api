@@ -1,0 +1,300 @@
+{
+	"id": "108942",
+	"title": {
+		"romaji": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han",
+		"english": null,
+		"native": "｢進撃の巨人｣ちみキャラ劇場”新生リヴァイ班”"
+	},
+	"malId": 39477,
+	"synonyms": ["Attack on Titan Season 3 Picture Drama", "Shingeki no Kyojin Chimi Kyara Gekijou Tonde Ke! Shinsei Levi-han", "Shingeki no Kyojin Season 3 Specials"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "k4heGjk8g0A",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/k4heGjk8g0A/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108942-UdPtw4CZUQmC.jpg",
+	"popularity": 10554,
+	"color": "#e4c993",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108942-UdPtw4CZUQmC.jpg",
+	"description": "Shingeki no Kyojin Season 3 DVD/BD specials. They are chibi parody shorts; one video was included on each of the DVD/BDs for a total of four. Each video contained three stories (essentially chibi parody short episode 38–49) which continued the chibi parody story from the previous chibi parody specials included on the DVD/BDs of the previous seasons.",
+	"status": "Completed",
+	"releaseDate": 2018,
+	"startDate": {
+		"year": 2018,
+		"month": 10,
+		"day": 17
+	},
+	"endDate": {
+		"year": 2019,
+		"month": 2,
+		"day": 27
+	},
+	"totalEpisodes": 7,
+	"currentEpisode": 7,
+	"rating": 75,
+	"duration": 10,
+	"genres": ["Comedy", "Fantasy"],
+	"season": "FALL",
+	"studios": ["Wit Studio"],
+	"subOrDub": "sub",
+	"type": "SPECIAL",
+	"recommendations": [{
+		"id": 132467,
+		"malId": 48735,
+		"title": {
+			"romaji": "Tokyo Revengers: Chibi Reve",
+			"english": null,
+			"native": "ちびりべ",
+			"userPreferred": "Tokyo Revengers: Chibi Reve"
+		},
+		"status": "Completed",
+		"episodes": 24,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132467-O79Pn14olLQ8.jpg",
+		"rating": 75,
+		"type": "ONA"
+	}],
+	"characters": [{
+		"id": 40882,
+		"role": "MAIN",
+		"name": {
+			"first": "Eren",
+			"last": "Yeager",
+			"full": "Eren Yeager",
+			"native": "エレン・イェーガー",
+			"userPreferred": "Eren Yeager"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
+		"voiceActors": [{
+			"id": 95672,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuki",
+				"last": "Kaji",
+				"full": "Yuuki Kaji",
+				"native": "梶裕貴",
+				"userPreferred": "Yuuki Kaji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-RN4nm0OFwCyU.png"
+		}]
+	}, {
+		"id": 40881,
+		"role": "MAIN",
+		"name": {
+			"first": "Mikasa",
+			"last": "Ackerman",
+			"full": "Mikasa Ackerman",
+			"native": "ミカサ・アッカーマン",
+			"userPreferred": "Mikasa Ackerman"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
+		"voiceActors": [{
+			"id": 100142,
+			"language": "Japanese",
+			"name": {
+				"first": "Yui",
+				"last": "Ishikawa",
+				"full": "Yui Ishikawa",
+				"native": "石川由依",
+				"userPreferred": "Yui Ishikawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100142-k6RP0HzXffUG.png"
+		}]
+	}, {
+		"id": 46494,
+		"role": "MAIN",
+		"name": {
+			"first": "Armin",
+			"last": "Arlert",
+			"full": "Armin Arlert",
+			"native": "アルミン・アルレルト",
+			"userPreferred": "Armin Arlert"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
+		"voiceActors": [{
+			"id": 95158,
+			"language": "Japanese",
+			"name": {
+				"first": "Marina",
+				"last": "Inoue",
+				"full": "Marina Inoue",
+				"native": "井上麻里奈",
+				"userPreferred": "Marina Inoue"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg"
+		}]
+	}, {
+		"id": 46496,
+		"role": "MAIN",
+		"name": {
+			"first": "Erwin",
+			"last": "Smith",
+			"full": "Erwin Smith",
+			"native": "エルヴィン・スミス",
+			"userPreferred": "Erwin Smith"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46496-Mu86MENd5wNB.png",
+		"voiceActors": [{
+			"id": 95212,
+			"language": "Japanese",
+			"name": {
+				"first": "Daisuke",
+				"last": "Ono",
+				"full": "Daisuke Ono",
+				"native": "小野大輔",
+				"userPreferred": "Daisuke Ono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95212-wX1M4LJN96q2.png"
+		}]
+	}, {
+		"id": 62481,
+		"role": "MAIN",
+		"name": {
+			"first": "Krista",
+			"last": "Lenz",
+			"full": "Krista Lenz",
+			"native": "クリスタ・レンズ",
+			"userPreferred": "Krista Lenz"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
+		"voiceActors": [{
+			"id": 106236,
+			"language": "Japanese",
+			"name": {
+				"first": "Shiori",
+				"last": "Mikami",
+				"full": "Shiori Mikami",
+				"native": "三上枝織",
+				"userPreferred": "Shiori Mikami"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106236-aGhlIhHPPtjc.png"
+		}]
+	}, {
+		"id": 45627,
+		"role": "MAIN",
+		"name": {
+			"first": "Levi",
+			"last": "",
+			"full": "Levi",
+			"native": "リヴァイ",
+			"userPreferred": "Levi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
+		"voiceActors": [{
+			"id": 95118,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroshi",
+				"last": "Kamiya",
+				"full": "Hiroshi Kamiya",
+				"native": "神谷浩史",
+				"userPreferred": "Hiroshi Kamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+		}]
+	}, {
+		"id": 127443,
+		"role": "MAIN",
+		"name": {
+			"first": "Kenny",
+			"last": "Ackerman",
+			"full": "Kenny Ackerman",
+			"native": "ケニー・アッカーマン",
+			"userPreferred": "Kenny Ackerman"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/127443-aVMXGOchpsvj.png",
+		"voiceActors": [{
+			"id": 101755,
+			"language": "Japanese",
+			"name": {
+				"first": "Kazuhiro",
+				"last": "Yamaji",
+				"full": "Kazuhiro Yamaji",
+				"native": "山路和弘",
+				"userPreferred": "Kazuhiro Yamaji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101755-LsVbHCwg6Pel.png"
+		}]
+	}],
+	"relations": [{
+		"id": 99147,
+		"relationType": "PARENT",
+		"malId": 35760,
+		"title": {
+			"romaji": "Shingeki no Kyojin 3",
+			"english": "Attack on Titan Season 3",
+			"native": "進撃の巨人３",
+			"userPreferred": "Shingeki no Kyojin 3"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-5RXELRvwjFl6.jpg",
+		"color": "#4386e4",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99147-HACsFVrynFf5.jpg",
+		"rating": 85
+	}, {
+		"id": 120257,
+		"relationType": "SEQUEL",
+		"malId": null,
+		"title": {
+			"romaji": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han Part 2",
+			"english": null,
+			"native": "｢進撃の巨人｣ちみキャラ劇場”新生リヴァイ班” Part 2",
+			"userPreferred": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han Part 2"
+		},
+		"status": "Completed",
+		"episodes": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120257-eerywzUJdLzy.jpg",
+		"color": "#285078",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120257-eerywzUJdLzy.jpg",
+		"rating": 80
+	}],
+	"episodes": [{
+		"id": "attack-on-titan-survey-corps-levi-squad-episode-1",
+		"title": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108942-UdPtw4CZUQmC.jpg",
+		"number": 1,
+		"description": null
+	}, {
+		"id": "attack-on-titan-survey-corps-levi-squad-episode-2",
+		"title": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108942-UdPtw4CZUQmC.jpg",
+		"number": 2,
+		"description": null
+	}, {
+		"id": "attack-on-titan-survey-corps-levi-squad-episode-3",
+		"title": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108942-UdPtw4CZUQmC.jpg",
+		"number": 3,
+		"description": null
+	}, {
+		"id": "attack-on-titan-survey-corps-levi-squad-episode-4",
+		"title": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108942-UdPtw4CZUQmC.jpg",
+		"number": 4,
+		"description": null
+	}, {
+		"id": "attack-on-titan-survey-corps-levi-squad-episode-5",
+		"title": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108942-UdPtw4CZUQmC.jpg",
+		"number": 5,
+		"description": null
+	}, {
+		"id": "attack-on-titan-survey-corps-levi-squad-episode-6",
+		"title": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108942-UdPtw4CZUQmC.jpg",
+		"number": 6,
+		"description": null
+	}, {
+		"id": "attack-on-titan-survey-corps-levi-squad-episode-7",
+		"title": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108942-UdPtw4CZUQmC.jpg",
+		"number": 7,
+		"description": null
+	}]
+}
