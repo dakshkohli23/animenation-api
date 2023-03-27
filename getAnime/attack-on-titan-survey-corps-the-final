@@ -1,0 +1,234 @@
+{
+	"id": "139754",
+	"title": {
+		"romaji": "Shingeki no Kyojin: Chimi Kyara Gekijou - Final",
+		"english": "Attack on Titan: Chibi Theater - Survey Corps, The Final",
+		"native": "「進撃の巨人」ちみキャラ劇場 \"ファイナル\""
+	},
+	"malId": 49627,
+	"synonyms": ["Shingeki no Kyojin: The Final Season Specials"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139754-tws6cBmwEWPF.jpg",
+	"popularity": 3531,
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139754-tws6cBmwEWPF.jpg",
+	"description": "<i>Shingeki no Kyojin: The Final Season</i> DVD/BD specials. They are chibi parody shorts; 2 video was included on the DVD/BDs. Each video contained 8 stories (essentially chibi parody short episode 60–75) which continued the chibi parody story from the previous chibi parody specials included on the DVD/BDs of the previous seasons.\n\n",
+	"status": "Completed",
+	"releaseDate": 2021,
+	"startDate": {
+		"year": 2021,
+		"month": 7,
+		"day": 7
+	},
+	"endDate": {
+		"year": 2021,
+		"month": 8,
+		"day": 4
+	},
+	"totalEpisodes": 2,
+	"currentEpisode": 2,
+	"rating": 75,
+	"duration": 5,
+	"genres": ["Comedy", "Fantasy"],
+	"season": "SUMMER",
+	"studios": ["MAPPA"],
+	"subOrDub": "sub",
+	"type": "SPECIAL",
+	"recommendations": [],
+	"characters": [{
+		"id": 40882,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Eren",
+			"last": "Yeager",
+			"full": "Eren Yeager",
+			"native": "エレン・イェーガー",
+			"userPreferred": "Eren Yeager"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
+		"voiceActors": []
+	}, {
+		"id": 125659,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gabi",
+			"last": "Braun",
+			"full": "Gabi Braun",
+			"native": "ガビ ブラウン",
+			"userPreferred": "Gabi Braun"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png",
+		"voiceActors": []
+	}, {
+		"id": 40881,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mikasa",
+			"last": "Ackerman",
+			"full": "Mikasa Ackerman",
+			"native": "ミカサ・アッカーマン",
+			"userPreferred": "Mikasa Ackerman"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
+		"voiceActors": []
+	}, {
+		"id": 46498,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Jean",
+			"last": "Kirstein",
+			"full": "Jean Kirstein",
+			"native": "ジャン・キルシュタイン",
+			"userPreferred": "Jean Kirstein"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png",
+		"voiceActors": []
+	}, {
+		"id": 125660,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Falco",
+			"last": "Grice",
+			"full": "Falco Grice",
+			"native": "ファルコ・グライス",
+			"userPreferred": "Falco Grice"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b125660-mrmpOJLjJIkv.jpg",
+		"voiceActors": []
+	}, {
+		"id": 71121,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hange",
+			"last": "Zoe",
+			"full": "Hange Zoe",
+			"native": "ハンジ・ゾエ",
+			"userPreferred": "Hange Zoe"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png",
+		"voiceActors": []
+	}, {
+		"id": 45887,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sasha",
+			"last": "Blouse",
+			"full": "Sasha Blouse",
+			"native": "サシャ・ブラウス",
+			"userPreferred": "Sasha Blouse"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b45887-QPtJH0KwqthW.jpg",
+		"voiceActors": []
+	}, {
+		"id": 46494,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Armin",
+			"last": "Arlert",
+			"full": "Armin Arlert",
+			"native": "アルミン・アルレルト",
+			"userPreferred": "Armin Arlert"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
+		"voiceActors": []
+	}, {
+		"id": 45627,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Levi",
+			"last": "",
+			"full": "Levi",
+			"native": "リヴァイ",
+			"userPreferred": "Levi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
+		"voiceActors": []
+	}, {
+		"id": 46484,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Reiner",
+			"last": "Braun",
+			"full": "Reiner Braun",
+			"native": "ライナー・ブラウン",
+			"userPreferred": "Reiner Braun"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png",
+		"voiceActors": []
+	}, {
+		"id": 46486,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Connie",
+			"last": "Springer",
+			"full": "Connie Springer",
+			"native": "コニー・スプリンガー",
+			"userPreferred": "Connie Springer"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png",
+		"voiceActors": []
+	}],
+	"relations": [{
+		"id": 110277,
+		"relationType": "PARENT",
+		"malId": 40028,
+		"title": {
+			"romaji": "Shingeki no Kyojin: The Final Season",
+			"english": "Attack on Titan Final Season",
+			"native": "進撃の巨人 The Final Season",
+			"userPreferred": "Shingeki no Kyojin: The Final Season"
+		},
+		"status": "Completed",
+		"episodes": 16,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-qDRIhu50PXzz.jpg",
+		"color": "#ae5d1a",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110277-iuGn6F5bK1U1.jpg",
+		"rating": 87
+	}],
+	"episodes": [{
+		"id": "attack-on-titan-survey-corps-the-final-episode-1",
+		"title": null,
+		"image": "",
+		"number": 1,
+		"description": null
+	},{
+		"id": "attack-on-titan-survey-corps-the-final-episode-2",
+		"title": null,
+		"image": "",
+		"number": 2,
+		"description": null
+	},{
+		"id": "attack-on-titan-survey-corps-the-final-episode-3",
+		"title": null,
+		"image": "",
+		"number": 3,
+		"description": null
+	},{
+		"id": "attack-on-titan-survey-corps-the-final-episode-4",
+		"title": null,
+		"image": "",
+		"number": 4,
+		"description": null
+	},{
+		"id": "attack-on-titan-survey-corps-the-final-episode-5",
+		"title": null,
+		"image": "",
+		"number": 5,
+		"description": null
+	},{
+		"id": "attack-on-titan-survey-corps-the-final-episode-6",
+		"title": null,
+		"image": "",
+		"number":6,
+		"description": null
+	},{
+		"id": "attack-on-titan-survey-corps-the-final-episode-7",
+		"title": null,
+		"image": "",
+		"number": 7,
+		"description": null
+	}
+	]
+}
