@@ -1,5 +1,16 @@
 [
     {
+        "animeId": "attack-on-titan-since-that-day",
+        "episodeId": "attack-on-titan-since-that-day-episode-1",
+        "name": "Attack on Titan: Since That Day",
+        "jname": "Shingeki no Kyojin: Ano Hi Kara",
+        "episodeNum": "1",
+        "subOrDub": "sub",
+        "type": "special",
+        "imgUrl": "https://static.bunnycdn.ru/i/cache/images/2018/04/a0802fcc667e1dc1be9c2507f9e2b3a2.jpg",
+        "episodeUrl": "anime/attack-on-titan-since-that-day"
+    },
+    {
         "animeId": "attack-on-titan-part-ii-wings-of-freedom",
         "episodeId": "attack-on-titan-part-ii-wings-of-freedom-episode-1",
         "name": "Attack on Titan Part II: Wings of Freedom",
