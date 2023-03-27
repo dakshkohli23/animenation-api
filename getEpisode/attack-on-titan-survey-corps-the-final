@@ -1,0 +1,86 @@
+[
+        {
+            "server1": "blhm4s8zgjru",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 1",
+            "ep_num": "1",
+            "anime_info": "attack-on-titan-survey-corps-the-final",
+            "movie_id": "139754",
+            "alias": "attack-on-titan-survey-corps-the-final",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 2 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-the-final-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "naa6avd4c7m6",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 2",
+            "ep_num": "2",
+            "anime_info": "attack-on-titan-survey-corps-the-final",
+            "movie_id": "139754",
+            "alias": "attack-on-titan-survey-corps-the-final",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 3 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-the-final-episode-3",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 1",
+            "prevEpLink": "/attack-on-titan-survey-corps-the-final-episode-1"
+        },
+        {
+            "server1": "aiyjwzac4c0i",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 3",
+            "ep_num": "3",
+            "anime_info": "attack-on-titan-survey-corps-the-final",
+            "movie_id": "139754",
+            "alias": "attack-on-titan-survey-corps-the-final",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 4 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-the-final-episode-4",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 2",
+            "prevEpLink": "/attack-on-titan-survey-corps-the-final-episode-2"
+        },
+        {
+            "server1": "ej7l3uhx6arm",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 4",
+            "ep_num": "4",
+            "anime_info": "attack-on-titan-survey-corps-the-final",
+            "movie_id": "139754",
+            "alias": "attack-on-titan-survey-corps-the-final",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 5 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-the-final-episode-5",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 3",
+            "prevEpLink": "/attack-on-titan-survey-corps-the-final-episode-3"
+        },
+        {
+            "server1": "03lbx5uzqzof",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 5",
+            "ep_num": "5",
+            "anime_info": "attack-on-titan-survey-corps-the-final",
+            "movie_id": "139754",
+            "alias": "attack-on-titan-survey-corps-the-final",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 6 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-the-final-episode-6",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 4",
+            "prevEpLink": "/attack-on-titan-survey-corps-the-final-episode-4"
+        },
+        {
+            "server1": "sca4y3zwgz71",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 6",
+            "ep_num": "6",
+            "anime_info": "attack-on-titan-survey-corps-the-final",
+            "movie_id": "139754",
+            "alias": "attack-on-titan-survey-corps-the-final",
+            "nextEpText": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 7 >>",
+            "nextEpLink": "/attack-on-titan-survey-corps-the-final-episode-7",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 5",
+            "prevEpLink": "/attack-on-titan-survey-corps-the-final-episode-5"
+        },
+        {
+            "server1": "04hksa67ru9y",
+            "animeNameWithEP": "Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 7",
+            "ep_num": "7",
+            "anime_info": "attack-on-titan-survey-corps-the-final",
+            "movie_id": "139754",
+            "alias": "attack-on-titan-survey-corps-the-final",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Attack on Titan: Chibi Theater - Survey Corps, The Final Episode 6",
+            "prevEpLink": "/attack-on-titan-survey-corps-the-final-episode-6"
+        }
+    ]
