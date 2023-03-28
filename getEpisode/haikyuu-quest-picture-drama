@@ -1,0 +1,38 @@
+[
+        {
+            "server1": "xl5e51cpbt29",
+            "animeNameWithEP": "Haikyuu!! Quest Picture Drama Episode 1",
+            "ep_num": "1",
+            "anime_info": "haikyuu-quest-picture-drama",
+            "movie_id": "107263",
+            "alias": "haikyuu-quest-picture-drama",
+            "nextEpText": "Haikyuu!! Quest Picture Drama Episode 2 >>",
+            "nextEpLink": "/haikyuu-quest-picture-drama-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "qvww2tf0qp86",
+            "animeNameWithEP": "Haikyuu!! Quest Picture Drama Episode 2",
+            "ep_num": "2",
+            "anime_info": "haikyuu-quest-picture-drama",
+            "movie_id": "107263",
+            "alias": "haikyuu-quest-picture-drama",
+            "nextEpText": "Haikyuu!! Quest Picture Drama Episode 3 >>",
+            "nextEpLink": "/haikyuu-quest-picture-drama-episode-3",
+            "prevEpText": "<< Haikyuu!! Quest Picture Drama Episode 1",
+            "prevEpLink": "/haikyuu-quest-picture-drama-episode-1"
+        },
+        {
+            "server1": "tfo9x0zgxjmm",
+            "animeNameWithEP": "Haikyuu!! Quest Picture Drama Episode 3",
+            "ep_num": "3",
+            "anime_info": "haikyuu-quest-picture-drama",
+            "movie_id": "107263",
+            "alias": "haikyuu-quest-picture-drama",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Haikyuu!! Quest Picture Drama Episode 2",
+            "prevEpLink": "/haikyuu-quest-picture-drama-episode-2"
+        }
+    ]
