@@ -36,22 +36,7 @@
 	"studios": ["Production I.G"],
 	"subOrDub": "sub",
 	"type": "OVA",
-	"recommendations": [{
-		"id": 97985,
-		"malId": 34389,
-		"title": {
-			"romaji": "Koro-sensei Q! (ONA)",
-			"english": "Koro Sensei Quest!",
-			"native": "殺せんせーQ[クエスト]! (ONA)",
-			"userPreferred": "Koro-sensei Q! (ONA)"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97985-J9bPYFGSNLMG.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97985-J9bPYFGSNLMG.jpg",
-		"rating": 68,
-		"type": "ONA"
-	}],
+	"recommendations": [],
 	"characters": [{
 		"id": 77417,
 		"role": "MAIN",
