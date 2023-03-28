@@ -1,0 +1,168 @@
+{
+	"id": "107263",
+	"title": {
+		"romaji": "Haikyuu Quest",
+		"english": "Haikyuu!! Quest Picture Drama",
+		"native": "ハイキュークエスト"
+	},
+	"malId": 31675,
+	"synonyms": ["Haikyuu!! Quest Drama DVD", "Haikyu Quest"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107263-oF8OnpCOHFXd.jpg",
+	"popularity": 7115,
+	"color": "#e46b0d",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n107263-P32TXltkPVwY.jpg",
+	"description": "Picture Drama episodes from the special contents DVD bundled with the Haikyuu!! 3DS game.",
+	"status": "Completed",
+	"releaseDate": 2014,
+	"startDate": {
+		"year": 2014,
+		"month": 9,
+		"day": 25
+	},
+	"endDate": {
+		"year": 2014,
+		"month": 9,
+		"day": 25
+	},
+	"totalEpisodes": 3,
+	"currentEpisode": 3,
+	"rating": 62,
+	"duration": 4,
+	"genres": ["Comedy", "Fantasy", "Sports"],
+	"season": null,
+	"studios": ["Production I.G"],
+	"subOrDub": "sub",
+	"type": "OVA",
+	"recommendations": [{
+		"id": 97985,
+		"malId": 34389,
+		"title": {
+			"romaji": "Koro-sensei Q! (ONA)",
+			"english": "Koro Sensei Quest!",
+			"native": "殺せんせーQ[クエスト]! (ONA)",
+			"userPreferred": "Koro-sensei Q! (ONA)"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97985-J9bPYFGSNLMG.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97985-J9bPYFGSNLMG.jpg",
+		"rating": 68,
+		"type": "ONA"
+	}],
+	"characters": [{
+		"id": 77417,
+		"role": "MAIN",
+		"name": {
+			"first": "Takanobu",
+			"last": "Aone",
+			"full": "Takanobu Aone",
+			"native": "青根高伸",
+			"userPreferred": "Takanobu Aone"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b77417-XxLvn0PHaPGG.jpg",
+		"voiceActors": []
+	}, {
+		"id": 71611,
+		"role": "MAIN",
+		"name": {
+			"first": "Tooru",
+			"last": "Oikawa",
+			"full": "Tooru Oikawa",
+			"native": "及川徹",
+			"userPreferred": "Tooru Oikawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png",
+		"voiceActors": []
+	}, {
+		"id": 71267,
+		"role": "MAIN",
+		"name": {
+			"first": "Kenma",
+			"last": "Kozume",
+			"full": "Kenma Kozume",
+			"native": "孤爪研磨",
+			"userPreferred": "Kenma Kozume"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71267-q44J2MXMinXD.jpg",
+		"voiceActors": []
+	}, {
+		"id": 64769,
+		"role": "MAIN",
+		"name": {
+			"first": "Shouyou",
+			"last": "Hinata",
+			"full": "Shouyou Hinata",
+			"native": "日向翔陽",
+			"userPreferred": "Shouyou Hinata"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png",
+		"voiceActors": []
+	}, {
+		"id": 64771,
+		"role": "MAIN",
+		"name": {
+			"first": "Tobio",
+			"last": "Kageyama",
+			"full": "Tobio Kageyama",
+			"native": "影山飛雄",
+			"userPreferred": "Tobio Kageyama"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png",
+		"voiceActors": []
+	}, {
+		"id": 75636,
+		"role": "MAIN",
+		"name": {
+			"first": "Hajime",
+			"last": "Iwaizumi",
+			"full": "Hajime Iwaizumi",
+			"native": "岩泉一",
+			"userPreferred": "Hajime Iwaizumi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b75636-d8LM75218eDS.png",
+		"voiceActors": []
+	}],
+	"relations": [{
+		"id": 20464,
+		"relationType": "PARENT",
+		"malId": 20583,
+		"title": {
+			"romaji": "Haikyuu!!",
+			"english": "HAIKYU!!",
+			"native": "ハイキュー!!",
+			"userPreferred": "Haikyuu!!"
+		},
+		"status": "Completed",
+		"episodes": 25,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png",
+		"color": "#e48635",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20464-PpYjO9cPN1gs.jpg",
+		"rating": 83
+	}],
+	"episodes": [{
+		"id": "haikyuu-quest-picture-drama-episode-1",
+		"title": "",
+		"description": "",
+		"number": 1,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "haikyuu-quest-picture-drama-episode-2",
+		"title": "",
+		"description": "",
+		"number": 2,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "haikyuu-quest-picture-drama-episode-3",
+		"title": "",
+		"description": "",
+		"number": 3,
+		"image": "",
+		"airDate": ""
+	}]
+}
