@@ -1,0 +1,26 @@
+[
+        {
+            "server1": "7o4nyb0gtw75",
+            "animeNameWithEP": "HAIKYU!! LAND VS. AIR Episode 1",
+            "ep_num": "1",
+            "anime_info": "haikyu-land-vs-air",
+            "movie_id": "111790",
+            "alias": "haikyu-land-vs-air",
+            "nextEpText": "HAIKYU!! LAND VS. AIR Episode 2 >>",
+            "nextEpLink": "/haikyu-land-vs-air-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "jryhzrerfra6",
+            "animeNameWithEP": "HAIKYU!! LAND VS. AIR Episode 2",
+            "ep_num": "2",
+            "anime_info": "haikyu-land-vs-air",
+            "movie_id": "111790",
+            "alias": "haikyu-land-vs-air",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< HAIKYU!! LAND VS. AIR Episode 1",
+            "prevEpLink": "/haikyu-land-vs-air-episode-1"
+        }
+    ]
