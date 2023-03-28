@@ -432,6 +432,18 @@
             "genres": ["Comedy", "Drama", "Sports"]
         },
         {
+            "animeId": "haikyu-special-feature-the-spring-tournament-of-their-youth",
+            "episodeId": "haikyu-special-feature-the-spring-tournament-of-their-youth-episode-1",
+            "name": "HAIKYU!! - Special Feature! The Spring Tournament of Their Youth",
+            "jname": "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107351-ZKSXmSBU5ENA.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/haikyu-special-feature-the-spring-tournament-of-their-youth",
+            "genres": ["Sports"]
+        },
+        {
             "animeId": "haikyuu-second-season",
             "episodeId": "haikyuu-second-season-episode-1",
             "name": "HAIKYU!! 2nd Season",
@@ -456,6 +468,18 @@
             "genres": ["Comedy", "Drama", "Sports"]
         },
         {
+            "animeId": "haikyu-land-vs-air",
+            "episodeId": "haikyu-land-vs-air-episode-1",
+            "name": "HAIKYU!! LAND VS. AIR",
+            "jname": "Haikyuu!! Riku VS Kuu",
+            "episodeNum": "2",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/haikyu-land-vs-air",
+            "genres": ["Comedy", "Drama", "Sports"]
+        },
+        {
             "animeId": "haikyuu-to-the-top",
             "episodeId": "haikyuu-to-the-top-episode-1",
             "name": "HAIKYU!! TO THE TOP",
@@ -466,6 +490,42 @@
             "type": "tv",
             "episodeUrl": "anime/haikyuu-to-the-top",
             "genres": ["Comedy", "Drama", "Sports"]
+        },
+        {
+            "animeId": "haikyu-lev-appears",
+            "episodeId": "haikyu-lev-appears-episode-1",
+            "name": "HAIKYU!!: Lev Appears!",
+            "jname": "Haikyuu!!: Lev Kenzan!",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20884-5U9SNWxDJBeT.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/haikyu-lev-appears",
+            "genres": ["Comedy", "Drama", "Sports"]
+        },
+        {
+            "animeId": "haikyu-vs-failing-marks",
+            "episodeId": "haikyu-vs-failing-marks-episode-1",
+            "name": "HAIKYU!!: VS Failing Marks",
+            "jname": "Haikyuu!!: VS Akaten",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21348-IZvxjob7nMH1.jpg",
+            "type": "special",
+            "episodeUrl": "anime/haikyu-vs-failing-marks",
+            "genres": ["Comedy", "Drama", "Sports"]
+        },
+        {
+            "animeId": "haikyuu-quest-picture-drama",
+            "episodeId": "haikyuu-quest-picture-drama-episode-1",
+            "name": "Haikyuu!! Quest Picture Drama",
+            "jname": "Haikyuu Quest",
+            "episodeNum": "3",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107263-oF8OnpCOHFXd.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/haikyuu-quest-picture-drama",
+            "genres": ["Comedy", "Fantasy", "Sports"]
         },
         {
             "animeId": "how-not-to-summon-a-demon-lord",
