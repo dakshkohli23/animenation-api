@@ -1,5 +1,16 @@
 [
     {
+        "animeId": "haikyu-lev-appears",
+        "episodeId": "haikyu-lev-appears-episode-1",
+        "name": "HAIKYU!!: Lev Appears!",
+        "jname": "Haikyuu!!: Lev Kenzan!",
+        "episodeNum": "1",
+        "subOrDub": "sub",
+        "type": "ova",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20884-5U9SNWxDJBeT.jpg",
+        "episodeUrl": "anime/haikyu-lev-appears"
+    },
+    {
         "animeId": "attack-on-titan-survey-corps-the-final",
         "episodeId": "attack-on-titan-survey-corps-the-final-episode-1",
         "name": "Attack on Titan: Chibi Theater - Survey Corps, The Final",
