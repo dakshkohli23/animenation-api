@@ -1,0 +1,678 @@
+{
+	"id": "21244",
+	"title": {
+		"romaji": "Haikyuu!!: Shousha to Haisha",
+		"english": "Haikyuu!! the Movie: The Winner and the Loser",
+		"native": "ハイキュー!! 勝者と敗者"
+	},
+	"malId": 30364,
+	"synonyms": ["排球少年剧场版 胜者与败者", "ไฮคิว!! คู่ตบฟ้าประทาน เดอะมูฟวี่ 2"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png",
+	"popularity": 15884,
+	"color": "#e49343",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png",
+	"description": "The second retelling movie of the first season of the TV anime Haikyuu!!. Includes some new story material not previously released in the TV anime.",
+	"status": "Completed",
+	"releaseDate": 2015,
+	"startDate": {
+		"year": 2015,
+		"month": 9,
+		"day": 18
+	},
+	"endDate": {
+		"year": 2015,
+		"month": 9,
+		"day": 18
+	},
+	"totalEpisodes": 1,
+	"currentEpisode": 1,
+	"rating": 78,
+	"duration": 88,
+	"genres": ["Comedy", "Drama", "Sports"],
+	"season": "SUMMER",
+	"studios": ["Production I.G"],
+	"subOrDub": "sub",
+	"type": "MOVIE",
+	"recommendations": [],
+	"characters": [{
+		"id": 64769,
+		"role": "MAIN",
+		"name": {
+			"first": "Shouyou",
+			"last": "Hinata",
+			"full": "Shouyou Hinata",
+			"native": "日向翔陽",
+			"userPreferred": "Shouyou Hinata"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b64769-WoWlCMLLgJ14.png",
+		"voiceActors": [{
+			"id": 110919,
+			"language": "Japanese",
+			"name": {
+				"first": "Ayumu",
+				"last": "Murase",
+				"full": "Ayumu Murase",
+				"native": "村瀬歩",
+				"userPreferred": "Ayumu Murase"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png"
+		}]
+	}, {
+		"id": 64771,
+		"role": "MAIN",
+		"name": {
+			"first": "Tobio",
+			"last": "Kageyama",
+			"full": "Tobio Kageyama",
+			"native": "影山飛雄",
+			"userPreferred": "Tobio Kageyama"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b64771-BuCVs7B8bBdh.png",
+		"voiceActors": [{
+			"id": 115156,
+			"language": "Japanese",
+			"name": {
+				"first": "Kaito",
+				"last": "Ishikawa",
+				"full": "Kaito Ishikawa",
+				"native": "石川界人",
+				"userPreferred": "Kaito Ishikawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png"
+		}]
+	}, {
+		"id": 67321,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Koushi",
+			"last": "Sugawara",
+			"full": "Koushi Sugawara",
+			"native": "菅原孝支",
+			"userPreferred": "Koushi Sugawara"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b67321-cxP7NdI0JC3H.png",
+		"voiceActors": [{
+			"id": 95088,
+			"language": "Japanese",
+			"name": {
+				"first": "Miyu",
+				"last": "Irino",
+				"full": "Miyu Irino",
+				"native": "入野自由",
+				"userPreferred": "Miyu Irino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png"
+		}]
+	}, {
+		"id": 73679,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ittetsu",
+			"last": "Takeda",
+			"full": "Ittetsu Takeda",
+			"native": "武田 一鉄",
+			"userPreferred": "Ittetsu Takeda"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n73679-OS9fOsMjSJua.png",
+		"voiceActors": [{
+			"id": 95118,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroshi",
+				"last": "Kamiya",
+				"full": "Hiroshi Kamiya",
+				"native": "神谷浩史",
+				"userPreferred": "Hiroshi Kamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+		}]
+	}, {
+		"id": 137482,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Takurou",
+			"last": "Oiwake",
+			"full": "Takurou Oiwake",
+			"native": "追分拓朗",
+			"userPreferred": "Takurou Oiwake"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137482-EgU20W0nK30E.png",
+		"voiceActors": []
+	}, {
+		"id": 77413,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kaname",
+			"last": "Moniwa",
+			"full": "Kaname Moniwa",
+			"native": "茂庭要",
+			"userPreferred": "Kaname Moniwa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b77413-XuqkC1XD1T22.png",
+		"voiceActors": [{
+			"id": 110457,
+			"language": "Japanese",
+			"name": {
+				"first": "Takashi",
+				"last": "Onozuka",
+				"full": "Takashi Onozuka",
+				"native": "小野塚貴志",
+				"userPreferred": "Takashi Onozuka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110457-0uMrhHbGj9Gd.png"
+		}]
+	}, {
+		"id": 70861,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Keishin",
+			"last": "Ukai",
+			"full": "Keishin Ukai",
+			"native": "烏養 繋心",
+			"userPreferred": "Keishin Ukai"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b70861-mW9IE5G9Ov8J.jpg",
+		"voiceActors": [{
+			"id": 95738,
+			"language": "Japanese",
+			"name": {
+				"first": "Kazunari",
+				"last": "Tanaka",
+				"full": "Kazunari Tanaka",
+				"native": "田中一成",
+				"userPreferred": "Kazunari Tanaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95738-TbYK2DzO5d1Y.png"
+		}]
+	}, {
+		"id": 77419,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Nobuteru",
+			"last": "Irihata",
+			"full": "Nobuteru Irihata",
+			"native": "入畑伸照 ",
+			"userPreferred": "Nobuteru Irihata"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b77419-MunWILU6gUJa.jpg",
+		"voiceActors": [{
+			"id": 95945,
+			"language": "Japanese",
+			"name": {
+				"first": "Mitsuaki",
+				"last": "Hoshino",
+				"full": "Mitsuaki Hoshino",
+				"native": "星野充昭",
+				"userPreferred": "Mitsuaki Hoshino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95945-SnY7HVDqchdI.jpg"
+		}]
+	}, {
+		"id": 77165,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yui",
+			"last": "Michimiya",
+			"full": "Yui Michimiya",
+			"native": "道宮結",
+			"userPreferred": "Yui Michimiya"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b77165-H2YhpXe7bk9u.jpg",
+		"voiceActors": [{
+			"id": 106787,
+			"language": "Japanese",
+			"name": {
+				"first": "Asami",
+				"last": "Seto",
+				"full": "Asami Seto",
+				"native": "瀬戸麻沙美",
+				"userPreferred": "Asami Seto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-pNRFEiywJuEx.png"
+		}]
+	}, {
+		"id": 71611,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tooru",
+			"last": "Oikawa",
+			"full": "Tooru Oikawa",
+			"native": "及川徹",
+			"userPreferred": "Tooru Oikawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71611-cUZwVfzeNXD9.png",
+		"voiceActors": [{
+			"id": 95087,
+			"language": "Japanese",
+			"name": {
+				"first": "Daisuke",
+				"last": "Namikawa",
+				"full": "Daisuke Namikawa",
+				"native": "浪川大輔",
+				"userPreferred": "Daisuke Namikawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png"
+		}]
+	}, {
+		"id": 67329,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kei",
+			"last": "Tsukishima",
+			"full": "Kei Tsukishima",
+			"native": "月島蛍",
+			"userPreferred": "Kei Tsukishima"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b67329-k7mDdqQ6rJ4w.png",
+		"voiceActors": [{
+			"id": 96764,
+			"language": "Japanese",
+			"name": {
+				"first": "Kouki",
+				"last": "Uchiyama",
+				"full": "Kouki Uchiyama",
+				"native": "内山昂輝",
+				"userPreferred": "Kouki Uchiyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96764-zzHkGJUSV4LJ.png"
+		}]
+	}, {
+		"id": 77417,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Takanobu",
+			"last": "Aone",
+			"full": "Takanobu Aone",
+			"native": "青根高伸",
+			"userPreferred": "Takanobu Aone"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b77417-XxLvn0PHaPGG.jpg",
+		"voiceActors": [{
+			"id": 119048,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroki",
+				"last": "Matsukawa",
+				"full": "Hiroki Matsukawa",
+				"native": "松川裕輝",
+				"userPreferred": "Hiroki Matsukawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119048-7hScWHmCgSL7.png"
+		}]
+	}, {
+		"id": 73681,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yuutarou",
+			"last": "Kindaichi",
+			"full": "Yuutarou Kindaichi",
+			"native": "金田一勇太郎",
+			"userPreferred": "Yuutarou Kindaichi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b73681-DBHzToOoEFVb.jpg",
+		"voiceActors": [{
+			"id": 112635,
+			"language": "Japanese",
+			"name": {
+				"first": "Makoto",
+				"last": "Furukawa",
+				"full": "Makoto Furukawa",
+				"native": "古川慎",
+				"userPreferred": "Makoto Furukawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112635-ORlGvRvgf5Nq.png"
+		}]
+	}, {
+		"id": 67323,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Daichi",
+			"last": "Sawamura",
+			"full": "Daichi Sawamura",
+			"native": "澤村大地",
+			"userPreferred": "Daichi Sawamura"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b67323-yFbLDAfJ5ysG.png",
+		"voiceActors": [{
+			"id": 95245,
+			"language": "Japanese",
+			"name": {
+				"first": "Satoshi",
+				"last": "Hino",
+				"full": "Satoshi Hino",
+				"native": "日野聡",
+				"userPreferred": "Satoshi Hino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg"
+		}]
+	}, {
+		"id": 137468,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Issei",
+			"last": "Matsukawa",
+			"full": "Issei Matsukawa",
+			"native": "松川一静",
+			"userPreferred": "Issei Matsukawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137468-fjZut9jfWPf6.png",
+		"voiceActors": []
+	}, {
+		"id": 137470,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Takahiro",
+			"last": "Hanamaki",
+			"full": "Takahiro Hanamaki",
+			"native": "花巻貴大",
+			"userPreferred": "Takahiro Hanamaki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137470-bM0JpKqbB0oK.png",
+		"voiceActors": [{
+			"id": 109163,
+			"language": "Japanese",
+			"name": {
+				"first": "Tooru",
+				"last": "Sakurai",
+				"full": "Tooru Sakurai",
+				"native": "櫻井トオル",
+				"userPreferred": "Tooru Sakurai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109163-KahzNt76su69.png"
+		}]
+	}, {
+		"id": 67333,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Asahi",
+			"last": "Azumane",
+			"full": "Asahi Azumane",
+			"native": "東峰旭",
+			"userPreferred": "Asahi Azumane"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b67333-on5KXeKxZqKs.png",
+		"voiceActors": [{
+			"id": 100626,
+			"language": "Japanese",
+			"name": {
+				"first": "Yoshimasa",
+				"last": "Hosoya",
+				"full": "Yoshimasa Hosoya",
+				"native": "細谷佳正",
+				"userPreferred": "Yoshimasa Hosoya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg"
+		}]
+	}, {
+		"id": 71609,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tadashi",
+			"last": "Yamaguchi",
+			"full": "Tadashi Yamaguchi",
+			"native": "山口忠",
+			"userPreferred": "Tadashi Yamaguchi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b71609-5Ht0aqB34eEa.png",
+		"voiceActors": [{
+			"id": 113227,
+			"language": "Japanese",
+			"name": {
+				"first": "Souma",
+				"last": "Saitou",
+				"full": "Souma Saitou",
+				"native": "斉藤壮馬",
+				"userPreferred": "Souma Saitou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png"
+		}]
+	}, {
+		"id": 67327,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yuu",
+			"last": "Nishinoya",
+			"full": "Yuu Nishinoya",
+			"native": "西谷夕",
+			"userPreferred": "Yuu Nishinoya"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b67327-zQb1dlC7joPb.jpg",
+		"voiceActors": [{
+			"id": 95270,
+			"language": "Japanese",
+			"name": {
+				"first": "Nobuhiko",
+				"last": "Okamoto",
+				"full": "Nobuhiko Okamoto",
+				"native": "岡本信彦",
+				"userPreferred": "Nobuhiko Okamoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+		}]
+	}, {
+		"id": 80513,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Makoto",
+			"last": "Shimada",
+			"full": "Makoto Shimada",
+			"native": "嶋田誠",
+			"userPreferred": "Makoto Shimada"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/80513.jpg",
+		"voiceActors": [{
+			"id": 96489,
+			"language": "Japanese",
+			"name": {
+				"first": "Tomoaki",
+				"last": "Maeno",
+				"full": "Tomoaki Maeno",
+				"native": "前野智昭",
+				"userPreferred": "Tomoaki Maeno"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96489-xTzYxgdC9g9l.png"
+		}]
+	}, {
+		"id": 80511,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yuusuke",
+			"last": "Takinoue",
+			"full": "Yuusuke Takinoue",
+			"native": "滝ノ上祐輔",
+			"userPreferred": "Yuusuke Takinoue"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b80511-UdUNR2OI5ipW.png",
+		"voiceActors": [{
+			"id": 95431,
+			"language": "Japanese",
+			"name": {
+				"first": "Shuuhei",
+				"last": "Sakaguchi",
+				"full": "Shuuhei Sakaguchi",
+				"native": "阪口 周平",
+				"userPreferred": "Shuuhei Sakaguchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/431.jpg"
+		}]
+	}, {
+		"id": 67325,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ryuunosuke",
+			"last": "Tanaka",
+			"full": "Ryuunosuke Tanaka",
+			"native": "田中龍之介",
+			"userPreferred": "Ryuunosuke Tanaka"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b67325-yPkbZJkofp5w.jpg",
+		"voiceActors": [{
+			"id": 116157,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuu",
+				"last": "Hayashi",
+				"full": "Yuu Hayashi",
+				"native": "林勇",
+				"userPreferred": "Yuu Hayashi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116157-MAPYgEeptEUh.png"
+		}]
+	}, {
+		"id": 67689,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kiyoko",
+			"last": "Shimizu",
+			"full": "Kiyoko Shimizu",
+			"native": "清水潔子",
+			"userPreferred": "Kiyoko Shimizu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b67689-QaYw1qDMjwKM.png",
+		"voiceActors": [{
+			"id": 95078,
+			"language": "Japanese",
+			"name": {
+				"first": "Kaori",
+				"last": "Nazuka",
+				"full": "Kaori Nazuka",
+				"native": "名塚佳織",
+				"userPreferred": "Kaori Nazuka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg"
+		}]
+	}, {
+		"id": 89508,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Akira",
+			"last": "Kunimi",
+			"full": "Akira Kunimi",
+			"native": "国見英",
+			"userPreferred": "Akira Kunimi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b89508-Qx1QErebdTaD.jpg",
+		"voiceActors": [{
+			"id": 103639,
+			"language": "Japanese",
+			"name": {
+				"first": "Atsushi",
+				"last": "Tamaru",
+				"full": "Atsushi Tamaru",
+				"native": "田丸篤志",
+				"userPreferred": "Atsushi Tamaru"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103639-HsiG5W51qgzi.png"
+		}]
+	}, {
+		"id": 137471,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sadayuki",
+			"last": "Mizoguchi",
+			"full": "Sadayuki Mizoguchi",
+			"native": "溝口貞幸",
+			"userPreferred": "Sadayuki Mizoguchi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b137471-AKKCdEj83s76.png",
+		"voiceActors": [{
+			"id": 106629,
+			"language": "Japanese",
+			"name": {
+				"first": "Seirou",
+				"last": "Ogino",
+				"full": "Seirou Ogino",
+				"native": "荻野晴朗",
+				"userPreferred": "Seirou Ogino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106629-TT3F7WfC3wLq.png"
+		}]
+	}],
+	"relations": [{
+		"id": 21120,
+		"relationType": "PREQUEL",
+		"malId": 29755,
+		"title": {
+			"romaji": "Haikyuu!!: Owari to Hajimari",
+			"english": "Haikyu!! the Movie: The End and the Beginning",
+			"native": "ハイキュー!! 終わりと始まり",
+			"userPreferred": "Haikyuu!!: Owari to Hajimari"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg",
+		"color": "#e49343",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg",
+		"rating": 78
+	}, {
+		"id": 20464,
+		"relationType": "PARENT",
+		"malId": 20583,
+		"title": {
+			"romaji": "Haikyuu!!",
+			"english": "HAIKYU!!",
+			"native": "ハイキュー!!",
+			"userPreferred": "Haikyuu!!"
+		},
+		"status": "Completed",
+		"episodes": 25,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png",
+		"color": "#e48635",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20464-PpYjO9cPN1gs.jpg",
+		"rating": 83
+	}, {
+		"id": 65243,
+		"relationType": "ADAPTATION",
+		"malId": 35243,
+		"title": {
+			"romaji": "Haikyuu!!",
+			"english": "Haikyu!!",
+			"native": "ハイキュー！！",
+			"userPreferred": "Haikyuu!!"
+		},
+		"status": "Completed",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx65243-mR4MnJFmfaOF.png",
+		"color": "#f17843",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/65243-naohhXW4M4b9.jpg",
+		"rating": 89
+	}, {
+		"id": 98884,
+		"relationType": "SEQUEL",
+		"malId": 35110,
+		"title": {
+			"romaji": "Haikyuu!!: Sainou to Sense",
+			"english": "Haikyu!! The Movie: Talent and Sense",
+			"native": "ハイキュー!! 才能とセンス",
+			"userPreferred": "Haikyuu!!: Sainou to Sense"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
+		"color": "#ff9343",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
+		"rating": 80
+	}],
+	"mappings": {
+		"mal": 30364,
+		"kitsu": 10847,
+		"anilist": 21244,
+		"livechart": 1452,
+		"notify.moe": "ruOltKimR",
+		"anime-planet": "haikyuu-movie-2-shousha-to-haisha"
+	},
+	"episodes": [{
+		"id": "haikyuu-the-movie-the-winner-and-the-loser-episode-1",
+		"title": null,
+		"image": "",
+		"number": 1,
+		"description": null
+	}]
+}
