@@ -480,6 +480,42 @@
             "genres": ["Comedy", "Drama", "Sports"]
         },
         {
+            "animeId": "haikyu-the-movie-battle-of-concepts",
+            "episodeId": "haikyu-the-movie-battle-of-concepts-episode-1",
+            "name": "Haikyu!! The Movie: Battle of Concepts",
+            "jname": "Haikyuu!!: Concept no Tatakai",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98885-xzHYFUr0keBT.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/haikyu-the-movie-battle-of-concepts",
+            "genres": ["Comedy", "Drama", "Sports"]
+        },
+        {
+            "animeId": "haikyu-the-movie-talent-and-sense",
+            "episodeId": "haikyu-the-movie-talent-and-sense-episode-1",
+            "name": "Haikyu!! The Movie: Talent and Sense",
+            "jname": "Haikyuu!!: Sainou to Sense",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
+            "type": "movie",
+            "episodeUrl": "anime/haikyu-the-movie-talent-and-sense",
+            "genres": ["Comedy", "Drama", "Sports"]
+        },
+        {
+            "animeId": "haikyu-the-movie-the-end-and-the-beginning",
+            "episodeId": "haikyu-the-movie-the-end-and-the-beginning-episode-1",
+            "name": "Haikyu!! the Movie: The End and the Beginning",
+            "jname": "Haikyuu!!: Owari to Hajimari",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/haikyu-the-movie-the-end-and-the-beginning",
+            "genres": ["Comedy", "Drama", "Sports"]
+        },
+        {
             "animeId": "haikyuu-to-the-top",
             "episodeId": "haikyuu-to-the-top-episode-1",
             "name": "HAIKYU!! TO THE TOP",
@@ -526,6 +562,18 @@
             "type": "ova",
             "episodeUrl": "anime/haikyuu-quest-picture-drama",
             "genres": ["Comedy", "Fantasy", "Sports"]
+        },
+        {
+            "animeId": "haikyu-the-movie-the-winner-and-the-loser",
+            "episodeId": "haikyu-the-movie-the-winner-and-the-loser-episode-1",
+            "name": "Haikyuu!! the Movie: The Winner and the Loser",
+            "jname": "Haikyuu!!: Shousha to Haisha",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png",
+            "type": "movie",
+            "episodeUrl": "anime/haikyu-the-movie-the-winner-and-the-loser",
+            "genres": ["Comedy", "Drama", "Sports"]
         },
         {
             "animeId": "how-not-to-summon-a-demon-lord",
