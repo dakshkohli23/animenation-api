@@ -1,4 +1,49 @@
-[{
+[
+{
+		"animeId": "haikyu-the-movie-battle-of-concepts",
+		"episodeId": "haikyu-the-movie-battle-of-concepts-episode-1",
+		"name": "Haikyu!! The Movie: Battle of Concepts",
+		"jname": "Haikyuu!!: Concept no Tatakai",
+		"episodeNum": "1",
+		"subOrDub": "sub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98885-xzHYFUr0keBT.jpg",
+		"episodeUrl": "../anime/haikyu-the-movie-battle-of-concepts"
+	},
+{
+		"animeId": "haikyu-the-movie-talent-and-sense",
+		"episodeId": "haikyu-the-movie-talent-and-sense-episode-1",
+		"name": "Haikyu!! The Movie: Talent and Sense",
+		"jname": "Haikyuu!!: Sainou to Sense",
+		"episodeNum": "1",
+		"subOrDub": "sub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
+		"episodeUrl": "../anime/haikyu-the-movie-talent-and-sense"
+	},
+{
+		"animeId": "haikyu-the-movie-the-winner-and-the-loser",
+		"episodeId": "haikyu-the-movie-the-winner-and-the-loser-episode-1",
+		"name": "Haikyuu!! the Movie: The Winner and the Loser",
+		"jname": "Haikyuu!!: Shousha to Haisha",
+		"episodeNum": "1",
+		"subOrDub": "sub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png",
+		"episodeUrl": "../anime/haikyu-the-movie-the-winner-and-the-loser"
+	},
+{
+		"animeId": "haikyu-the-movie-the-end-and-the-beginning",
+		"episodeId": "haikyu-the-movie-the-end-and-the-beginning-episode-1",
+		"name": "Haikyu!! the Movie: The End and the Beginning",
+		"jname": "Haikyuu!!: Owari to Hajimari",
+		"episodeNum": "1",
+		"subOrDub": "sub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg",
+		"episodeUrl": "../anime/haikyu-the-movie-the-end-and-the-beginning"
+	},
+{
 		"animeId": "haikyu-land-vs-air",
 		"episodeId": "haikyu-land-vs-air-episode-1",
 		"name": "HAIKYU!! LAND VS. AIR",
