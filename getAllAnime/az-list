@@ -420,6 +420,18 @@
             "genres": ["Action", "Adventure", "Drama", "Fantasy", "Mystery", "Supernatural"]
         },
         {
+            "animeId": "haikyuu-to-the-top-2",
+            "episodeId": "haikyuu-to-the-top-2-episode-1",
+            "name": "HAIKYU‼ TO THE TOP Part 2",
+            "jname": "Haikyuu!! TO THE TOP 2",
+            "episodeNum": "23",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113538-tHVE8j5mOPLu.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/haikyuu-to-the-top-2",
+            "genres": ["Comedy", "Drama", "Sports"]
+        },
+        {
             "animeId": "haikyuu",
             "episodeId": "haikyuu-episode-1",
             "name": "HAIKYU!!",
