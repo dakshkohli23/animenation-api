@@ -41,7 +41,230 @@
 	"studios": ["Production I.G"],
 	"subOrDub": "sub",
 	"type": "OVA",
-	"recommendations": [],
+	"recommendations": [{
+      "id": 20464,
+      "malId": 20583,
+      "title": {
+        "romaji": "Haikyuu!!",
+		"english": "HAIKYU!!",
+		"native": "ハイキュー!!"
+      },
+      "status": "Completed",
+      "episodes": 25,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20464-PpYjO9cPN1gs.jpg",
+      "rating": 83,
+      "type": "tv",
+	  "animeurl": "haikyuu"
+},
+	{
+      "id": 20992,
+      "malId": 28891,
+      "title": {
+        "romaji": "Haikyuu!! 2nd Season",
+		"english": "HAIKYU!! 2nd Season",
+		"native": "ハイキュー!! セカンドシーズン"
+      },
+      "status": "Completed",
+      "episodes": 25,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20992-QMdqxEjAIAit.jpg",
+      "rating": 86,
+      "type": "tv",
+	  "animeurl": "haikyuu-second-season"
+},
+	{
+      "id": 21698,
+      "malId": 32935,
+      "title": {
+        "romaji": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+		"english": "HAIKYU!! 3rd Season",
+		"native": "ハイキュー!! 烏野高校 VS 白鳥沢学園高校"
+      },
+      "status": "Completed",
+      "episodes": 10,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21698-jVFRIHAENS5B.jpg",
+      "rating": 87,
+      "type": "tv",
+	  "animeurl": "haikyu-3rd-season"
+},
+	{
+      "id": 106625,
+      "malId": 38883,
+      "title": {
+        "romaji": "Haikyuu!! TO THE TOP",
+		"english": "HAIKYU!! TO THE TOP",
+		"native": "ハイキュー!! TO THE TOP"
+      },
+      "status": "Completed",
+      "episodes": 13,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106625-wab2Mx4NQqPQ.jpg",
+      "rating": 83,
+      "type": "tv",
+	  "animeurl": "haikyuu-to-the-top"
+},
+	{
+      "id": 113538,
+      "malId": 40776,
+      "title": {
+        "romaji": "Haikyuu!! TO THE TOP 2",
+		"english": "HAIKYU‼ TO THE TOP Part 2",
+		"native": "ハイキュー!! TO THE TOP 2"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113538-tHVE8j5mOPLu.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113538-YAcNXzT07eWR.jpg",
+      "rating": 85,
+      "type": "tv",
+	  "animeurl": "haikyuu-to-the-top-2"
+},
+	{
+      "id": 21120,
+      "malId": 29755,
+      "title": {
+        "romaji": "Haikyuu!!: Owari to Hajimari",
+		"english": "Haikyu!! the Movie: The End and the Beginning",
+		"native": "ハイキュー!! 終わりと始まり"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg",
+      "rating": 77,
+      "type": "movie",
+	  "animeurl": "haikyu-the-movie-the-end-and-the-beginning"
+},
+	{
+      "id": 21244,
+      "malId": 30364,
+      "title": {
+        "romaji": "Haikyuu!!: Shousha to Haisha",
+		"english": "Haikyuu!! the Movie: The Winner and the Loser",
+		"native": "ハイキュー!! 勝者と敗者"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png",
+      "rating": 78,
+      "type": "movie",
+	  "animeurl": "haikyu-the-movie-the-winner-and-the-loser"
+},
+	{
+      "id": 98884,
+      "malId": 35110,
+      "title": {
+        "romaji": "Haikyuu!!: Sainou to Sense",
+		"english": "Haikyu!! The Movie: Talent and Sense",
+		"native": "ハイキュー!! 才能とセンス"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
+      "rating": 79,
+      "type": "movie",
+	  "animeurl": "haikyu-the-movie-talent-and-sense"
+},
+	{
+      "id": 98885,
+      "malId": 35111,
+      "title": {
+        "romaji": "Haikyuu!!: Concept no Tatakai",
+		"english": "Haikyu!! The Movie: Battle of Concepts",
+		"native": "ハイキュー!! コンセプトの戦い"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98885-xzHYFUr0keBT.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98885-xzHYFUr0keBT.jpg",
+      "rating": 80,
+      "type": "movie",
+	  "animeurl": "haikyu-the-movie-battle-of-concepts"
+},
+	{
+      "id": 20884,
+      "malId": 25303,
+      "title": {
+        "romaji": "Haikyuu!!: Lev Kenzan!",
+		"english": "HAIKYU!!: Lev Appears!",
+		"native": "ハイキュー!! リエーフ見参！"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20884-5U9SNWxDJBeT.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20884-Zg7MCFhTQx2I.jpg",
+      "rating": 75,
+      "type": "ova",
+	  "animeurl": "haikyu-lev-appears"
+},
+	{
+      "id": 107263,
+      "malId": 31675,
+      "title": {
+        "romaji": "Haikyuu Quest",
+		"english": "Haikyuu!! Quest Picture Drama",
+		"native": "ハイキュークエスト"
+      },
+      "status": "Completed",
+      "episodes": 3,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107263-oF8OnpCOHFXd.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n107263-P32TXltkPVwY.jpg",
+      "rating": 62,
+      "type": "ova",
+	  "animeurl": "haikyuu-quest-picture-drama"
+},
+	{
+      "id": 107351,
+      "malId": 35321,
+      "title": {
+        "romaji": "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun",
+		"english": "HAIKYU!! - Special Feature! The Spring Tournament of Their Youth",
+		"native": "ハイキュー!! 特集！春高バレーに賭けた青春"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107351-ZKSXmSBU5ENA.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107351-ZKSXmSBU5ENA.jpg",
+      "rating": 73,
+      "type": "ova",
+	  "animeurl": "haikyu-special-feature-the-spring-tournament-of-their-youth"
+},
+	{
+      "id": 111790,
+      "malId": 40262,
+      "title": {
+        "romaji": "Haikyuu!! Riku VS Kuu",
+		"english": "HAIKYU!! LAND VS. AIR",
+		"native": "ハイキュー‼ 陸 VS 空"
+      },
+      "status": "Completed",
+      "episodes": 2,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/111790-7Rd7KpP15vsm.jpg",
+      "rating": 78,
+      "type": "ova",
+	  "animeurl": "haikyu-land-vs-air"
+},
+	{
+      "id": 21348,
+      "malId": 35806,
+      "title": {
+        "romaji": "Haikyuu!!: VS Akaten",
+		"english": "HAIKYU!!: VS Failing Marks",
+		"native": "ハイキュー!! VS赤点"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21348-IZvxjob7nMH1.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21348-Baut72cxKVUq.jpg",
+      "rating": 77,
+      "type": "special",
+	  "animeurl": "haikyu-vs-failing-marks"
+}],
 	"characters": [{
 		"id": 89517,
 		"role": "MAIN",
