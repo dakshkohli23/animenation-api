@@ -1284,6 +1284,18 @@
             "genres": ["Action", "Adventure"]
         },
         {
+            "animeId": "ramayana-the-legend-of-prince-rama",
+            "episodeId": "ramayana-the-legend-of-prince-rama-episode-1",
+            "name": "Ramayana: The Legend of Prince Rama",
+            "jname": "Ramayana: Rama Ouji Densetsu",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6bGVpojv1f3cth9Quc5H5HOWDTF.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/ramayana-the-legend-of-prince-rama",
+            "genres": ["Adventure"]
+        },
+        {
             "animeId": "spy-x-family",
             "episodeId": "spy-x-family-episode-1",
             "name": "SPY x FAMILY",
