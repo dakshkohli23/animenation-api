@@ -1,0 +1,5707 @@
+{
+	"id": "269",
+	"title": {
+		"romaji": "BLEACH",
+		"english": "Bleach",
+		"native": "BLEACH"
+	},
+	"malId": 269,
+	"synonyms": ["ブリーチ", "'בליץ", "เทพมรณะ", "بليتش"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxkqTIuQgJ6v.png",
+	"popularity": 285230,
+	"color": "#f19335",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/269-08ar2HJOUAuL.jpg",
+	"description": "Ichigo Kurosaki is a rather normal high school student apart from the fact he has the ability to see ghosts. This ability never impacted his life in a major way until the day he encounters the Shinigami Kuchiki Rukia, who saves him and his family's lives from a Hollow, a corrupt spirit that devours human souls. \n<br><br>\nWounded during the fight against the Hollow, Rukia chooses the only option available to defeat the monster and passes her Shinigami powers to Ichigo. Now forced to act as a substitute until Rukia recovers, Ichigo hunts down the Hollows that plague his town. \n\n\n",
+	"status": "Completed",
+	"releaseDate": 2004,
+	"startDate": {
+		"year": 2004,
+		"month": 10,
+		"day": 5
+	},
+	"endDate": {
+		"year": 2012,
+		"month": 3,
+		"day": 27
+	},
+	"totalEpisodes": 366,
+	"currentEpisode": 366,
+	"rating": 77,
+	"duration": 24,
+	"genres": ["Action", "Adventure", "Supernatural"],
+	"season": "FALL",
+	"studios": ["Studio Pierrot"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 6,
+		"role": "MAIN",
+		"name": {
+			"first": "Rukia",
+			"last": "Kuchiki",
+			"full": "Rukia Kuchiki",
+			"native": "朽木ルキア",
+			"userPreferred": "Rukia Kuchiki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b6-25WoBeWMZXBc.png",
+		"voiceActors": [{
+			"id": 95152,
+			"language": "Japanese",
+			"name": {
+				"first": "Fumiko",
+				"last": "Orikasa",
+				"full": "Fumiko Orikasa",
+				"native": "折笠富美子",
+				"userPreferred": "Fumiko Orikasa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95152-Kf6dmYhZiqAY.png"
+		}, {
+			"id": 218048,
+			"language": "Japanese",
+			"name": {
+				"first": "Miki",
+				"last": "Satou",
+				"full": "Miki Satou",
+				"native": "佐藤美貴",
+				"userPreferred": "Miki Satou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n218048-x09i76PjLM2A.png"
+		}, {
+			"id": 95085,
+			"language": "English",
+			"name": {
+				"first": "Michelle",
+				"last": "Ruff",
+				"full": "Michelle Ruff",
+				"native": null,
+				"userPreferred": "Michelle Ruff"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95085-zJmU0x2NLr3j.jpg"
+		}, {
+			"id": 109835,
+			"language": "Korean",
+			"name": {
+				"first": "Hyeon-Jin",
+				"last": "Lee",
+				"full": "Hyeon-Jin Lee",
+				"native": "이현진",
+				"userPreferred": "Hyeon-Jin Lee"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14835.jpg"
+		}, {
+			"id": 158950,
+			"language": "Italian",
+			"name": {
+				"first": "Martina",
+				"last": "Tamburello",
+				"full": "Martina Tamburello",
+				"native": null,
+				"userPreferred": "Martina Tamburello"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n158950-IhZBU2Gp4kG8.png"
+		}, {
+			"id": 116455,
+			"language": "Spanish",
+			"name": {
+				"first": "Liliana",
+				"last": "Barba",
+				"full": "Liliana Barba",
+				"native": null,
+				"userPreferred": "Liliana Barba"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116455-oV4zERYf9v2u.jpg"
+		}, {
+			"id": 96442,
+			"language": "Portuguese",
+			"name": {
+				"first": "Tatiane",
+				"last": "Keplmair",
+				"full": "Tatiane Keplmair",
+				"native": null,
+				"userPreferred": "Tatiane Keplmair"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96442-gv5GmEg0qPEK.jpg"
+		}, {
+			"id": 194017,
+			"language": "Portuguese",
+			"name": {
+				"first": "Rebeca ",
+				"last": "Zadra",
+				"full": "Rebeca  Zadra",
+				"native": null,
+				"userPreferred": "Rebeca  Zadra"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n194017-LAkWqFFI59dR.png"
+		}, {
+			"id": 101851,
+			"language": "French",
+			"name": {
+				"first": "Francoise",
+				"last": "Escobar",
+				"full": "Francoise Escobar",
+				"native": null,
+				"userPreferred": "Francoise Escobar"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101851-IKQvZmo7GSJt.jpg"
+		}, {
+			"id": 285846,
+			"language": "French",
+			"name": {
+				"first": "Françoise",
+				"last": "Escobar",
+				"full": "Françoise Escobar",
+				"native": null,
+				"userPreferred": "Françoise Escobar"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n285846-c5nSn9Cw9xRW.jpg"
+		}, {
+			"id": 103549,
+			"language": "German",
+			"name": {
+				"first": "Antje",
+				"last": "von der Ahe",
+				"full": "Antje von der Ahe",
+				"native": null,
+				"userPreferred": "Antje von der Ahe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8549.jpg"
+		}, {
+			"id": 102802,
+			"language": "Hungarian",
+			"name": {
+				"first": "Kitty",
+				"last": "Mezei",
+				"full": "Kitty Mezei",
+				"native": null,
+				"userPreferred": "Kitty Mezei"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7802.jpg"
+		}]
+	}, {
+		"id": 575,
+		"role": "MAIN",
+		"name": {
+			"first": "Yasutora",
+			"last": "Sado",
+			"full": "Yasutora Sado",
+			"native": "茶渡泰虎",
+			"userPreferred": "Yasutora Sado"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/575.jpg",
+		"voiceActors": [{
+			"id": 95025,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroki",
+				"last": "Yasumoto",
+				"full": "Hiroki Yasumoto",
+				"native": "安元洋貴",
+				"userPreferred": "Hiroki Yasumoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg"
+		}, {
+			"id": 95353,
+			"language": "English",
+			"name": {
+				"first": "Jamieson",
+				"last": "Price",
+				"full": "Jamieson Price",
+				"native": null,
+				"userPreferred": "Jamieson K. Price"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95353-Oe3Ehd7Yo37k.png"
+		}, {
+			"id": 224062,
+			"language": "Italian",
+			"name": {
+				"first": "Marcello",
+				"last": "Moronesi",
+				"full": "Marcello Moronesi",
+				"native": null,
+				"userPreferred": "Marcello Moronesi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n224062-dp38DPri6uvE.png"
+		}, {
+			"id": 115378,
+			"language": "Spanish",
+			"name": {
+				"first": "Oriol",
+				"last": "Rafel",
+				"full": "Oriol Rafel",
+				"native": null,
+				"userPreferred": "Oriol Rafel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/20378.jpg"
+		}, {
+			"id": 182456,
+			"language": "Spanish",
+			"name": {
+				"first": "Dan",
+				"last": "Osorio",
+				"full": "Dan Osorio",
+				"native": null,
+				"userPreferred": "Dan Osorio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182456-zXdgDmRs7EKf.jpg"
+		}, {
+			"id": 201034,
+			"language": "Spanish",
+			"name": {
+				"first": "Carlos",
+				"last": "Reynoso",
+				"full": "Carlos Reynoso",
+				"native": null,
+				"userPreferred": "Carlos Reynoso"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201034-AjEkvaIrtUgp.png"
+		}, {
+			"id": 100605,
+			"language": "Portuguese",
+			"name": {
+				"first": "Cássius",
+				"last": "Romero",
+				"full": "Cássius Romero",
+				"native": null,
+				"userPreferred": "Cássius Romero"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100605-g4xVhk3m7Hw2.jpg"
+		}, {
+			"id": 153461,
+			"language": "Portuguese",
+			"name": {
+				"first": "Wallace",
+				"last": "Raj",
+				"full": "Wallace Raj",
+				"native": null,
+				"userPreferred": "Wallace Raj"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153461-MHI9wLRv8CNL.jpg"
+		}, {
+			"id": 165351,
+			"language": "French",
+			"name": {
+				"first": "Bruno",
+				"last": "Moury",
+				"full": "Bruno Moury",
+				"native": null,
+				"userPreferred": "Bruno Moury"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 165351,
+			"language": "French",
+			"name": {
+				"first": "Bruno",
+				"last": "Moury",
+				"full": "Bruno Moury",
+				"native": null,
+				"userPreferred": "Bruno Moury"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 96483,
+			"language": "German",
+			"name": {
+				"first": "Björn",
+				"last": "Schalla",
+				"full": "Björn Schalla",
+				"native": null,
+				"userPreferred": "Björn Schalla"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1483.jpg"
+		}, {
+			"id": 102831,
+			"language": "Hungarian",
+			"name": {
+				"first": "Balázs",
+				"last": "Szvetlov",
+				"full": "Balázs Szvetlov",
+				"native": null,
+				"userPreferred": "Balázs Szvetlov"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7831.jpg"
+		}]
+	}, {
+		"id": 7,
+		"role": "MAIN",
+		"name": {
+			"first": "Orihime",
+			"last": "Inoue",
+			"full": "Orihime Inoue",
+			"native": "井上織姫",
+			"userPreferred": "Orihime Inoue"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b7-JdR4betokDjR.jpg",
+		"voiceActors": [{
+			"id": 95073,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuki",
+				"last": "Matsuoka",
+				"full": "Yuki Matsuoka",
+				"native": "松岡由貴",
+				"userPreferred": "Yuki Matsuoka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95073-HIjUyhssrxGs.png"
+		}, {
+			"id": 95396,
+			"language": "English",
+			"name": {
+				"first": "Stephanie",
+				"last": "Sheh",
+				"full": "Stephanie Sheh",
+				"native": null,
+				"userPreferred": "Stephanie Sheh"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95396-tNpkTyDD9Y1g.jpg"
+		}, {
+			"id": 109929,
+			"language": "Korean",
+			"name": {
+				"first": "Seo Yeong",
+				"last": "Kim",
+				"full": "Seo Yeong Kim",
+				"native": "서영 김",
+				"userPreferred": "Seo Yeong Kim"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14929.jpg"
+		}, {
+			"id": 208176,
+			"language": "Italian",
+			"name": {
+				"first": "Giada",
+				"last": "Bonanomi",
+				"full": "Giada Bonanomi",
+				"native": null,
+				"userPreferred": "Giada Bonanomi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n208176-dAQH4MGjpyA7.png"
+		}, {
+			"id": 102326,
+			"language": "Spanish",
+			"name": {
+				"first": "Núria",
+				"last": "Trifol",
+				"full": "Núria Trifol",
+				"native": null,
+				"userPreferred": "Núria Trifol"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102326-xkOzBZIus0bF.png"
+		}, {
+			"id": 195233,
+			"language": "Spanish",
+			"name": {
+				"first": "Claudia",
+				"last": "Motta",
+				"full": "Claudia Motta",
+				"native": null,
+				"userPreferred": "Claudia Motta"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195233-lBoGdkWr8geY.png"
+		}, {
+			"id": 103053,
+			"language": "Portuguese",
+			"name": {
+				"first": "Melissa",
+				"last": "Garcia",
+				"full": "Melissa Garcia",
+				"native": null,
+				"userPreferred": "Melissa Garcia"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103053-j3eO8njXDg90.jpg"
+		}, {
+			"id": 179915,
+			"language": "Portuguese",
+			"name": {
+				"first": "Luiza",
+				"last": "Porto",
+				"full": "Luiza Porto",
+				"native": "Luíza Porto",
+				"userPreferred": "Luiza Porto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179915-qK1JBDP2bcG9.jpg"
+		}, {
+			"id": 175212,
+			"language": "Portuguese",
+			"name": {
+				"first": "Priscila",
+				"last": "Ferreira",
+				"full": "Priscila Ferreira",
+				"native": null,
+				"userPreferred": "Priscila Ferreira"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175212-YRzMmd7FTqDN.jpg"
+		}, {
+			"id": 100681,
+			"language": "French",
+			"name": {
+				"first": "Isabelle",
+				"last": "Volpe",
+				"full": "Isabelle Volpe",
+				"native": null,
+				"userPreferred": "Isabelle Volpe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5681.jpg"
+		}, {
+			"id": 100681,
+			"language": "French",
+			"name": {
+				"first": "Isabelle",
+				"last": "Volpe",
+				"full": "Isabelle Volpe",
+				"native": null,
+				"userPreferred": "Isabelle Volpe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5681.jpg"
+		}, {
+			"id": 101138,
+			"language": "German",
+			"name": {
+				"first": "Ilona",
+				"last": "Brokowski",
+				"full": "Ilona Brokowski",
+				"native": null,
+				"userPreferred": "Ilona Brokowski"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6138.jpg"
+		}, {
+			"id": 102765,
+			"language": "Hungarian",
+			"name": {
+				"first": "Titanilla",
+				"last": "Bogdányi",
+				"full": "Titanilla Bogdányi",
+				"native": null,
+				"userPreferred": "Titanilla Bogdányi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102765-OYsgMI1EOmfp.png"
+		}]
+	}, {
+		"id": 5,
+		"role": "MAIN",
+		"name": {
+			"first": "Ichigo",
+			"last": "Kurosaki",
+			"full": "Ichigo Kurosaki",
+			"native": "黒崎一護",
+			"userPreferred": "Ichigo Kurosaki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b5-RxGEMJZLW4cy.png",
+		"voiceActors": [{
+			"id": 95205,
+			"language": "Japanese",
+			"name": {
+				"first": "Masakazu",
+				"last": "Morita",
+				"full": "Masakazu Morita",
+				"native": "森田成一",
+				"userPreferred": "Masakazu Morita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95205-5P3tKe3eTG9n.jpg"
+		}, {
+			"id": 95073,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuki",
+				"last": "Matsuoka",
+				"full": "Yuki Matsuoka",
+				"native": "松岡由貴",
+				"userPreferred": "Yuki Matsuoka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95073-HIjUyhssrxGs.png"
+		}, {
+			"id": 95010,
+			"language": "English",
+			"name": {
+				"first": "Johnny Yong",
+				"last": "Bosch",
+				"full": "Johnny Yong Bosch",
+				"native": null,
+				"userPreferred": "Johnny Yong Bosch"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95010-56EByXYI2PjI.jpg"
+		}, {
+			"id": 109853,
+			"language": "Korean",
+			"name": {
+				"first": "Yong-Woo",
+				"last": "Shin",
+				"full": "Yong-Woo Shin",
+				"native": "신용우",
+				"userPreferred": "Yong-Woo Shin"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109853-j96EqRUBocBE.jpg"
+		}, {
+			"id": 119594,
+			"language": "Italian",
+			"name": {
+				"first": "Federico",
+				"last": "Viola",
+				"full": "Federico Viola",
+				"native": null,
+				"userPreferred": "Federico Viola"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119594-5QEcveRvgjbP.png"
+		}, {
+			"id": 102094,
+			"language": "Spanish",
+			"name": {
+				"first": "Eduardo",
+				"last": "Garza",
+				"full": "Eduardo Garza",
+				"native": "José Eduardo Garza Escudero",
+				"userPreferred": "Eduardo Garza"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102094-IK5XCbLdQNrZ.png"
+		}, {
+			"id": 104627,
+			"language": "Spanish",
+			"name": {
+				"first": "Sergio",
+				"last": "Zamora",
+				"full": "Sergio Zamora",
+				"native": null,
+				"userPreferred": "Sergio Zamora"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9627.jpg"
+		}, {
+			"id": 96108,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fábio",
+				"last": "Lucindo",
+				"full": "Fábio Lucindo",
+				"native": null,
+				"userPreferred": "Fábio Lucindo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96108-MuX1nYAfR6za.png"
+		}, {
+			"id": 162207,
+			"language": "French",
+			"name": {
+				"first": "Vincent",
+				"last": "de Bouard",
+				"full": "Vincent de Bouard",
+				"native": "Vincent de Boüard",
+				"userPreferred": "Vincent de Bouard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n162207-aIWarkMXIvz5.png"
+		}, {
+			"id": 162207,
+			"language": "French",
+			"name": {
+				"first": "Vincent",
+				"last": "de Bouard",
+				"full": "Vincent de Bouard",
+				"native": "Vincent de Boüard",
+				"userPreferred": "Vincent de Bouard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n162207-aIWarkMXIvz5.png"
+		}, {
+			"id": 102219,
+			"language": "German",
+			"name": {
+				"first": "Konrad",
+				"last": "Bösherz",
+				"full": "Konrad Bösherz",
+				"native": null,
+				"userPreferred": "Konrad Bösherz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102219-Od3pasyGCIbf.jpg"
+		}, {
+			"id": 102827,
+			"language": "Hungarian",
+			"name": {
+				"first": "Csongor",
+				"last": "Szalay",
+				"full": "Csongor Szalay",
+				"native": null,
+				"userPreferred": "Csongor Szalay"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7827.jpg"
+		}]
+	}, {
+		"id": 564,
+		"role": "MAIN",
+		"name": {
+			"first": "Uryuu",
+			"last": "Ishida",
+			"full": "Uryuu Ishida",
+			"native": "石田雨竜",
+			"userPreferred": "Uryuu Ishida"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b564-a6LJitrjSfKC.jpg",
+		"voiceActors": [{
+			"id": 95016,
+			"language": "Japanese",
+			"name": {
+				"first": "Noriaki",
+				"last": "Sugiyama",
+				"full": "Noriaki Sugiyama",
+				"native": "杉山紀彰",
+				"userPreferred": "Noriaki Sugiyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95016-03m7lAUZBMDv.png"
+		}, {
+			"id": 95041,
+			"language": "Japanese",
+			"name": {
+				"first": "Takako",
+				"last": "Honda",
+				"full": "Takako Honda",
+				"native": "本田貴子",
+				"userPreferred": "Takako Honda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/41.jpg"
+		}, {
+			"id": 95390,
+			"language": "English",
+			"name": {
+				"first": "Derek Stephen",
+				"last": "Prince",
+				"full": "Derek Stephen Prince",
+				"native": null,
+				"userPreferred": "Derek Stephen Prince"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/390.jpg"
+		}, {
+			"id": 115082,
+			"language": "Italian",
+			"name": {
+				"first": "Ruggero",
+				"last": "Andreozzi",
+				"full": "Ruggero Andreozzi",
+				"native": null,
+				"userPreferred": "Ruggero Andreozzi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/20082.jpg"
+		}, {
+			"id": 157481,
+			"language": "Italian",
+			"name": {
+				"first": "Giulia",
+				"last": "Maniglio",
+				"full": "Giulia Maniglio",
+				"native": null,
+				"userPreferred": "Giulia Maniglio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157481-TqeSE5wMXRzY.png"
+		}, {
+			"id": 102694,
+			"language": "Spanish",
+			"name": {
+				"first": "Víctor",
+				"last": "Ugarte",
+				"full": "Víctor Ugarte",
+				"native": "Víctor Ugarte Fonseca",
+				"userPreferred": "Víctor Ugarte"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102694-xWqlc4cFqipg.jpg"
+		}, {
+			"id": 193945,
+			"language": "Spanish",
+			"name": {
+				"first": "Armando",
+				"last": "Guerrero",
+				"full": "Armando Guerrero",
+				"native": "Jesús Armando Guerrero Morales",
+				"userPreferred": "Armando Guerrero"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n193945-g5RZlBJvMNQC.png"
+		}, {
+			"id": 102350,
+			"language": "Portuguese",
+			"name": {
+				"first": "Alfredo",
+				"last": "Rollo",
+				"full": "Alfredo Rollo",
+				"native": null,
+				"userPreferred": "Alfredo Rollo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102350-J9WM40ldrYng.jpg"
+		}, {
+			"id": 184112,
+			"language": "Portuguese",
+			"name": {
+				"first": "Márcio",
+				"last": "Marconato",
+				"full": "Márcio Marconato",
+				"native": null,
+				"userPreferred": "Márcio Marconato"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184112-p4wHjNnZBY4r.jpg"
+		}, {
+			"id": 229355,
+			"language": "Portuguese",
+			"name": {
+				"first": "Henrique",
+				"last": "Reis",
+				"full": "Henrique Reis",
+				"native": null,
+				"userPreferred": "Henrique Reis"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n229355-LD1Z5uhNfmxv.jpg"
+		}, {
+			"id": 165079,
+			"language": "French",
+			"name": {
+				"first": "Philippe",
+				"last": "Siboulet",
+				"full": "Philippe Siboulet",
+				"native": null,
+				"userPreferred": "Philippe Siboulet"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n165079-YlggL3rymKDJ.png"
+		}, {
+			"id": 165079,
+			"language": "French",
+			"name": {
+				"first": "Philippe",
+				"last": "Siboulet",
+				"full": "Philippe Siboulet",
+				"native": null,
+				"userPreferred": "Philippe Siboulet"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n165079-YlggL3rymKDJ.png"
+		}, {
+			"id": 96001,
+			"language": "German",
+			"name": {
+				"first": "Markus",
+				"last": "Pfeiffer",
+				"full": "Markus Pfeiffer",
+				"native": null,
+				"userPreferred": "Markus Pfeiffer"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1001.jpg"
+		}, {
+			"id": 102814,
+			"language": "Hungarian",
+			"name": {
+				"first": "Szabolcs",
+				"last": "Pálmai",
+				"full": "Szabolcs Pálmai",
+				"native": null,
+				"userPreferred": "Szabolcs Pálmai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7814.jpg"
+		}]
+	}, {
+		"id": 31380,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mitsuru",
+			"last": "Ishino",
+			"full": "Mitsuru Ishino",
+			"native": null,
+			"userPreferred": "Mitsuru Ishino"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/31380.jpg",
+		"voiceActors": [{
+			"id": 95001,
+			"language": "Japanese",
+			"name": {
+				"first": "Tomokazu",
+				"last": "Seki",
+				"full": "Tomokazu Seki",
+				"native": "関智一",
+				"userPreferred": "Tomokazu Seki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png"
+		}, {
+			"id": 96046,
+			"language": "English",
+			"name": {
+				"first": "Dan",
+				"last": "Woren",
+				"full": "Dan Woren",
+				"native": null,
+				"userPreferred": "Dan Woren"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96046-MAlMbeho8DQA.jpg"
+		}, {
+			"id": 157943,
+			"language": "Italian",
+			"name": {
+				"first": "Luca",
+				"last": "Semeraro",
+				"full": "Luca Semeraro",
+				"native": null,
+				"userPreferred": "Luca Semeraro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157943-aFBeDOdrA36Y.jpg"
+		}]
+	}, {
+		"id": 11328,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Lily",
+			"last": null,
+			"full": "Lily",
+			"native": "リリィ",
+			"userPreferred": "Lily"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/11328.jpg",
+		"voiceActors": [{
+			"id": 95008,
+			"language": "Japanese",
+			"name": {
+				"first": "Rie",
+				"last": "Kugimiya",
+				"full": "Rie Kugimiya",
+				"native": "釘宮理恵",
+				"userPreferred": "Rie Kugimiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png"
+		}, {
+			"id": 95318,
+			"language": "English",
+			"name": {
+				"first": "Kate",
+				"last": "Higgins",
+				"full": "Kate Higgins",
+				"native": null,
+				"userPreferred": "Kate Higgins"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95318-TvQyppjjRIH2.jpg"
+		}, {
+			"id": 157477,
+			"language": "Italian",
+			"name": {
+				"first": "Laura ",
+				"last": "Cherubelli",
+				"full": "Laura  Cherubelli",
+				"native": "Laura Cherubelli",
+				"userPreferred": "Laura  Cherubelli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157477-pnobMnTNWaQ3.jpg"
+		}, {
+			"id": 106520,
+			"language": "Portuguese",
+			"name": {
+				"first": "Luciana",
+				"last": "Baroli",
+				"full": "Luciana Baroli",
+				"native": null,
+				"userPreferred": "Luciana Baroli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106520-3GRf74nOYVAG.png"
+		}, {
+			"id": 96445,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fernanda",
+				"last": "Bullara",
+				"full": "Fernanda Bullara",
+				"native": null,
+				"userPreferred": "Fernanda Bullara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96445-74PzPrUhV5pi.jpg"
+		}, {
+			"id": 100681,
+			"language": "French",
+			"name": {
+				"first": "Isabelle",
+				"last": "Volpe",
+				"full": "Isabelle Volpe",
+				"native": null,
+				"userPreferred": "Isabelle Volpe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5681.jpg"
+		}, {
+			"id": 140338,
+			"language": "German",
+			"name": {
+				"first": "Vanessa",
+				"last": "Wunsch",
+				"full": "Vanessa Wunsch",
+				"native": null,
+				"userPreferred": "Vanessa Wunsch"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140338-qr377QQ8ZVHZ.jpg"
+		}]
+	}, {
+		"id": 210,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kisuke",
+			"last": "Urahara",
+			"full": "Kisuke Urahara",
+			"native": "浦原喜助",
+			"userPreferred": "Kisuke Urahara"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b210-mw01NrQfRjzT.png",
+		"voiceActors": [{
+			"id": 95022,
+			"language": "Japanese",
+			"name": {
+				"first": "Shinichirou",
+				"last": "Miki",
+				"full": "Shinichirou Miki",
+				"native": "三木眞一郎",
+				"userPreferred": "Shinichirou Miki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png"
+		}, {
+			"id": 95613,
+			"language": "English",
+			"name": {
+				"first": "Michael",
+				"last": "Lindsay",
+				"full": "Michael Lindsay",
+				"native": null,
+				"userPreferred": "Michael Lindsay"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95613-SJVxvFnVtlqJ.jpg"
+		}, {
+			"id": 96547,
+			"language": "English",
+			"name": {
+				"first": "Doug",
+				"last": "Erholtz",
+				"full": "Doug Erholtz",
+				"native": null,
+				"userPreferred": "Doug Erholtz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96547-AH4pebJhH8yY.png"
+		}, {
+			"id": 109821,
+			"language": "Korean",
+			"name": {
+				"first": "Han",
+				"last": "Choi",
+				"full": "Han Choi",
+				"native": "최한",
+				"userPreferred": "Han Choi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14821.jpg"
+		}, {
+			"id": 156244,
+			"language": "Italian",
+			"name": {
+				"first": "Matteo",
+				"last": "De Mojana",
+				"full": "Matteo De Mojana",
+				"native": null,
+				"userPreferred": "Matteo De Mojana"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n156244-xABDIuR4IgXq.jpg"
+		}, {
+			"id": 111673,
+			"language": "Spanish",
+			"name": {
+				"first": "Manuel",
+				"last": "Campuzano",
+				"full": "Manuel Campuzano",
+				"native": "Manuel Campuzano Márquez",
+				"userPreferred": "Manuel Campuzano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111673-WnvtApo3SNny.png"
+		}, {
+			"id": 155420,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marco Aurélio",
+				"last": "Campos",
+				"full": "Marco Aurélio Campos",
+				"native": "Marco Aurélio Campos",
+				"userPreferred": "Marco Aurélio Campos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n155420-6UF8ruASqRiK.jpg"
+		}, {
+			"id": 284865,
+			"language": "French",
+			"name": {
+				"first": "Yannick",
+				"last": "Bellissard",
+				"full": "Yannick Bellissard",
+				"native": null,
+				"userPreferred": "Yannick Bellissard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 96655,
+			"language": "German",
+			"name": {
+				"first": "Oliver-Kim",
+				"last": "Hasper",
+				"full": "Oliver-Kim Hasper",
+				"native": null,
+				"userPreferred": "Oliver-Kim Hasper"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1655.jpg"
+		}, {
+			"id": 102845,
+			"language": "Hungarian",
+			"name": {
+				"first": "Dániel",
+				"last": "Papp",
+				"full": "Dániel Papp",
+				"native": null,
+				"userPreferred": "Dániel Papp"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7845.jpg"
+		}, {
+			"id": 102846,
+			"language": "Hungarian",
+			"name": {
+				"first": "Zoltán",
+				"last": "Dózsa",
+				"full": "Zoltán Dózsa",
+				"native": null,
+				"userPreferred": "Zoltán Dózsa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7846.jpg"
+		}]
+	}, {
+		"id": 2340,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Love",
+			"last": "Aikawa",
+			"full": "Love Aikawa",
+			"native": "愛川羅武",
+			"userPreferred": "Love Aikawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/2340.jpg",
+		"voiceActors": [{
+			"id": 95395,
+			"language": "Japanese",
+			"name": {
+				"first": "Tetsu",
+				"last": "Inada",
+				"full": "Tetsu Inada",
+				"native": "稲田徹",
+				"userPreferred": "Tetsu Inada"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png"
+		}, {
+			"id": 95026,
+			"language": "English",
+			"name": {
+				"first": "Travis",
+				"last": "Willingham",
+				"full": "Travis Willingham",
+				"native": null,
+				"userPreferred": "Travis Willingham"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95026-8rP8eX7zsekz.jpg"
+		}, {
+			"id": 182227,
+			"language": "Spanish",
+			"name": {
+				"first": "Ricardo",
+				"last": "Méndez",
+				"full": "Ricardo Méndez",
+				"native": null,
+				"userPreferred": "Ricardo Méndez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182227-b2MJa9bBPQU7.jpg"
+		}, {
+			"id": 184111,
+			"language": "Portuguese",
+			"name": {
+				"first": "Ramon",
+				"last": "Campos",
+				"full": "Ramon Campos",
+				"native": null,
+				"userPreferred": "Ramon Campos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184111-bO3OhdLPWFte.jpg"
+		}, {
+			"id": 241781,
+			"language": "Portuguese",
+			"name": {
+				"first": "Adriano",
+				"last": "Paixão",
+				"full": "Adriano Paixão",
+				"native": null,
+				"userPreferred": "Adriano Paixão"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 165351,
+			"language": "French",
+			"name": {
+				"first": "Bruno",
+				"last": "Moury",
+				"full": "Bruno Moury",
+				"native": null,
+				"userPreferred": "Bruno Moury"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 142048,
+			"language": "German",
+			"name": {
+				"first": "Lasse",
+				"last": "Dreyer",
+				"full": "Lasse Dreyer",
+				"native": null,
+				"userPreferred": "Lasse Dreyer"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142048-9yj3XqCzB7ic.jpg"
+		}]
+	}, {
+		"id": 8018,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Jinta",
+			"last": "Hanakari",
+			"full": "Jinta Hanakari",
+			"native": "花刈 ジン太",
+			"userPreferred": "Jinta Hanakari"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/8018.jpg",
+		"voiceActors": [{
+			"id": 95041,
+			"language": "Japanese",
+			"name": {
+				"first": "Takako",
+				"last": "Honda",
+				"full": "Takako Honda",
+				"native": "本田貴子",
+				"userPreferred": "Takako Honda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/41.jpg"
+		}, {
+			"id": 95733,
+			"language": "English",
+			"name": {
+				"first": "Cindy",
+				"last": "Robinson",
+				"full": "Cindy Robinson",
+				"native": null,
+				"userPreferred": "Cindy Robinson"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95733-34PimWRfaPKr.jpg"
+		}, {
+			"id": 104991,
+			"language": "Italian",
+			"name": {
+				"first": "Giuliana",
+				"last": "Atepi",
+				"full": "Giuliana Atepi",
+				"native": null,
+				"userPreferred": "Giuliana Atepi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104991-9eWTfVyMactS.png"
+		}, {
+			"id": 116357,
+			"language": "Spanish",
+			"name": {
+				"first": "Bruno",
+				"last": "Coronel",
+				"full": "Bruno Coronel",
+				"native": null,
+				"userPreferred": "Bruno Coronel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116357-JPeyUVN5ehfQ.jpg"
+		}, {
+			"id": 179917,
+			"language": "Portuguese",
+			"name": {
+				"first": "Italo",
+				"last": "Luiz",
+				"full": "Italo Luiz",
+				"native": "Ítalo Luiz",
+				"userPreferred": "Italo Luiz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179917-6gvnWXJXGCuq.jpg"
+		}, {
+			"id": 205642,
+			"language": "Portuguese",
+			"name": {
+				"first": "Yago",
+				"last": "Contatori",
+				"full": "Yago Contatori",
+				"native": null,
+				"userPreferred": "Yago Contatori"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 158618,
+			"language": "Portuguese",
+			"name": {
+				"first": "Pedro",
+				"last": "Alcântara",
+				"full": "Pedro Alcântara",
+				"native": null,
+				"userPreferred": "Pedro Alcântara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n158618-fBb3sVMGTEr6.jpg"
+		}, {
+			"id": 144921,
+			"language": "German",
+			"name": {
+				"first": "Patrick",
+				"last": "Mölleken",
+				"full": "Patrick Mölleken",
+				"native": null,
+				"userPreferred": "Patrick Mölleken"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n144921-LAyFrzVj9r1M.png"
+		}]
+	}, {
+		"id": 905,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Soi Fon",
+			"last": null,
+			"full": "Soi Fon",
+			"native": "砕蜂",
+			"userPreferred": "Soi Fon"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b905-zKwCoIRiYJSr.png",
+		"voiceActors": [{
+			"id": 95057,
+			"language": "Japanese",
+			"name": {
+				"first": "Houko",
+				"last": "Kuwashima",
+				"full": "Houko Kuwashima",
+				"native": "桑島法子",
+				"userPreferred": "Houko Kuwashima"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95057-nMZEwJet445W.jpg"
+		}, {
+			"id": 95071,
+			"language": "Japanese",
+			"name": {
+				"first": "Tomoko",
+				"last": "Kawakami",
+				"full": "Tomoko Kawakami",
+				"native": "川上とも子",
+				"userPreferred": "Tomoko Kawakami"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95071-bmS9MxvAdsTr.png"
+		}, {
+			"id": 96054,
+			"language": "English",
+			"name": {
+				"first": "Karen",
+				"last": "Strassman",
+				"full": "Karen Strassman",
+				"native": null,
+				"userPreferred": "Karen Strassman"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96054-1OfcQBS5znbB.jpg"
+		}, {
+			"id": 95788,
+			"language": "Korean",
+			"name": {
+				"first": "Yong Sin",
+				"last": "Lee",
+				"full": "Yong Sin Lee",
+				"native": "용신 이",
+				"userPreferred": "Yong Sin Lee"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95788-6EPSNNAjYDly.jpg"
+		}, {
+			"id": 104991,
+			"language": "Italian",
+			"name": {
+				"first": "Giuliana",
+				"last": "Atepi",
+				"full": "Giuliana Atepi",
+				"native": null,
+				"userPreferred": "Giuliana Atepi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104991-9eWTfVyMactS.png"
+		}, {
+			"id": 181977,
+			"language": "Spanish",
+			"name": {
+				"first": "Karla",
+				"last": "Falcón",
+				"full": "Karla Falcón",
+				"native": "Karla Paola Falcón Castrejón",
+				"userPreferred": "Karla Falcón"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n181977-cMmWSouBCpJN.png"
+		}, {
+			"id": 292059,
+			"language": "Spanish",
+			"name": {
+				"first": "Banny",
+				"last": "Vilchis",
+				"full": "Banny Vilchis",
+				"native": null,
+				"userPreferred": "Banny Vilchis"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n292059-rbibZdoZouFd.png"
+		}, {
+			"id": 153464,
+			"language": "Portuguese",
+			"name": {
+				"first": "Cássia",
+				"last": "Bisceglia",
+				"full": "Cássia Bisceglia",
+				"native": null,
+				"userPreferred": "Cássia Bisceglia"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153464-qeo4OoWrXgA7.jpg"
+		}, {
+			"id": 244684,
+			"language": "Portuguese",
+			"name": {
+				"first": "Clarice",
+				"last": "Espíndola",
+				"full": "Clarice Espíndola",
+				"native": null,
+				"userPreferred": "Clarice Espíndola"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 300143,
+			"language": "French",
+			"name": {
+				"first": "Isabelle",
+				"last": "Noérie",
+				"full": "Isabelle Noérie",
+				"native": null,
+				"userPreferred": "Isabelle Noérie"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n300143-kBjof31cY9DV.png"
+		}, {
+			"id": 101148,
+			"language": "German",
+			"name": {
+				"first": "Gabriele",
+				"last": "Wienand",
+				"full": "Gabriele Wienand",
+				"native": null,
+				"userPreferred": "Gabriele Wienand"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101148-xXxO9hNuKgl8.jpg"
+		}, {
+			"id": 102849,
+			"language": "Hungarian",
+			"name": {
+				"first": "Erika",
+				"last": "F. Nagy",
+				"full": "Erika F. Nagy",
+				"native": null,
+				"userPreferred": "Erika F. Nagy"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102849-rbLb2zXVlb8u.jpg"
+		}]
+	}, {
+		"id": 15457,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Rin",
+			"last": "Tsubokura",
+			"full": "Rin Tsubokura",
+			"native": "壷府 リン",
+			"userPreferred": "Rin Tsubokura"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/15457.jpg",
+		"voiceActors": [{
+			"id": 95365,
+			"language": "Japanese",
+			"name": {
+				"first": "Miho",
+				"last": "Saiki",
+				"full": "Miho Saiki",
+				"native": "斉木美帆",
+				"userPreferred": "Miho Saiki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95365-3wV62ahHGAvu.png"
+		}, {
+			"id": 95069,
+			"language": "English",
+			"name": {
+				"first": "Julie Ann",
+				"last": "Taylor",
+				"full": "Julie Ann Taylor",
+				"native": null,
+				"userPreferred": "Julie Ann Taylor"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95069-p9hAHPHgmu8Y.jpg"
+		}, {
+			"id": 106834,
+			"language": "Portuguese",
+			"name": {
+				"first": "Priscilla",
+				"last": "Concépcion",
+				"full": "Priscilla Concépcion",
+				"native": null,
+				"userPreferred": "Priscilla Concépcion"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106834-vNS9xUqKnIrc.png"
+		}, {
+			"id": 185552,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcus",
+				"last": "Pejon",
+				"full": "Marcus Pejon",
+				"native": null,
+				"userPreferred": "Marcus Pejon"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185552-GcFdQps4hXrr.jpg"
+		}, {
+			"id": 142565,
+			"language": "German",
+			"name": {
+				"first": "Annette",
+				"last": "Potempa",
+				"full": "Annette Potempa",
+				"native": null,
+				"userPreferred": "Annette Potempa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142565-ORWPt6TX2sPu.png"
+		}, {
+			"id": 216946,
+			"language": "German",
+			"name": {
+				"first": "Petra",
+				"last": "Konradi",
+				"full": "Petra Konradi",
+				"native": null,
+				"userPreferred": "Petra Konradi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 3211,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Szayel Aporro",
+			"last": "Grantz",
+			"full": "Szayel Aporro Grantz",
+			"native": "ザエルアポロ・グランツ",
+			"userPreferred": "Szayel Aporro Grantz"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b3211-zqoObUuMBvul.png",
+		"voiceActors": [{
+			"id": 95097,
+			"language": "Japanese",
+			"name": {
+				"first": "Kousuke",
+				"last": "Toriumi",
+				"full": "Kousuke Toriumi",
+				"native": "鳥海浩輔",
+				"userPreferred": "Kousuke Toriumi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95097-BhSegy6KBLbE.png"
+		}, {
+			"id": 96085,
+			"language": "English",
+			"name": {
+				"first": "Benjamin Isaac",
+				"last": "Diskin",
+				"full": "Benjamin Isaac Diskin",
+				"native": null,
+				"userPreferred": "Benjamin Isaac Diskin"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96085-iWZfsxUiIlni.png"
+		}, {
+			"id": 103995,
+			"language": "English",
+			"name": {
+				"first": "Hank",
+				"last": "Matthews",
+				"full": "Hank Matthews",
+				"native": null,
+				"userPreferred": "Hank Matthews"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 105572,
+			"language": "Italian",
+			"name": {
+				"first": "Luca",
+				"last": "Sandri",
+				"full": "Luca Sandri",
+				"native": null,
+				"userPreferred": "Luca Sandri"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/10572.jpg"
+		}, {
+			"id": 181979,
+			"language": "Spanish",
+			"name": {
+				"first": "Javier",
+				"last": "Olguín",
+				"full": "Javier Olguín",
+				"native": null,
+				"userPreferred": "Javier Olguín"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n181979-5mjIa06q28A5.png"
+		}, {
+			"id": 190980,
+			"language": "Portuguese",
+			"name": {
+				"first": "Rogério",
+				"last": "Viggiani",
+				"full": "Rogério Viggiani",
+				"native": null,
+				"userPreferred": "Rogério Viggiani"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 104871,
+			"language": "French",
+			"name": {
+				"first": "Julien",
+				"last": "Chatelet",
+				"full": "Julien Chatelet",
+				"native": null,
+				"userPreferred": "Julien Chatelet"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 198517,
+			"language": "German",
+			"name": {
+				"first": "Matthias",
+				"last": "Kiel",
+				"full": "Matthias Kiel",
+				"native": null,
+				"userPreferred": "Matthias Kiel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198517-ekza0GWqQBuX.jpg"
+		}]
+	}, {
+		"id": 22904,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kanisawa",
+			"last": null,
+			"full": "Kanisawa",
+			"native": null,
+			"userPreferred": "Kanisawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/22904.jpg",
+		"voiceActors": [{
+			"id": 95126,
+			"language": "Japanese",
+			"name": {
+				"first": "Asami",
+				"last": "Sanada",
+				"full": "Asami Sanada",
+				"native": "真田アサミ",
+				"userPreferred": "Asami Sanada"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95126-5riJAYwazk5K.jpg"
+		}, {
+			"id": 95537,
+			"language": "English",
+			"name": {
+				"first": "Dorothy",
+				"last": "Elias-Fahn",
+				"full": "Dorothy Elias-Fahn",
+				"native": null,
+				"userPreferred": "Dorothy Elias-Fahn"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/537.jpg"
+		}, {
+			"id": 106520,
+			"language": "Portuguese",
+			"name": {
+				"first": "Luciana",
+				"last": "Baroli",
+				"full": "Luciana Baroli",
+				"native": null,
+				"userPreferred": "Luciana Baroli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106520-3GRf74nOYVAG.png"
+		}, {
+			"id": 100681,
+			"language": "French",
+			"name": {
+				"first": "Isabelle",
+				"last": "Volpe",
+				"full": "Isabelle Volpe",
+				"native": null,
+				"userPreferred": "Isabelle Volpe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5681.jpg"
+		}, {
+			"id": 101148,
+			"language": "German",
+			"name": {
+				"first": "Gabriele",
+				"last": "Wienand",
+				"full": "Gabriele Wienand",
+				"native": null,
+				"userPreferred": "Gabriele Wienand"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101148-xXxO9hNuKgl8.jpg"
+		}]
+	}, {
+		"id": 7059,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Isane",
+			"last": "Kotetsu",
+			"full": "Isane Kotetsu",
+			"native": "虎徹 勇音",
+			"userPreferred": "Isane Kotetsu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b7059-X5eRgZ9ZtnUG.jpg",
+		"voiceActors": [{
+			"id": 95140,
+			"language": "Japanese",
+			"name": {
+				"first": "Yukana",
+				"last": "",
+				"full": "Yukana",
+				"native": " ゆかな",
+				"userPreferred": "Yukana"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/140.jpg"
+		}, {
+			"id": 95396,
+			"language": "English",
+			"name": {
+				"first": "Stephanie",
+				"last": "Sheh",
+				"full": "Stephanie Sheh",
+				"native": null,
+				"userPreferred": "Stephanie Sheh"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95396-tNpkTyDD9Y1g.jpg"
+		}, {
+			"id": 158850,
+			"language": "Italian",
+			"name": {
+				"first": "Renata",
+				"last": "Bertolas",
+				"full": "Renata Bertolas",
+				"native": null,
+				"userPreferred": "Renata Bertolas"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n158850-i6WeOVox5RdR.jpg"
+		}, {
+			"id": 106424,
+			"language": "Spanish",
+			"name": {
+				"first": "Dulce",
+				"last": "Guerrero",
+				"full": "Dulce Guerrero",
+				"native": null,
+				"userPreferred": "Dulce Guerrero"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106424-aHMqVAmkh5OD.png"
+		}, {
+			"id": 106637,
+			"language": "Portuguese",
+			"name": {
+				"first": "Angelica",
+				"last": "Santos",
+				"full": "Angelica Santos",
+				"native": null,
+				"userPreferred": "Angelica Santos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/11637.jpg"
+		}, {
+			"id": 199395,
+			"language": "Portuguese",
+			"name": {
+				"first": " Amazyles",
+				"last": "de Almeida",
+				"full": " Amazyles de Almeida",
+				"native": null,
+				"userPreferred": " Amazyles de Almeida"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 163030,
+			"language": "French",
+			"name": {
+				"first": "Caroline",
+				"last": "Combes",
+				"full": "Caroline Combes",
+				"native": null,
+				"userPreferred": "Caroline Combes"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163030-PFC47QCuVGBH.jpg"
+		}, {
+			"id": 101147,
+			"language": "German",
+			"name": {
+				"first": "Katja",
+				"last": "Liebing",
+				"full": "Katja Liebing",
+				"native": null,
+				"userPreferred": "Katja Liebing"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6147.jpg"
+		}, {
+			"id": 154259,
+			"language": "German",
+			"name": {
+				"first": "Daniela",
+				"last": "Bette-Koch",
+				"full": "Daniela Bette-Koch",
+				"native": null,
+				"userPreferred": "Daniela Bette-Koch"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n154259-HhoRpPfKeFBd.jpg"
+		}, {
+			"id": 102877,
+			"language": "Hungarian",
+			"name": {
+				"first": "Anita",
+				"last": "Kálmánfi",
+				"full": "Anita Kálmánfi",
+				"native": null,
+				"userPreferred": "Anita Kálmánfi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7877.jpg"
+		}]
+	}, {
+		"id": 11820,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kuroud",
+			"last": null,
+			"full": "Kuroud",
+			"native": "蔵人",
+			"userPreferred": "Kuroud"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/11820.jpg",
+		"voiceActors": [{
+			"id": 95157,
+			"language": "Japanese",
+			"name": {
+				"first": "Nobuo",
+				"last": "Tobita",
+				"full": "Nobuo Tobita",
+				"native": "飛田展男",
+				"userPreferred": "Nobuo Tobita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95157-td6WhlGehuDJ.png"
+		}, {
+			"id": 95351,
+			"language": "English",
+			"name": {
+				"first": "Michael",
+				"last": "McConnohie",
+				"full": "Michael McConnohie",
+				"native": null,
+				"userPreferred": "Michael McConnohie"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95351-sfzuSJSC0wKK.jpg"
+		}, {
+			"id": 105572,
+			"language": "Italian",
+			"name": {
+				"first": "Luca",
+				"last": "Sandri",
+				"full": "Luca Sandri",
+				"native": null,
+				"userPreferred": "Luca Sandri"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/10572.jpg"
+		}, {
+			"id": 189453,
+			"language": "Spanish",
+			"name": {
+				"first": "Raúl",
+				"last": "Anaya",
+				"full": "Raúl Anaya",
+				"native": "Raúl Alberto Anaya Lunas",
+				"userPreferred": "Raúl Anaya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189453-frceR3XuFqLw.png"
+		}, {
+			"id": 192670,
+			"language": "Portuguese",
+			"name": {
+				"first": "Faduli",
+				"last": "Costa",
+				"full": "Faduli Costa",
+				"native": null,
+				"userPreferred": "Faduli Costa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n192670-gRv93mDicD0H.jpg"
+		}, {
+			"id": 185027,
+			"language": "Portuguese",
+			"name": {
+				"first": "Anibal ",
+				"last": "Munhoz",
+				"full": "Anibal  Munhoz",
+				"native": null,
+				"userPreferred": "Anibal  Munhoz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185027-X6UbdNi8mTwF.jpg"
+		}, {
+			"id": 167488,
+			"language": "German",
+			"name": {
+				"first": "Matthias",
+				"last": "Lühn",
+				"full": "Matthias Lühn",
+				"native": null,
+				"userPreferred": "Matthias Lühn"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 102866,
+			"language": "Hungarian",
+			"name": {
+				"first": "Attila",
+				"last": "Bodrogi",
+				"full": "Attila Bodrogi",
+				"native": null,
+				"userPreferred": "Attila Bodrogi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7866.jpg"
+		}]
+	}, {
+		"id": 907,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Byakuya",
+			"last": "Kuchiki",
+			"full": "Byakuya Kuchiki",
+			"native": "朽木白哉",
+			"userPreferred": "Byakuya Kuchiki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b907-F9M45prWf5tH.jpg",
+		"voiceActors": [{
+			"id": 95177,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryoutarou",
+				"last": "Okiayu",
+				"full": "Ryoutarou Okiayu",
+				"native": "置鮎龍太郎",
+				"userPreferred": "Ryoutarou Okiayu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95177-6SiaUTf3CLkN.png"
+		}, {
+			"id": 95225,
+			"language": "English",
+			"name": {
+				"first": "Yuri",
+				"last": "Lowenthal",
+				"full": "Yuri Lowenthal",
+				"native": null,
+				"userPreferred": "Yuri Lowenthal"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95225-CbmI6oDkbbkL.jpg"
+		}, {
+			"id": 96046,
+			"language": "English",
+			"name": {
+				"first": "Dan",
+				"last": "Woren",
+				"full": "Dan Woren",
+				"native": null,
+				"userPreferred": "Dan Woren"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96046-MAlMbeho8DQA.jpg"
+		}, {
+			"id": 110299,
+			"language": "Korean",
+			"name": {
+				"first": "Min Seok",
+				"last": "Kim",
+				"full": "Min Seok Kim",
+				"native": "민석 김",
+				"userPreferred": "Min Seok Kim"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/15299.jpg"
+		}, {
+			"id": 240255,
+			"language": "Italian",
+			"name": {
+				"first": "Alessandro",
+				"last": "Fattori",
+				"full": "Alessandro Fattori",
+				"native": null,
+				"userPreferred": "Alessandro Fattori"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n240255-YUlZqPsayoZA.png"
+		}, {
+			"id": 105729,
+			"language": "Spanish",
+			"name": {
+				"first": "Christian",
+				"last": "Strempler",
+				"full": "Christian Strempler",
+				"native": "Christian David Strempler Fierro",
+				"userPreferred": "Christian Strempler"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105729-AYzrdI951lXN.png"
+		}, {
+			"id": 184109,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marco Antônio",
+				"last": "Abreu",
+				"full": "Marco Antônio Abreu",
+				"native": null,
+				"userPreferred": "Marco Antônio Abreu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184109-DYVjrI1bJAa2.jpg"
+		}, {
+			"id": 285852,
+			"language": "French",
+			"name": {
+				"first": "Marc-Antoine",
+				"last": "Frédéric",
+				"full": "Marc-Antoine Frédéric",
+				"native": null,
+				"userPreferred": "Marc-Antoine Frédéric"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n285852-AdrfgQqYRKy8.jpg"
+		}, {
+			"id": 103589,
+			"language": "German",
+			"name": {
+				"first": "Lars",
+				"last": "Schmidtke",
+				"full": "Lars Schmidtke",
+				"native": null,
+				"userPreferred": "Lars Schmidtke"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8589.jpg"
+		}, {
+			"id": 102875,
+			"language": "Hungarian",
+			"name": {
+				"first": "Sándor",
+				"last": "Czvetkó",
+				"full": "Sándor Czvetkó",
+				"native": null,
+				"userPreferred": "Sándor Czvetkó"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7875.jpg"
+		}]
+	}, {
+		"id": 1158,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hiyori",
+			"last": "Sarugaki",
+			"full": "Hiyori Sarugaki",
+			"native": "猿柿ひよ里",
+			"userPreferred": "Hiyori Sarugaki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b1158-El0ysCY1dLKy.png",
+		"voiceActors": [{
+			"id": 95429,
+			"language": "Japanese",
+			"name": {
+				"first": "Reiko",
+				"last": "Takagi",
+				"full": "Reiko Takagi",
+				"native": "高木礼子",
+				"userPreferred": "Reiko Takagi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95429-UOUUXfVWaQN2.png"
+		}, {
+			"id": 95187,
+			"language": "English",
+			"name": {
+				"first": "Laura",
+				"last": "Bailey",
+				"full": "Laura Bailey",
+				"native": null,
+				"userPreferred": "Laura Bailey"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95187-QeezFM0GP4tu.jpg"
+		}, {
+			"id": 95729,
+			"language": "English",
+			"name": {
+				"first": "Lara",
+				"last": "Cody",
+				"full": "Lara Cody",
+				"native": null,
+				"userPreferred": "Lara Cody"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95729-Z7oXYw57flZB.jpg"
+		}, {
+			"id": 110593,
+			"language": "Korean",
+			"name": {
+				"first": "Mun Ja",
+				"last": "Choi",
+				"full": "Mun Ja Choi",
+				"native": "문자 최",
+				"userPreferred": "Mun Ja Choi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/15593.jpg"
+		}, {
+			"id": 109569,
+			"language": "Italian",
+			"name": {
+				"first": "Gea",
+				"last": "Riva",
+				"full": "Gea Riva",
+				"native": null,
+				"userPreferred": "Gea Riva"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109569-T6AuklGMbcKh.png"
+		}, {
+			"id": 129793,
+			"language": "Spanish",
+			"name": {
+				"first": "Betzabé",
+				"last": "Jara",
+				"full": "Betzabé Jara",
+				"native": null,
+				"userPreferred": "Betzabé Jara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129793-y84cKVCwce6q.png"
+		}, {
+			"id": 188410,
+			"language": "Portuguese",
+			"name": {
+				"first": "Tarsila",
+				"last": "Amorim",
+				"full": "Tarsila Amorim",
+				"native": null,
+				"userPreferred": "Tarsila Amorim"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n188410-AyFsya0nH8MS.jpg"
+		}, {
+			"id": 146249,
+			"language": "French",
+			"name": {
+				"first": "Céline",
+				"last": "Rotard",
+				"full": "Céline Rotard",
+				"native": null,
+				"userPreferred": "Céline Rotard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n146249-dHphYjA3D518.jpg"
+		}, {
+			"id": 146249,
+			"language": "French",
+			"name": {
+				"first": "Céline",
+				"last": "Rotard",
+				"full": "Céline Rotard",
+				"native": null,
+				"userPreferred": "Céline Rotard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n146249-dHphYjA3D518.jpg"
+		}, {
+			"id": 146823,
+			"language": "German",
+			"name": {
+				"first": "Tabea",
+				"last": "Hilbert",
+				"full": "Tabea Hilbert",
+				"native": null,
+				"userPreferred": "Tabea Hilbert"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 105940,
+			"language": "Hungarian",
+			"name": {
+				"first": "Dóra",
+				"last": "Szentesi",
+				"full": "Dóra Szentesi",
+				"native": null,
+				"userPreferred": "Dóra Szentesi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 22861,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kaneda",
+			"last": null,
+			"full": "Kaneda",
+			"native": null,
+			"userPreferred": "Kaneda"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/22861.jpg",
+		"voiceActors": [{
+			"id": 95215,
+			"language": "Japanese",
+			"name": {
+				"first": "Risa",
+				"last": "Hayamizu",
+				"full": "Risa Hayamizu",
+				"native": "早水リサ",
+				"userPreferred": "Risa Hayamizu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95215-CvyYAqsZaaaK.png"
+		}, {
+			"id": 95225,
+			"language": "English",
+			"name": {
+				"first": "Yuri",
+				"last": "Lowenthal",
+				"full": "Yuri Lowenthal",
+				"native": null,
+				"userPreferred": "Yuri Lowenthal"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95225-CbmI6oDkbbkL.jpg"
+		}, {
+			"id": 157478,
+			"language": "Italian",
+			"name": {
+				"first": "Giulia",
+				"last": "Bersani",
+				"full": "Giulia Bersani",
+				"native": "Giulia Bersani",
+				"userPreferred": "Giulia Bersani"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 163760,
+			"language": "Portuguese",
+			"name": {
+				"first": "Rafael",
+				"last": "Barioni",
+				"full": "Rafael Barioni",
+				"native": null,
+				"userPreferred": "Rafael Barioni"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 167431,
+			"language": "German",
+			"name": {
+				"first": "Richard",
+				"last": "Westerhaus",
+				"full": "Richard Westerhaus",
+				"native": null,
+				"userPreferred": "Richard Westerhaus"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 1156,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shawlong",
+			"last": "Qu Fong",
+			"full": "Shawlong Qu Fong",
+			"native": null,
+			"userPreferred": "Shawlong Qu Fong"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/1156.jpg",
+		"voiceActors": [{
+			"id": 95234,
+			"language": "Japanese",
+			"name": {
+				"first": "Hideyuki",
+				"last": "Tanaka",
+				"full": "Hideyuki Tanaka",
+				"native": "田中秀幸",
+				"userPreferred": "Hideyuki Tanaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95234-YAu7XmoSIIS7.png"
+		}, {
+			"id": 95351,
+			"language": "English",
+			"name": {
+				"first": "Michael",
+				"last": "McConnohie",
+				"full": "Michael McConnohie",
+				"native": null,
+				"userPreferred": "Michael McConnohie"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95351-sfzuSJSC0wKK.jpg"
+		}, {
+			"id": 165035,
+			"language": "Italian",
+			"name": {
+				"first": "Diego",
+				"last": "Baldoin",
+				"full": "Diego Baldoin",
+				"native": null,
+				"userPreferred": "Diego Baldoin"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 182190,
+			"language": "Spanish",
+			"name": {
+				"first": "Óscar",
+				"last": "Gómez",
+				"full": "Óscar Gómez",
+				"native": "Óscar Gonzalo Gómez Acevedo",
+				"userPreferred": "Óscar Gómez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182190-Z71ORdxBiGJq.png"
+		}, {
+			"id": 102351,
+			"language": "Portuguese",
+			"name": {
+				"first": "Gilberto",
+				"last": "Baroli",
+				"full": "Gilberto Baroli",
+				"native": null,
+				"userPreferred": "Gilberto Baroli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7351.jpg"
+		}]
+	}, {
+		"id": 1168,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mayuri",
+			"last": "Kurotsuchi",
+			"full": "Mayuri Kurotsuchi",
+			"native": "涅マユリ",
+			"userPreferred": "Mayuri Kurotsuchi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b1168-y2jsGtlJVv4z.png",
+		"voiceActors": [{
+			"id": 95259,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryuusei",
+				"last": "Nakao",
+				"full": "Ryuusei Nakao",
+				"native": "中尾隆聖",
+				"userPreferred": "Ryuusei Nakao"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95259-A1sNVqfD2MWp.png"
+		}, {
+			"id": 95321,
+			"language": "English",
+			"name": {
+				"first": "Terrence",
+				"last": "Stone",
+				"full": "Terrence Stone",
+				"native": null,
+				"userPreferred": "Terrence Stone"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95321-OHD0RmMYGh71.jpg"
+		}, {
+			"id": 109819,
+			"language": "Korean",
+			"name": {
+				"first": "Seung jun",
+				"last": "Kim",
+				"full": "Seung jun Kim",
+				"native": "승준 김",
+				"userPreferred": "Seung jun Kim"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14819.jpg"
+		}, {
+			"id": 227024,
+			"language": "Italian",
+			"name": {
+				"first": "Roberto",
+				"last": "Accornero",
+				"full": "Roberto Accornero",
+				"native": null,
+				"userPreferred": "Roberto Accornero"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 203957,
+			"language": "Spanish",
+			"name": {
+				"first": "Juan Alfonso",
+				"last": "Carralero",
+				"full": "Juan Alfonso Carralero",
+				"native": null,
+				"userPreferred": "Juan Alfonso Carralero"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n203957-FTx6kH7BgT1h.png"
+		}, {
+			"id": 192670,
+			"language": "Portuguese",
+			"name": {
+				"first": "Faduli",
+				"last": "Costa",
+				"full": "Faduli Costa",
+				"native": null,
+				"userPreferred": "Faduli Costa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n192670-gRv93mDicD0H.jpg"
+		}, {
+			"id": 249019,
+			"language": "Portuguese",
+			"name": {
+				"first": "Cleber",
+				"last": "Martins",
+				"full": "Cleber Martins",
+				"native": null,
+				"userPreferred": "Cleber Martins"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 138010,
+			"language": "French",
+			"name": {
+				"first": "Jean-Pierre",
+				"last": "Leblan",
+				"full": "Jean-Pierre Leblan",
+				"native": null,
+				"userPreferred": "Jean-Pierre Leblan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 139124,
+			"language": "German",
+			"name": {
+				"first": "Dieter",
+				"last": "Maise",
+				"full": "Dieter Maise",
+				"native": null,
+				"userPreferred": "Dieter Maise"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139124-5zE9udyWl3oB.jpg"
+		}, {
+			"id": 102840,
+			"language": "Hungarian",
+			"name": {
+				"first": "Rókus",
+				"last": "Varga",
+				"full": "Rókus Varga",
+				"native": null,
+				"userPreferred": "Rókus Varga"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7840.jpg"
+		}]
+	}, {
+		"id": 1157,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Nakeem",
+			"last": "Greendina",
+			"full": "Nakeem Greendina",
+			"native": "ナキーム・グリンディーナ",
+			"userPreferred": "Nakeem Greendina"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/1157.jpg",
+		"voiceActors": [{
+			"id": 101165,
+			"language": "Japanese",
+			"name": {
+				"first": "Taketora",
+				"last": "",
+				"full": "Taketora",
+				"native": "武虎 ",
+				"userPreferred": "Taketora"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101165-2t7jn6YxCnma.jpg"
+		}, {
+			"id": 95268,
+			"language": "English",
+			"name": {
+				"first": "J.B.",
+				"last": "Blanc",
+				"full": "J.B. Blanc",
+				"native": null,
+				"userPreferred": "J.B. Blanc"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/268.jpg"
+		}, {
+			"id": 184302,
+			"language": "Spanish",
+			"name": {
+				"first": "Esteban",
+				"last": "Desco",
+				"full": "Esteban Desco",
+				"native": null,
+				"userPreferred": "Esteban Desco"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184302-5XGTZcN1CT8c.jpg"
+		}, {
+			"id": 224045,
+			"language": "Portuguese",
+			"name": {
+				"first": "Douglas",
+				"last": "Monteiro",
+				"full": "Douglas Monteiro",
+				"native": null,
+				"userPreferred": "Douglas Monteiro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n224045-E7XRujWdm6We.jpg"
+		}]
+	}, {
+		"id": 22948,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Patros",
+			"last": null,
+			"full": "Patros",
+			"native": "パトラス",
+			"userPreferred": "Patros"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/22948.jpg",
+		"voiceActors": [{
+			"id": 108715,
+			"language": "Japanese",
+			"name": {
+				"first": "Tetsuo",
+				"last": "Kanao",
+				"full": "Tetsuo Kanao",
+				"native": "金尾哲夫",
+				"userPreferred": "Tetsuo Kanao"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108715-zjqghhvQm0qv.png"
+		}, {
+			"id": 95268,
+			"language": "English",
+			"name": {
+				"first": "J.B.",
+				"last": "Blanc",
+				"full": "J.B. Blanc",
+				"native": null,
+				"userPreferred": "J.B. Blanc"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/268.jpg"
+		}, {
+			"id": 184109,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marco Antônio",
+				"last": "Abreu",
+				"full": "Marco Antônio Abreu",
+				"native": null,
+				"userPreferred": "Marco Antônio Abreu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184109-DYVjrI1bJAa2.jpg"
+		}, {
+			"id": 155339,
+			"language": "German",
+			"name": {
+				"first": "Robert",
+				"last": "Steudtner",
+				"full": "Robert Steudtner",
+				"native": null,
+				"userPreferred": "Robert Steudtner"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n155339-0R4T4qN8uhHT.png"
+		}]
+	}, {
+		"id": 42938,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Moe",
+			"last": "Shishigawara",
+			"full": "Moe Shishigawara",
+			"native": "獅子河原 萌笑",
+			"userPreferred": "Moe Shishigawara"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/42938.jpg",
+		"voiceActors": [{
+			"id": 95283,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroyuki",
+				"last": "Yoshino",
+				"full": "Hiroyuki Yoshino",
+				"native": "吉野裕行",
+				"userPreferred": "Hiroyuki Yoshino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95283-g76zV4YacFfm.jpg"
+		}, {
+			"id": 157484,
+			"language": "Italian",
+			"name": {
+				"first": "Jacopo",
+				"last": "Calatroni",
+				"full": "Jacopo Calatroni",
+				"native": null,
+				"userPreferred": "Jacopo Calatroni"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157484-s0pcFLG0e3Pz.jpg"
+		}, {
+			"id": 194011,
+			"language": "Spanish",
+			"name": {
+				"first": "Brandon",
+				"last": "Montor",
+				"full": "Brandon Montor",
+				"native": null,
+				"userPreferred": "Brandon Montor"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n194011-uAFZnAI1Ycy1.png"
+		}, {
+			"id": 185307,
+			"language": "Portuguese",
+			"name": {
+				"first": "Lucas",
+				"last": "Gama",
+				"full": "Lucas Gama",
+				"native": null,
+				"userPreferred": "Lucas Gama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185307-72SiMiLUWKSV.png"
+		}, {
+			"id": 167019,
+			"language": "French",
+			"name": {
+				"first": "Benjamin",
+				"last": "Bollen",
+				"full": "Benjamin Bollen",
+				"native": null,
+				"userPreferred": "Benjamin Bollen"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n167019-oWYmdxcxK7uI.jpg"
+		}]
+	}, {
+		"id": 22862,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Miyuki",
+			"last": null,
+			"full": "Miyuki",
+			"native": "みゆき",
+			"userPreferred": "Miyuki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/22862.jpg",
+		"voiceActors": [{
+			"id": 96410,
+			"language": "Japanese",
+			"name": {
+				"first": "Taeko",
+				"last": "Kawata",
+				"full": "Taeko Kawata",
+				"native": "川田妙子",
+				"userPreferred": "Taeko Kawata"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96410-l2Mnnebzk6M1.png"
+		}, {
+			"id": 95318,
+			"language": "English",
+			"name": {
+				"first": "Kate",
+				"last": "Higgins",
+				"full": "Kate Higgins",
+				"native": null,
+				"userPreferred": "Kate Higgins"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95318-TvQyppjjRIH2.jpg"
+		}, {
+			"id": 180906,
+			"language": "Portuguese",
+			"name": {
+				"first": "Michelle",
+				"last": "Giudice",
+				"full": "Michelle Giudice",
+				"native": "Michelle Giudice",
+				"userPreferred": "Michelle Giudice"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n180906-BqZx7c6S31Zl.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 30012,
+		"relationType": "ADAPTATION",
+		"malId": 12,
+		"title": {
+			"romaji": "BLEACH",
+			"english": "Bleach",
+			"native": "BLEACH",
+			"userPreferred": "BLEACH"
+		},
+		"status": "Completed",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30012-z7U138mUaPdN.png",
+		"color": "#3586e4",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/30012-RpbdVc2yNxhw.jpg",
+		"rating": 78
+	}, {
+		"id": 834,
+		"relationType": "SIDE_STORY",
+		"malId": 834,
+		"title": {
+			"romaji": "BLEACH: The Sealed Sword Frenzy",
+			"english": null,
+			"native": "BLEACH The Sealed Sword Frenzy",
+			"userPreferred": "BLEACH: The Sealed Sword Frenzy"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx834-Wm0msxVlJnkT.png",
+		"color": "#fea150",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx834-Wm0msxVlJnkT.png",
+		"rating": 64
+	}, {
+		"id": 1686,
+		"relationType": "SIDE_STORY",
+		"malId": 1686,
+		"title": {
+			"romaji": "BLEACH: MEMORIES OF NOBODY",
+			"english": "Bleach the Movie: Memories of Nobody",
+			"native": "BLEACH MEMORIES OF NOBODY",
+			"userPreferred": "BLEACH: MEMORIES OF NOBODY"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1686-oZQepxP4SRQ2.jpg",
+		"color": "#ffa143",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1686-dYv44wJMzT4t.jpg",
+		"rating": 70
+	}, {
+		"id": 2889,
+		"relationType": "SIDE_STORY",
+		"malId": 2889,
+		"title": {
+			"romaji": "BLEACH: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+			"english": "Bleach the Movie: The DiamondDust Rebellion",
+			"native": "BLEACH The DiamondDust Rebellion もう一つの氷輪丸",
+			"userPreferred": "BLEACH: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2889-AmnSwChuAuGT.jpg",
+		"color": "#f1a150",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2889-vB1DE7XfDvnB.jpg",
+		"rating": 69
+	}, {
+		"id": 4835,
+		"relationType": "SIDE_STORY",
+		"malId": 4835,
+		"title": {
+			"romaji": "BLEACH: Fade to Black - Kimi no Na wo Yobu",
+			"english": "Bleach the Movie: Fade to Black",
+			"native": "BLEACH Fade to Black 君の名を呼ぶ",
+			"userPreferred": "BLEACH: Fade to Black - Kimi no Na wo Yobu"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4835-UqbwERH407BB.jpg",
+		"color": "#e49335",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n4835-85niQKlITltI.jpg",
+		"rating": 71
+	}, {
+		"id": 8247,
+		"relationType": "SIDE_STORY",
+		"malId": 8247,
+		"title": {
+			"romaji": "BLEACH: Jigoku-hen",
+			"english": "Bleach the Movie: Hell Verse",
+			"native": "BLEACH 地獄篇",
+			"userPreferred": "BLEACH: Jigoku-hen"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8247-VppsQKlgXoXr.png",
+		"color": "#f1a150",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8247-M9lIhb1pWRTn.jpg",
+		"rating": 73
+	}, {
+		"id": 100719,
+		"relationType": "SIDE_STORY",
+		"malId": 35118,
+		"title": {
+			"romaji": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
+			"english": null,
+			"native": "BLEACH カラブリ！護廷十三屋台大作戦！",
+			"userPreferred": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100719-PLIlnSxjACLV.jpg",
+		"color": "#f1ae1a",
+		"type": "OVA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100719-PLIlnSxjACLV.jpg",
+		"rating": 62
+	}, {
+		"id": 116674,
+		"relationType": "SEQUEL",
+		"malId": 41467,
+		"title": {
+			"romaji": "BLEACH: Sennen Kessen-hen",
+			"english": "BLEACH: Thousand-Year Blood War",
+			"native": "BLEACH 千年血戦篇",
+			"userPreferred": "BLEACH: Sennen Kessen-hen"
+		},
+		"status": "Completed",
+		"episodes": 13,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
+		"color": "#e45043",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116674-l2YlIyJzvGSV.jpg",
+		"rating": 89
+	}, {
+		"id": 116673,
+		"relationType": "OTHER",
+		"malId": 41468,
+		"title": {
+			"romaji": "BURN THE WITCH",
+			"english": "BURN THE WITCH",
+			"native": "BURN THE WITCH",
+			"userPreferred": "BURN THE WITCH"
+		},
+		"status": "Completed",
+		"episodes": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116673-cy4sgiliurpR.jpg",
+		"color": "#e45050",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116673-AY85zkgTYWKu.jpg",
+		"rating": 70
+	}, {
+		"id": 154037,
+		"relationType": "ALTERNATIVE",
+		"malId": 762,
+		"title": {
+			"romaji": "BLEACH: memories in the rain",
+			"english": null,
+			"native": "BLEACH memories in the rain",
+			"userPreferred": "BLEACH: memories in the rain"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154037-7VSs4aDUL2ZG.jpg",
+		"color": "#e49335",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154037-7VSs4aDUL2ZG.jpg",
+		"rating": 69
+	}],
+	"mappings": {
+		"mal": 269,
+		"anidb": 2369,
+		"kitsu": 244,
+		"anilist": 269,
+		"thetvdb": 74796,
+		"anisearch": 1078,
+		"livechart": 3340,
+		"notify.moe": "iSK25Fmmg",
+		"anime-planet": "bleach"
+	},
+	"episodes": [{
+			"id": "bleach-episode-1",
+			"title": "ThedayIbecameashinigami",
+			"description": "",
+			"number": "1",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-2",
+			"title": "Ashinigami'swork",
+			"description": "",
+			"number": "2",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-3",
+			"title": "Theolderbrother'swish,theyoungersister'swish",
+			"description": "",
+			"number": "3",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-4",
+			"title": "Cursedparakeet",
+			"description": "",
+			"number": "4",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-5",
+			"title": "Beattheinvisibleenemy!",
+			"description": "",
+			"number": "5",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-6",
+			"title": "Fighttothedeath!Ichigovs.Ichigo",
+			"description": "",
+			"number": "6",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-7",
+			"title": "Greetingsfromastuffedtoy",
+			"description": "",
+			"number": "7",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-8",
+			"title": "June17,amemoryofrain",
+			"description": "",
+			"number": "8",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-9",
+			"title": "Unbeatableenemy",
+			"description": "",
+			"number": "9",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-10",
+			"title": "Assaultontripatsacredground!",
+			"description": "",
+			"number": "10",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-11",
+			"title": "ThelegendaryQuincy",
+			"description": "",
+			"number": "11",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-12",
+			"title": "Agentlerightarm",
+			"description": "",
+			"number": "12",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-13",
+			"title": "FlowerandHollow",
+			"description": "",
+			"number": "13",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-14",
+			"title": "Backtoback,afighttothedeath!",
+			"description": "",
+			"number": "14",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-15",
+			"title": "Kon'sgreatplan",
+			"description": "",
+			"number": "15",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-16",
+			"title": "Encounter:AbaraiRenji!",
+			"description": "",
+			"number": "16",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-17",
+			"title": "Ichigodies!",
+			"description": "",
+			"number": "17",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-18",
+			"title": "Reclaim!Thepoweroftheshinigami",
+			"description": "",
+			"number": "18",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-19",
+			"title": "IchigobecomesaHollow!",
+			"description": "",
+			"number": "19",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-20",
+			"title": "Ichimaruthesilvershadow ",
+			"description": "",
+			"number": "20",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-21",
+			"title": "Enter!Theworldoftheshinigami",
+			"description": "",
+			"number": "21",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-22",
+			"title": "ThemanwhohatesShinigamis",
+			"description": "",
+			"number": "22",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-23",
+			"title": "ThesentenceofRukia,beforethe14thday",
+			"description": "",
+			"number": "23",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-24",
+			"title": "Assemble!The13divisions",
+			"description": "",
+			"number": "24",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-25",
+			"title": "Penetratethecentrewithanenormousbombshell?",
+			"description": "",
+			"number": "25",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-26",
+			"title": "Formation!Theworsttag",
+			"description": "",
+			"number": "26",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-27",
+			"title": "Releasethedeathblow!",
+			"description": "",
+			"number": "27",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-28",
+			"title": "Orihimeisbeingtargeted",
+			"description": "",
+			"number": "28",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-29",
+			"title": "Breakthrough!TheDeathgods'EncompassingNet",
+			"description": "",
+			"number": "29",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-30",
+			"title": "Renji'sConfrontation",
+			"description": "",
+			"number": "30",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-31",
+			"title": "TheResolutiontoKill",
+			"description": "",
+			"number": "31",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-32",
+			"title": "Starsandthestray",
+			"description": "",
+			"number": "32",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-33",
+			"title": "Miracle!Themysteriousnewhero",
+			"description": "",
+			"number": "33",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-34",
+			"title": "Tragedyofdawn",
+			"description": "",
+			"number": "34",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-35",
+			"title": "AssasinationofAizen!Thedarknesswhichapproaches",
+			"description": "",
+			"number": "35",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-36",
+			"title": "ZarakiKenpachiapproaches!",
+			"description": "",
+			"number": "36",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-37",
+			"title": "ReasonoftheFist",
+			"description": "",
+			"number": "37",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-38",
+			"title": "Desperation!ThebrokenedZangetsu",
+			"description": "",
+			"number": "38",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-39",
+			"title": "TheManofImmortality",
+			"description": "",
+			"number": "39",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-40",
+			"title": "TheShinigamiwhomGanjumet",
+			"description": "",
+			"number": "40",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-41",
+			"title": "Reunion,IchigoandRukia",
+			"description": "",
+			"number": "41",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-42",
+			"title": "Yoruichi,GodofFlash,dances!",
+			"description": "",
+			"number": "42",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-43",
+			"title": "TheDespicableShinigami",
+			"description": "",
+			"number": "43",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-44",
+			"title": "Ishida,PowerofLimits!",
+			"description": "",
+			"number": "44",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-45",
+			"title": "OvercometheLimits!",
+			"description": "",
+			"number": "45",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-46",
+			"title": "AuthenticRecords!SchoolofShinigami",
+			"description": "",
+			"number": "46",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-47",
+			"title": "TheAvengers",
+			"description": "",
+			"number": "47",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-48",
+			"title": "Hitsugayaroars!",
+			"description": "",
+			"number": "48",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-49",
+			"title": "Rukia'sNightmare",
+			"description": "",
+			"number": "49",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-50",
+			"title": "TheAwakeningLion",
+			"description": "",
+			"number": "50",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-51",
+			"title": "MorningoftheSentence",
+			"description": "",
+			"number": "51",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-52",
+			"title": "Renji,OathoftheSoul!DeathMatchwithByakuya",
+			"description": "",
+			"number": "52",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-53",
+			"title": "IchimaruGin'sTemptation,ResolutionofDestruction",
+			"description": "",
+			"number": "53",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-54",
+			"title": "AnAccomplishedOath!GetbackRukia!",
+			"description": "",
+			"number": "54",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-55",
+			"title": "TheStrongestShinigami!Ultimateconfrontationbetweenteacherandstudent",
+			"description": "",
+			"number": "55",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-56",
+			"title": "SupersonicBattle!DeterminetheGoddessofChilvary",
+			"description": "",
+			"number": "56",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-57",
+			"title": "Onethousandcherrryblossoms,crushed!Zangetsuthruststhroughthesky",
+			"description": "",
+			"number": "57",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-58",
+			"title": "Unseal!TheBlackBlade,theMiraculousPower",
+			"description": "",
+			"number": "58",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-59",
+			"title": "ConclusionoftheDeathMatch!Whiteprideandblackdesire",
+			"description": "",
+			"number": "59",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-60",
+			"title": "TruthofDespair,theDaggerthathasbeenBrandished",
+			"description": "",
+			"number": "60",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-61",
+			"title": "Aizenstandsout!HisTerrifyingAmbition",
+			"description": "",
+			"number": "61",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-62",
+			"title": "Congresstogether!TheStrongestShinigamiOrganisation",
+			"description": "",
+			"number": "62",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-63",
+			"title": "Rukia'sResolution,Ichigo'sFeelings",
+			"description": "",
+			"number": "63",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-64",
+			"title": "NewSchoolTerm,RenjihascometotheMaterialworld?!",
+			"description": "",
+			"number": "64",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-65",
+			"title": "CreepingTerror,theSecondVictim",
+			"description": "",
+			"number": "65",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-66",
+			"title": "BreakThrough!TheTrapHiddenintheLabyrinth",
+			"description": "",
+			"number": "66",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-67",
+			"title": "DeathGame!TheMissingClassmate",
+			"description": "",
+			"number": "67",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-68",
+			"title": "TrueIdentityoftheDevil,theSecretwhichisRevealed",
+			"description": "",
+			"number": "68",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-69",
+			"title": "Baunt!TheSoulHunters",
+			"description": "",
+			"number": "69",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-70",
+			"title": "ReturnofRukia!TheSubstituteTeamRevival",
+			"description": "",
+			"number": "70",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-71",
+			"title": "TheMomentofCollision!AnEvilHandDrawsNeartotheQuincy",
+			"description": "",
+			"number": "71",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-72",
+			"title": "WaterAttack!EscapefromtheShutdownHospital",
+			"description": "",
+			"number": "72",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-73",
+			"title": "GatheringofBounts!Themanwhomakeshismove",
+			"description": "",
+			"number": "73",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-74",
+			"title": "Memoriesofaneternallylivingclan",
+			"description": "",
+			"number": "74",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-75",
+			"title": "Earth-ShatteringEventat11thDivision!TheShinigamithatrisesagain",
+			"description": "",
+			"number": "75",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-76",
+			"title": "CrashingForce!Friidovs.Zangetsu",
+			"description": "",
+			"number": "76",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-77",
+			"title": "TheGrudgeThatDoesNotVanish!TheShinigamithatKenpachicutdown",
+			"description": "",
+			"number": "77",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-78",
+			"title": "ShockingRevelationsfortheGotei13divisions!!Thetruthburiedinhistory",
+			"description": "",
+			"number": "78",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-79",
+			"title": "Yoshino'sdecisionofdeath",
+			"description": "",
+			"number": "79",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-80",
+			"title": "Assaultfromaformidableenemy!Atinyfinallineofdefense?!",
+			"description": "",
+			"number": "80",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-81",
+			"title": "Hitsugayamoves!TheAttackontheStreet",
+			"description": "",
+			"number": "81",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-82",
+			"title": "Ichigovs.Daruku!TheArrivaloftheFadedDarkness",
+			"description": "",
+			"number": "82",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-83",
+			"title": "GreyShadow,theSecretoftheDoll",
+			"description": "",
+			"number": "83",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-84",
+			"title": "BreakingUpoftheSubstituteTeam?TheBetrayalofRukia",
+			"description": "",
+			"number": "84",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-85",
+			"title": "BattleofTears!Rukiavs.Orihime",
+			"description": "",
+			"number": "85",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-86",
+			"title": "Rangikudances!Cutdowntheinvisibleenemy",
+			"description": "",
+			"number": "86",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-87",
+			"title": "Byakuyaassembles!TheGotei13divisionsmaketheirmove",
+			"description": "",
+			"number": "87",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-88",
+			"title": "AnnihilationoftheVice-Captains!?TrapintheUndergroundCave",
+			"description": "",
+			"number": "88",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-89",
+			"title": "Rematch?!Ishidavs.Nemu",
+			"description": "",
+			"number": "89",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-90",
+			"title": "AbaraiRenji,BankaioftheSoul!",
+			"description": "",
+			"number": "90",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-91",
+			"title": "ShinigamiandQuincy,therevivingpower",
+			"description": "",
+			"number": "91",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-92",
+			"title": "EntertheWorldoftheShinigami,Again",
+			"description": "",
+			"number": "92",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-93",
+			"title": "BountAssault!ChaosintheGotei13divisions",
+			"description": "",
+			"number": "93",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-94",
+			"title": "Hitsugaya'sResolution!TheMomentofConflictApproaches",
+			"description": "",
+			"number": "94",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-95",
+			"title": "ByakuyaTakestheField!DanceoftheWind-SplittingCherryBlossoms",
+			"description": "",
+			"number": "95",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-96",
+			"title": "Ichigo・Byakuya・Kariya,BattleoftheThreeExtremes!",
+			"description": "",
+			"number": "96",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-97",
+			"title": "Hitsugayamovesout!Cutdowntheenemyintheforest",
+			"description": "",
+			"number": "97",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-98",
+			"title": "Clash!ZarakiKenpachivs.IchinoseMaki",
+			"description": "",
+			"number": "98",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-99",
+			"title": "Shinigamivs.Shinigami!TheUncontrollablePower",
+			"description": "",
+			"number": "99",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-100",
+			"title": "SoiFongdies?TheLastoftheSecretMobileCorps",
+			"description": "",
+			"number": "100",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-101",
+			"title": "Mayuri'sBankai!!Sawatari・ClashoftheDemons",
+			"description": "",
+			"number": "101",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-102",
+			"title": "TheLastQuincy!TheExplodingPower",
+			"description": "",
+			"number": "102",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-103",
+			"title": "Ishida,exceedingthelimitstoattack!",
+			"description": "",
+			"number": "103",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-104",
+			"title": "10thDivision'sDeathStruggle!TheReleaseofHyourinmaru",
+			"description": "",
+			"number": "104",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-105",
+			"title": "Kariya!CountdowntotheDetonation",
+			"description": "",
+			"number": "105",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-106",
+			"title": "LifeandRevenge!Ishida,theUltimateChoice",
+			"description": "",
+			"number": "106",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-107",
+			"title": "TheSwung-DownBlade!TheMomentofRuin",
+			"description": "",
+			"number": "107",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-108",
+			"title": "TheWailingBount!TheLastClash",
+			"description": "",
+			"number": "108",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-109",
+			"title": "IchigoandRukia,ThoughtsRevolvingAroundHeaven",
+			"description": "",
+			"number": "109",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-110",
+			"title": "ReopeningoftheSubstituteBusiness!TheTerrifyingTransferStudent",
+			"description": "",
+			"number": "110",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-111",
+			"title": "Shock!TheFathers'TrueIdentity",
+			"description": "",
+			"number": "111",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-112",
+			"title": "TheCommencementofWar,theVizardsandtheArrancars",
+			"description": "",
+			"number": "112",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-113",
+			"title": "PreludetotheApocalypse,theArrancarOffensive!",
+			"description": "",
+			"number": "113",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-114",
+			"title": "Reunion,IchigoandRukiaandShinigamis",
+			"description": "",
+			"number": "114",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-115",
+			"title": "Mission!TheShinigamiHaveCome",
+			"description": "",
+			"number": "115",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-116",
+			"title": "TheEvilEye,AizenReturns",
+			"description": "",
+			"number": "116",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-117",
+			"title": "Rukia'sBattleCommences!TheFreezingWhiteBlade",
+			"description": "",
+			"number": "117",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-118",
+			"title": "Ikkaku'sBankai!Thepowerthatbreakseverything",
+			"description": "",
+			"number": "118",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-119",
+			"title": "ZarakiDivision'sSecretStory!Theluckymen",
+			"description": "",
+			"number": "119",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-120",
+			"title": "Hitsugayascatters!ThebrokenHyourinmaru",
+			"description": "",
+			"number": "120",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-121",
+			"title": "Clash!Theprotectorvs.thebearer",
+			"description": "",
+			"number": "121",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-122",
+			"title": "Vizard!Thepoweroftheawakened",
+			"description": "",
+			"number": "122",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-123",
+			"title": "Ichigo,CompleteHollowification?!",
+			"description": "",
+			"number": "123",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-124",
+			"title": "Clash!TheBlackBankaiandtheWhiteBankai",
+			"description": "",
+			"number": "124",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-125",
+			"title": "UrgentReport!Aizen'sTerrifyingPlan",
+			"description": "",
+			"number": "125",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-126",
+			"title": "Uryuuvs.Ryuuken!ClashoftheParent-ChildQuincys",
+			"description": "",
+			"number": "126",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-127",
+			"title": "Urahara'sDecision,Orihime'sThoughts",
+			"description": "",
+			"number": "127",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-128",
+			"title": "TheNightmareArrancar!TeamHitsugayamovesout",
+			"description": "",
+			"number": "128",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-129",
+			"title": "TheSwoopingDescentoftheDarkEmissary!ThePropagationofMalice",
+			"description": "",
+			"number": "129",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-130",
+			"title": "TheInvisibleEnemy!Hitsugaya'sMercilessDecision",
+			"description": "",
+			"number": "130",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-131",
+			"title": "Rangiku'sTears,theSorrowfulPartingofBrotherandSister",
+			"description": "",
+			"number": "131",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-132",
+			"title": "Hitsugaya,KarinandSoccerBall",
+			"description": "",
+			"number": "132",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-133",
+			"title": "Ikkaku'sHot-BloodedKendoTale",
+			"description": "",
+			"number": "133",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-134",
+			"title": "TheBeautifulPatissier,Yumichika!",
+			"description": "",
+			"number": "134",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-135",
+			"title": "KonisDeceived!RangikuontheLookout..",
+			"description": "",
+			"number": "135",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-136",
+			"title": "CivilWarinHuecoMondo!Ulquiorra'sdeath",
+			"description": "",
+			"number": "136",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-137",
+			"title": "TheMaliciousBattle,Aizen'sTrap",
+			"description": "",
+			"number": "137",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-138",
+			"title": "HuecoMondomovesagain!Hitsugayavs.Yammy",
+			"description": "",
+			"number": "138",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-139",
+			"title": "Ichigovs.Grimmjow,the11-secondbattle",
+			"description": "",
+			"number": "139",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-140",
+			"title": "Ulquiorra'sScheme,theMomentwhentheSunSets",
+			"description": "",
+			"number": "140",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-141",
+			"title": "Goodbye...,Kurosaki",
+			"description": "",
+			"number": "141",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-142",
+			"title": "StrictOrder!TheForbiddenRescueofInoueOrihime",
+			"description": "",
+			"number": "142",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-143",
+			"title": "Grimmjow'sRevival",
+			"description": "",
+			"number": "143",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-144",
+			"title": "Ishida・Chad,TheQuickeningofanewpower",
+			"description": "",
+			"number": "144",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-145",
+			"title": "TheEspadaGathers!Aizen'sroyalassembly",
+			"description": "",
+			"number": "145",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-146",
+			"title": "TheNameisNel!Theappearanceofthestrangearrancar",
+			"description": "",
+			"number": "146",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-147",
+			"title": "TheForestofMenos!TheSearchfortheMissingRukia",
+			"description": "",
+			"number": "147",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-148",
+			"title": "Ashido,theShinigamiwhocamefromthePast",
+			"description": "",
+			"number": "148",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-149",
+			"title": "ThroughtheCrumblingForest,aMillionMenos",
+			"description": "",
+			"number": "149",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-150",
+			"title": "Oath!BackHereAliveAgain",
+			"description": "",
+			"number": "150",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-151",
+			"title": "TheRagingStorm!EncounterwiththeDancingArrancar",
+			"description": "",
+			"number": "151",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-152",
+			"title": "IchigoStrikesBack!ThisismyBankai",
+			"description": "",
+			"number": "152",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-153",
+			"title": "TheDevilishResearch!SzayelAporro'sPlan",
+			"description": "",
+			"number": "153",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-154",
+			"title": "RukiaandKaien,theSorrowfulReunion",
+			"description": "",
+			"number": "154",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-155",
+			"title": "RukiaRetaliates!ReleasetheDesperateKidou",
+			"description": "",
+			"number": "155",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-156",
+			"title": "Ishida&Pesshe,theUnitedAttackofFriendship?",
+			"description": "",
+			"number": "156",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-157",
+			"title": "Ishida'sTrumpCard,SeeleSchneider",
+			"description": "",
+			"number": "157",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-158",
+			"title": "RightArmoftheGiant,LeftArmoftheDevil",
+			"description": "",
+			"number": "158",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-159",
+			"title": "SadoYasutoradies!Orihime'sTears",
+			"description": "",
+			"number": "159",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-160",
+			"title": "Testament,YourHeartisRightHere...",
+			"description": "",
+			"number": "160",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-161",
+			"title": "TheCruelArrancar,Ulquiorra'sProvocation",
+			"description": "",
+			"number": "161",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-162",
+			"title": "SyazelAporroLaughs,theNetTrappingRenjiisComplete",
+			"description": "",
+			"number": "162",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-163",
+			"title": "ShinigamiandQuincy,theBattlewithMadness",
+			"description": "",
+			"number": "163",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-164",
+			"title": "Ishida'sStrategy,the20-secondOffenseandDefense",
+			"description": "",
+			"number": "164",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-165",
+			"title": "TheMurderousIntentBoils!TheJoyfulGrimmjow",
+			"description": "",
+			"number": "165",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-166",
+			"title": "DesperateEffortVSDesperateEffort!TheHollowizedIchigo",
+			"description": "",
+			"number": "166",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-167",
+			"title": "TheMomentofConclusion,theEndofGrimmjow",
+			"description": "",
+			"number": "167",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-168",
+			"title": "TheNewCaptainAppears!HisnameisAmagaiShuusuke",
+			"description": "",
+			"number": "168",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-169",
+			"title": "NewDevelopment,theDangerousTransferStudentAppears!",
+			"description": "",
+			"number": "169",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-170",
+			"title": "DesperateStruggleUndertheMoonlitNight,theMysteriousAssassinandZanpakutō",
+			"description": "",
+			"number": "170",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-171",
+			"title": "Kenryu,theProfusionofBloomingCrimsonFlowers",
+			"description": "",
+			"number": "171",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-172",
+			"title": "KibuneGoestoWar!TheViolentWindthatRages",
+			"description": "",
+			"number": "172",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-173",
+			"title": "TheAppearanceoftheGreatEvil!TheDarknessintheHouseofKasumiōji",
+			"description": "",
+			"number": "173",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-174",
+			"title": "BreaktheMirror'sBoundary!Ichigo'sCaptivity",
+			"description": "",
+			"number": "174",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-175",
+			"title": "TheRevengingAssassin,IchigoisTargeted",
+			"description": "",
+			"number": "175",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-176",
+			"title": "Mystery!TheSword-ConsumingAssassin",
+			"description": "",
+			"number": "176",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-177",
+			"title": "TheReversalofRukia,theRampagingBlade",
+			"description": "",
+			"number": "177",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-178",
+			"title": "TheNightmareWhichisShown,Ichigo'sInsidetheMirror",
+			"description": "",
+			"number": "178",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-179",
+			"title": "Confrontation?!Amagaivs.Gotei13",
+			"description": "",
+			"number": "179",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-180",
+			"title": "ThePrincess'Decision,theSorrowfulBride",
+			"description": "",
+			"number": "180",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-181",
+			"title": "The2ndDivisionSorties!IchigoisSurrounded",
+			"description": "",
+			"number": "181",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-182",
+			"title": "Amagai'sTrueStrength,zanpakutōisreleased!",
+			"description": "",
+			"number": "182",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-183",
+			"title": "TheDarknessWhichMoves!Kibune'sTrueColors",
+			"description": "",
+			"number": "183",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-184",
+			"title": "KiraandKibune,OffenseandDefenseof3rdDivision",
+			"description": "",
+			"number": "184",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-185",
+			"title": "IceandFlame!FierceFightofAmagaivs.Hitsugaya",
+			"description": "",
+			"number": "185",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-186",
+			"title": "SortieOrders!SuppresstheHouseofKasumiōji",
+			"description": "",
+			"number": "186",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-187",
+			"title": "IchigoRages!TheAssassin'sSecret",
+			"description": "",
+			"number": "187",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-188",
+			"title": "Duel!Amagaivs.Ichigo",
+			"description": "",
+			"number": "188",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-189",
+			"title": "TheFallenShinigami'sPride",
+			"description": "",
+			"number": "189",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-190",
+			"title": "HuecoMundoChapter,Restart!",
+			"description": "",
+			"number": "190",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-191",
+			"title": "TheFrighteningBanquet,SzayelAporro'sTheater",
+			"description": "",
+			"number": "191",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-192",
+			"title": "Nel'sSecret,aBig-BreastedBeautyJoinstheBattle?!",
+			"description": "",
+			"number": "192",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-193",
+			"title": "TheIrresistable,PuppetShowofTerror",
+			"description": "",
+			"number": "193",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-194",
+			"title": "Neliel'sPast",
+			"description": "",
+			"number": "194",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-195",
+			"title": "TheUltimateUnion!Pesche'sSeriousness",
+			"description": "",
+			"number": "195",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-196",
+			"title": "JoiningtheBattle!TheStrongestShinigamiArmyAppears",
+			"description": "",
+			"number": "196",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-197",
+			"title": "Byakuya'sBankai,theQuietAnger",
+			"description": "",
+			"number": "197",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-198",
+			"title": "TheTwoScientists,Mayuri'sTrap",
+			"description": "",
+			"number": "198",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-199",
+			"title": "HolyBirth,theResurrectingSzayelAporro",
+			"description": "",
+			"number": "199",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-200",
+			"title": "TheMostHardestBody?!NnoitraisCutDown",
+			"description": "",
+			"number": "200",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-201",
+			"title": "NnoitraReleases!TheMultiplyingArms",
+			"description": "",
+			"number": "201",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-202",
+			"title": "FierceFightingConclusion!Who'stheStrongest",
+			"description": "",
+			"number": "202",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-203",
+			"title": "KarakuraTownGathers!AizenVersusShinigami",
+			"description": "",
+			"number": "203",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-204",
+			"title": "Ichigo'sSeppukuPersuasionStrategy",
+			"description": "",
+			"number": "204",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-205",
+			"title": "Thump!AKemariTournamentFilledwithHollows",
+			"description": "",
+			"number": "205",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-206",
+			"title": "ThePastChapterBegins!TheTruthfrom110YearsAgo",
+			"description": "",
+			"number": "206",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-207",
+			"title": "12thDivision'sNewCaptain,UraharaKisuke",
+			"description": "",
+			"number": "207",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-208",
+			"title": "AizenandtheBoyGenius",
+			"description": "",
+			"number": "208",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-209",
+			"title": "Muguruma's9thDivision,setsout",
+			"description": "",
+			"number": "209",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-210",
+			"title": "Hiyoridies?TheBeginningofTragedy",
+			"description": "",
+			"number": "210",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-211",
+			"title": "Betrayal!Aizen'sSecretManeuvers",
+			"description": "",
+			"number": "211",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-212",
+			"title": "RescueHirako!Aizenvs.Urahara",
+			"description": "",
+			"number": "212",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-213",
+			"title": "TheSoulBurialDetective,KarakuraizerisBorn",
+			"description": "",
+			"number": "213",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-214",
+			"title": "Karakuraizer'sLastDay",
+			"description": "",
+			"number": "214",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-215",
+			"title": "DefendKarakuraTown!EntireAppearanceoftheShinigami",
+			"description": "",
+			"number": "215",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-216",
+			"title": "Elite!TheFourShinigami",
+			"description": "",
+			"number": "216",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-217",
+			"title": "BeautifulLittleDevilCharlotte",
+			"description": "",
+			"number": "217",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-218",
+			"title": "Kira,TheBattleWithinDespair",
+			"description": "",
+			"number": "218",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-219",
+			"title": "Hisagi'sShikai!TheNameis...",
+			"description": "",
+			"number": "219",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-220",
+			"title": "IkkakuFalls!TheShinigami'sCrisis",
+			"description": "",
+			"number": "220",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-221",
+			"title": "TheFullShowdown!Shinigamivs.Espada",
+			"description": "",
+			"number": "221",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-222",
+			"title": "TheMostEvilTag!?SoiFon&Ōmaeda",
+			"description": "",
+			"number": "222",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-223",
+			"title": "AMiraculousBody!GgioReleases",
+			"description": "",
+			"number": "223",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-224",
+			"title": "3vs.1Battle!Rangiku'sCrisis",
+			"description": "",
+			"number": "224",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-225",
+			"title": "AllVice-CaptainsAnnihilated!TheTerrifyingDemonicBeast",
+			"description": "",
+			"number": "225",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-226",
+			"title": "FierceFightingConcludes?TowardsaNewBattle!",
+			"description": "",
+			"number": "226",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-227",
+			"title": "WonderfulError",
+			"description": "",
+			"number": "227",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-228",
+			"title": "Summer!Sea!SwimsuitFestival!!",
+			"description": "",
+			"number": "228",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-229",
+			"title": "CryoftheSoul?TheRugShinigamiisBorn!",
+			"description": "",
+			"number": "229",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-230",
+			"title": "ANewEnemy!TheMaterializationofZanpakutō",
+			"description": "",
+			"number": "230",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-231",
+			"title": "Byakuya,DisappearingwiththeCherryBlossoms",
+			"description": "",
+			"number": "231",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-232",
+			"title": "SodenoShirayukivs.Rukia!ConfusedHeart",
+			"description": "",
+			"number": "232",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-233",
+			"title": "ZangetsuBecomesanEnemy",
+			"description": "",
+			"number": "233",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-234",
+			"title": "RenjiSurprised?!TheTwoZabimarus",
+			"description": "",
+			"number": "234",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-235",
+			"title": "Clash!Hisagivs.Kazeshini",
+			"description": "",
+			"number": "235",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-236",
+			"title": "Release!TheNewGetsugaTenshō",
+			"description": "",
+			"number": "236",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-237",
+			"title": "SoiFon,SurroundingtheZanpakutō",
+			"description": "",
+			"number": "237",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-238",
+			"title": "Friendship?Hatred?Haineko&Tobiume",
+			"description": "",
+			"number": "238",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-239",
+			"title": "TheAwakeningHyōrinmaru!Hitsugaya'sFierceFight",
+			"description": "",
+			"number": "239",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-240",
+			"title": "Byakuya'sBetrayal",
+			"description": "",
+			"number": "240",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-241",
+			"title": "FortheSakeofPride!Byakuyavs.Renji",
+			"description": "",
+			"number": "241",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-242",
+			"title": "ShinigamiandZanpakutō,TotalSortie",
+			"description": "",
+			"number": "242",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-243",
+			"title": "One-to-OneFight!Ichigovs.Senbonzakura",
+			"description": "",
+			"number": "243",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-244",
+			"title": "Thelongawaited...Kenpachiappears!",
+			"description": "",
+			"number": "244",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-245",
+			"title": "PursueByakuya!TheConfusedGoteiDivisions",
+			"description": "",
+			"number": "245",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-246",
+			"title": "SpecialMission!RescueCaptain-CommanderYamamoto!",
+			"description": "",
+			"number": "246",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-247",
+			"title": "DeceivedShinigami!TheWorldCollapseCrisis",
+			"description": "",
+			"number": "247",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-248",
+			"title": "DragonofIceandDragonofFlame!TheStrongestShowdown!",
+			"description": "",
+			"number": "248",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-249",
+			"title": "Senbonzakura'sBankai!OffenseandDefenseoftheLivingWorld",
+			"description": "",
+			"number": "249",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-250",
+			"title": "ThatMan,FortheSakeoftheKuchiki",
+			"description": "",
+			"number": "250",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-251",
+			"title": "DarkHistory!TheWorstShinigamiisBorn",
+			"description": "",
+			"number": "251",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-252",
+			"title": "Byakuya,theTruthBehindhisBetrayal",
+			"description": "",
+			"number": "252",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-253",
+			"title": "Muramasa'sTrueIdentityRevealed",
+			"description": "",
+			"number": "253",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-254",
+			"title": "ByakuyaandRenji,the6thDivisionReturns",
+			"description": "",
+			"number": "254",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-255",
+			"title": "FinalChapter·ZanpakutōUnknownTales",
+			"description": "",
+			"number": "255",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-256",
+			"title": "Byakuya'sAnger!TheKuchikiFamilyCollapses",
+			"description": "",
+			"number": "256",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-257",
+			"title": "ANewEnemy!TheTrueNatureoftheSwordFiends",
+			"description": "",
+			"number": "257",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-258",
+			"title": "StraySnake,TorturedMonkey",
+			"description": "",
+			"number": "258",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-259",
+			"title": "Terror!TheMonsterThatLurksUnderground",
+			"description": "",
+			"number": "259",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-260",
+			"title": "Conclusion?!Hisagivs.Kazeshini",
+			"description": "",
+			"number": "260",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-261",
+			"title": "ThePersonwiththeUnknownAbility!OrihimeisTargeted",
+			"description": "",
+			"number": "261",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-262",
+			"title": "TheTragicSwordFiend!HainekoCries!",
+			"description": "",
+			"number": "262",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-263",
+			"title": "Imprisonment?!Senbonzakura&Zabimaru",
+			"description": "",
+			"number": "263",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-264",
+			"title": "BattleoftheFemales?KatenKyōkotsuvs.Nanao!",
+			"description": "",
+			"number": "264",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-265",
+			"title": "Evolution?!TheMenaceoftheFinalSwordFiend",
+			"description": "",
+			"number": "265",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-266",
+			"title": "IchigoVSUlquiorra,Resume!",
+			"description": "",
+			"number": "266",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-267",
+			"title": "ConnectedHearts!TheLeftFistPreparedforDeath!",
+			"description": "",
+			"number": "267",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-268",
+			"title": "HatredandJealousy,Orihime'sDilemma",
+			"description": "",
+			"number": "268",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-269",
+			"title": "IchigoandUryū,BondedBacktoBack",
+			"description": "",
+			"number": "269",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-270",
+			"title": "BeginningofDespair...Ichigo,theUnreachableBlade",
+			"description": "",
+			"number": "270",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-271",
+			"title": "IchigoDies!Orihime,theCryofSorrow!",
+			"description": "",
+			"number": "271",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-272",
+			"title": "Ichigovs.Ulquiorra,Conclusion!",
+			"description": "",
+			"number": "272",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-273",
+			"title": "FuryoftheShark!HalibelReleases",
+			"description": "",
+			"number": "273",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-274",
+			"title": "Hitsugaya,theSuicidalFrozenHeavensHundredFlowersFuneral!",
+			"description": "",
+			"number": "274",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-275",
+			"title": "TheApproachingBreathofDeath,theKingWhoRulesOverDeath!",
+			"description": "",
+			"number": "275",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-276",
+			"title": "OneHitKill,SoiFon,Bankai!",
+			"description": "",
+			"number": "276",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-277",
+			"title": "Climax!Kyōrakuvs.Starrk!",
+			"description": "",
+			"number": "277",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-278",
+			"title": "TheNightmareReturns...RevivaloftheEspada",
+			"description": "",
+			"number": "278",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-279",
+			"title": "HirakoandAizen...theReunionofFate!",
+			"description": "",
+			"number": "279",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-280",
+			"title": "HisagiandTōsen,theMomentofParting",
+			"description": "",
+			"number": "280",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-281",
+			"title": "CrownofLies,Barragan'sGrudge",
+			"description": "",
+			"number": "281",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-282",
+			"title": "PoweroftheSoul!TheWolves,Attack!",
+			"description": "",
+			"number": "282",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-283",
+			"title": "Starrk,theLoneBattle",
+			"description": "",
+			"number": "283",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-284",
+			"title": "ChainofSacrifice...Halibel'sPast",
+			"description": "",
+			"number": "284",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-285",
+			"title": "TheHundred-YearGrudge...Hiyori'sRevenge",
+			"description": "",
+			"number": "285",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-286",
+			"title": "ProtectKarakuraTown!Ichigo,towardstheRealWorld!",
+			"description": "",
+			"number": "286",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-287",
+			"title": "SideStory!IchigoandtheMagicLamp",
+			"description": "",
+			"number": "287",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-288",
+			"title": "TheFinalTrumpCard!Ichigo,TowardstheDecisiveBattle",
+			"description": "",
+			"number": "288",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-289",
+			"title": "Byakuyavs.Kenpachi?!TheMeleeCommences",
+			"description": "",
+			"number": "289",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-290",
+			"title": "FortheSakeofJustice?!TheManWhoDesertedtheShinigami",
+			"description": "",
+			"number": "290",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-291",
+			"title": "DesperateStrugglewithAizen!Hirako,Shikai!",
+			"description": "",
+			"number": "291",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-292",
+			"title": "AllOutWar!Aizenvs.Shinigami",
+			"description": "",
+			"number": "292",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-293",
+			"title": "Hitsugaya,Enraged!BladeofHatred!",
+			"description": "",
+			"number": "293",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-294",
+			"title": "ImpossibletoAttack?TheSealedGenryūsai!",
+			"description": "",
+			"number": "294",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-295",
+			"title": "It'sAllATrap...EngineeredBonds!",
+			"description": "",
+			"number": "295",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-296",
+			"title": "TheShockingTruth...TheMysteriousPowerWithinIchigo!",
+			"description": "",
+			"number": "296",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-297",
+			"title": "TheExtendingBlade?!Ichigovs.Gin!",
+			"description": "",
+			"number": "297",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-298",
+			"title": "Film!Festival!ShinigamiFilmFestival!",
+			"description": "",
+			"number": "298",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-299",
+			"title": "TheatreOpeningCommemoration!HellChapter・Prologue",
+			"description": "",
+			"number": "299",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-300",
+			"title": "UraharaAppears!StopAizen!",
+			"description": "",
+			"number": "300",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-301",
+			"title": "IchigoLosesHisFightingSpirit!?Gin'sExpectation!",
+			"description": "",
+			"number": "301",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-302",
+			"title": "TheFinalGetsugaTenshō!?Ichigo'sTraining!",
+			"description": "",
+			"number": "302",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-303",
+			"title": "RealWorldandShinigami!TheNewYearSpecial!",
+			"description": "",
+			"number": "303",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-304",
+			"title": "GaidenAgain!ThisTime'sEnemyIsAMonster?",
+			"description": "",
+			"number": "304",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-305",
+			"title": "DelusionRoars!Hisagi,TowardstheHotSpringsInn!",
+			"description": "",
+			"number": "305",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-306",
+			"title": "FortheSakeofProtecting!Ichigovs.TensaZangetsu!",
+			"description": "",
+			"number": "306",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-307",
+			"title": "EmergencySituation!Aizen,NewEvolution!",
+			"description": "",
+			"number": "307",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-308",
+			"title": "Sayonara...Rangiku",
+			"description": "",
+			"number": "308",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-309",
+			"title": "FierceFightingConclusion!Release,theFinalGetsugaTenshō!",
+			"description": "",
+			"number": "309",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-310",
+			"title": "Ichigo'sResolution!ThePriceoftheFierceBattle",
+			"description": "",
+			"number": "310",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-311",
+			"title": "TheSoulDetective・KarakuraizerTakesOffAgain!",
+			"description": "",
+			"number": "311",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-312",
+			"title": "Inauguration!TheBrandNew2ndDivisionCaptain!",
+			"description": "",
+			"number": "312",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-313",
+			"title": "TheManWhoRisksHisLifeinthe11thDivision!",
+			"description": "",
+			"number": "313",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-314",
+			"title": "KonisSeen!SecretofaBeautifulOfficeLady",
+			"description": "",
+			"number": "314",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-315",
+			"title": "Yachiru'sFriend!TheShinigamiofJusticeAppears!",
+			"description": "",
+			"number": "315",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-316",
+			"title": "ToshirōHitsugaya'sHoliday!",
+			"description": "",
+			"number": "316",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-317",
+			"title": "UnusualIncidentinSeireitei?!Gotei13InvadingArmyArc!",
+			"description": "",
+			"number": "317",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-318",
+			"title": "Renjivs.Rukia?!BattleWithComrades!",
+			"description": "",
+			"number": "318",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-319",
+			"title": "Ichigo'sCaptureNet!EscapeFromSoulSociety!",
+			"description": "",
+			"number": "319",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-320",
+			"title": "Gotei13,GatheringintheRealWorld!",
+			"description": "",
+			"number": "320",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-321",
+			"title": "ShowdownofMutualSelf,Ikkakuvs.Ikkaku!",
+			"description": "",
+			"number": "321",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-322",
+			"title": "Clash!Rukiavs.Rukia!",
+			"description": "",
+			"number": "322",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-323",
+			"title": "ProtectIchigo!Nozomi'sDetermination",
+			"description": "",
+			"number": "323",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-324",
+			"title": "RecaptureSeireitei!TheCaptainsMove!",
+			"description": "",
+			"number": "324",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-325",
+			"title": "FortheSakeoftheBelievers!Byakuyavs.Hitsugaya!",
+			"description": "",
+			"number": "325",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-326",
+			"title": "TheTwoHinamoris,Hitsugaya'sResolution",
+			"description": "",
+			"number": "326",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-327",
+			"title": "PrideoftheKuchikiFamily!Byakuyavs.Byakuya!",
+			"description": "",
+			"number": "327",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-328",
+			"title": "DefeatKageroza!Shinigami,All-OutWar!",
+			"description": "",
+			"number": "328",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-329",
+			"title": "TheForbiddenResearch...Nozomi'sHiddenSecret!",
+			"description": "",
+			"number": "329",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-330",
+			"title": "IWanttoLive...!Nozomi'sZanpakutō",
+			"description": "",
+			"number": "330",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-331",
+			"title": "FortheSakeofFighting!TheAwakeningNozomi!",
+			"description": "",
+			"number": "331",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-332",
+			"title": "TheMostEvilReigai,AppearsintheRealWorld!",
+			"description": "",
+			"number": "332",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-333",
+			"title": "DestroyNozomi?!Genryusai'sDecision",
+			"description": "",
+			"number": "333",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-334",
+			"title": "TheDepletingReiatsu!Ichigo,DeathStruggleoftheSoul!",
+			"description": "",
+			"number": "334",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-335",
+			"title": "HidingintheDangai?IchigoisAlone?!",
+			"description": "",
+			"number": "335",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-336",
+			"title": "PursueKageroza!TechnologicalDevelopmentDepartment,Infiltration!",
+			"description": "",
+			"number": "336",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-337",
+			"title": "TheDeveloperoftheModifiedSouls",
+			"description": "",
+			"number": "337",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-338",
+			"title": "Kon'sThoughts,Nozomi'sThoughts",
+			"description": "",
+			"number": "338",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-339",
+			"title": "ProtectIchigo!TheBondsofFriends!",
+			"description": "",
+			"number": "339",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-340",
+			"title": "Reigaivs.Original,TheFierceFightingforGambledPride!",
+			"description": "",
+			"number": "340",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-341",
+			"title": "InvadingArmyArc,FinalConclusion!",
+			"description": "",
+			"number": "341",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-342",
+			"title": "ThankYou",
+			"description": "",
+			"number": "342",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-343",
+			"title": "3rdYearHighSchoolStudent!DressedUp,andaNewChapterBegins!",
+			"description": "",
+			"number": "343",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-344",
+			"title": "ADisputeinSchool?!IchigoandUryuu,FightTogether!",
+			"description": "",
+			"number": "344",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-345",
+			"title": "UryuuisAttacked,AThreatDrawsNeartheFriends!",
+			"description": "",
+			"number": "345",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-346",
+			"title": "TheFullbringUser·KūgoGinjō",
+			"description": "",
+			"number": "346",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-347",
+			"title": "ACreepingDangerintheKurosakiFamily?!Ichigo'sConfusion!",
+			"description": "",
+			"number": "347",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-348",
+			"title": "PoweroftheSubstituteBadge,Ichigo's\"Pride\"!",
+			"description": "",
+			"number": "348",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-349",
+			"title": "NextTarget,TheDevil'sHandAimsatOrihime!",
+			"description": "",
+			"number": "349",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-350",
+			"title": "TheManWhoKilledAShinigamiSubstitute?!TsukishimaMakesHisMove",
+			"description": "",
+			"number": "350",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-351",
+			"title": "Fullbring,TheDetestedPower!",
+			"description": "",
+			"number": "351",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-352",
+			"title": "TsukishimaAttacks!TheTrainingHasBeenThwarted",
+			"description": "",
+			"number": "352",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-353",
+			"title": "Ichigo,MasteringtheFullbring!",
+			"description": "",
+			"number": "353",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-354",
+			"title": "Ichigovs.Ginjō!TotheGame'sSpace",
+			"description": "",
+			"number": "354",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-355",
+			"title": "TheShinigamiEnterBattle!SeireiteiAlsoHasaNewYearSpecial!",
+			"description": "",
+			"number": "355",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-356",
+			"title": "FoeorFriend?!Ginjō'sUnseenHeart!",
+			"description": "",
+			"number": "356",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-357",
+			"title": "CreepingMenace...Tsukishima'sAbility!",
+			"description": "",
+			"number": "357",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-358",
+			"title": "Clash?!XcutionAttacksGinjō",
+			"description": "",
+			"number": "358",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-359",
+			"title": "TheSorrowfulBattle!Ichigovs.Sado&Orihime!",
+			"description": "",
+			"number": "359",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-360",
+			"title": "Ichigovs.Uryū?!WhoistheTraitor!",
+			"description": "",
+			"number": "360",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-361",
+			"title": "ANewAppearance!MeettheGotei13!",
+			"description": "",
+			"number": "361",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-362",
+			"title": "Revival!SubstituteShinigami･IchigoKurosaki!",
+			"description": "",
+			"number": "362",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-363",
+			"title": "FierceFight!Shinigamivs.XCUTION!",
+			"description": "",
+			"number": "363",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-364",
+			"title": "DesperateStruggle!?Byakuya'sTroubledMemories",
+			"description": "",
+			"number": "364",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-365",
+			"title": "Ichigovs.Ginjō!TheSecretoftheSubstituteBadge",
+			"description": "",
+			"number": "365",
+			"image": "",
+			"airDate": ""
+		},
+		{
+			"id": "bleach-episode-366",
+			"title": "ChangingHistory,UnchangingHeart",
+			"description": "",
+			"number": "366",
+			"image": "",
+			"airDate": ""
+		}
+	]
+}
