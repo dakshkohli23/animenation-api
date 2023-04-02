@@ -426,9 +426,21 @@
             "anime_info": "pokemon-ultimate-journeys",
             "movie_id": "112153",
             "alias": "pokemon-ultimate-journeys",
-            "nextEpText": "",
-            "nextEpLink": "",
+            "nextEpText": "Pokémon Ultimate Journeys: The Series Episode 37 >>",
+            "nextEpLink": "/pokemon-ultimate-journeys-episode-37",
 "prevEpText": "<< Pokémon Ultimate Journeys: The Series Episode 35",
             "prevEpLink": "/pokemon-ultimate-journeys-episode-35"
+        },
+        {
+            "server1": "ujklc4un0n1e",
+            "animeNameWithEP": "Pokémon Ultimate Journeys: The Series Episode 37 Dubbed",
+            "ep_num": "37",
+            "anime_info": "pokemon-ultimate-journeys",
+            "movie_id": "112153",
+            "alias": "pokemon-ultimate-journeys",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Pokémon Ultimate Journeys: The Series Episode 36",
+            "prevEpLink": "/pokemon-ultimate-journeys-episode-36"
         }
     ]
