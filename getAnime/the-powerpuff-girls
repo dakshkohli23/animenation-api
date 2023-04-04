@@ -27,8 +27,8 @@
 		"month": 3,
 		"day": 25
 	},
-	"totalEpisodes": 136,
-	"currentEpisode": 136,
+	"totalEpisodes": 78,
+	"currentEpisode": 78,
 	"rating": 75,
 	"duration": 25,
 	"genres": ["Action", "Adventure", "Comedy", "Kids", "Superhero"],
@@ -1380,13 +1380,6 @@
 		"image": "",
 		"airDate": ""
 	},{
-		"id": "the-powerpuff-girls-episode-1",
-		"title": "",
-		"description": "",
-		"number": 1,
-		"image": "",
-		"airDate": ""
-	},{
 		"id": "the-powerpuff-girls-episode-9",
 		"title": "",
 		"description": "",
@@ -1432,7 +1425,7 @@
 		"id": "the-powerpuff-girls-episode-15",
 		"title": "",
 		"description": "",
-		"number": 16,
+		"number": 15,
 		"image": "",
 		"airDate": ""
 	},{
@@ -1471,24 +1464,10 @@
 		"image": "",
 		"airDate": ""
 	},{
-		"id": "the-powerpuff-girls-episode-1",
-		"title": "",
-		"description": "",
-		"number": 1,
-		"image": "",
-		"airDate": ""
-	},{
 		"id": "the-powerpuff-girls-episode-21",
 		"title": "",
 		"description": "",
 		"number": 21,
-		"image": "",
-		"airDate": ""
-	},{
-		"id": "the-powerpuff-girls-episode-1",
-		"title": "",
-		"description": "",
-		"number": 1,
 		"image": "",
 		"airDate": ""
 	},{
@@ -1888,6 +1867,90 @@
 		"title": "",
 		"description": "",
 		"number": 78,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-79",
+		"title": "",
+		"description": "",
+		"number": 79,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-80",
+		"title": "",
+		"description": "",
+		"number": 80,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-81",
+		"title": "",
+		"description": "",
+		"number": 81,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-82",
+		"title": "",
+		"description": "",
+		"number": 82,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-83",
+		"title": "",
+		"description": "",
+		"number": 83,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-84",
+		"title": "",
+		"description": "",
+		"number": 84,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-85",
+		"title": "",
+		"description": "",
+		"number": 85,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-86",
+		"title": "",
+		"description": "",
+		"number": 86,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-87",
+		"title": "",
+		"description": "",
+		"number": 87,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-88",
+		"title": "",
+		"description": "",
+		"number": 88,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-89",
+		"title": "",
+		"description": "",
+		"number": 89,
+		"image": "",
+		"airDate": ""
+	},{
+		"id": "the-powerpuff-girls-episode-90",
+		"title": "",
+		"description": "",
+		"number": 90,
 		"image": "",
 		"airDate": ""
 	}]
