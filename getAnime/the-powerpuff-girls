@@ -36,7 +36,37 @@
 	"studios": ["Hanna-Barbera Cartoons, Cartoon Network Studios"],
 	"subOrDub": "dub",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 607,
+		"malId": 607,
+		"title": {
+			"romaji": "The Powerpuff Girls",
+			"english": "The Powerpuff Girls",
+			"native": "パワーパフ ガールズ"
+		},
+		"status": "Completed",
+		"episodes": 136,
+		"image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/468mmhMd21pY4Yx0S0woqeEcxtL.jpg",
+		"cover": "https://www.themoviedb.org/t/p/original/hNwcgo06myd7ei7p8A1Y1b0VabU.jpg",
+		"rating": 75,
+		"type": "TV",
+		"animeurl": "the-powerpuff-girls"
+	},{
+		"id": 607,
+		"malId": 607,
+		"title": {
+			"romaji": "The Powerpuff Girls - Special",
+			"english": "The Powerpuff Girls - Special",
+			"native": "パワーパフ ガールズ"
+		},
+		"status": "Completed",
+		"episodes": 5,
+		"image": "https://www.themoviedb.org/t/p/original/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
+		"cover": "https://www.themoviedb.org/t/p/original/gnK2nptRXra4RnKgGqAWFSqP5aG.jpg",
+		"rating": 75,
+		"type": "SPECIAL",
+		"animeurl": "the-powerpuff-girls"
+	}],
 	"characters": [{
 		"id": 5057,
 		"role": "MAIN",
