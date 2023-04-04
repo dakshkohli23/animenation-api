@@ -1,0 +1,62 @@
+[
+        {
+            "server1": "q93d67omhmnc",
+            "animeNameWithEP": "The Powerpuff Girls - Special Episode 1",
+            "ep_num": "1",
+            "anime_info": "the-powerpuff-girls-special",
+            "movie_id": "607",
+            "alias": "the-powerpuff-girls-special",
+            "nextEpText": "The Powerpuff Girls - Special Episode 2 >>",
+            "nextEpLink": "/the-powerpuff-girls-special-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "c4n7s9imgn6e",
+            "animeNameWithEP": "The Powerpuff Girls - Special Episode 2",
+            "ep_num": "2",
+            "anime_info": "the-powerpuff-girls-special",
+            "movie_id": "607",
+            "alias": "the-powerpuff-girls-special",
+            "nextEpText": "The Powerpuff Girls - Special Episode 3 >>",
+            "nextEpLink": "/the-powerpuff-girls-special-episode-3",
+            "prevEpText": "<< The Powerpuff Girls - Special Episode 1",
+            "prevEpLink": "/the-powerpuff-girls-special-episode-1"
+        },
+        {
+            "server1": "cpypnqdovluv",
+            "animeNameWithEP": "The Powerpuff Girls - Special Episode 3",
+            "ep_num": "3",
+            "anime_info": "the-powerpuff-girls-special",
+            "movie_id": "607",
+            "alias": "the-powerpuff-girls-special",
+            "nextEpText": "The Powerpuff Girls - Special Episode 4 >>",
+            "nextEpLink": "/the-powerpuff-girls-special-episode-4",
+            "prevEpText": "<< The Powerpuff Girls - Special Episode 2",
+            "prevEpLink": "/the-powerpuff-girls-special-episode-2"
+        },
+        {
+            "server1": "maqabgpxah2e",
+            "animeNameWithEP": "The Powerpuff Girls - Special Episode 4",
+            "ep_num": "4",
+            "anime_info": "the-powerpuff-girls-special",
+            "movie_id": "607",
+            "alias": "the-powerpuff-girls-special",
+            "nextEpText": "The Powerpuff Girls - Special Episode 5 >>",
+            "nextEpLink": "/the-powerpuff-girls-special-episode-5",
+            "prevEpText": "<< The Powerpuff Girls - Special Episode 3",
+            "prevEpLink": "/the-powerpuff-girls-special-episode-3"
+        },
+        {
+            "server1": "4bsm4k111870",
+            "animeNameWithEP": "The Powerpuff Girls - Special Episode 5",
+            "ep_num": "5",
+            "anime_info": "the-powerpuff-girls-special",
+            "movie_id": "607",
+            "alias": "the-powerpuff-girls-special",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< The Powerpuff Girls - Special Episode 4",
+            "prevEpLink": "/the-powerpuff-girls-special-episode-4"
+        }
+    ]
