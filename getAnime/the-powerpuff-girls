@@ -3,7 +3,7 @@
 	"title": {
 		"romaji": "The Powerpuff Girls",
 		"english": "The Powerpuff Girls",
-		"native": "The Powerpuff Girls"
+		"native": "パワーパフ ガールズ"
 	},
 	"malId": 607,
 	"synonyms": [""],
@@ -27,8 +27,8 @@
 		"month": 3,
 		"day": 25
 	},
-	"totalEpisodes": 78,
-	"currentEpisode": 78,
+	"totalEpisodes": 136,
+	"currentEpisode": 136,
 	"rating": 75,
 	"duration": 25,
 	"genres": ["Action", "Adventure", "Comedy", "Kids", "Superhero"],
