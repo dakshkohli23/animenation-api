@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "the-powerpuff-girls-special",
+		"episodeId": "the-powerpuff-girls-special-episode-1",
+		"name": "The Powerpuff Girls - Special",
+		"jname": "The Powerpuff Girls - Special",
+		"episodeNum": "5",
+		"subOrDub": "dub",
+		"type": "special",
+		"imgUrl": "https://www.themoviedb.org/t/p/original/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
+		"episodeUrl": "../anime/the-powerpuff-girls-special"
+	},
+	{
 		"animeId": "the-powerpuff-girls",
 		"episodeId": "the-powerpuff-girls-episode-1",
 		"name": "The Powerpuff Girls",
