@@ -1284,18 +1284,6 @@
             "genres": ["Action", "Adventure"]
         },
         {
-            "animeId": "ramayana-the-legend-of-prince-rama",
-            "episodeId": "ramayana-the-legend-of-prince-rama-episode-1",
-            "name": "Ramayana: The Legend of Prince Rama",
-            "jname": "Ramayana: Rama Ouji Densetsu",
-            "episodeNum": "1",
-            "subOrDub": "dub",
-            "imgUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6bGVpojv1f3cth9Quc5H5HOWDTF.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/ramayana-the-legend-of-prince-rama",
-            "genres": ["Adventure"]
-        },
-        {
             "animeId": "spy-x-family",
             "episodeId": "spy-x-family-episode-1",
             "name": "SPY x FAMILY",
@@ -1318,6 +1306,30 @@
             "type": "tv",
             "episodeUrl": "anime/spy-x-family-part-2",
             "genres": ["Action","Comedy", "Slice of Life","Supernatural"]
+        },
+        {
+            "animeId": "the-powerpuff-girls",
+            "episodeId": "the-powerpuff-girls-episode-1",
+            "name": "The Powerpuff Girls",
+            "jname": "The Powerpuff Girls",
+            "episodeNum": "136",
+            "subOrDub": "dub",
+            "imgUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/468mmhMd21pY4Yx0S0woqeEcxtL.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/the-powerpuff-girls",
+            "genres": ["Action", "Adventure", "Comedy", "Kids", "Superhero"]
+        },
+        {
+            "animeId": "the-powerpuff-girls-special",
+            "episodeId": "the-powerpuff-girls-special-episode-1",
+            "name": "The Powerpuff Girls - Special",
+            "jname": "The Powerpuff Girls - Special",
+            "episodeNum": "5",
+            "subOrDub": "dub",
+            "imgUrl": "https://www.themoviedb.org/t/p/original/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
+            "type": "special",
+            "episodeUrl": "anime/the-powerpuff-girls-special",
+            "genres": ["Action", "Adventure", "Comedy", "Kids", "Superhero"]
         },
         {
             "animeId": "tokyo-revengers",
