@@ -40,7 +40,7 @@
     "month": "",
     "day": ""
   },
-  "totalEpisodes": 33,
+  "totalEpisodes": 38,
   "rating": 73,
   "duration": 24,
   "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
@@ -2992,6 +2992,11 @@
       "id": "pokemon-ultimate-journeys-episode-37",
       "title": "Pokémon Ultimate Journeys: The Series Episode 37",
       "number": 37
+    },
+    {
+      "id": "pokemon-ultimate-journeys-episode-38",
+      "title": "Pokémon Ultimate Journeys: The Series Episode 38",
+      "number": 38
     }
   ]
 }
