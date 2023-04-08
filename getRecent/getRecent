@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "pokemon-ultimate-journeys",
+		"episodeId": "pokemon-ultimate-journeys-episode-38",
+		"name": "Pokémon Ultimate Journeys: The Series",
+		"jname": "Pocket Monsters (2019)",
+		"episodeNum": "38",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
+		"episodeUrl": "../anime/pokemon-ultimate-journeys"
+	},
+	{
 		"animeId": "the-powerpuff-girls-special",
 		"episodeId": "the-powerpuff-girls-special-episode-1",
 		"name": "The Powerpuff Girls - Special",
@@ -20,17 +31,6 @@
 		"type": "tv",
 		"imgUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/468mmhMd21pY4Yx0S0woqeEcxtL.jpg",
 		"episodeUrl": "../anime/the-powerpuff-girls"
-	},
-	{
-		"animeId": "pokemon-ultimate-journeys",
-		"episodeId": "pokemon-ultimate-journeys-episode-37",
-		"name": "Pokémon Ultimate Journeys: The Series",
-		"jname": "Pocket Monsters (2019)",
-		"episodeNum": "37",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
-		"episodeUrl": "../anime/pokemon-ultimate-journeys"
 	},
 {
 		"animeId": "haikyu-the-movie-battle-of-concepts",
