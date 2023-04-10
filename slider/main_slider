@@ -1,4 +1,30 @@
 [
+{
+      "id": "145139",
+      "malId": 51019,
+      "title": {
+        "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+		"english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+		"native": "鬼滅の刃 刀鍛冶の里編"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
+      "trailer": {
+		"id": "a9tq0aS5Zu8",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/a9tq0aS5Zu8/hqdefault.jpg"
+	},
+      "description": "Adaptation of the Swordsmith Village Arc.<br>\n<br>\n<i>Note: The first episode has a runtime of 1 hour, and received an early premiere in cinemas worldwide as part of a special screening alongside the final two episodes of Kimetsu no Yaiba: Yuukaku-hen.<i>",
+      "status": "Ongoing",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145139-V01Prh6UzfRk.jpg",
+      "rating": 90,
+      "releaseDate": 2023,
+      "genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
+      "totalEpisodes": 1,
+      "duration": null,
+      "type": "tv",
+	  "animeUrl": "/anime/kimetsu-no-yaiba-katanakaji-no-satohen",
+	  "watchUrl": "/watch/kimetsu-no-yaiba-katanakaji-no-satohen-episode-1"
+    },
 	{
       "id": "146984",
       "malId": 51535,
