@@ -113,16 +113,16 @@
       "malId": 51019,
       "title": {
         "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-        "english": "Demon Slayer: Swordsmith Village Arc",
-        "native": "鬼滅の刃 刀鍛冶の里編",
-        "userPreferred": "Demon Slayer Swordsmith Village Arc"
+		"english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+		"native": "鬼滅の刃 刀鍛冶の里編"
       },
-      "status": "Not Yet Released",
-      "episodes": "",
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-Z4DjPTGNyuDj.jpg",
-      "cover": "",
-      "rating": "",
-      "type": "TV"
+      "status": "Ongoing",
+      "episodes": "1",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145139-V01Prh6UzfRk.jpg",
+      "rating": "84",
+      "type": "TV",
+	  "animeurl": "kimetsu-no-yaiba-katanakaji-no-satohen"
     },
     {
       "id": 129627,
@@ -157,22 +157,6 @@
       "rating": 60,
       "type": "Special",
 	  "animeurl": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen"
-    },
-    {
-      "id": 145139,
-      "malId": 51019,
-      "title": {
-        "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-		"english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-		"native": "鬼滅の刃 刀鍛冶の里編"
-      },
-      "status": "Ongoing",
-      "episodes": 1,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-      "cover": "",
-      "rating": 90,
-      "type": "tv",
-	  "animeurl": "kimetsu-no-yaiba-katanakaji-no-satohen"
     }],
 	"characters": [{
 		"id": 126071,
