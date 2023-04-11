@@ -51,7 +51,7 @@
   ],
   "subOrDub": "dub",
   "type": "TV",
-  "recommendations": [ {
+  "recommendations": [{
       "id": 1564,
       "malId": 1564,
       "title": {
@@ -502,13 +502,397 @@
 		"native": "ポケットモンスター　めざせポケモンマスター",
         "userPreferred": "Pokemon: Aim to be a Pokemon Master"
       },
-      "status": "Ongoing",
-      "episodes": 8,
+      "status": "Completed",
+      "episodes": 11,
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
       "rating": 74,
       "type": "tv",
 	  "animeurl": "pokemon-aim-to-be-a-pokemon-master"
+    },
+	{
+      "id": 528,
+      "malId": 528,
+      "title": {
+        "romaji": "Pocket Monsters: Mewtwo no Gyakushuu",
+		"english": "Pokémon: The First Movie",
+		"native": "ポケットモンスター ミュウツーの逆襲"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx528-HIz7955MvEnN.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/528-8wAm08dANFi8.jpg",
+      "rating": 74,
+      "type": "movie",
+	  "animeurl": "pokemon-the-first-movie"
+    },
+	{
+      "id": 1117,
+      "malId": 1117,
+      "title": {
+        "romaji": "Pocket Monsters: Maboroshi no Pokémon Lugia Bakutan",
+		"english": "Pokémon the Movie 2000",
+		"native": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1117.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1117-Dn4JVWi5fxpV.jpg",
+      "rating": 70,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-2000"
+    },
+	{
+      "id": 1118,
+      "malId": 1118,
+      "title": {
+        "romaji": "Pocket Monsters: Kesshoutou no Teiou ENTEI",
+		"english": "Pokémon 3: The Movie - Spell of the Unown",
+		"native": "劇場版ポケットモンスター 結晶塔の帝王 ENTEI"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1118-90hGoWgDV1k4.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1118-QLIw2ueWalMZ.jpg",
+      "rating": 68,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-spell-of-the-unown"
+    },
+	{
+      "id": 1119,
+      "malId": 1119,
+      "title": {
+        "romaji": "Pocket Monsters: Celebi Toki wo Koeta Deai",
+		"english": "Pokémon 4Ever: Celebi - Voice of the Forest",
+		"native": "劇場版ポケットモンスター セレビィ 時を越えた遭遇"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1119-Vz0ohBLmZ5uP.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1119-kNBrsAGJXMXW.jpg",
+      "rating": 66,
+      "type": "movie",
+	  "animeurl": "pokemon-4ever-celebi-voice-of-the-forest"
+    },
+	{
+      "id": 1120,
+      "malId": 1120,
+      "title": {
+        "romaji": "Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios",
+		"english": "Pokémon Heroes: Latios and Latias",
+		"native": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1120-dSMPMrXYWlER.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1120-dSMPMrXYWlER.jpg",
+      "rating": 69,
+      "type": "movie",
+	  "animeurl": "pokemon-heroes-latios-and-latias"
+    },
+	{
+      "id": 1121,
+      "malId": 1121,
+      "title": {
+        "romaji": "Pocket Monsters Advanced Generation: Nanayo no Negaiboshi Jirachi",
+		"english": "Pokémon: Jirachi Wish Maker",
+		"native": "ポケットモンスター・アドバンスジェネレーション 七夜の願い星 ジラーチ"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1121-yGTHBrWFTiBm.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1121-LhsnfC8GFvrL.jpg",
+      "rating": 64,
+      "type": "movie",
+	  "animeurl": "pokemon-jirachi-wish-maker"
+    },
+	{
+      "id": 1122,
+      "malId": 1122,
+      "title": {
+        "romaji": "Pocket Monsters Advanced Generation: Rekkuu no Houmonsha Deoxys",
+		"english": "Pokémon: Destiny Deoxys",
+		"native": "ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1122-HCkAs0hqlJwK.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1122-hGrRYfEr0Nrd.jpg",
+      "rating": 66,
+      "type": "movie",
+	  "animeurl": "pokemon-destiny-deoxys"
+    },
+	{
+      "id": 1526,
+      "malId": 1526,
+      "title": {
+        "romaji": "Pocket Monsters Advanced Generation: Mew to Hadou no Yuusha Lucario",
+		"english": "Pokémon: Lucario and the Mystery of Mew",
+		"native": "ポケットモンスターアドバンスジェネレーション ミュウと波導の勇者　ルカリオ"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1526-ddJiHHGNikuY.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1526-r0zmA8mYNJeH.jpg",
+      "rating": 70,
+      "type": "movie",
+	  "animeurl": "pokemon-lucario-and-the-mystery-of-mew"
+    },
+	{
+      "id": 2201,
+      "malId": 2201,
+      "title": {
+        "romaji": "Pocket Monsters Advanced Generation: Pokemon Ranger to Umi no Ouji Manaphy",
+		"english": "Pokémon Ranger and the Temple of the Sea",
+		"native": "ポケットモンスターアドバンスジェネレーション ポケモンレンジャーと蒼海の王子 マナフィ"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2201-1B1dS0NLJ3g5.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2201-AaINJqkO5zge.jpg",
+      "rating": 64,
+      "type": "movie",
+	  "animeurl": "pokemon-ranger-and-the-temple-of-the-sea"
+    },
+	{
+      "id": 2847,
+      "malId": 2847,
+      "title": {
+        "romaji": "Pocket Monsters Diamond & Pearl: Dialga VS Palkia VS Darkrai",
+		"english": "Pokémon: The Rise of Darkrai",
+		"native": "ポケットモンスター ダイヤモンド＆パール ディアルガVSパルキアVSダークライ"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2847-BBQFXVTiy6H7.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2847-ECBicyDxMRYa.jpg",
+      "rating": 70,
+      "type": "movie",
+	  "animeurl": "pokemon-the-rise-of-darkrai"
+    },
+	{
+      "id": 4026,
+      "malId": 4026,
+      "title": {
+        "romaji": "Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Sheimi",
+		"english": "Pokémon: Giratina and the Sky Warrior",
+		"native": "ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4026-HO7477AL7ym5.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4026-HO7477AL7ym5.jpg",
+      "rating": 66,
+      "type": "movie",
+	  "animeurl": "pokemon-giratina-and-the-sky-warrior"
+    },
+	{
+      "id": 6178,
+      "malId": 6178,
+      "title": {
+        "romaji": "Pocket Monsters Diamond & Pearl: Arceus Choukoku no Jikuu e",
+		"english": "Pokémon: Arceus and the Jewel of Life",
+		"native": "ポケットモンスター ダイヤモンド&パール アルセウス 超克の時空へ"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6178-QtPWVxYMR2V5.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6178-4HSpuw2RH2cV.jpg",
+      "rating": 67,
+      "type": "movie",
+	  "animeurl": "pokemon-arceus-and-the-jewel-of-life"
+    },
+	{
+      "id": 7695,
+      "malId": 7695,
+      "title": {
+        "romaji": "Pocket Monsters Diamond & Pearl: Genei no Hasha Zoroark",
+		"english": "Pokémon: Zoroark—Master of Illusions",
+		"native": "ポケットモンスター ダイヤモンド&パール 幻影の覇者 ゾロアーク"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7695-bgE6h1GXxWMG.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7695-bgE6h1GXxWMG.jpg",
+      "rating": 65,
+      "type": "movie",
+	  "animeurl": "pokemon-zoroark-master-of-illusions"
+    },
+	{
+      "id": 10740,
+      "malId": 10740,
+      "title": {
+        "romaji": "Pocket Monsters Best Wishes!: Victini to Shiroki Eiyuu Reshiram",
+		"english": "Pokémon the Movie: Black—Victini and Reshiram",
+		"native": "劇場版 ポケットモンスター ベストウイッシュ ビクティニと白き英雄 レシラム"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10740.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10740.jpg",
+      "rating": 62,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-black-victini-and-reshiram"
+    },
+	{
+      "id": 9917,
+      "malId": 9917,
+      "title": {
+        "romaji": "Pocket Monsters Best Wishes!: Victini to Kuroki Eiyuu Zekrom",
+		"english": "Pokémon the Movie: White—Victini and Zekrom",
+		"native": "ポケットモンスター ベストウィッシュ 「ビクティニと黒き英雄」"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9917.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9917.jpg",
+      "rating": 62,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-white-victini-and-zekrom"
+    },
+	{
+      "id": 12671,
+      "malId": 12671,
+      "title": {
+        "romaji": "Pocket Monsters Best Wishes: Kyurem VS Seikenshi",
+		"english": "Pokémon the Movie: Kyurem VS. The Sword of Justice",
+		"native": "劇場版 ポケットモンスター ベストウイッシュ キュレムVS聖剣士"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12671-q8KLIPmicj8R.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12671-q8KLIPmicj8R.jpg",
+      "rating": 61,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-kyurem-vs-the-sword-of-justice"
+    },
+	{
+      "id": 16680,
+      "malId": 16680,
+      "title": {
+        "romaji": "Pocket Monsters Best Wishes! Shinsoku no Genesect: Mewtwo Kakusei",
+		"english": "Pokémon the Movie: Genesect and the Legend Awakened",
+		"native": "劇場版 ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16680.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16680.jpg",
+      "rating": 60,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-genesect-and-the-legend-awakened"
+    },
+	{
+      "id": 20644,
+      "malId": 21569,
+      "title": {
+        "romaji": "Pocket Monsters XY: Hakai no Mayu to Diancie",
+		"english": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+		"native": "ポケットモンスターXY 破壊の繭とディアンシー"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20644-qgK3C0fOFR8b.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20644-qgK3C0fOFR8b.jpg",
+      "rating": 63,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-diancie-and-the-cocoon-of-destruction"
+    },
+	{
+      "id": 21266,
+      "malId": 25805,
+      "title": {
+        "romaji": "Pocket Monsters XY: Ring no Chou Majin Hoopa",
+		"english": "Pokémon the Movie: Hoopa and the Clash of Ages",
+		"native": "ポケモン・ザ・ムービーXY 光輪の超魔神 フーパ"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21266-5okUsTjY5nJl.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21266-5okUsTjY5nJl.png",
+      "rating": 62,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-hoopa-and-the-clash-of-ages"
+    },
+	{
+      "id": 21651,
+      "malId": 31231,
+      "title": {
+        "romaji": "Pocket Monsters XY & Z: Volcanion to Karakuri no Magearna",
+		"english": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+		"native": "ポケットモンスター XY & Z ボルケニオンと機巧のマギアナ"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21651-n7dDqmZQqy3z.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21651-n7dDqmZQqy3z.jpg",
+      "rating": 63,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-volcanion-and-the-mechanical-marvel"
+    },
+	{
+      "id": 98298,
+      "malId": 34540,
+      "title": {
+        "romaji": "Pocket Monsters: Kimi ni Kimeta!",
+		"english": "Pokémon the Movie: I Choose You!",
+		"native": "劇場版 ポケットモンスター キミにきめた!"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98298-Yqus4jNiTNgf.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98298-GLiqMFmxovDh.jpg",
+      "rating": 69,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-i-choose-you"
+    },
+	{
+      "id": 100744,
+      "malId": 36927,
+      "title": {
+        "romaji": "Pocket Monsters: Minna no Monogatari",
+		"english": "Pokémon the Movie: The Power of Us",
+		"native": "劇場版ポケットモンスター みんなの物語"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100744-Ys3JTKSHg3Gv.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100744-yptyeG1d2RBl.jpg",
+      "rating": 71,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-the-power-of-us"
+    },
+	{
+      "id": 106287,
+      "malId": 37966,
+      "title": {
+        "romaji": "Pocket Monsters: Mewtwo no Gyakushuu EVOLUTION",
+		"english": "Pokémon: Mewtwo Strikes Back—Evolution",
+		"native": "劇場版 ポケットモンスター ミュウツーの逆襲 EVOLUTION"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106287-THH8DMCFuVNc.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106287-THH8DMCFuVNc.png",
+      "rating": 60,
+      "type": "movie",
+	  "animeurl": "pokemon-mewtwo-strikes-back-evolution"
+    },
+	{
+      "id": 114564,
+      "malId": 40881,
+      "title": {
+        "romaji": "Pocket Monsters: Coco",
+		"english": "Pokémon the Movie: Secrets of the Jungle",
+		"native": "ポケットモンスターココ"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114564-Imh6m5Tejii6.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114564-AMdt1tHgY7ZL.jpg",
+      "rating": 72,
+      "type": "movie",
+	  "animeurl": "pokemon-the-movie-secrets-of-the-jungle"
     }],
   "characters": [
     {
