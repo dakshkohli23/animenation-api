@@ -1,0 +1,607 @@
+{
+	"id": "131518",
+	"title": {
+		"romaji": "Dr. STONE: NEW WORLD",
+		"english": "Dr. STONE New World",
+		"native": "Dr.STONE NEW WORLD"
+	},
+	"malId": 48549,
+	"synonyms": ["石纪元第三季", "Dr.STONE Season 3", "DR.STONE ภาค 3", "Dr.STONE 第3期", "Dr. STONE 新石紀（第三季）"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "bXgip0F6qdc",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/bXgip0F6qdc/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131518-RU7RoUmGb2sP.jpg",
+	"popularity": 78172,
+	"color": "#1aa1f1",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131518-uENBDjWnMHmN.jpg",
+	"description": "The third season of <i>Dr. STONE</i>. <br><br>\n\nSenku and the Kingdom of Science sail to new lands to uncover more scientific secrets! <br><br>\n(Source: Crunchyroll)",
+	"status": "Ongoing",
+	"releaseDate": 2023,
+	"startDate": {
+		"year": 2023,
+		"month": 4,
+		"day": 6
+	},
+	"endDate": {
+		"year": null,
+		"month": null,
+		"day": null
+	},
+	"nextAiringEpisode": {
+		"airingTime": 1681997400,
+		"timeUntilAiring": 600464,
+		"episode": 3
+	},
+	"totalEpisodes": 2,
+	"currentEpisode": 2,
+	"rating": 81,
+	"duration": 24,
+	"genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
+	"season": "SPRING",
+	"studios": ["TMS Entertainment"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 124142,
+		"role": "MAIN",
+		"name": {
+			"first": "Senkuu",
+			"last": "Ishigami",
+			"full": "Senkuu Ishigami",
+			"native": "石神千空",
+			"userPreferred": "Senkuu Ishigami"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124142-fFBZo37G0pao.png",
+		"voiceActors": [{
+			"id": 118407,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuusuke",
+				"last": "Kobayashi",
+				"full": "Yuusuke Kobayashi",
+				"native": "小林裕介",
+				"userPreferred": "Yuusuke Kobayashi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118407-QvEt3bGtuRQM.png"
+		}]
+	}, {
+		"id": 145097,
+		"role": "MAIN",
+		"name": {
+			"first": "Ryuusui",
+			"last": "Nanami",
+			"full": "Ryuusui Nanami",
+			"native": "七海龍水",
+			"userPreferred": "Ryuusui Nanami"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b145097-TYg5SshsyvUU.png",
+		"voiceActors": [{
+			"id": 123450,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryouta",
+				"last": "Suzuki",
+				"full": "Ryouta Suzuki",
+				"native": "鈴木崚汰",
+				"userPreferred": "Ryouta Suzuki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123450-Hmi5iu3KDHwc.png"
+		}]
+	}, {
+		"id": 124143,
+		"role": "MAIN",
+		"name": {
+			"first": "Kohaku",
+			"last": null,
+			"full": "Kohaku",
+			"native": "コハク",
+			"userPreferred": "Kohaku"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124143-DABUFs3cPNrP.png",
+		"voiceActors": [{
+			"id": 104973,
+			"language": "Japanese",
+			"name": {
+				"first": "Manami",
+				"last": "Numakura",
+				"full": "Manami Numakura",
+				"native": "沼倉愛美",
+				"userPreferred": "Manami Numakura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104973-rymSxCu8uP0Y.png"
+		}]
+	}, {
+		"id": 127445,
+		"role": "MAIN",
+		"name": {
+			"first": "Gen",
+			"last": "Asagiri",
+			"full": "Gen Asagiri",
+			"native": "あさぎりゲン",
+			"userPreferred": "Gen Asagiri"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b127445-oUCyS7Tl8l5D.png",
+		"voiceActors": [{
+			"id": 110877,
+			"language": "Japanese",
+			"name": {
+				"first": "Kengo",
+				"last": "Kawanishi",
+				"full": "Kengo Kawanishi",
+				"native": "河西健吾",
+				"userPreferred": "Kengo Kawanishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110877-zSEL81OrcDwR.png"
+		}]
+	}, {
+		"id": 124145,
+		"role": "MAIN",
+		"name": {
+			"first": "Chrome",
+			"last": null,
+			"full": "Chrome",
+			"native": "クロム",
+			"userPreferred": "Chrome"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124145-Qig10ZrbLIBh.png",
+		"voiceActors": [{
+			"id": 141083,
+			"language": "Japanese",
+			"name": {
+				"first": "Gen",
+				"last": "Satou",
+				"full": "Gen Satou",
+				"native": "佐藤元",
+				"userPreferred": "Gen Satou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141083-Oc5rYAP6e3D7.jpg"
+		}]
+	}, {
+		"id": 143271,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kinrou",
+			"last": null,
+			"full": "Kinrou",
+			"native": "金狼",
+			"userPreferred": "Kinrou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b143271-6dNgt1Mcy3PU.jpg",
+		"voiceActors": [{
+			"id": 96489,
+			"language": "Japanese",
+			"name": {
+				"first": "Tomoaki",
+				"last": "Maeno",
+				"full": "Tomoaki Maeno",
+				"native": "前野智昭",
+				"userPreferred": "Tomoaki Maeno"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96489-xTzYxgdC9g9l.png"
+		}]
+	}, {
+		"id": 157300,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ibara",
+			"last": null,
+			"full": "Ibara",
+			"native": "イバラ",
+			"userPreferred": "Ibara"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b157300-KoVNp3KkIBiF.png",
+		"voiceActors": []
+	}, {
+		"id": 149274,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Lillian",
+			"last": "Weinberg",
+			"full": "Lillian Weinberg",
+			"native": "リリアン ・ ワインバーグ",
+			"userPreferred": "Lillian Weinberg"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b149274-RibZ3Q63d9p6.png",
+		"voiceActors": []
+	}, {
+		"id": 301927,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shou",
+			"last": null,
+			"full": "Shou",
+			"native": "礁",
+			"userPreferred": "Shou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b301927-FYIUeqg4w1qn.jpg",
+		"voiceActors": [{
+			"id": 113545,
+			"language": "Japanese",
+			"name": {
+				"first": "Kouichi",
+				"last": "Souma",
+				"full": "Kouichi Souma",
+				"native": "相馬康一",
+				"userPreferred": "Kouichi Souma"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113545-AiM4kzCRQROf.png"
+		}]
+	}, {
+		"id": 188816,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Matsukaze",
+			"last": null,
+			"full": "Matsukaze",
+			"native": "松風",
+			"userPreferred": "Matsukaze"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b188816-pypeZNIdfc9H.png",
+		"voiceActors": []
+	}, {
+		"id": 150510,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Connie",
+			"last": "Lee",
+			"full": "Connie Lee",
+			"native": "コニー・リ",
+			"userPreferred": "Connie Lee"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b150510-ajh3oNEkfZKe.jpg",
+		"voiceActors": []
+	}, {
+		"id": 255670,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Natri",
+			"last": null,
+			"full": "Natri",
+			"native": "なとり",
+			"userPreferred": "Natri"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b255670-tBg10oKDGlU0.png",
+		"voiceActors": [{
+			"id": 255530,
+			"language": "Japanese",
+			"name": {
+				"first": "Yasuhiro",
+				"last": "Kikuchi",
+				"full": "Yasuhiro Kikuchi",
+				"native": "菊池康弘",
+				"userPreferred": "Yasuhiro Kikuchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n255530-TKDzXNsy3nr1.png"
+		}]
+	}, {
+		"id": 124147,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yuzuriha",
+			"last": "Ogawa",
+			"full": "Yuzuriha Ogawa",
+			"native": "小川杠",
+			"userPreferred": "Yuzuriha Ogawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/124147-y3uE9rBepdad.jpg",
+		"voiceActors": [{
+			"id": 124390,
+			"language": "Japanese",
+			"name": {
+				"first": "Kana",
+				"last": "Ichinose",
+				"full": "Kana Ichinose",
+				"native": "市ノ瀬加那",
+				"userPreferred": "Kana Ichinose"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124390-eFIxDGxC7Vy8.png"
+		}]
+	}, {
+		"id": 143270,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ginrou",
+			"last": null,
+			"full": "Ginrou",
+			"native": " 銀狼",
+			"userPreferred": "Ginrou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b143270-8kC2e32r7CyE.jpg",
+		"voiceActors": [{
+			"id": 110919,
+			"language": "Japanese",
+			"name": {
+				"first": "Ayumu",
+				"last": "Murase",
+				"full": "Ayumu Murase",
+				"native": "村瀬歩",
+				"userPreferred": "Ayumu Murase"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png"
+		}]
+	}, {
+		"id": 150509,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kokuyo",
+			"last": null,
+			"full": "Kokuyo",
+			"native": "コクヨウ",
+			"userPreferred": "Kokuyo"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b150509-6LyHh2A6wVyc.jpg",
+		"voiceActors": []
+	}, {
+		"id": 150497,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shamil ",
+			"last": "Volkov",
+			"full": "Shamil  Volkov",
+			"native": "シャミール・ヴォルコフ",
+			"userPreferred": "Shamil  Volkov"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b150497-e3XqWcXpTp4I.jpg",
+		"voiceActors": []
+	}, {
+		"id": 255671,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Alumi",
+			"last": null,
+			"full": "Alumi",
+			"native": "あるみ",
+			"userPreferred": "Alumi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b255671-RPBXF4QBa5rS.png",
+		"voiceActors": [{
+			"id": 162831,
+			"language": "Japanese",
+			"name": {
+				"first": "Hitomi",
+				"last": "Shogawa",
+				"full": "Hitomi Shogawa",
+				"native": "所河ひとみ",
+				"userPreferred": "Hitomi Shogawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n162831-Pcxiw8N6YOoB.jpg"
+		}]
+	}, {
+		"id": 124146,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Taiju",
+			"last": "Ooki",
+			"full": "Taiju Ooki",
+			"native": "大木大樹",
+			"userPreferred": "Taiju Ooki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124146-TeXd4r0upuIX.jpg",
+		"voiceActors": [{
+			"id": 112635,
+			"language": "Japanese",
+			"name": {
+				"first": "Makoto",
+				"last": "Furukawa",
+				"full": "Makoto Furukawa",
+				"native": "古川慎",
+				"userPreferred": "Makoto Furukawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112635-ORlGvRvgf5Nq.png"
+		}]
+	}, {
+		"id": 145095,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Magma",
+			"last": null,
+			"full": "Magma",
+			"native": "マグマ",
+			"userPreferred": "Magma"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b145095-5kvEF2XUhNui.png",
+		"voiceActors": [{
+			"id": 104677,
+			"language": "Japanese",
+			"name": {
+				"first": "Yasuhiro",
+				"last": "Mamiya",
+				"full": "Yasuhiro Mamiya",
+				"native": "間宮康弘",
+				"userPreferred": "Yasuhiro Mamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104677-Jbb7yeij2Vkg.png"
+		}]
+	}, {
+		"id": 150498,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Darya",
+			"last": "Nikitina",
+			"full": "Darya Nikitina",
+			"native": "ダリヤ・ニキーチナ",
+			"userPreferred": "Darya Nikitina"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b150498-lNfkfOS4Stgi.jpg",
+		"voiceActors": []
+	}, {
+		"id": 145063,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Nikki",
+			"last": "Hanada",
+			"full": "Nikki Hanada",
+			"native": "花田仁姫",
+			"userPreferred": "Nikki Hanada"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b145063-ALOeDMIyqCAE.jpg",
+		"voiceActors": [{
+			"id": 112215,
+			"language": "Japanese",
+			"name": {
+				"first": "Atsumi",
+				"last": "Tanezaki",
+				"full": "Atsumi Tanezaki",
+				"native": "種﨑敦美",
+				"userPreferred": "Atsumi Tanezaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg"
+		}]
+	}, {
+		"id": 145098,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Francois",
+			"last": null,
+			"full": "Francois",
+			"native": "フランソワ",
+			"userPreferred": "Francois"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b145098-T5TSpMoyy3cR.jpg",
+		"voiceActors": [{
+			"id": 95090,
+			"language": "Japanese",
+			"name": {
+				"first": "Maaya",
+				"last": "Sakamoto",
+				"full": "Maaya Sakamoto",
+				"native": "坂本真綾",
+				"userPreferred": "Maaya Sakamoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95090-oARRP42NEhu0.jpg"
+		}]
+	}, {
+		"id": 150512,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yakov",
+			"last": "Nikitin",
+			"full": "Yakov Nikitin",
+			"native": "ヤコフ・ニキーチン",
+			"userPreferred": "Yakov Nikitin"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b150512-H0QgQUepWssp.jpg",
+		"voiceActors": []
+	}, {
+		"id": 157298,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mozu",
+			"last": null,
+			"full": "Mozu",
+			"native": "モズ",
+			"userPreferred": "Mozu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b157298-XEfALtQhqDDT.jpg",
+		"voiceActors": []
+	}, {
+		"id": 145064,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ukyou",
+			"last": "Saionji",
+			"full": "Ukyou Saionji",
+			"native": "西園寺羽京",
+			"userPreferred": "Ukyou Saionji"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b145064-cbgNBAEY9q4R.png",
+		"voiceActors": [{
+			"id": 95819,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenshou",
+				"last": "Ono",
+				"full": "Kenshou Ono",
+				"native": "小野賢章",
+				"userPreferred": "Kenshou Ono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95819-O4fosAY0a1Ml.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 98416,
+		"relationType": "ADAPTATION",
+		"malId": 103897,
+		"title": {
+			"romaji": "Dr. STONE",
+			"english": "Dr. STONE",
+			"native": "Dr.STONE",
+			"userPreferred": "Dr. STONE"
+		},
+		"status": "Completed",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx98416-BtFDPRVQHHZe.jpg",
+		"color": "#f1bb35",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/98416-1XM7oOALCGjA.jpg",
+		"rating": 81
+	}, {
+		"id": 142876,
+		"relationType": "PREQUEL",
+		"malId": 50612,
+		"title": {
+			"romaji": "Dr. STONE: Ryuusui",
+			"english": "Dr. STONE Special Episode – RYUSUI",
+			"native": "Dr.STONE 龍水",
+			"userPreferred": "Dr. STONE: Ryuusui"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142876-izO35hPP2DZ9.jpg",
+		"color": "#50aee4",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142876-4vxyOR19TI7i.jpg",
+		"rating": 82
+	}, {
+		"id": 162670,
+		"relationType": "SEQUEL",
+		"malId": null,
+		"title": {
+			"romaji": "Dr. STONE: NEW WORLD Part 2",
+			"english": null,
+			"native": "Dr.STONE NEW WORLD 第2クール",
+			"userPreferred": "Dr. STONE: NEW WORLD Part 2"
+		},
+		"status": "Not yet aired",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b162670-Sv9mmiYn73Ad.png",
+		"color": "#e46b0d",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b162670-Sv9mmiYn73Ad.png",
+		"rating": null
+	}],
+	"mappings": {
+		"mal": 48549,
+		"anidb": 17053,
+		"kitsu": 44289,
+		"anilist": 131518,
+		"thetvdb": 355774,
+		"anisearch": 16920,
+		"livechart": 10957,
+		"notify.moe": "epEQ9yQMg",
+		"anime-planet": "dr-stone-new-world"
+	},
+	"episodes": [{
+		"id": "dr-stone-new-world-episode-1",
+		"title": "New World Map",
+		"description": "With Ryusui in tow, Senku and Kohaku survey the area around the Kingdom of Science from the air in search of resources for their ocean journey.",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9372021/screencap/642ed86e305a9.jpg",
+		"airDate": "2023-04-06T00:00:00.000Z"
+	},
+	{
+		"id": "dr-stone-new-world-episode-2",
+		"title": "",
+		"description": "",
+		"number": 2,
+		"image": "",
+		"airDate": ""
+	}
+	]
+}
