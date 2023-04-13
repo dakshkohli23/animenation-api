@@ -1,0 +1,843 @@
+{
+	"id": "20159",
+	"title": {
+		"romaji": "Pocket Monsters: THE ORIGIN",
+		"english": "Pokémon Origins",
+		"native": "ポケットモンスター THE ORIGIN"
+	},
+	"malId": 20159,
+	"synonyms": ["Pokémon: The Origin", "Pokemon: The Origin"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "cgc81i06qwY",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/cgc81i06qwY/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20159-Q4VpDs7q2j3O.png",
+	"popularity": 39861,
+	"color": "#e49343",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20159-hlRzN7QIuZhT.jpg",
+	"description": "One day, Red, a boy filled with dreams of going on a Pokémon journey, is called to Professor Okido's lab. There, he and his rival Green are given a Pokédex in order to collect data on all of the Pokémon in the region. As Red works his way to become champion with his Charmander, he meets many people on his journey, including Old Man Fuji, a man who runs the home for abandoned Pokémon, and Reina, a girl who works there. As danger in Red's journey begins to peak, he and his partner Pokémon experience a transformation like never before...\n<br><br>\n(Source: Anime News Network)",
+	"status": "Completed",
+	"releaseDate": 2013,
+	"startDate": {
+		"year": 2013,
+		"month": 10,
+		"day": 2
+	},
+	"endDate": {
+		"year": 2013,
+		"month": 10,
+		"day": 2
+	},
+	"totalEpisodes": 4,
+	"currentEpisode": 4,
+	"rating": 74,
+	"duration": 22,
+	"genres": ["Action", "Adventure", "Fantasy"],
+	"season": "FALL",
+	"studios": ["Production I.G", "Xebec", "OLM"],
+	"subOrDub": "sub",
+	"type": "SPECIAL",
+	"recommendations": [],
+	"characters": [{
+		"id": 7035,
+		"role": "MAIN",
+		"name": {
+			"first": "Red",
+			"last": null,
+			"full": "Red",
+			"native": "レッド",
+			"userPreferred": "Red"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b7035-xRn5amW4zyZ6.png",
+		"voiceActors": [{
+			"id": 95015,
+			"language": "Japanese",
+			"name": {
+				"first": "Junko",
+				"last": "Takeuchi",
+				"full": "Junko Takeuchi",
+				"native": "竹内順子",
+				"userPreferred": "Junko Takeuchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95015-QwI9K4FRe4Cq.png"
+		}, {
+			"id": 95732,
+			"language": "English",
+			"name": {
+				"first": "Bryce",
+				"last": "Papenbrook",
+				"full": "Bryce Papenbrook",
+				"native": null,
+				"userPreferred": "Bryce Papenbrook"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/732.jpg"
+		}, {
+			"id": 109755,
+			"language": "Korean",
+			"name": {
+				"first": "Jeong-Hwa",
+				"last": "Yang",
+				"full": "Jeong-Hwa Yang",
+				"native": "정화 양",
+				"userPreferred": "Jeong-Hwa Yang"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14755.jpg"
+		}, {
+			"id": 96286,
+			"language": "Italian",
+			"name": {
+				"first": "Massimo",
+				"last": "Di Benedetto",
+				"full": "Massimo Di Benedetto",
+				"native": null,
+				"userPreferred": "Massimo Di Benedetto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96286-TD02rKR1qiHV.png"
+		}, {
+			"id": 119598,
+			"language": "Spanish",
+			"name": {
+				"first": "Alvaro",
+				"last": "De Juan",
+				"full": "Alvaro De Juan",
+				"native": null,
+				"userPreferred": "Alvaro De Juan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 119590,
+			"language": "French",
+			"name": {
+				"first": "Pierre",
+				"last": "Le Bec",
+				"full": "Pierre Le Bec",
+				"native": null,
+				"userPreferred": "Pierre Le Bec"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 119591,
+			"language": "German",
+			"name": {
+				"first": "Christian",
+				"last": "Zeiger",
+				"full": "Christian Zeiger",
+				"native": null,
+				"userPreferred": "Christian Zeiger"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119591-Cqkp0MiISslJ.jpg"
+		}]
+	}, {
+		"id": 7036,
+		"role": "MAIN",
+		"name": {
+			"first": "Green",
+			"last": "Okido",
+			"full": "Green Okido",
+			"native": "オーキド・グリーン",
+			"userPreferred": "Green Okido"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b7036-hl0vrJnQ6Ie8.png",
+		"voiceActors": [{
+			"id": 102695,
+			"language": "Japanese",
+			"name": {
+				"first": "Takuya",
+				"last": "Eguchi",
+				"full": "Takuya Eguchi",
+				"native": "江口拓也",
+				"userPreferred": "Takuya Eguchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg"
+		}, {
+			"id": 115853,
+			"language": "English",
+			"name": {
+				"first": "Lucien",
+				"last": "Dodge",
+				"full": "Lucien Dodge",
+				"native": null,
+				"userPreferred": "Lucien Dodge"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115853-aVnQRsRBXXsn.png"
+		}, {
+			"id": 119594,
+			"language": "Italian",
+			"name": {
+				"first": "Federico",
+				"last": "Viola",
+				"full": "Federico Viola",
+				"native": null,
+				"userPreferred": "Federico Viola"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119594-5QEcveRvgjbP.png"
+		}, {
+			"id": 119597,
+			"language": "Spanish",
+			"name": {
+				"first": "Aitor",
+				"last": "González",
+				"full": "Aitor González",
+				"native": null,
+				"userPreferred": "Aitor González"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 116401,
+			"language": "French",
+			"name": {
+				"first": "Alexandre",
+				"last": "Crépet",
+				"full": "Alexandre Crépet",
+				"native": null,
+				"userPreferred": "Alexandre Crépet"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116401-BxOACsXY4J8g.jpg"
+		}, {
+			"id": 102219,
+			"language": "German",
+			"name": {
+				"first": "Konrad",
+				"last": "Bösherz",
+				"full": "Konrad Bösherz",
+				"native": null,
+				"userPreferred": "Konrad Bösherz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102219-Od3pasyGCIbf.jpg"
+		}]
+	}, {
+		"id": 89411,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Reina",
+			"last": null,
+			"full": "Reina",
+			"native": "レイナ",
+			"userPreferred": "Reina"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/89411-ojkMBftv0YaL.jpg",
+		"voiceActors": [{
+			"id": 100142,
+			"language": "Japanese",
+			"name": {
+				"first": "Yui",
+				"last": "Ishikawa",
+				"full": "Yui Ishikawa",
+				"native": "石川由依",
+				"userPreferred": "Yui Ishikawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100142-k6RP0HzXffUG.png"
+		}, {
+			"id": 107344,
+			"language": "English",
+			"name": {
+				"first": "Christine",
+				"last": "Cabanos",
+				"full": "Christine Cabanos",
+				"native": null,
+				"userPreferred": "Christine Marie Cabanos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107344-hEL8CVWtd26L.jpg"
+		}, {
+			"id": 119600,
+			"language": "Spanish",
+			"name": {
+				"first": "Sara",
+				"last": "Heras",
+				"full": "Sara Heras",
+				"native": null,
+				"userPreferred": "Sara Heras"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 119601,
+			"language": "Spanish",
+			"name": {
+				"first": "Richard",
+				"last": "del Olmo",
+				"full": "Richard del Olmo",
+				"native": null,
+				"userPreferred": "Richard del Olmo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 138994,
+			"language": "French",
+			"name": {
+				"first": "Sophie",
+				"last": "Frison",
+				"full": "Sophie Frison",
+				"native": null,
+				"userPreferred": "Sophie Frison"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 103846,
+			"language": "German",
+			"name": {
+				"first": "Julia",
+				"last": "Stoepel",
+				"full": "Julia Stoepel",
+				"native": null,
+				"userPreferred": "Julia Stoepel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8846.jpg"
+		}]
+	}, {
+		"id": 2909,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kasumi",
+			"last": null,
+			"full": "Kasumi",
+			"native": "カスミ",
+			"userPreferred": "Kasumi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b2909-wNDR5aaxwDdi.png",
+		"voiceActors": []
+	}, {
+		"id": 89412,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mama",
+			"last": null,
+			"full": "Mama",
+			"native": "ママ",
+			"userPreferred": "Mama"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/89412-6lf8zq7UyRdE.jpg",
+		"voiceActors": [{
+			"id": 95003,
+			"language": "Japanese",
+			"name": {
+				"first": "Satsuki",
+				"last": "Yukino",
+				"full": "Satsuki Yukino",
+				"native": "ゆきのさつき",
+				"userPreferred": "Satsuki Yukino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95003-Du7wb5JJzb8P.png"
+		}, {
+			"id": 108705,
+			"language": "English",
+			"name": {
+				"first": "Laura",
+				"last": "Post",
+				"full": "Laura Post",
+				"native": null,
+				"userPreferred": "Laura Post"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/13705.jpg"
+		}, {
+			"id": 119595,
+			"language": "Italian",
+			"name": {
+				"first": "Beatrice",
+				"last": "Caggiula",
+				"full": "Beatrice Caggiula",
+				"native": null,
+				"userPreferred": "Beatrice Caggiula"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119595-mSjuz5Ni4dcK.jpg"
+		}, {
+			"id": 103549,
+			"language": "German",
+			"name": {
+				"first": "Antje",
+				"last": "von der Ahe",
+				"full": "Antje von der Ahe",
+				"native": null,
+				"userPreferred": "Antje von der Ahe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8549.jpg"
+		}]
+	}, {
+		"id": 3854,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Takeshi",
+			"last": null,
+			"full": "Takeshi",
+			"native": "タケシ",
+			"userPreferred": "Takeshi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b3854-qMVUF2YmWYoW.png",
+		"voiceActors": [{
+			"id": 95002,
+			"language": "Japanese",
+			"name": {
+				"first": "Tomokazu",
+				"last": "Sugita",
+				"full": "Tomokazu Sugita",
+				"native": "杉田智和",
+				"userPreferred": "Tomokazu Sugita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png"
+		}, {
+			"id": 95010,
+			"language": "English",
+			"name": {
+				"first": "Johnny Yong",
+				"last": "Bosch",
+				"full": "Johnny Yong Bosch",
+				"native": null,
+				"userPreferred": "Johnny Yong Bosch"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95010-56EByXYI2PjI.jpg"
+		}, {
+			"id": 96283,
+			"language": "Italian",
+			"name": {
+				"first": "Federico",
+				"last": "Zanandrea",
+				"full": "Federico Zanandrea",
+				"native": null,
+				"userPreferred": "Federico Zanandrea"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96283-YUsH0Bw7dANE.jpg"
+		}, {
+			"id": 119602,
+			"language": "Spanish",
+			"name": {
+				"first": "Víctor",
+				"last": "Martínez",
+				"full": "Víctor Martínez",
+				"native": null,
+				"userPreferred": "Víctor Martínez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 119593,
+			"language": "French",
+			"name": {
+				"first": "Pierre",
+				"last": "Lognay",
+				"full": "Pierre Lognay",
+				"native": null,
+				"userPreferred": "Pierre Lognay"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 103590,
+			"language": "German",
+			"name": {
+				"first": "Michael",
+				"last": "Deffert",
+				"full": "Michael Deffert",
+				"native": null,
+				"userPreferred": "Michael Deffert"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8590.jpg"
+		}]
+	}, {
+		"id": 17783,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yukinari",
+			"last": "Ookido",
+			"full": "Yukinari Ookido",
+			"native": "オーキド・ユキナリ",
+			"userPreferred": "Yukinari Ookido"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b17783-OwYJSOFjd91A.png",
+		"voiceActors": [{
+			"id": 95921,
+			"language": "Japanese",
+			"name": {
+				"first": "Katsuji",
+				"last": "Mori",
+				"full": "Katsuji Mori",
+				"native": "森功至",
+				"userPreferred": "Katsuji Mori"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/921.jpg"
+		}, {
+			"id": 95336,
+			"language": "English",
+			"name": {
+				"first": "Kyle",
+				"last": "Hebert",
+				"full": "Kyle Hebert",
+				"native": null,
+				"userPreferred": "Kyle Hebert"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95336-VVMKFINwPYZ8.jpg"
+		}, {
+			"id": 96240,
+			"language": "Italian",
+			"name": {
+				"first": "Mario",
+				"last": "Scarabelli",
+				"full": "Mario Scarabelli",
+				"native": null,
+				"userPreferred": "Mario Scarabelli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96240-skGulG7kauYH.png"
+		}, {
+			"id": 116643,
+			"language": "Spanish",
+			"name": {
+				"first": "José",
+				"last": "Padilla",
+				"full": "José Padilla",
+				"native": null,
+				"userPreferred": "José Padilla"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/21643.jpg"
+		}, {
+			"id": 106911,
+			"language": "German",
+			"name": {
+				"first": "Thomas",
+				"last": "Schmuckert",
+				"full": "Thomas Schmuckert",
+				"native": null,
+				"userPreferred": "Thomas Schmuckert"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106911-Rc4mePxnRiFF.png"
+		}]
+	}, {
+		"id": 142475,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kairyu",
+			"last": null,
+			"full": "Kairyu",
+			"native": "カイリュー",
+			"userPreferred": "Kairyu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b142475-s0UL21Qb4nr4.png",
+		"voiceActors": [{
+			"id": 95020,
+			"language": "Japanese",
+			"name": {
+				"first": "Katsuyuki",
+				"last": "Konishi",
+				"full": "Katsuyuki Konishi",
+				"native": "小西克幸",
+				"userPreferred": "Katsuyuki Konishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png"
+		}]
+	}, {
+		"id": 9881,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sakaki",
+			"last": null,
+			"full": "Sakaki",
+			"native": "サカキ",
+			"userPreferred": "Sakaki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b9881-eDgj9qqKOFhQ.jpg",
+		"voiceActors": [{
+			"id": 95113,
+			"language": "Japanese",
+			"name": {
+				"first": "Rikiya",
+				"last": "Koyama",
+				"full": "Rikiya Koyama",
+				"native": "小山力也",
+				"userPreferred": "Rikiya Koyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png"
+		}, {
+			"id": 95353,
+			"language": "English",
+			"name": {
+				"first": "Jamieson",
+				"last": "Price",
+				"full": "Jamieson Price",
+				"native": null,
+				"userPreferred": "Jamieson K. Price"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95353-Oe3Ehd7Yo37k.png"
+		}, {
+			"id": 119596,
+			"language": "Italian",
+			"name": {
+				"first": "Raffaele",
+				"last": "Farina",
+				"full": "Raffaele Farina",
+				"native": null,
+				"userPreferred": "Raffaele Farina"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 119601,
+			"language": "Spanish",
+			"name": {
+				"first": "Richard",
+				"last": "del Olmo",
+				"full": "Richard del Olmo",
+				"native": null,
+				"userPreferred": "Richard del Olmo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 119600,
+			"language": "Spanish",
+			"name": {
+				"first": "Sara",
+				"last": "Heras",
+				"full": "Sara Heras",
+				"native": null,
+				"userPreferred": "Sara Heras"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 201464,
+			"language": "French",
+			"name": {
+				"first": "Erwin",
+				"last": "Grünspan",
+				"full": "Erwin Grünspan",
+				"native": null,
+				"userPreferred": "Erwin Grünspan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201464-h6CDawYfiqY6.jpg"
+		}, {
+			"id": 104719,
+			"language": "German",
+			"name": {
+				"first": "Oliver",
+				"last": "Siebeck",
+				"full": "Oliver Siebeck",
+				"native": null,
+				"userPreferred": "Oliver Siebeck"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104719-A97qkbbDZk1O.jpg"
+		}]
+	}, {
+		"id": 25680,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gangar",
+			"last": null,
+			"full": "Gangar",
+			"native": "ゲンガー",
+			"userPreferred": "Gangar"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b25680-trcx01Kv1BuL.png",
+		"voiceActors": [{
+			"id": 95020,
+			"language": "Japanese",
+			"name": {
+				"first": "Katsuyuki",
+				"last": "Konishi",
+				"full": "Katsuyuki Konishi",
+				"native": "小西克幸",
+				"userPreferred": "Katsuyuki Konishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png"
+		}, {
+			"id": 96416,
+			"language": "English",
+			"name": {
+				"first": "Ted",
+				"last": "Lewis",
+				"full": "Ted Lewis",
+				"native": null,
+				"userPreferred": "Ted Lewis"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1416.jpg"
+		}]
+	}, {
+		"id": 7042,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Wataru",
+			"last": null,
+			"full": "Wataru",
+			"native": "ワタル",
+			"userPreferred": "Wataru"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b7042-wp2C35oy5pGg.png",
+		"voiceActors": [{
+			"id": 95911,
+			"language": "Japanese",
+			"name": {
+				"first": "Tokuyoshi",
+				"last": "Kawashima",
+				"full": "Tokuyoshi Kawashima",
+				"native": "川島得愛",
+				"userPreferred": "Tokuyoshi Kawashima"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95911-OTi0Qqvbjphr.jpg"
+		}, {
+			"id": 95232,
+			"language": "English",
+			"name": {
+				"first": "Kirk",
+				"last": "Thornton",
+				"full": "Kirk Thornton",
+				"native": null,
+				"userPreferred": "Kirk Thornton"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/232.jpg"
+		}, {
+			"id": 119599,
+			"language": "Spanish",
+			"name": {
+				"first": "Antonio",
+				"last": "Cremades",
+				"full": "Antonio Cremades",
+				"native": null,
+				"userPreferred": "Antonio Cremades"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 5113,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mewtwo",
+			"last": null,
+			"full": "Mewtwo",
+			"native": "ミュウツー",
+			"userPreferred": "Mewtwo"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b5113-hDiwLUwrbz6q.png",
+		"voiceActors": []
+	}, {
+		"id": 89410,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Fuji",
+			"last": null,
+			"full": "Fuji",
+			"native": "フジ老人",
+			"userPreferred": "Fuji"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/89410-GAm7Cbri0JBb.jpg",
+		"voiceActors": [{
+			"id": 102913,
+			"language": "Japanese",
+			"name": {
+				"first": "Minoru",
+				"last": "Inaba",
+				"full": "Minoru Inaba",
+				"native": "稲葉実",
+				"userPreferred": "Minoru Inaba"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7913.jpg"
+		}, {
+			"id": 95232,
+			"language": "English",
+			"name": {
+				"first": "Kirk",
+				"last": "Thornton",
+				"full": "Kirk Thornton",
+				"native": null,
+				"userPreferred": "Kirk Thornton"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/232.jpg"
+		}, {
+			"id": 115260,
+			"language": "Italian",
+			"name": {
+				"first": "Maurizio",
+				"last": "Scattorin",
+				"full": "Maurizio Scattorin",
+				"native": null,
+				"userPreferred": "Maurizio Scattorin"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115260-RAISNWsT5zSE.jpg"
+		}, {
+			"id": 109081,
+			"language": "Spanish",
+			"name": {
+				"first": "Fernando",
+				"last": "Hernandez",
+				"full": "Fernando Hernandez",
+				"native": null,
+				"userPreferred": "Fernando Hernandez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 196083,
+			"language": "French",
+			"name": {
+				"first": "Jean-Michel",
+				"last": "Vovk",
+				"full": "Jean-Michel Vovk",
+				"native": null,
+				"userPreferred": "Jean-Michel Vovk"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n196083-rUo6DZs2GJA6.jpg"
+		}, {
+			"id": 119592,
+			"language": "German",
+			"name": {
+				"first": "Frank-Otto",
+				"last": "Schenk",
+				"full": "Frank-Otto Schenk",
+				"native": null,
+				"userPreferred": "Frank-Otto Schenk"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119592-5BhOZwIMuuIu.png"
+		}]
+	}],
+	"relations": [{
+		"id": 527,
+		"relationType": "ALTERNATIVE",
+		"malId": 527,
+		"title": {
+			"romaji": "Pocket Monsters",
+			"english": "Pokémon",
+			"native": "ポケットモンスター",
+			"userPreferred": "Pocket Monsters"
+		},
+		"status": "Completed",
+		"episodes": 276,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-cFxpkJI4026c.png",
+		"color": "#ffae00",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/527-69bO9vmmewWm.jpg",
+		"rating": 71
+	}],
+	"mappings": {
+		"mal": 20159,
+		"anidb": 10031,
+		"kitsu": 7922,
+		"anilist": 20159,
+		"thetvdb": 273616,
+		"anisearch": 8923,
+		"livechart": 188,
+		"notify.moe": "91ZhpFimg",
+		"anime-planet": "pokemon-the-origin"
+	},
+	"episodes": [{
+		"id": "pokemon-origins-episode-1",
+		"title": "File 1: Red",
+		"description": "Red, along with his rival Blue, sets out on a quest to realize Professor Oak’s long-held dream of completing the Pokédex. However, his journey is not going as smoothly as he would like. Blue seems to be more gifted, and Red is struggling to keep up. Can Red learn quickly enough to make it as a Pokémon Trainer? How will he win his first Gym Badge at the Pewter City Gym?",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/episodes/273616/4668372.jpg",
+		"airDate": "2013-10-02T00:00:00.000Z"
+	}, {
+		"id": "pokemon-origins-episode-2",
+		"title": "File 2: Cubone",
+		"description": "At the Pokémon Center in Lavender Town, Red overhears talk of a ghost appearing in the Pokémon Tower and decides to investigate. Before doing so, he is advised to visit the Pokémon House. Here, he learns of a baby Cubone’s ordeal at the hands of an evil organization known as Team Rocket. Who are these villains, and what is behind the haunting at the Pokémon Tower?",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/episodes/273616/4675623.jpg",
+		"airDate": "2013-10-02T00:00:00.000Z"
+	}, {
+		"id": "pokemon-origins-episode-3",
+		"title": "File 3: Giovanni",
+		"description": "Red arrives in Saffron City to find Team Rocket’s fingerprints on everything. When he rescues a Silph Co. secretary, he learns that Team Rocket has taken over the company! This stems from their desire to get their hands on the Master Ball, the ultimate Poké Ball that has been in development for years. However, one more surprise lies in wait for Red at Viridian City, and this may be the biggest one yet!",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/episodes/273616/4675625.jpg",
+		"airDate": "2013-10-02T00:00:00.000Z"
+	}, {
+		"id": "pokemon-origins-episode-4",
+		"title": "File 4: Charizard",
+		"description": "After defeating the Elite Four at the Indigo Plateau, Red is finally ready to challenge the Champion and take his strength to the next level. Little does he realize that the new Champion is someone he knows very well! The battle that ensues is the fiercest they’ve had yet. And even more surprises lie ahead for Red as he searches for a mysterious new Pokémon and challenges new frontiers!",
+		"number": 4,
+		"image": "https://artworks.thetvdb.com/banners/episodes/273616/4675624.jpg",
+		"airDate": "2013-10-02T00:00:00.000Z"
+	}]
+}
