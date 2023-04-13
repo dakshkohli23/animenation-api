@@ -1,0 +1,26 @@
+[
+        {
+            "server1": "s9pss5mtsh9m",
+            "animeNameWithEP": "Dr. STONE New World Episode 1",
+            "ep_num": "1",
+            "anime_info": "dr-stone-new-world",
+            "movie_id": "131518",
+            "alias": "dr-stone-new-world",
+            "nextEpText": "Dr. STONE New World Episode 2 >>",
+            "nextEpLink": "/dr-stone-new-world-episode-2",
+            "prevEpText": "",
+            "prevEpLink": " "
+        },
+        {
+            "server1": "2qrmrsf1f07v",
+            "animeNameWithEP": "Dr. STONE New World Episode 2",
+            "ep_num": "2",
+            "anime_info": "dr-stone-new-world",
+            "movie_id": "131518",
+            "alias": "dr-stone-new-world",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Dr. STONE New World Episode 1",
+            "prevEpLink": "/dr-stone-new-world-episode-1"
+        }
+    ]
