@@ -11,6 +11,17 @@
 		"episodeUrl": "../anime/pokemon-horizons-the-series"
 	},
 	{
+		"animeId": "pokemon-origins",
+		"episodeId": "pokemon-origins-episode-1",
+		"name": "Pokémon Origins",
+		"jname": "Pocket Monsters: THE ORIGIN",
+		"episodeNum": "4",
+		"subOrDub": "dub",
+		"type": "special",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20159-Q4VpDs7q2j3O.png",
+		"episodeUrl": "../anime/pokemon-origins"
+	},
+	{
 		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
 		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-1",
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
