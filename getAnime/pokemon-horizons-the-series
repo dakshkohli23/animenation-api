@@ -37,10 +37,10 @@
 		"timeUntilAiring": 97068,
 		"episode": 1
 	},
-	"totalEpisodes": 0,
-	"currentEpisode": 0,
+	"totalEpisodes": 1,
+	"currentEpisode": 1,
 	"rating": null,
-	"duration": null,
+	"duration": 60,
 	"genres": ["Adventure", "Fantasy"],
 	"season": "SPRING",
 	"studios": ["OLM"],
