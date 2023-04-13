@@ -223,5 +223,14 @@
         "subOrDub": "DUB",
         "imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
         "episodeUrl": "../anime/pokemon-ultimate-journeys"
+    },
+    {
+        "animeId": "pokemon-horizons-the-series",
+        "episodeId": "pokemon-horizons-the-series-episode-1",
+        "name": "Pokémon Horizons: The Series",
+        "episodeNum": "1",
+        "subOrDub": "SUB",
+        "imgUrl": "../cover/pokemon-horizons-the-series.jpg",
+        "episodeUrl": "../anime/pokemon-horizons-the-series"
     }
 ]
