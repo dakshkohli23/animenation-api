@@ -1,0 +1,50 @@
+[
+        {
+            "server1": "h9ojgpmd8idq",
+            "animeNameWithEP": "Pokémon Origins Episode 1",
+            "ep_num": "1",
+            "anime_info": "pokemon-origins",
+            "movie_id": "20159",
+            "alias": "pokemon-origins",
+            "nextEpText": "Pokémon Origins Episode 2 >>",
+            "nextEpLink": "/pokemon-origins-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "t7tks3r51zkh",
+            "animeNameWithEP": "Pokémon Origins Episode 2",
+            "ep_num": "2",
+            "anime_info": "pokemon-origins",
+            "movie_id": "20159",
+            "alias": "pokemon-origins",
+            "nextEpText": "Pokémon Origins Episode 3 >>",
+            "nextEpLink": "/pokemon-origins-episode-3",
+            "prevEpText": "<< Pokémon Origins Episode 1",
+            "prevEpLink": "/pokemon-origins-episode-1"
+        },
+        {
+            "server1": "01apf4wo6znt",
+            "animeNameWithEP": "Pokémon Origins Episode 3",
+            "ep_num": "3",
+            "anime_info": "pokemon-origins",
+            "movie_id": "20159",
+            "alias": "pokemon-origins",
+            "nextEpText": "Pokémon Origins Episode 4 >>",
+            "nextEpLink": "/pokemon-origins-episode-4",
+            "prevEpText": "<< Pokémon Origins Episode 2",
+            "prevEpLink": "/pokemon-origins-episode-2"
+        },
+        {
+            "server1": "x2o94ewclxxy",
+            "animeNameWithEP": "Pokémon Origins Episode 4",
+            "ep_num": "4",
+            "anime_info": "pokemon-origins",
+            "movie_id": "20159",
+            "alias": "pokemon-origins",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Pokémon Origins Episode 3",
+            "prevEpLink": "/pokemon-origins-episode-3"
+        }
+    ]
