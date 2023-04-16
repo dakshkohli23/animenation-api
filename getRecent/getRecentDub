@@ -1,4 +1,15 @@
 [
+	{
+		"animeId": "pokemon-ultimate-journeys",
+		"episodeId": "pokemon-ultimate-journeys-episode-39",
+		"name": "Pokémon Ultimate Journeys: The Series",
+		"jname": "Pocket Monsters (2019)",
+		"episodeNum": "39",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
+		"episodeUrl": "../anime/pokemon-ultimate-journeys"
+	},
     {
         "animeId": "shingeki-no-kyojin",
         "episodeId": "shingeki-no-kyojin-episode-1",
