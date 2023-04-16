@@ -1,14 +1,28 @@
-[
+{
+    "Sheet1": [
         {
             "server1": "1qtrn64g6gug",
-            "animeNameWithEP": "Pokémon Horizons The Series Official Trailer Episode 1 Dubbed",
+            "animeNameWithEP": "Pokémon Horizons The Series Episode 1 Dubbed",
             "ep_num": "1",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "158871",
+            "alias": "pokemon-horizons-the-series",
+            "nextEpText": "Pokémon Horizons The Series Episode 2 >>",
+            "nextEpLink": "/pokemon-horizons-the-series-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "2klnpt4f110y",
+            "animeNameWithEP": "Pokémon Horizons The Series Episode 2 Dubbed",
+            "ep_num": "2",
             "anime_info": "pokemon-horizons-the-series",
             "movie_id": "158871",
             "alias": "pokemon-horizons-the-series",
             "nextEpText": "",
             "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "prevEpText": "<< Pokémon Horizons The Series Episode 1",
+            "prevEpLink": "/pokemon-horizons-the-series-episode-1"
         }
     ]
+}
