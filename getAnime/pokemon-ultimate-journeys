@@ -40,7 +40,8 @@
     "month": "",
     "day": ""
   },
-  "totalEpisodes": 38,
+  "currentEpisodes": 38,
+  "totalEpisodes": 42,
   "rating": 73,
   "duration": 24,
   "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
