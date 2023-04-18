@@ -6,7 +6,7 @@
 		"native": "ポケットモンスター (2023)"
 	},
 	"malId": 53876,
-	"synonyms": ["Pokémon (2023)"],
+	"synonyms": ["Pokémon (2023)", "Pokémon Horizontes: A Série"],
 	"isLicensed": true,
 	"isAdult": false,
 	"countryOfOrigin": "JP",
@@ -16,11 +16,11 @@
 		"thumbnail": "https://i.ytimg.com/vi/_c_hMehCORQ/hqdefault.jpg"
 	},
 	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
-	"popularity": 5824,
+	"popularity": 7200,
 	"color": "#e4bb28",
 	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
-	"description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Riko and a boy named Roy.<br>\n<br>\n<i>Note: The first episode will have a runtime of 1 hour.</i>",
-	"status": "Not yet aired",
+	"description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Riko and a boy named Roy.",
+	"status": "Ongoing",
 	"releaseDate": 2023,
 	"startDate": {
 		"year": 2023,
@@ -33,20 +33,65 @@
 		"day": null
 	},
 	"nextAiringEpisode": {
-		"airingTime": 1681466100,
-		"timeUntilAiring": 97068,
-		"episode": 1
+		"airingTime": 1682070900,
+		"timeUntilAiring": 252811,
+		"episode": 3
 	},
-	"totalEpisodes": 1,
-	"currentEpisode": 1,
-	"rating": null,
-	"duration": 60,
+	"totalEpisodes": 2,
+	"currentEpisode": 2,
+	"rating": 69,
+	"duration": null,
 	"genres": ["Adventure", "Fantasy"],
 	"season": "SPRING",
 	"studios": ["OLM"],
 	"subOrDub": "sub",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 527,
+		"malId": 527,
+		"title": {
+			"romaji": "Pocket Monsters",
+			"english": "Pokémon",
+			"native": "ポケットモンスター",
+			"userPreferred": "Pocket Monsters"
+		},
+		"status": "Completed",
+		"episodes": 276,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-cFxpkJI4026c.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/527-69bO9vmmewWm.jpg",
+		"rating": 71,
+		"type": "TV"
+	}, {
+		"id": 97634,
+		"malId": 34034,
+		"title": {
+			"romaji": "Pocket Monsters Sun & Moon",
+			"english": "Pokémon the Series: Sun & Moon",
+			"native": "ポケットモンスター サン＆ムーン",
+			"userPreferred": "Pocket Monsters Sun & Moon"
+		},
+		"status": "Completed",
+		"episodes": 146,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97634-9pF5dOufTtRC.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97634-PD05jC0kSfFB.jpg",
+		"rating": 66,
+		"type": "TV"
+	}, {
+		"id": 112153,
+		"malId": 40351,
+		"title": {
+			"romaji": "Pocket Monsters (2019)",
+			"english": "Pokémon Journeys: The Series",
+			"native": "ポケットモンスター (2019)",
+			"userPreferred": "Pocket Monsters (2019)"
+		},
+		"status": "Completed",
+		"episodes": 136,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112153-LK1lpFz3vlvl.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112153-01RDuvgGTXjp.jpg",
+		"rating": 73,
+		"type": "TV"
+	}],
 	"characters": [{
 		"id": 294409,
 		"role": "MAIN",
@@ -74,11 +119,11 @@
 		"id": 294410,
 		"role": "MAIN",
 		"name": {
-			"first": "Riko",
+			"first": "Liko",
 			"last": null,
-			"full": "Riko",
+			"full": "Liko",
 			"native": "リコ",
-			"userPreferred": "Riko"
+			"userPreferred": "Liko"
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b294410-lIZ6eTpStnFk.png",
 		"voiceActors": [{
@@ -138,6 +183,29 @@
 				"userPreferred": "Ikue Ootani"
 			},
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png"
+		}]
+	}, {
+		"id": 302844,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Nyahoja",
+			"last": null,
+			"full": "Nyahoja",
+			"native": "ニャオハ",
+			"userPreferred": "Nyahoja"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b302844-sVX5xGtV5Tia.png",
+		"voiceActors": [{
+			"id": 95014,
+			"language": "Japanese",
+			"name": {
+				"first": "Megumi",
+				"last": "Hayashibara",
+				"full": "Megumi Hayashibara",
+				"native": "林原めぐみ",
+				"userPreferred": "Megumi Hayashibara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-VqxNuufY94V3.png"
 		}]
 	}, {
 		"id": 300232,
@@ -282,7 +350,7 @@
 		"color": "#e4bb43",
 		"type": "ONA",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163619-yHBn6nbnmGLb.png",
-		"rating": 64
+		"rating": 60
 	}],
 	"mappings": {
 		"mal": 53876,
@@ -295,13 +363,18 @@
 		"anime-planet": "pokemon-horizons-the-series"
 	},
 	"episodes": [{
-      "id": "pokemon-horizons-the-series-episode-1",
-      "title": "Pokémon Horizons: The Series Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-horizons-the-series-episode-2",
-      "title": "Pokémon Horizons: The Series Episode 2",
-      "number": 2
-    }]
+		"id": "pokemon-horizons-the-series-episode-1",
+		"title": "The Pendant It All Started With (1)",
+		"description": "Liko, a girl from the Pardea region, enrolls in Sekiei Gakuen, a boarding school in the Kanto region. Liko was happy to receive her first Pokémon Sprigatito, but Sprigatito didn't listen to her at all... Liko struggles to deepen her bond with Sprigatito. Meanwhile, in search of Liko's \"mysterious pendant\", suspicious characters appear to search for her!",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9708907/screencap/6430b37de7d55.jpg",
+		"airDate": "2023-04-14T00:00:00.000Z"
+	}, {
+		"id": "pokemon-horizons-the-series-episode-2",
+		"title": "The Pendant It All Started With (2)",
+		"description": "Liko has been attacked by the mysterious Explorers and Friede and the Rising Volt Tacklers come to her rescue, bringing her on board their airship. However, the Explorers make chase and insist on getting Liko's pendant. Will they succeed?",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9715353/screencap/643980e6a0973.jpg",
+		"airDate": "2023-04-14T00:00:00.000Z"
+	}]
 }
