@@ -46,52 +46,7 @@
 	"studios": ["OLM"],
 	"subOrDub": "sub",
 	"type": "TV",
-	"recommendations": [{
-		"id": 527,
-		"malId": 527,
-		"title": {
-			"romaji": "Pocket Monsters",
-			"english": "Pokémon",
-			"native": "ポケットモンスター",
-			"userPreferred": "Pocket Monsters"
-		},
-		"status": "Completed",
-		"episodes": 276,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b527-cFxpkJI4026c.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/527-69bO9vmmewWm.jpg",
-		"rating": 71,
-		"type": "TV"
-	}, {
-		"id": 97634,
-		"malId": 34034,
-		"title": {
-			"romaji": "Pocket Monsters Sun & Moon",
-			"english": "Pokémon the Series: Sun & Moon",
-			"native": "ポケットモンスター サン＆ムーン",
-			"userPreferred": "Pocket Monsters Sun & Moon"
-		},
-		"status": "Completed",
-		"episodes": 146,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97634-9pF5dOufTtRC.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97634-PD05jC0kSfFB.jpg",
-		"rating": 66,
-		"type": "TV"
-	}, {
-		"id": 112153,
-		"malId": 40351,
-		"title": {
-			"romaji": "Pocket Monsters (2019)",
-			"english": "Pokémon Journeys: The Series",
-			"native": "ポケットモンスター (2019)",
-			"userPreferred": "Pocket Monsters (2019)"
-		},
-		"status": "Completed",
-		"episodes": 136,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112153-LK1lpFz3vlvl.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112153-01RDuvgGTXjp.jpg",
-		"rating": 73,
-		"type": "TV"
-	}],
+	"recommendations": [],
 	"characters": [{
 		"id": 294409,
 		"role": "MAIN",
