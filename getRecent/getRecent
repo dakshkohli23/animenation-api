@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "pokemon-generations",
+		"episodeId": "pokemon-generations-episode-1",
+		"name": "Pokémon Generations",
+		"jname": "Pokémon Generations",
+		"episodeNum": "18",
+		"subOrDub": "dub",
+		"type": "ONA",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97635-I7aIU84ABBs8.jpg",
+		"episodeUrl": "../anime/pokemon-generations"
+	},
+	{
 		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
 		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-2",
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
