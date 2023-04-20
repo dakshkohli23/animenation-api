@@ -37,8 +37,8 @@
 		"timeUntilAiring": 600464,
 		"episode": 3
 	},
-	"totalEpisodes": 2,
-	"currentEpisode": 2,
+	"totalEpisodes": 3,
+	"currentEpisode": 3,
 	"rating": 81,
 	"duration": 24,
 	"genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
@@ -600,6 +600,14 @@
 		"title": "",
 		"description": "",
 		"number": 2,
+		"image": "",
+		"airDate": ""
+	},
+	{
+		"id": "dr-stone-new-world-episode-3",
+		"title": "",
+		"description": "",
+		"number": 3,
 		"image": "",
 		"airDate": ""
 	}
