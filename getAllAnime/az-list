@@ -360,6 +360,18 @@
             "genres": ["Action", "Adventure", "Drama", "Sci-Fi", "Fantasy", "Superhero"]
         },
         {
+            "animeId": "bleach",
+            "episodeId": "bleach-episode-1",
+            "name": "Bleach",
+            "jname": "BLEACH",
+            "episodeNum": "366",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxkqTIuQgJ6v.png",
+            "type": "tv",
+            "episodeUrl": "anime/bleach",
+            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"]
+        },
+        {
             "animeId": "chainsaw-man",
             "episodeId": "chainsaw-man-episode-1",
             "name": "Chainsaw Man",
