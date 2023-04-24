@@ -1,5 +1,4 @@
-[
-	{
+[{
 		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
 		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-3",
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
@@ -7,6 +6,7 @@
 		"episodeNum": "3",
 		"subOrDub": "sub",
 		"type": "tv",
+		"isAdult": true,
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
 		"episodeUrl": "../anime/kimetsu-no-yaiba-katanakaji-no-satohen"
 	},
@@ -22,7 +22,7 @@
 		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
 		"episodeUrl": "../anime/pokemon-ultimate-journeys"
 	},
-{
+	{
 		"animeId": "pokemon-horizons-the-series",
 		"episodeId": "pokemon-horizons-the-series-episode-3",
 		"name": "Pokémon Horizons: The Series",
@@ -93,7 +93,7 @@
 
 
 
-	
+
 	{
 		"animeId": "pokemon-origins",
 		"episodeId": "pokemon-origins-episode-1",
@@ -129,7 +129,7 @@
 		"imgUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/468mmhMd21pY4Yx0S0woqeEcxtL.jpg",
 		"episodeUrl": "../anime/the-powerpuff-girls"
 	},
-{
+	{
 		"animeId": "haikyu-the-movie-battle-of-concepts",
 		"episodeId": "haikyu-the-movie-battle-of-concepts-episode-1",
 		"name": "Haikyu!! The Movie: Battle of Concepts",
@@ -140,7 +140,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98885-xzHYFUr0keBT.jpg",
 		"episodeUrl": "../anime/haikyu-the-movie-battle-of-concepts"
 	},
-{
+	{
 		"animeId": "haikyu-the-movie-talent-and-sense",
 		"episodeId": "haikyu-the-movie-talent-and-sense-episode-1",
 		"name": "Haikyu!! The Movie: Talent and Sense",
@@ -151,7 +151,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
 		"episodeUrl": "../anime/haikyu-the-movie-talent-and-sense"
 	},
-{
+	{
 		"animeId": "haikyu-the-movie-the-winner-and-the-loser",
 		"episodeId": "haikyu-the-movie-the-winner-and-the-loser-episode-1",
 		"name": "Haikyuu!! the Movie: The Winner and the Loser",
@@ -162,7 +162,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png",
 		"episodeUrl": "../anime/haikyu-the-movie-the-winner-and-the-loser"
 	},
-{
+	{
 		"animeId": "haikyu-the-movie-the-end-and-the-beginning",
 		"episodeId": "haikyu-the-movie-the-end-and-the-beginning-episode-1",
 		"name": "Haikyu!! the Movie: The End and the Beginning",
@@ -173,7 +173,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg",
 		"episodeUrl": "../anime/haikyu-the-movie-the-end-and-the-beginning"
 	},
-{
+	{
 		"animeId": "haikyu-land-vs-air",
 		"episodeId": "haikyu-land-vs-air-episode-1",
 		"name": "HAIKYU!! LAND VS. AIR",
@@ -183,7 +183,7 @@
 		"type": "ova",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg",
 		"episodeUrl": "../anime/haikyu-land-vs-air"
-	},{
+	}, {
 		"animeId": "attack-on-titan-picture-drama",
 		"episodeId": "attack-on-titan-picture-drama-episode-1",
 		"name": "Attack on Titan Picture Drama",
