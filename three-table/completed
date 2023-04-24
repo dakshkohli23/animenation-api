@@ -1,4 +1,16 @@
 [
+{
+		"animeId": "worlds-end-harem",
+		"episodeId": "worlds-end-harem-episode-1",
+		"name": "World's End Harem",
+		"jname": "Shuumatsu no Harem",
+		"episodeNum": "11",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118465-EGB0OajA5rei.jpg",
+		"episodeUrl": "../anime/worlds-end-harem",
+		"isAdult": true
+	},
 
         {
             "animeId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
