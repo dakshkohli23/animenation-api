@@ -444,6 +444,30 @@
             "genres": ["Action", "Comedy", "Drama", "Horror", "Supernatural"]
         },
         {
+            "animeId": "classroom-of-the-elite",
+            "episodeId": "classroom-of-the-elite-episode-1",
+            "name": "Classroom of the Elite",
+            "jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+            "episodeNum": "12",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98659-sH5z5RfMuyMr.png",
+            "type": "tv",
+            "episodeUrl": "anime/classroom-of-the-elite",
+            "genres": ["Drama", "Psychological"]
+        },
+        {
+            "animeId": "classroom-of-the-elite-season-2",
+            "episodeId": "classroom-of-the-elite-season-2-episode-1",
+            "name": "Classroom of the Elite Season 2",
+            "jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+            "episodeNum": "13",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145545-DGl3LVvFlnHi.png",
+            "type": "tv",
+            "episodeUrl": "anime/classroom-of-the-elite-season-2",
+            "genres": ["Drama", "Mystery", "Psychological"]
+        },
+        {
             "animeId": "kimetsu-no-yaiba-mugen-resshahen",
             "episodeId": "kimetsu-no-yaiba-mugen-resshahen-episode-1",
             "name": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
