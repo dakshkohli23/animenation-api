@@ -1,4 +1,15 @@
 [
+	{
+		"animeId": "dr-stone-new-world",
+		"episodeId": "dr-stone-new-world-episode-4",
+		"name": "Dr. STONE New World",
+		"jname": "Dr. STONE: NEW WORLD",
+		"episodeNum": "4",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131518-RU7RoUmGb2sP.jpg",
+		"episodeUrl": "../anime/dr-stone-new-world"
+	},
 {
 		"animeId": "worlds-end-harem",
 		"episodeId": "worlds-end-harem-episode-1",
@@ -66,17 +77,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxkqTIuQgJ6v.png",
 		"episodeUrl": "../anime/bleach"
 	},
-	{
-		"animeId": "dr-stone-new-world",
-		"episodeId": "dr-stone-new-world-episode-3",
-		"name": "Dr. STONE New World",
-		"jname": "Dr. STONE: NEW WORLD",
-		"episodeNum": "3",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131518-RU7RoUmGb2sP.jpg",
-		"episodeUrl": "../anime/dr-stone-new-world"
-	},
+
 	{
 		"animeId": "oshi-no-ko",
 		"episodeId": "oshi-no-ko-episode-2",
