@@ -372,6 +372,18 @@
             "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"]
         },
         {
+            "animeId": "bleach-colorful-gotei-juusan-yatai-daisakusen",
+            "episodeId": "bleach-colorful-gotei-juusan-yatai-daisakusen-episode-1",
+            "name": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
+            "jname": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100719-PLIlnSxjACLV.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/bleach-colorful-gotei-juusan-yatai-daisakusen",
+            "genres": ["Comedy"]
+        },
+        {
             "animeId": "bleach-the-movie-fade-to-black",
             "episodeId": "bleach-the-movie-fade-to-black-episode-1",
             "name": "Bleach the Movie: Fade to Black",
@@ -418,6 +430,42 @@
             "type": "movie",
             "episodeUrl": "anime/bleach-the-movie-the-diamonddust-rebellion",
             "genres": ["Action", "Adventure", "Drama", "Supernatural"]
+        },
+        {
+            "animeId": "bleach-13-court-guard-squads-omake",
+            "episodeId": "bleach-13-court-guard-squads-omake-episode-1",
+            "name": "Bleach: 13 Court Guard Squads Omake",
+            "jname": "Bleach: Gotei 13 Omake",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://cdn.myanimelist.net/images/anime/1260/97246.jpg",
+            "type": "special",
+            "episodeUrl": "anime/bleach-13-court-guard-squads-omake",
+            "genres": ["Action", "Drama", "Supernatural"]
+        },
+        {
+            "animeId": "bleach-memories-in-the-rain",
+            "episodeId": "bleach-memories-in-the-rain-episode-1",
+            "name": "BLEACH: memories in the rain",
+            "jname": "BLEACH: memories in the rain",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154037-7VSs4aDUL2ZG.jpg",
+            "type": "special",
+            "episodeUrl": "anime/bleach-memories-in-the-rain",
+            "genres": ["Action", "Drama", "Supernatural"]
+        },
+        {
+            "animeId": "bleach-the-sealed-sword-frenzy",
+            "episodeId": "bleach-the-sealed-sword-frenzy-episode-1",
+            "name": "BLEACH: The Sealed Sword Frenzy",
+            "jname": "BLEACH: The Sealed Sword Frenzy",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx834-Wm0msxVlJnkT.png",
+            "type": "special",
+            "episodeUrl": "anime/bleach-the-sealed-sword-frenzy",
+            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Supernatural"]
         },
         {
             "animeId": "bleach-thousand-year-blood-war",
@@ -796,7 +844,7 @@
             "episodeId": "oshi-no-ko-episode-1",
             "name": "Oshi No Ko",
             "jname": "Oshi no Ko",
-            "episodeNum": "2",
+            "episodeNum": "3",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
             "type": "tv",
