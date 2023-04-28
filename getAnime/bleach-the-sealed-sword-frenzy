@@ -36,7 +36,166 @@
 	"studios": ["Studio Pierrot"],
 	"subOrDub": "sub",
 	"type": "SPECIAL",
-	"recommendations": [],
+	"recommendations": [{
+      "id": 269,
+      "malId": 269,
+      "title": {
+        "romaji": "BLEACH",
+		"english": "Bleach",
+		"native": "BLEACH"
+      },
+      "status": "Completed",
+      "episodes": 366,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxkqTIuQgJ6v.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/269-08ar2HJOUAuL.jpg",
+      "rating": 77,
+      "type": "tv",
+	  "animeurl": "bleach"
+},
+{
+      "id": 116674,
+      "malId": 41467,
+      "title": {
+        "romaji": "BLEACH: Sennen Kessen-hen",
+		"english": "BLEACH: Thousand-Year Blood War",
+		"native": "BLEACH 千年血戦篇"
+      },
+      "status": "Completed",
+      "episodes": 13,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116674-l2YlIyJzvGSV.jpg",
+      "rating": 89,
+      "type": "tv",
+	  "animeurl": "bleach-thousand-year-blood-war"
+},
+{
+      "id": 1686,
+      "malId": 1686,
+      "title": {
+        "romaji": "BLEACH: MEMORIES OF NOBODY",
+		"english": "Bleach the Movie: Memories of Nobody",
+		"native": "BLEACH MEMORIES OF NOBODY"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1686-oZQepxP4SRQ2.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1686-dYv44wJMzT4t.jpg",
+      "rating": 70,
+      "type": "movie",
+	  "animeurl": "bleach-the-movie-memories-of-nobody"
+},
+{
+      "id": 2889,
+      "malId": 2889,
+      "title": {
+        "romaji": "BLEACH: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+		"english": "Bleach the Movie: The DiamondDust Rebellion",
+		"native": "BLEACH The DiamondDust Rebellion もう一つの氷輪丸"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2889-AmnSwChuAuGT.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2889-vB1DE7XfDvnB.jpg",
+      "rating": 69,
+      "type": "movie",
+	  "animeurl": "bleach-the-movie-the-diamonddust-rebellion"
+},
+{
+      "id": 4835,
+      "malId": 4835,
+      "title": {
+        "romaji": "BLEACH: Fade to Black - Kimi no Na wo Yobu",
+		"english": "Bleach the Movie: Fade to Black",
+		"native": "BLEACH Fade to Black 君の名を呼ぶ"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4835-UqbwERH407BB.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n4835-85niQKlITltI.jpg",
+      "rating": 71,
+      "type": "movie",
+	  "animeurl": "bleach-the-movie-fade-to-black"
+},
+{
+      "id": 8247,
+      "malId": 8247,
+      "title": {
+        "romaji": "BLEACH: Jigoku-hen",
+		"english": "Bleach the Movie: Hell Verse",
+		"native": "BLEACH 地獄篇"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8247-VppsQKlgXoXr.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8247-M9lIhb1pWRTn.jpg",
+      "rating": 73,
+      "type": "movie",
+	  "animeurl": "bleach-the-movie-hell-verse"
+},
+{
+      "id": 834,
+      "malId": 834,
+      "title": {
+        "romaji": "BLEACH: The Sealed Sword Frenzy",
+		"english": "BLEACH: The Sealed Sword Frenzy",
+		"native": "BLEACH: The Sealed Sword Frenzy"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx834-Wm0msxVlJnkT.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx834-Wm0msxVlJnkT.png",
+      "rating": 64,
+      "type": "SPECIAL",
+	  "animeurl": "bleach-the-sealed-sword-frenzy"
+},
+{
+      "id": 154037,
+      "malId": 762,
+      "title": {
+        "romaji": "BLEACH: memories in the rain",
+		"english": "BLEACH: memories in the rain",
+		"native": "BLEACH: memories in the rain"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154037-7VSs4aDUL2ZG.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154037-7VSs4aDUL2ZG.jpg",
+      "rating": 67,
+      "type": "SPECIAL",
+	  "animeurl": "bleach-memories-in-the-rain"
+},
+{
+      "id": 38810,
+      "malId": 38810,
+      "title": {
+        "romaji": "Bleach: Gotei 13 Omake",
+		"english": "Bleach: 13 Court Guard Squads Omake",
+		"native": "Bleach: Gotei 13 Omake"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://cdn.myanimelist.net/images/anime/1260/97246.jpg",
+      "cover": "https://cdn.myanimelist.net/images/anime/1260/97246.jpg",
+      "rating": 67,
+      "type": "SPECIAL",
+	  "animeurl": "bleach-13-court-guard-squads-omake"
+},
+{
+      "id": 100719,
+      "malId": 35118,
+      "title": {
+        "romaji": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
+		"english": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
+		"native": "BLEACH カラブリ！護廷十三屋台大作戦！"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100719-PLIlnSxjACLV.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100719-PLIlnSxjACLV.jpg",
+      "rating": 61,
+      "type": "OVA",
+	  "animeurl": "bleach-colorful-gotei-juusan-yatai-daisakusen"
+}],
 	"characters": [{
 		"id": 6,
 		"role": "MAIN",
