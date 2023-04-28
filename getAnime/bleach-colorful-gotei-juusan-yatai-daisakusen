@@ -1,0 +1,94 @@
+{
+	"id": "100719",
+	"title": {
+		"romaji": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
+		"english": null,
+		"native": "BLEACH カラブリ！護廷十三屋台大作戦！"
+	},
+	"malId": 35118,
+	"synonyms": ["Bleach: Jump Festa 2008", "Bleach KaraBuri!: Gotei Juusan Yatai Daisakusen!"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100719-PLIlnSxjACLV.jpg",
+	"popularity": 3450,
+	"color": "#f1ae1a",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100719-PLIlnSxjACLV.jpg",
+	"description": "An animated adaptation of several chapters of Colourful Bleach.",
+	"status": "Completed",
+	"releaseDate": 2008,
+	"startDate": {
+		"year": 2008,
+		"month": 9,
+		"day": 21
+	},
+	"endDate": {
+		"year": 2008,
+		"month": 9,
+		"day": 21
+	},
+	"totalEpisodes": 1,
+	"currentEpisode": 1,
+	"rating": 61,
+	"duration": 12,
+	"genres": ["Comedy"],
+	"season": "FALL",
+	"studios": ["Studio Pierrot"],
+	"subOrDub": "sub",
+	"type": "OVA",
+	"recommendations": [],
+	"characters": [],
+	"relations": [{
+		"id": 269,
+		"relationType": "PARENT",
+		"malId": 269,
+		"title": {
+			"romaji": "BLEACH",
+			"english": "Bleach",
+			"native": "BLEACH",
+			"userPreferred": "BLEACH"
+		},
+		"status": "Completed",
+		"episodes": 366,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxkqTIuQgJ6v.png",
+		"color": "#f19335",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/269-08ar2HJOUAuL.jpg",
+		"rating": 77
+	}, {
+		"id": 104300,
+		"relationType": "ADAPTATION",
+		"malId": 105125,
+		"title": {
+			"romaji": "Tsurezure Nichijou Ekotoba Colourful Bleach",
+			"english": "Color Bleach+: The Bleach Official Bootleg",
+			"native": "徒然日常絵詞 カラフル ブリーチ",
+			"userPreferred": "Tsurezure Nichijou Ekotoba Colourful Bleach"
+		},
+		"status": "Completed",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/104300-7knvJOkRwakV.jpg",
+		"color": "#f1a128",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/104300-7knvJOkRwakV.jpg",
+		"rating": 72
+	}],
+	"mappings": {
+		"mal": 35118,
+		"kitsu": 13264,
+		"anilist": 100719,
+		"anisearch": 13529,
+		"livechart": 8308,
+		"notify.moe": "oCRn2Fmmg",
+		"anime-planet": "bleach-jump-festa-2008-special"
+	},
+	"episodes": [{
+		"id": "bleach-colorful-gotei-juusan-yatai-daisakusen-episode-1",
+		"title": "Full",
+		"description": null,
+		"number": 1,
+		"image": null,
+		"airDate": null
+	}
+	]
+}
