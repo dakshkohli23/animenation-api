@@ -136,6 +136,70 @@
       "rating": 73,
       "type": "movie",
 	  "animeurl": "bleach-the-movie-hell-verse"
+},
+{
+      "id": 834,
+      "malId": 834,
+      "title": {
+        "romaji": "BLEACH: The Sealed Sword Frenzy",
+		"english": "BLEACH: The Sealed Sword Frenzy",
+		"native": "BLEACH: The Sealed Sword Frenzy"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx834-Wm0msxVlJnkT.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx834-Wm0msxVlJnkT.png",
+      "rating": 64,
+      "type": "SPECIAL",
+	  "animeurl": "bleach-the-sealed-sword-frenzy"
+},
+{
+      "id": 154037,
+      "malId": 762,
+      "title": {
+        "romaji": "BLEACH: memories in the rain",
+		"english": "BLEACH: memories in the rain",
+		"native": "BLEACH: memories in the rain"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154037-7VSs4aDUL2ZG.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154037-7VSs4aDUL2ZG.jpg",
+      "rating": 67,
+      "type": "SPECIAL",
+	  "animeurl": "bleach-memories-in-the-rain"
+},
+{
+      "id": 38810,
+      "malId": 38810,
+      "title": {
+        "romaji": "Bleach: Gotei 13 Omake",
+		"english": "Bleach: 13 Court Guard Squads Omake",
+		"native": "Bleach: Gotei 13 Omake"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://cdn.myanimelist.net/images/anime/1260/97246.jpg",
+      "cover": "https://cdn.myanimelist.net/images/anime/1260/97246.jpg",
+      "rating": 67,
+      "type": "SPECIAL",
+	  "animeurl": "bleach-13-court-guard-squads-omake"
+},
+{
+      "id": 100719,
+      "malId": 35118,
+      "title": {
+        "romaji": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
+		"english": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
+		"native": "BLEACH カラブリ！護廷十三屋台大作戦！"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100719-PLIlnSxjACLV.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100719-PLIlnSxjACLV.jpg",
+      "rating": 61,
+      "type": "OVA",
+	  "animeurl": "bleach-colorful-gotei-juusan-yatai-daisakusen"
 }],
 	"characters": [{
 		"id": 26366,
