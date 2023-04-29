@@ -1524,6 +1524,18 @@
             "genres": ["Action","Comedy", "Slice of Life","Supernatural"]
         },
         {
+            "animeId": "suzume",
+            "episodeId": "suzume-episode-1",
+            "name": "Suzume",
+            "jname": "Suzume no Tojimari",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-sG9FZa5JxlmE.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/suzume",
+            "genres": ["Adventure", "Fantasy", "Mystery", "Supernatural"]
+        },
+        {
             "animeId": "the-powerpuff-girls",
             "episodeId": "the-powerpuff-girls-episode-1",
             "name": "The Powerpuff Girls",
