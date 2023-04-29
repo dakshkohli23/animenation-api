@@ -1,4 +1,31 @@
-[{
+[
+{
+		"id": "142770",
+		"malId": 50594,
+		"title": {
+			"romaji": "Suzume no Tojimari",
+		"english": "Suzume",
+		"native": "すずめの戸締まり"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-sG9FZa5JxlmE.jpg",
+		"trailer": {
+		"id": "9UuwS0mTBNM",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/9UuwS0mTBNM/hqdefault.jpg"
+	},
+		"description": "The story follows Suzume, a 17-year-old girl from a quiet Kyushu town who meets a young man looking for a door. They find a door within ruins in the mountain, and Suzume opens it. Soon, more doors begin to open around Japan, bringing disasters from the other side. The film depicts Suzume's liberation and growth, as she closes the doors that are causing disaster.<br>\n<br>\n(Source: Anime News Network)",
+	"status": "Completed",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142770-YgESt2HJXlNg.jpg",
+		"rating": 84,
+		"releaseDate": 2022,
+		"genres": ["Adventure", "Fantasy", "Mystery", "Supernatural"],
+		"totalEpisodes": 1,
+		"duration": 121,
+		"type": "MOVIE",
+		"animeUrl": "/anime/suzume",
+		"watchUrl": "/watch/suzume-episode-1"
+	},
+{
 		"id": "150672",
 		"malId": 52034,
 		"title": {
