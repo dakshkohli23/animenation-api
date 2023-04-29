@@ -6,7 +6,7 @@
 		"native": "【推しの子】"
 	},
 	"malId": 52034,
-	"synonyms": ["Favorite Girl", "My Idol's Child", "[Mein*Star]", "เกิดใหม่เป็นลูกโอชิ", "Anak Idola", "【OSHI NO KO】", "【推しの子】Mother and Children", "[Oshi no Ko] Mother and Children", "【MOJA GWIAZDA】", "我推的孩子"],
+	"synonyms": ["Favorite Girl", "My Idol's Child", "[Mein*Star]", "เกิดใหม่เป็นลูกโอชิ", "Anak Idola", "【OSHI NO KO】", "【推しの子】Mother and Children", "[Oshi no Ko] Mother and Children", "【MOJA GWIAZDA】", "我推的孩子", "【최애의 아이】"],
 	"isLicensed": true,
 	"isAdult": false,
 	"countryOfOrigin": "JP",
@@ -16,10 +16,10 @@
 		"thumbnail": "https://i.ytimg.com/vi/gKWEUJ4r5do/hqdefault.jpg"
 	},
 	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
-	"popularity": 50137,
+	"popularity": 94211,
 	"color": "#ff35c9",
 	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150672-ISwoA0eS722H.jpg",
-	"description": "When a pregnant young starlet appears in Gorou Amemiya’s countryside medical clinic, the doctor takes it upon himself to safely (and secretly) deliver Ai Hoshino’s child so she can make a scandal-free return to the stage. But no good deed goes unpunished, and on the eve of her delivery, he finds himself slain at the hands of Ai’s deluded stalker — and subsequently reborn as Ai’s child, Aquamarine Hoshino! The glitz and glamor of showbiz hide the dark underbelly of the entertainment industry, threatening to dull the shine of his favorite star. Can he help his new mother rise to the top of the charts? And what will he do when unthinkable disaster strikes? <br>\n<br>\n(Source: HIDIVE)\n<br><br>\n\n<i>Note: Episode 1<b>【推しの子】Mother and Children</b> was pre-screened in advance in Japanese theaters on March 17, 2023. The regular TV broadcast begins on April 12, 2023. The first episode has an extended runtime of ~82 minutes.</i>",
+	"description": "When a pregnant young starlet appears in Gorou Amemiya’s countryside medical clinic, the doctor takes it upon himself to safely (and secretly) deliver Ai Hoshino’s child so she can make a scandal-free return to the stage. But no good deed goes unpunished, and on the eve of her delivery, he finds himself slain at the hands of Ai’s deluded stalker — and subsequently reborn as Ai’s child, Aquamarine Hoshino! The glitz and glamor of showbiz hide the dark underbelly of the entertainment industry, threatening to dull the shine of his favorite star. Can he help his new mother rise to the top of the charts? And what will he do when unthinkable disaster strikes? <br>\n<br>\n(Source: HIDIVE)\n<br><br>\n\n<i>Note: Episode 1<b>【推しの子】Mother and Children</b> was pre-screened in advance in Japanese theaters on March 17, 2023. The regular TV broadcast began on April 12, 2023. The first episode has an extended runtime of ~82 minutes.</i>",
 	"status": "Ongoing",
 	"releaseDate": 2023,
 	"startDate": {
@@ -33,14 +33,14 @@
 		"day": 21
 	},
 	"nextAiringEpisode": {
-		"airingTime": 1681912800,
-		"timeUntilAiring": 462087,
-		"episode": 2
+		"airingTime": 1683122400,
+		"timeUntilAiring": 380258,
+		"episode": 4
 	},
 	"totalEpisodes": 11,
-	"currentEpisode": 2,
-	"rating": 90,
-	"duration": null,
+	"currentEpisode": 3,
+	"rating": 89,
+	"duration": 24,
 	"genres": ["Drama", "Mystery", "Psychological", "Supernatural"],
 	"season": "SPRING",
 	"studios": ["Doga Kobo"],
@@ -82,16 +82,16 @@
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b183885-HOmw8CqcJdv3.jpg",
 		"voiceActors": [{
-			"id": 128426,
+			"id": 122874,
 			"language": "Japanese",
 			"name": {
-				"first": "Takeo",
-				"last": "Ootsuka",
-				"full": "Takeo Ootsuka",
-				"native": "大塚剛央",
-				"userPreferred": "Takeo Ootsuka"
+				"first": "Kento",
+				"last": "Itou",
+				"full": "Kento Itou",
+				"native": "伊東健人",
+				"userPreferred": "Kento Itou"
 			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128426-hJ2OOYDVy8OJ.jpg"
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n122874-Ay8XWEJ7ljUf.jpg"
 		}, {
 			"id": 106784,
 			"language": "Japanese",
@@ -104,16 +104,16 @@
 			},
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106784-reDoHBLWxi7J.jpg"
 		}, {
-			"id": 122874,
+			"id": 128426,
 			"language": "Japanese",
 			"name": {
-				"first": "Kento",
-				"last": "Itou",
-				"full": "Kento Itou",
-				"native": "伊東健人",
-				"userPreferred": "Kento Itou"
+				"first": "Takeo",
+				"last": "Ootsuka",
+				"full": "Takeo Ootsuka",
+				"native": "大塚剛央",
+				"userPreferred": "Takeo Ootsuka"
 			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n122874-Ay8XWEJ7ljUf.jpg"
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128426-hJ2OOYDVy8OJ.jpg"
 		}]
 	}, {
 		"id": 183884,
@@ -127,17 +127,6 @@
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b183884-iyo3BmTuhJ0l.jpg",
 		"voiceActors": [{
-			"id": 293910,
-			"language": "Japanese",
-			"name": {
-				"first": "Yurie",
-				"last": "Igoma",
-				"full": "Yurie Igoma",
-				"native": "伊駒ゆりえ",
-				"userPreferred": "Yurie Igoma"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n293910-UBwHydgOrXO6.png"
-		}, {
 			"id": 122320,
 			"language": "Japanese",
 			"name": {
@@ -148,6 +137,17 @@
 				"userPreferred": "Tomoyo Takayanagi"
 			},
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n122320-tV8CERbhYcNV.png"
+		}, {
+			"id": 293910,
+			"language": "Japanese",
+			"name": {
+				"first": "Yurie",
+				"last": "Igoma",
+				"full": "Yurie Igoma",
+				"native": "伊駒ゆりえ",
+				"userPreferred": "Yurie Igoma"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n293910-UBwHydgOrXO6.png"
 		}]
 	}, {
 		"id": 203384,
@@ -219,6 +219,52 @@
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103639-HsiG5W51qgzi.png"
 		}]
 	}, {
+		"id": 245518,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Masaya",
+			"last": "Kaburagi",
+			"full": "Masaya Kaburagi",
+			"native": "鏑木勝也",
+			"userPreferred": "Masaya Kaburagi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b245518-9OvLmdKE5teR.jpg",
+		"voiceActors": [{
+			"id": 95563,
+			"language": "Japanese",
+			"name": {
+				"first": "Masaki",
+				"last": "Terasoma",
+				"full": "Masaki Terasoma",
+				"native": "てらそままさき",
+				"userPreferred": "Masaki Terasoma"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95563-tMN0xtsy1qyh.png"
+		}]
+	}, {
+		"id": 302910,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Taishi no Haha",
+			"last": null,
+			"full": "Taishi no Haha",
+			"native": "泰志の母",
+			"userPreferred": "Taishi no Haha"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b302910-t4m7YfozWfmv.jpg",
+		"voiceActors": [{
+			"id": 95294,
+			"language": "Japanese",
+			"name": {
+				"first": "Kimiko",
+				"last": "Saitou",
+				"full": "Kimiko Saitou",
+				"native": "斉藤貴美子",
+				"userPreferred": "Kimiko Saitou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95294-AN7KQALYLR9w.jpg"
+		}]
+	}, {
 		"id": 172759,
 		"role": "SUPPORTING",
 		"name": {
@@ -240,6 +286,29 @@
 				"userPreferred": "Rie Takahashi"
 			},
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-0CYDTh2mwy62.png"
+		}]
+	}, {
+		"id": 302911,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Lala",
+			"last": null,
+			"full": "Lala",
+			"native": "らら",
+			"userPreferred": "Lala"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b302911-Zb2uFApm3VY5.jpg",
+		"voiceActors": [{
+			"id": 131242,
+			"language": "Japanese",
+			"name": {
+				"first": "Ayano",
+				"last": "Shibuya",
+				"full": "Ayano Shibuya",
+				"native": "渋谷彩乃",
+				"userPreferred": "Ayano Shibuya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131242-5GS0lQor8BXe.png"
 		}]
 	}, {
 		"id": 223870,
@@ -288,6 +357,29 @@
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107041-ZqPloXZhcuQw.jpg"
 		}]
 	}, {
+		"id": 302923,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "",
+			"last": "Kanzaki",
+			"full": "Kanzaki",
+			"native": "神崎",
+			"userPreferred": "Kanzaki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b302923-okLZlTZmCHHc.jpg",
+		"voiceActors": [{
+			"id": 302912,
+			"language": "Japanese",
+			"name": {
+				"first": "Masahide",
+				"last": "Yamaguchi",
+				"full": "Masahide Yamaguchi",
+				"native": "山口正秀",
+				"userPreferred": "Masahide Yamaguchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n302912-L5ESBBTJ0P5n.jpg"
+		}]
+	}, {
 		"id": 245519,
 		"role": "SUPPORTING",
 		"name": {
@@ -311,17 +403,155 @@
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95801-Jno6Y2OawOII.png"
 		}]
 	}, {
-		"id": 245518,
+		"id": 245515,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Melt",
+			"last": "Narushima",
+			"full": "Melt Narushima",
+			"native": "鳴嶋メルト",
+			"userPreferred": "Melt Narushima"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b245515-WmPsirOfHLZq.jpg",
+		"voiceActors": [{
+			"id": 128082,
+			"language": "Japanese",
+			"name": {
+				"first": "Seiji",
+				"last": "Maeda",
+				"full": "Seiji Maeda",
+				"native": "前田誠二",
+				"userPreferred": "Seiji Maeda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128082-tIWD9f3t8lPX.jpg"
+		}]
+	}, {
+		"id": 303885,
 		"role": "BACKGROUND",
 		"name": {
-			"first": "Masaya",
-			"last": "Kaburagi",
-			"full": "Masaya Kaburagi",
-			"native": "鏑木勝也",
-			"userPreferred": "Masaya Kaburagi"
+			"first": "Enshutsu Joshu",
+			"last": null,
+			"full": "Enshutsu Joshu",
+			"native": "演出助手",
+			"userPreferred": "Enshutsu Joshu"
 		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b245518-b4r1tsri6n7G.jpg",
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b303885-RpNK6SuplcBU.jpg",
+		"voiceActors": [{
+			"id": 175559,
+			"language": "Japanese",
+			"name": {
+				"first": "Yui",
+				"last": "Hashimoto",
+				"full": "Yui Hashimoto",
+				"native": "橋本結",
+				"userPreferred": "Yui Hashimoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175559-0jo8fj9Ok2as.png"
+		}]
+	}, {
+		"id": 303887,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Shinjin Haiyuu B",
+			"last": null,
+			"full": "Shinjin Haiyuu B",
+			"native": "新人俳優",
+			"userPreferred": "Shinjin Haiyuu B"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+		"voiceActors": [{
+			"id": 127044,
+			"language": "Japanese",
+			"name": {
+				"first": "Kouji",
+				"last": "Okino",
+				"full": "Kouji Okino",
+				"native": "沖野晃司",
+				"userPreferred": "Kouji Okino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127044-YGqvBYZ6ZfG2.jpg"
+		}]
+	}, {
+		"id": 303884,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Drama Kantoku",
+			"last": null,
+			"full": "Drama Kantoku",
+			"native": "ドラマ監督",
+			"userPreferred": "Drama Kantoku"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b303884-aJMWtTfE7Ur7.jpg",
+		"voiceActors": [{
+			"id": 121241,
+			"language": "Japanese",
+			"name": {
+				"first": "Daichi",
+				"last": "Hayashi",
+				"full": "Daichi Hayashi",
+				"native": "林大地",
+				"userPreferred": "Daichi Hayashi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/121241-oemvViEP20Gu.jpg"
+		}]
+	}, {
+		"id": 303886,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Shinjin Haiyuu A",
+			"last": null,
+			"full": "Shinjin Haiyuu A",
+			"native": "新人俳優",
+			"userPreferred": "Shinjin Haiyuu A"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+		"voiceActors": [{
+			"id": 292075,
+			"language": "Japanese",
+			"name": {
+				"first": "Genta",
+				"last": "Nakamura",
+				"full": "Genta Nakamura",
+				"native": "中村源太",
+				"userPreferred": "Genta Nakamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n292075-zWd29kv7EIIJ.jpg"
+		}]
+	}, {
+		"id": 237577,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Yoriko",
+			"last": "Kichijouji",
+			"full": "Yoriko Kichijouji",
+			"native": "吉祥寺頼子",
+			"userPreferred": "Yoriko Kichijouji"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b237577-suHCadWWmCT0.png",
 		"voiceActors": []
+	}, {
+		"id": 302913,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Onna Seito",
+			"last": null,
+			"full": "Onna Seito",
+			"native": "女生徒",
+			"userPreferred": "Onna Seito"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b302913-VsEUzvFVFF8A.jpg",
+		"voiceActors": [{
+			"id": 142982,
+			"language": "Japanese",
+			"name": {
+				"first": "Natsu",
+				"last": "Yorita",
+				"full": "Natsu Yorita",
+				"native": "依田菜津",
+				"userPreferred": "Natsu Yorita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142982-Sji7xpRDmCZp.png"
+		}]
 	}],
 	"relations": [{
 		"id": 117195,
@@ -340,6 +570,23 @@
 		"type": "MANGA",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/117195-VVYq1EEOwR0K.jpg",
 		"rating": 84
+	}, {
+		"id": 164117,
+		"relationType": "CHARACTER",
+		"malId": 55016,
+		"title": {
+			"romaji": "Idol",
+			"english": "Idol",
+			"native": "アイドル",
+			"userPreferred": "Idol"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164117-PW0VR0S1nsba.png",
+		"color": "#e450a1",
+		"type": "MUSIC",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/164117-Ge3XGF6gel7T.jpg",
+		"rating": 89
 	}],
 	"mappings": {
 		"mal": 52034,
@@ -359,12 +606,19 @@
 		"number": 1,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/9207267/screencap/64364be959dba.jpg",
 		"airDate": "2023-04-12T00:00:00.000Z"
-	},{
+	}, {
 		"id": "oshi-no-ko-episode-2",
-		"title": "Mother and Children",
-		"description": "Stories are lies meant to entertain, and idols lie to fans eager to believe. This is Ai’s story. It is a lie, but it is also true.",
+		"title": "Third Option",
+		"description": "Ruby wants to be an idol for herself and for the little girl who died from cancer. The real world, however, doesn’t care about big dreams: something Aqua knows all too well.",
 		"number": 2,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9207267/screencap/64364be959dba.jpg",
-		"airDate": "2023-04-12T00:00:00.000Z"
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687591/screencap/643fd067d4e50.jpg",
+		"airDate": "2023-04-19T00:00:00.000Z"
+	}, {
+		"id": "oshi-no-ko-episode-3",
+		"title": "Manga-Based TV Drama",
+		"description": "Aqua agrees to Kana’s request, but not for the reason she wants. There’s a connection between Masaya Kaburagi and Ai, which leads Aqua to the set of a TV drama for answers.",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687592/screencap/6447a883da5c5.jpg",
+		"airDate": "2023-04-26T00:00:00.000Z"
 	}]
 }
