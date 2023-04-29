@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "pokemon-horizons-the-series",
+		"episodeId": "pokemon-horizons-the-series-episode-4",
+		"name": "Pokémon Horizons: The Series",
+		"jname": "Pocket Monsters (2023)",
+		"episodeNum": "4",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
+		"episodeUrl": "../anime/pokemon-horizons-the-series"
+	},
+	{
 		"animeId": "classroom-of-the-elite-season-2",
 		"episodeId": "classroom-of-the-elite-season-2-episode-1",
 		"name": "Classroom of the Elite Season 2",
@@ -66,17 +77,7 @@
 		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
 		"episodeUrl": "../anime/pokemon-ultimate-journeys"
 	},
-	{
-		"animeId": "pokemon-horizons-the-series",
-		"episodeId": "pokemon-horizons-the-series-episode-3",
-		"name": "Pokémon Horizons: The Series",
-		"jname": "Pocket Monsters (2023)",
-		"episodeNum": "3",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
-		"episodeUrl": "../anime/pokemon-horizons-the-series"
-	},
+
 	{
 		"animeId": "bleach-thousand-year-blood-war",
 		"episodeId": "bleach-thousand-year-blood-war-episode-1",
