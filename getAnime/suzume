@@ -944,5 +944,12 @@
 		"notify.moe": "JGBp6SonR",
 		"anime-planet": "suzume"
 	},
-	"episodes": []
+	"episodes": [{
+		"id": "suzume-episode-1",
+		"title": "Full",
+		"description": null,
+		"number": 1,
+		"image": null,
+		"airDate": null
+	}]
 }
