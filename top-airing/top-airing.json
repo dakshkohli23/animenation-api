@@ -20,7 +20,16 @@
         "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
         "episodeUrl": "anime/kimetsu-no-yaiba-katanakaji-no-satohen"
     },
-    
+        {
+        "animeId": "suzume",
+        "episodeId": "suzume-episode-1",
+        "name": "Suzume",
+        "jname": "Suzume no Tojimari",
+        "episodeNum": "1",
+        "subOrDub": "sub",
+        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-sG9FZa5JxlmE.jpg",
+        "episodeUrl": "anime/suzume"
+    },
     {
         "animeId": "pokemon-ultimate-journeys",
         "episodeId": "pokemon-ultimate-journeys-episode-1",
