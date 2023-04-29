@@ -18,9 +18,21 @@
             "anime_info": "oshi-no-ko",
             "movie_id": "150672",
             "alias": "oshi-no-ko",
-            "nextEpText": "",
-            "nextEpLink": "",
+            "nextEpText": "Oshi No Ko Episode 3 >>",
+            "nextEpLink": "/oshi-no-ko-episode-3",
             "prevEpText": "<< Oshi No Ko Episode 1",
             "prevEpLink": "/oshi-no-ko-episode-1"
+        },
+        {
+            "server1": "d35v0xzuhytp",
+            "animeNameWithEP": "Oshi No Ko",
+            "ep_num": "3",
+            "anime_info": "oshi-no-ko",
+            "movie_id": "150672",
+            "alias": "oshi-no-ko",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Oshi No Ko Episode 2",
+            "prevEpLink": "/oshi-no-ko-episode-2"
         }
     ]
