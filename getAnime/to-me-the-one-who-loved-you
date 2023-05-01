@@ -39,9 +39,39 @@
 	"genres": ["Romance", "Sci-Fi"],
 	"season": "FALL",
 	"studios": ["TMS Entertainment"],
-	"subOrDub": "sub",
+	"subOrDub": "dub",
 	"type": "MOVIE",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 139310,
+		"malId": 49834,
+		"title": {
+			"romaji": "Boku ga Aishita Subete no Kimi e",
+			"english": "To Every You I’ve Loved Before",
+			"native": "僕が愛したすべての君へ"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
+		"rating": 71,
+		"type": "MOVIE",
+		"animeurl": "to-every-you-i-ve-loved-before"
+	},{
+		"id": 139311,
+		"malId": 49835,
+		"title": {
+			"romaji": "Kimi wo Aishita Hitori no Boku e",
+			"english": "To Me, The One Who Loved You",
+			"native": "君を愛したひとりの僕へ"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
+		"rating": 71,
+		"type": "MOVIE",
+		"animeurl": "to-me-the-one-who-loved-you"
+	}],
 	"characters": [{
 		"id": 280544,
 		"role": "MAIN",
