@@ -1,0 +1,128 @@
+{
+	"id": "139311",
+	"title": {
+		"romaji": "Kimi wo Aishita Hitori no Boku e",
+		"english": "To Me, The One Who Loved You",
+		"native": "君を愛したひとりの僕へ"
+	},
+	"malId": 49835,
+	"synonyms": ["Nhắn gửi một tôi, người đã yêu em", "KimiAi"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "swt-hjVak7o",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/swt-hjVak7o/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
+	"popularity": 18785,
+	"color": "#ff93c9",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
+	"description": "Koyomi Hidaka and Shiori Sato meet at his father’s research center and begin to fall in love, but so do their parents, who eventually marry. To avoid becoming stepsiblings, they decide to run away to a parallel universe. Traveling between dimensions is common in their world, but not without repercussions. Does a universe exist for the young couple, and what will it cost them to find it?<br>\n<br>\n(Source: Crunchyroll)",
+	"status": "Completed",
+	"releaseDate": 2022,
+	"startDate": {
+		"year": 2022,
+		"month": 10,
+		"day": 7
+	},
+	"endDate": {
+		"year": 2022,
+		"month": 10,
+		"day": 7
+	},
+	"totalEpisodes": 1,
+	"currentEpisode": 1,
+	"rating": 71,
+	"duration": 98,
+	"genres": ["Romance", "Sci-Fi"],
+	"season": "FALL",
+	"studios": ["TMS Entertainment"],
+	"subOrDub": "sub",
+	"type": "MOVIE",
+	"recommendations": [],
+	"characters": [{
+		"id": 280544,
+		"role": "MAIN",
+		"name": {
+			"first": "Koyomi",
+			"last": "Takasaki",
+			"full": "Koyomi Takasaki",
+			"native": "高崎暦",
+			"userPreferred": "Koyomi Takasaki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b280544-Yp4aZXmJTXro.jpg",
+		"voiceActors": [{
+			"id": 280545,
+			"language": "Japanese",
+			"name": {
+				"first": "Hio",
+				"last": "Miyazawa",
+				"full": "Hio Miyazawa",
+				"native": "宮沢氷魚",
+				"userPreferred": "Hio Miyazawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n280545-iTN5V0IAOSt9.jpg"
+		}]
+	}, {
+		"id": 280572,
+		"role": "MAIN",
+		"name": {
+			"first": "Shiori",
+			"last": "Satou",
+			"full": "Shiori Satou",
+			"native": "佐藤栞",
+			"userPreferred": "Shiori Satou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b280572-FZCUvd4X063l.jpg",
+		"voiceActors": [{
+			"id": 214098,
+			"language": "Japanese",
+			"name": {
+				"first": "Aju",
+				"last": "Makita",
+				"full": "Aju Makita",
+				"native": "蒔田彩珠",
+				"userPreferred": "Aju Makita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n214098-IkTdUSfRDtxB.png"
+		}]
+	}],
+	"relations": [{
+		"id": 139310,
+		"relationType": "OTHER",
+		"malId": 49834,
+		"title": {
+			"romaji": "Boku ga Aishita Subete no Kimi e",
+			"english": "To Every You I’ve Loved Before",
+			"native": "僕が愛したすべての君へ",
+			"userPreferred": "Boku ga Aishita Subete no Kimi e"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
+		"color": "#86bbe4",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
+		"rating": 72
+	}],
+	"mappings": {
+		"mal": 49835,
+		"anidb": 16707,
+		"kitsu": 45219,
+		"anilist": 139311,
+		"anisearch": 16598,
+		"livechart": 10792,
+		"notify.moe": "zV_WnCI7g",
+		"anime-planet": "kimi-wo-ai-shita-hitori-no-boku-e"
+	},
+	"episodes": [{
+		"id": "to-me-the-one-who-loved-you-episode-1",
+		"title": null,
+		"description": null,
+		"number": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
+		"airDate": null
+	}]
+}
