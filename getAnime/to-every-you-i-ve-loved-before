@@ -1,0 +1,145 @@
+{
+	"id": "139310",
+	"title": {
+		"romaji": "Boku ga Aishita Subete no Kimi e",
+		"english": "To Every You I’ve Loved Before",
+		"native": "僕が愛したすべての君へ"
+	},
+	"malId": 49834,
+	"synonyms": ["Nhắn gửi tất cả các em, những người tôi đã yêu", "BokuAi"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "tQD-PlP9_gY",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/tQD-PlP9_gY/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
+	"popularity": 19991,
+	"color": "#86bbe4",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
+	"description": "While struggling to make friends after his parents’ divorce, Koyomi Takasaki meets Kazune Takigawa, but apparently, they already have. Kazune reveals that she’s from World Line 85, an alternate universe in which she and Koyomi are lovers. But in a reality where moving between dimensions is natural, could Koyomi be the one from another world?<br>\n<br>\n(Source: Crunchyroll)",
+	"status": "Completed",
+	"releaseDate": 2022,
+	"startDate": {
+		"year": 2022,
+		"month": 10,
+		"day": 7
+	},
+	"endDate": {
+		"year": 2022,
+		"month": 10,
+		"day": 7
+	},
+	"totalEpisodes": 1,
+	"currentEpisode": 1,
+	"rating": 71,
+	"duration": 102,
+	"genres": ["Romance", "Sci-Fi"],
+	"season": "FALL",
+	"studios": ["BAKKEN RECORD"],
+	"subOrDub": "sub",
+	"type": "MOVIE",
+	"recommendations": [],
+	"characters": [{
+		"id": 280543,
+		"role": "MAIN",
+		"name": {
+			"first": "Kazune",
+			"last": "Takigawa",
+			"full": "Kazune Takigawa",
+			"native": "瀧川和音",
+			"userPreferred": "Kazune Takigawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b280543-9GSCp7eb5ZuV.jpg",
+		"voiceActors": [{
+			"id": 111299,
+			"language": "Japanese",
+			"name": {
+				"first": "Ai",
+				"last": "Hashimoto",
+				"full": "Ai Hashimoto",
+				"native": "橋本愛",
+				"userPreferred": "Ai Hashimoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111299-PtmMx51efkFw.png"
+		}]
+	}, {
+		"id": 280544,
+		"role": "MAIN",
+		"name": {
+			"first": "Koyomi",
+			"last": "Takasaki",
+			"full": "Koyomi Takasaki",
+			"native": "高崎暦",
+			"userPreferred": "Koyomi Takasaki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b280544-Yp4aZXmJTXro.jpg",
+		"voiceActors": [{
+			"id": 280545,
+			"language": "Japanese",
+			"name": {
+				"first": "Hio",
+				"last": "Miyazawa",
+				"full": "Hio Miyazawa",
+				"native": "宮沢氷魚",
+				"userPreferred": "Hio Miyazawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n280545-iTN5V0IAOSt9.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 139311,
+		"relationType": "OTHER",
+		"malId": 49835,
+		"title": {
+			"romaji": "Kimi wo Aishita Hitori no Boku e",
+			"english": "To Me, The One Who Loved You",
+			"native": "君を愛したひとりの僕へ",
+			"userPreferred": "Kimi wo Aishita Hitori no Boku e"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
+		"color": "#ff93c9",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
+		"rating": 72
+	}, {
+		"id": 155634,
+		"relationType": "OTHER",
+		"malId": 53355,
+		"title": {
+			"romaji": "Kumo wo Kou",
+			"english": null,
+			"native": "雲を恋う",
+			"userPreferred": "Kumo wo Kou"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155634-9gxgC9J53hzp.jpg",
+		"color": null,
+		"type": "MUSIC",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155634-6lwPmGZZy7LV.jpg",
+		"rating": 65
+	}],
+	"mappings": {
+		"mal": 49834,
+		"anidb": 16706,
+		"kitsu": 45220,
+		"anilist": 139310,
+		"anisearch": 16599,
+		"livechart": 10791,
+		"notify.moe": "IF6CMCS7R",
+		"anime-planet": "boku-ga-ai-shita-subete-no-kimi-e"
+	},
+	"episodes": [{
+		"id": "to-every-you-i-ve-loved-before-episode-1",
+		"title": null,
+		"description": null,
+		"number": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
+		"airDate": null
+	}]
+}
