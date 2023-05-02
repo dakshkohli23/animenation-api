@@ -38,7 +38,7 @@
 		"episode": 4
 	},
 	"totalEpisodes": 11,
-	"currentEpisode": 4,
+	"currentEpisode": 3,
 	"rating": 89,
 	"duration": 24,
 	"genres": ["Drama", "Mystery", "Psychological", "Supernatural"],
@@ -620,12 +620,5 @@
 		"number": 3,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687592/screencap/6447a883da5c5.jpg",
 		"airDate": "2023-04-26T00:00:00.000Z"
-	}, {
-		"id": "oshi-no-ko-episode-4",
-		"title": "",
-		"description": "",
-		"number": 4,
-		"image": "",
-		"airDate": ""
 	}]
 }
