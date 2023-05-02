@@ -7,23 +7,5 @@
         "subOrDub": "dub",
         "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
         "episodeUrl": "watch/jujutsu-kaisen-tv-episode-1"
-    },
-    {
-        "animeId": "one-piece",
-        "episodeId": "one-piece-episode-1039",
-        "name": "One Piece",
-        "episodeNum": "891",
-        "subOrDub": "dub",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg",
-        "episodeUrl": "watch/one-piece-episode-1039"
-    },
-    {
-        "animeId": "naruto",
-        "episodeId": "naruto-episode-1",
-        "name": "Naruto",
-        "episodeNum": "220",
-        "subOrDub": "dual",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
-        "episodeUrl": "watch/naruto-episode-1"
     }
 ]
