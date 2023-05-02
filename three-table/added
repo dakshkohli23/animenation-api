@@ -1,4 +1,26 @@
 [
+	{
+		"animeId": "to-me-the-one-who-loved-you",
+		"episodeId": "to-me-the-one-who-loved-you-episode-1",
+		"name": "To Me, The One Who Loved You",
+		"jname": "Kimi wo Aishita Hitori no Boku e",
+		"episodeNum": "1",
+		"subOrDub": "sub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
+		"episodeUrl": "../anime/to-me-the-one-who-loved-you"
+	},
+	{
+		"animeId": "to-every-you-i-ve-loved-before",
+		"episodeId": "to-every-you-i-ve-loved-before-episode-1",
+		"name": "To Every You I’ve Loved Before",
+		"jname": "Boku ga Aishita Subete no Kimi e",
+		"episodeNum": "1",
+		"subOrDub": "sub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
+		"episodeUrl": "../anime/to-every-you-i-ve-loved-before"
+	},
     {
         "animeId": "pokemon-horizons-the-series",
         "episodeId": "pokemon-horizons-the-series-episode-1",
