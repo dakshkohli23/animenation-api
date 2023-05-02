@@ -568,7 +568,7 @@
             "episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-1",
             "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
             "jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-            "episodeNum": "4",
+            "episodeNum": "2",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
             "type": "tv",
@@ -1168,7 +1168,7 @@
             "episodeId": "pokemon-ultimate-journeys-episode-1",
             "name": "Pokemon Ultimate Journeys: The Series",
             "jname": "Pocket Monsters (2019)",
-            "episodeNum": "41",
+            "episodeNum": "39",
             "subOrDub": "dub",
             "imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
             "type": "tv",
@@ -1558,6 +1558,30 @@
             "type": "special",
             "episodeUrl": "anime/the-powerpuff-girls-special",
             "genres": ["Action", "Adventure", "Comedy", "Kids", "Superhero"]
+        },
+        {
+            "animeId": "to-every-you-i-ve-loved-before",
+            "episodeId": "to-every-you-i-ve-loved-before-episode-1",
+            "name": "To Every You I’ve Loved Before",
+            "jname": "Boku ga Aishita Subete no Kimi e",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/to-every-you-i-ve-loved-before",
+            "genres": ["Romance", "Sci-Fi"]
+        },
+        {
+            "animeId": "to-me-the-one-who-loved-you",
+            "episodeId": "to-me-the-one-who-loved-you-episode-1",
+            "name": "To Me, The One Who Loved You",
+            "jname": "Kimi wo Aishita Hitori no Boku e",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/to-me-the-one-who-loved-you",
+            "genres": ["Romance", "Sci-Fi"]
         },
         {
             "animeId": "tokyo-revengers",
