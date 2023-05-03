@@ -1500,6 +1500,18 @@
             "genres": ["Action", "Adventure"]
         },
         {
+            "animeId": "spirited-away-hindi",
+            "episodeId": "spirited-away-hindi-episode-1",
+            "name": "Spirited Away [Hindi],
+            "jname": "Sen to Chihiro no Kamikakushi [Hindi],
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx199-ehguwq1mPvtN.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/spirited-away-hindi",
+            "genres": ["Adventure", "Drama", "Fantasy", "Romance", "Supernatural"]
+        },
+        {
             "animeId": "spy-x-family",
             "episodeId": "spy-x-family-episode-1",
             "name": "SPY x FAMILY",
