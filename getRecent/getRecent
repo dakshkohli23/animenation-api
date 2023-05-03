@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "spirited-away-hindi",
+		"episodeId": "spirited-away-hindi-episode-1",
+		"name": "Spirited Away [Hindi]",
+		"jname": "Sen to Chihiro no Kamikakushi [Hindi]",
+		"episodeNum": "1",
+		"subOrDub": "dub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx199-ehguwq1mPvtN.jpg",
+		"episodeUrl": "../anime/spirited-away-hindi"
+	},
+	{
 		"animeId": "to-me-the-one-who-loved-you",
 		"episodeId": "to-me-the-one-who-loved-you-episode-1",
 		"name": "To Me, The One Who Loved You",
