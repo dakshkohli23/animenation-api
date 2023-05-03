@@ -1,8 +1,8 @@
 {
 	"id": "199",
 	"title": {
-		"romaji": "Sen to Chihiro no Kamikakushi",
-		"english": "Spirited Away",
+		"romaji": "Sen to Chihiro no Kamikakushi [Hindi]",
+		"english": "Spirited Away [Hindi]",
 		"native": "千と千尋の神隠し"
 	},
 	"malId": 199,
@@ -39,7 +39,7 @@
 	"genres": ["Adventure", "Drama", "Fantasy", "Romance", "Supernatural"],
 	"season": "SUMMER",
 	"studios": ["Studio Ghibli"],
-	"subOrDub": "sub",
+	"subOrDub": "dub",
 	"type": "MOVIE",
 	"recommendations": [],
 	"characters": [{
