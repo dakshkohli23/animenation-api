@@ -54,7 +54,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120120-mBmQUtMloszF.jpg",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120120-UDYgoHA69peT.jpg",
 		"rating": 80,
-		"type": "TV"
+		"type": "TV",
+		"animeurl": "tokyo-revengers"
 	},
 	{
 		"id": 142853,
@@ -69,7 +70,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142853-nxEZDE9oDRLG.png",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142853-nxEZDE9oDRLG.png",
 		"rating": 13,
-		"type": "TV"
+		"type": "TV",
+		"animeurl": "tokyo-revengers-season-2"
 	}],
 	"characters": [{
 		"id": 145342,
