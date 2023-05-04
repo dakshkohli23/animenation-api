@@ -1,0 +1,1186 @@
+{
+	"id": "141391",
+	"title": {
+		"romaji": "Yofukashi no Uta",
+		"english": "Call of the Night",
+		"native": "よふかしのうた"
+	},
+	"malId": 50346,
+	"synonyms": ["Song of the Night Walkers", "Night Owl Song", "เพลงรักมนุษย์ค้างคาว", "نداء الليل", "Zew Nocy", "Il richiamo della notte", "Поклик ночі", "Песнь ночных сов"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "ukO-ZdWS3j8",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/ukO-ZdWS3j8/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141391-rEJ1hm9i2PFa.jpg",
+	"popularity": 123144,
+	"color": "#a15df1",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141391-JErChZ8G3b49.jpg",
+	"description": "Wracked by insomnia and wanderlust, Kou Yamori is driven onto the moonlit streets every night in an aimless search for something he can’t seem to name. His nightly ritual is marked by purposeless introspection — until he meets Nazuna, who might just be a vampire! Kou’s new companion could offer him dark gifts and a vampire’s immortality. But there are conditions that must be met before Kou can sink his teeth into vampirism, and he’ll have to discover just how far he’s willing to go to satisfy his desires before he can heed the Call of the Night!\n<br><br>\n(Source: Sentai Filmworks)",
+	"status": "Completed",
+	"releaseDate": 2022,
+	"startDate": {
+		"year": 2022,
+		"month": 7,
+		"day": 8
+	},
+	"endDate": {
+		"year": 2022,
+		"month": 9,
+		"day": 30
+	},
+	"totalEpisodes": 13,
+	"currentEpisode": 13,
+	"rating": 79,
+	"duration": 23,
+	"genres": ["Comedy", "Psychological", "Romance", "Slice of Life", "Supernatural"],
+	"season": "SUMMER",
+	"studios": ["LIDENFILMS"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 168774,
+		"role": "MAIN",
+		"name": {
+			"first": "Nazuna",
+			"last": "Nanakusa",
+			"full": "Nazuna Nanakusa",
+			"native": "七草ナズナ",
+			"userPreferred": "Nazuna Nanakusa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b168774-6hDmA3Y3UDdu.png",
+		"voiceActors": [{
+			"id": 116517,
+			"language": "Japanese",
+			"name": {
+				"first": "Sora",
+				"last": "Amamiya",
+				"full": "Sora Amamiya",
+				"native": "雨宮天",
+				"userPreferred": "Sora Amamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-NQh6ewlCwzBN.jpg"
+		}, {
+			"id": 128753,
+			"language": "English",
+			"name": {
+				"first": "Natalie",
+				"last": "Rial",
+				"full": "Natalie Rial",
+				"native": null,
+				"userPreferred": "Natalie Rial"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128753-tOXWaFX65iQV.jpg"
+		}, {
+			"id": 258109,
+			"language": "Italian",
+			"name": {
+				"first": "Chiara",
+				"last": "Leoncini",
+				"full": "Chiara Leoncini",
+				"native": null,
+				"userPreferred": "Chiara Leoncini"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n258109-bdSCt6AVXwp3.jpg"
+		}, {
+			"id": 221274,
+			"language": "French",
+			"name": {
+				"first": "Lila",
+				"last": "Lacombe",
+				"full": "Lila Lacombe",
+				"native": null,
+				"userPreferred": "Lila Lacombe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n221274-BlfBM0fpaokk.jpg"
+		}]
+	}, {
+		"id": 168866,
+		"role": "MAIN",
+		"name": {
+			"first": "Kou",
+			"last": "Yamori",
+			"full": "Kou Yamori",
+			"native": "夜守コウ",
+			"userPreferred": "Kou Yamori"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b168866-W9DW3ZcGCLr3.png",
+		"voiceActors": [{
+			"id": 141083,
+			"language": "Japanese",
+			"name": {
+				"first": "Gen",
+				"last": "Satou",
+				"full": "Gen Satou",
+				"native": "佐藤元",
+				"userPreferred": "Gen Satou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141083-Oc5rYAP6e3D7.jpg"
+		}, {
+			"id": 135568,
+			"language": "English",
+			"name": {
+				"first": "Gabriel",
+				"last": "Regojo",
+				"full": "Gabriel Regojo",
+				"native": null,
+				"userPreferred": "Gabriel Regojo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135568-npTR8VYfkcbz.jpg"
+		}, {
+			"id": 128754,
+			"language": "English",
+			"name": {
+				"first": "Katelyn",
+				"last": "Barr",
+				"full": "Katelyn Barr",
+				"native": null,
+				"userPreferred": "Katelyn Barr"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128754-1IQL0ZCKVMQR.jpg"
+		}, {
+			"id": 159631,
+			"language": "Italian",
+			"name": {
+				"first": "Andrea",
+				"last": "Oldani",
+				"full": "Andrea Oldani",
+				"native": null,
+				"userPreferred": "Andrea Oldani"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n159631-okKoTeucFaB3.jpg"
+		}, {
+			"id": 291738,
+			"language": "French",
+			"name": {
+				"first": "Oscar",
+				"last": "Douieb",
+				"full": "Oscar Douieb",
+				"native": null,
+				"userPreferred": "Oscar Douieb"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n291738-7RnCsRm7Me3w.jpg"
+		}, {
+			"id": 250065,
+			"language": "French",
+			"name": {
+				"first": "Estelle",
+				"last": "Darazi",
+				"full": "Estelle Darazi",
+				"native": null,
+				"userPreferred": "Estelle Darazi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n250065-FdoP6o2MRvts.jpg"
+		}]
+	}, {
+		"id": 269129,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mahiru",
+			"last": "Seki",
+			"full": "Mahiru Seki",
+			"native": "夕真昼",
+			"userPreferred": "Mahiru Seki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b269129-nHJXFp7HDZBg.png",
+		"voiceActors": [{
+			"id": 134577,
+			"language": "Japanese",
+			"name": {
+				"first": "Sara",
+				"last": "Matsumoto",
+				"full": "Sara Matsumoto",
+				"native": "松本沙羅",
+				"userPreferred": "Sara Matsumoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n134577-YqnHKJF008t2.png"
+		}, {
+			"id": 95819,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenshou",
+				"last": "Ono",
+				"full": "Kenshou Ono",
+				"native": "小野賢章",
+				"userPreferred": "Kenshou Ono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95819-O4fosAY0a1Ml.jpg"
+		}, {
+			"id": 127682,
+			"language": "English",
+			"name": {
+				"first": "Daman",
+				"last": "Mills",
+				"full": "Daman Mills",
+				"native": null,
+				"userPreferred": "Daman Mills"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127682-J5tZnKTPfo5D.jpg"
+		}, {
+			"id": 157483,
+			"language": "Italian",
+			"name": {
+				"first": "Alessandro",
+				"last": "Pili",
+				"full": "Alessandro Pili",
+				"native": "Alessandro Pili",
+				"userPreferred": "Alessandro Pili"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157483-gqtxbzaU3gQS.jpg"
+		}]
+	}, {
+		"id": 175660,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Akihito",
+			"last": "Akiyama",
+			"full": "Akihito Akiyama",
+			"native": "秋山昭人",
+			"userPreferred": "Akihito Akiyama"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175660-JnKkxnC7o9fq.png",
+		"voiceActors": [{
+			"id": 95283,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroyuki",
+				"last": "Yoshino",
+				"full": "Hiroyuki Yoshino",
+				"native": "吉野裕行",
+				"userPreferred": "Hiroyuki Yoshino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95283-g76zV4YacFfm.jpg"
+		}, {
+			"id": 273243,
+			"language": "English",
+			"name": {
+				"first": "James",
+				"last": "Marler",
+				"full": "James Marler",
+				"native": null,
+				"userPreferred": "James Marler"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n273243-gvX6KKrwv1HG.jpg"
+		}, {
+			"id": 157484,
+			"language": "Italian",
+			"name": {
+				"first": "Jacopo",
+				"last": "Calatroni",
+				"full": "Jacopo Calatroni",
+				"native": null,
+				"userPreferred": "Jacopo Calatroni"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157484-s0pcFLG0e3Pz.jpg"
+		}]
+	}, {
+		"id": 175663,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Akira",
+			"last": "Asai",
+			"full": "Akira Asai",
+			"native": "朝井アキラ",
+			"userPreferred": "Akira Asai"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175663-xKNTlrJVrleX.png",
+		"voiceActors": [{
+			"id": 116543,
+			"language": "Japanese",
+			"name": {
+				"first": "Yumiri",
+				"last": "Hanamori",
+				"full": "Yumiri Hanamori",
+				"native": "花守ゆみり",
+				"userPreferred": "Yumiri Hanamori"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116543-nDWFpolRN9dM.png"
+		}, {
+			"id": 124165,
+			"language": "English",
+			"name": {
+				"first": "Juliet",
+				"last": "Simmons",
+				"full": "Juliet Simmons",
+				"native": null,
+				"userPreferred": "Juliet Simmons"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/124165-H4pJed6F03Yq.jpg"
+		}, {
+			"id": 286698,
+			"language": "English",
+			"name": {
+				"first": "Jade",
+				"last": "Kelly",
+				"full": "Jade Kelly",
+				"native": null,
+				"userPreferred": "Jade Kelly"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n286698-tCMHACOSP95P.jpg"
+		}, {
+			"id": 225967,
+			"language": "Italian",
+			"name": {
+				"first": "Federica",
+				"last": "Simonelli",
+				"full": "Federica Simonelli",
+				"native": null,
+				"userPreferred": "Federica Simonelli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n225967-cd08Hy1XukIg.jpg"
+		}, {
+			"id": 205350,
+			"language": "French",
+			"name": {
+				"first": "Justine",
+				"last": "Berger",
+				"full": "Justine Berger",
+				"native": null,
+				"userPreferred": "Justine Berger"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 175656,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kiyosumi",
+			"last": "Shirakawa",
+			"full": "Kiyosumi Shirakawa",
+			"native": "白河清澄",
+			"userPreferred": "Kiyosumi Shirakawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175656-R8RvecOSWBXE.png",
+		"voiceActors": [{
+			"id": 102263,
+			"language": "Japanese",
+			"name": {
+				"first": "Youko",
+				"last": "Hikasa",
+				"full": "Youko Hikasa",
+				"native": "日笠陽子",
+				"userPreferred": "Youko Hikasa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
+		}, {
+			"id": 278392,
+			"language": "English",
+			"name": {
+				"first": "Kelly",
+				"last": "Greenshield",
+				"full": "Kelly Greenshield",
+				"native": null,
+				"userPreferred": "Kelly Greenshield"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n278392-ZPYS5D4klmkQ.jpg"
+		}, {
+			"id": 167449,
+			"language": "Italian",
+			"name": {
+				"first": "Valentina",
+				"last": "Pallavicino",
+				"full": "Valentina Pallavicino",
+				"native": null,
+				"userPreferred": "Valentina Pallavicino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n167449-CC9dnkiSxqYi.png"
+		}, {
+			"id": 285896,
+			"language": "French",
+			"name": {
+				"first": "Alexia",
+				"last": "Papineschi",
+				"full": "Alexia Papineschi",
+				"native": null,
+				"userPreferred": "Alexia Papineschi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n285896-ZBMpkYkuS1nR.jpg"
+		}]
+	}, {
+		"id": 175659,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Anko",
+			"last": "Uguisu",
+			"full": "Anko Uguisu",
+			"native": "鶯餡子",
+			"userPreferred": "Anko Uguisu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175659-1W8HJJzAZ1dI.png",
+		"voiceActors": [{
+			"id": 95099,
+			"language": "Japanese",
+			"name": {
+				"first": "Miyuki",
+				"last": "Sawashiro",
+				"full": "Miyuki Sawashiro",
+				"native": "沢城みゆき",
+				"userPreferred": "Miyuki Sawashiro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg"
+		}, {
+			"id": 96048,
+			"language": "English",
+			"name": {
+				"first": "Jessica",
+				"last": "Calvello",
+				"full": "Jessica Calvello",
+				"native": null,
+				"userPreferred": "Jessica Calvello"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96048-jnCHXjbHtDMh.jpg"
+		}, {
+			"id": 109569,
+			"language": "Italian",
+			"name": {
+				"first": "Gea",
+				"last": "Riva",
+				"full": "Gea Riva",
+				"native": null,
+				"userPreferred": "Gea Riva"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109569-T6AuklGMbcKh.png"
+		}]
+	}, {
+		"id": 175658,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Seri",
+			"last": "Kikyou",
+			"full": "Seri Kikyou",
+			"native": "桔梗セリ",
+			"userPreferred": "Seri Kikyou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175658-orkKzYl8kMtW.png",
+		"voiceActors": [{
+			"id": 95890,
+			"language": "Japanese",
+			"name": {
+				"first": "Haruka",
+				"last": "Tomatsu",
+				"full": "Haruka Tomatsu",
+				"native": "戸松遥",
+				"userPreferred": "Haruka Tomatsu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png"
+		}, {
+			"id": 129147,
+			"language": "English",
+			"name": {
+				"first": "Christina",
+				"last": "Kelly",
+				"full": "Christina Kelly",
+				"native": null,
+				"userPreferred": "Christina Kelly"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129147-I19GWVyaMPKe.png"
+		}, {
+			"id": 158950,
+			"language": "Italian",
+			"name": {
+				"first": "Martina",
+				"last": "Tamburello",
+				"full": "Martina Tamburello",
+				"native": null,
+				"userPreferred": "Martina Tamburello"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n158950-IhZBU2Gp4kG8.png"
+		}]
+	}, {
+		"id": 287132,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Arisa",
+			"last": null,
+			"full": "Arisa",
+			"native": "アリサ",
+			"userPreferred": "Arisa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b287132-c7EArFj5ZcgA.png",
+		"voiceActors": [{
+			"id": 114884,
+			"language": "Japanese",
+			"name": {
+				"first": "Saori",
+				"last": "Oonishi",
+				"full": "Saori Oonishi",
+				"native": "大西沙織",
+				"userPreferred": "Saori Oonishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg"
+		}, {
+			"id": 301572,
+			"language": "Italian",
+			"name": {
+				"first": "Flora",
+				"last": "Bonafede",
+				"full": "Flora Bonafede",
+				"native": null,
+				"userPreferred": "Flora Bonafede"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 175657,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Niko",
+			"last": "Hirata",
+			"full": "Niko Hirata",
+			"native": "平田ニコ",
+			"userPreferred": "Niko Hirata"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175657-ZtPcifxlep0G.png",
+		"voiceActors": [{
+			"id": 95413,
+			"language": "Japanese",
+			"name": {
+				"first": "Eri",
+				"last": "Kitamura",
+				"full": "Eri Kitamura",
+				"native": "喜多村英梨",
+				"userPreferred": "Eri Kitamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png"
+		}, {
+			"id": 95159,
+			"language": "English",
+			"name": {
+				"first": "Monica",
+				"last": "Rial",
+				"full": "Monica Rial",
+				"native": null,
+				"userPreferred": "Monica Rial"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95159-iTd65o5LhA62.png"
+		}, {
+			"id": 106919,
+			"language": "Italian",
+			"name": {
+				"first": "Patrizia",
+				"last": "Mottola",
+				"full": "Patrizia Mottola",
+				"native": null,
+				"userPreferred": "Patrizia Mottola"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106919-yK2xGS8rnYfT.png"
+		}]
+	}, {
+		"id": 175661,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kabura",
+			"last": "Honda",
+			"full": "Kabura Honda",
+			"native": "本田カブラ",
+			"userPreferred": "Kabura Honda"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175661-9zWxX4qdSTmv.png",
+		"voiceActors": [{
+			"id": 95093,
+			"language": "Japanese",
+			"name": {
+				"first": "Shizuka",
+				"last": "Itou",
+				"full": "Shizuka Itou",
+				"native": "伊藤静",
+				"userPreferred": "Shizuka Itou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg"
+		}, {
+			"id": 129144,
+			"language": "English",
+			"name": {
+				"first": "Patricia",
+				"last": "Duran",
+				"full": "Patricia Duran",
+				"native": null,
+				"userPreferred": "Patricia Duran"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129144-TsEsYXH5n0va.jpg"
+		}, {
+			"id": 119595,
+			"language": "Italian",
+			"name": {
+				"first": "Beatrice",
+				"last": "Caggiula",
+				"full": "Beatrice Caggiula",
+				"native": null,
+				"userPreferred": "Beatrice Caggiula"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119595-mSjuz5Ni4dcK.jpg"
+		}]
+	}, {
+		"id": 175662,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Midori",
+			"last": "Kohakobe",
+			"full": "Midori Kohakobe",
+			"native": "小繁縷ミドリ",
+			"userPreferred": "Midori Kohakobe"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175662-ML3VkEueW38I.png",
+		"voiceActors": [{
+			"id": 117329,
+			"language": "Japanese",
+			"name": {
+				"first": "Naomi",
+				"last": "Oozora",
+				"full": "Naomi Oozora",
+				"native": "大空直美",
+				"userPreferred": "Naomi Oozora"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117329-lF0lh3HMfjRd.jpg"
+		}, {
+			"id": 105073,
+			"language": "English",
+			"name": {
+				"first": "Emily",
+				"last": "Neves",
+				"full": "Emily Neves",
+				"native": null,
+				"userPreferred": "Emily Neves"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105073-S4JMuSDQbiTt.jpg"
+		}, {
+			"id": 157481,
+			"language": "Italian",
+			"name": {
+				"first": "Giulia",
+				"last": "Maniglio",
+				"full": "Giulia Maniglio",
+				"native": null,
+				"userPreferred": "Giulia Maniglio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157481-TqeSE5wMXRzY.png"
+		}]
+	}, {
+		"id": 233097,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hatsuka",
+			"last": "Suzushiro",
+			"full": "Hatsuka Suzushiro",
+			"native": "蘿蔔ハツカ",
+			"userPreferred": "Hatsuka Suzushiro"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b233097-LXU15fa0Sr4a.png",
+		"voiceActors": [{
+			"id": 119517,
+			"language": "Japanese",
+			"name": {
+				"first": "Azumi",
+				"last": "Waki",
+				"full": "Azumi Waki",
+				"native": "和氣あず未",
+				"userPreferred": "Azumi Waki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119517-ggxWaTnTOrxW.jpg"
+		}, {
+			"id": 274763,
+			"language": "English",
+			"name": {
+				"first": "Annie",
+				"last": "Wild",
+				"full": "Annie Wild",
+				"native": null,
+				"userPreferred": "Annie Wild"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n274763-dqbPZ8UaUe32.jpg"
+		}, {
+			"id": 231691,
+			"language": "Italian",
+			"name": {
+				"first": "Elisa",
+				"last": "Giorgio",
+				"full": "Elisa Giorgio",
+				"native": null,
+				"userPreferred": "Elisa Giorgio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n231691-fXZU0GOxIhda.png"
+		}]
+	}, {
+		"id": 284213,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Azusa",
+			"last": null,
+			"full": "Azusa",
+			"native": "アズサ",
+			"userPreferred": "Azusa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b284213-8G06UFmqmqnD.jpg",
+		"voiceActors": [{
+			"id": 132768,
+			"language": "Japanese",
+			"name": {
+				"first": "Ikumi",
+				"last": "Hasegawa",
+				"full": "Ikumi Hasegawa",
+				"native": "長谷川育美",
+				"userPreferred": "Ikumi Hasegawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n132768-eIoq58EHCA4F.png"
+		}]
+	}, {
+		"id": 284214,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Haruna",
+			"last": null,
+			"full": "Haruna",
+			"native": "ハルナ",
+			"userPreferred": "Haruna"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b284214-ZLK7COLVAx1w.jpg",
+		"voiceActors": [{
+			"id": 127542,
+			"language": "Japanese",
+			"name": {
+				"first": "Maki",
+				"last": "Kawase",
+				"full": "Maki Kawase",
+				"native": "河瀬茉希",
+				"userPreferred": "Maki Kawase"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127542-rHFIx0NCHfsU.png"
+		}]
+	}, {
+		"id": 284207,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Kai",
+			"last": null,
+			"full": "Kai",
+			"native": "カイ",
+			"userPreferred": "Kai"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b284207-cRVARyWC2s3h.jpg",
+		"voiceActors": [{
+			"id": 219102,
+			"language": "Japanese",
+			"name": {
+				"first": "Kouki",
+				"last": "Koyasu",
+				"full": "Kouki Koyasu",
+				"native": "子安光樹",
+				"userPreferred": "Kouki Koyasu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n219102-grvhb2wNAWET.png"
+		}, {
+			"id": 129188,
+			"language": "English",
+			"name": {
+				"first": "Daniel",
+				"last": "Regojo",
+				"full": "Daniel Regojo",
+				"native": null,
+				"userPreferred": "Daniel Regojo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129188-j4sigFmtr1SC.jpg"
+		}, {
+			"id": 96286,
+			"language": "Italian",
+			"name": {
+				"first": "Massimo",
+				"last": "Di Benedetto",
+				"full": "Massimo Di Benedetto",
+				"native": null,
+				"userPreferred": "Massimo Di Benedetto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96286-TD02rKR1qiHV.png"
+		}, {
+			"id": 221384,
+			"language": "French",
+			"name": {
+				"first": "Benoît",
+				"last": "Fort",
+				"full": "Benoît Fort",
+				"native": null,
+				"userPreferred": "Benoît Fort"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n221384-E5VbVVPvP3Om.png"
+		}]
+	}, {
+		"id": 284208,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Tonio",
+			"last": null,
+			"full": "Tonio",
+			"native": "トニオ",
+			"userPreferred": "Tonio"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b284208-6iDDKBMeYdjf.jpg",
+		"voiceActors": [{
+			"id": 95160,
+			"language": "Japanese",
+			"name": {
+				"first": "Takehito",
+				"last": "Koyasu",
+				"full": "Takehito Koyasu",
+				"native": "子安武人",
+				"userPreferred": "Takehito Koyasu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+		}, {
+			"id": 103660,
+			"language": "English",
+			"name": {
+				"first": "Brandon",
+				"last": "Hearnsberger",
+				"full": "Brandon Hearnsberger",
+				"native": null,
+				"userPreferred": "Brandon Hearnsberger"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8660.jpg"
+		}, {
+			"id": 164445,
+			"language": "Italian",
+			"name": {
+				"first": "Luca",
+				"last": "Ghignone",
+				"full": "Luca Ghignone",
+				"native": null,
+				"userPreferred": "Luca Ghignone"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n164445-CWKeycJ0TJuP.png"
+		}, {
+			"id": 300036,
+			"language": "French",
+			"name": {
+				"first": "Yann",
+				"last": "Abiven",
+				"full": "Yann Abiven",
+				"native": null,
+				"userPreferred": "Yann Abiven"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n300036-NvVFlluHPQdd.jpg"
+		}]
+	}, {
+		"id": 269128,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Kiku",
+			"last": "Hoshimi",
+			"full": "Kiku Hoshimi",
+			"native": "星見キク",
+			"userPreferred": "Kiku Hoshimi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b269128-OYIbyLz2Av5S.png",
+		"voiceActors": []
+	}, {
+		"id": 284209,
+		"role": "BACKGROUND",
+		"name": {
+			"first": null,
+			"last": "Matsuda",
+			"full": "Matsuda",
+			"native": "マツダ",
+			"userPreferred": "Matsuda"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b284209-9SskAyUkLLQk.jpg",
+		"voiceActors": [{
+			"id": 284210,
+			"language": "Japanese",
+			"name": {
+				"first": "Michiru",
+				"last": "Satou",
+				"full": "Michiru Satou",
+				"native": "佐藤ミチル",
+				"userPreferred": "Michiru Satou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n284210-TYbjCplBpTgy.jpg"
+		}, {
+			"id": 96848,
+			"language": "English",
+			"name": {
+				"first": "Andrew",
+				"last": "Love",
+				"full": "Andrew Love",
+				"native": null,
+				"userPreferred": "Andrew Love"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1848.jpg"
+		}, {
+			"id": 96268,
+			"language": "Italian",
+			"name": {
+				"first": "Patrizio",
+				"last": "Prata",
+				"full": "Patrizio Prata",
+				"native": null,
+				"userPreferred": "Patrizio Prata"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96268-zO83Agjsj8HU.png"
+		}, {
+			"id": 218899,
+			"language": "French",
+			"name": {
+				"first": "Sébastien",
+				"last": "Minéo",
+				"full": "Sébastien Minéo",
+				"native": null,
+				"userPreferred": "Sébastien Minéo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n218899-R8ZOfAp7UmQx.jpg"
+		}]
+	}, {
+		"id": 294659,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Kyouhei",
+			"last": null,
+			"full": "Kyouhei",
+			"native": "キョーヘー",
+			"userPreferred": "Kyouhei"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b294659-YuYhdtuIMQQj.jpg",
+		"voiceActors": [{
+			"id": 207162,
+			"language": "Japanese",
+			"name": {
+				"first": "R-Shitei",
+				"last": null,
+				"full": "R-Shitei",
+				"native": "R-指定",
+				"userPreferred": "R-Shitei"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n207162-tqEXnWtBxVwx.png"
+		}, {
+			"id": 290126,
+			"language": "English",
+			"name": {
+				"first": "Cody",
+				"last": "House",
+				"full": "Cody House",
+				"native": null,
+				"userPreferred": "Cody House"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n290126-k3e6FtykzON5.jpg"
+		}]
+	}, {
+		"id": 284211,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Yura",
+			"last": null,
+			"full": "Yura",
+			"native": "ユラ",
+			"userPreferred": "Yura"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b284211-CqrbPE1CiYKa.png",
+		"voiceActors": [{
+			"id": 136365,
+			"language": "Japanese",
+			"name": {
+				"first": "Hina",
+				"last": "Suguta",
+				"full": "Hina Suguta",
+				"native": "直田姫奈",
+				"userPreferred": "Hina Suguta"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n136365-jUqYw7lmdQOh.jpg"
+		}]
+	}, {
+		"id": 294658,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Matsunaga",
+			"last": "",
+			"full": "Matsunaga",
+			"native": "マツナガ",
+			"userPreferred": "Matsunaga"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b294658-crHxCHJrJP30.jpg",
+		"voiceActors": [{
+			"id": 215487,
+			"language": "Japanese",
+			"name": {
+				"first": "DJ",
+				"last": "Matsunaga",
+				"full": "DJ Matsunaga",
+				"native": "DJ松永",
+				"userPreferred": "DJ Matsunaga"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n215487-UaYq1oYzTopk.jpg"
+		}, {
+			"id": 152254,
+			"language": "English",
+			"name": {
+				"first": "Blake",
+				"last": "Jackson",
+				"full": "Blake Jackson",
+				"native": null,
+				"userPreferred": "Blake Jackson"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n152254-YcEZXUkHGF8r.png"
+		}]
+	}, {
+		"id": 284212,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Mio",
+			"last": null,
+			"full": "Mio",
+			"native": "ミオ",
+			"userPreferred": "Mio"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b284212-47LuFVsRMwWQ.png",
+		"voiceActors": [{
+			"id": 121489,
+			"language": "Japanese",
+			"name": {
+				"first": "Rika",
+				"last": "Nagae",
+				"full": "Rika Nagae",
+				"native": "長江里加",
+				"userPreferred": "Rika Nagae"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121489-O2m1zrumAkuR.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 111233,
+		"relationType": "ADAPTATION",
+		"malId": 121480,
+		"title": {
+			"romaji": "Yofukashi no Uta",
+			"english": "Call of the Night",
+			"native": "よふかしのうた",
+			"userPreferred": "Yofukashi no Uta"
+		},
+		"status": "Ongoing",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx111233-QU3BW8uqCvcN.jpg",
+		"color": "#6bd6d6",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/111233-ZwOpn2B3hqe2.jpg",
+		"rating": 80
+	}, {
+		"id": 150583,
+		"relationType": "SIDE_STORY",
+		"malId": 52015,
+		"title": {
+			"romaji": "Yofukashi no Uta Mini",
+			"english": null,
+			"native": "よふかしのうた ミニ",
+			"userPreferred": "Yofukashi no Uta Mini"
+		},
+		"status": "Completed",
+		"episodes": 22,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+		"color": "#f1505d",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+		"rating": 63
+	}],
+	"mappings": {
+		"mal": 50346,
+		"anidb": 16971,
+		"kitsu": 45483,
+		"anilist": 141391,
+		"thetvdb": 412374,
+		"anisearch": 16777,
+		"livechart": 10883,
+		"notify.moe": "LXxtDK5ng",
+		"anime-planet": "call-of-the-night"
+	},
+	"episodes": [{
+		"id": "call-of-the-night-episode-1",
+		"title": "Night Flight",
+		"description": "A chance encounter with a stranger introduces Ko to a nocturnal life. Ko follows her and why shouldn’t he? The night is still young.",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/8832611/screencap/62c71f5b83793.jpg",
+		"airDate": "2022-07-08T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-2",
+		"title": "Do You Do LINE?",
+		"description": "How can you fall in love with a vampire when you can’t even track them down!? Nazuma remains frustratingly elusive, but Ko may have a nostalgic solution to this new problem.",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236051/screencap/62d297bb7ae86.jpg",
+		"airDate": "2022-07-15T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-3",
+		"title": "A Lot Came Out",
+		"description": "When can you start calling someone a friend? What even IS friendship, anyway? As Ko reconnects with a classmate, questions arise he isn’t sure he knows how answer.",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236052/screencap/62d5796d30700.jpg",
+		"airDate": "2022-07-22T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-4",
+		"title": "Isn’t This a Tight Squeeze?",
+		"description": "Three’s a crowd when Ko invites Akira to hang out with him and Nazuna late one evening.",
+		"number": 4,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236053/screencap/62df15e47a57b.jpg",
+		"airDate": "2022-07-29T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-5",
+		"title": "Well, That’s a Problem",
+		"description": "How does Nazuna make money, anyway? Ko is about to get the inside scoop on her (very suspicious) business, but first he’ll need to make sense of his complicated emotions.",
+		"number": 5,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236054/screencap/62e942969eefe.jpg",
+		"airDate": "2022-08-05T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-6",
+		"title": "Might as Well Have Fun",
+		"description": "Ko doesn’t need a mirror to see his reflection. It’s staring right back at him in the form of Nazuna’s latest client.",
+		"number": 6,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236055/screencap/62f16b7b3c0e0.jpg",
+		"airDate": "2022-08-12T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-7",
+		"title": "Reproduce",
+		"description": "Boredom drove Ko into the night. Boredom drove Ko’s new acquaintance to killing time in her own way. She and Ko seem very similar… perhaps TOO similar for comfort.",
+		"number": 7,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236056/screencap/62fa6a69236ec.jpg",
+		"airDate": "2022-08-19T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-8",
+		"title": "All of Us",
+		"description": "Ko thought he had all the time in the world, but the revelation of an unexpected deadline changes everything. Hopefully his friends (new and old alike) will have some advice.",
+		"number": 8,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236057/screencap/6307fe356d380.jpg",
+		"airDate": "2022-08-26T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-9",
+		"title": "No Fair",
+		"description": "Seri is extremely popular, but popularity isn’t all it’s cracked up to be when one of her human paramours develops feelings she isn’t ready to deal with.",
+		"number": 9,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236058/screencap/630ceffc65877.jpg",
+		"airDate": "2022-09-02T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-10",
+		"title": "Enlarge the Peeping-Tom Photos",
+		"description": "It’s not all sparkles and hearts at the maid café where Midori works. Someone is creeping on a certain maid, but uncovering the interloper isn’t as easy as it looks…",
+		"number": 10,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236059/screencap/631625f6a2f24.jpg",
+		"airDate": "2022-09-09T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-11",
+		"title": "Do You Know What a Vampire Is?",
+		"description": "Nazuna needs new blood for her cuddle-buddy business, and Ko is on the case! But he’s not the only one wandering the night looking for someone…",
+		"number": 11,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236060/screencap/631f5a897330d.jpg",
+		"airDate": "2022-09-16T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-12",
+		"title": "My Mom’s Out Tonight",
+		"description": "What does it mean to be a vampire? Why does Ko want to become one? A chat with a friend reveals Ko’s lack of answers to these all-important questions.",
+		"number": 12,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236061/screencap/632c9f0507e85.jpg",
+		"airDate": "2022-09-23T00:00:00.000Z"
+	}, {
+		"id": "call-of-the-night-episode-13",
+		"title": "Call of the Night",
+		"description": "The night feels distant. Ko isn’t sure how to close that gap.",
+		"number": 13,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9236062/screencap/6336361663546.jpg",
+		"airDate": "2022-09-30T00:00:00.000Z"
+	}]
+}
