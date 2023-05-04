@@ -1,4 +1,15 @@
 [
+	{
+		"animeId": "spirited-away",
+		"episodeId": "spirited-away-episode-1",
+		"name": "Spirited Away",
+		"jname": "Sen to Chihiro no Kamikakushi",
+		"episodeNum": "1",
+		"subOrDub": "dub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx199-ehguwq1mPvtN.jpg",
+		"episodeUrl": "../anime/spirited-away"
+	},
 		{
 		"animeId": "oshi-no-ko",
 		"episodeId": "oshi-no-ko-episode-4",
