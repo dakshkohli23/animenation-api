@@ -37,8 +37,8 @@
 		"timeUntilAiring": 600464,
 		"episode": 3
 	},
-	"totalEpisodes": 4,
-	"currentEpisode": 4,
+	"totalEpisodes": 5,
+	"currentEpisode": 5,
 	"rating": 81,
 	"duration": 24,
 	"genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
@@ -616,6 +616,14 @@
 		"title": "",
 		"description": "",
 		"number": 4,
+		"image": "",
+		"airDate": ""
+	},
+	{
+		"id": "dr-stone-new-world-episode-5",
+		"title": "",
+		"description": "",
+		"number": 5,
 		"image": "",
 		"airDate": ""
 	}
