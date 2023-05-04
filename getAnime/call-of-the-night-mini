@@ -1,0 +1,340 @@
+{
+	"id": "150583",
+	"title": {
+		"romaji": "Yofukashi no Uta Mini",
+		"english": null,
+		"native": "よふかしのうた ミニ"
+	},
+	"malId": 52015,
+	"synonyms": ["Call of the Night Mini"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+	"popularity": 1126,
+	"color": "#f1505d",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+	"description": "Mini animations posted on the <i>Yofukashi no Uta</i> Twitter account.",
+	"status": "Completed",
+	"releaseDate": 2022,
+	"startDate": {
+		"year": 2022,
+		"month": 6,
+		"day": 6
+	},
+	"endDate": {
+		"year": 2022,
+		"month": 10,
+		"day": 1
+	},
+	"totalEpisodes": 22,
+	"currentEpisode": 22,
+	"rating": 58,
+	"duration": 1,
+	"genres": ["Comedy"],
+	"season": "SPRING",
+	"studios": [],
+	"subOrDub": "sub",
+	"type": "ONA",
+	"recommendations": [],
+	"characters": [{
+		"id": 168866,
+		"role": "MAIN",
+		"name": {
+			"first": "Kou",
+			"last": "Yamori",
+			"full": "Kou Yamori",
+			"native": "夜守コウ",
+			"userPreferred": "Kou Yamori"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b168866-W9DW3ZcGCLr3.png",
+		"voiceActors": [{
+			"id": 141083,
+			"language": "Japanese",
+			"name": {
+				"first": "Gen",
+				"last": "Satou",
+				"full": "Gen Satou",
+				"native": "佐藤元",
+				"userPreferred": "Gen Satou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141083-Oc5rYAP6e3D7.jpg"
+		}]
+	}, {
+		"id": 168774,
+		"role": "MAIN",
+		"name": {
+			"first": "Nazuna",
+			"last": "Nanakusa",
+			"full": "Nazuna Nanakusa",
+			"native": "七草ナズナ",
+			"userPreferred": "Nazuna Nanakusa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b168774-6hDmA3Y3UDdu.png",
+		"voiceActors": [{
+			"id": 116517,
+			"language": "Japanese",
+			"name": {
+				"first": "Sora",
+				"last": "Amamiya",
+				"full": "Sora Amamiya",
+				"native": "雨宮天",
+				"userPreferred": "Sora Amamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-NQh6ewlCwzBN.jpg"
+		}]
+	}, {
+		"id": 175662,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Midori",
+			"last": "Kohakobe",
+			"full": "Midori Kohakobe",
+			"native": "小繁縷ミドリ",
+			"userPreferred": "Midori Kohakobe"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175662-ML3VkEueW38I.png",
+		"voiceActors": [{
+			"id": 117329,
+			"language": "Japanese",
+			"name": {
+				"first": "Naomi",
+				"last": "Oozora",
+				"full": "Naomi Oozora",
+				"native": "大空直美",
+				"userPreferred": "Naomi Oozora"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117329-lF0lh3HMfjRd.jpg"
+		}]
+	}, {
+		"id": 175660,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Akihito",
+			"last": "Akiyama",
+			"full": "Akihito Akiyama",
+			"native": "秋山昭人",
+			"userPreferred": "Akihito Akiyama"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175660-JnKkxnC7o9fq.png",
+		"voiceActors": [{
+			"id": 95283,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroyuki",
+				"last": "Yoshino",
+				"full": "Hiroyuki Yoshino",
+				"native": "吉野裕行",
+				"userPreferred": "Hiroyuki Yoshino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95283-g76zV4YacFfm.jpg"
+		}]
+	}, {
+		"id": 175663,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Akira",
+			"last": "Asai",
+			"full": "Akira Asai",
+			"native": "朝井アキラ",
+			"userPreferred": "Akira Asai"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175663-xKNTlrJVrleX.png",
+		"voiceActors": [{
+			"id": 116543,
+			"language": "Japanese",
+			"name": {
+				"first": "Yumiri",
+				"last": "Hanamori",
+				"full": "Yumiri Hanamori",
+				"native": "花守ゆみり",
+				"userPreferred": "Yumiri Hanamori"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116543-nDWFpolRN9dM.png"
+		}]
+	}, {
+		"id": 175661,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kabura",
+			"last": "Honda",
+			"full": "Kabura Honda",
+			"native": "本田カブラ",
+			"userPreferred": "Kabura Honda"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175661-9zWxX4qdSTmv.png",
+		"voiceActors": [{
+			"id": 95093,
+			"language": "Japanese",
+			"name": {
+				"first": "Shizuka",
+				"last": "Itou",
+				"full": "Shizuka Itou",
+				"native": "伊藤静",
+				"userPreferred": "Shizuka Itou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg"
+		}]
+	}, {
+		"id": 233097,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hatsuka",
+			"last": "Suzushiro",
+			"full": "Hatsuka Suzushiro",
+			"native": "蘿蔔ハツカ",
+			"userPreferred": "Hatsuka Suzushiro"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b233097-LXU15fa0Sr4a.png",
+		"voiceActors": [{
+			"id": 119517,
+			"language": "Japanese",
+			"name": {
+				"first": "Azumi",
+				"last": "Waki",
+				"full": "Azumi Waki",
+				"native": "和氣あず未",
+				"userPreferred": "Azumi Waki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119517-ggxWaTnTOrxW.jpg"
+		}]
+	}, {
+		"id": 269129,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mahiru",
+			"last": "Seki",
+			"full": "Mahiru Seki",
+			"native": "夕真昼",
+			"userPreferred": "Mahiru Seki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b269129-nHJXFp7HDZBg.png",
+		"voiceActors": [{
+			"id": 95819,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenshou",
+				"last": "Ono",
+				"full": "Kenshou Ono",
+				"native": "小野賢章",
+				"userPreferred": "Kenshou Ono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95819-O4fosAY0a1Ml.jpg"
+		}]
+	}, {
+		"id": 175657,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Niko",
+			"last": "Hirata",
+			"full": "Niko Hirata",
+			"native": "平田ニコ",
+			"userPreferred": "Niko Hirata"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175657-ZtPcifxlep0G.png",
+		"voiceActors": [{
+			"id": 95413,
+			"language": "Japanese",
+			"name": {
+				"first": "Eri",
+				"last": "Kitamura",
+				"full": "Eri Kitamura",
+				"native": "喜多村英梨",
+				"userPreferred": "Eri Kitamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png"
+		}]
+	}, {
+		"id": 175658,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Seri",
+			"last": "Kikyou",
+			"full": "Seri Kikyou",
+			"native": "桔梗セリ",
+			"userPreferred": "Seri Kikyou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b175658-orkKzYl8kMtW.png",
+		"voiceActors": [{
+			"id": 95890,
+			"language": "Japanese",
+			"name": {
+				"first": "Haruka",
+				"last": "Tomatsu",
+				"full": "Haruka Tomatsu",
+				"native": "戸松遥",
+				"userPreferred": "Haruka Tomatsu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png"
+		}]
+	}],
+	"relations": [{
+		"id": 141391,
+		"relationType": "PARENT",
+		"malId": 50346,
+		"title": {
+			"romaji": "Yofukashi no Uta",
+			"english": "Call of the Night",
+			"native": "よふかしのうた",
+			"userPreferred": "Yofukashi no Uta"
+		},
+		"status": "Completed",
+		"episodes": 13,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141391-rEJ1hm9i2PFa.jpg",
+		"color": "#a15df1",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141391-JErChZ8G3b49.jpg",
+		"rating": 79
+	}],
+	"mappings": {
+		"mal": 52015,
+		"kitsu": 46263,
+		"anilist": 150583,
+		"anisearch": 17530,
+		"livechart": 11244,
+		"anime-planet": "call-of-the-night-mini-anime"
+	},
+	"episodes": [{
+		"id": "call-of-the-night-mini-episode-1",
+		"title": null,
+		"description": null,
+		"number": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+		"airDate": null
+	}, {
+		"id": "call-of-the-night-mini-episode-2",
+		"title": null,
+		"description": null,
+		"number": 2,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+		"airDate": null
+	}, {
+		"id": "call-of-the-night-mini-episode-3",
+		"title": null,
+		"description": null,
+		"number": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+		"airDate": null
+	}, {
+		"id": "call-of-the-night-mini-episode-4",
+		"title": null,
+		"description": null,
+		"number": 4,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+		"airDate": null
+	}, {
+		"id": "call-of-the-night-mini-episode-5",
+		"title": null,
+		"description": null,
+		"number": 5,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+		"airDate": null
+	}, {
+		"id": "call-of-the-night-mini-episode-6",
+		"title": null,
+		"description": null,
+		"number": 6,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+		"airDate": null
+	}]
+}
