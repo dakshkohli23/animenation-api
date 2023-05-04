@@ -40,7 +40,36 @@
 	"studios": ["LIDENFILMS"],
 	"subOrDub": "sub",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 120120,
+		"malId": 42249,
+		"title": {
+			"romaji": "Tokyo Revengers",
+		"english": "Tokyo Revengers",
+		"native": "東京リベンジャーズ"
+		},
+		"status": "Completed",
+		"episodes": 24,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120120-mBmQUtMloszF.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120120-UDYgoHA69peT.jpg",
+		"rating": 80,
+		"type": "TV"
+	},
+	{
+		"id": 142853,
+		"malId": 50608,
+		"title": {
+			"romaji": "Tokyo Revengers: Seiya Kessen-hen",
+		"english": "Tokyo Revengers Season 2",
+		"native": "東京リベンジャーズ 聖夜決戦編"
+		},
+		"status": "Completed",
+		"episodes": 13,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142853-nxEZDE9oDRLG.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142853-nxEZDE9oDRLG.png",
+		"rating": 13,
+		"type": "TV"
+	}],
 	"characters": [{
 		"id": 145342,
 		"role": "MAIN",
