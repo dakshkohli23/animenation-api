@@ -28,7 +28,7 @@
 		"day": 1
 	},
 	"totalEpisodes": 22,
-	"currentEpisode": 22,
+	"currentEpisode": 6,
 	"rating": 58,
 	"duration": 1,
 	"genres": ["Comedy"],
@@ -36,7 +36,38 @@
 	"studios": [],
 	"subOrDub": "sub",
 	"type": "ONA",
-	"recommendations": [],
+	"recommendations": [{
+      "id": 141391,
+      "malId": 50346,
+      "title": {
+        "romaji": "Yofukashi no Uta",
+		"english": "Call of the Night",
+		"native": "よふかしのうた"
+      },
+      "status": "Completed",
+      "episodes": 13,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141391-rEJ1hm9i2PFa.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141391-JErChZ8G3b49.jpg",
+      "rating": 79,
+      "type": "tv",
+	  "animeurl": "call-of-the-night"
+},
+{
+      "id": 150583,
+      "malId": 52015,
+      "title": {
+        "romaji": "Yofukashi no Uta Mini",
+		"english": "Call of the Night Mini",
+		"native": "よふかしのうた ミニ"
+      },
+      "status": "Completed",
+      "episodes": 6,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+      "rating": 58,
+      "type": "ONA",
+	  "animeurl": "call-of-the-night-mini"
+}],
 	"characters": [{
 		"id": 168866,
 		"role": "MAIN",
