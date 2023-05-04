@@ -69,9 +69,25 @@
 		"episodes": 13,
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142853-nxEZDE9oDRLG.png",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142853-nxEZDE9oDRLG.png",
-		"rating": 13,
+		"rating": 77,
 		"type": "TV",
 		"animeurl": "tokyo-revengers-season-2"
+	},
+	{
+		"id": 132467,
+		"malId": 48735,
+		"title": {
+			"romaji": "Tokyo Revengers: Chibi Reve",
+		"english": Chibi Revengers,
+		"native": "ちびりべ"
+		},
+		"status": "Completed",
+		"episodes": 24,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132467-O79Pn14olLQ8.jpg",
+		"rating": 74,
+		"type": "ONA",
+		"animeurl": "tokyo-revengers-chibi-reve"
 	}],
 	"characters": [{
 		"id": 145342,
