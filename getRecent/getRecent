@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "dr-stone-new-world",
+		"episodeId": "dr-stone-new-world-episode-5",
+		"name": "Dr. STONE New World",
+		"jname": "Dr. STONE: NEW WORLD",
+		"episodeNum": "5",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131518-RU7RoUmGb2sP.jpg",
+		"episodeUrl": "../anime/dr-stone-new-world"
+	},
+	{
 		"animeId": "tokyo-revengers-season-2",
 		"episodeId": "tokyo-revengers-season-2-episode-1",
 		"name": "Tokyo Revengers Season 2",
@@ -155,17 +166,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98659-sH5z5RfMuyMr.png",
 		"episodeUrl": "../anime/classroom-of-the-elite"
 	},
-	{
-		"animeId": "dr-stone-new-world",
-		"episodeId": "dr-stone-new-world-episode-4",
-		"name": "Dr. STONE New World",
-		"jname": "Dr. STONE: NEW WORLD",
-		"episodeNum": "4",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131518-RU7RoUmGb2sP.jpg",
-		"episodeUrl": "../anime/dr-stone-new-world"
-	},
+
 {
 		"animeId": "worlds-end-harem",
 		"episodeId": "worlds-end-harem-episode-1",
