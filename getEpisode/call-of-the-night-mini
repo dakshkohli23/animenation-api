@@ -1,0 +1,74 @@
+[
+        {
+            "server1": "vzm9tb1gso7u",
+            "animeNameWithEP": "Call of the Night Mini Episode 1",
+            "ep_num": "1",
+            "anime_info": "call-of-the-night-mini",
+            "movie_id": "150583",
+            "alias": "call-of-the-night-mini",
+            "nextEpText": "Call of the Night Mini Episode 2 >>",
+            "nextEpLink": "/call-of-the-night-mini-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "uq96gi75232x",
+            "animeNameWithEP": "Call of the Night Mini Episode 2",
+            "ep_num": "2",
+            "anime_info": "call-of-the-night-mini",
+            "movie_id": "150583",
+            "alias": "call-of-the-night-mini",
+            "nextEpText": "Call of the Night Mini Episode 3 >>",
+            "nextEpLink": "/call-of-the-night-mini-episode-3",
+            "prevEpText": "<< Call of the Night Mini Episode 1",
+            "prevEpLink": "/call-of-the-night-mini-episode-1"
+        },
+        {
+            "server1": "az1by5c5zlsa",
+            "animeNameWithEP": "Call of the Night Mini Episode 3",
+            "ep_num": "3",
+            "anime_info": "call-of-the-night-mini",
+            "movie_id": "150583",
+            "alias": "call-of-the-night-mini",
+            "nextEpText": "Call of the Night Mini Episode 4 >>",
+            "nextEpLink": "/call-of-the-night-mini-episode-4",
+            "prevEpText": "<< Call of the Night Mini Episode 2",
+            "prevEpLink": "/call-of-the-night-mini-episode-2"
+        },
+        {
+            "server1": "tkttwct1r9c5",
+            "animeNameWithEP": "Call of the Night Mini Episode 4",
+            "ep_num": "4",
+            "anime_info": "call-of-the-night-mini",
+            "movie_id": "150583",
+            "alias": "call-of-the-night-mini",
+            "nextEpText": "Call of the Night Mini Episode 5 >>",
+            "nextEpLink": "/call-of-the-night-mini-episode-5",
+            "prevEpText": "<< Call of the Night Mini Episode 3",
+            "prevEpLink": "/call-of-the-night-mini-episode-3"
+        },
+        {
+            "server1": "5lfqxo6ezigh",
+            "animeNameWithEP": "Call of the Night Mini Episode 5",
+            "ep_num": "5",
+            "anime_info": "call-of-the-night-mini",
+            "movie_id": "150583",
+            "alias": "call-of-the-night-mini",
+            "nextEpText": "Call of the Night Mini Episode 6 >>",
+            "nextEpLink": "/call-of-the-night-mini-episode-6",
+            "prevEpText": "<< Call of the Night Mini Episode 4",
+            "prevEpLink": "/call-of-the-night-mini-episode-4"
+        },
+        {
+            "server1": "uads4d2s6sgv",
+            "animeNameWithEP": "Call of the Night Mini Episode 6",
+            "ep_num": "6",
+            "anime_info": "call-of-the-night-mini",
+            "movie_id": "150583",
+            "alias": "call-of-the-night-mini",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Call of the Night Mini Episode 5",
+            "prevEpLink": "/call-of-the-night-mini-episode-5"
+        }
+    ]
