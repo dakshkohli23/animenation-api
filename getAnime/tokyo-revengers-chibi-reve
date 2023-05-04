@@ -1,0 +1,481 @@
+{
+	"id": "132467",
+	"title": {
+		"romaji": "Tokyo Revengers: Chibi Reve",
+		"english": Chibi Revengers,
+		"native": "ちびりべ"
+	},
+	"malId": 48735,
+	"synonyms": ["Tokyo Revengers Mini Anime", "Chiberibe"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+	"popularity": 6415,
+	"color": "#d61a1a",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132467-O79Pn14olLQ8.jpg",
+	"description": "Chib Reve depicts the daily lives of the five Mizo middle schoolers and the Tokyo Manji gang members, which are not depicted in the main anime.<br><br>\n\n(Source: Tokyo Revengers official website, translated)",
+	"status": "Completed",
+	"releaseDate": 2021,
+	"startDate": {
+		"year": 2021,
+		"month": 4,
+		"day": 12
+	},
+	"endDate": {
+		"year": 2021,
+		"month": 9,
+		"day": 20
+	},
+	"totalEpisodes": 24,
+	"currentEpisode": 24,
+	"rating": 74,
+	"duration": 2,
+	"genres": ["Comedy"],
+	"season": "SPRING",
+	"studios": ["Studio PuYUKAI"],
+	"subOrDub": "sub",
+	"type": "ONA",
+	"recommendations": [],
+	"characters": [{
+		"id": 171926,
+		"role": "MAIN",
+		"name": {
+			"first": "Makoto",
+			"last": "Suzuki",
+			"full": "Makoto Suzuki",
+			"native": "鈴木マコト",
+			"userPreferred": "Makoto Suzuki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b171926-i6THiD0O8B2W.jpg",
+		"voiceActors": [{
+			"id": 119185,
+			"language": "Japanese",
+			"name": {
+				"first": "Shunsuke",
+				"last": "Takeuchi",
+				"full": "Shunsuke Takeuchi",
+				"native": "武内駿輔",
+				"userPreferred": "Shunsuke Takeuchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119185-65kkxuTRxAgo.png"
+		}]
+	}, {
+		"id": 171920,
+		"role": "MAIN",
+		"name": {
+			"first": "Atsushi",
+			"last": "Sendou",
+			"full": "Atsushi Sendou",
+			"native": "千堂敦",
+			"userPreferred": "Atsushi Sendou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b171920-wHxBvF8giJC4.png",
+		"voiceActors": [{
+			"id": 95494,
+			"language": "Japanese",
+			"name": {
+				"first": "Takuma",
+				"last": "Terashima",
+				"full": "Takuma Terashima",
+				"native": "寺島拓篤",
+				"userPreferred": "Takuma Terashima"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95494-HetCpJKbDy1B.png"
+		}]
+	}, {
+		"id": 145342,
+		"role": "MAIN",
+		"name": {
+			"first": "Takemichi",
+			"last": "Hanagaki",
+			"full": "Takemichi Hanagaki",
+			"native": "花垣武道",
+			"userPreferred": "Takemichi Hanagaki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b145342-GSUutL83jGgI.png",
+		"voiceActors": [{
+			"id": 153049,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuki",
+				"last": "Shin",
+				"full": "Yuuki Shin",
+				"native": "新祐樹",
+				"userPreferred": "Yuuki Shin"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153049-K0czk9NRoLWz.png"
+		}]
+	}, {
+		"id": 171927,
+		"role": "MAIN",
+		"name": {
+			"first": "Kazushi",
+			"last": "Yamagishi",
+			"full": "Kazushi Yamagishi",
+			"native": "山岸一司",
+			"userPreferred": "Kazushi Yamagishi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b171927-AUKa88Vnnfpg.png",
+		"voiceActors": [{
+			"id": 159684,
+			"language": "Japanese",
+			"name": {
+				"first": "Shouta ",
+				"last": "Hayama",
+				"full": "Shouta  Hayama",
+				"native": "葉山翔太",
+				"userPreferred": "Shouta  Hayama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n159684-KcBwnmc9reYs.png"
+		}]
+	}, {
+		"id": 171922,
+		"role": "MAIN",
+		"name": {
+			"first": "Takuya",
+			"last": "Yamamoto",
+			"full": "Takuya Yamamoto",
+			"native": "山本タクヤ",
+			"userPreferred": "Takuya Yamamoto"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b171922-EIeI6yUy5CbB.png",
+		"voiceActors": [{
+			"id": 120129,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuya",
+				"last": "Hirose",
+				"full": "Yuuya Hirose",
+				"native": "広瀬裕也",
+				"userPreferred": "Yuuya Hirose"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120129-V8zB2m0la0IW.png"
+		}]
+	}, {
+		"id": 212447,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ryouhei",
+			"last": "Hayashi",
+			"full": "Ryouhei Hayashi",
+			"native": "林良平",
+			"userPreferred": "Ryouhei Hayashi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b212447-gvuSp2nTJodB.png",
+		"voiceActors": [{
+			"id": 163689,
+			"language": "Japanese",
+			"name": {
+				"first": "Yukihiro",
+				"last": "Nozuyama",
+				"full": "Yukihiro Nozuyama",
+				"native": "野津山幸宏",
+				"userPreferred": "Yukihiro Nozuyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163689-feFL7yfBg2si.png"
+		}]
+	}, {
+		"id": 167841,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Takashi",
+			"last": "Mitsuya",
+			"full": "Takashi Mitsuya",
+			"native": "三ツ谷隆",
+			"userPreferred": "Takashi Mitsuya"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b167841-Pp08TBnzGhK4.jpg",
+		"voiceActors": [{
+			"id": 106817,
+			"language": "Japanese",
+			"name": {
+				"first": "Yoshitsugu",
+				"last": "Matsuoka",
+				"full": "Yoshitsugu Matsuoka",
+				"native": "松岡禎丞",
+				"userPreferred": "Yoshitsugu Matsuoka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png"
+		}]
+	}, {
+		"id": 171925,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Haruki",
+			"last": "Hayashida",
+			"full": "Haruki Hayashida",
+			"native": "林田春樹",
+			"userPreferred": "Haruki Hayashida"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b171925-l21FnUg2rgPa.png",
+		"voiceActors": [{
+			"id": 107480,
+			"language": "Japanese",
+			"name": {
+				"first": "Subaru",
+				"last": "Kimura",
+				"full": "Subaru Kimura",
+				"native": "木村昴",
+				"userPreferred": "Subaru Kimura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107480-h2RgLXNP7hcj.png"
+		}]
+	}, {
+		"id": 145345,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ken",
+			"last": "Ryuuguji",
+			"full": "Ken Ryuuguji",
+			"native": "龍宮寺 堅",
+			"userPreferred": "Ken Ryuuguji"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b145345-zyirrSsKIDCb.png",
+		"voiceActors": [{
+			"id": 95735,
+			"language": "Japanese",
+			"name": {
+				"first": "Tatsuhisa",
+				"last": "Suzuki",
+				"full": "Tatsuhisa Suzuki",
+				"native": "鈴木達央",
+				"userPreferred": "Tatsuhisa Suzuki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95735-xssSe5BRSkaq.jpg"
+		}]
+	}, {
+		"id": 145341,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Manjirou",
+			"last": "Sano",
+			"full": "Manjirou Sano",
+			"native": "佐野万次郎",
+			"userPreferred": "Manjirou Sano"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b145341-CuPldCLZMvvf.png",
+		"voiceActors": [{
+			"id": 116157,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuu",
+				"last": "Hayashi",
+				"full": "Yuu Hayashi",
+				"native": "林勇",
+				"userPreferred": "Yuu Hayashi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116157-MAPYgEeptEUh.png"
+		}]
+	}, {
+		"id": 138453,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hinata",
+			"last": "Tachibana",
+			"full": "Hinata Tachibana",
+			"native": "橘日向",
+			"userPreferred": "Hinata Tachibana"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b138453-MFISjDiAEfiM.png",
+		"voiceActors": [{
+			"id": 119517,
+			"language": "Japanese",
+			"name": {
+				"first": "Azumi",
+				"last": "Waki",
+				"full": "Azumi Waki",
+				"native": "和氣あず未",
+				"userPreferred": "Azumi Waki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119517-ggxWaTnTOrxW.jpg"
+		}]
+	}, {
+		"id": 171924,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Emma",
+			"last": "Sano",
+			"full": "Emma Sano",
+			"native": "佐野エマ",
+			"userPreferred": "Emma Sano"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b171924-fouXHPz9y5of.png",
+		"voiceActors": []
+	}],
+	"relations": [{
+		"id": 120120,
+		"relationType": "PARENT",
+		"malId": 42249,
+		"title": {
+			"romaji": "Tokyo Revengers",
+			"english": "Tokyo Revengers",
+			"native": "東京リベンジャーズ",
+			"userPreferred": "Tokyo Revengers"
+		},
+		"status": "Completed",
+		"episodes": 24,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120120-mBmQUtMloszF.jpg",
+		"color": "#e45d28",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120120-UDYgoHA69peT.jpg",
+		"rating": 79
+	}],
+	"mappings": {
+		"mal": 48735,
+		"kitsu": 44526,
+		"anilist": 132467,
+		"anisearch": 16333,
+		"livechart": 10500,
+		"notify.moe": "CiUD52CGg",
+		"anime-planet": "chibireve"
+	},
+	"episodes": [{
+		"id": "tokyo-revengers-chibi-reve-episode-1",
+		"title": null,
+		"description": null,
+		"number": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-2",
+		"title": null,
+		"description": null,
+		"number": 2,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-3",
+		"title": null,
+		"description": null,
+		"number": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-4",
+		"title": null,
+		"description": null,
+		"number": 4,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-5",
+		"title": null,
+		"description": null,
+		"number": 5,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-6",
+		"title": null,
+		"description": null,
+		"number": 6,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-7",
+		"title": null,
+		"description": null,
+		"number": 7,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-8",
+		"title": null,
+		"description": null,
+		"number": 8,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-9",
+		"title": null,
+		"description": null,
+		"number": 9,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-10",
+		"title": null,
+		"description": null,
+		"number": 10,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-11",
+		"title": null,
+		"description": null,
+		"number": 11,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-12",
+		"title": null,
+		"description": null,
+		"number": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-13",
+		"title": null,
+		"description": null,
+		"number": 13,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-14",
+		"title": null,
+		"description": null,
+		"number": 14,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-15",
+		"title": null,
+		"description": null,
+		"number": 15,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-17",
+		"title": null,
+		"description": null,
+		"number": 17,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-20",
+		"title": null,
+		"description": null,
+		"number": 20,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-21",
+		"title": null,
+		"description": null,
+		"number": 21,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-22",
+		"title": null,
+		"description": null,
+		"number": 22,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-23",
+		"title": null,
+		"description": null,
+		"number": 23,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}, {
+		"id": "tokyo-revengers-chibi-reve-episode-24",
+		"title": null,
+		"description": null,
+		"number": 24,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
+		"airDate": null
+	}]
+}
