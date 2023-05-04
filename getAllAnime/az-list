@@ -480,6 +480,30 @@
             "genres": ["Action", "Adventure", "Supernatural"]
         },
         {
+            "animeId": "call-of-the-night",
+            "episodeId": "call-of-the-night-episode-1",
+            "name": "Call of the Night",
+            "jname": "Yofukashi no Uta",
+            "episodeNum": "13",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141391-rEJ1hm9i2PFa.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/call-of-the-night",
+            "genres": ["Comedy", "Psychological", "Romance", "Slice of Life", "Supernatural"]
+        },
+        {
+            "animeId": "call-of-the-night-mini",
+            "episodeId": "call-of-the-night-mini-episode-1",
+            "name": "Call of the Night Mini",
+            "jname": "Yofukashi no Uta Mini",
+            "episodeNum": "6",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+            "type": "ona",
+            "episodeUrl": "anime/call-of-the-night-mini",
+            "genres": ["Comedy"]
+        },
+        {
             "animeId": "chainsaw-man",
             "episodeId": "chainsaw-man-episode-1",
             "name": "Chainsaw Man",
