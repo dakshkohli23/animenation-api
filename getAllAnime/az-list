@@ -840,6 +840,18 @@
             "genres": ["Action", "Supernatural"]
         },
         {
+            "animeId": "jujutsu-kaisen-season-2",
+            "episodeId": "jujutsu-kaisen-season-2-episode-1",
+            "name": "Jujutsu Kaisen Season 2",
+            "jname": "Jujutsu Kaisen 2nd Season",
+            "episodeNum": "0",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/jujutsu-kaisen-season-2",
+            "genres": ["Action", "Drama", "Supernatural"]
+        },
+        {
             "animeId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
             "episodeId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen-episode-1",
             "name": "Junior High and High School!! Kimetsu Academy Story",
