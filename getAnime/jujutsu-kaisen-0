@@ -72,6 +72,22 @@
       "rating": 85,
       "type": "movie",
 	  "animeurl": "jujutsu-kaisen-0"
+    },
+	{
+      "id": 145064,
+      "malId": 51009,
+      "title": {
+        "romaji": "Jujutsu Kaisen 2nd Season",
+		"english": "Jujutsu Kaisen Season 2",
+		"native": "呪術廻戦 第2期"
+      },
+      "status": "Not yet aired",
+      "episodes": 0,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-kH9vbOEitIhl.jpg",
+      "rating": null,
+      "type": "TV",
+	  "animeurl": "jujutsu-kaisen-season-2"
     }],
 	"characters": [{
 		"id": 129571,
