@@ -1,0 +1,410 @@
+{
+	"id": "145064",
+	"title": {
+		"romaji": "Jujutsu Kaisen 2nd Season",
+		"english": "Jujutsu Kaisen Season 2",
+		"native": "呪術廻戦 第2期"
+	},
+	"malId": 51009,
+	"synonyms": ["呪術廻戦 懐玉・玉折／渋谷事変 ", "Jujutsu Kaisen: Kaigyoku Gyokusetsu / Shibuya Jihen", "JJK2", "มหาเวทย์ผนึกมาร ภาค 2", " 咒术回战", "2جوجوتسو كايسن ", "JUJUTSU KAISEN Season 2"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "aybr_9MzKXI",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/aybr_9MzKXI/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
+	"popularity": 81668,
+	"color": "#5d86e4",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-kH9vbOEitIhl.jpg",
+	"description": "The second season of <i>Jujutsu Kaisen</i>.",
+	"status": "Not yet aired",
+	"releaseDate": 2023,
+	"startDate": {
+		"year": 2023,
+		"month": 7,
+		"day": 6
+	},
+	"endDate": {
+		"year": null,
+		"month": null,
+		"day": null
+	},
+	"nextAiringEpisode": {
+		"airingTime": 1688655360,
+		"timeUntilAiring": 5392451,
+		"episode": 1
+	},
+	"totalEpisodes": 0,
+	"currentEpisode": 0,
+	"rating": null,
+	"duration": null,
+	"genres": ["Action", "Drama", "Supernatural"],
+	"season": "SUMMER",
+	"studios": ["MAPPA"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [{
+      "id": 113415,
+      "malId": 40748,
+      "title": {
+        "romaji": "Jujutsu Kaisen",
+		"english": "JUJUTSU KAISEN",
+		"native": "呪術廻戦"
+      },
+      "status": "Completed",
+      "episodes": 24,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113415-jQBSkxWAAk83.jpg",
+      "rating": 86,
+      "type": "tv",
+	  "animeurl": "jujutsu-kaisen-tv"
+    },
+	{
+      "id": 131573,
+      "malId": 48561,
+      "title": {
+        "romaji": "Jujutsu Kaisen 0",
+		"english": "JUJUTSU KAISEN 0",
+		"native": "呪術廻戦 0"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131573-rpl82vDEDRm6.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131573-3veuVz5p0z2I.jpg",
+      "rating": 85,
+      "type": "movie",
+	  "animeurl": "jujutsu-kaisen-0"
+    },
+	{
+      "id": 145064,
+      "malId": 51009,
+      "title": {
+        "romaji": "Jujutsu Kaisen 2nd Season",
+		"english": "Jujutsu Kaisen Season 2",
+		"native": "呪術廻戦 第2期"
+      },
+      "status": "Not yet aired",
+      "episodes": 0,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-kH9vbOEitIhl.jpg",
+      "rating": null,
+      "type": "TV",
+	  "animeurl": "jujutsu-kaisen-season-2"
+    }],
+	"characters": [{
+		"id": 127691,
+		"role": "MAIN",
+		"name": {
+			"first": "Satoru",
+			"last": "Gojou",
+			"full": "Satoru Gojou",
+			"native": "五条悟",
+			"userPreferred": "Satoru Gojou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-6m4hNwL2vLML.png",
+		"voiceActors": [{
+			"id": 95513,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuichi",
+				"last": "Nakamura",
+				"full": "Yuuichi Nakamura",
+				"native": "中村悠一",
+				"userPreferred": "Yuuichi Nakamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+		}]
+	}, {
+		"id": 133699,
+		"role": "MAIN",
+		"name": {
+			"first": "Suguru",
+			"last": "Getou",
+			"full": "Suguru Getou",
+			"native": "夏油傑",
+			"userPreferred": "Suguru Getou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b133699-FCnXaISgazAi.png",
+		"voiceActors": [{
+			"id": 95079,
+			"language": "Japanese",
+			"name": {
+				"first": "Takahiro",
+				"last": "Sakurai",
+				"full": "Takahiro Sakurai",
+				"native": "櫻井孝宏",
+				"userPreferred": "Takahiro Sakurai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg"
+		}]
+	}, {
+		"id": 127212,
+		"role": "MAIN",
+		"name": {
+			"first": "Yuuji",
+			"last": "Itadori",
+			"full": "Yuuji Itadori",
+			"native": "虎杖悠仁",
+			"userPreferred": "Yuuji Itadori"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png",
+		"voiceActors": [{
+			"id": 119319,
+			"language": "Japanese",
+			"name": {
+				"first": "Junya",
+				"last": "Enoki",
+				"full": "Junya Enoki",
+				"native": "榎木淳弥",
+				"userPreferred": "Junya Enoki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png"
+		}]
+	}, {
+		"id": 126635,
+		"role": "MAIN",
+		"name": {
+			"first": "Megumi",
+			"last": "Fushiguro",
+			"full": "Megumi Fushiguro",
+			"native": "伏黒恵",
+			"userPreferred": "Megumi Fushiguro"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png",
+		"voiceActors": []
+	}, {
+		"id": 133700,
+		"role": "MAIN",
+		"name": {
+			"first": "Nobara",
+			"last": "Kugisaki",
+			"full": "Nobara Kugisaki",
+			"native": "釘崎野薔薇",
+			"userPreferred": "Nobara Kugisaki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png",
+		"voiceActors": []
+	}, {
+		"id": 162722,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Touji",
+			"last": "Fushiguro",
+			"full": "Touji Fushiguro",
+			"native": "伏黒甚爾",
+			"userPreferred": "Touji Fushiguro"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162722-btzdghBizxKS.jpg",
+		"voiceActors": [{
+			"id": 95160,
+			"language": "Japanese",
+			"name": {
+				"first": "Takehito",
+				"last": "Koyasu",
+				"full": "Takehito Koyasu",
+				"native": "子安武人",
+				"userPreferred": "Takehito Koyasu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+		}]
+	}, {
+		"id": 133702,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mahito",
+			"last": null,
+			"full": "Mahito",
+			"native": "真人",
+			"userPreferred": "Mahito"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b133702-Y7JRG5vAvjIL.png",
+		"voiceActors": []
+	}, {
+		"id": 203015,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Riko",
+			"last": "Amanai",
+			"full": "Riko Amanai",
+			"native": "天内理子",
+			"userPreferred": "Riko Amanai"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b203015-U2UwIirvSN3x.jpg",
+		"voiceActors": [{
+			"id": 182100,
+			"language": "Japanese",
+			"name": {
+				"first": "Anna",
+				"last": "Nagase",
+				"full": "Anna Nagase",
+				"native": "永瀬アンナ",
+				"userPreferred": "Anna Nagase"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182100-buLXSv62GTH2.png"
+		}]
+	}, {
+		"id": 189237,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Masamichi",
+			"last": "Yaga",
+			"full": "Masamichi Yaga",
+			"native": "夜蛾正道",
+			"userPreferred": "Masamichi Yaga"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b189237-ZxNJwVPL8DvW.png",
+		"voiceActors": []
+	}, {
+		"id": 158154,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shoko ",
+			"last": "Ieiri",
+			"full": "Shoko  Ieiri",
+			"native": "家入硝子",
+			"userPreferred": "Shoko  Ieiri"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b158154-UCqbiULli62P.png",
+		"voiceActors": [{
+			"id": 95054,
+			"language": "Japanese",
+			"name": {
+				"first": "Aya",
+				"last": "Endou",
+				"full": "Aya Endou",
+				"native": "遠藤綾",
+				"userPreferred": "Aya Endou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png"
+		}]
+	}, {
+		"id": 255175,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Misato",
+			"last": "Kuroi",
+			"full": "Misato Kuroi",
+			"native": "黒井美里",
+			"userPreferred": "Misato Kuroi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b255175-oaSiH89zIoyT.jpg",
+		"voiceActors": []
+	}, {
+		"id": 157864,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Utahime",
+			"last": "Iori",
+			"full": "Utahime Iori",
+			"native": "庵歌姫",
+			"userPreferred": "Utahime Iori"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg",
+		"voiceActors": []
+	}, {
+		"id": 157215,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mei Mei",
+			"last": null,
+			"full": "Mei Mei",
+			"native": "冥冥",
+			"userPreferred": "Mei Mei"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b157215-I3TQJu8nkDwD.jpg",
+		"voiceActors": []
+	}, {
+		"id": 281725,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yuu",
+			"last": "Haibara",
+			"full": "Yuu Haibara",
+			"native": "灰原雄",
+			"userPreferred": "Yuu Haibara"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b281725-aImxCs2acsfj.png",
+		"voiceActors": []
+	}, {
+		"id": 133704,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kento",
+			"last": "Nanami",
+			"full": "Kento Nanami",
+			"native": "七海建人",
+			"userPreferred": "Kento Nanami"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png",
+		"voiceActors": []
+	}, {
+		"id": 303313,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shiu",
+			"last": "Kong",
+			"full": "Shiu Kong",
+			"native": "孔時雨",
+			"userPreferred": "Shiu Kong"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b303313-StKHWc01Bewp.jpg",
+		"voiceActors": []
+	}],
+	"relations": [{
+		"id": 113415,
+		"relationType": "PREQUEL",
+		"malId": 40748,
+		"title": {
+			"romaji": "Jujutsu Kaisen",
+			"english": "JUJUTSU KAISEN",
+			"native": "呪術廻戦",
+			"userPreferred": "Jujutsu Kaisen"
+		},
+		"status": "Completed",
+		"episodes": 24,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
+		"color": "#e45d5d",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113415-jQBSkxWAAk83.jpg",
+		"rating": 86
+	}, {
+		"id": 101517,
+		"relationType": "ADAPTATION",
+		"malId": 113138,
+		"title": {
+			"romaji": "Jujutsu Kaisen",
+			"english": "Jujutsu Kaisen",
+			"native": "呪術廻戦",
+			"userPreferred": "Jujutsu Kaisen"
+		},
+		"status": "Ongoing",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101517-H3TdM3g5ZUe9.jpg",
+		"color": "#e4a15d",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/101517-FrJtb3Th3HtF.jpg",
+		"rating": 85
+	}],
+	"mappings": {
+		"mal": 51009,
+		"anidb": 17196,
+		"kitsu": 45857,
+		"anilist": 145064,
+		"thetvdb": 377543,
+		"anisearch": 17085,
+		"livechart": 11083,
+		"notify.moe": "zFlagCa7g",
+		"anime-planet": "jujutsu-kaisen-2nd-season"
+	},
+	"episodes": [{
+		"id": "jujutsu-kaisen-season-2-episode-1",
+		"title": null,
+		"description": null,
+		"number": 1,
+		"image": null,
+		"airDate": null
+	}]
+}
