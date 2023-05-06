@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "pokemon-ultimate-journeys",
+		"episodeId": "pokemon-ultimate-journeys-episode-42",
+		"name": "Pokémon Ultimate Journeys: The Series",
+		"jname": "Pocket Monsters (2019)",
+		"episodeNum": "42",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
+		"episodeUrl": "../anime/pokemon-ultimate-journeys"
+	},
+	{
 		"animeId": "tokyo-revengers-season-2",
 		"episodeId": "tokyo-revengers-season-2-episode-1",
 		"name": "Tokyo Revengers Season 2",
@@ -21,17 +32,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx199-ehguwq1mPvtN.jpg",
 		"episodeUrl": "../anime/spirited-away"
 	},
-	{
-		"animeId": "pokemon-ultimate-journeys",
-		"episodeId": "pokemon-ultimate-journeys-episode-41",
-		"name": "Pokémon Ultimate Journeys: The Series",
-		"jname": "Pocket Monsters (2019)",
-		"episodeNum": "41",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
-		"episodeUrl": "../anime/pokemon-ultimate-journeys"
-	},
+
 	{
 		"animeId": "bleach-thousand-year-blood-war",
 		"episodeId": "bleach-thousand-year-blood-war-episode-1",
