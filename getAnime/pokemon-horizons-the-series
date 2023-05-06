@@ -37,8 +37,8 @@
 		"timeUntilAiring": 533916,
 		"episode": 5
 	},
-	"totalEpisodes": 4,
-	"currentEpisode": 4,
+	"totalEpisodes": 5,
+	"currentEpisode": 5,
 	"rating": 72,
 	"duration": null,
 	"genres": ["Adventure", "Fantasy"],
@@ -346,5 +346,12 @@
 		"number": 4,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/9739897/screencap/644b039f7edd3.jpg",
 		"airDate": "2023-04-28T00:00:00.000Z"
+	}, {
+		"id": "pokemon-horizons-the-series-episode-5",
+		"title": null,
+		"description": null,
+		"number": 5,
+		"image": null,
+		"airDate": null
 	}]
 }
