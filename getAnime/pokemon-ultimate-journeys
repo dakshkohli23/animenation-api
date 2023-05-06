@@ -40,7 +40,7 @@
     "month": "",
     "day": ""
   },
-  "currentEpisodes": 38,
+  "currentEpisodes": 42,
   "totalEpisodes": 42,
   "rating": 73,
   "duration": 24,
@@ -3397,6 +3397,11 @@
       "id": "pokemon-ultimate-journeys-episode-41",
       "title": "Pokémon Ultimate Journeys: The Series Episode 41",
       "number": 41
+    },
+    {
+      "id": "pokemon-ultimate-journeys-episode-42",
+      "title": "Pokémon Ultimate Journeys: The Series Episode 42",
+      "number": 42
     }
     
   ]
