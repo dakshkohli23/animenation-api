@@ -1,4 +1,15 @@
 [
+	{
+		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
+		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-5",
+		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+		"episodeNum": "5",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
+		"episodeUrl": "../anime/kimetsu-no-yaiba-katanakaji-no-satohen"
+	},
 {
 		"animeId": "pokemon-horizons-the-series",
 		"episodeId": "pokemon-horizons-the-series-episode-5",
@@ -54,17 +65,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
 		"episodeUrl": "../anime/to-every-you-i-ve-loved-before"
 	},
-	{
-		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
-		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-4",
-		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-		"episodeNum": "4",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-		"episodeUrl": "../anime/kimetsu-no-yaiba-katanakaji-no-satohen"
-	},
+
 
 
 {
