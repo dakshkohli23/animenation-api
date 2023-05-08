@@ -564,6 +564,18 @@
             "genres": ["Mystery", "Psychological", "Supernatural", "Thriller"]
         },
         {
+            "animeId": "death-note-relight",
+            "episodeId": "death-note-relight-episode-1",
+            "name": "Death Note: Relight",
+            "jname": "DEATH NOTE Rewrite",
+            "episodeNum": "2",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2994-mlofkz5GpkIu.jpg",
+            "type": "special",
+            "episodeUrl": "anime/death-note-relight",
+            "genres": ["Mystery", "Psychological", "Supernatural", "Thriller"]
+        },
+        {
             "animeId": "kimetsu-no-yaiba-mugen-resshahen",
             "episodeId": "kimetsu-no-yaiba-mugen-resshahen-episode-1",
             "name": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
