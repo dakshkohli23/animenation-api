@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "death-note",
+		"episodeId": "death-note-episode-1",
+		"name": "Death Note",
+		"jname": "DEATH NOTE",
+		"episodeNum": "37",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg",
+		"episodeUrl": "../anime/death-note"
+	},
+	{
 		"animeId": "samurai-champloo",
 		"episodeId": "samurai-champloo-episode-1",
 		"name": "Samurai Champloo",
