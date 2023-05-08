@@ -1,0 +1,26 @@
+[
+        {
+            "server1": "2tcjn52krdzp",
+            "animeNameWithEP": "Death Note: Relight Episode 1",
+            "ep_num": "1",
+            "anime_info": "death-note-relight",
+            "movie_id": "2994",
+            "alias": "death-note-relight",
+            "nextEpText": "Death Note: Relight Episode 2 >>",
+            "nextEpLink": "/death-note-relight-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "289tj8e2maut",
+            "animeNameWithEP": "Death Note: Relight Episode 2",
+            "ep_num": "2",
+            "anime_info": "death-note-relight",
+            "movie_id": "2994",
+            "alias": "death-note-relight",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Death Note: Relight Episode 1",
+            "prevEpLink": "/death-note-relight-episode-1"
+        }
+    ]
