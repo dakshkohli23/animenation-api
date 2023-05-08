@@ -552,6 +552,18 @@
             "genres": ["Drama", "Mystery", "Psychological"]
         },
         {
+            "animeId": "death-note",
+            "episodeId": "death-note-episode-1",
+            "name": "Death Note",
+            "jname": "DEATH NOTE",
+            "episodeNum": "37",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/death-note",
+            "genres": ["Mystery", "Psychological", "Supernatural", "Thriller"]
+        },
+        {
             "animeId": "kimetsu-no-yaiba-mugen-resshahen",
             "episodeId": "kimetsu-no-yaiba-mugen-resshahen-episode-1",
             "name": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
