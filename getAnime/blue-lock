@@ -1,1 +1,2052 @@
-
+{
+	"id": "137822",
+	"title": {
+		"romaji": "Blue Lock",
+		"english": "BLUELOCK",
+		"native": "ブルーロック"
+	},
+	"malId": 49596,
+	"synonyms": ["BLUE LOCK ขังดวลแข้ง", " بلو لوك"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "IVsII3dLbWc",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/IVsII3dLbWc/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-4dVWMSHLpGf8.png",
+	"popularity": 145744,
+	"color": "#286be4",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137822-oevspckMGLuY.jpg",
+	"description": "Japan’s desire for World Cup glory leads the Japanese Football Association to launch a new rigorous training program to find the national team’s next striker. Three hundred high school players are pitted against each other for the position, but only one will come out on top. Who among them will be the striker to usher in a new era of Japanese soccer?<br>\n<br>\n(Source: Crunchyroll)",
+	"status": "Completed",
+	"releaseDate": 2022,
+	"startDate": {
+		"year": 2022,
+		"month": 10,
+		"day": 9
+	},
+	"endDate": {
+		"year": 2023,
+		"month": 3,
+		"day": 26
+	},
+	"totalEpisodes": 24,
+	"currentEpisode": 24,
+	"rating": 82,
+	"duration": 25,
+	"genres": ["Action", "Drama", "Sports"],
+	"season": "FALL",
+	"studios": ["8-bit"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 140856,
+		"role": "MAIN",
+		"name": {
+			"first": "Yoichi",
+			"last": "Isagi",
+			"full": "Yoichi Isagi",
+			"native": "潔世一",
+			"userPreferred": "Yoichi Isagi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b140856-wVzKSyvU7R5B.png",
+		"voiceActors": [{
+			"id": 220465,
+			"language": "Japanese",
+			"name": {
+				"first": "Kazuki",
+				"last": "Ura",
+				"full": "Kazuki Ura",
+				"native": "浦和希",
+				"userPreferred": "Kazuki Ura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n220465-BUFqCWqdHyLo.png"
+		}, {
+			"id": 130279,
+			"language": "Japanese",
+			"name": {
+				"first": "Eri",
+				"last": "Yukimura",
+				"full": "Eri Yukimura",
+				"native": "幸村恵理",
+				"userPreferred": "Eri Yukimura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n130279-GEfikpdWucji.png"
+		}, {
+			"id": 111775,
+			"language": "English",
+			"name": {
+				"first": "Ricco",
+				"last": "Fajardo",
+				"full": "Ricco Fajardo",
+				"native": null,
+				"userPreferred": "Ricco Fajardo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111775-TVUcuiV0X1Dg.png"
+		}, {
+			"id": 225968,
+			"language": "Italian",
+			"name": {
+				"first": "Giuseppe",
+				"last": "Palasciano",
+				"full": "Giuseppe Palasciano",
+				"native": null,
+				"userPreferred": "Giuseppe Palasciano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n225968-qqeYdeESKotp.jpg"
+		}, {
+			"id": 193945,
+			"language": "Spanish",
+			"name": {
+				"first": "Armando",
+				"last": "Guerrero",
+				"full": "Armando Guerrero",
+				"native": "Jesús Armando Guerrero Morales",
+				"userPreferred": "Armando Guerrero"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n193945-g5RZlBJvMNQC.png"
+		}, {
+			"id": 185552,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcus",
+				"last": "Pejon",
+				"full": "Marcus Pejon",
+				"native": null,
+				"userPreferred": "Marcus Pejon"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185552-GcFdQps4hXrr.jpg"
+		}, {
+			"id": 286056,
+			"language": "French",
+			"name": {
+				"first": "Paul",
+				"last": "Bertin-Hugault",
+				"full": "Paul Bertin-Hugault",
+				"native": null,
+				"userPreferred": "Paul Bertin-Hugault"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 262681,
+			"language": "German",
+			"name": {
+				"first": "Tom",
+				"last": "Ferenc",
+				"full": "Tom Ferenc",
+				"native": null,
+				"userPreferred": "Tom Ferenc"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n262681-qpaBgCUGs2vL.jpg"
+		}]
+	}, {
+		"id": 162213,
+		"role": "MAIN",
+		"name": {
+			"first": "Meguru",
+			"last": "Bachira",
+			"full": "Meguru Bachira",
+			"native": "蜂楽廻",
+			"userPreferred": "Meguru Bachira"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162213-EYCAKuDmGi3g.jpg",
+		"voiceActors": [{
+			"id": 236528,
+			"language": "Japanese",
+			"name": {
+				"first": "Tasuku",
+				"last": "Kaito",
+				"full": "Tasuku Kaito",
+				"native": "海渡翼",
+				"userPreferred": "Tasuku Kaito"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n236528-8A7MREB5CAdG.png"
+		}, {
+			"id": 127666,
+			"language": "Japanese",
+			"name": {
+				"first": "Miho",
+				"last": "Okasaki",
+				"full": "Miho Okasaki",
+				"native": " 岡咲美保",
+				"userPreferred": "Miho Okasaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127666-kJTHGXxNtzKU.png"
+		}, {
+			"id": 101482,
+			"language": "English",
+			"name": {
+				"first": "Drew",
+				"last": "Breedlove",
+				"full": "Drew Breedlove",
+				"native": null,
+				"userPreferred": "Drew Breedlove"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101482-Bgj2yv7lovcZ.jpg"
+		}, {
+			"id": 282925,
+			"language": "English",
+			"name": {
+				"first": "Monét",
+				"last": "Lerner",
+				"full": "Monét Lerner",
+				"native": null,
+				"userPreferred": "Monét Lerner"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n282925-jBoKzEA0Q9ho.jpg"
+		}, {
+			"id": 240348,
+			"language": "Italian",
+			"name": {
+				"first": "Simone",
+				"last": "Marzola",
+				"full": "Simone Marzola",
+				"native": null,
+				"userPreferred": "Simone Marzola"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n240348-25XuYdyn4Jz9.jpg"
+		}, {
+			"id": 184120,
+			"language": "Spanish",
+			"name": {
+				"first": "Diego",
+				"last": "Becerril",
+				"full": "Diego Becerril",
+				"native": null,
+				"userPreferred": "Diego Becerril"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184120-eNsy8lrRiqge.png"
+		}, {
+			"id": 175519,
+			"language": "Portuguese",
+			"name": {
+				"first": "Mattheus",
+				"last": "Caliano",
+				"full": "Mattheus Caliano",
+				"native": null,
+				"userPreferred": "Mattheus Caliano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175519-HUYIgGGOb8Rm.jpg"
+		}, {
+			"id": 285880,
+			"language": "French",
+			"name": {
+				"first": "Garlan",
+				"last": "Le Martelot",
+				"full": "Garlan Le Martelot",
+				"native": null,
+				"userPreferred": "Garlan Le Martelot"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n285880-uPnEXm4Y41sP.jpg"
+		}, {
+			"id": 290510,
+			"language": "German",
+			"name": {
+				"first": "Finn",
+				"last": "Posthumus",
+				"full": "Finn Posthumus",
+				"native": null,
+				"userPreferred": "Finn Posthumus"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n290510-CaWvIRDjubSr.jpg"
+		}]
+	}, {
+		"id": 162214,
+		"role": "MAIN",
+		"name": {
+			"first": "Rensuke",
+			"last": "Kunigami",
+			"full": "Rensuke Kunigami",
+			"native": "國神錬介",
+			"userPreferred": "Rensuke Kunigami"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162214-9x9Q3A9rxpx8.png",
+		"voiceActors": [{
+			"id": 96154,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuki",
+				"last": "Ono",
+				"full": "Yuuki Ono",
+				"native": "小野友樹",
+				"userPreferred": "Yuuki Ono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96154-B8GAO9wm1Fbd.jpg"
+		}, {
+			"id": 274777,
+			"language": "English",
+			"name": {
+				"first": "Alex",
+				"last": "Hom",
+				"full": "Alex Hom",
+				"native": null,
+				"userPreferred": "Alex Hom"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n274777-em1c1dU52dqe.jpg"
+		}, {
+			"id": 157475,
+			"language": "Italian",
+			"name": {
+				"first": "Ezio ",
+				"last": "Vivolo",
+				"full": "Ezio  Vivolo",
+				"native": "Ezio Vivolo",
+				"userPreferred": "Ezio  Vivolo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157475-tntPpQo6GoWM.jpg"
+		}, {
+			"id": 117179,
+			"language": "Spanish",
+			"name": {
+				"first": "Arturo",
+				"last": "Castañeda",
+				"full": "Arturo Castañeda",
+				"native": null,
+				"userPreferred": "Arturo Castañeda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117179-7jGqruzVaaSq.png"
+		}, {
+			"id": 176912,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcos",
+				"last": "Souza",
+				"full": "Marcos Souza",
+				"native": null,
+				"userPreferred": "Marcos Souza"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176912-AbNkAZQV9bZX.jpg"
+		}, {
+			"id": 274232,
+			"language": "French",
+			"name": {
+				"first": "Romain",
+				"last": "Altché",
+				"full": "Romain Altché",
+				"native": null,
+				"userPreferred": "Romain Altché"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n274232-ORWab1XxdPU3.jpg"
+		}, {
+			"id": 232287,
+			"language": "German",
+			"name": {
+				"first": "Jonas",
+				"last": "Lauenstein",
+				"full": "Jonas Lauenstein",
+				"native": null,
+				"userPreferred": "Jonas Lauenstein"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n232287-s27byQvcIjzf.png"
+		}]
+	}, {
+		"id": 167444,
+		"role": "MAIN",
+		"name": {
+			"first": "Hyoma",
+			"last": "Chigiri",
+			"full": "Hyoma Chigiri",
+			"native": "千切 豹馬",
+			"userPreferred": "Hyoma Chigiri"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b167444-JTHkkJAX4E3q.png",
+		"voiceActors": [{
+			"id": 113227,
+			"language": "Japanese",
+			"name": {
+				"first": "Souma",
+				"last": "Saitou",
+				"full": "Souma Saitou",
+				"native": "斉藤壮馬",
+				"userPreferred": "Souma Saitou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png"
+		}, {
+			"id": 95254,
+			"language": "English",
+			"name": {
+				"first": "Aaron",
+				"last": "Dismuke",
+				"full": "Aaron Dismuke",
+				"native": null,
+				"userPreferred": "Aaron Mitchell  Dismuke"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/95254-xJ1ehSZtmMsE.jpg"
+		}, {
+			"id": 157484,
+			"language": "Italian",
+			"name": {
+				"first": "Jacopo",
+				"last": "Calatroni",
+				"full": "Jacopo Calatroni",
+				"native": null,
+				"userPreferred": "Jacopo Calatroni"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157484-s0pcFLG0e3Pz.jpg"
+		}, {
+			"id": 230296,
+			"language": "Spanish",
+			"name": {
+				"first": "Eduardo",
+				"last": "Curiel",
+				"full": "Eduardo Curiel",
+				"native": "Eduardo Curiel Hernández",
+				"userPreferred": "Eduardo Curiel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n230296-phjfAFfaGFTC.png"
+		}, {
+			"id": 185307,
+			"language": "Portuguese",
+			"name": {
+				"first": "Lucas",
+				"last": "Gama",
+				"full": "Lucas Gama",
+				"native": null,
+				"userPreferred": "Lucas Gama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185307-72SiMiLUWKSV.png"
+		}, {
+			"id": 247887,
+			"language": "French",
+			"name": {
+				"first": "Sébastien",
+				"last": "Baulain",
+				"full": "Sébastien Baulain",
+				"native": null,
+				"userPreferred": "Sébastien Baulain"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n247887-LGzpgvtd5x7W.jpg"
+		}]
+	}, {
+		"id": 169392,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Wataru",
+			"last": "Kuon",
+			"full": "Wataru Kuon",
+			"native": "久遠渡",
+			"userPreferred": "Wataru Kuon"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b169392-IWGJIFHcBsLa.png",
+		"voiceActors": [{
+			"id": 118658,
+			"language": "Japanese",
+			"name": {
+				"first": "Masatomo",
+				"last": "Nakazawa",
+				"full": "Masatomo Nakazawa",
+				"native": "中澤匡智 ",
+				"userPreferred": "Masatomo Nakazawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118658-797WoxHKZkp1.jpg"
+		}, {
+			"id": 129669,
+			"language": "English",
+			"name": {
+				"first": "Mark",
+				"last": "Allen Jr.",
+				"full": "Mark Allen Jr.",
+				"native": null,
+				"userPreferred": "Mark Allen Jr."
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129669-3RQLaSnVOOWu.jpg"
+		}, {
+			"id": 169130,
+			"language": "Italian",
+			"name": {
+				"first": "Davide",
+				"last": "Fumagalli",
+				"full": "Davide Fumagalli",
+				"native": null,
+				"userPreferred": "Davide Fumagalli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n169130-KPjTMCk6CJ19.jpg"
+		}, {
+			"id": 203261,
+			"language": "Spanish",
+			"name": {
+				"first": "David",
+				"last": "Ramos",
+				"full": "David Ramos",
+				"native": null,
+				"userPreferred": "David Ramos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n203261-VIQksZhsXxYx.png"
+		}, {
+			"id": 180880,
+			"language": "Portuguese",
+			"name": {
+				"first": "Hugo",
+				"last": "Myara",
+				"full": "Hugo Myara",
+				"native": "Hugo Myara",
+				"userPreferred": "Hugo Myara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n180880-ZjP0TlYqFm4z.jpg"
+		}, {
+			"id": 218899,
+			"language": "French",
+			"name": {
+				"first": "Sébastien",
+				"last": "Minéo",
+				"full": "Sébastien Minéo",
+				"native": null,
+				"userPreferred": "Sébastien Minéo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n218899-R8ZOfAp7UmQx.jpg"
+		}, {
+			"id": 103847,
+			"language": "German",
+			"name": {
+				"first": "Asad",
+				"last": "Schwarz-Msesilamba",
+				"full": "Asad Schwarz-Msesilamba",
+				"native": null,
+				"userPreferred": "Asad Schwarz-Msesilamba"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8847.jpg"
+		}]
+	}, {
+		"id": 162969,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Seishirou",
+			"last": "Nagi",
+			"full": "Seishirou Nagi",
+			"native": "凪誠士郎",
+			"userPreferred": "Seishirou Nagi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162969-WGnGyVQrFi0X.png",
+		"voiceActors": [{
+			"id": 105989,
+			"language": "Japanese",
+			"name": {
+				"first": "Nobunaga",
+				"last": "Shimazaki",
+				"full": "Nobunaga Shimazaki",
+				"native": "島崎信長",
+				"userPreferred": "Nobunaga Shimazaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg"
+		}, {
+			"id": 128751,
+			"language": "English",
+			"name": {
+				"first": "Bryson",
+				"last": "Baugus",
+				"full": "Bryson Baugus",
+				"native": null,
+				"userPreferred": "Bryson Baugus"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128751-F22P5B8FUBh5.jpg"
+		}, {
+			"id": 182198,
+			"language": "Spanish",
+			"name": {
+				"first": "Héctor",
+				"last": "Ireta de Alba",
+				"full": "Héctor Ireta de Alba",
+				"native": "Héctor Cuevas Ireta de Alba",
+				"userPreferred": "Héctor Ireta de Alba"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182198-MWWfG9lMVddi.png"
+		}, {
+			"id": 182482,
+			"language": "Portuguese",
+			"name": {
+				"first": "Cadu",
+				"last": "Paschoal",
+				"full": "Cadu Paschoal",
+				"native": null,
+				"userPreferred": "Cadu Paschoal"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182482-qfmvKPOixejA.jpg"
+		}, {
+			"id": 296869,
+			"language": "French",
+			"name": {
+				"first": "Pablo",
+				"last": "Cherrey-Itturalde",
+				"full": "Pablo Cherrey-Itturalde",
+				"native": null,
+				"userPreferred": "Pablo Cherrey-Itturalde"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n296869-HXaMuRItJRmE.jpg"
+		}]
+	}, {
+		"id": 169396,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Aoshi",
+			"last": "Tokimitsu",
+			"full": "Aoshi Tokimitsu",
+			"native": "時光青志",
+			"userPreferred": "Aoshi Tokimitsu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b169396-H7Te5t4JXfRU.png",
+		"voiceActors": [{
+			"id": 95792,
+			"language": "Japanese",
+			"name": {
+				"first": "Shinnosuke",
+				"last": "Tachibana",
+				"full": "Shinnosuke Tachibana",
+				"native": "立花慎之介",
+				"userPreferred": "Shinnosuke Tachibana"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95792-5413Ip70mSdV.jpg"
+		}, {
+			"id": 148764,
+			"language": "English",
+			"name": {
+				"first": "Jordan Dash",
+				"last": "Cruz",
+				"full": "Jordan Dash Cruz",
+				"native": null,
+				"userPreferred": "Jordan Dash Cruz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n148764-jKjUXzYlCikt.jpg"
+		}, {
+			"id": 182230,
+			"language": "Spanish",
+			"name": {
+				"first": "Alberto",
+				"last": "Bernal",
+				"full": "Alberto Bernal",
+				"native": "Alberto Bernal García",
+				"userPreferred": "Alberto Bernal"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182230-U2LIlKLHrRQZ.png"
+		}, {
+			"id": 264326,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcus",
+				"last": "Eni",
+				"full": "Marcus Eni",
+				"native": null,
+				"userPreferred": "Marcus Eni"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 218901,
+			"language": "French",
+			"name": {
+				"first": "Rémi",
+				"last": "Gutton",
+				"full": "Rémi Gutton",
+				"native": null,
+				"userPreferred": "Rémi Gutton"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 293894,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Iyo",
+			"last": "Isagi",
+			"full": "Iyo Isagi",
+			"native": "潔伊世",
+			"userPreferred": "Iyo Isagi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b293894-SVjDnQE0aIYm.jpg",
+		"voiceActors": [{
+			"id": 95031,
+			"language": "Japanese",
+			"name": {
+				"first": "Mai",
+				"last": "Nakahara",
+				"full": "Mai Nakahara",
+				"native": "中原麻衣",
+				"userPreferred": "Mai Nakahara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-tipPIz2k0Ncw.png"
+		}, {
+			"id": 293895,
+			"language": "English",
+			"name": {
+				"first": "Katie",
+				"last": "Stone",
+				"full": "Katie Stone",
+				"native": null,
+				"userPreferred": "Katie Stone"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n293895-YLmCEzg70lK6.png"
+		}, {
+			"id": 201434,
+			"language": "Spanish",
+			"name": {
+				"first": "Anette",
+				"last": "Ugalde",
+				"full": "Anette Ugalde",
+				"native": "Anette Juliana García Ugalde Millán",
+				"userPreferred": "Anette Ugalde"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201434-LbV9h63dKTof.png"
+		}, {
+			"id": 182621,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcela",
+				"last": "Duarte",
+				"full": "Marcela Duarte",
+				"native": null,
+				"userPreferred": "Marcela Duarte"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182621-kvyYRr7eAYIA.jpg"
+		}, {
+			"id": 170199,
+			"language": "French",
+			"name": {
+				"first": "Leslie",
+				"last": "Lipkins",
+				"full": "Leslie Lipkins",
+				"native": null,
+				"userPreferred": "Leslie Lipkins"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 269064,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Julian",
+			"last": "Loki",
+			"full": "Julian Loki",
+			"native": "ジュリアン・ロキ",
+			"userPreferred": "Julian Loki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b269064-dgyvDQwg8M2n.jpg",
+		"voiceActors": [{
+			"id": 95356,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiro",
+				"last": "Shimono",
+				"full": "Hiro Shimono",
+				"native": "下野紘",
+				"userPreferred": "Hiro Shimono"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png"
+		}, {
+			"id": 185534,
+			"language": "English",
+			"name": {
+				"first": "Kevin",
+				"last": "Thelwell",
+				"full": "Kevin Thelwell",
+				"native": null,
+				"userPreferred": "Kevin Thelwell"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185534-Ttlc9v2ojUP3.png"
+		}, {
+			"id": 205849,
+			"language": "Spanish",
+			"name": {
+				"first": "Fernando",
+				"last": "Moctezuma",
+				"full": "Fernando Moctezuma",
+				"native": null,
+				"userPreferred": "Fernando Moctezuma"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n205849-qrBqxhdh3bKx.png"
+		}, {
+			"id": 272192,
+			"language": "Portuguese",
+			"name": {
+				"first": "Daniel",
+				"last": "Machline",
+				"full": "Daniel Machline",
+				"native": null,
+				"userPreferred": "Daniel Machline"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n272192-U9ONk3ae4mbS.png"
+		}]
+	}, {
+		"id": 140857,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Jinpachi",
+			"last": "Ego",
+			"full": "Jinpachi Ego",
+			"native": "絵心甚八",
+			"userPreferred": "Jinpachi Ego"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b140857-DOTyKBCufon9.png",
+		"voiceActors": [{
+			"id": 95118,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroshi",
+				"last": "Kamiya",
+				"full": "Hiroshi Kamiya",
+				"native": "神谷浩史",
+				"userPreferred": "Hiroshi Kamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+		}, {
+			"id": 129490,
+			"language": "English",
+			"name": {
+				"first": "Derick",
+				"last": "Snow",
+				"full": "Derick Snow",
+				"native": null,
+				"userPreferred": "Derick Snow"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129490-L9VSJJtAl9wv.jpg"
+		}, {
+			"id": 96282,
+			"language": "Italian",
+			"name": {
+				"first": "Paolo",
+				"last": "De Santis",
+				"full": "Paolo De Santis",
+				"native": null,
+				"userPreferred": "Paolo De Santis"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1282.jpg"
+		}, {
+			"id": 102094,
+			"language": "Spanish",
+			"name": {
+				"first": "Eduardo",
+				"last": "Garza",
+				"full": "Eduardo Garza",
+				"native": "José Eduardo Garza Escudero",
+				"userPreferred": "Eduardo Garza"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102094-IK5XCbLdQNrZ.png"
+		}, {
+			"id": 185300,
+			"language": "Portuguese",
+			"name": {
+				"first": "Thiago",
+				"last": "Fagundes",
+				"full": "Thiago Fagundes",
+				"native": null,
+				"userPreferred": "Thiago Fagundes"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185300-gDvPCMlpjKC9.png"
+		}, {
+			"id": 291174,
+			"language": "French",
+			"name": {
+				"first": "Grégory",
+				"last": "Kristoforoff",
+				"full": "Grégory Kristoforoff",
+				"native": null,
+				"userPreferred": "Grégory Kristoforoff"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n291174-8h8pzqbzaGh9.jpg"
+		}, {
+			"id": 104166,
+			"language": "German",
+			"name": {
+				"first": "Rainer",
+				"last": "Fritzsche",
+				"full": "Rainer Fritzsche",
+				"native": null,
+				"userPreferred": "Rainer Fritzsche"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9166.jpg"
+		}]
+	}, {
+		"id": 169394,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Reo",
+			"last": "Mikage",
+			"full": "Reo Mikage",
+			"native": "御影玲王",
+			"userPreferred": "Reo Mikage"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b169394-8KDqHUN1VyGC.png",
+		"voiceActors": [{
+			"id": 119617,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuma",
+				"last": "Uchida",
+				"full": "Yuuma Uchida",
+				"native": "内田雄馬",
+				"userPreferred": "Yuuma Uchida"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png"
+		}, {
+			"id": 163903,
+			"language": "Japanese",
+			"name": {
+				"first": "Nene",
+				"last": "Hieda",
+				"full": "Nene Hieda",
+				"native": "稗田寧々",
+				"userPreferred": "Nene Hieda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163903-22LPSYo8TEYU.png"
+		}, {
+			"id": 259457,
+			"language": "English",
+			"name": {
+				"first": "Kamen",
+				"last": "Casey",
+				"full": "Kamen Casey",
+				"native": null,
+				"userPreferred": "Kamen Casey"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n259457-f05rTkDSwdZh.jpg"
+		}, {
+			"id": 139012,
+			"language": "Spanish",
+			"name": {
+				"first": "Tommy",
+				"last": "Rojas",
+				"full": "Tommy Rojas",
+				"native": null,
+				"userPreferred": "Tommy Rojas"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139012-CRFkQ2MpeM7Y.png"
+		}, {
+			"id": 182623,
+			"language": "Portuguese",
+			"name": {
+				"first": "Yuri",
+				"last": "Tupper",
+				"full": "Yuri Tupper",
+				"native": null,
+				"userPreferred": "Yuri Tupper"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182623-CntIlxalFFW2.jpg"
+		}, {
+			"id": 216178,
+			"language": "French",
+			"name": {
+				"first": "Jonathan",
+				"last": "Gimbord",
+				"full": "Jonathan Gimbord",
+				"native": null,
+				"userPreferred": "Jonathan Gimbord"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 289961,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hibiki",
+			"last": "Ookawa",
+			"full": "Hibiki Ookawa",
+			"native": "大川響鬼",
+			"userPreferred": "Hibiki Ookawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b289961-0C6DkMMCP1m1.png",
+		"voiceActors": [{
+			"id": 153049,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuki",
+				"last": "Shin",
+				"full": "Yuuki Shin",
+				"native": "新祐樹",
+				"userPreferred": "Yuuki Shin"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153049-K0czk9NRoLWz.png"
+		}, {
+			"id": 274772,
+			"language": "English",
+			"name": {
+				"first": "Monty",
+				"last": "Thompson",
+				"full": "Monty Thompson",
+				"native": null,
+				"userPreferred": "Monty Thompson"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n274772-hjjI16AcshSl.jpg"
+		}, {
+			"id": 196340,
+			"language": "Spanish",
+			"name": {
+				"first": "Roberto",
+				"last": "Cuevas",
+				"full": "Roberto Cuevas",
+				"native": "Mario Roberto Aguilar Cuevas",
+				"userPreferred": "Roberto Cuevas"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n196340-X6xrxORrdux7.png"
+		}, {
+			"id": 153462,
+			"language": "Portuguese",
+			"name": {
+				"first": "William",
+				"last": "Viana",
+				"full": "William Viana",
+				"native": null,
+				"userPreferred": "William Viana"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153462-4jtYb5ERDNqS.jpg"
+		}, {
+			"id": 263454,
+			"language": "French",
+			"name": {
+				"first": "Thomas",
+				"last": "Debaene",
+				"full": "Thomas Debaene",
+				"native": null,
+				"userPreferred": "Thomas Debaene"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n263454-x4C26InkpVGS.jpg"
+		}]
+	}, {
+		"id": 299060,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yuu",
+			"last": "Bachira",
+			"full": "Yuu Bachira",
+			"native": "蜂楽優",
+			"userPreferred": "Yuu Bachira"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b299060-O5zirBDDRc6a.jpg",
+		"voiceActors": [{
+			"id": 95428,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuko",
+				"last": "Kaida",
+				"full": "Yuuko Kaida",
+				"native": "甲斐田裕子",
+				"userPreferred": "Yuuko Kaida"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95428-1e4kSvr5fkmQ.png"
+		}, {
+			"id": 199497,
+			"language": "Spanish",
+			"name": {
+				"first": "Cynthia",
+				"last": "Chong",
+				"full": "Cynthia Chong",
+				"native": null,
+				"userPreferred": "Cynthia Chong"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n199497-LhzFCYyRHcOm.png"
+		}, {
+			"id": 112813,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fernanda",
+				"last": "Baronne",
+				"full": "Fernanda Baronne",
+				"native": null,
+				"userPreferred": "Fernanda Baronne"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/17813.jpg"
+		}]
+	}, {
+		"id": 269065,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Adam",
+			"last": "Blake",
+			"full": "Adam Blake",
+			"native": "アダム・ブレイク",
+			"userPreferred": "Adam Blake"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b269065-Ofvc4btZNih1.jpg",
+		"voiceActors": [{
+			"id": 140941,
+			"language": "Japanese",
+			"name": {
+				"first": "Daisuke",
+				"last": "Takahashi",
+				"full": "Daisuke Takahashi",
+				"native": "高橋大輔",
+				"userPreferred": "Daisuke Takahashi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140941-NnA2r3NvTz4d.jpg"
+		}, {
+			"id": 95650,
+			"language": "English",
+			"name": {
+				"first": "Jason",
+				"last": "Liebrecht",
+				"full": "Jason Liebrecht",
+				"native": null,
+				"userPreferred": "Jason Liebrecht"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95650-jLPHOvW60DX3.jpg"
+		}, {
+			"id": 105021,
+			"language": "Spanish",
+			"name": {
+				"first": "José Gilberto",
+				"last": "Vilchis",
+				"full": "José Gilberto Vilchis",
+				"native": "José Gilberto Vilchis Barrero",
+				"userPreferred": "José Gilberto Vilchis"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105021-Bn6vy2ClY3uX.png"
+		}, {
+			"id": 96099,
+			"language": "Portuguese",
+			"name": {
+				"first": "Guilherme",
+				"last": "Briggs",
+				"full": "Guilherme Briggs",
+				"native": "Guilherme Neves Briggs",
+				"userPreferred": "Guilherme Briggs"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96099-n1wxTRslU9gj.jpg"
+		}]
+	}, {
+		"id": 186875,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ryuusei",
+			"last": "Shidou",
+			"full": "Ryuusei Shidou",
+			"native": "士道龍聖",
+			"userPreferred": "Ryuusei Shidou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b186875-JGHisZO21JxJ.png",
+		"voiceActors": [{
+			"id": 95513,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuichi",
+				"last": "Nakamura",
+				"full": "Yuuichi Nakamura",
+				"native": "中村悠一",
+				"userPreferred": "Yuuichi Nakamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+		}, {
+			"id": 248794,
+			"language": "English",
+			"name": {
+				"first": "Van",
+				"last": "Barr Jr.",
+				"full": "Van Barr Jr.",
+				"native": null,
+				"userPreferred": "Van Barr Jr."
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n248794-ZDOCG6HlqUQP.jpg"
+		}, {
+			"id": 191979,
+			"language": "Spanish",
+			"name": {
+				"first": "Óscar",
+				"last": "López",
+				"full": "Óscar López",
+				"native": null,
+				"userPreferred": "Óscar López"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n191979-VyqtLc8Psxyv.png"
+		}, {
+			"id": 182697,
+			"language": "Portuguese",
+			"name": {
+				"first": "Nando",
+				"last": "Sierpe",
+				"full": "Nando Sierpe",
+				"native": "Fernando Sierpe",
+				"userPreferred": "Nando Sierpe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182697-nUmQBwdfdjpi.png"
+		}]
+	}, {
+		"id": 169405,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Anri",
+			"last": "Teieri",
+			"full": "Anri Teieri",
+			"native": "帝襟アンリ",
+			"userPreferred": "Anri Teieri"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b169405-RFVC95ooQp13.png",
+		"voiceActors": [{
+			"id": 130279,
+			"language": "Japanese",
+			"name": {
+				"first": "Eri",
+				"last": "Yukimura",
+				"full": "Eri Yukimura",
+				"native": "幸村恵理",
+				"userPreferred": "Eri Yukimura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n130279-GEfikpdWucji.png"
+		}, {
+			"id": 129308,
+			"language": "English",
+			"name": {
+				"first": "Kasi",
+				"last": "Hollowell",
+				"full": "Kasi Hollowell",
+				"native": null,
+				"userPreferred": "Kasi Hollowell"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129308-5nG2HXcssv6x.jpg"
+		}, {
+			"id": 102533,
+			"language": "Italian",
+			"name": {
+				"first": "Francesca",
+				"last": "Bielli",
+				"full": "Francesca Bielli",
+				"native": null,
+				"userPreferred": "Francesca Bielli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7533.jpg"
+		}, {
+			"id": 117589,
+			"language": "Spanish",
+			"name": {
+				"first": "Guadalupe",
+				"last": "Leal",
+				"full": "Guadalupe Leal",
+				"native": "Guadalupe Leal Rodríguez",
+				"userPreferred": "Guadalupe Leal"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117589-rNBy132UI9kj.png"
+		}, {
+			"id": 168032,
+			"language": "Portuguese",
+			"name": {
+				"first": "Natali",
+				"last": "Pazete",
+				"full": "Natali Pazete",
+				"native": null,
+				"userPreferred": "Natali Pazete"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n168032-qv5mMg8WECwe.jpg"
+		}, {
+			"id": 174944,
+			"language": "French",
+			"name": {
+				"first": "Diane",
+				"last": "Kristanek",
+				"full": "Diane Kristanek",
+				"native": null,
+				"userPreferred": "Diane Kristanek"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 169397,
+		"role": "SUPPORTING",
+		"name": {
+			"first": " Sae",
+			"last": "Itoshi",
+			"full": " Sae Itoshi",
+			"native": "糸師冴",
+			"userPreferred": " Sae Itoshi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b169397-wC55onsv5u8t.jpg",
+		"voiceActors": [{
+			"id": 95079,
+			"language": "Japanese",
+			"name": {
+				"first": "Takahiro",
+				"last": "Sakurai",
+				"full": "Takahiro Sakurai",
+				"native": "櫻井孝宏",
+				"userPreferred": "Takahiro Sakurai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg"
+		}, {
+			"id": 120666,
+			"language": "English",
+			"name": {
+				"first": "Alejandro",
+				"last": "Saab",
+				"full": "Alejandro Saab",
+				"native": null,
+				"userPreferred": "Alejandro Saab"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120666-w1w9s5Y9z6vW.png"
+		}, {
+			"id": 119594,
+			"language": "Italian",
+			"name": {
+				"first": "Federico",
+				"last": "Viola",
+				"full": "Federico Viola",
+				"native": null,
+				"userPreferred": "Federico Viola"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119594-5QEcveRvgjbP.png"
+		}, {
+			"id": 184401,
+			"language": "Spanish",
+			"name": {
+				"first": "Rafael",
+				"last": "Escalante",
+				"full": "Rafael Escalante",
+				"native": null,
+				"userPreferred": "Rafael Escalante"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184401-xJbGa64QNOG3.jpg"
+		}, {
+			"id": 176914,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fabrício",
+				"last": "Vila Verde",
+				"full": "Fabrício Vila Verde",
+				"native": null,
+				"userPreferred": "Fabrício Vila Verde"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176914-57tAUwm2xrAZ.jpg"
+		}, {
+			"id": 202933,
+			"language": "French",
+			"name": {
+				"first": "Nicolas",
+				"last": "Dussaut",
+				"full": "Nicolas Dussaut",
+				"native": null,
+				"userPreferred": "Nicolas Dussaut"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 259190,
+			"language": "German",
+			"name": {
+				"first": "Michael",
+				"last": "Gugel",
+				"full": "Michael Gugel",
+				"native": null,
+				"userPreferred": "Michael Gugel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 290639,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hirotoshi",
+			"last": "Buratsuta",
+			"full": "Hirotoshi Buratsuta",
+			"native": "不乱蔦宏俊",
+			"userPreferred": "Hirotoshi Buratsuta"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b290639-ZDIplYogvNMW.jpg",
+		"voiceActors": [{
+			"id": 95651,
+			"language": "Japanese",
+			"name": {
+				"first": "Bin",
+				"last": "Shimada",
+				"full": "Bin Shimada",
+				"native": "島田敏",
+				"userPreferred": "Bin Shimada"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95651-6kRo7F4yb6Yt.png"
+		}, {
+			"id": 174456,
+			"language": "English",
+			"name": {
+				"first": "Garrett",
+				"last": "Schenck",
+				"full": "Garrett Schenck",
+				"native": null,
+				"userPreferred": "Garrett Schenck"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n174456-7UAk9P1k99iX.png"
+		}, {
+			"id": 101797,
+			"language": "Italian",
+			"name": {
+				"first": "Riccardo",
+				"last": "Rovatti",
+				"full": "Riccardo Rovatti",
+				"native": null,
+				"userPreferred": "Riccardo Rovatti"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6797.jpg"
+		}, {
+			"id": 254426,
+			"language": "Portuguese",
+			"name": {
+				"first": "Pádua",
+				"last": "Moreira",
+				"full": "Pádua Moreira",
+				"native": null,
+				"userPreferred": "Pádua Moreira"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 255837,
+			"language": "French",
+			"name": {
+				"first": "Eric",
+				"last": "LeBlanc",
+				"full": "Eric LeBlanc",
+				"native": null,
+				"userPreferred": "Eric LeBlanc"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 187523,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Eita ",
+			"last": "Otoya",
+			"full": "Eita  Otoya",
+			"native": "乙夜影汰",
+			"userPreferred": "Eita  Otoya"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b187523-84UYaB9Xtg8O.png",
+		"voiceActors": [{
+			"id": 110877,
+			"language": "Japanese",
+			"name": {
+				"first": "Kengo",
+				"last": "Kawanishi",
+				"full": "Kengo Kawanishi",
+				"native": "河西健吾",
+				"userPreferred": "Kengo Kawanishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110877-zSEL81OrcDwR.png"
+		}, {
+			"id": 293675,
+			"language": "English",
+			"name": {
+				"first": "Davon",
+				"last": "Oliver",
+				"full": "Davon Oliver",
+				"native": null,
+				"userPreferred": "Davon Oliver"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n293675-NBa6hfjVeutD.png"
+		}, {
+			"id": 176916,
+			"language": "Portuguese",
+			"name": {
+				"first": "João",
+				"last": "Cappelli",
+				"full": "João Cappelli",
+				"native": "João Capelli",
+				"userPreferred": "João Cappelli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176916-9VDqvjCe4QV8.jpg"
+		}]
+	}, {
+		"id": 300812,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Pablo",
+			"last": "Cabassos",
+			"full": "Pablo Cabassos",
+			"native": "パブロ・カバソス",
+			"userPreferred": "Pablo Cabassos"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b300812-68JTZiSqi5Jp.jpg",
+		"voiceActors": [{
+			"id": 126934,
+			"language": "Japanese",
+			"name": {
+				"first": "Wataru",
+				"last": "Komada",
+				"full": "Wataru Komada",
+				"native": "駒田航",
+				"userPreferred": "Wataru Komada"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126934-tbj7cd0PCTsh.png"
+		}, {
+			"id": 193208,
+			"language": "English",
+			"name": {
+				"first": "Ben",
+				"last": "Balmaceda",
+				"full": "Ben Balmaceda",
+				"native": null,
+				"userPreferred": "Ben Balmaceda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n193208-aJWCsYNDBpsn.jpg"
+		}, {
+			"id": 184288,
+			"language": "Spanish",
+			"name": {
+				"first": "Marc",
+				"last": "Winslow",
+				"full": "Marc Winslow",
+				"native": null,
+				"userPreferred": "Marc Winslow"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184288-TSjPJyyQvAZ8.png"
+		}, {
+			"id": 102318,
+			"language": "Portuguese",
+			"name": {
+				"first": "Peterson",
+				"last": "Adriano",
+				"full": "Peterson Adriano",
+				"native": null,
+				"userPreferred": "Peterson Adriano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102318-J7eCF5VvgkXg.jpg"
+		}]
+	}, {
+		"id": 187524,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tabito ",
+			"last": "Karasu",
+			"full": "Tabito  Karasu",
+			"native": " 烏旅人",
+			"userPreferred": "Tabito  Karasu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b187524-HlZ4yDd2eGcT.png",
+		"voiceActors": [{
+			"id": 112635,
+			"language": "Japanese",
+			"name": {
+				"first": "Makoto",
+				"last": "Furukawa",
+				"full": "Makoto Furukawa",
+				"native": "古川慎",
+				"userPreferred": "Makoto Furukawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112635-ORlGvRvgf5Nq.png"
+		}, {
+			"id": 119609,
+			"language": "English",
+			"name": {
+				"first": "Clifford",
+				"last": "Chapin",
+				"full": "Clifford Chapin",
+				"native": null,
+				"userPreferred": "Clifford Chapin"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119609-0LGmxEBb7PS9.jpg"
+		}, {
+			"id": 236511,
+			"language": "Portuguese",
+			"name": {
+				"first": "Bruno",
+				"last": "Peroni",
+				"full": "Bruno Peroni",
+				"native": null,
+				"userPreferred": "Bruno Peroni"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n236511-06bQXSSHO8aU.jpg"
+		}]
+	}, {
+		"id": 140859,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ryousuke",
+			"last": "Kira",
+			"full": "Ryousuke Kira",
+			"native": "吉良涼介",
+			"userPreferred": "Ryousuke Kira"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b140859-NVKkWDRxfjmv.png",
+		"voiceActors": [{
+			"id": 95005,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenichi",
+				"last": "Suzumura",
+				"full": "Kenichi Suzumura",
+				"native": "鈴村健一",
+				"userPreferred": "Kenichi Suzumura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95005-SkoVN02iOglr.png"
+		}, {
+			"id": 95454,
+			"language": "English",
+			"name": {
+				"first": "Blake",
+				"last": "Shepard",
+				"full": "Blake Shepard",
+				"native": null,
+				"userPreferred": "Blake Shepard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/454.jpg"
+		}, {
+			"id": 157476,
+			"language": "Italian",
+			"name": {
+				"first": "Mosè ",
+				"last": "Singh",
+				"full": "Mosè  Singh",
+				"native": "Mosè Singh",
+				"userPreferred": "Mosè  Singh"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157476-Aqhj80XXKHHa.jpg"
+		}, {
+			"id": 194029,
+			"language": "Spanish",
+			"name": {
+				"first": "Elliot",
+				"last": "Leguizamo",
+				"full": "Elliot Leguizamo",
+				"native": "Elliot Ivan Leguizamo Rodriguez",
+				"userPreferred": "Elliot Leguizamo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n194029-TmzaVZBtRwwD.jpg"
+		}, {
+			"id": 176921,
+			"language": "Portuguese",
+			"name": {
+				"first": "João Victor",
+				"last": "Granja",
+				"full": "João Victor Granja",
+				"native": "João Victor Granja do Nascimento",
+				"userPreferred": "João Victor Granja"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176921-vJhuyAevlt3k.jpg"
+		}, {
+			"id": 285882,
+			"language": "French",
+			"name": {
+				"first": "Julien",
+				"last": "Portugais",
+				"full": "Julien Portugais",
+				"native": null,
+				"userPreferred": "Julien Portugais"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n285882-FOXWKi27gCmP.jpg"
+		}, {
+			"id": 195608,
+			"language": "German",
+			"name": {
+				"first": "Nicolas",
+				"last": "Rathod",
+				"full": "Nicolas Rathod",
+				"native": null,
+				"userPreferred": "Nicolas Rathod"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195608-lWSll3q1LcvW.jpg"
+		}]
+	}, {
+		"id": 169403,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ikki",
+			"last": "Niko",
+			"full": "Ikki Niko",
+			"native": "二子一揮",
+			"userPreferred": "Ikki Niko"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b169403-uUQmBXpbXbR6.jpg",
+		"voiceActors": [{
+			"id": 111635,
+			"language": "Japanese",
+			"name": {
+				"first": "Natsuki",
+				"last": "Hanae",
+				"full": "Natsuki Hanae",
+				"native": "花江夏樹",
+				"userPreferred": "Natsuki Hanae"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png"
+		}, {
+			"id": 95379,
+			"language": "English",
+			"name": {
+				"first": "David",
+				"last": "Matranga",
+				"full": "David Matranga",
+				"native": null,
+				"userPreferred": "David Matranga"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95379-GMh9EncYDh5n.png"
+		}, {
+			"id": 266256,
+			"language": "Spanish",
+			"name": {
+				"first": "Diego",
+				"last": "Ramora",
+				"full": "Diego Ramora",
+				"native": "Diego Ramiro Morales Ramírez",
+				"userPreferred": "Diego Ramora"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n266256-dNOP3FcvQtVQ.png"
+		}, {
+			"id": 258121,
+			"language": "Portuguese",
+			"name": {
+				"first": "Filipe",
+				"last": "Gimenez",
+				"full": "Filipe Gimenez",
+				"native": null,
+				"userPreferred": "Filipe Gimenez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n258121-Ycl58ZQDwDQ5.jpg"
+		}, {
+			"id": 221384,
+			"language": "French",
+			"name": {
+				"first": "Benoît",
+				"last": "Fort",
+				"full": "Benoît Fort",
+				"native": null,
+				"userPreferred": "Benoît Fort"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n221384-E5VbVVPvP3Om.png"
+		}]
+	}, {
+		"id": 291170,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shuusaku",
+			"last": "Nihei",
+			"full": "Shuusaku Nihei",
+			"native": "弐瓶集作",
+			"userPreferred": "Shuusaku Nihei"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b291170-kgPlxRoWbAwi.jpg",
+		"voiceActors": [{
+			"id": 106836,
+			"language": "Japanese",
+			"name": {
+				"first": "Yoshihito",
+				"last": "Sasaki",
+				"full": "Yoshihito Sasaki",
+				"native": "佐々木義人",
+				"userPreferred": "Yoshihito Sasaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106836-TqHuTa22Q8Dw.png"
+		}, {
+			"id": 291175,
+			"language": "English",
+			"name": {
+				"first": "Henry",
+				"last": "Schrader",
+				"full": "Henry Schrader",
+				"native": null,
+				"userPreferred": "Henry Schrader"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n291175-FBjtvbjtsJ4n.jpg"
+		}, {
+			"id": 106537,
+			"language": "Spanish",
+			"name": {
+				"first": "Ricardo",
+				"last": "Bautista",
+				"full": "Ricardo Bautista",
+				"native": "Javier Ricardo Bautista Valdez",
+				"userPreferred": "Ricardo Bautista"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106537-EXMQh9GchWPA.jpg"
+		}, {
+			"id": 188228,
+			"language": "Portuguese",
+			"name": {
+				"first": "Filipe",
+				"last": "Albuquerque",
+				"full": "Filipe Albuquerque",
+				"native": null,
+				"userPreferred": "Filipe Albuquerque"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n188228-9CSOMyadCJqv.jpg"
+		}, {
+			"id": 218897,
+			"language": "French",
+			"name": {
+				"first": "Jérémy",
+				"last": "Zylberberg",
+				"full": "Jérémy Zylberberg",
+				"native": null,
+				"userPreferred": "Jérémy Zylberberg"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 300790,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Dada",
+			"last": "Silva",
+			"full": "Dada Silva",
+			"native": "ダダ・シウバ",
+			"userPreferred": "Dada Silva"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b300790-OxPfdP6WIOOp.jpg",
+		"voiceActors": [{
+			"id": 139317,
+			"language": "Japanese",
+			"name": {
+				"first": "Robert",
+				"last": "Waterman",
+				"full": "Robert Waterman",
+				"native": "ロバート・ウォーターマン",
+				"userPreferred": "Robert Waterman"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139317-d9jOPYsGjYeY.jpg"
+		}, {
+			"id": 127750,
+			"language": "English",
+			"name": {
+				"first": "Ray",
+				"last": "Hurd",
+				"full": "Ray Hurd",
+				"native": null,
+				"userPreferred": "Ray Hurd"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127750-37xOEnj5wFkK.jpg"
+		}, {
+			"id": 182188,
+			"language": "Spanish",
+			"name": {
+				"first": "Erick",
+				"last": "Selim",
+				"full": "Erick Selim",
+				"native": null,
+				"userPreferred": "Erick Selim"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182188-q95x5qWgg1O9.png"
+		}, {
+			"id": 176918,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcelo",
+				"last": "Garcia",
+				"full": "Marcelo Garcia",
+				"native": null,
+				"userPreferred": "Marcelo Garcia"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176918-ewiRTdh5rclR.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 106130,
+		"relationType": "ADAPTATION",
+		"malId": 114745,
+		"title": {
+			"romaji": "Blue Lock",
+			"english": "Blue Lock",
+			"native": "ブルーロック",
+			"userPreferred": "Blue Lock"
+		},
+		"status": "Ongoing",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx106130-AZn3dTaSXM4z.jpg",
+		"color": "#a1f135",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/106130-4UbnMTU80zur.jpg",
+		"rating": 84
+	}, {
+		"id": 163146,
+		"relationType": "SEQUEL",
+		"malId": 54865,
+		"title": {
+			"romaji": "Blue Lock 2nd Season",
+			"english": null,
+			"native": "ブルーロック第2期",
+			"userPreferred": "Blue Lock 2nd Season"
+		},
+		"status": "Not yet aired",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-AL4DrcV2Zp8H.jpg",
+		"color": "#aef143",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163146-AL4DrcV2Zp8H.jpg",
+		"rating": null
+	}, {
+		"id": 163147,
+		"relationType": "PREQUEL",
+		"malId": 54866,
+		"title": {
+			"romaji": "Blue Lock: EPISODE Nagi",
+			"english": null,
+			"native": "ブルーロック -EPISODE 凪-",
+			"userPreferred": "Blue Lock: EPISODE Nagi"
+		},
+		"status": "Not yet aired",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163147-8Uwu3mu2kH4M.jpg",
+		"color": "#f1ae35",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163147-8Uwu3mu2kH4M.jpg",
+		"rating": null
+	}],
+	"mappings": {
+		"mal": 49596,
+		"anidb": 16519,
+		"kitsu": 44973,
+		"anilist": 137822,
+		"thetvdb": 408629,
+		"anisearch": 16520,
+		"livechart": 10687,
+		"notify.moe": "nThRrG77R",
+		"anime-planet": "blue-lock"
+	},
+	"episodes": [{
+		"id": "blue-lock-episode-1",
+		"title": "Dream",
+		"description": "Prefectural Final for the National High School Soccer Tournament. Isagi Yoichi, a first-year forward, loses his chance for the Nationals because he has passed the ball to his fellow player in front of the goal. That's when he receives an invitation for Blue Lock. It's a facility to train one world's greatest striker out of 300 high-school-aged forwards so that Japan can win the World Cup. Isagi and others are assembled in a small room, and they take their first test to decide which 11 of them get to move in to the dorm out of 12 of them.",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/8609551/screencap/6343df8d9b43d.jpg",
+		"airDate": "2022-10-09T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-2",
+		"title": "Monster",
+		"description": "Blue Lock project is led by a mysterious Ego Jinpachi to produce the world's greatest striker. The top five players will be registered to play as forwards in the U-20 Cup that takes place in six months, but if you drop out, they forever lose the chance to play for the Japanese team. What is the egoism Ego is looking for in a striker? Isagi and others make up their minds to survive in Blue Lock, and move on to the first selection that can make or break their future soccer career.",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360881/screencap/634e5c4a20f33.jpg",
+		"airDate": "2022-10-16T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-3",
+		"title": "Soccer's \"Zero\"",
+		"description": "The first selection is the round-robin tournament of five teams of V, W, X, Y and Z in Building Five, with only top two teams being eligible to move forward. Isagi's Team Z, the lowest ranking team, plays against Team X. But because of the special rule that allows the top scorer of the team to proceed to the next section, the match turns into chaotic scrambling for the ball, regardless of the teams. It was Barou Shoei, Team X's formidable striker, who changes the flow of the game.",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360882/screencap/634e5b019ca02.jpg",
+		"airDate": "2022-10-23T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-4",
+		"title": "Premonition and Intuition",
+		"description": "Team Z was crushed by Team X, who centered the offensive play around egoistical yet skilled Barou. Responding to Ego's urge to \"take up a weapon,\" the players discuss what their weapons are in preparation for the next match. However, Isagi struggles to identify what it is. Using \"the smell of the goal\" he felt in the game against Team X as a hint, Isagi and the others go against Team Y in the next match.",
+		"number": 4,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360883/screencap/635e4558ace4f.jpg",
+		"airDate": "2022-10-30T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-5",
+		"title": "To Be Reborn",
+		"description": "Isagi relies on \"the smell of the goal,\" his raw instincts, to make a move, and it leads to the fierce battle of \"reading\" each other's hand with Team Y's playmaker, Niko Ikki. Isagi and Niko's battle as they both watch over the whole field and throw their ego at each other, brings them to the last one minute of the match. Can Isagi and Team Z beat Niko's final strategy, \"One Time Kill Counter\"?",
+		"number": 5,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360884/screencap/6365411984047.jpg",
+		"airDate": "2022-11-06T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-6",
+		"title": "I'm Sorry",
+		"description": "After the match with Team Y, Isagi's rank moved up, and he became the center of the team. The next match is against Team W, led by the Wanima twins. Their eye contact and impeccable combinations are hard to beat. They used to play in the same team as Chigiri Hyoma, and they use his past trauma to egg him on. Chigiri says that he joined Blue Lock to find a reason to quit soccer. Team Z leads the game with Kuon's play. Everyone's elated for the good start of the match, but Isagi feels something is off.",
+		"number": 6,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360885/screencap/63767c3de158b.jpg",
+		"airDate": "2022-11-13T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-7",
+		"title": "Rush",
+		"description": "Because of Kuon’s betrayal, Team Z is faced with a desperate situation of playing 12-on-10, with the opponent knowing everything about their weapons and strategies. Even under such a circumstance, Team Z never gives up on the fight, and Isagi continues to believe in himself. Inspired by their passion, Chigiri runs through the field at an incredible speed, his weapon he has sealed away. His ego rocks the match when they are losing at 3-4.",
+		"number": 7,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360886/screencap/63767c6392977.jpg",
+		"airDate": "2022-11-20T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-8",
+		"title": "The Formula for Goals",
+		"description": "Team Z managed to hold onto a sliver of hope for surviving the first selection. But the sticky situation never ends, with them forced to play 10-on-11 against the strongest team in the group due to Kuon’s betrayal. Even a draw would make them disqualified, so winning is the only option for them. Under such a circumstance, Isagi goes to meet with a certain someone to attain the secret of formula for goals, so that the team can win, and he can be a scorer himself.",
+		"number": 8,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360887/screencap/637e0e2b80e24.jpg",
+		"airDate": "2022-11-27T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-9",
+		"title": "Awakening",
+		"description": "The stakes are high with the match against Team V. In the first half, Team Z is overwhelmed by Team V's super trio, Nagi Seishiro, Mikage Reo, and Tsurugi Zantetsu. Especially the formidable attack of Nagi and Reo pair, who have only started playing soccer six months ago with no record of losing, is enough to break their spirits. When everyone is about to give up, Bachira Meguru's play sets fire on the ego in their hearts. In the last match of the first selection, under an extreme circumstance, the awakening of the diamonds in the rough, just as Ego wanted, has begun.",
+		"number": 9,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360888/screencap/6388f877f23e2.jpg",
+		"airDate": "2022-12-04T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-10",
+		"title": "Just the Way It Is",
+		"description": "Each player unleashed their weapon and ego, and Team Z has caught up to a draw. They totally have the momentum of the game, but that has “awakened” Team V’s monster, Nagi. In the chain reaction to awakening, Isagi also learns to use his weapon and keeps fighting. The “heat” generated by the clashing of ego from both teams starts to affect Kuon as well.",
+		"number": 10,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360889/screencap/63911e0245e7f.jpg",
+		"airDate": "2022-12-11T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-11",
+		"title": "The Final Piece",
+		"description": "By Kuon’s self-sacrificing foul, Team Z has a little bit of hope. During the last play that determines their fate, Isagi finds the final piece of the puzzle that’s necessary for his evolution. With the players’ “awakening” and “evolution,” the first selection of Blue Lock where ego comes head to head, finally comes to an end.",
+		"number": 11,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360890/screencap/639b36cbd3fe0.jpg",
+		"airDate": "2022-12-18T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-12",
+		"title": "The Second Selection",
+		"description": "With many candidates dropping out, Blue Lock project moves on to the second selection. It’s where a teammate becomes a foe, and a foe becomes a teammate. And here, Isagi meets Itoshi Rin, the strongest egoist he’s ever met, the top player of the new Blue Lock ranking and the little brother of the genius Itoshi Sae. To evolve even further, Isagi’s battle proceeds to a new stage.",
+		"number": 12,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360891/screencap/63a355ec408ff.jpg",
+		"airDate": "2022-12-25T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-13",
+		"title": "TOP3",
+		"description": "Second selection, third stage is the Rivalry Battle, where you battle as a team of three, and a winner take a player from the losing team. Isagi has moved on to this new stage and teamed up with Bachira and Nagi, and they face against the team of top three players in the New Blue Lock ranking. Isagi feels his progress as his team takes the lead. However, Rin's shot right afterward completely transforms the mood of the field, and Isagi and others witness the difference of the top three.",
+		"number": 13,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511540/screencap/63b598628b156.jpg",
+		"airDate": "2023-01-08T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-14",
+		"title": "The Geniuses and the Average Joes",
+		"description": "Isagi's team has lost to Rin's team, who has incredible skills and an overwhelming ego. Isagi and Nagi lose to Bachira, and they are sent back to the second stage of two-on-two games. Showing up before them is the team of Barou and Naruhaya. Losing means disqualification. With that pressure, Isagi and Nagi think hard on their individual strengths to win a one-on-one situation. The new match that decides their fate starts with no answer in sight.",
+		"number": 14,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511541/screencap/63becf20729e0.jpg",
+		"airDate": "2023-01-15T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-15",
+		"title": "Devour",
+		"description": "Right after the game starts, Barou steals a goal with his overwhelming individual skills. Improved Naruhaya leads Isagi and Nagi by the nose, forcing them a tough time. Naruhaya is desperate to catch up to geniuses like Barou and Nagi to survive in Blue Lock. Just the same, Isagi struggles but finds a glimpse of his new weapon, inspired by Naruhaya's move. In the extreme condition where the egos of everyone collide, the time has come for Isagi to evolve.",
+		"number": 15,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511542/screencap/63c804add01a8.jpg",
+		"airDate": "2023-01-22T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-16",
+		"title": "Tri-Fusion",
+		"description": "Isagi struggles to figure out how to make a coherent strategy that plays to his, Barou, and Nagi's strengths before their next match begins. And their next set of opponents are all familiar faces...",
+		"number": 16,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511543/screencap/63d15084a27d6.jpg",
+		"airDate": "2023-01-29T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-17",
+		"title": "Donkey",
+		"description": "Chigiri, Kunigami, and Reo's team fully utilizes each other's weapons of speed, physique, and eyes for tactics. On the contrary, Isagi's team struggles due to the lack of coordination. Through observing and analyzing the opponent's combinations and his teammates' individual play, Isagi discovers a new way to use his weapon and evolve himself one step further. And the tide of ego in this game triggers others to evolve.",
+		"number": 17,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511544/screencap/63dd1851a8bac.jpg",
+		"airDate": "2023-02-05T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-18",
+		"title": "The Stage for the Lead",
+		"description": "Isagi and Nagi paint countless possibilities for goals as they understand each other's weapons. Likewise, Kunigami and Reo make a great effort centering around Chigiri, who has evolved one step further. In the midst of all, Barou, the king of the field, was left out from the chain of evolution because of his strong ego. When Isagi takes the leading role of the field from him, the sense of defeat makes Barou kneel down to the ground.",
+		"number": 18,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511545/screencap/63e7f86523a4a.jpg",
+		"airDate": "2023-02-12T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-19",
+		"title": "Dancing Boy",
+		"description": "Isagi's team cinched a win due to the awakening of Barou as a villain on the field. To cause more chemical reactions in the fourth stage, they picked one player from the other team, who demonstrated ego to devour them during the game. In the meantime, Bachira and the Top 3 are looking for the next opponent. Rin sees through Bachira's \"monster\" during their training, which forces Bachira to face his own ego.",
+		"number": 19,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511546/screencap/63f136718f696.jpg",
+		"airDate": "2023-02-19T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-20",
+		"title": "Super Link-Up Play",
+		"description": "Isagi and others are set to play a revenge match against the \"Top 3,\" who have defeated them and took Bachira from them. They have fought against formidable foes and advanced by repeating the process of ego and chemical reactions, and they're ready to throw everything they have at the Top 3. The final battle of 4 vs 4 is finally about to begin. Isagi, Nagi, Barou, and Chigiri desperately try to keep up to the extraordinary individual skills of the Top 3. But one pass from Bachira starts to evolve the game...",
+		"number": 20,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511547/screencap/63fa5c7163e41.jpg",
+		"airDate": "2023-02-26T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-21",
+		"title": "I'm Not There",
+		"description": "The combination of Isagi's spatial awareness and Nagi's pin-point control finally allow them to even out the score to 2-2. However, Rin's fighting spirit is ignited by their play, and he takes control of the field by understanding the abilities of his allies and enemies alike, including ball positioning and strategic thinking. Isagi and his team once again find themselves cornered by Rin's domination, and they struggle to break through. Meanwhile, amidst the chaos and clash of egos on the field, one man secretly sharpens his fangs to challenge Rin and break through his game.",
+		"number": 21,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511548/screencap/64039e445abc8.jpg",
+		"airDate": "2023-03-05T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-22",
+		"title": "Voice",
+		"description": "The thrill of finally finding the \"monsters\" with overwhelming talent was short-lived, as Bachira realizes he is being left behind in the battle between Isagi and Rin. Meanwhile, the game reaches its final stage, and a fierce struggle centered around the joker, Barou, unfolds. As Isagi's skills evolve even further, Bachira must confront his own \"ego\" in order to find his own path forward.",
+		"number": 22,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511549/screencap/640b27b8abbc2.jpg",
+		"airDate": "2023-03-12T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-23",
+		"title": "Luck",
+		"description": "Bachira sheds his ideal of the \"monster\" and finally awakens his own ego. Until now, Bachira had been seeking someone to follow, but now he charges forward towards his own goal, finding in Isagi a companion who trusts in his ego. Isagi performs a decisive cut, but the ball makes its merciless way to the victor's side... The time for the ultimate showdown has arrived, and sparks fly as the eight egoists clash. Which team will emerge victorious in the second selection's \"Rivalry Battle\"?",
+		"number": 23,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511550/screencap/641614c271891.jpg",
+		"airDate": "2023-03-19T00:00:00.000Z"
+	}, {
+		"id": "blue-lock-episode-24",
+		"title": "The Time Has Come",
+		"description": "Rin chooses to add Isagi to his team, and together with Bachira they pass the second selection. Waiting for them on the other side is a 5-on-5 match against a team of world-class players. Thanks to Isagi, Bachira, and Rin's coordinated play, they manage to score the first goal, but they soon find themselves overwhelmed by the opposing team's superior skill and ability. Despite this, they desperately keep fighting until the last second, unleashing their own \"egos.\" As a result, the \"Blue Lock\" project, aiming to produce the world's greatest striker, enters a new phase.",
+		"number": 24,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9511551/screencap/641f05646cf4c.jpg",
+		"airDate": "2023-03-26T00:00:00.000Z"
+	}]
+}
