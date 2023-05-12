@@ -49,7 +49,8 @@
 		"image": "https://www.themoviedb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
 		"cover": "https://www.themoviedb.org/t/p/original/xuJ0F9RfKvVSJNDg2usurQ9WvY5.jpg",
 		"rating": 79,
-		"type": "TV"
+		"type": "TV",
+		"animeurl": "naruto"
 	},
 	{
 		"id": 442,
@@ -64,7 +65,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx442-VJbmIVTgmne3.png",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/442-Mi9O1QwTaXqQ.jpg",
 		"rating": 67,
-		"type": "MOVIE"
+		"type": "MOVIE",
+		"animeurl": "naruto-the-movie-ninja-clash-in-the-land-of-snow"
 	},
 	{
 		"id": 936,
@@ -79,7 +81,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx936-P1ogcIs07UR8.jpg",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/936-q1NJoF3NDEjF.jpg",
 		"rating": 65,
-		"type": "MOVIE"
+		"type": "MOVIE",
+		"animeurl": "naruto-the-movie-legend-of-the-stone-of-gelel"
 	},
 	{
 		"id": 2144,
@@ -94,7 +97,8 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2144-9FITEzdGnlWC.jpg",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2144-KnEAcgexm2SI.jpg",
 		"rating": 65,
-		"type": "MOVIE"
+		"type": "MOVIE",
+		"animeurl": "naruto-the-movie-guardians-of-the-crescent-moon-kingdom"
 	}],
 	"characters": [{
 		"id": 2007,
