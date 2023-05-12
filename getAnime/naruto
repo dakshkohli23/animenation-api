@@ -1,0 +1,4110 @@
+{
+	"id": "20",
+	"title": {
+		"romaji": "NARUTO",
+		"english": "Naruto",
+		"native": "NARUTO -ナルト-"
+	},
+	"malId": 20,
+	"synonyms": ["נארוטו", "ناروتو", "火影忍者", "นารูโตะ นินจาจอมคาถา", "Наруто"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+	"popularity": 469780,
+	"color": "#e47850",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20-HHxhPj5JD13a.jpg",
+	"description": "Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. <br><br>\nShunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way. <br><br>\n(Source: MAL Rewrite)",
+	"status": "Completed",
+	"releaseDate": 2002,
+	"startDate": {
+		"year": 2002,
+		"month": 10,
+		"day": 3
+	},
+	"endDate": {
+		"year": 2007,
+		"month": 2,
+		"day": 8
+	},
+	"totalEpisodes": 220,
+	"currentEpisode": 220,
+	"rating": 79,
+	"duration": 23,
+	"genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Supernatural"],
+	"season": "FALL",
+	"studios": ["Studio Pierrot"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 145,
+		"role": "MAIN",
+		"name": {
+			"first": "Sakura",
+			"last": "Haruno",
+			"full": "Sakura Haruno",
+			"native": "春野サクラ",
+			"userPreferred": "Sakura Haruno"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b145-IorfpI8arxeX.png",
+		"voiceActors": [{
+			"id": 95300,
+			"language": "Japanese",
+			"name": {
+				"first": "Chie",
+				"last": "Nakamura",
+				"full": "Chie Nakamura",
+				"native": "中村千絵",
+				"userPreferred": "Chie Nakamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95300-84lMPsAHkPP3.png"
+		}, {
+			"id": 95318,
+			"language": "English",
+			"name": {
+				"first": "Kate",
+				"last": "Higgins",
+				"full": "Kate Higgins",
+				"native": null,
+				"userPreferred": "Kate Higgins"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95318-TvQyppjjRIH2.jpg"
+		}, {
+			"id": 109769,
+			"language": "Korean",
+			"name": {
+				"first": "Min-Jeong",
+				"last": "Yeo",
+				"full": "Min-Jeong Yeo",
+				"native": "여민정",
+				"userPreferred": "Min-Jeong Yeo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14769.jpg"
+		}, {
+			"id": 96090,
+			"language": "Italian",
+			"name": {
+				"first": "Emanuela",
+				"last": "Pacotto",
+				"full": "Emanuela Pacotto",
+				"native": null,
+				"userPreferred": "Emanuela Pacotto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96090-UnDifVZ6rNS2.png"
+		}, {
+			"id": 100683,
+			"language": "Spanish",
+			"name": {
+				"first": "Christine",
+				"last": "Byrd",
+				"full": "Christine Byrd",
+				"native": "Christine Edith Merino Prado",
+				"userPreferred": "Christine Byrd"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100683-qRMPaKoLjIoc.png"
+		}, {
+			"id": 96442,
+			"language": "Portuguese",
+			"name": {
+				"first": "Tatiane",
+				"last": "Keplmair",
+				"full": "Tatiane Keplmair",
+				"native": null,
+				"userPreferred": "Tatiane Keplmair"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96442-gv5GmEg0qPEK.jpg"
+		}, {
+			"id": 103517,
+			"language": "German",
+			"name": {
+				"first": "Katharina",
+				"last": "von Keller",
+				"full": "Katharina von Keller",
+				"native": null,
+				"userPreferred": "Katharina von Keller"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8517.jpg"
+		}, {
+			"id": 112725,
+			"language": "Hebrew",
+			"name": {
+				"first": "May",
+				"last": "Jacobson",
+				"full": "May Jacobson",
+				"native": null,
+				"userPreferred": "May Jacobson"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/17725.jpg"
+		}, {
+			"id": 102774,
+			"language": "Hungarian",
+			"name": {
+				"first": "Kata",
+				"last": "Csondor",
+				"full": "Kata Csondor",
+				"native": null,
+				"userPreferred": "Kata Csondor"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7774.jpg"
+		}, {
+			"id": 102838,
+			"language": "Hungarian",
+			"name": {
+				"first": "Andrea",
+				"last": "Urbán",
+				"full": "Andrea Urbán",
+				"native": null,
+				"userPreferred": "Andrea Urbán"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7838.jpg"
+		}, {
+			"id": 104594,
+			"language": "Hungarian",
+			"name": {
+				"first": "Judit",
+				"last": "Wégner",
+				"full": "Judit Wégner",
+				"native": null,
+				"userPreferred": "Judit Wégner"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9594.jpg"
+		}, {
+			"id": 230526,
+			"language": "Polish",
+			"name": {
+				"first": "Magdalena",
+				"last": "Krylik",
+				"full": "Magdalena Krylik",
+				"native": null,
+				"userPreferred": "Magdalena Krylik"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n230526-nwVLix9UhLJ3.png"
+		}, {
+			"id": 230527,
+			"language": "Polish",
+			"name": {
+				"first": "Joanna",
+				"last": "Pach",
+				"full": "Joanna Pach",
+				"native": null,
+				"userPreferred": "Joanna Pach"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n230527-jZcqS41eAweb.png"
+		}]
+	}, {
+		"id": 17,
+		"role": "MAIN",
+		"name": {
+			"first": "Naruto",
+			"last": "Uzumaki",
+			"full": "Naruto Uzumaki",
+			"native": "うずまきナルト",
+			"userPreferred": "Naruto Uzumaki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b17-IazKGogQwJ1p.png",
+		"voiceActors": [{
+			"id": 95015,
+			"language": "Japanese",
+			"name": {
+				"first": "Junko",
+				"last": "Takeuchi",
+				"full": "Junko Takeuchi",
+				"native": "竹内順子",
+				"userPreferred": "Junko Takeuchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95015-QwI9K4FRe4Cq.png"
+		}, {
+			"id": 95727,
+			"language": "Japanese",
+			"name": {
+				"first": "Ema",
+				"last": "Kogure",
+				"full": "Ema Kogure",
+				"native": "小暮英麻",
+				"userPreferred": "Ema Kogure"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95727-qwSGmin4kQ7D.jpg"
+		}, {
+			"id": 95609,
+			"language": "English",
+			"name": {
+				"first": "Maile",
+				"last": "Flanagan",
+				"full": "Maile Flanagan",
+				"native": null,
+				"userPreferred": "Maile Flanagan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95609-pxXj5Wah2x70.jpg"
+		}, {
+			"id": 96290,
+			"language": "Italian",
+			"name": {
+				"first": "Leonardo",
+				"last": "Graziano",
+				"full": "Leonardo Graziano",
+				"native": null,
+				"userPreferred": "Leonardo Graziano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1290.jpg"
+		}, {
+			"id": 96686,
+			"language": "Spanish",
+			"name": {
+				"first": "Isabel",
+				"last": "Martiñón",
+				"full": "Isabel Martiñón",
+				"native": null,
+				"userPreferred": "Isabel Martiñón"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1686.jpg"
+		}, {
+			"id": 117475,
+			"language": "Spanish",
+			"name": {
+				"first": "Javier",
+				"last": "Balas",
+				"full": "Javier Balas",
+				"native": null,
+				"userPreferred": "Javier Balas"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/22475.jpg"
+		}, {
+			"id": 103241,
+			"language": "Portuguese",
+			"name": {
+				"first": "Úrsula",
+				"last": "Bezerra",
+				"full": "Úrsula Bezerra",
+				"native": null,
+				"userPreferred": "Úrsula Bezerra"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8241.jpg"
+		}, {
+			"id": 96634,
+			"language": "French",
+			"name": {
+				"first": "Carole",
+				"last": "Baillien",
+				"full": "Carole Baillien",
+				"native": null,
+				"userPreferred": "Carole Baillien"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1634.jpg"
+		}, {
+			"id": 101964,
+			"language": "German",
+			"name": {
+				"first": "Tobias",
+				"last": "Pippig",
+				"full": "Tobias Pippig",
+				"native": null,
+				"userPreferred": "Tobias Pippig"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6964.jpg"
+		}, {
+			"id": 106636,
+			"language": "Hebrew",
+			"name": {
+				"first": "Tuval",
+				"last": "Shafir",
+				"full": "Tuval Shafir",
+				"native": "תובל שפיר",
+				"userPreferred": "Tuval Shafir"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106636-xb4VGUU3d9gT.jpg"
+		}, {
+			"id": 102780,
+			"language": "Hungarian",
+			"name": {
+				"first": "Botond",
+				"last": "Előd",
+				"full": "Botond Előd",
+				"native": null,
+				"userPreferred": "Botond Előd"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7780.jpg"
+		}, {
+			"id": 218963,
+			"language": "Polish",
+			"name": {
+				"first": "Adam",
+				"last": "Pluciński",
+				"full": "Adam Pluciński",
+				"native": null,
+				"userPreferred": "Adam Pluciński"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n218963-KzfYLvXUUHNS.png"
+		}]
+	}, {
+		"id": 85,
+		"role": "MAIN",
+		"name": {
+			"first": "Kakashi",
+			"last": "Hatake",
+			"full": "Kakashi Hatake",
+			"native": "はたけカカシ",
+			"userPreferred": "Kakashi Hatake"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b85-mkVBh2yjxjmx.png",
+		"voiceActors": [{
+			"id": 95021,
+			"language": "Japanese",
+			"name": {
+				"first": "Kazuhiko",
+				"last": "Inoue",
+				"full": "Kazuhiko Inoue",
+				"native": "井上和彦",
+				"userPreferred": "Kazuhiko Inoue"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95021-9qAoAn6GNZ3S.png"
+		}, {
+			"id": 95349,
+			"language": "English",
+			"name": {
+				"first": "Dave",
+				"last": "Wittenberg",
+				"full": "Dave Wittenberg",
+				"native": null,
+				"userPreferred": "Dave Wittenberg"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95349-ZeWKAJFiOL7W.jpg"
+		}, {
+			"id": 109925,
+			"language": "Korean",
+			"name": {
+				"first": "Won Il",
+				"last": "Son",
+				"full": "Won Il Son",
+				"native": "원일 손",
+				"userPreferred": "Won Il Son"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14925.jpg"
+		}, {
+			"id": 96289,
+			"language": "Italian",
+			"name": {
+				"first": "Claudio",
+				"last": "Moneta",
+				"full": "Claudio Moneta",
+				"native": null,
+				"userPreferred": "Claudio Moneta"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96289-6WavF68OhjWa.png"
+		}, {
+			"id": 182554,
+			"language": "Spanish",
+			"name": {
+				"first": "Alfonso",
+				"last": "Obregón",
+				"full": "Alfonso Obregón",
+				"native": "Alfonso Obregón Inclán",
+				"userPreferred": "Alfonso Obregón"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182554-YnvwrQGTSIjB.png"
+		}, {
+			"id": 103882,
+			"language": "Portuguese",
+			"name": {
+				"first": "Elcio",
+				"last": "Sodre",
+				"full": "Elcio Sodre",
+				"native": "Élcio Sodré",
+				"userPreferred": "Elcio Sodre"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8882.jpg"
+		}, {
+			"id": 96628,
+			"language": "French",
+			"name": {
+				"first": "Lionel",
+				"last": "Bourguet",
+				"full": "Lionel Bourguet",
+				"native": null,
+				"userPreferred": "Lionel Bourguet"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 103515,
+			"language": "German",
+			"name": {
+				"first": "Martin",
+				"last": "May",
+				"full": "Martin May",
+				"native": null,
+				"userPreferred": "Martin May"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8515.jpg"
+		}, {
+			"id": 102768,
+			"language": "Hungarian",
+			"name": {
+				"first": "Rodrigo",
+				"last": "Crespo",
+				"full": "Rodrigo Crespo",
+				"native": null,
+				"userPreferred": "Rodrigo Crespo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7768.jpg"
+		}, {
+			"id": 102786,
+			"language": "Hungarian",
+			"name": {
+				"first": "Nándor",
+				"last": "Holl",
+				"full": "Nándor Holl",
+				"native": null,
+				"userPreferred": "Nándor Holl"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7786.jpg"
+		}, {
+			"id": 230528,
+			"language": "Polish",
+			"name": {
+				"first": "January",
+				"last": "Brunov",
+				"full": "January Brunov",
+				"native": null,
+				"userPreferred": "January Brunov"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 13,
+		"role": "MAIN",
+		"name": {
+			"first": "Sasuke",
+			"last": "Uchiha",
+			"full": "Sasuke Uchiha",
+			"native": "うちはサスケ",
+			"userPreferred": "Sasuke Uchiha"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b13-SISLEw1oAD7a.png",
+		"voiceActors": [{
+			"id": 95016,
+			"language": "Japanese",
+			"name": {
+				"first": "Noriaki",
+				"last": "Sugiyama",
+				"full": "Noriaki Sugiyama",
+				"native": "杉山紀彰",
+				"userPreferred": "Noriaki Sugiyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95016-03m7lAUZBMDv.png"
+		}, {
+			"id": 95225,
+			"language": "English",
+			"name": {
+				"first": "Yuri",
+				"last": "Lowenthal",
+				"full": "Yuri Lowenthal",
+				"native": null,
+				"userPreferred": "Yuri Lowenthal"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95225-CbmI6oDkbbkL.jpg"
+		}, {
+			"id": 101499,
+			"language": "Korean",
+			"name": {
+				"first": "Yeong-seon",
+				"last": "Kim",
+				"full": "Yeong-seon Kim",
+				"native": "김영선",
+				"userPreferred": "Yeong-seon Kim"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101499-aHFkv5mYhE5m.png"
+		}, {
+			"id": 109823,
+			"language": "Korean",
+			"name": {
+				"first": "Mi Na",
+				"last": "Yun",
+				"full": "Mi Na Yun",
+				"native": "미나 윤",
+				"userPreferred": "Mi Na Yun"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14823.jpg"
+		}, {
+			"id": 96292,
+			"language": "Italian",
+			"name": {
+				"first": "Alessandro",
+				"last": "Rigotti",
+				"full": "Alessandro Rigotti",
+				"native": null,
+				"userPreferred": "Alessandro Rigotti"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96292-kTw0ZhitcmeW.jpg"
+		}, {
+			"id": 102694,
+			"language": "Spanish",
+			"name": {
+				"first": "Víctor",
+				"last": "Ugarte",
+				"full": "Víctor Ugarte",
+				"native": "Víctor Ugarte Fonseca",
+				"userPreferred": "Víctor Ugarte"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102694-xWqlc4cFqipg.jpg"
+		}, {
+			"id": 110559,
+			"language": "Spanish",
+			"name": {
+				"first": "Adolfo",
+				"last": "Moreno",
+				"full": "Adolfo Moreno",
+				"native": null,
+				"userPreferred": "Adolfo Moreno"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/15559.jpg"
+		}, {
+			"id": 100141,
+			"language": "Portuguese",
+			"name": {
+				"first": "Robson",
+				"last": "Kumode",
+				"full": "Robson Kumode",
+				"native": null,
+				"userPreferred": "Robson Kumode"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100141-pmhoTwGILWzB.jpg"
+		}, {
+			"id": 115080,
+			"language": "French",
+			"name": {
+				"first": "Christophe",
+				"last": "Hespel",
+				"full": "Christophe Hespel",
+				"native": null,
+				"userPreferred": "Christophe Hespel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/20080.jpg"
+		}, {
+			"id": 102002,
+			"language": "German",
+			"name": {
+				"first": "Jannik",
+				"last": "Endemann",
+				"full": "Jannik Endemann",
+				"native": null,
+				"userPreferred": "Jannik Endemann"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102002-3Xk1bkO1hWkN.png"
+		}, {
+			"id": 106968,
+			"language": "Hebrew",
+			"name": {
+				"first": "Daniel",
+				"last": "Magon",
+				"full": "Daniel Magon",
+				"native": "דניאל מגון  ",
+				"userPreferred": "Daniel Magon"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106968-5hrA7h8N6sMS.png"
+		}, {
+			"id": 102814,
+			"language": "Hungarian",
+			"name": {
+				"first": "Szabolcs",
+				"last": "Pálmai",
+				"full": "Szabolcs Pálmai",
+				"native": null,
+				"userPreferred": "Szabolcs Pálmai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7814.jpg"
+		}, {
+			"id": 230525,
+			"language": "Polish",
+			"name": {
+				"first": "Marcin",
+				"last": "Przybylski",
+				"full": "Marcin Przybylski",
+				"native": null,
+				"userPreferred": "Marcin Przybylski"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n230525-6HYCYMmeL9ts.png"
+		}]
+	}, {
+		"id": 23215,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sagi",
+			"last": null,
+			"full": "Sagi",
+			"native": "サギ",
+			"userPreferred": "Sagi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n23215-psvpC0r5tkkI.png",
+		"voiceActors": [{
+			"id": 95001,
+			"language": "Japanese",
+			"name": {
+				"first": "Tomokazu",
+				"last": "Seki",
+				"full": "Tomokazu Seki",
+				"native": "関智一",
+				"userPreferred": "Tomokazu Seki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png"
+		}, {
+			"id": 95010,
+			"language": "English",
+			"name": {
+				"first": "Johnny Yong",
+				"last": "Bosch",
+				"full": "Johnny Yong Bosch",
+				"native": null,
+				"userPreferred": "Johnny Yong Bosch"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95010-56EByXYI2PjI.jpg"
+		}, {
+			"id": 106537,
+			"language": "Spanish",
+			"name": {
+				"first": "Ricardo",
+				"last": "Bautista",
+				"full": "Ricardo Bautista",
+				"native": "Javier Ricardo Bautista Valdez",
+				"userPreferred": "Ricardo Bautista"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106537-EXMQh9GchWPA.jpg"
+		}, {
+			"id": 100084,
+			"language": "Portuguese",
+			"name": {
+				"first": "Rodrigo",
+				"last": "Andreatto",
+				"full": "Rodrigo Andreatto",
+				"native": null,
+				"userPreferred": "Rodrigo Andreatto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5084.jpg"
+		}]
+	}, {
+		"id": 17546,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sazanami",
+			"last": null,
+			"full": "Sazanami",
+			"native": "サザナミ",
+			"userPreferred": "Sazanami"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n17546-zdnPQ3ZdKJjz.png",
+		"voiceActors": [{
+			"id": 95598,
+			"language": "Japanese",
+			"name": {
+				"first": "Shuuichi",
+				"last": "Ikeda",
+				"full": "Shuuichi Ikeda",
+				"native": "池田秀一",
+				"userPreferred": "Shuuichi Ikeda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95598-IZBrsaxRsACg.png"
+		}, {
+			"id": 95012,
+			"language": "English",
+			"name": {
+				"first": "Steven",
+				"last": "Blum",
+				"full": "Steven Blum",
+				"native": null,
+				"userPreferred": "Steven Blum"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95012-jnlK6VyCTf9P.png"
+		}, {
+			"id": 163983,
+			"language": "Italian",
+			"name": {
+				"first": "Enrico",
+				"last": "Maggi",
+				"full": "Enrico Maggi",
+				"native": null,
+				"userPreferred": "Enrico Maggi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163983-oEMm29iuw3A4.jpg"
+		}, {
+			"id": 96461,
+			"language": "Spanish",
+			"name": {
+				"first": "Mario",
+				"last": "Castañeda",
+				"full": "Mario Castañeda",
+				"native": null,
+				"userPreferred": "Mario Castañeda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96461-Oa02kFQ4wXPL.jpg"
+		}, {
+			"id": 179060,
+			"language": "Portuguese",
+			"name": {
+				"first": "Luiz",
+				"last": "Laffey",
+				"full": "Luiz Laffey",
+				"native": null,
+				"userPreferred": "Luiz Laffey"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179060-pCFnUkvG2kfm.jpg"
+		}]
+	}, {
+		"id": 7571,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hiruzen",
+			"last": "Sarutobi",
+			"full": "Hiruzen Sarutobi",
+			"native": "猿飛ヒルゼン",
+			"userPreferred": "Hiruzen Sarutobi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n7571-fKldLuBWUtCO.png",
+		"voiceActors": [{
+			"id": 95018,
+			"language": "Japanese",
+			"name": {
+				"first": "Hidekatsu",
+				"last": "Shibata",
+				"full": "Hidekatsu Shibata",
+				"native": "柴田秀勝",
+				"userPreferred": "Hidekatsu Shibata"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95018-HXJMMED74SVO.png"
+		}, {
+			"id": 95990,
+			"language": "English",
+			"name": {
+				"first": "Steve",
+				"last": "Kramer",
+				"full": "Steve Kramer",
+				"native": null,
+				"userPreferred": "Steve Kramer"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95990-YWt5nzmqPAwB.jpg"
+		}, {
+			"id": 96240,
+			"language": "Italian",
+			"name": {
+				"first": "Mario",
+				"last": "Scarabelli",
+				"full": "Mario Scarabelli",
+				"native": null,
+				"userPreferred": "Mario Scarabelli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96240-skGulG7kauYH.png"
+		}, {
+			"id": 189455,
+			"language": "Spanish",
+			"name": {
+				"first": "César",
+				"last": "Arias",
+				"full": "César Arias",
+				"native": null,
+				"userPreferred": "César Arias"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189455-kB6gS0q59dsI.jpg"
+		}, {
+			"id": 185305,
+			"language": "Portuguese",
+			"name": {
+				"first": "Hélio",
+				"last": "Vaccari",
+				"full": "Hélio Vaccari",
+				"native": null,
+				"userPreferred": "Hélio Vaccari"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185305-Ye71SSuy89Vz.png"
+		}, {
+			"id": 103519,
+			"language": "German",
+			"name": {
+				"first": "Wolf",
+				"last": "Frass",
+				"full": "Wolf Frass",
+				"native": null,
+				"userPreferred": "Wolf Frass"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103519-GJxUjiS287uk.png"
+		}, {
+			"id": 102830,
+			"language": "Hungarian",
+			"name": {
+				"first": "Ottó",
+				"last": "Szokolai",
+				"full": "Ottó Szokolai",
+				"native": null,
+				"userPreferred": "Ottó Szokolai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7830.jpg"
+		}, {
+			"id": 230531,
+			"language": "Polish",
+			"name": {
+				"first": "Tadeusz",
+				"last": "Borowski",
+				"full": "Tadeusz Borowski",
+				"native": null,
+				"userPreferred": "Tadeusz Borowski"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 3710,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tenten",
+			"last": null,
+			"full": "Tenten",
+			"native": "テンテン",
+			"userPreferred": "Tenten"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b3710-OmDNYKi0Xfjk.png",
+		"voiceActors": [{
+			"id": 95027,
+			"language": "Japanese",
+			"name": {
+				"first": "Yukari",
+				"last": "Tamura",
+				"full": "Yukari Tamura",
+				"native": "田村ゆかり",
+				"userPreferred": "Yukari Tamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg"
+		}, {
+			"id": 95263,
+			"language": "English",
+			"name": {
+				"first": "Danielle",
+				"last": "Judovits",
+				"full": "Danielle Judovits",
+				"native": null,
+				"userPreferred": "Danielle Judovits"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95263-Gly3Gt6ZKCOr.png"
+		}, {
+			"id": 110129,
+			"language": "Korean",
+			"name": {
+				"first": "Sin Jeong",
+				"last": "Han",
+				"full": "Sin Jeong Han",
+				"native": "신정 한",
+				"userPreferred": "Sin Jeong Han"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/15129.jpg"
+		}, {
+			"id": 119595,
+			"language": "Italian",
+			"name": {
+				"first": "Beatrice",
+				"last": "Caggiula",
+				"full": "Beatrice Caggiula",
+				"native": null,
+				"userPreferred": "Beatrice Caggiula"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119595-mSjuz5Ni4dcK.jpg"
+		}, {
+			"id": 102259,
+			"language": "Spanish",
+			"name": {
+				"first": "Gaby",
+				"last": "Ugarte",
+				"full": "Gaby Ugarte",
+				"native": null,
+				"userPreferred": "Gaby Ugarte"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102259-jCeOk0tKKk6i.jpg"
+		}, {
+			"id": 106595,
+			"language": "Portuguese",
+			"name": {
+				"first": "Jussara",
+				"last": "Marques",
+				"full": "Jussara Marques",
+				"native": null,
+				"userPreferred": "Jussara Marques"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/11595.jpg"
+		}, {
+			"id": 136569,
+			"language": "German",
+			"name": {
+				"first": "Saskia",
+				"last": "Bellahn",
+				"full": "Saskia Bellahn",
+				"native": null,
+				"userPreferred": "Saskia Bellahn"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n136569-kbC8OPXctAvZ.jpg"
+		}, {
+			"id": 112727,
+			"language": "Hebrew",
+			"name": {
+				"first": "Naama",
+				"last": "Uzan",
+				"full": "Naama Uzan",
+				"native": null,
+				"userPreferred": "Naama Uzan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/17727.jpg"
+		}, {
+			"id": 102842,
+			"language": "Hungarian",
+			"name": {
+				"first": "Tamara",
+				"last": "Zsigmond",
+				"full": "Tamara Zsigmond",
+				"native": null,
+				"userPreferred": "Tamara Zsigmond"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7842.jpg"
+		}, {
+			"id": 230532,
+			"language": "Polish",
+			"name": {
+				"first": "Brygida",
+				"last": "Turowska",
+				"full": "Brygida Turowska",
+				"native": null,
+				"userPreferred": "Brygida Turowska"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n230532-sUe0MI123ThX.png"
+		}]
+	}, {
+		"id": 8810,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Menma",
+			"last": null,
+			"full": "Menma",
+			"native": "メンマ",
+			"userPreferred": "Menma"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n8810-eKdwxvVuAgjG.png",
+		"voiceActors": [{
+			"id": 95074,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenji",
+				"last": "Nojima",
+				"full": "Kenji Nojima",
+				"native": "野島健児",
+				"userPreferred": "Kenji Nojima"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95074-ilLCdbpWIgrF.png"
+		}, {
+			"id": 103380,
+			"language": "English",
+			"name": {
+				"first": "Wil",
+				"last": "Wheaton",
+				"full": "Wil Wheaton",
+				"native": null,
+				"userPreferred": "Wil Wheaton"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8380.jpg"
+		}, {
+			"id": 105028,
+			"language": "Spanish",
+			"name": {
+				"first": "Yamil",
+				"last": "Atala",
+				"full": "Yamil Atala",
+				"native": null,
+				"userPreferred": "Yamil Atala"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/10028.jpg"
+		}, {
+			"id": 96423,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcelo",
+				"last": "Campos",
+				"full": "Marcelo Campos",
+				"native": null,
+				"userPreferred": "Marcelo Campos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96423-YaAvwaxG5fNk.jpg"
+		}, {
+			"id": 115080,
+			"language": "French",
+			"name": {
+				"first": "Christophe",
+				"last": "Hespel",
+				"full": "Christophe Hespel",
+				"native": null,
+				"userPreferred": "Christophe Hespel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/20080.jpg"
+		}, {
+			"id": 102800,
+			"language": "Hungarian",
+			"name": {
+				"first": "Tamás",
+				"last": "Markovics",
+				"full": "Tamás Markovics",
+				"native": null,
+				"userPreferred": "Tamás Markovics"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7800.jpg"
+		}]
+	}, {
+		"id": 3052,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tayuya",
+			"last": null,
+			"full": "Tayuya",
+			"native": "多由也",
+			"userPreferred": "Tayuya"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n3052-1V7iclO45tia.png",
+		"voiceActors": [{
+			"id": 95094,
+			"language": "Japanese",
+			"name": {
+				"first": "Akeno",
+				"last": "Watanabe",
+				"full": "Akeno Watanabe",
+				"native": "渡边明乃",
+				"userPreferred": "Akeno Watanabe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95094-nRPWBG1cVGo5.png"
+		}, {
+			"id": 95350,
+			"language": "English",
+			"name": {
+				"first": "Kari",
+				"last": "Wahlgren",
+				"full": "Kari Wahlgren",
+				"native": null,
+				"userPreferred": "Kari Wahlgren"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95350-Lzimf4zlbQHH.png"
+		}, {
+			"id": 109927,
+			"language": "Korean",
+			"name": {
+				"first": "Seon Hye",
+				"last": "Kim",
+				"full": "Seon Hye Kim",
+				"native": "선혜 김",
+				"userPreferred": "Seon Hye Kim"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14927.jpg"
+		}, {
+			"id": 152174,
+			"language": "Italian",
+			"name": {
+				"first": "Anna Maria",
+				"last": "Tulli",
+				"full": "Anna Maria Tulli",
+				"native": null,
+				"userPreferred": "Anna Maria Tulli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n152174-bx4khjvI0IAy.jpg"
+		}, {
+			"id": 96846,
+			"language": "Spanish",
+			"name": {
+				"first": "Cristina",
+				"last": "Hernández",
+				"full": "Cristina Hernández",
+				"native": "Helga Cristina Hernández Ramírez",
+				"userPreferred": "Cristina Hernández"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96846-1tJ46kl7SBgd.jpg"
+		}, {
+			"id": 106520,
+			"language": "Portuguese",
+			"name": {
+				"first": "Luciana",
+				"last": "Baroli",
+				"full": "Luciana Baroli",
+				"native": null,
+				"userPreferred": "Luciana Baroli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106520-3GRf74nOYVAG.png"
+		}, {
+			"id": 218304,
+			"language": "Polish",
+			"name": {
+				"first": "Anna",
+				"last": "Apostolakis-Gluzińska",
+				"full": "Anna Apostolakis-Gluzińska",
+				"native": null,
+				"userPreferred": "Anna Apostolakis-Gluzińska"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n218304-oJPO6HFX0TlC.png"
+		}]
+	}, {
+		"id": 3889,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Konohamaru",
+			"last": "Sarutobi",
+			"full": "Konohamaru Sarutobi",
+			"native": "猿飛 木ノ葉丸",
+			"userPreferred": "Konohamaru Sarutobi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n3889-gCUewPsRY2kD.png",
+		"voiceActors": [{
+			"id": 95128,
+			"language": "Japanese",
+			"name": {
+				"first": "Ikue",
+				"last": "Ootani",
+				"full": "Ikue Ootani",
+				"native": "大谷育江",
+				"userPreferred": "Ikue Ootani"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png"
+		}, {
+			"id": 95264,
+			"language": "English",
+			"name": {
+				"first": "Colleen",
+				"last": "O'Shaughnessey",
+				"full": "Colleen O'Shaughnessey",
+				"native": null,
+				"userPreferred": "Colleen O'Shaughnessey"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95264-t2i84EKOw71G.jpg"
+		}, {
+			"id": 110129,
+			"language": "Korean",
+			"name": {
+				"first": "Sin Jeong",
+				"last": "Han",
+				"full": "Sin Jeong Han",
+				"native": "신정 한",
+				"userPreferred": "Sin Jeong Han"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/15129.jpg"
+		}, {
+			"id": 106919,
+			"language": "Italian",
+			"name": {
+				"first": "Patrizia",
+				"last": "Mottola",
+				"full": "Patrizia Mottola",
+				"native": null,
+				"userPreferred": "Patrizia Mottola"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106919-yK2xGS8rnYfT.png"
+		}, {
+			"id": 102259,
+			"language": "Spanish",
+			"name": {
+				"first": "Gaby",
+				"last": "Ugarte",
+				"full": "Gaby Ugarte",
+				"native": null,
+				"userPreferred": "Gaby Ugarte"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102259-jCeOk0tKKk6i.jpg"
+		}, {
+			"id": 102198,
+			"language": "Portuguese",
+			"name": {
+				"first": "Bárbara",
+				"last": "Lourenço",
+				"full": "Bárbara Lourenço",
+				"native": "Bárbara Alexandra Ribeiro Lourenço",
+				"userPreferred": "Bárbara Lourenço"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102198-qFzQycDGzdVT.png"
+		}, {
+			"id": 106518,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fátima",
+				"last": "Noya",
+				"full": "Fátima Noya",
+				"native": null,
+				"userPreferred": "Fátima Noya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/11518.jpg"
+		}, {
+			"id": 103386,
+			"language": "Hungarian",
+			"name": {
+				"first": "Bence",
+				"last": "Penke",
+				"full": "Bence Penke",
+				"native": null,
+				"userPreferred": "Bence Penke"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8386.jpg"
+		}, {
+			"id": 230532,
+			"language": "Polish",
+			"name": {
+				"first": "Brygida",
+				"last": "Turowska",
+				"full": "Brygida Turowska",
+				"native": null,
+				"userPreferred": "Brygida Turowska"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n230532-sUe0MI123ThX.png"
+		}]
+	}, {
+		"id": 3150,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Zetsu",
+			"last": null,
+			"full": "Zetsu",
+			"native": "ゼツ",
+			"userPreferred": "Zetsu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/3150.jpg",
+		"voiceActors": [{
+			"id": 95157,
+			"language": "Japanese",
+			"name": {
+				"first": "Nobuo",
+				"last": "Tobita",
+				"full": "Nobuo Tobita",
+				"native": "飛田展男",
+				"userPreferred": "Nobuo Tobita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95157-td6WhlGehuDJ.png"
+		}, {
+			"id": 95512,
+			"language": "English",
+			"name": {
+				"first": "Michael",
+				"last": "Sorich",
+				"full": "Michael Sorich",
+				"native": null,
+				"userPreferred": "Michael Sorich"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95512-ZF7RSh28tB0l.jpg"
+		}, {
+			"id": 96361,
+			"language": "English",
+			"name": {
+				"first": "Brian",
+				"last": "Beacock",
+				"full": "Brian Beacock",
+				"native": null,
+				"userPreferred": "Brian Beacock"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96361-2Qhjphgjt2QV.jpg"
+		}, {
+			"id": 164445,
+			"language": "Italian",
+			"name": {
+				"first": "Luca",
+				"last": "Ghignone",
+				"full": "Luca Ghignone",
+				"native": null,
+				"userPreferred": "Luca Ghignone"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n164445-CWKeycJ0TJuP.png"
+		}, {
+			"id": 230943,
+			"language": "Italian",
+			"name": {
+				"first": "Gabriele",
+				"last": "Marchingiglio",
+				"full": "Gabriele Marchingiglio",
+				"native": null,
+				"userPreferred": "Gabriele Marchingiglio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 189457,
+			"language": "Spanish",
+			"name": {
+				"first": "Víctor Hugo",
+				"last": "Aguilar",
+				"full": "Víctor Hugo Aguilar",
+				"native": null,
+				"userPreferred": "Víctor Hugo Aguilar"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189457-d47vqp8WOyht.jpg"
+		}, {
+			"id": 102974,
+			"language": "Portuguese",
+			"name": {
+				"first": "Wellington",
+				"last": "Lima",
+				"full": "Wellington Lima",
+				"native": null,
+				"userPreferred": "Wellington Lima"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102974-PW4xc2DMIK0d.png"
+		}, {
+			"id": 185027,
+			"language": "Portuguese",
+			"name": {
+				"first": "Anibal ",
+				"last": "Munhoz",
+				"full": "Anibal  Munhoz",
+				"native": null,
+				"userPreferred": "Anibal  Munhoz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185027-X6UbdNi8mTwF.jpg"
+		}, {
+			"id": 141771,
+			"language": "German",
+			"name": {
+				"first": "Christos",
+				"last": "Topoulos",
+				"full": "Christos Topoulos",
+				"native": null,
+				"userPreferred": "Christos Topoulos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 17425,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Renga",
+			"last": null,
+			"full": "Renga",
+			"native": "レンガ",
+			"userPreferred": "Renga"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n17425-WXItrLlD90oi.png",
+		"voiceActors": [{
+			"id": 95563,
+			"language": "Japanese",
+			"name": {
+				"first": "Masaki",
+				"last": "Terasoma",
+				"full": "Masaki Terasoma",
+				"native": "てらそままさき",
+				"userPreferred": "Masaki Terasoma"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95563-tMN0xtsy1qyh.png"
+		}, {
+			"id": 95182,
+			"language": "English",
+			"name": {
+				"first": "Troy",
+				"last": "Baker",
+				"full": "Troy Baker",
+				"native": null,
+				"userPreferred": "Troy Baker"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95182-TiZXT6F98sV2.png"
+		}, {
+			"id": 100069,
+			"language": "Portuguese",
+			"name": {
+				"first": "Hermes",
+				"last": "Baroli",
+				"full": "Hermes Baroli",
+				"native": null,
+				"userPreferred": "Hermes Pereira Baroli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100069-RPevZl0IOuJ2.jpg"
+		}]
+	}, {
+		"id": 15077,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tsunami",
+			"last": null,
+			"full": "Tsunami",
+			"native": "ツナミ",
+			"userPreferred": "Tsunami"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n15077-7Bc55n62t7t6.png",
+		"voiceActors": [{
+			"id": 95230,
+			"language": "Japanese",
+			"name": {
+				"first": "Misa",
+				"last": "Watanabe",
+				"full": "Misa Watanabe",
+				"native": "渡辺美佐",
+				"userPreferred": "Misa Watanabe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95230-lCHOeyeVaISA.png"
+		}, {
+			"id": 95733,
+			"language": "English",
+			"name": {
+				"first": "Cindy",
+				"last": "Robinson",
+				"full": "Cindy Robinson",
+				"native": null,
+				"userPreferred": "Cindy Robinson"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95733-34PimWRfaPKr.jpg"
+		}, {
+			"id": 104991,
+			"language": "Italian",
+			"name": {
+				"first": "Giuliana",
+				"last": "Atepi",
+				"full": "Giuliana Atepi",
+				"native": null,
+				"userPreferred": "Giuliana Atepi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104991-9eWTfVyMactS.png"
+		}, {
+			"id": 202447,
+			"language": "Spanish",
+			"name": {
+				"first": "Diana",
+				"last": "Pérez",
+				"full": "Diana Pérez",
+				"native": "Diana Andrea Pérez Revatett",
+				"userPreferred": "Diana Pérez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n202447-nYFZVZlyafE4.png"
+		}, {
+			"id": 106402,
+			"language": "Portuguese",
+			"name": {
+				"first": "Tânia",
+				"last": "Gaidarji",
+				"full": "Tânia Gaidarji",
+				"native": null,
+				"userPreferred": "Tânia Gaidarji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/11402.jpg"
+		}, {
+			"id": 109411,
+			"language": "German",
+			"name": {
+				"first": "Marion",
+				"last": "von Stengel",
+				"full": "Marion von Stengel",
+				"native": null,
+				"userPreferred": "Marion von Stengel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 286114,
+			"language": "Polish",
+			"name": {
+				"first": "Kinga",
+				"last": "Tabor",
+				"full": "Kinga Tabor",
+				"native": null,
+				"userPreferred": "Kinga Tabor"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n286114-vlVTaYEITeMm.png"
+		}]
+	}, {
+		"id": 10700,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Akio",
+			"last": null,
+			"full": "Akio",
+			"native": "アキオ",
+			"userPreferred": "Akio"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/10700.jpg",
+		"voiceActors": [{
+			"id": 95245,
+			"language": "Japanese",
+			"name": {
+				"first": "Satoshi",
+				"last": "Hino",
+				"full": "Satoshi Hino",
+				"native": "日野聡",
+				"userPreferred": "Satoshi Hino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg"
+		}, {
+			"id": 95010,
+			"language": "English",
+			"name": {
+				"first": "Johnny Yong",
+				"last": "Bosch",
+				"full": "Johnny Yong Bosch",
+				"native": null,
+				"userPreferred": "Johnny Yong Bosch"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95010-56EByXYI2PjI.jpg"
+		}, {
+			"id": 179917,
+			"language": "Portuguese",
+			"name": {
+				"first": "Italo",
+				"last": "Luiz",
+				"full": "Italo Luiz",
+				"native": "Ítalo Luiz",
+				"userPreferred": "Italo Luiz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179917-6gvnWXJXGCuq.jpg"
+		}]
+	}, {
+		"id": 17536,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gatsu",
+			"last": null,
+			"full": "Gatsu",
+			"native": "ガツ",
+			"userPreferred": "Gatsu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n17536-ezOUnkM5QBcP.png",
+		"voiceActors": [{
+			"id": 95284,
+			"language": "Japanese",
+			"name": {
+				"first": "Fumihiko",
+				"last": "Tachiki",
+				"full": "Fumihiko Tachiki",
+				"native": "立木文彦",
+				"userPreferred": "Fumihiko Tachiki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95284-k97k9dULn4vr.png"
+		}, {
+			"id": 182449,
+			"language": "Spanish",
+			"name": {
+				"first": "José",
+				"last": "Lavat",
+				"full": "José Lavat",
+				"native": null,
+				"userPreferred": "José Lavat"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182449-Dy8VbdGdCI2E.jpg"
+		}, {
+			"id": 199776,
+			"language": "Portuguese",
+			"name": {
+				"first": "Renato",
+				"last": "Márcio",
+				"full": "Renato Márcio",
+				"native": null,
+				"userPreferred": "Renato Márcio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n199776-LEqi70eXMlME.png"
+		}]
+	}, {
+		"id": 15072,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Inoichi",
+			"last": "Yamanaka",
+			"full": "Inoichi Yamanaka",
+			"native": "山中いのいち",
+			"userPreferred": "Inoichi Yamanaka"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n15072-SLGhV8u4lAGp.png",
+		"voiceActors": [{
+			"id": 101207,
+			"language": "Japanese",
+			"name": {
+				"first": "Daiki",
+				"last": "Nakamura",
+				"full": "Daiki Nakamura",
+				"native": "中村大樹",
+				"userPreferred": "Daiki Nakamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101207-auZVaqSt1LfQ.png"
+		}, {
+			"id": 95336,
+			"language": "English",
+			"name": {
+				"first": "Kyle",
+				"last": "Hebert",
+				"full": "Kyle Hebert",
+				"native": null,
+				"userPreferred": "Kyle Hebert"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95336-VVMKFINwPYZ8.jpg"
+		}, {
+			"id": 106921,
+			"language": "Italian",
+			"name": {
+				"first": "Pino",
+				"last": "Pirovano",
+				"full": "Pino Pirovano",
+				"native": null,
+				"userPreferred": "Pino Pirovano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106921-RETH1foEtb5G.jpg"
+		}, {
+			"id": 189453,
+			"language": "Spanish",
+			"name": {
+				"first": "Raúl",
+				"last": "Anaya",
+				"full": "Raúl Anaya",
+				"native": "Raúl Alberto Anaya Lunas",
+				"userPreferred": "Raúl Anaya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189453-frceR3XuFqLw.png"
+		}, {
+			"id": 109489,
+			"language": "Portuguese",
+			"name": {
+				"first": "Dado",
+				"last": "Monteiro",
+				"full": "Dado Monteiro",
+				"native": null,
+				"userPreferred": "Dado Monteiro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14489.jpg"
+		}, {
+			"id": 106531,
+			"language": "Portuguese",
+			"name": {
+				"first": "Guilherme",
+				"last": "Lopes",
+				"full": "Guilherme Lopes",
+				"native": null,
+				"userPreferred": "Guilherme Lopes"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106531-vOxd4fxQt9UL.jpg"
+		}, {
+			"id": 230530,
+			"language": "Polish",
+			"name": {
+				"first": "Łukasz",
+				"last": "Lewandowski",
+				"full": "Łukasz Lewandowski",
+				"native": null,
+				"userPreferred": "Łukasz Lewandowski"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n230530-Dbuxcx2ElmmK.png"
+		}]
+	}, {
+		"id": 21122,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mikoto",
+			"last": "Uchiha",
+			"full": "Mikoto Uchiha",
+			"native": "うちはミコト",
+			"userPreferred": "Mikoto Uchiha"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n21122-blSqxSAMDwXf.png",
+		"voiceActors": [{
+			"id": 105908,
+			"language": "Japanese",
+			"name": {
+				"first": "Emi",
+				"last": "Sagara",
+				"full": "Emi Sagara",
+				"native": "恵美 相楽",
+				"userPreferred": "Emi Sagara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/10908.jpg"
+		}, {
+			"id": 95350,
+			"language": "English",
+			"name": {
+				"first": "Kari",
+				"last": "Wahlgren",
+				"full": "Kari Wahlgren",
+				"native": null,
+				"userPreferred": "Kari Wahlgren"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95350-Lzimf4zlbQHH.png"
+		}, {
+			"id": 199498,
+			"language": "Spanish",
+			"name": {
+				"first": "Gaby",
+				"last": "Willer",
+				"full": "Gaby Willer",
+				"native": null,
+				"userPreferred": "Gaby Willer"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n199498-HHkdu7Zi7vRD.png"
+		}]
+	}, {
+		"id": 16973,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Fugaku",
+			"last": "Uchiha",
+			"full": "Fugaku Uchiha",
+			"native": "うちはフガク",
+			"userPreferred": "Fugaku Uchiha"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n16973-xTr9vfvx8QBR.png",
+		"voiceActors": [{
+			"id": 95371,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenji",
+				"last": "Hamada",
+				"full": "Kenji Hamada",
+				"native": "浜田賢二",
+				"userPreferred": "Kenji Hamada"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95371-nyA7w7nPrlPr.png"
+		}, {
+			"id": 96035,
+			"language": "English",
+			"name": {
+				"first": "Doug",
+				"last": "Stone",
+				"full": "Doug Stone",
+				"native": null,
+				"userPreferred": "Doug Stone"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1035.jpg"
+		}, {
+			"id": 96236,
+			"language": "Italian",
+			"name": {
+				"first": "Diego",
+				"last": "Sabre",
+				"full": "Diego Sabre",
+				"native": null,
+				"userPreferred": "Diego Sabre"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96236-2gQfODFDwIAT.png"
+		}, {
+			"id": 108319,
+			"language": "Portuguese",
+			"name": {
+				"first": "Luiz Antonio",
+				"last": "Lobue",
+				"full": "Luiz Antonio Lobue",
+				"native": "Luiz Antônio Lobue",
+				"userPreferred": "Luiz Antonio Lobue"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/13319.jpg"
+		}, {
+			"id": 104908,
+			"language": "French",
+			"name": {
+				"first": "Mathieu",
+				"last": "Moreau",
+				"full": "Mathieu Moreau",
+				"native": null,
+				"userPreferred": "Mathieu Moreau"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9908.jpg"
+		}, {
+			"id": 141769,
+			"language": "German",
+			"name": {
+				"first": "Tomas",
+				"last": "Kröger",
+				"full": "Tomas Kröger",
+				"native": null,
+				"userPreferred": "Tomas Kröger"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 230528,
+			"language": "Polish",
+			"name": {
+				"first": "January",
+				"last": "Brunov",
+				"full": "January Brunov",
+				"native": null,
+				"userPreferred": "January Brunov"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 18056,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shikaku",
+			"last": "Nara",
+			"full": "Shikaku Nara",
+			"native": "奈良シカク",
+			"userPreferred": "Shikaku Nara"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n18056-fCHMXALzWvOL.png",
+		"voiceActors": [{
+			"id": 95477,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroshi",
+				"last": "Yanaka",
+				"full": "Hiroshi Yanaka",
+				"native": "家中宏",
+				"userPreferred": "Hiroshi Yanaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95477-zUeFZNtjTgap.png"
+		}, {
+			"id": 105753,
+			"language": "English",
+			"name": {
+				"first": "Jonathan",
+				"last": "Fahn",
+				"full": "Jonathan Fahn",
+				"native": null,
+				"userPreferred": "Jonathan Fahn"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105753-WHL5L8UerAey.jpg"
+		}, {
+			"id": 182440,
+			"language": "Spanish",
+			"name": {
+				"first": "Gerardo",
+				"last": "Vásquez",
+				"full": "Gerardo Vásquez",
+				"native": "Gerardo Vásquez Martínez",
+				"userPreferred": "Gerardo Vásquez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182440-JV9ZJtedVFcT.png"
+		}, {
+			"id": 108319,
+			"language": "Portuguese",
+			"name": {
+				"first": "Luiz Antonio",
+				"last": "Lobue",
+				"full": "Luiz Antonio Lobue",
+				"native": "Luiz Antônio Lobue",
+				"userPreferred": "Luiz Antonio Lobue"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/13319.jpg"
+		}, {
+			"id": 199776,
+			"language": "Portuguese",
+			"name": {
+				"first": "Renato",
+				"last": "Márcio",
+				"full": "Renato Márcio",
+				"native": null,
+				"userPreferred": "Renato Márcio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n199776-LEqi70eXMlME.png"
+		}, {
+			"id": 154552,
+			"language": "Portuguese",
+			"name": {
+				"first": "Cesar",
+				"last": "Marchetti",
+				"full": "Cesar Marchetti",
+				"native": "César Marchetti",
+				"userPreferred": "Cesar Marchetti"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n154552-JXRCgweROAlW.jpg"
+		}, {
+			"id": 179629,
+			"language": "Portuguese",
+			"name": {
+				"first": "Sidney",
+				"last": "Lilla",
+				"full": "Sidney Lilla",
+				"native": null,
+				"userPreferred": "Sidney Lilla"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179629-HAPyYQItop0b.jpg"
+		}, {
+			"id": 277542,
+			"language": "Polish",
+			"name": {
+				"first": "Robert",
+				"last": "Tondera",
+				"full": "Robert Tondera",
+				"native": null,
+				"userPreferred": "Robert Tondera"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 17548,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shin'emon",
+			"last": null,
+			"full": "Shin'emon",
+			"native": "進衛門",
+			"userPreferred": "Shin'emon"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n17548-KCcaPCA0evpq.png",
+		"voiceActors": [{
+			"id": 95591,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenjirou",
+				"last": "Tsuda",
+				"full": "Kenjirou Tsuda",
+				"native": "津田健次郎",
+				"userPreferred": "Kenjirou Tsuda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+		}, {
+			"id": 96462,
+			"language": "Spanish",
+			"name": {
+				"first": "Irwin",
+				"last": "Daayán",
+				"full": "Irwin Daayán",
+				"native": "Irwin Daayán Rosenthal Sarlí",
+				"userPreferred": "Irwin Daayán"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96462-PWlPtfZ1sHX7.png"
+		}, {
+			"id": 100084,
+			"language": "Portuguese",
+			"name": {
+				"first": "Rodrigo",
+				"last": "Andreatto",
+				"full": "Rodrigo Andreatto",
+				"native": null,
+				"userPreferred": "Rodrigo Andreatto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5084.jpg"
+		}]
+	}, {
+		"id": 17165,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Chishima",
+			"last": null,
+			"full": "Chishima",
+			"native": "チシマ",
+			"userPreferred": "Chishima"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n17165-9iOtC0UagSGJ.png",
+		"voiceActors": [{
+			"id": 101624,
+			"language": "Japanese",
+			"name": {
+				"first": "Takashi",
+				"last": "Mito",
+				"full": "Takashi Mito",
+				"native": "三戸崇史",
+				"userPreferred": "Takashi Mito"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6624.jpg"
+		}, {
+			"id": 95669,
+			"language": "English",
+			"name": {
+				"first": "Sam",
+				"last": "Riegel",
+				"full": "Sam Riegel",
+				"native": null,
+				"userPreferred": "Sam Riegel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95669-SRLnXSqkz2iy.jpg"
+		}, {
+			"id": 117179,
+			"language": "Spanish",
+			"name": {
+				"first": "Arturo",
+				"last": "Castañeda",
+				"full": "Arturo Castañeda",
+				"native": null,
+				"userPreferred": "Arturo Castañeda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117179-7jGqruzVaaSq.png"
+		}, {
+			"id": 96830,
+			"language": "Portuguese",
+			"name": {
+				"first": "Wendel",
+				"last": "Bezerra",
+				"full": "Wendel Bezerra",
+				"native": null,
+				"userPreferred": "Wendel Bezerra"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96830-z4QYyXcQgjHB.png"
+		}, {
+			"id": 104152,
+			"language": "Hungarian",
+			"name": {
+				"first": "Ádám",
+				"last": "Gacsal",
+				"full": "Ádám Gacsal",
+				"native": null,
+				"userPreferred": "Ádám Gacsal"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9152.jpg"
+		}]
+	}, {
+		"id": 23155,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shimon",
+			"last": "Hijiri",
+			"full": "Shimon Hijiri",
+			"native": "聖 シモン",
+			"userPreferred": "Shimon Hijiri"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n23155-0AJTU8fHXeYJ.png",
+		"voiceActors": [{
+			"id": 95899,
+			"language": "Japanese",
+			"name": {
+				"first": "Isshin",
+				"last": "Chiba",
+				"full": "Isshin Chiba",
+				"native": "千葉一伸",
+				"userPreferred": "Isshin Chiba"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95899-AMM2JgmiM26f.png"
+		}]
+	}, {
+		"id": 15145,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yotaka",
+			"last": null,
+			"full": "Yotaka",
+			"native": null,
+			"userPreferred": "Yotaka"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/15145.jpg",
+		"voiceActors": [{
+			"id": 96243,
+			"language": "Japanese",
+			"name": {
+				"first": "Kunihiko",
+				"last": "Yasui",
+				"full": "Kunihiko Yasui",
+				"native": "安井邦彦",
+				"userPreferred": "Kunihiko Yasui"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96243-8Dh4B8TraUJn.jpg"
+		}, {
+			"id": 95026,
+			"language": "English",
+			"name": {
+				"first": "Travis",
+				"last": "Willingham",
+				"full": "Travis Willingham",
+				"native": null,
+				"userPreferred": "Travis Willingham"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95026-8rP8eX7zsekz.jpg"
+		}, {
+			"id": 182190,
+			"language": "Spanish",
+			"name": {
+				"first": "Óscar",
+				"last": "Gómez",
+				"full": "Óscar Gómez",
+				"native": "Óscar Gonzalo Gómez Acevedo",
+				"userPreferred": "Óscar Gómez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182190-Z71ORdxBiGJq.png"
+		}, {
+			"id": 185164,
+			"language": "Portuguese",
+			"name": {
+				"first": "Paulo",
+				"last": "Porto",
+				"full": "Paulo Porto",
+				"native": null,
+				"userPreferred": "Paulo Porto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185164-rkNEdLUOexQe.png"
+		}]
+	}, {
+		"id": 24324,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tobio",
+			"last": null,
+			"full": "Tobio",
+			"native": "トビオ",
+			"userPreferred": "Tobio"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b24324-QIuBQBsrbKIm.jpg",
+		"voiceActors": [{
+			"id": 96546,
+			"language": "Japanese",
+			"name": {
+				"first": "Taisuke",
+				"last": "Yamamoto",
+				"full": "Taisuke Yamamoto",
+				"native": "泰輔 山本",
+				"userPreferred": "Taisuke Yamamoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96546-7brc5zt0laeM.png"
+		}, {
+			"id": 96534,
+			"language": "Portuguese",
+			"name": {
+				"first": "Thiago",
+				"last": "Longo",
+				"full": "Thiago Longo",
+				"native": null,
+				"userPreferred": "Thiago Longo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96534-lV4sfbdCcMRa.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 1735,
+		"relationType": "SEQUEL",
+		"malId": 1735,
+		"title": {
+			"romaji": "NARUTO: Shippuuden",
+			"english": "Naruto: Shippuden",
+			"native": "NARUTO -ナルト- 疾風伝",
+			"userPreferred": "NARUTO: Shippuuden"
+		},
+		"status": "Completed",
+		"episodes": 500,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png",
+		"color": "#e4865d",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1735.jpg",
+		"rating": 82
+	}, {
+		"id": 30011,
+		"relationType": "ADAPTATION",
+		"malId": 11,
+		"title": {
+			"romaji": "NARUTO",
+			"english": "Naruto",
+			"native": "NARUTO -ナルト-",
+			"userPreferred": "NARUTO"
+		},
+		"status": "Completed",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx30011-9yUF1dXWgDOx.jpg",
+		"color": "#fe7828",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/30011-pkX1O0EFqvV7.jpg",
+		"rating": 78
+	}, {
+		"id": 442,
+		"relationType": "SIDE_STORY",
+		"malId": 442,
+		"title": {
+			"romaji": "NARUTO: Dai Katsugeki! Yuki Hime Ninpouchou Dattebayo!!",
+			"english": "Naruto the Movie: Ninja Clash in the Land of Snow",
+			"native": "劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!",
+			"userPreferred": "NARUTO: Dai Katsugeki! Yuki Hime Ninpouchou Dattebayo!!"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx442-VJbmIVTgmne3.png",
+		"color": "#e46b50",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/442-Mi9O1QwTaXqQ.jpg",
+		"rating": 67
+	}, {
+		"id": 594,
+		"relationType": "SIDE_STORY",
+		"malId": 594,
+		"title": {
+			"romaji": "NARUTO: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+			"english": "Naruto: The Lost Story - Mission: Protect the Waterfall Village",
+			"native": "NARUTO -ナルト- 滝隠れの死闘 オレが英雄だってばよ！",
+			"userPreferred": "NARUTO: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/594.jpg",
+		"color": "#d6ae5d",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/594.jpg",
+		"rating": 63
+	}, {
+		"id": 761,
+		"relationType": "SIDE_STORY",
+		"malId": 761,
+		"title": {
+			"romaji": "NARUTO: Akaki Yotsuba no Clover wo Sagase",
+			"english": null,
+			"native": "NARUTO -ナルト- 紅き四つ葉のクローバーを探せ",
+			"userPreferred": "NARUTO: Akaki Yotsuba no Clover wo Sagase"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/761.jpg",
+		"color": "#f17843",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/761.jpg",
+		"rating": 62
+	}, {
+		"id": 936,
+		"relationType": "SIDE_STORY",
+		"malId": 936,
+		"title": {
+			"romaji": "NARUTO: Dai Gekitotsu! Maboroshi no Chitei Iseki Dattebayo",
+			"english": "Naruto the Movie: Legend of the Stone of Gelel",
+			"native": "劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ",
+			"userPreferred": "NARUTO: Dai Gekitotsu! Maboroshi no Chitei Iseki Dattebayo"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx936-P1ogcIs07UR8.jpg",
+		"color": "#f18643",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/936-q1NJoF3NDEjF.jpg",
+		"rating": 65
+	}, {
+		"id": 1074,
+		"relationType": "SIDE_STORY",
+		"malId": 1074,
+		"title": {
+			"romaji": "NARUTO: Narutimate Hero 3: Tsui ni Gekitotsu! Jounin VS Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+			"english": null,
+			"native": "NARUTO -ナルト- ナルティメットヒーロー3 ついに激突! 上忍VS下忍!! 無差別大乱戦大会開催!!",
+			"userPreferred": "NARUTO: Narutimate Hero 3: Tsui ni Gekitotsu! Jounin VS Genin!! Musabetsu Dairansen Taikai Kaisai!!"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1074.jpg",
+		"color": "#e48628",
+		"type": "OVA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1074.jpg",
+		"rating": 63
+	}, {
+		"id": 2144,
+		"relationType": "SIDE_STORY",
+		"malId": 2144,
+		"title": {
+			"romaji": "NARUTO: Dai Koufun! Mikazukijima no Animal Panic Dattebayo!",
+			"english": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+			"native": "劇場版 NARUTO -ナルト- 大興奮!みかづき島のアニマル騒動だってばよ",
+			"userPreferred": "NARUTO: Dai Koufun! Mikazukijima no Animal Panic Dattebayo!"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2144-9FITEzdGnlWC.jpg",
+		"color": "#e48650",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2144-KnEAcgexm2SI.jpg",
+		"rating": 65
+	}, {
+		"id": 7367,
+		"relationType": "SIDE_STORY",
+		"malId": 7367,
+		"title": {
+			"romaji": "NARUTO: THE CROSS ROADS",
+			"english": null,
+			"native": "NARUTO -ナルト- THE CROSS ROADS",
+			"userPreferred": "NARUTO: THE CROSS ROADS"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7367.jpg",
+		"color": "#e4780d",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7367.jpg",
+		"rating": 64
+	}, {
+		"id": 10659,
+		"relationType": "SIDE_STORY",
+		"malId": 10659,
+		"title": {
+			"romaji": "NARUTO: Soyokazeden - Naruto to Mashin to Mitsu no Onegai Dattebayo!!",
+			"english": null,
+			"native": "劇場版 NARUTO -ナルト- そよかぜ伝 ナルトと魔神と3つのお願いだってばよ!!",
+			"userPreferred": "NARUTO: Soyokazeden - Naruto to Mashin to Mitsu no Onegai Dattebayo!!"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10659.jpg",
+		"color": "#e48650",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10659.jpg",
+		"rating": 65
+	}, {
+		"id": 155348,
+		"relationType": "SUMMARY",
+		"malId": 53236,
+		"title": {
+			"romaji": "ROAD OF NARUTO",
+			"english": null,
+			"native": "ROAD OF NARUTO",
+			"userPreferred": "ROAD OF NARUTO"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155348-4ipji8SvTjyh.jpg",
+		"color": "#f18650",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155348-I6f4TQKslVx2.jpg",
+		"rating": 84
+	}, {
+		"id": 162561,
+		"relationType": "OTHER",
+		"malId": 54688,
+		"title": {
+			"romaji": "NARUTO (Shinsaku Anime)",
+			"english": null,
+			"native": "NARUTO -ナルト- (新作アニメ)",
+			"userPreferred": "NARUTO (Shinsaku Anime)"
+		},
+		"status": "Not yet aired",
+		"episodes": 4,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162561-L62lUPh5qt85.jpg",
+		"color": "#f1861a",
+		"type": null,
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162561-L62lUPh5qt85.jpg",
+		"rating": null
+	}],
+	"mappings": {
+		"mal": 20,
+		"anidb": 239,
+		"kitsu": 11,
+		"anilist": 20,
+		"thetvdb": 78857,
+		"anisearch": 2788,
+		"livechart": 3585,
+		"notify.moe": "Pjip5Kmmg",
+		"anime-planet": "naruto"
+	},
+	"episodes": [        {
+            "id": "naruto-episode-1",
+            "title": "Enter: Naruto Uzumaki!",
+            "description": null,
+            "number": "1",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-2",
+            "title": "My Name is Konohamaru!",
+            "description": null,
+            "number": "2",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-3",
+            "title": "Sasuke and Sakura: Friends or Foes?",
+            "description": null,
+            "number": "3",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-4",
+            "title": "Pass or Fail: Survival Test",
+            "description": null,
+            "number": "4",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-5",
+            "title": "You Failed! Kakashi's Final Decision",
+            "description": null,
+            "number": "5",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-6",
+            "title": "A Dangerous Mission! Journey to the Land of Waves!",
+            "description": null,
+            "number": "6",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-7",
+            "title": "The Assassin of the Mist!",
+            "description": null,
+            "number": "7",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-8",
+            "title": "The Oath of Pain",
+            "description": null,
+            "number": "8",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-9",
+            "title": "Kakashi: Sharingan Warrior!",
+            "description": null,
+            "number": "9",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-10",
+            "title": "The Forest of Chakra",
+            "description": null,
+            "number": "10",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-11",
+            "title": "The Land Where a Hero Once Lived",
+            "description": null,
+            "number": "11",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-12",
+            "title": "Battle on the Bridge! Zabuza Returns!",
+            "description": null,
+            "number": "12",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-13",
+            "title": "Haku's Secret Jutsu: Demonic Mirroring Ice Crystals",
+            "description": null,
+            "number": "13",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-14",
+            "title": "The Number One Hyperactive, Knucklehead Ninja Joins the Fight!",
+            "description": null,
+            "number": "14",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-15",
+            "title": "Zero Visibility: The Sharingan Shatters",
+            "description": null,
+            "number": "15",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-16",
+            "title": "The Broken Seal",
+            "description": null,
+            "number": "16",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-17",
+            "title": "White Past: Hidden Ambition",
+            "description": null,
+            "number": "17",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-18",
+            "title": "The Weapons Known as Shinobi",
+            "description": null,
+            "number": "18",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-19",
+            "title": "The Demon in the Snow",
+            "description": null,
+            "number": "19",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-20",
+            "title": "A New Chapter Begins: The Chunin Exam!",
+            "description": null,
+            "number": "20",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-21",
+            "title": "Identify Yourself: Powerful New Rivals",
+            "description": null,
+            "number": "21",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-22",
+            "title": "Chunin Challenge: Rock Lee vs. Sasuke!",
+            "description": null,
+            "number": "22",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-23",
+            "title": "Genin Takedown! All Nine Rookies Face Off!",
+            "description": null,
+            "number": "23",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-24",
+            "title": "Start Your Engines: The Chunin Exam Begins!",
+            "description": null,
+            "number": "24",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-25",
+            "title": "The Tenth Question: All or Nothing!",
+            "description": null,
+            "number": "25",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-26",
+            "title": "Special Report: Live from the Forest of Death!",
+            "description": null,
+            "number": "26",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-27",
+            "title": "The Chunin Exam Stage 2: The Forest of Death",
+            "description": null,
+            "number": "27",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-28",
+            "title": "Eat or be Eaten: Panic in the Forest",
+            "description": null,
+            "number": "28",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-29",
+            "title": "Naruto's Counterattack: Never Give In!",
+            "description": null,
+            "number": "29",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-30",
+            "title": "The Sharingan Revived: Dragon-Flame Jutsu!",
+            "description": null,
+            "number": "30",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-31",
+            "title": "Bushy Brow's Pledge: Undying Love and Protection!",
+            "description": null,
+            "number": "31",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-32",
+            "title": "Sakura Blossoms!",
+            "description": null,
+            "number": "32",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-33",
+            "title": "Battle Formation: Ino-Shika-Cho!",
+            "description": null,
+            "number": "33",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-34",
+            "title": "Akamaru Trembles: Gaara's Cruel Strength!",
+            "description": null,
+            "number": "34",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-35",
+            "title": "The Scroll's Secret: No Peeking Allowed",
+            "description": null,
+            "number": "35",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-36",
+            "title": "Clone vs. Clone: Mine are Better than Yours!",
+            "description": null,
+            "number": "36",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-37",
+            "title": "Surviving the Cut! The Rookie Nine Together Again!",
+            "description": null,
+            "number": "37",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-38",
+            "title": "Narrowing the Field: Sudden Death Elimination!",
+            "description": null,
+            "number": "38",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-39",
+            "title": "Bushy Brow's Jealousy: Lions Barrage Unleashed!",
+            "description": null,
+            "number": "39",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-40",
+            "title": "Kakashi and Orochimaru: Face-to-Face!",
+            "description": null,
+            "number": "40",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-41",
+            "title": "Kunoichi Rumble: The Rivals Get Serious!",
+            "description": null,
+            "number": "41",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-42",
+            "title": "The Ultimate Battle: Cha!",
+            "description": null,
+            "number": "42",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-43",
+            "title": "Killer Kunoichi and a Shaky Shikamaru",
+            "description": null,
+            "number": "43",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-44",
+            "title": "Akamaru Unleashed! Who's Top Dog Now?",
+            "description": null,
+            "number": "44",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-45",
+            "title": "Surprise Attack! Naruto's Secret Weapon!",
+            "description": null,
+            "number": "45",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-46",
+            "title": "Byakugan Battle: Hinata Grows Bold!",
+            "description": null,
+            "number": "46",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-47",
+            "title": "A Failure Stands Tall!",
+            "description": null,
+            "number": "47",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-48",
+            "title": "Gaara vs. Rock Lee: The Power of Youth Explodes!",
+            "description": null,
+            "number": "48",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-49",
+            "title": "Lee's Hidden Strength: Forbidden Secret Jutsu!",
+            "description": null,
+            "number": "49",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-50",
+            "title": "The Fifth Gate: A Splendid Ninja is Born",
+            "description": null,
+            "number": "50",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-51",
+            "title": "A Shadow in Darkness: Danger Approaches Sasuke",
+            "description": null,
+            "number": "51",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-52",
+            "title": "Ebisu Returns: Naruto's Toughest Training Yet!",
+            "description": null,
+            "number": "52",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-53",
+            "title": "Long Time No See: Jiraiya Returns!",
+            "description": null,
+            "number": "53",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-54",
+            "title": "The Summoning Jutsu: Wisdom of the Pervy Sage!",
+            "description": null,
+            "number": "54",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-55",
+            "title": "A Feeling of Yearning, A Flower Full of Hope",
+            "description": null,
+            "number": "55",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-56",
+            "title": "Live or Die: Risk it All to Win it All!",
+            "description": null,
+            "number": "56",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-57",
+            "title": "He Flies! He Jumps! He Lurks! Chief Toad Appears!",
+            "description": null,
+            "number": "57",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-58",
+            "title": "Hospital Besieged: The Evil Hand Revealed!",
+            "description": null,
+            "number": "58",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-59",
+            "title": "The Final Rounds: Rush to the Battle Arena!",
+            "description": null,
+            "number": "59",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-60",
+            "title": "Byakugan vs. Shadow Clone Technique!",
+            "description": null,
+            "number": "60",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-61",
+            "title": "Ultimate Defense: Zero Blind Spot!",
+            "description": null,
+            "number": "61",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-62",
+            "title": "A Failure's True Power",
+            "description": null,
+            "number": "62",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-63",
+            "title": "Hit it or Quit it: The Final Rounds Get Complicated!",
+            "description": null,
+            "number": "63",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-64",
+            "title": "Zero Motivation: The Guy with Cloud Envy!",
+            "description": null,
+            "number": "64",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-65",
+            "title": "Dancing Leaf, Squirming Sand",
+            "description": null,
+            "number": "65",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-66",
+            "title": "Bushy Brow's Jutsu: Sasuke Style!",
+            "description": null,
+            "number": "66",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-67",
+            "title": "Late for the Show, But Ready to Go! The Ultimate Secret Technique is Born!",
+            "description": null,
+            "number": "67",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-68",
+            "title": "Zero Hour! The Destruction of the Hidden Leaf Village Begins!",
+            "description": null,
+            "number": "68",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-69",
+            "title": "Village in Distress: A New A-Ranked Mission!",
+            "description": null,
+            "number": "69",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-70",
+            "title": "A Shirker's Call to Action: A Layabout No More!",
+            "description": null,
+            "number": "70",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-71",
+            "title": "An Unrivaled Match: Hokage Battle Royale!",
+            "description": null,
+            "number": "71",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-72",
+            "title": "A Mistake from the Past: A Face Revealed!",
+            "description": null,
+            "number": "72",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-73",
+            "title": "Forbidden Secret Technique: Reaper Death Seal!",
+            "description": null,
+            "number": "73",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-74",
+            "title": "Astonishing Truth! Gaara's Identity Emerges!",
+            "description": null,
+            "number": "74",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-75",
+            "title": "Sasuke's Decision: Pushed to the Edge!",
+            "description": null,
+            "number": "75",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-76",
+            "title": "Assassin of the Moonlit Night",
+            "description": null,
+            "number": "76",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-77",
+            "title": "Light vs. Dark: The Two Faces of Gaara",
+            "description": null,
+            "number": "77",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-78",
+            "title": "Naruto's Ninja Handbook",
+            "description": null,
+            "number": "78",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-79",
+            "title": "Beyond the Limit of Darkness and Light",
+            "description": null,
+            "number": "79",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-80",
+            "title": "The Third Hokage, Forever...",
+            "description": null,
+            "number": "80",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-81",
+            "title": "Return of the Morning Mist",
+            "description": null,
+            "number": "81",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-82",
+            "title": "Eye to Eye: Sharingan vs. Sharingan!",
+            "description": null,
+            "number": "82",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-83",
+            "title": "Jiraiya: Naruto's Potential Disaster!",
+            "description": null,
+            "number": "83",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-84",
+            "title": "Roar, Chidori! Brother vs. Brother!",
+            "description": null,
+            "number": "84",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-85",
+            "title": "Hate Among the Uchihas: The Last of the Clan!",
+            "description": null,
+            "number": "85",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-86",
+            "title": "A New Training Begins: I Will Be Strong!",
+            "description": null,
+            "number": "86",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-87",
+            "title": "Keep on Training: Pop Goes the Water Balloon!",
+            "description": null,
+            "number": "87",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-88",
+            "title": "Focal Point: The Mark of the Leaf",
+            "description": null,
+            "number": "88",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-89",
+            "title": "An Impossible Choice: The Pain Within Tsunade's Heart",
+            "description": null,
+            "number": "89",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-90",
+            "title": "Unforgivable! A Total Lack of Respect!",
+            "description": null,
+            "number": "90",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-91",
+            "title": "Inheritance! The Necklace of Death!",
+            "description": null,
+            "number": "91",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-92",
+            "title": "A Dubious Offer! Tsunade's Choice!",
+            "description": null,
+            "number": "92",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-93",
+            "title": "Breakdown! The Deal is Off!",
+            "description": null,
+            "number": "93",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-94",
+            "title": "Attack! Fury of the Rasengan!",
+            "description": null,
+            "number": "94",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-95",
+            "title": "The Fifth Hokage! A Life on the Line!",
+            "description": null,
+            "number": "95",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-96",
+            "title": "Deadlock! Sannin Showdown!",
+            "description": null,
+            "number": "96",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-97",
+            "title": "Kidnapped! Naruto's Hot Spring Adventure!",
+            "description": null,
+            "number": "97",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-98",
+            "title": "Tsunade's Warning: Ninja No More!",
+            "description": null,
+            "number": "98",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-99",
+            "title": "The Will of Fire Still Burns!",
+            "description": null,
+            "number": "99",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-100",
+            "title": "Sensei and Student: The Bond of the Shinobi",
+            "description": null,
+            "number": "100",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-101",
+            "title": "Gotta See! Gotta Know! Kakashi-Sensei's True Face!",
+            "description": null,
+            "number": "101",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-102",
+            "title": "Mission: Help an Old Friend in the Land of Tea",
+            "description": null,
+            "number": "102",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-103",
+            "title": "The Race is on! Trouble on the High Seas!",
+            "description": null,
+            "number": "103",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-104",
+            "title": "Run Idate Run! Nagi Island Awaits!",
+            "description": null,
+            "number": "104",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-105",
+            "title": "A Fierce Battle of Rolling Thunder!",
+            "description": null,
+            "number": "105",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-106",
+            "title": "The Last Leg: A Final Act of Desperation",
+            "description": null,
+            "number": "106",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-107",
+            "title": "The Battle Begins: Naruto vs. Sasuke",
+            "description": null,
+            "number": "107",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-108",
+            "title": "Bitter Rivals and Broken Bonds",
+            "description": null,
+            "number": "108",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-109",
+            "title": "An Invitation from the Sound",
+            "description": null,
+            "number": "109",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-110",
+            "title": "Formation! The Sasuke Retrieval Squad",
+            "description": null,
+            "number": "110",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-111",
+            "title": "Sound vs. Leaf",
+            "description": null,
+            "number": "111",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-112",
+            "title": "Squad Mutiny: Everything Falls Apart!",
+            "description": null,
+            "number": "112",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-113",
+            "title": "Full Throttle Power! Choji, Ablaze!",
+            "description": null,
+            "number": "113",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-114",
+            "title": "Good-bye Old Friend...! I'll Always Believe in You!",
+            "description": null,
+            "number": "114",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-115",
+            "title": "Your Opponent Is Me!",
+            "description": null,
+            "number": "115",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-116",
+            "title": "360 Degrees of Vision: The Byakugan's Blind Spot",
+            "description": null,
+            "number": "116",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-117",
+            "title": "Losing is Not an Option!",
+            "description": null,
+            "number": "117",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-118",
+            "title": "The Vessel Arrives Too Late",
+            "description": null,
+            "number": "118",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-119",
+            "title": "Miscalculation: A New Enemy Appears!",
+            "description": null,
+            "number": "119",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-120",
+            "title": "Roar and Howl! The Ultimate Tag Team",
+            "description": null,
+            "number": "120",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-121",
+            "title": "To Each His Own Battle",
+            "description": null,
+            "number": "121",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-122",
+            "title": "Fakeout: Shikamaru's Comeback!",
+            "description": null,
+            "number": "122",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-123",
+            "title": "The Leaf's Handsome Devil!",
+            "description": null,
+            "number": "123",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-124",
+            "title": "The Beast Within",
+            "description": null,
+            "number": "124",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-125",
+            "title": "The Sand Shinobi: Allies of the Leaf",
+            "description": null,
+            "number": "125",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-126",
+            "title": "Showdown: Gaara vs. Kimimaro!",
+            "description": null,
+            "number": "126",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-127",
+            "title": "Vengeful Strike! The Bracken Dance",
+            "description": null,
+            "number": "127",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-128",
+            "title": "A Cry on Deaf Ears",
+            "description": null,
+            "number": "128",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-129",
+            "title": "Brothers: Distance Among the Uchiha",
+            "description": null,
+            "number": "129",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-130",
+            "title": "Father and Son, the Broken Crest",
+            "description": null,
+            "number": "130",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-131",
+            "title": "The Secrets of the Mangekyo Sharingan!",
+            "description": null,
+            "number": "131",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-132",
+            "title": "For a Friend",
+            "description": null,
+            "number": "132",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-133",
+            "title": "A Plea From a Friend",
+            "description": null,
+            "number": "133",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-134",
+            "title": "The End of Tears",
+            "description": null,
+            "number": "134",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-135",
+            "title": "The Promise That Could Not Be Kept",
+            "description": null,
+            "number": "135",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-136",
+            "title": "Deep Cover!? A Super S-Ranked Mission!",
+            "description": null,
+            "number": "136",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-137",
+            "title": "A Town of Outlaws, the Shadow of the Fuma Clan",
+            "description": null,
+            "number": "137",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-138",
+            "title": "Pure Betrayal, and a Fleeting Plea!",
+            "description": null,
+            "number": "138",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-139",
+            "title": "Pure Terror! The House of Orochimaru",
+            "description": null,
+            "number": "139",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-140",
+            "title": "Two Heartbeats: Kabuto's Trap",
+            "description": null,
+            "number": "140",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-141",
+            "title": "Sakura's Determination",
+            "description": null,
+            "number": "141",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-142",
+            "title": "The Three Villains from the Maximum Security Prison",
+            "description": null,
+            "number": "142",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-143",
+            "title": "Tonton! I'm Counting on You!",
+            "description": null,
+            "number": "143",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-144",
+            "title": "A New Squad! Two People and a Dog?!",
+            "description": null,
+            "number": "144",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-145",
+            "title": "A New Formation: Ino-Shika-Cho!",
+            "description": null,
+            "number": "145",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-146",
+            "title": "Orochimaru's Shadow",
+            "description": null,
+            "number": "146",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-147",
+            "title": "A Clash of Fate: You Can't Bring Me Down",
+            "description": null,
+            "number": "147",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-148",
+            "title": "Search for the Rare Bikochu Beetle",
+            "description": null,
+            "number": "148",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-149",
+            "title": "What's the Difference? Don't All Insects Look Alike?",
+            "description": null,
+            "number": "149",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-150",
+            "title": "A Battle of Bugs: The Deceivers and the Deceived",
+            "description": null,
+            "number": "150",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-151",
+            "title": "Blaze Away Byakugan: This Is My Ninja Way",
+            "description": null,
+            "number": "151",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-152",
+            "title": "Funeral March for the Living",
+            "description": null,
+            "number": "152",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-153",
+            "title": "A Lesson Learned: The Iron Fist of Love",
+            "description": null,
+            "number": "153",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-154",
+            "title": "The Enemy of the Byakugan",
+            "description": null,
+            "number": "154",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-155",
+            "title": "The Dark Creeping Clouds",
+            "description": null,
+            "number": "155",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-156",
+            "title": "Raiga's Counterattack",
+            "description": null,
+            "number": "156",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-157",
+            "title": "Run! The Curry of Life",
+            "description": null,
+            "number": "157",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-158",
+            "title": "Follow My Lead! The Great Survival Challenge",
+            "description": null,
+            "number": "158",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-159",
+            "title": "Bounty Hunter from the Wilderness",
+            "description": null,
+            "number": "159",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-160",
+            "title": "Hunt or Be Hunted?! Showdown at the O.K. Temple!",
+            "description": null,
+            "number": "160",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-161",
+            "title": "The Appearance of Strange Visitors",
+            "description": null,
+            "number": "161",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-162",
+            "title": "The Cursed Warrior",
+            "description": null,
+            "number": "162",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-163",
+            "title": "The Tactician's Intent",
+            "description": null,
+            "number": "163",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-164",
+            "title": "Too Late for Help",
+            "description": null,
+            "number": "164",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-165",
+            "title": "The Death of Naruto",
+            "description": null,
+            "number": "165",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-166",
+            "title": "When Time Stands Still",
+            "description": null,
+            "number": "166",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-167",
+            "title": "When Egrets Flap Their Wings",
+            "description": null,
+            "number": "167",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-168",
+            "title": "Mix It, Stretch It, Boil It Up! Burn, Copper Pot, Burn!",
+            "description": null,
+            "number": "168",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-169",
+            "title": "Remembrance: The Lost Page",
+            "description": null,
+            "number": "169",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-170",
+            "title": "The Closed Door",
+            "description": null,
+            "number": "170",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-171",
+            "title": "Infiltration: The Set-Up!",
+            "description": null,
+            "number": "171",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-172",
+            "title": "Despair: A Fractured Heart",
+            "description": null,
+            "number": "172",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-173",
+            "title": "The Battle at Sea: The Power Unleashed!",
+            "description": null,
+            "number": "173",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-174",
+            "title": "Impossible! Celebrity Ninja Art - Money Style Jutsu!",
+            "description": null,
+            "number": "174",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-175",
+            "title": "The Treasure Hunt is On!",
+            "description": null,
+            "number": "175",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-176",
+            "title": "Run, Dodge, Zigzag! Chase or Be Chased!",
+            "description": null,
+            "number": "176",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-177",
+            "title": "Please, Mr. Postman!",
+            "description": null,
+            "number": "177",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-178",
+            "title": "Encounter! The Boy with a Star's Name",
+            "description": null,
+            "number": "178",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-179",
+            "title": "The Remembered Lullaby",
+            "description": null,
+            "number": "179",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-180",
+            "title": "Hidden Jutsu: The Price of The Ninja Art: Kujaku",
+            "description": null,
+            "number": "180",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-181",
+            "title": "Hoshikage, The Buried Truth",
+            "description": null,
+            "number": "181",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-182",
+            "title": "Reunion, The Remaining time",
+            "description": null,
+            "number": "182",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-183",
+            "title": "The Star's Radiance",
+            "description": null,
+            "number": "183",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-184",
+            "title": "Kiba's Long Day!",
+            "description": null,
+            "number": "184",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-185",
+            "title": "A Legend from the Hidden Leaf: The Onbaa!",
+            "description": null,
+            "number": "185",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-186",
+            "title": "Laughing Shino",
+            "description": null,
+            "number": "186",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-187",
+            "title": "Open for Business! The Leaf Moving Service",
+            "description": null,
+            "number": "187",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-188",
+            "title": "Mystery of the Targeted Merchants",
+            "description": null,
+            "number": "188",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-189",
+            "title": "A Limitless Supply of Ninja Tools",
+            "description": null,
+            "number": "189",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-190",
+            "title": "The Byakugan Sees the Blind Spot",
+            "description": null,
+            "number": "190",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-191",
+            "title": "Forecast: Death! Cloudy with Chance of Sun",
+            "description": null,
+            "number": "191",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-192",
+            "title": "Ino Screams! Chubby Paradise!",
+            "description": null,
+            "number": "192",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-193",
+            "title": "Viva Dojo Challenge! Youth Is All About Passion!",
+            "description": null,
+            "number": "193",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-194",
+            "title": "The Mysterious Curse of the Haunted Castle",
+            "description": null,
+            "number": "194",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-195",
+            "title": "The Third Super-Beast!",
+            "description": null,
+            "number": "195",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-196",
+            "title": "Hot-Blooded Confrontation: Student vs. Sensei",
+            "description": null,
+            "number": "196",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-197",
+            "title": "Crisis! The Hidden Leaf 11 Gather!",
+            "description": null,
+            "number": "197",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-198",
+            "title": "The ANBU Gives Up? Naruto's Recollection",
+            "description": null,
+            "number": "198",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-199",
+            "title": "The Missed Target",
+            "description": null,
+            "number": "199",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-200",
+            "title": "The Powerful Helper",
+            "description": null,
+            "number": "200",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-201",
+            "title": "Multiple Traps! Countdown to Destruction",
+            "description": null,
+            "number": "201",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-202",
+            "title": "The Top 5 Ninja Battles",
+            "description": null,
+            "number": "202",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-203",
+            "title": "Kurenai's Decision, Squad 8 Left Behind",
+            "description": null,
+            "number": "203",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-204",
+            "title": "Yakumo's Sealed Ability",
+            "description": null,
+            "number": "204",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-205",
+            "title": "Kurenai's Top-Secret Mission: The Promise With the Third Hokage",
+            "description": null,
+            "number": "205",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-206",
+            "title": "Genjutsu or Reality?",
+            "description": null,
+            "number": "206",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-207",
+            "title": "The Supposed Sealed Ability",
+            "description": null,
+            "number": "207",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-208",
+            "title": "The Weight of the Prized Artifact!",
+            "description": null,
+            "number": "208",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-209",
+            "title": "The Enemy: Ninja Dropouts",
+            "description": null,
+            "number": "209",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-210",
+            "title": "The Bewildering Forest",
+            "description": null,
+            "number": "210",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-211",
+            "title": "Memory of Flames",
+            "description": null,
+            "number": "211",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-212",
+            "title": "To Each His Own Path",
+            "description": null,
+            "number": "212",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-213",
+            "title": "Vanished Memories",
+            "description": null,
+            "number": "213",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-214",
+            "title": "Bringing Back Reality",
+            "description": null,
+            "number": "214",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-215",
+            "title": "A Past to Be Erased",
+            "description": null,
+            "number": "215",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-216",
+            "title": "The Targeted Shukaku",
+            "description": null,
+            "number": "216",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-217",
+            "title": "Sand Alliance With The Leaf Shinobi",
+            "description": null,
+            "number": "217",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-218",
+            "title": "The Counterattack!",
+            "description": null,
+            "number": "218",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-219",
+            "title": "The Ultimate Weapon Reborn",
+            "description": null,
+            "number": "219",
+            "image": null,
+            "airDate": null
+        },
+        {
+            "id": "naruto-episode-220",
+            "title": "Departure",
+            "description": null,
+            "number": "220",
+            "image": null,
+            "airDate": null
+        }]
+}
