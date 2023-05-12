@@ -912,6 +912,18 @@
             "genres": ["Comedy"]
         },
         {
+            "animeId": "naruto",
+            "episodeId": "naruto-episode-1",
+            "name": "Naruto",
+            "jname": "NARUTO",
+            "episodeNum": "220",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/naruto",
+            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Supernatural"]
+        },
+        {
             "animeId": "one-piece-film-red",
             "episodeId": "one-piece-film-red-episode-1",
             "name": "One Piece Film: Red",
