@@ -1,5 +1,16 @@
 [
 		{
+		"animeId": "naruto",
+		"episodeId": "naruto-episode-1",
+		"name": "Naruto",
+		"jname": "NARUTO",
+		"episodeNum": "220",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://www.themoviedb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+		"episodeUrl": "../anime/naruto"
+	},
+		{
 		"animeId": "record-of-ragnarok",
 		"episodeId": "record-of-ragnarok-episode-1",
 		"name": "Record of Ragnarok",
