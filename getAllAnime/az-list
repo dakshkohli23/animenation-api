@@ -1584,6 +1584,18 @@
             "genres": ["Action", "Adventure"]
         },
         {
+            "animeId": "record-of-ragnarok",
+            "episodeId": "record-of-ragnarok-episode-1",
+            "name": "Record of Ragnarok",
+            "jname": "Shuumatsu no Valkyrie",
+            "episodeNum": "12",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127399-AAH1pevCZLrB.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/record-of-ragnarok",
+            "genres": ["Action", "Drama", "Fantasy", "Supernatural"]
+        },
+        {
             "animeId": "samurai-champloo",
             "episodeId": "samurai-champloo-episode-1",
             "name": "Samurai Champloo",
