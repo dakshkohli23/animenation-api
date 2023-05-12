@@ -34,9 +34,68 @@
 	"genres": ["Action", "Adventure", "Comedy", "Drama", "Supernatural"],
 	"season": "SUMMER",
 	"studios": ["Studio Pierrot"],
-	"subOrDub": "sub",
+	"subOrDub": "dub",
 	"type": "MOVIE",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 20,
+		"malId": 20,
+		"title": {
+			"romaji": "NARUTO",
+			"english": "Naruto",
+			"native": "NARUTO -ナルト-"
+		},
+		"status": "Completed",
+		"episodes": 220,
+		"image": "https://www.themoviedb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+		"cover": "https://www.themoviedb.org/t/p/original/xuJ0F9RfKvVSJNDg2usurQ9WvY5.jpg",
+		"rating": 79,
+		"type": "TV"
+	},
+	{
+		"id": 442,
+		"malId": 442,
+		"title": {
+			"romaji": "NARUTO: Dai Katsugeki! Yuki Hime Ninpouchou Dattebayo!!",
+			"english": "Naruto the Movie: Ninja Clash in the Land of Snow",
+			"native": "劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx442-VJbmIVTgmne3.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/442-Mi9O1QwTaXqQ.jpg",
+		"rating": 67,
+		"type": "MOVIE"
+	},
+	{
+		"id": 936,
+		"malId": 936,
+		"title": {
+			"romaji": "NARUTO: Dai Gekitotsu! Maboroshi no Chitei Iseki Dattebayo",
+			"english": "Naruto the Movie: Legend of the Stone of Gelel",
+			"native": "劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx936-P1ogcIs07UR8.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/936-q1NJoF3NDEjF.jpg",
+		"rating": 65,
+		"type": "MOVIE"
+	},
+	{
+		"id": 2144,
+		"malId": 2144,
+		"title": {
+			"romaji": "NARUTO: Dai Koufun! Mikazukijima no Animal Panic Dattebayo!",
+			"english": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+			"native": "劇場版 NARUTO -ナルト- 大興奮!みかづき島のアニマル騒動だってばよ"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2144-9FITEzdGnlWC.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2144-KnEAcgexm2SI.jpg",
+		"rating": 65,
+		"type": "MOVIE"
+	}],
 	"characters": [{
 		"id": 85,
 		"role": "MAIN",
