@@ -1,5 +1,16 @@
 [
 		{
+		"animeId": "record-of-ragnarok",
+		"episodeId": "record-of-ragnarok-episode-1",
+		"name": "Record of Ragnarok",
+		"jname": "Shuumatsu no Valkyrie",
+		"episodeNum": "12",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127399-AAH1pevCZLrB.jpg",
+		"episodeUrl": "../anime/record-of-ragnarok"
+	},
+		{
 		"animeId": "oshi-no-ko",
 		"episodeId": "oshi-no-ko-episode-5",
 		"name": "Oshi No Ko",
