@@ -54,9 +54,21 @@
             "anime_info": "dr-stone-new-world",
             "movie_id": "131518",
             "alias": "dr-stone-new-world",
-            "nextEpText": "",
-            "nextEpLink": "",
+            "nextEpText": "Dr. STONE New World Episode 6 >>",
+            "nextEpLink": "/dr-stone-new-world-episode-6",
             "prevEpText": "<< Dr. STONE New World Episode 4",
             "prevEpLink": "/dr-stone-new-world-episode-4"
+        },
+        {
+            "server1": "0yxhkgabflly",
+            "animeNameWithEP": "Dr. STONE New World Episode 6",
+            "ep_num": "6",
+            "anime_info": "dr-stone-new-world",
+            "movie_id": "131518",
+            "alias": "dr-stone-new-world",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Dr. STONE New World Episode 5",
+            "prevEpLink": "/dr-stone-new-world-episode-5"
         }
     ]
