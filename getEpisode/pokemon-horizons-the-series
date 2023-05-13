@@ -46,8 +46,7 @@
             "nextEpLink": "/pokemon-horizons-the-series-episode-5",
             "prevEpText": "<< Pokémon Horizons The Series Episode 3",
             "prevEpLink": "/pokemon-horizons-the-series-episode-3"
-        }
-        ,
+        },
         {
             "server1": "gdlczp2em2s2",
             "animeNameWithEP": "Pokémon Horizons The Series Episode 5",
@@ -55,9 +54,21 @@
             "anime_info": "pokemon-horizons-the-series",
             "movie_id": "158871",
             "alias": "pokemon-horizons-the-series",
-            "nextEpText": "",
-            "nextEpLink": "",
+            "nextEpText": "Pokémon Horizons The Series Episode 6 >>",
+            "nextEpLink": "/pokemon-horizons-the-series-episode-6",
             "prevEpText": "<< Pokémon Horizons The Series Episode 4",
             "prevEpLink": "/pokemon-horizons-the-series-episode-4"
+        },
+        {
+            "server1": "it2gmsuqsjb9",
+            "animeNameWithEP": "Pokémon Horizons The Series Episode 6",
+            "ep_num": "6",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "158871",
+            "alias": "pokemon-horizons-the-series",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Pokémon Horizons The Series Episode 5",
+            "prevEpLink": "/pokemon-horizons-the-series-episode-5"
         }
     ]
