@@ -37,8 +37,8 @@
 		"timeUntilAiring": 533916,
 		"episode": 5
 	},
-	"totalEpisodes": 5,
-	"currentEpisode": 5,
+	"totalEpisodes": 6,
+	"currentEpisode": 6,
 	"rating": 72,
 	"duration": null,
 	"genres": ["Adventure", "Fantasy"],
@@ -351,6 +351,13 @@
 		"title": null,
 		"description": null,
 		"number": 5,
+		"image": null,
+		"airDate": null
+	}, {
+		"id": "pokemon-horizons-the-series-episode-6",
+		"title": null,
+		"description": null,
+		"number": 6,
 		"image": null,
 		"airDate": null
 	}]
