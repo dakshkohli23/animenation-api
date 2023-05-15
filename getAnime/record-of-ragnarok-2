@@ -33,120 +33,46 @@
 		"day": null
 	},
 	"totalEpisodes": 15,
-	"currentEpisode": 15,
+	"currentEpisode": 10,
 	"rating": 75,
 	"duration": 24,
 	"genres": ["Action", "Drama", "Fantasy", "Supernatural"],
 	"season": "WINTER",
 	"studios": ["Graphinica", "Yumeta Company"],
-	"subOrDub": "sub",
+	"subOrDub": "dub",
 	"type": "ONA",
 	"recommendations": [{
-		"id": 98443,
-		"malId": 35076,
-		"title": {
-			"romaji": "Juuni Taisen",
-			"english": "JUNI TAISEN：ZODIAC WAR",
-			"native": "十二大戦",
-			"userPreferred": "Juuni Taisen"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98443-1d7qImgzb6Dj.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98443-foFrhY9Jkx40.jpg",
-		"rating": 62,
-		"type": "TV"
-	}, {
-		"id": 105190,
-		"malId": 38656,
-		"title": {
-			"romaji": "Darwin's Game",
-			"english": "Darwin's Game",
-			"native": "ダーウィンズゲーム",
-			"userPreferred": "Darwin's Game"
-		},
-		"status": "Completed",
-		"episodes": 11,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105190-veG9YDZa0GzW.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/105190-HhqT6N5MJCpE.jpg",
-		"rating": 70,
-		"type": "TV"
-	}, {
-		"id": 20955,
-		"malId": 28497,
-		"title": {
-			"romaji": "Rokka no Yuusha",
-			"english": "Rokka -Braves of the Six Flowers-",
-			"native": "六花の勇者",
-			"userPreferred": "Rokka no Yuusha"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20955-MeZp4OtwKGl1.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20955-v7GKIwKsq99g.jpg",
-		"rating": 70,
-		"type": "TV"
-	}, {
-		"id": 10620,
-		"malId": 10620,
-		"title": {
-			"romaji": "Mirai Nikki",
-			"english": "The Future Diary",
-			"native": "未来日記",
-			"userPreferred": "Mirai Nikki"
-		},
-		"status": "Completed",
-		"episodes": 26,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10620-OMnOMuZBgEKy.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10620-CsZ2FFSbGpqV.jpg",
-		"rating": 69,
-		"type": "TV"
-	}, {
-		"id": 126047,
-		"malId": 43814,
-		"title": {
-			"romaji": "Deatte 5-byou de Battle",
-			"english": "Battle Game in 5 Seconds",
-			"native": "出会って5秒でバトル",
-			"userPreferred": "Deatte 5-byou de Battle"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126047-C3ivEjzfigA0.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/126047-inrmD1NrxfZe.jpg",
-		"rating": 66,
-		"type": "TV"
-	}, {
-		"id": 108241,
-		"malId": 39463,
-		"title": {
-			"romaji": "Gleipnir",
-			"english": "Gleipnir",
-			"native": "グレイプニル",
-			"userPreferred": "Gleipnir"
-		},
-		"status": "Completed",
-		"episodes": 13,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108241-CZemOTbuE0Oj.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108241-Cbfv8GHRMFoQ.jpg",
-		"rating": 67,
-		"type": "TV"
-	}, {
-		"id": 21123,
-		"malId": 31339,
-		"title": {
-			"romaji": "DRIFTERS",
-			"english": "DRIFTERS",
-			"native": "DRIFTERS",
-			"userPreferred": "DRIFTERS"
-		},
-		"status": "Completed",
-		"episodes": 12,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21123-bCuqm8wLDqOw.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21123-AB6drAXL5FhN.jpg",
-		"rating": 75,
-		"type": "TV"
-	}],
+      "id": 127399,
+      "malId": 44942,
+      "title": {
+        "romaji": "Shuumatsu no Valkyrie",
+		"english": "Record of Ragnarok",
+		"native": "終末のワルキューレ"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127399-AAH1pevCZLrB.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127399-eiN22Xg4LG9x.jpg",
+      "rating": 66,
+      "type": "ONA",
+	  "animeurl": "record-of-ragnarok"
+    },
+	{
+      "id": 138056,
+      "malId": 49618,
+      "title": {
+        "romaji": "Shuumatsu no Valkyrie II",
+		"english": "Record of Ragnarok II",
+		"native": "終末のワルキューレⅡ"
+      },
+      "status": "Completed",
+      "episodes": 10,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138056-r6wKvl71ddar.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138056-Q1rJZ3ZT8b39.jpg",
+      "rating": 75,
+      "type": "ONA",
+	  "animeurl": "record-of-ragnarok-2"
+    }],
 	"characters": [{
 		"id": 140636,
 		"role": "MAIN",
