@@ -40,8 +40,8 @@
     "month": "3",
     "day": "24"
   },
-  "currentEpisode": 42,
-  "totalEpisodes": 42,
+  "currentEpisode": 43,
+  "totalEpisodes": 43,
   "rating": 73,
   "duration": 24,
   "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
@@ -3402,6 +3402,11 @@
       "id": "pokemon-ultimate-journeys-episode-42",
       "title": "Pokémon Ultimate Journeys: The Series Episode 42",
       "number": 42
+    },
+    {
+      "id": "pokemon-ultimate-journeys-episode-43",
+      "title": "Pokémon Ultimate Journeys: The Series Episode 43",
+      "number": 43
     }
     
   ]
