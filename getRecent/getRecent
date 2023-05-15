@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "pokemon-ultimate-journeys",
+		"episodeId": "pokemon-ultimate-journeys-episode-43",
+		"name": "Pokémon Ultimate Journeys: The Series",
+		"jname": "Pocket Monsters (2019)",
+		"episodeNum": "43",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
+		"episodeUrl": "../anime/pokemon-ultimate-journeys"
+	},
+	{
 		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
 		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-6",
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
@@ -99,17 +110,7 @@
 		"episodeUrl": "../anime/samurai-champloo"
 	},
 
-	{
-		"animeId": "pokemon-ultimate-journeys",
-		"episodeId": "pokemon-ultimate-journeys-episode-42",
-		"name": "Pokémon Ultimate Journeys: The Series",
-		"jname": "Pocket Monsters (2019)",
-		"episodeNum": "42",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
-		"episodeUrl": "../anime/pokemon-ultimate-journeys"
-	},
+
 	
 
 	{
