@@ -38,7 +38,7 @@
 		"episode": 4
 	},
 	"totalEpisodes": 11,
-	"currentEpisode": 5,
+	"currentEpisode": 6,
 	"rating": 89,
 	"duration": 24,
 	"genres": ["Drama", "Mystery", "Psychological", "Supernatural"],
@@ -632,6 +632,13 @@
 		"title": null,
 		"description": null,
 		"number": 5,
+		"image": null,
+		"airDate": null
+	}, {
+		"id": "oshi-no-ko-episode-6",
+		"title": null,
+		"description": null,
+		"number": 6,
 		"image": null,
 		"airDate": null
 	}]
