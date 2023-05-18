@@ -648,6 +648,18 @@
             "genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"]
         },
         {
+            "animeId": "dr-stone",
+            "episodeId": "dr-stone-episode-1",
+            "name": "Dr. STONE",
+            "jname": "Dr. STONE",
+            "episodeNum": "24",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-BBxkPhen07Zj.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/dr-stone",
+            "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"]
+        },
+        {
             "animeId": "dr-stone-new-world",
             "episodeId": "dr-stone-new-world-episode-1",
             "name": "Dr. STONE New World",
@@ -976,7 +988,7 @@
             "episodeId": "oshi-no-ko-episode-1",
             "name": "Oshi No Ko",
             "jname": "Oshi no Ko",
-            "episodeNum": "6",
+            "episodeNum": "5",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
             "type": "tv",
