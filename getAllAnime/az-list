@@ -672,6 +672,42 @@
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"]
         },
         {
+            "animeId": "dr-stone-ryuusui",
+            "episodeId": "dr-stone-ryuusui-episode-1",
+            "name": "Dr. STONE Special Episode – RYUSUI",
+            "jname": "Dr. STONE: Ryuusui",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142876-izO35hPP2DZ9.jpg",
+            "type": "special",
+            "episodeUrl": "anime/dr-stone-ryuusui",
+            "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"]
+        },
+        {
+            "animeId": "dr-stone-stone-wars",
+            "episodeId": "dr-stone-stone-wars-episode-1",
+            "name": "Dr. STONE: STONE WARS",
+            "jname": "Dr. STONE: STONE WARS",
+            "episodeNum": "11",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113936-41Lz6Vtmfh1A.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/dr-stone-stone-wars",
+            "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"]
+        },
+        {
+            "animeId": "dr-stone-stone-wars-eve-of-the-battle-special-feature",
+            "episodeId": "dr-stone-stone-wars-eve-of-the-battle-special-feature-episode-1",
+            "name": "Dr. Stone: Stone Wars Eve of the Battle Special Feature",
+            "jname": "Dr. Stone: Stone Wars - Kaisen Zenya Special Eizou",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://cdn.myanimelist.net/images/anime/1097/109900l.jpg",
+            "type": "special",
+            "episodeUrl": "anime/dr-stone-stone-wars-eve-of-the-battle-special-feature",
+            "genres": ["Adventure", "Sci-Fi", "Shounen", "Suspense"]
+        },
+        {
             "animeId": "haikyuu-to-the-top-2",
             "episodeId": "haikyuu-to-the-top-2-episode-1",
             "name": "HAIKYU‼ TO THE TOP Part 2",
@@ -988,7 +1024,7 @@
             "episodeId": "oshi-no-ko-episode-1",
             "name": "Oshi No Ko",
             "jname": "Oshi no Ko",
-            "episodeNum": "5",
+            "episodeNum": "6",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
             "type": "tv",
