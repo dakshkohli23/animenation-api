@@ -88,6 +88,38 @@
 		"rating": 81,
 		"type": "TV",
 		"animeurl": "dr-stone-new-world"
+	},
+	{
+		"id": 43555,
+		"malId": 43555,
+		"title": {
+			"romaji": "Dr. Stone: Stone Wars - Kaisen Zenya Special Eizou",
+			"english": "Dr. Stone: Stone Wars Eve of the Battle Special Feature",
+			"native": "Dr.STONE STONE WARS 開戦前夜スペシャル映像"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://cdn.myanimelist.net/images/anime/1097/109900l.jpg",
+		"cover": "https://cdn.myanimelist.net/images/anime/1097/109900l.jpg",
+		"rating": 71,
+		"type": "Special",
+		"animeurl": "dr-stone-stone-wars-eve-of-the-battle-special-feature"
+	},
+	{
+		"id": 142876,
+		"malId": 50612,
+		"title": {
+			"romaji": "Dr. STONE: Ryuusui",
+			"english": "Dr. STONE Special Episode – RYUSUI",
+			"native": "Dr.STONE 龍水"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142876-izO35hPP2DZ9.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142876-4vxyOR19TI7i.jpg",
+		"rating": 82,
+		"type": "Special",
+		"animeurl": "dr-stone-ryuusui"
 	}],
 	"characters": [{
 		"id": 124142,
