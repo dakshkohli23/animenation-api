@@ -1,5 +1,31 @@
 [
 {
+		"id": "131518",
+		"malId": 48549,
+		"title": {
+			"romaji": "Dr. STONE: NEW WORLD",
+			"english": "Dr. STONE New World",
+			"native": "Dr.STONE NEW WORLD"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131518-RU7RoUmGb2sP.jpg",
+		"trailer": {
+		"id": "bXgip0F6qdc",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/bXgip0F6qdc/hqdefault.jpg"
+	},
+	"description": "The third season of <i>Dr. STONE</i>. <br><br>\n\nSenku and the Kingdom of Science sail to new lands to uncover more scientific secrets! <br><br>\n(Source: Crunchyroll)",
+	"status": "Ongoing",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131518-uENBDjWnMHmN.jpg",
+		"rating": 81,
+		"releaseDate": 2023,
+		"genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
+		"totalEpisodes": 7,
+		"duration": 24,
+		"type": "tv",
+		"animeUrl": "/anime/dr-stone-new-world",
+		"watchUrl": "/watch/dr-stone-new-world-episode-1"
+	},
+{
 		"id": "142770",
 		"malId": 50594,
 		"title": {
