@@ -37,8 +37,8 @@
 		"timeUntilAiring": 178006,
 		"episode": 7
 	},
-	"totalEpisodes": 6,
-	"currentEpisode": 6,
+	"totalEpisodes": 7,
+	"currentEpisode": 7,
 	"rating": 72,
 	"duration": null,
 	"genres": ["Adventure", "Fantasy"],
@@ -683,5 +683,12 @@
 		"number": 6,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/9771847/screencap/645e962d3aee2.jpg",
 		"airDate": "2023-05-12T00:00:00.000Z"
+	}, {
+		"id": "pokemon-horizons-the-series-episode-7",
+		"title": "",
+		"description": "",
+		"number": 7,
+		"image": "",
+		"airDate": ""
 	}]
 }
