@@ -33,6 +33,7 @@
 		"day": 11
 	},
 	"totalEpisodes": 10,
+	"currentEpisode": 10,
 	"rating": 66,
 	"duration": 24,
 	"genres": ["Comedy", "Ecchi", "Fantasy"],
