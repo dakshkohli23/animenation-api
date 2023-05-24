@@ -1,0 +1,2746 @@
+{
+	"id": "5114",
+	"title": {
+		"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+		"english": "Fullmetal Alchemist: Brotherhood",
+		"native": "鋼の錬金術師 FULLMETAL ALCHEMIST"
+	},
+	"malId": 5114,
+	"synonyms": ["FMA", "FMAB", "Hagaren", "الخيميائي الفولاذي", "אלכימאי המתכת: אחוות אחים", "Full Metal Alchemist: Brotherhood", "钢之炼金术师 FULLMETAL ALCHEMIST", "แขนกล คนแปรธาตุ: บราเธอร์ฮูด"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
+	"popularity": 479282,
+	"color": "#e4c993",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5114-q0V5URebphSG.jpg",
+	"description": "\"In order for something to be obtained, something of equal value must be lost.\"\n<br><br>\nAlchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called \"automail\" and become a state alchemist, the Fullmetal Alchemist.\n<br><br>\nThree years of searching later, the brothers seek the Philosopher's Stone, a mythical relic that allows an alchemist to overcome the Law of Equivalent Exchange. Even with military allies Colonel Roy Mustang, Lieutenant Riza Hawkeye, and Lieutenant Colonel Maes Hughes on their side, the brothers find themselves caught up in a nationwide conspiracy that leads them not only to the true nature of the elusive Philosopher's Stone, but their country's murky history as well. In between finding a serial killer and racing against time, Edward and Alphonse must ask themselves if what they are doing will make them human again... or take away their humanity.\n<br><br>\n(Source: MAL Rewrite)",
+	"status": "Completed",
+	"releaseDate": 2009,
+	"startDate": {
+		"year": 2009,
+		"month": 4,
+		"day": 5
+	},
+	"endDate": {
+		"year": 2010,
+		"month": 7,
+		"day": 4
+	},
+	"totalEpisodes": 64,
+	"currentEpisode": 64,
+	"rating": 90,
+	"duration": 25,
+	"genres": ["Action", "Adventure", "Drama", "Fantasy"],
+	"season": "SPRING",
+	"studios": ["bones"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 12,
+		"role": "MAIN",
+		"name": {
+			"first": "Alphonse",
+			"last": "Elric",
+			"full": "Alphonse Elric",
+			"native": "アルフォンス・エルリック",
+			"userPreferred": "Alphonse Elric"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg",
+		"voiceActors": [{
+			"id": 95008,
+			"language": "Japanese",
+			"name": {
+				"first": "Rie",
+				"last": "Kugimiya",
+				"full": "Rie Kugimiya",
+				"native": "釘宮理恵",
+				"userPreferred": "Rie Kugimiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png"
+		}, {
+			"id": 103722,
+			"language": "English",
+			"name": {
+				"first": "Maxey",
+				"last": "Whitehead",
+				"full": "Maxey Whitehead",
+				"native": null,
+				"userPreferred": "Maxey Whitehead"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103722-4IYtnwwabhYI.jpg"
+		}, {
+			"id": 115542,
+			"language": "English",
+			"name": {
+				"first": "Lily",
+				"last": "Truncale",
+				"full": "Lily Truncale",
+				"native": null,
+				"userPreferred": "Lily Truncale"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/20542.jpg"
+		}, {
+			"id": 109823,
+			"language": "Korean",
+			"name": {
+				"first": "Mi Na",
+				"last": "Yun",
+				"full": "Mi Na Yun",
+				"native": "미나 윤",
+				"userPreferred": "Mi Na Yun"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14823.jpg"
+		}, {
+			"id": 96162,
+			"language": "Italian",
+			"name": {
+				"first": "Benedetta",
+				"last": "Ponticelli",
+				"full": "Benedetta Ponticelli",
+				"native": null,
+				"userPreferred": "Benedetta Ponticelli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1162.jpg"
+		}, {
+			"id": 189471,
+			"language": "Spanish",
+			"name": {
+				"first": "Jhonny",
+				"last": "Torres",
+				"full": "Jhonny Torres",
+				"native": null,
+				"userPreferred": "Jhonny Torres"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189471-BEhsuR3eFIlt.jpg"
+		}, {
+			"id": 100084,
+			"language": "Portuguese",
+			"name": {
+				"first": "Rodrigo",
+				"last": "Andreatto",
+				"full": "Rodrigo Andreatto",
+				"native": null,
+				"userPreferred": "Rodrigo Andreatto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5084.jpg"
+		}, {
+			"id": 185306,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marina",
+				"last": "Santana",
+				"full": "Marina Santana",
+				"native": null,
+				"userPreferred": "Marina Santana"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185306-FjbOFoJBDXUe.jpg"
+		}, {
+			"id": 154940,
+			"language": "French",
+			"name": {
+				"first": "Audrey",
+				"last": "Pic",
+				"full": "Audrey Pic",
+				"native": null,
+				"userPreferred": "Audrey Pic"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 101066,
+			"language": "German",
+			"name": {
+				"first": "Wanja",
+				"last": "Gerick",
+				"full": "Wanja Gerick",
+				"native": null,
+				"userPreferred": "Wanja Gerick"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6066.jpg"
+		}, {
+			"id": 102763,
+			"language": "Hungarian",
+			"name": {
+				"first": "István",
+				"last": "Baráth",
+				"full": "István Baráth",
+				"native": null,
+				"userPreferred": "István Baráth"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7763.jpg"
+		}]
+	}, {
+		"id": 11,
+		"role": "MAIN",
+		"name": {
+			"first": "Edward",
+			"last": "Elric",
+			"full": "Edward Elric",
+			"native": "エドワード・エルリック",
+			"userPreferred": "Edward Elric"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg",
+		"voiceActors": [{
+			"id": 95082,
+			"language": "Japanese",
+			"name": {
+				"first": "Romi",
+				"last": "Park",
+				"full": "Romi Park",
+				"native": "朴璐美",
+				"userPreferred": "Romi Park"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95082-pNGbnYv4cHAK.png"
+		}, {
+			"id": 95043,
+			"language": "English",
+			"name": {
+				"first": "Vic",
+				"last": "Mignogna",
+				"full": "Vic Mignogna",
+				"native": "Victor Joseph Mignogna",
+				"userPreferred": "Vic Mignogna"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95043-cgQunZolvkPW.png"
+		}, {
+			"id": 115913,
+			"language": "English",
+			"name": {
+				"first": "Muriel",
+				"last": "Hofmann",
+				"full": "Muriel Hofmann",
+				"native": null,
+				"userPreferred": "Muriel Hofmann"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/20913.jpg"
+		}, {
+			"id": 110097,
+			"language": "Korean",
+			"name": {
+				"first": "In-Seong",
+				"last": "Oh",
+				"full": "In-Seong Oh",
+				"native": "오인성",
+				"userPreferred": "In-Seong Oh"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/15097.jpg"
+		}, {
+			"id": 96163,
+			"language": "Italian",
+			"name": {
+				"first": "Renato",
+				"last": "Novara",
+				"full": "Renato Novara",
+				"native": null,
+				"userPreferred": "Renato Novara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96163-YaGjTo1XM8qd.png"
+		}, {
+			"id": 96275,
+			"language": "Italian",
+			"name": {
+				"first": "Patrizia",
+				"last": "Scianca",
+				"full": "Patrizia Scianca",
+				"native": null,
+				"userPreferred": "Patrizia Scianca"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96275-K5vy1UBZWPA0.png"
+		}, {
+			"id": 96471,
+			"language": "Spanish",
+			"name": {
+				"first": "José Manuel",
+				"last": "Vieira",
+				"full": "José Manuel Vieira",
+				"native": null,
+				"userPreferred": "José Manuel Vieira"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96471-T1bTuG0gCGB9.png"
+		}, {
+			"id": 96423,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcelo",
+				"last": "Campos",
+				"full": "Marcelo Campos",
+				"native": null,
+				"userPreferred": "Marcelo Campos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96423-YaAvwaxG5fNk.jpg"
+		}, {
+			"id": 185888,
+			"language": "Portuguese",
+			"name": {
+				"first": "Mariana",
+				"last": "Zink",
+				"full": "Mariana Zink",
+				"native": null,
+				"userPreferred": "Mariana Zink"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185888-UOA3nuLNCBzk.jpg"
+		}, {
+			"id": 116201,
+			"language": "French",
+			"name": {
+				"first": "Arthur",
+				"last": "Pestel",
+				"full": "Arthur Pestel",
+				"native": null,
+				"userPreferred": "Arthur Pestel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/21201.jpg"
+		}, {
+			"id": 101105,
+			"language": "German",
+			"name": {
+				"first": "David",
+				"last": "Turba",
+				"full": "David Turba",
+				"native": null,
+				"userPreferred": "David Turba"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6105.jpg"
+		}, {
+			"id": 102825,
+			"language": "Hungarian",
+			"name": {
+				"first": "Máté",
+				"last": "Szabó",
+				"full": "Máté Szabó",
+				"native": null,
+				"userPreferred": "Máté Szabó"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7825.jpg"
+		}]
+	}, {
+		"id": 5988,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Rosé",
+			"last": "Tomas",
+			"full": "Rosé Tomas",
+			"native": "ロゼ",
+			"userPreferred": "Rosé Tomas"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b5988-Wo1TMSnDnPIm.jpg",
+		"voiceActors": [{
+			"id": 95003,
+			"language": "Japanese",
+			"name": {
+				"first": "Satsuki",
+				"last": "Yukino",
+				"full": "Satsuki Yukino",
+				"native": "ゆきのさつき",
+				"userPreferred": "Satsuki Yukino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95003-Du7wb5JJzb8P.png"
+		}, {
+			"id": 95472,
+			"language": "English",
+			"name": {
+				"first": "Colleen",
+				"last": "Clinkenbeard",
+				"full": "Colleen Clinkenbeard",
+				"native": null,
+				"userPreferred": "Colleen Clinkenbeard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95472-fznpewUW95vm.jpg"
+		}, {
+			"id": 116811,
+			"language": "Italian",
+			"name": {
+				"first": "Alessandra",
+				"last": "Karpoff",
+				"full": "Alessandra Karpoff",
+				"native": null,
+				"userPreferred": "Alessandra Karpoff"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/21811.jpg"
+		}, {
+			"id": 104246,
+			"language": "Spanish",
+			"name": {
+				"first": "Maythe",
+				"last": "Guedes",
+				"full": "Maythe Guedes",
+				"native": null,
+				"userPreferred": "Maythe Guedes"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 182631,
+			"language": "Spanish",
+			"name": {
+				"first": "Erika",
+				"last": "Langarica",
+				"full": "Erika Langarica",
+				"native": null,
+				"userPreferred": "Erika Langarica"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182631-ybXCM5pXa7Mu.png"
+		}, {
+			"id": 96445,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fernanda",
+				"last": "Bullara",
+				"full": "Fernanda Bullara",
+				"native": null,
+				"userPreferred": "Fernanda Bullara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96445-74PzPrUhV5pi.jpg"
+		}, {
+			"id": 106403,
+			"language": "Portuguese",
+			"name": {
+				"first": "Flora",
+				"last": "Paulita",
+				"full": "Flora Paulita",
+				"native": null,
+				"userPreferred": "Flora Paulita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106403-io0B6PS3mWTh.jpg"
+		}, {
+			"id": 146821,
+			"language": "German",
+			"name": {
+				"first": "Betül Jülide",
+				"last": "Gülgec",
+				"full": "Betül Jülide Gülgec",
+				"native": null,
+				"userPreferred": "Betül Jülide Gülgec"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n146821-Fd0Fhxm94xFX.png"
+		}]
+	}, {
+		"id": 15540,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Miles",
+			"last": null,
+			"full": "Miles",
+			"native": "マイルズ",
+			"userPreferred": "Miles"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/15540.jpg",
+		"voiceActors": [{
+			"id": 95123,
+			"language": "Japanese",
+			"name": {
+				"first": "Kazuya",
+				"last": "Nakai",
+				"full": "Kazuya Nakai",
+				"native": "中井和哉",
+				"userPreferred": "Kazuya Nakai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95123-qdVFNraYmQ5K.png"
+		}, {
+			"id": 95039,
+			"language": "English",
+			"name": {
+				"first": "Jason",
+				"last": "Douglas",
+				"full": "Jason Douglas",
+				"native": null,
+				"userPreferred": "Jason Douglas"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95039-F0UuxfqLslls.jpg"
+		}, {
+			"id": 286065,
+			"language": "Italian",
+			"name": {
+				"first": "Giacomo",
+				"last": "Zito",
+				"full": "Giacomo Zito",
+				"native": null,
+				"userPreferred": "Giacomo Zito"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 191530,
+			"language": "Spanish",
+			"name": {
+				"first": "Daniel",
+				"last": "Lacy",
+				"full": "Daniel Lacy",
+				"native": "Daniel Muñoz Lacy",
+				"userPreferred": "Daniel Lacy"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n191530-bAqKvWQNfigk.png"
+		}, {
+			"id": 103882,
+			"language": "Portuguese",
+			"name": {
+				"first": "Elcio",
+				"last": "Sodre",
+				"full": "Elcio Sodre",
+				"native": "Élcio Sodré",
+				"userPreferred": "Elcio Sodre"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8882.jpg"
+		}, {
+			"id": 107217,
+			"language": "Portuguese",
+			"name": {
+				"first": "Sílvio",
+				"last": "Giraldi",
+				"full": "Sílvio Giraldi",
+				"native": null,
+				"userPreferred": "Sílvio Giraldi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/12217.jpg"
+		}, {
+			"id": 130892,
+			"language": "German",
+			"name": {
+				"first": "Tobias",
+				"last": "Brecklinghaus",
+				"full": "Tobias Brecklinghaus",
+				"native": null,
+				"userPreferred": "Tobias Brecklinghaus"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n130892-SmKFy9cXBeyx.png"
+		}]
+	}, {
+		"id": 10974,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Paninya",
+			"last": null,
+			"full": "Paninya",
+			"native": "パニーニャ",
+			"userPreferred": "Paninya"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/10974.jpg",
+		"voiceActors": [{
+			"id": 95076,
+			"language": "Japanese",
+			"name": {
+				"first": "Akemi",
+				"last": "Okamura",
+				"full": "Akemi Okamura",
+				"native": "岡村明美",
+				"userPreferred": "Akemi Okamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95076-itRGy8F3x5Em.png"
+		}, {
+			"id": 95851,
+			"language": "English",
+			"name": {
+				"first": "Cynthia",
+				"last": "Cranz",
+				"full": "Cynthia Cranz",
+				"native": null,
+				"userPreferred": "Cynthia Cranz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/851.jpg"
+		}, {
+			"id": 104985,
+			"language": "Italian",
+			"name": {
+				"first": "Cinzia",
+				"last": "Massironi",
+				"full": "Cinzia Massironi",
+				"native": null,
+				"userPreferred": "Cinzia Massironi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9985.jpg"
+		}, {
+			"id": 202437,
+			"language": "Spanish",
+			"name": {
+				"first": "Vanessa",
+				"last": "Olea",
+				"full": "Vanessa Olea",
+				"native": null,
+				"userPreferred": "Vanessa Olea"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n202437-kjSAeMjrnaFP.png"
+		}, {
+			"id": 106637,
+			"language": "Portuguese",
+			"name": {
+				"first": "Angelica",
+				"last": "Santos",
+				"full": "Angelica Santos",
+				"native": null,
+				"userPreferred": "Angelica Santos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/11637.jpg"
+		}, {
+			"id": 195050,
+			"language": "Portuguese",
+			"name": {
+				"first": "Carol",
+				"last": "Crespo Simões",
+				"full": "Carol Crespo Simões",
+				"native": null,
+				"userPreferred": "Carol Crespo Simões"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195050-RIzHn0mvoh3a.jpg"
+		}, {
+			"id": 139368,
+			"language": "German",
+			"name": {
+				"first": "Katrin",
+				"last": "Heß",
+				"full": "Katrin Heß",
+				"native": null,
+				"userPreferred": "Katrin Heß"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139368-lchyJfVISfR6.png"
+		}, {
+			"id": 102802,
+			"language": "Hungarian",
+			"name": {
+				"first": "Kitty",
+				"last": "Mezei",
+				"full": "Kitty Mezei",
+				"native": null,
+				"userPreferred": "Kitty Mezei"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7802.jpg"
+		}]
+	}, {
+		"id": 15532,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "May",
+			"last": "Chang",
+			"full": "May Chang",
+			"native": "メイ・チャン",
+			"userPreferred": "May Chang"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/15532.jpg",
+		"voiceActors": [{
+			"id": 100281,
+			"language": "Japanese",
+			"name": {
+				"first": "Mai",
+				"last": "Gotou",
+				"full": "Mai Gotou",
+				"native": "後藤麻衣",
+				"userPreferred": "Mai Gotou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5281.jpg"
+		}, {
+			"id": 95159,
+			"language": "English",
+			"name": {
+				"first": "Monica",
+				"last": "Rial",
+				"full": "Monica Rial",
+				"native": null,
+				"userPreferred": "Monica Rial"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95159-iTd65o5LhA62.png"
+		}, {
+			"id": 115542,
+			"language": "English",
+			"name": {
+				"first": "Lily",
+				"last": "Truncale",
+				"full": "Lily Truncale",
+				"native": null,
+				"userPreferred": "Lily Truncale"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/20542.jpg"
+		}, {
+			"id": 109993,
+			"language": "Korean",
+			"name": {
+				"first": "Ji Yeong",
+				"last": "Lee",
+				"full": "Ji Yeong Lee",
+				"native": "이지영",
+				"userPreferred": "Ji Yeong Lee"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109993-WIQ4T5SCuW8X.jpg"
+		}, {
+			"id": 96233,
+			"language": "Italian",
+			"name": {
+				"first": "Serena",
+				"last": "Clerici",
+				"full": "Serena Clerici",
+				"native": null,
+				"userPreferred": "Serena Clerici"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1233.jpg"
+		}, {
+			"id": 197835,
+			"language": "Spanish",
+			"name": {
+				"first": "María José",
+				"last": "Estévez",
+				"full": "María José Estévez",
+				"native": null,
+				"userPreferred": "María José Estévez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197835-tYz9zR3WfN3h.png"
+		}, {
+			"id": 181978,
+			"language": "Spanish",
+			"name": {
+				"first": "Nycolle",
+				"last": "González",
+				"full": "Nycolle González",
+				"native": "Nycolle González Andrade",
+				"userPreferred": "Nycolle González"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n181978-Tyh9cab7w2M3.png"
+		}, {
+			"id": 115094,
+			"language": "Portuguese",
+			"name": {
+				"first": "Bianca",
+				"last": "Alencar",
+				"full": "Bianca Alencar",
+				"native": null,
+				"userPreferred": "Bianca Alencar"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115094-nqZApJ1pNrGM.jpg"
+		}, {
+			"id": 101128,
+			"language": "German",
+			"name": {
+				"first": "Kirstin",
+				"last": "Hesse",
+				"full": "Kirstin Hesse",
+				"native": null,
+				"userPreferred": "Kirstin Hesse"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6128.jpg"
+		}]
+	}, {
+		"id": 41216,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Neil",
+			"last": null,
+			"full": "Neil",
+			"native": "ニール",
+			"userPreferred": "Neil"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n41216-H4lznpL0Bzor.png",
+		"voiceActors": [{
+			"id": 96659,
+			"language": "Japanese",
+			"name": {
+				"first": "Tooru",
+				"last": "Nara",
+				"full": "Tooru Nara",
+				"native": "奈良徹",
+				"userPreferred": "Tooru Nara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96659-zLvDfHLoxCne.png"
+		}, {
+			"id": 95203,
+			"language": "English",
+			"name": {
+				"first": "Justin",
+				"last": "Cook",
+				"full": "Justin Cook",
+				"native": null,
+				"userPreferred": "Justin Ryan Cook"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95203-S3aCVxUoYwJl.jpg"
+		}, {
+			"id": 96830,
+			"language": "Portuguese",
+			"name": {
+				"first": "Wendel",
+				"last": "Bezerra",
+				"full": "Wendel Bezerra",
+				"native": null,
+				"userPreferred": "Wendel Bezerra"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96830-z4QYyXcQgjHB.png"
+		}, {
+			"id": 185662,
+			"language": "Portuguese",
+			"name": {
+				"first": "Igor",
+				"last": "Lott",
+				"full": "Igor Lott",
+				"native": null,
+				"userPreferred": "Igor Lott"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185662-jHG7oFeMpTXI.jpg"
+		}, {
+			"id": 139115,
+			"language": "German",
+			"name": {
+				"first": "Stefan",
+				"last": "Naas",
+				"full": "Stefan Naas",
+				"native": null,
+				"userPreferred": "Stefan Naas"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139115-1xEEBMFqAnG6.jpg"
+		}]
+	}, {
+		"id": 15543,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sloth",
+			"last": null,
+			"full": "Sloth",
+			"native": "スロウス",
+			"userPreferred": "Sloth"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b15543-InwPEKIOdTvX.png",
+		"voiceActors": [{
+			"id": 95284,
+			"language": "Japanese",
+			"name": {
+				"first": "Fumihiko",
+				"last": "Tachiki",
+				"full": "Fumihiko Tachiki",
+				"native": "立木文彦",
+				"userPreferred": "Fumihiko Tachiki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95284-k97k9dULn4vr.png"
+		}, {
+			"id": 95340,
+			"language": "English",
+			"name": {
+				"first": "Patrick",
+				"last": "Seitz",
+				"full": "Patrick Seitz",
+				"native": null,
+				"userPreferred": "Patrick Seitz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95340-W5PAwurtgtXs.jpg"
+		}, {
+			"id": 157834,
+			"language": "Italian",
+			"name": {
+				"first": "Dario",
+				"last": "Oppido",
+				"full": "Dario Oppido",
+				"native": null,
+				"userPreferred": "Dario Oppido"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157834-YQJeBlG5IApf.jpg"
+		}, {
+			"id": 193998,
+			"language": "Spanish",
+			"name": {
+				"first": "Ismael",
+				"last": "Verástegui",
+				"full": "Ismael Verástegui",
+				"native": "Ismael Verástegui Bengoa",
+				"userPreferred": "Ismael Verástegui"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n193998-hYjfxGxUReha.png"
+		}, {
+			"id": 192670,
+			"language": "Portuguese",
+			"name": {
+				"first": "Faduli",
+				"last": "Costa",
+				"full": "Faduli Costa",
+				"native": null,
+				"userPreferred": "Faduli Costa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n192670-gRv93mDicD0H.jpg"
+		}, {
+			"id": 200008,
+			"language": "Portuguese",
+			"name": {
+				"first": "Vanderlan",
+				"last": "Mendes",
+				"full": "Vanderlan Mendes",
+				"native": null,
+				"userPreferred": "Vanderlan Mendes"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n200008-koAjQl3ElFSG.png"
+		}, {
+			"id": 102320,
+			"language": "German",
+			"name": {
+				"first": "Hans",
+				"last": "Bayer",
+				"full": "Hans Bayer",
+				"native": null,
+				"userPreferred": "Hans Bayer"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102320-VVZdgbVubzHE.jpg"
+		}]
+	}, {
+		"id": 27028,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Knox",
+			"last": null,
+			"full": "Knox",
+			"native": "ノックス",
+			"userPreferred": "Knox"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b27028-pv8abhTjBcVj.jpg",
+		"voiceActors": [{
+			"id": 95459,
+			"language": "Japanese",
+			"name": {
+				"first": "Kinryuu",
+				"last": "Arimoto",
+				"full": "Kinryuu Arimoto",
+				"native": "有本欽隆",
+				"userPreferred": "Kinryuu Arimoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95459-guzIZZ731L9r.png"
+		}, {
+			"id": 95480,
+			"language": "English",
+			"name": {
+				"first": "R. Bruce",
+				"last": "Elliott",
+				"full": "R. Bruce Elliott",
+				"native": null,
+				"userPreferred": "R. Bruce Elliott"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/480.jpg"
+		}, {
+			"id": 157834,
+			"language": "Italian",
+			"name": {
+				"first": "Dario",
+				"last": "Oppido",
+				"full": "Dario Oppido",
+				"native": null,
+				"userPreferred": "Dario Oppido"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157834-YQJeBlG5IApf.jpg"
+		}, {
+			"id": 198895,
+			"language": "Spanish",
+			"name": {
+				"first": "Manuel",
+				"last": "Bastos",
+				"full": "Manuel Bastos",
+				"native": null,
+				"userPreferred": "Manuel Bastos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198895-FhNFXVMGunnf.png"
+		}, {
+			"id": 208327,
+			"language": "Spanish",
+			"name": {
+				"first": "Alfredo",
+				"last": "Tovar",
+				"full": "Alfredo Tovar",
+				"native": null,
+				"userPreferred": "Alfredo Tovar"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n208327-gOOX8qUud8VO.png"
+		}, {
+			"id": 106531,
+			"language": "Portuguese",
+			"name": {
+				"first": "Guilherme",
+				"last": "Lopes",
+				"full": "Guilherme Lopes",
+				"native": null,
+				"userPreferred": "Guilherme Lopes"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106531-vOxd4fxQt9UL.jpg"
+		}, {
+			"id": 176913,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcio",
+				"last": "Dondi",
+				"full": "Marcio Dondi",
+				"native": "Márcio Dondi",
+				"userPreferred": "Marcio Dondi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176913-EOeaPVqnqwzT.jpg"
+		}, {
+			"id": 131997,
+			"language": "German",
+			"name": {
+				"first": "Rolf",
+				"last": "Berg",
+				"full": "Rolf Berg",
+				"native": null,
+				"userPreferred": "Rolf Berg"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131997-lfxx8xx7uTNS.png"
+		}]
+	}, {
+		"id": 35144,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Garfiel",
+			"last": null,
+			"full": "Garfiel",
+			"native": "ガーフィール",
+			"userPreferred": "Garfiel"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b35144-UjyMf6g71t5c.png",
+		"voiceActors": [{
+			"id": 95720,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenta",
+				"last": "Miyake",
+				"full": "Kenta Miyake",
+				"native": "三宅健太",
+				"userPreferred": "Kenta Miyake"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+		}, {
+			"id": 95662,
+			"language": "English",
+			"name": {
+				"first": "Antimere",
+				"last": "Robinson",
+				"full": "Antimere Robinson",
+				"native": null,
+				"userPreferred": "Antimere Robinson"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95662-H3FLEV7RqEoE.jpg"
+		}, {
+			"id": 100139,
+			"language": "Portuguese",
+			"name": {
+				"first": "Ricardo",
+				"last": "Sawaya",
+				"full": "Ricardo Sawaya",
+				"native": null,
+				"userPreferred": "Ricardo Sawaya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5139.jpg"
+		}, {
+			"id": 185303,
+			"language": "Portuguese",
+			"name": {
+				"first": "Vágner",
+				"last": "Santos",
+				"full": "Vágner Santos",
+				"native": null,
+				"userPreferred": "Vágner Santos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185303-1CMnAVDLpqbJ.jpg"
+		}, {
+			"id": 117899,
+			"language": "German",
+			"name": {
+				"first": "Markus",
+				"last": "Haase",
+				"full": "Markus Haase",
+				"native": null,
+				"userPreferred": "Markus Haase"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/22899.jpg"
+		}]
+	}, {
+		"id": 52739,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Damiano",
+			"last": null,
+			"full": "Damiano",
+			"native": "ダミアノ",
+			"userPreferred": "Damiano"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n52739-CVU3CZq0UBx7.png",
+		"voiceActors": [{
+			"id": 111989,
+			"language": "Japanese",
+			"name": {
+				"first": "Masayuki",
+				"last": "Shouji",
+				"full": "Masayuki Shouji",
+				"native": "庄司将之",
+				"userPreferred": "Masayuki Shouji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/16989.jpg"
+		}, {
+			"id": 96047,
+			"language": "English",
+			"name": {
+				"first": "Jessie James",
+				"last": "Grelle",
+				"full": "Jessie James Grelle",
+				"native": null,
+				"userPreferred": "Jessie James Grelle"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96047-E9nBWn3YL0Tn.jpg"
+		}]
+	}, {
+		"id": 10970,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shifu",
+			"last": null,
+			"full": "Shifu",
+			"native": "師父",
+			"userPreferred": "Shifu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/10970.jpg",
+		"voiceActors": [{
+			"id": 101455,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuzuru",
+				"last": "Fujimoto",
+				"full": "Yuzuru Fujimoto",
+				"native": "藤本譲",
+				"userPreferred": "Yuzuru Fujimoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6455.jpg"
+		}, {
+			"id": 100442,
+			"language": "English",
+			"name": {
+				"first": "Grant",
+				"last": "James",
+				"full": "Grant James",
+				"native": null,
+				"userPreferred": "Grant James"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100442-1CGN74lnCa2c.jpg"
+		}, {
+			"id": 253296,
+			"language": "Spanish",
+			"name": {
+				"first": "Itzíhuappe",
+				"last": "Escalera",
+				"full": "Itzíhuappe Escalera",
+				"native": null,
+				"userPreferred": "Itzíhuappe Escalera"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n253296-GEXyMqL9Y9TJ.png"
+		}, {
+			"id": 184977,
+			"language": "Portuguese",
+			"name": {
+				"first": "Luiz Carlos",
+				"last": "De Moraes",
+				"full": "Luiz Carlos De Moraes",
+				"native": null,
+				"userPreferred": "Luiz Carlos De Moraes"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184977-32C2f6ZPqXBB.jpg"
+		}, {
+			"id": 109487,
+			"language": "Portuguese",
+			"name": {
+				"first": "Carlos",
+				"last": "Campanile",
+				"full": "Carlos Campanile",
+				"native": null,
+				"userPreferred": "Carlos Campanile"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14487.jpg"
+		}, {
+			"id": 185363,
+			"language": "Portuguese",
+			"name": {
+				"first": "Walter",
+				"last": "Cruz",
+				"full": "Walter Cruz",
+				"native": null,
+				"userPreferred": "Walter Cruz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185363-LEzsXiLX9wu8.jpg"
+		}, {
+			"id": 132005,
+			"language": "German",
+			"name": {
+				"first": "Volker",
+				"last": "Wolf",
+				"full": "Volker Wolf",
+				"native": null,
+				"userPreferred": "Volker Wolf"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 36309,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Narrator",
+			"last": null,
+			"full": "Narrator",
+			"native": "ナレーター",
+			"userPreferred": "Narrator"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg",
+		"voiceActors": [{
+			"id": 96485,
+			"language": "Japanese",
+			"name": {
+				"first": "Iemasa",
+				"last": "Kayumi",
+				"full": "Iemasa Kayumi",
+				"native": "家弓家正",
+				"userPreferred": "Iemasa Kayumi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1485.jpg"
+		}, {
+			"id": 95872,
+			"language": "English",
+			"name": {
+				"first": "Kent",
+				"last": "Williams",
+				"full": "Kent Williams",
+				"native": null,
+				"userPreferred": "Kent Williams"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/872.jpg"
+		}, {
+			"id": 156130,
+			"language": "Italian",
+			"name": {
+				"first": "Paolo",
+				"last": "Sesana",
+				"full": "Paolo Sesana",
+				"native": null,
+				"userPreferred": "Paolo Sesana"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n156130-yJUVNuEcXemU.jpg"
+		}, {
+			"id": 190009,
+			"language": "Spanish",
+			"name": {
+				"first": "Arturo",
+				"last": "Mercado",
+				"full": "Arturo Mercado",
+				"native": "Arturo Mercado Chacón",
+				"userPreferred": "Arturo Mercado"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190009-gjbZlyWBemZX.png"
+		}, {
+			"id": 184109,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marco Antônio",
+				"last": "Abreu",
+				"full": "Marco Antônio Abreu",
+				"native": null,
+				"userPreferred": "Marco Antônio Abreu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184109-DYVjrI1bJAa2.jpg"
+		}, {
+			"id": 191567,
+			"language": "Portuguese",
+			"name": {
+				"first": "Luiz Feier",
+				"last": "Motta",
+				"full": "Luiz Feier Motta",
+				"native": null,
+				"userPreferred": "Luiz Feier Motta"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n191567-tPoNGtimtANR.jpg"
+		}, {
+			"id": 140553,
+			"language": "German",
+			"name": {
+				"first": "Renier",
+				"last": "Baaken",
+				"full": "Renier Baaken",
+				"native": null,
+				"userPreferred": "Renier Baaken"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140553-ChBSWYFmRUgi.jpg"
+		}]
+	}, {
+		"id": 250771,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gardner",
+			"last": null,
+			"full": "Gardner",
+			"native": "ガードナー",
+			"userPreferred": "Gardner"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b250771-632ZJyiQcux1.png",
+		"voiceActors": [{
+			"id": 101966,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroshi",
+				"last": "Ito",
+				"full": "Hiroshi Ito",
+				"native": "糸博",
+				"userPreferred": "Hiroshi Ito"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101966-lCa3Ykl4h4py.jpg"
+		}, {
+			"id": 104574,
+			"language": "English",
+			"name": {
+				"first": "Steve",
+				"last": "Powell",
+				"full": "Steve Powell",
+				"native": null,
+				"userPreferred": "Steve Powell"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9574.jpg"
+		}, {
+			"id": 277209,
+			"language": "Italian",
+			"name": {
+				"first": "Silvano",
+				"last": "Piccardi",
+				"full": "Silvano Piccardi",
+				"native": null,
+				"userPreferred": "Silvano Piccardi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 179062,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcelo",
+				"last": "Pissardini",
+				"full": "Marcelo Pissardini",
+				"native": null,
+				"userPreferred": "Marcelo Pissardini"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179062-RQ3Z6GVhMj3d.jpg"
+		}, {
+			"id": 182488,
+			"language": "Portuguese",
+			"name": {
+				"first": "Hélio",
+				"last": "Ribeiro",
+				"full": "Hélio Ribeiro",
+				"native": null,
+				"userPreferred": "Hélio Ribeiro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182488-iJuYz3JIxLQZ.jpg"
+		}]
+	}, {
+		"id": 251148,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kinba Isha",
+			"last": null,
+			"full": "Kinba Isha",
+			"native": "金歯医者",
+			"userPreferred": "Kinba Isha"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b251148-vIsdu6WtDJpZ.png",
+		"voiceActors": [{
+			"id": 96549,
+			"language": "Japanese",
+			"name": {
+				"first": "Bon",
+				"last": "Ishihara",
+				"full": "Bon Ishihara",
+				"native": "石原凡",
+				"userPreferred": "Bon Ishihara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96549-6SwX8QcYpEp0.png"
+		}, {
+			"id": 95474,
+			"language": "English",
+			"name": {
+				"first": "Mark",
+				"last": "Stoddard",
+				"full": "Mark Stoddard",
+				"native": null,
+				"userPreferred": "Mark Stoddard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/474.jpg"
+		}, {
+			"id": 198895,
+			"language": "Spanish",
+			"name": {
+				"first": "Manuel",
+				"last": "Bastos",
+				"full": "Manuel Bastos",
+				"native": null,
+				"userPreferred": "Manuel Bastos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198895-FhNFXVMGunnf.png"
+		}, {
+			"id": 184302,
+			"language": "Spanish",
+			"name": {
+				"first": "Esteban",
+				"last": "Desco",
+				"full": "Esteban Desco",
+				"native": null,
+				"userPreferred": "Esteban Desco"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184302-5XGTZcN1CT8c.jpg"
+		}, {
+			"id": 185363,
+			"language": "Portuguese",
+			"name": {
+				"first": "Walter",
+				"last": "Cruz",
+				"full": "Walter Cruz",
+				"native": null,
+				"userPreferred": "Walter Cruz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185363-LEzsXiLX9wu8.jpg"
+		}]
+	}, {
+		"id": 8840,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Martel",
+			"last": null,
+			"full": "Martel",
+			"native": "マーテル",
+			"userPreferred": "Martel"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n8840-FdmCCLVXcynw.png",
+		"voiceActors": [{
+			"id": 95041,
+			"language": "Japanese",
+			"name": {
+				"first": "Takako",
+				"last": "Honda",
+				"full": "Takako Honda",
+				"native": "本田貴子",
+				"userPreferred": "Takako Honda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/41.jpg"
+		}, {
+			"id": 95145,
+			"language": "English",
+			"name": {
+				"first": "Tiffany",
+				"last": "Grant",
+				"full": "Tiffany Grant",
+				"native": null,
+				"userPreferred": "Tiffany Lynn Grant"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95145-c3MjV5tshGXX.jpg"
+		}, {
+			"id": 119595,
+			"language": "Italian",
+			"name": {
+				"first": "Beatrice",
+				"last": "Caggiula",
+				"full": "Beatrice Caggiula",
+				"native": null,
+				"userPreferred": "Beatrice Caggiula"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119595-mSjuz5Ni4dcK.jpg"
+		}, {
+			"id": 198307,
+			"language": "Spanish",
+			"name": {
+				"first": "Danann",
+				"last": "Huicochea",
+				"full": "Danann Huicochea",
+				"native": "Danann Alejandría Galván Huicochea",
+				"userPreferred": "Danann Huicochea"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198307-pYxKukUy9MwB.png"
+		}, {
+			"id": 179631,
+			"language": "Portuguese",
+			"name": {
+				"first": "Lucia",
+				"last": "Helena",
+				"full": "Lucia Helena",
+				"native": "Lúcia Helena",
+				"userPreferred": "Lucia Helena"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179631-LvYh53HJB1dP.jpg"
+		}, {
+			"id": 96445,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fernanda",
+				"last": "Bullara",
+				"full": "Fernanda Bullara",
+				"native": null,
+				"userPreferred": "Fernanda Bullara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96445-74PzPrUhV5pi.jpg"
+		}, {
+			"id": 104747,
+			"language": "French",
+			"name": {
+				"first": "Susan",
+				"last": "Sindberg",
+				"full": "Susan Sindberg",
+				"native": null,
+				"userPreferred": "Susan Sindberg"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104747-3HN1vSuPSlEb.jpg"
+		}, {
+			"id": 142565,
+			"language": "German",
+			"name": {
+				"first": "Annette",
+				"last": "Potempa",
+				"full": "Annette Potempa",
+				"native": null,
+				"userPreferred": "Annette Potempa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142565-ORWPt6TX2sPu.png"
+		}, {
+			"id": 104594,
+			"language": "Hungarian",
+			"name": {
+				"first": "Judit",
+				"last": "Wégner",
+				"full": "Judit Wégner",
+				"native": null,
+				"userPreferred": "Judit Wégner"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9594.jpg"
+		}]
+	}, {
+		"id": 9319,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Maria",
+			"last": "Ross",
+			"full": "Maria Ross",
+			"native": "マリア・ロス",
+			"userPreferred": "Maria Ross"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/9319.jpg",
+		"voiceActors": [{
+			"id": 95078,
+			"language": "Japanese",
+			"name": {
+				"first": "Kaori",
+				"last": "Nazuka",
+				"full": "Kaori Nazuka",
+				"native": "名塚佳織",
+				"userPreferred": "Kaori Nazuka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg"
+		}, {
+			"id": 95535,
+			"language": "English",
+			"name": {
+				"first": "Meredith",
+				"last": "McCoy",
+				"full": "Meredith McCoy",
+				"native": null,
+				"userPreferred": "Meredith McCoy"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/535.jpg"
+		}, {
+			"id": 158217,
+			"language": "Italian",
+			"name": {
+				"first": "Maddalena",
+				"last": "Vadacca",
+				"full": "Maddalena Vadacca",
+				"native": null,
+				"userPreferred": "Maddalena Vadacca"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 184400,
+			"language": "Spanish",
+			"name": {
+				"first": "Jennifer",
+				"last": "Medel",
+				"full": "Jennifer Medel",
+				"native": null,
+				"userPreferred": "Jennifer Medel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184400-7hfzD7giOuSA.jpg"
+		}, {
+			"id": 100137,
+			"language": "Portuguese",
+			"name": {
+				"first": "Silvia",
+				"last": "Suzy",
+				"full": "Silvia Suzy",
+				"native": null,
+				"userPreferred": "Silvia Suzy"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5137.jpg"
+		}, {
+			"id": 102705,
+			"language": "German",
+			"name": {
+				"first": "Birte",
+				"last": "Baumgardt",
+				"full": "Birte Baumgardt",
+				"native": null,
+				"userPreferred": "Birte Baumgardt"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7705.jpg"
+		}]
+	}, {
+		"id": 25547,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Scar Ani",
+			"last": null,
+			"full": "Scar Ani",
+			"native": "スカー兄",
+			"userPreferred": "Scar Ani"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b25547-U0HRIl70uz8H.png",
+		"voiceActors": [{
+			"id": 95160,
+			"language": "Japanese",
+			"name": {
+				"first": "Takehito",
+				"last": "Koyasu",
+				"full": "Takehito Koyasu",
+				"native": "子安武人",
+				"userPreferred": "Takehito Koyasu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+		}, {
+			"id": 95666,
+			"language": "English",
+			"name": {
+				"first": "Robert",
+				"last": "McCollum",
+				"full": "Robert McCollum",
+				"native": null,
+				"userPreferred": "Robert McCollum"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95666-er3JLtqV1TLy.jpg"
+		}, {
+			"id": 109863,
+			"language": "Korean",
+			"name": {
+				"first": "Beom Gi",
+				"last": "Hong",
+				"full": "Beom Gi Hong",
+				"native": "범기 홍",
+				"userPreferred": "Beom Gi Hong"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14863.jpg"
+		}, {
+			"id": 193945,
+			"language": "Spanish",
+			"name": {
+				"first": "Armando",
+				"last": "Guerrero",
+				"full": "Armando Guerrero",
+				"native": "Jesús Armando Guerrero Morales",
+				"userPreferred": "Armando Guerrero"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n193945-g5RZlBJvMNQC.png"
+		}, {
+			"id": 102350,
+			"language": "Portuguese",
+			"name": {
+				"first": "Alfredo",
+				"last": "Rollo",
+				"full": "Alfredo Rollo",
+				"native": null,
+				"userPreferred": "Alfredo Rollo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102350-J9WM40ldrYng.jpg"
+		}, {
+			"id": 176914,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fabrício",
+				"last": "Vila Verde",
+				"full": "Fabrício Vila Verde",
+				"native": null,
+				"userPreferred": "Fabrício Vila Verde"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176914-57tAUwm2xrAZ.jpg"
+		}, {
+			"id": 139123,
+			"language": "German",
+			"name": {
+				"first": "Thomas",
+				"last": "Friebe",
+				"full": "Thomas Friebe",
+				"native": null,
+				"userPreferred": "Thomas Friebe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 22474,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Elicia",
+			"last": "Hughes",
+			"full": "Elicia Hughes",
+			"native": "エリシア・ヒューズ",
+			"userPreferred": "Elicia Hughes"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b22474-S1qwbkCGW91I.png",
+		"voiceActors": [{
+			"id": 95207,
+			"language": "Japanese",
+			"name": {
+				"first": "Misato",
+				"last": "Fukuen",
+				"full": "Misato Fukuen",
+				"native": "福圓美里",
+				"userPreferred": "Misato Fukuen"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95207-TYPMa0JKUDAf.jpg"
+		}, {
+			"id": 96650,
+			"language": "English",
+			"name": {
+				"first": "Cherami",
+				"last": "Leigh",
+				"full": "Cherami Leigh",
+				"native": null,
+				"userPreferred": "Cherami Leigh"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96650-nIeKAJ8drDza.jpg"
+		}, {
+			"id": 96233,
+			"language": "Italian",
+			"name": {
+				"first": "Serena",
+				"last": "Clerici",
+				"full": "Serena Clerici",
+				"native": null,
+				"userPreferred": "Serena Clerici"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1233.jpg"
+		}, {
+			"id": 106403,
+			"language": "Portuguese",
+			"name": {
+				"first": "Flora",
+				"last": "Paulita",
+				"full": "Flora Paulita",
+				"native": null,
+				"userPreferred": "Flora Paulita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106403-io0B6PS3mWTh.jpg"
+		}, {
+			"id": 244870,
+			"language": "Portuguese",
+			"name": {
+				"first": "Gigi",
+				"last": "Patta",
+				"full": "Gigi Patta",
+				"native": null,
+				"userPreferred": "Gigi Patta"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n244870-FK3IrKecDcEX.png"
+		}, {
+			"id": 96679,
+			"language": "German",
+			"name": {
+				"first": "Sarah",
+				"last": "Brückner",
+				"full": "Sarah Brückner",
+				"native": null,
+				"userPreferred": "Sarah Brückner"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 5428,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Barry the Chopper",
+			"last": null,
+			"full": "Barry the Chopper",
+			"native": "バリー・ザ・チョッパー",
+			"userPreferred": "Barry the Chopper"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n5428-TJbELkDf4F0N.png",
+		"voiceActors": [{
+			"id": 101602,
+			"language": "Japanese",
+			"name": {
+				"first": "Hideyuki",
+				"last": "Umezu",
+				"full": "Hideyuki Umezu",
+				"native": "梅津秀行",
+				"userPreferred": "Hideyuki Umezu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101602-wUvWtCkvNGNB.jpg"
+		}, {
+			"id": 95302,
+			"language": "English",
+			"name": {
+				"first": "Jerry",
+				"last": "Jewell",
+				"full": "Jerry Jewell",
+				"native": null,
+				"userPreferred": "Jerry Jewell"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/302.jpg"
+		}, {
+			"id": 106920,
+			"language": "Italian",
+			"name": {
+				"first": "Luca",
+				"last": "Bottale",
+				"full": "Luca Bottale",
+				"native": null,
+				"userPreferred": "Luca Bottale"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106920-pIJQfJ0oF9Wi.png"
+		}, {
+			"id": 189579,
+			"language": "Spanish",
+			"name": {
+				"first": "Héctor",
+				"last": "Estrada",
+				"full": "Héctor Estrada",
+				"native": null,
+				"userPreferred": "Héctor Estrada"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189579-vj82YhdMx4DD.png"
+		}, {
+			"id": 103882,
+			"language": "Portuguese",
+			"name": {
+				"first": "Elcio",
+				"last": "Sodre",
+				"full": "Elcio Sodre",
+				"native": "Élcio Sodré",
+				"userPreferred": "Elcio Sodre"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8882.jpg"
+		}, {
+			"id": 115338,
+			"language": "Portuguese",
+			"name": {
+				"first": "Mario",
+				"last": "Jorge Andrade",
+				"full": "Mario Jorge Andrade",
+				"native": null,
+				"userPreferred": "Mario Jorge Andrade"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115338-EDZjVgdPQ4Ed.jpg"
+		}, {
+			"id": 139127,
+			"language": "German",
+			"name": {
+				"first": "Arne",
+				"last": "Obermeyer",
+				"full": "Arne Obermeyer",
+				"native": null,
+				"userPreferred": "Arne Obermeyer"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139127-WWNoGrt469cu.png"
+		}]
+	}, {
+		"id": 10954,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gracia",
+			"last": "Hughes",
+			"full": "Gracia Hughes",
+			"native": "グレイシア・ヒューズ",
+			"userPreferred": "Gracia Hughes"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b10954-lbg0Qqj7EPOR.png",
+		"voiceActors": [{
+			"id": 95471,
+			"language": "Japanese",
+			"name": {
+				"first": "Tomoe",
+				"last": "Hanba",
+				"full": "Tomoe Hanba",
+				"native": "半場友恵",
+				"userPreferred": "Tomoe Hanba"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95471-QFtcXqtRwhlS.png"
+		}, {
+			"id": 105292,
+			"language": "English",
+			"name": {
+				"first": "Anastasia",
+				"last": "Muñoz",
+				"full": "Anastasia Muñoz",
+				"native": null,
+				"userPreferred": "Anastasia Muñoz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/10292.jpg"
+		}, {
+			"id": 96275,
+			"language": "Italian",
+			"name": {
+				"first": "Patrizia",
+				"last": "Scianca",
+				"full": "Patrizia Scianca",
+				"native": null,
+				"userPreferred": "Patrizia Scianca"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96275-K5vy1UBZWPA0.png"
+		}, {
+			"id": 201446,
+			"language": "Spanish",
+			"name": {
+				"first": "Dolores",
+				"last": "Mondragón",
+				"full": "Dolores Mondragón",
+				"native": null,
+				"userPreferred": "Dolores Mondragón"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201446-vZUaDfUTL8li.png"
+		}, {
+			"id": 102593,
+			"language": "Portuguese",
+			"name": {
+				"first": "Adriana",
+				"last": "Pissardini",
+				"full": "Adriana Pissardini",
+				"native": null,
+				"userPreferred": "Adriana Pissardini"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7593.jpg"
+		}, {
+			"id": 101122,
+			"language": "German",
+			"name": {
+				"first": "Petra",
+				"last": "Glunz-grosch",
+				"full": "Petra Glunz-grosch",
+				"native": null,
+				"userPreferred": "Petra Glunz-grosch"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6122.jpg"
+		}, {
+			"id": 102811,
+			"language": "Hungarian",
+			"name": {
+				"first": "Orsolya",
+				"last": "Oláh",
+				"full": "Orsolya Oláh",
+				"native": null,
+				"userPreferred": "Orsolya Oláh"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 66,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Scar",
+			"last": null,
+			"full": "Scar",
+			"native": "スカー",
+			"userPreferred": "Scar"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b66-bLbGWXrmDqfV.png",
+		"voiceActors": [{
+			"id": 95720,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenta",
+				"last": "Miyake",
+				"full": "Kenta Miyake",
+				"native": "三宅健太",
+				"userPreferred": "Kenta Miyake"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+		}, {
+			"id": 96602,
+			"language": "English",
+			"name": {
+				"first": "J. Michael",
+				"last": "Tatum",
+				"full": "J. Michael Tatum",
+				"native": "John Michael Tatum",
+				"userPreferred": "J. Michael Tatum"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96602-ztTfuo3nzu5t.png"
+		}, {
+			"id": 160266,
+			"language": "Italian",
+			"name": {
+				"first": "Massimiliano",
+				"last": "Lotti",
+				"full": "Massimiliano Lotti",
+				"native": null,
+				"userPreferred": "Massimiliano Lotti"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n160266-5OJb8QO3Bgsz.jpg"
+		}, {
+			"id": 199294,
+			"language": "Spanish",
+			"name": {
+				"first": "Ricardo",
+				"last": "Brust",
+				"full": "Ricardo Brust",
+				"native": "Ricardo Salas Brust",
+				"userPreferred": "Ricardo Brust"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n199294-ALZ45Jgn1mcp.png"
+		}, {
+			"id": 153004,
+			"language": "Portuguese",
+			"name": {
+				"first": "Felipe",
+				"last": "Grinnan",
+				"full": "Felipe Grinnan",
+				"native": null,
+				"userPreferred": "Felipe Grinnan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153004-CgGmVAsohWRg.png"
+		}, {
+			"id": 177125,
+			"language": "Portuguese",
+			"name": {
+				"first": "Francisco",
+				"last": "Junior",
+				"full": "Francisco Junior",
+				"native": "Francisco Júnior",
+				"userPreferred": "Francisco Junior"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n177125-bfwA5g2AW0oX.jpg"
+		}, {
+			"id": 96179,
+			"language": "French",
+			"name": {
+				"first": "Antoine",
+				"last": "Tomé",
+				"full": "Antoine Tomé",
+				"native": null,
+				"userPreferred": "Antoine Tomé"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96179-1gXdEKvBylBF.jpg"
+		}, {
+			"id": 96694,
+			"language": "German",
+			"name": {
+				"first": "Stephan",
+				"last": "Schleberger",
+				"full": "Stephan Schleberger",
+				"native": null,
+				"userPreferred": "Stephan Schleberger"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 102857,
+			"language": "Hungarian",
+			"name": {
+				"first": "Viczián",
+				"last": "Ottó",
+				"full": "Viczián Ottó",
+				"native": null,
+				"userPreferred": "Viczián Ottó"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7857.jpg"
+		}]
+	}, {
+		"id": 15531,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Grumman",
+			"last": null,
+			"full": "Grumman",
+			"native": "グラマン",
+			"userPreferred": "Grumman"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n15531-ibDxEMsxkrzT.png",
+		"voiceActors": [{
+			"id": 96128,
+			"language": "Japanese",
+			"name": {
+				"first": "Rokuro",
+				"last": "Naya",
+				"full": "Rokuro Naya",
+				"native": "納谷六朗",
+				"userPreferred": "Rokuro Naya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96128-cHvdKhF6dgK9.png"
+		}, {
+			"id": 101876,
+			"language": "English",
+			"name": {
+				"first": "Bill",
+				"last": "Flynn",
+				"full": "Bill Flynn",
+				"native": null,
+				"userPreferred": "Bill Flynn"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6876.jpg"
+		}, {
+			"id": 96240,
+			"language": "Italian",
+			"name": {
+				"first": "Mario",
+				"last": "Scarabelli",
+				"full": "Mario Scarabelli",
+				"native": null,
+				"userPreferred": "Mario Scarabelli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96240-skGulG7kauYH.png"
+		}, {
+			"id": 200036,
+			"language": "Spanish",
+			"name": {
+				"first": "Jesse",
+				"last": "Conde",
+				"full": "Jesse Conde",
+				"native": null,
+				"userPreferred": "Jesse Conde"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n200036-6nYRfW1UqfRS.png"
+		}, {
+			"id": 208643,
+			"language": "Portuguese",
+			"name": {
+				"first": "José Carlos",
+				"last": "Guerra",
+				"full": "José Carlos Guerra",
+				"native": null,
+				"userPreferred": "José Carlos Guerra"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n208643-zFancQ3Pt78H.jpg"
+		}, {
+			"id": 175188,
+			"language": "Portuguese",
+			"name": {
+				"first": "Carlos",
+				"last": "Gesteira",
+				"full": "Carlos Gesteira",
+				"native": null,
+				"userPreferred": "Carlos Gesteira"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175188-pL7OsoxYpzd9.png"
+		}, {
+			"id": 139138,
+			"language": "German",
+			"name": {
+				"first": "Hans-Gerd",
+				"last": "Kilbinger",
+				"full": "Hans-Gerd Kilbinger",
+				"native": null,
+				"userPreferred": "Hans-Gerd Kilbinger"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139138-3s9KGBE9YtEc.jpg"
+		}]
+	}, {
+		"id": 50123,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Charlie",
+			"last": null,
+			"full": "Charlie",
+			"native": "チャーリー",
+			"userPreferred": "Charlie"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n50123-2kInS5rwOuM7.png",
+		"voiceActors": [{
+			"id": 100928,
+			"language": "Japanese",
+			"name": {
+				"first": "Rintarou",
+				"last": "Nishi",
+				"full": "Rintarou Nishi",
+				"native": "西凜太朗",
+				"userPreferred": "Rintarou Nishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100928-OfFb5f55VSFB.png"
+		}, {
+			"id": 104777,
+			"language": "English",
+			"name": {
+				"first": "David",
+				"last": "Wald",
+				"full": "David Wald",
+				"native": null,
+				"userPreferred": "David Wald"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9777.jpg"
+		}, {
+			"id": 208644,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fernando",
+				"last": "Peron",
+				"full": "Fernando Peron",
+				"native": null,
+				"userPreferred": "Fernando Peron"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n208644-WqciQcTpX3OF.png"
+		}, {
+			"id": 216160,
+			"language": "Portuguese",
+			"name": {
+				"first": "Eduardo",
+				"last": "Villas",
+				"full": "Eduardo Villas",
+				"native": null,
+				"userPreferred": "Eduardo Villas"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n216160-omRUbpKwj7um.png"
+		}, {
+			"id": 117899,
+			"language": "German",
+			"name": {
+				"first": "Markus",
+				"last": "Haase",
+				"full": "Markus Haase",
+				"native": null,
+				"userPreferred": "Markus Haase"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/22899.jpg"
+		}]
+	}, {
+		"id": 7203,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Black Hayate",
+			"last": null,
+			"full": "Black Hayate",
+			"native": "ブラックハヤテ",
+			"userPreferred": "Black Hayate"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b7203-FcriYVNERLe3.png",
+		"voiceActors": []
+	}],
+	"relations": [{
+		"id": 30025,
+		"relationType": "ADAPTATION",
+		"malId": 25,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi",
+			"english": "Fullmetal Alchemist",
+			"native": "鋼の錬金術師",
+			"userPreferred": "Hagane no Renkinjutsushi"
+		},
+		"status": "Completed",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx30025-H2Es0tn49tir.png",
+		"color": "#DD2D2D",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/30025-IaxAxX9hIGx0.jpg",
+		"rating": 89
+	}, {
+		"id": 6421,
+		"relationType": "SIDE_STORY",
+		"malId": 6421,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST Mihousou Episode",
+			"english": "Fullmetal Alchemist: Brotherhood OVA Collection",
+			"native": "鋼の錬金術師 FULLMETAL ALCHEMIST 未放送エピソード",
+			"userPreferred": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST Mihousou Episode"
+		},
+		"status": "Completed",
+		"episodes": 4,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6421.jpg",
+		"color": "#bbf1ff",
+		"type": "OVA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6421-yqShxVmGNtd0.jpg",
+		"rating": 77
+	}, {
+		"id": 9135,
+		"relationType": "SIDE_STORY",
+		"malId": 9135,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
+			"english": "Fullmetal Alchemist: The Sacred Star of Milos",
+			"native": "劇場版 鋼の錬金術師 嘆きの丘の聖なる星",
+			"userPreferred": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9135-nPvbvO7QCx7L.jpg",
+		"color": "#785028",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9135-Ffg7j7Rd641G.jpg",
+		"rating": 69
+	}, {
+		"id": 121,
+		"relationType": "ALTERNATIVE",
+		"malId": 121,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi",
+			"english": "Fullmetal Alchemist",
+			"native": "鋼の錬金術師",
+			"userPreferred": "Hagane no Renkinjutsushi"
+		},
+		"status": "Completed",
+		"episodes": 51,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png",
+		"color": "#e4bb43",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/121-t5K7c8WRuPWl.jpg",
+		"rating": 78
+	}, {
+		"id": 7902,
+		"relationType": "SPIN_OFF",
+		"malId": 7902,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST - Arakawa Hiromu Kaki Oroshi 4-koma Gekijou",
+			"english": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
+			"native": "鋼の錬金術師 FULLMETAL ALCHEMIST 荒川弘 描き下ろし4コマ劇場",
+			"userPreferred": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST - Arakawa Hiromu Kaki Oroshi 4-koma Gekijou"
+		},
+		"status": "Completed",
+		"episodes": 16,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"color": "#e4c9a1",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"rating": 70
+	}],
+	"mappings": {
+		"mal": 5114,
+		"anidb": 6107,
+		"kitsu": 3936,
+		"anilist": 5114,
+		"thetvdb": 85249,
+		"anisearch": 5048,
+		"livechart": 3409,
+		"notify.moe": "UhurcKmmg",
+		"anime-planet": "fullmetal-alchemist-brotherhood"
+	},
+	"episodes": [{
+		"id": "fullmetal-alchemist-brotherhood-episode-1",
+		"title": "Fullmetal Alchemist",
+		"description": "After escaping from Central Prison, the Freezing Alchemist, Isaac McDougal, sets his plan in motion to kill Führer King Bradley. However, under the command of Lt. Col. Roy Mustang, the military and State Alchemists attempt to stop him.",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/501751.jpg",
+		"airDate": "2009-04-05T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-2",
+		"title": "The First Day",
+		"description": "On the way to Lior, Ed and Al reminisce about the events that lead to them being trapped in their current bodies by breaking the taboo of human transmutation. Meanwhile, Colonel Mustang looks back on the first time he met the Elric brothers.",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/502421.jpg",
+		"airDate": "2009-04-12T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-3",
+		"title": "City of Heresy",
+		"description": "Ed and Al arrive at the city of Lior, hoping to find the legendary Philosopher's Stone so they can return their bodies back to normal. There, they meet a priest named Cornello, who is able to perform \"miracles.\" As Ed and Al investigate, they find out the truth about Cornello.",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/536451.jpg",
+		"airDate": "2009-04-19T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-4",
+		"title": "An Alchemist's Anguish",
+		"description": "Ed and Al become interested in biological transmutation after witnessing a chimera in Lior, so Colonel Mustang introduces them to an expert in the field, Shou Tucker, the Life-binding Alchemist. Meanwhile, a serial killer whose targets are only State Alchemists is on the loose in Central.",
+		"number": 4,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/560591.jpg",
+		"airDate": "2009-04-26T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-5",
+		"title": "Rain of Sorrows",
+		"description": "After learning about what happened to Shou Tucker and his daughter Nina, the Elric brothers begin to question what alchemy really is. Meanwhile, Colonel Mustang and the other State Alchemists track down the serial killer Scar.",
+		"number": 5,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/560601.jpg",
+		"airDate": "2009-05-03T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-6",
+		"title": "Road of Hope",
+		"description": "After their encounter with Scar, Ed's automail and Al's armor need to be repaired, so Major Armstrong escorts them to their hometown of Risembool. On their way there, they spot Dr. Marcoh, a scientist who helped create the Philosopher's Stone, and try to convince him to give them the location of the Stone's research data.",
+		"number": 6,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/604341.jpg",
+		"airDate": "2009-05-10T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-7",
+		"title": "Hidden Truths",
+		"description": "When Ed and Al arrive at the Central Library they discover that it has been burnt to the ground and instead are taken to see Sheska, a former employee who may have the information they seek. Meanwhile, in East City an unexplained explosion causes Colonel Mustang to restart his search for Scar.",
+		"number": 7,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/634581.jpg",
+		"airDate": "2009-05-17T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-8",
+		"title": "The Fifth Laboratory",
+		"description": "Ed and Al sneak inside the Fifth Laboratory to search for more answers about the origins of the Philosopher's Stone. However, it is not long before they are each attacked by former death row murderers who now guard the complex.",
+		"number": 8,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/634591.jpg",
+		"airDate": "2009-05-24T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-9",
+		"title": "Created Feelings",
+		"description": "Ed is now in a hospital recovering from his wounds and Al is unable to let go of what Number 66 told him back at the Fifth Laboratory. Meanwhile, Winry agrees to make a trip to Central in order to repair Ed's automail... again!",
+		"number": 9,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/634601.jpg",
+		"airDate": "2009-05-31T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-10",
+		"title": "Separate Destinations",
+		"description": "Ed and Al head to Dublith in order to see their former teacher, and Winry decides to tag along so she can visit Rush Valley on the way. Meanwhile, Lt. Colonel Hughes discovers some sensitive information and finds himself facing off against the Homunculus.",
+		"number": 10,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/634611.jpg",
+		"airDate": "2009-06-07T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-11",
+		"title": "Miracle at Rush Valley",
+		"description": "The Elric brothers along with Winry finally arrive in Rush Valley, where Ed is pick-pocketed and Winry must deliver a baby.",
+		"number": 11,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/736321.jpg",
+		"airDate": "2009-06-14T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-12",
+		"title": "One Is All, All Is One",
+		"description": "The Elric brothers arrive in Dublith, where they are reunited with their teacher, Izumi Curtis. This leads the brothers to reminisce about the first time they met Izumi, and all of the difficult training she put them through.",
+		"number": 12,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/736331.jpg",
+		"airDate": "2009-06-21T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-13",
+		"title": "Beasts of Dublith",
+		"description": "While trying to find clues on how to return to their original bodies, Al gets captured by a group of chimeras led by the homunculus Greed, forcing Ed to go to his rescue. Meanwhile, Colonel Mustang gathers a group of colleagues to support him in preparation for his transfer to Central HQ.",
+		"number": 13,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/736341.jpg",
+		"airDate": "2009-06-28T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-14",
+		"title": "Those Who Lurk Underground",
+		"description": "The battle against Greed and his group continues, with the state military and Führer King Bradley himself now joining in. As Ed and Al begin to wonder about Bradley's true motive for getting involved, Greed is taken to the homunculus' secret underground lair so his fate can be decided.",
+		"number": 14,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/736351.jpg",
+		"airDate": "2009-07-05T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-15",
+		"title": "Envoy from the East",
+		"description": "Scar and Yoki gain a new companion in the form of a young girl from Xing named Mei Chan, who displays her country's unique form of alchemy. Lieutenant Riza Hawkeye recruits an unlikely new ally for Colonel Roy Mustang, whilst Edward and Alphonse return to Rush Valley to get Edward's automail arm, but the brothers encounter Ling Yao from Xing, and his two dangerous bodyguards.",
+		"number": 15,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/840571.jpg",
+		"airDate": "2009-07-12T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-16",
+		"title": "Footsteps of a Comrade-in-Arms",
+		"description": "Ed, Al and Winry arrive in Central to continue their research, and discover the truth about what happened to Lt. Colonel Hughes. Meanwhile, as Colonel Mustang continues to search for clues regarding Hughes' murderer, Second Lieutenant Maria Ross is accused of committing the crime.",
+		"number": 16,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/879131.jpg",
+		"airDate": "2009-07-19T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-17",
+		"title": "Cold Flame",
+		"description": "After being interrogated, Second Lieutenant Maria Ross is convicted for the murder of Brigadier General Hughes. Upon hearing about the news, Barry the Chopper sets out to break her out of jail. Meanwhile, Major Armstrong takes Ed with him on a trip under the pretext of going to Risembool to get his automail repaired.",
+		"number": 17,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/879141.jpg",
+		"airDate": "2009-07-26T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-18",
+		"title": "The Arrogant Palm of a Small Human",
+		"description": "Edward travels with Armstrong and Breda to an unexpected place, where he learns the truth of what happened to Maria Ross. Back in Central, Ling visits Alphonse and Winry to apprise them of the events, while a new foe appears to cause trouble for Mustang's subordinates. Elsewhere, Ed encounters some people who reveal horrifying details concerning the fate of Winry's parents.",
+		"number": 18,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/879151.jpg",
+		"airDate": "2009-08-02T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-19",
+		"title": "Death of the Undying",
+		"description": "Alphonse joins up with Mustang and his subordinates as they follow after Barry's original body. The chase leads them to the Third Laboratory, where Barry infiltrates, and they take the opportunity to begin a thorough search of the laboratory. Unbeknownst to them, Lust doesn't intend for any of them to make it out alive.",
+		"number": 19,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/879161.jpg",
+		"airDate": "2009-08-09T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-20",
+		"title": "Father Before the Grave",
+		"description": "As Edward returns to Resembool, he surprisingly sees his father, Hohenheim, in front of his mother's grave. That night, Ed hears a startling conversation between his father and Pinako. The next day, Hohenheim gives Pinako a grim warning about the future, and Ed goes to the place where his home once stood, looking for a source of new hope.",
+		"number": 20,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/959541.jpg",
+		"airDate": "2009-08-16T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-21",
+		"title": "Advance of the Fool",
+		"description": "Edward and Alphonse meet with Mustang at the hospital, where they look over the events that occurred in the Third Laboratory, and they realize that the Homunculi's hideout may signify just how high up the level of corruption in the military is. Scar returns to Central to begin his killing spree anew, and the brothers come up with a dangerous plan to both confront Scar and lure the Homunculi out of hiding. Ling and Lan Fan hear of their intentions and eagerly agree to assist them, but are soon faced with a situation that threatens their survival.",
+		"number": 21,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/967231.jpg",
+		"airDate": "2009-08-30T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-22",
+		"title": "Backs in the Distance",
+		"description": "While Ling tries to find a way to escape from Wrath, Edward and Alphonse battle against Scar. Winry hears about the brothers' predicament and manages to find her way to them, but she soon learns the truth surrounding her parents' deaths, and from that knowledge, she struggles to decide if she should continue the cycle of hatred.",
+		"number": 22,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/967241.jpg",
+		"airDate": "2009-09-06T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-23",
+		"title": "Girl on the Battlefield",
+		"description": "Ed leaves Winry in the custody of the military to catch up with Al. Meanwhile, as Bradley continues to chase after Ling and Lan Fan, Gluttony goes after Scar. As Ed rejoins Al in his fight against Scar, Gluttony arrives on the scene. Ling then joins the fight, and is able to capture Gluttony by using his regenerative ability against him. Lan Fan manages to escape Bradley by cutting off her disabled arm to throw off her blood trail. Riza arrives and drives off with Ling and Gluttony, keeping it secret from the military. As Ed and Al are about to apprehend Scar, they are stopped by May Chang, who uses her alchemy to escape with him. However, Ed and Al manage to take custody of her panda, Xiao Mei. As they arrive back at HQ, they tell Winry everything. She feels depressed, believing all she can do is wait, but feels better when she receives a call from her customers back in Rush Valley. As she goes on the train back, Winry thinks she may be in love with Ed. Ed and Al later join up with the others at a hideout, where Lan Fan's wounds are treated. Ling reveals to Ed, Al and Roy that Bradley is a Homunculus. When Gluttony hears mention of Roy, the one who killed Lust, he transforms and blows the corner off the hideout.",
+		"number": 23,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1054721.jpg",
+		"airDate": "2009-09-13T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-24",
+		"title": "Inside the Belly",
+		"description": "Dr Marco is in the custody of the homunculi, and has to cooperate in exchange for his village's safety. Meanwhile, Ed, Al and Roy try to escape from Gluttony, who has become able to swallow anything in his sights. After losing him, Roy and the others leave to safety whilst Ed, Al and Lin stay to fight. Envy arrives to stop Gluttony from harming Ed and Al. Hearing this, Ed and Al face Gluttony whilst Lin faces against Envy. After some struggles on both ends, Gluttony ends up accidentally swallowing Ed, Lin and Envy. Roy goes to a meeting and ends up confronting Bradley and realizing what Hughes meant. Ed wakes up in a strange room, covered in blood.",
+		"number": 24,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1095561.jpg",
+		"airDate": "2009-09-20T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-25",
+		"title": "Doorway of Darkness",
+		"description": "Ed and Lin find themselves in a dark place, realizing they're inside Gluttony's stomach, and try to find a way out. May is worried about Xiao Mei, explaining to Yoki about their circumstances, so Scar decides to help search for her. Ed and Lin are approached by Envy, who explains that Gluttony was a failed attempt at recreating the Door of Truth and there is no exit. Envy also reveals he was the one who started the Ishbalan war, before transforming into a giant beast. Meanwhile, Al gets Gluttony to take him to Father, who is apparently in Central, and Bradley gets leverage over Roy by transferring his men to various headquarters and assigning Riza as his personal assistant, effectively making her his hostage.",
+		"number": 25,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1095571.jpg",
+		"airDate": "2009-09-27T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-26",
+		"title": "Reunion",
+		"description": "Ed and Lin face off against Envy, and Ed finds himself hesitating to attack due to all the people embedded into Envy's body and gets swallowed. Meanwhile, Scar and May find Shao May with Al and Gluttony and decide to follow them down to an underground tunnel, fighting off several chimeras. Ed spots the Philosopher's Stone inside Envy and manages to figure out a way to escape from Gluttony after seeing the missing piece from the ruins of Xerxes. Bradley explains to Roy how he was trained from birth for leadership and was injected with the Philosopher's Stone. Using various pieces of the Xerxes ruins found in Gluttony's stomach, Ed reluctantly uses the souls inside Envy's stone to transmute himself and open the Door of Truth to escape through. Ed finds Al's body but is unable to bring it back since it isn't his. However, before the Door closes, he bursts through yelling to Al's body that he will come back to get him someday.",
+		"number": 26,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1095581.jpg",
+		"airDate": "2009-10-04T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-27",
+		"title": "Interlude Party",
+		"description": "During a festival from Resembool Hohenheim converses with a young Pinako, who asks him why he remains closed from all the villagers. In the same time, he faces a demon identical to him talks to him about the humans' weakness, as the story so far is recapped. In the end, Hohenheim finds encouragement from a young Trisha, and he wakes up to discover it was all a dream as a result of drinking too much alcohol.",
+		"number": 27,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1158051.jpg",
+		"airDate": "2009-10-11T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-28",
+		"title": "Father",
+		"description": "Alphonse and Gluttony arrive at Father's lair, when Ed, Envy and Ling burst out of Gluttony's stomach. Alphonse, Edward and Lin then battle Father and the homunculi. Father then uses his strange powers and turns off Ed's and Al's alchemy, rendering them vulnerable. Lin is then captured and given the Philosopher's Stone, turning into Greed. Scar and Mei then arrive and engage in battle, during which Xao Mei reunites with Mei and Scar finds out about Envy's murder which triggered the Ishbalan Civil War. At the end of the battle, Gluttony dies and Father extracts his Philosopher's Stone.",
+		"number": 28,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1198961.jpg",
+		"airDate": "2009-10-18T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-29",
+		"title": "Struggle of the Fool",
+		"description": "Envy leads Ed and Al, who has sneaked May in his armor, out of Father's hideout, which is actually under military HQ, to meet with Bradley. Ed threatens to quit the military, but Bradley says he will kill Winry if he does. However, he allows Ed and Al to continue their research. Roy enquires if Bradley was the one who killed Hughes, which he wasn't. After checking Winry is alright, Ed and Al encounter Greed, who gives them a message to Lan Fan from Lin. Meeting up with Bradley, Greed points out that Lin is still fighting for control. Roy reveals Bradley's identity to Armstrong, and ponders that there may be another homunculus hidden in the shadows. Al passes on Lin's message to Lan Fan, as well as telling her about him and Greed, encouraging her to get an automail arm. Ed, hearing that other alchemists alchemy had failed the same time as his and Al's, wonders how Scar and May's alchemy works. Meanwhile, as Father creates a new copy of Gluttony, Scar encounters Marcoh in their prison, who begs him to kill him so the homunculus cannot use him for their plans. However, Scar demands to hear more about the Ishbalan war from him.",
+		"number": 29,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1229691.jpg",
+		"airDate": "2009-10-25T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-30",
+		"title": "The Ishvalan War of Extermination",
+		"description": "Years ago, Roy's desire to become a state alchemist is disapproved of by his teacher, Berthold Hawkeye, Riza's father. Before he died of an illness, he asks Roy to look after Riza, who has an alchemic symbol on her back. In the present, Ed visits Riza to return the gun she gave him and asks about Ishbal. After the war broke out, Bradley passed a document announcing the extermination of the Ishbalans. This takes it toll on many alchemists, including Roy which isn't helped by the taunts of Kimblee, who enjoys killing. As Marcoh tells Scar his side of the story, he reveals that he was involved in using Isbalans to make the Philosopher's Stone, which was given to the state alchemists to enhance their alchemy. The Ishbalan leader tried pleading with Bradley to end the killing in exchange for his life, but was rejected. When the war finally ended, Roy resolved that he would work to become the new Fuhrer to protect the people and appointed Riza as her second-in-command. Riza mentions to Ed that when they finally achieve peace, they may have to be punished for the people they have killed. When Envy checks Marcoh's cell, he finds nothing left but a beheaded corpse and the word \"vengeance\" written in blood on the wall.",
+		"number": 30,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1259411.jpg",
+		"airDate": "2009-11-01T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-31",
+		"title": "The 520 Cenz Promise",
+		"description": "Ed passes on what Riza told him to Al, and the two contemplate about what to do after they complete their objectives, and as to why Scar and May's alchemy worked when their's was blocked. However, May had run off, so they go and look for her. Meanwhile, Riza, Breda, Fuery and Halman say their goodbyes as they are sent to different HQs, with Roy finding a hidden message inside a chess set Halman gave him. Roy later reminds Ed that he owes him 520 cenz, but Ed decides to keep ahold of it until he becomes Fuhrer. Roy uses the note he got from Falman to make contact with Grumman. Meanwhile, Fu is shocked to find Lan Fan had lost her arm, and declines Ed's help to find an automail mechanic, since it would involve his acquaintances in their troubles. Afterwards, Knox gets a visit from his children, who are pleased to hear he's been able to successfully treat patients. Realising that Marcoh had escaped along with Scar, Envy releases Kimbley from prison, giving him to the task to retrieve Marcoh and kill Scar. Wanting to find out more about Kimbley and the secrets behind his brother's alchemy, Scar destroys Marcoh's face so it won't be recognised, before heading off to the North to recover his brother's notes.",
+		"number": 31,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1259421.jpg",
+		"airDate": "2009-11-08T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-32",
+		"title": "The Führer's Son",
+		"description": "As May heads off towards the North with one hooded person, Scar escapes with another to the West. General Grummon, disguised as a woman, meets up with Roy to discuss current matters. Upon hearing that Grumman saw May at the train station, Roy asks Armstrong to pass the message onto Ed, who had decided to look in the library for information on alkahestry. Upon passing on the message, Armstrong also gives Ed a letter of introduction to pass onto General Major Armstrong, his sister. Later on, Ed and Al meet Bradley's adopted son, Selim, and are invited to his house where they also meet Bradley's wife and are later joined by Bradley himself. After the meeting, Ed and Al head off towards the North. Meanwhile, Scar and his accomplice escape from the train heading West, and Kimblee tries to predict his next move.",
+		"number": 32,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1294741.jpg",
+		"airDate": "2009-11-15T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-33",
+		"title": "The Northern Wall of Briggs",
+		"description": "Still on Scar’s trail, Kimblee figures out that he headed north and follows him there. When Kimblee gets word that Scar and Marcoh are on a train, he boards it by having another train run alongside it, but instead of finding Marcoh, he finds Yoki there. Kimblee is then attacked by Scar, and the two recognize each other from their previous encounter years ago. Before Kimblee can really do anything, Scar impales him with a metal pipe, and this leaves Kimblee no choice but to use his alchemy to separate the two parts of the train, with Scar on the other part. Realizing that something happened, the train’s operators stop it and find the injured Kimblee, but he orders them to keep going. Unbeknownst to Kimblee, the real Marcoh is heading north on foot with May Chang. The two eventually reach the shack where Scar’s brother’s research is located, and they find it intact.\n",
+		"number": 33,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1294751.jpg",
+		"airDate": "2009-11-22T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-34",
+		"title": "Ice Queen",
+		"description": "Upon entering the fortress, Ed and Al are taken to the medical room where Ed is treated for frostbite. One of the workers reveal that the northern automail used by Buccaneer is made of aluminum and carbon, and Ed's normal steal automail does not work well in the cold. The brothers then are visited by Olivier who demands the brothers tell her about their intentions. The Elrics tell Olivier about their quest to get their bodies back and their search for May, but they don't talk about their dealings with the homunculi. Olivier knows that Elrics are hiding something from her, but she agrees to help search for May and also orders the brothers to go to work, since there's no food for the lazy.",
+		"number": 34,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1294761.jpg",
+		"airDate": "2009-11-29T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-35",
+		"title": "The Shape of This Country",
+		"description": "After Olivier comes up with a plan to stop Sloth, Buccaneer forcefully recruits the Elrics and Falman for the plan. With everything in place, Olivier and her trio of tanks ram Sloth into the elevator which is sent down to the level with the exposed walkway. The confused Sloth walks out of the elevator and immediately gets fuel spilled onto him by Buccaneer's group and is pushed over the railings with a combined effort from Olivier's tank, Falman, and the Elrics. The fuel spilled onto Sloth is cold weather fuel that evaporates even in the middle of winter, and with blizzard conditions outside Sloth is quickly frozen. After freezing Sloth, Olivier orders Buccaneer to put the Elrics into the fort's holding cells so she can question them later. The next morning, the Elrics are thanked by several soldiers for helping during Sloth's invasion, but the soldiers still wouldn't let the Elrics out of their cell.",
+		"number": 35,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1294771.jpg",
+		"airDate": "2009-12-06T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-36",
+		"title": "Family Portrait",
+		"description": "Hoenheim recalls when he left the Elric's house, lamenting that his body would outlast his family's. Meanwhile, soldiers investigating the tunnels under Briggs find themselves killed by a mysterious shadow. Lt General Raven tells Olivier to put Sloth into the tunnel and seal it off. Whilst Miles stalls Kimblee for time, Olivier kills Raven. As Olivier enters the tunnel via a separate entrance, Kimblee brings Winry over to see Ed and Al, reminding them of their place. Meanwhile, Scar reunites with Marcoh and Mei, and Roy gets information and a message from Olivier from his intel sources.",
+		"number": 36,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1378221.jpg",
+		"airDate": "2009-12-13T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-37",
+		"title": "The First Homunculus",
+		"description": "Winry fixes up Ed's automail before Kimblee talks with him, ordering his men to keep Al separated from him. Olivier sends a search party down the tunnels, who find a couple of survivors warning them not to put any lights on. Riza learns that Bradley's son, Selim, is a homunculus named Pride who attacks from the shadows. Kimblee orders Ed to search for Scar and Marcoh and create a bloody crest similar to Ishbal in Briggs, tempting him with a Philosopher's Stone if he accepts. After telling Al and Winry all about it, he grudgingly accepts the job, though doesn't intend to use the stone himself. As Ed and Al go to search for Scar, their real intent to find May as well, Winry decides to accompany them.",
+		"number": 37,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1405501.jpg",
+		"airDate": "2009-12-20T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-38",
+		"title": "Conflict at Baschool",
+		"description": "Riza gets a call from Roy, but is unable to say anything in fear of being watched by Pride. In the town of Baschool, Ed and Al, along with Winry, lose the guards that were assigned to them and end up running into May and Marcoh. Meanwhile, Scar encounters a couple of Kimblee's men, a pair of chimeras, and runs into trouble with them. Scar gets pinned, but Ed and Al arrive and beat the chimeras, before restraining Scar themselves. Winry and Miles arrive, and Winry confronts Scar face-to-face about her parents' deaths. Explosions then take place and it appears that Scar has taken Winry hostage. Meanwhile, as Olivier's squad retrieve the survivors from the tunnels, Briggs is approached by some people.",
+		"number": 38,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1405521.jpg",
+		"airDate": "2009-12-27T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-39",
+		"title": "Daydream",
+		"description": "When faced with the option of judging her parents' killer, Winry decides to heal Scar's wounds, knowing it would be something her parents would do. Miles explains to Scar that he joined the military to gradually change the way people think of Ishbalans. Since Marcoh and May need Scar to decipher his brother's research, Miles offers to hide everyone at Fort Briggs, with Al insisting on sparing the two chimera. While Marcoh and company head for Briggs via tunnels in the mines, Winry comes up with rouse to make it look like Scar has kidnapped her to elude Kimblee just before a blizzard sets in. However, as Marcoh's group heads for the fort, Miles gets word that Olivier is no longer at Briggs and the fort is being manned by Central people. Al goes into the blizzard to find Marcoh's group and warn them. While in the blizzard, Al briefly sees his body, and wonders if it is trying to get its soul back. Meanwhile, Father makes plans involving Ed, Al, Hohenheim, Izumi, and one more candidate.",
+		"number": 39,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1405541.jpg",
+		"airDate": "2010-01-10T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-40",
+		"title": "Homunculus (The Dwarf in the Flask)",
+		"description": "Olivier goes to Central, where she admits to killing Raven and convinces Bradley to let her take his place. Riza uses a coded message to tell Roy that Selim is a homunculus. Meanwhile, 'Father' dreams of ancient Xerxes, where Hohenheim was raised as a nameless slave. There, Hohenheim met Homunculus, a being in a flask who was created from his blood, which gave Hohenheim his current name and taught him the basics of alchemy. One night, Homunculus was summoned by the King of Xerxes, who asked Homunculus to tell him the secret for immortality. Homunculus tricked the king into making a gigantic transmutation circle, using the whole country as a sacrifice, while it and Hohenheim stood at the center of the circle. When Hohenheim awoke, everyone else in Xerxes was dead, except for Homunculus. It created a body shaped like Hohenheim for itself, becoming 'Father.' Back in the present, after Hohenheim awakes from this shared dream, he runs into Izumi and Sig. When Hohenheim notices Izumi's sin, he rearranges her organs so that her blood can flow better. After this, Hohenheim tells Izumi and Sig that he is a Philosopher's Stone in human form.",
+		"number": 40,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1550771.jpg",
+		"airDate": "2010-01-17T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-41",
+		"title": "The Abyss",
+		"description": "Miles and his men set off with the intent of killing Kimblee and his henchmen, something Ed objects to. As Scar's group exits the mine, they find Al, who warns them about Central infiltrating Briggs, so Scar decides to take them towards an Ishbalan slum. Miles' group attempts to snipe Kimblee, but Kimblee has already figured out their intent and uses a cover of snow to enter the mines. Ed tries to follow, but is attacked by two more chimeras. Ed disables them by using the ammonia in dynamite to make a stink bomb to overwhelm their high sense of smell. Ed then knocks the Philosopher's Stone out of Kimblee's hand, but Kimblee uses another Stone hidden inside his mouth, sending Ed and the chimeras down a mine shaft and leaving Ed impaled by a steel bar. At the same time, Al starts to drift out of consciousness, saying his soul is being drawn back to his body. Determined not to die, Ed gets the chimeras to remove the bar while he sacrifices some of his life span to temporarily fix the wound and to stop the bleeding. The chimeras find the Philosopher's Stone that Kimblee dropped, and, thankful for their rescue, decide to take Ed to a doctor.",
+		"number": 41,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1574211.jpg",
+		"airDate": "2010-01-24T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-42",
+		"title": "Signs of a Counteroffensive",
+		"description": "As Marcoh and May try to decipher Scar's brother's notes, Al, who had been taken apart to make him easier to carry, regains consciousness. As they put him back together, May figures how to arrange the notes, which reveal the nationwide Amestris transmutation circle. After further investigation, they find another transmutation circle used for alkahestry. Meanwhile, Kimblee encounters Pride, who tells Kimblee to carve out the Briggs blood crest. Elsewhere, Falman gets into contact with Breda, and Sloth finishes digging the tunnels. Hohenheim arrives in Liore, where Rose and the other citizens are rebuilding, and finds an underground passage under the church of Leto. As he stumbles upon Sloth's tunnel, he is attacked by Pride but manages to escape outside its boundary, and then tells Pride to let Father know he would be coming. Meanwhile, in order to carve out the blood crest, Kimblee conspires with Drachman forces to attack Briggs, and Zampano informs Envy of Marcoh's location.",
+		"number": 42,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1624291.jpg",
+		"airDate": "2010-01-31T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-43",
+		"title": "Bite of the Ant",
+		"description": "Briggs is able to defeat the Drachman forces with ease, finally carving out the blood crest. Zampano brings Envy to Marcoh, where Marcoh reveals that it was their intention from the start to lure the homunculus out there, and Envy is easily hit and outsmarted by the multiple alkahestry traps set up by May. Out of anger, Envy transforms into his true form and begins to attack the group. After being captured by the homunculus, Marcoh destroys Envy's Philosopher's Stone and renders Envy into a tiny, parasitic creature. Scar gives it to May and tells her to return to her country. Marcoh and Scar decide to go their own way, and Al and the rest head for Liore. In Dublith, Bido, the last remaining chimera of Greed's, sees two military officers searching for Izumi. Thinking that they could lead him to Greed, he hides underneath their car. Olivier is told about Briggs's victory, and is then shown, by one of the military's higher ups, the secret behind forbidding human transmutation. Meanwhile, when reaching Liore, Al and co. meets with Rosé and Hohenheim.",
+		"number": 43,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1624301.jpg",
+		"airDate": "2010-02-07T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-44",
+		"title": "Revving at Full Throttle",
+		"description": "Al and Winry are welcomed by Rosé and the people of Liore. Meanwhile, Darius, one of the chimeras who helped Ed after he had been injured, goes to a bank and makes a withdrawal from Ed's State Alchemist research account. However, the military is informed and they storm the clinic where Ed and the chimeras are, though the trio manages to escape from them. Hohenheim tells Al the truth about himself and his involvement with Father. While Olivier is shown the army of artificial humans created by the military, Bido is spotted by Greed. Bido realizes who he is and tries to make him remember his chimera friends, but Greed ends up killing him. Angered at seeing Greed kill one of his friends, Lin's conscience has a vicious clash with Greed's. Later that night, Greed storms King Bradley's mansion and confronts him in front of his wife and Selim.",
+		"number": 44,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1722501.jpg",
+		"airDate": "2010-02-14T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-45",
+		"title": "The Promised Day",
+		"description": "Greed is initially overwhelmed in fighting Bradley, but he manages to survive and escape thanks to Lin's instincts. Meanwhile, Olivier requests that her father, leading to fight with Alex to determine leadership of the household, which she inevitably wins, mainly as a means to avoid the family being taken as hostage. May passes through Youswell, who offer to help her on her journey to Xing. Envy manages to trick her into heading back towards Central. Ed, Darius and Heinkel arrive at one of the old hideouts, and are soon met by Lin, who had managed to temporarily regain control over his body. He tells Ed that Father will try to open the gate on 'The Promised Day' before Greed takes over again. Since Greed had severed his relationships, Ed suggests that he becomes his ally. Greed jokes that he'd only accept if they work for him, but Ed decides to take that suggestion seriously, which Greed agrees to. Al passes a message to everyone from Izumi and Briggs to Riza and Roy about the promised day, set to take place next spring.",
+		"number": 45,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1722511.jpg",
+		"airDate": "2010-02-21T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-46",
+		"title": "Looming Shadows",
+		"description": "Some Briggs soldiers escort Winry back home, where she is surprised to find Ed and his group. He warns her to escape to another country, but declines, saying Ed should just make sure he protects everyone. Meanwhile, Scar has recruited several Ishbalans to help in his cause and Roy informs Olivier about Selim. Al, who had been suffering from more frequent blackouts, is ambushed by Gluttony and Pride and captured. On the day before the promise day, Bradley is tricked into taking a train back to Central and is caught in an explosion on the bridge. Meanwhile, Riza, Breda and Feury prepare for tomorrow. Also, within the military, as the \"chosen\" generals are panicking over Bradley's possible death, Olivier sees her chance to try and take control, but before she could do anything, she is halted by the sudden appearance of Father and Sloth.",
+		"number": 46,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1722521.jpg",
+		"airDate": "2010-02-28T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-47",
+		"title": "Emissary of Darkness",
+		"description": "Ed and his group go to see Hohenheim, who tells them about the promised day. Ed also tells Hohenheim Trisha's last words to him. As Ed and his group leave, they run into Al, but after a warning from Lin, it is revealed he's being controlled by Pride. Pride gets the upper hand, but Ed responds by blacking out the slums, taking away the light to form Pride's shadows. Heinekel uses this opportunity to find and attack Pride, but Ed, Greed and Darius are attacked by Gluttony. Having a disadvantage in the dark, Greed switches with Lin who uses his homunculus detection abilities to fight Gluttony. As Gluttony starts to use his full power, he is overwhelmed by the arrival of Lan Fan, who is equipped with new automail.",
+		"number": 47,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1722531.jpg",
+		"airDate": "2010-03-07T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-48",
+		"title": "The Oath in the Tunnel",
+		"description": "Lan Fan and Lin fight Gluttony, and Heinkel continues to fight Pride. Meanwhile, Roy visits Madam Christmas to confirm that Selim Bradley is in fact a homunculus. Pride manages to get back the upper hand in the fight and wounds Heinkel. However, before Pride can finish him off, Ed intervenes and saves Heinkel using his northern automail, now carbon-reinforced. Spies from Central are shown to have followed Roy to Madam Christmas's bar, and as they find out that the madam is Roy's foster mother, the bar is blown up by Roy, who escapes through the sewers with Madam Christmas. Roy then meets up with his subordinates before they attempt to take over Central. Pride takes over Al again, but right before he fights Ed through Al, Fu throws a flash bang into the air, overwhelming the shadows with light and breaking Pride's control of Al. Darius then takes Al away to a safer place, and Gluttony stumbles upon Pride and Ed's fight. Upon discovering that Lan Fan and Lin can sense homunculi, Pride consumes Gluttony, both to replenish his lives as well as to gain a sense of smell that can detect Ed and his group. Pride then smells Hohenheim, who has met up with Darius and Al. Back in Central, Mustang begins his upheaval plot by capturing King Bradley's wife.",
+		"number": 48,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1847111.jpg",
+		"airDate": "2010-03-14T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-49",
+		"title": "Filial Affection",
+		"description": "Ed, Greed, and Lan Fan have a difficult time fighting Pride, who gained Gluttony's powers after devouring him. Working with Hohenheim, Al allows himself to be captured by Pride in order to grab him so that Hohenheim can trap Pride in a mountain of soil where there is no light, preventing him from using his shadows. Meanwhile, Kimblee begins to move just as Scar's group is told about the bombing of Bradley's train. As the Promised Day begins, Greed goes to Central on his own while Ed's group and Scar's group meet up again to devise a plan. In Central, Roy and his subordinates begin to attack soldiers while using Bradley's wife as a hostage. However, the military higher-ups give the order to kill everybody in the group except for Roy.",
+		"number": 49,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1927671.jpg",
+		"airDate": "2010-03-21T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-50",
+		"title": "Upheaval in Central",
+		"description": "As Team Mustang and Mrs. Bradley gets cornered by Central soldiers, Team Charlie, Mustang's old Ishbal squadron, intervenes and saves them. Team Mustang continues their attack on Central without killing anyone. Meanwhile, the Briggs soldiers lead by Buccaneer join the battle. Soon Team Mustang begins to run low on ammo, and they are saved by an ice cream truck driven by Rebecca and Maria Ross. Mustang calls whoever ordered Ross to return from Xing, and he is surprised to hear Havoc at the other end. During all of the chaos, Ed's group manages to sneak in underground through the Third Lab, where they split up. Ed, Scar, Darius, Zanpano, and Jelso go in one direction while Hohenheim and Lan Fan go in the other direction. However, at that moment, one of the Generals awakens the Army of Immortals.",
+		"number": 50,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1940701.jpg",
+		"airDate": "2010-03-28T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-51",
+		"title": "The Immortal Legion",
+		"description": "The Mannequin Soldiers awaken and kill the general. As Ed's group arrive at the door where Al had fought against Lust, the mannequins emerges from the door and they turn out to be immortal indeed. Meanwhile, Olivier is attacked by Sloth, who had been ordered to kill her. Al and Heinkel learn too late that Pride had been sending a secret message from banging on Al's head and are soon attacked by Kimblee, who frees Pride from his imprisonment. In the sewers, May is also being attacked by mannequins and when Envy manages to merge with them, he is able to return to his regular form. As Olivier struggles against Sloth, Alexander rescues her and joins the fight. Al transmutes his legs off in order to help Heinkel, who then gives him the Philosopher's Stone that Kimblee previously discarded. Al uses it to restore his legs and face Pride and Kimblee.",
+		"number": 51,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942811.jpg",
+		"airDate": "2010-04-04T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-52",
+		"title": "Combined Strength",
+		"description": "Al begins using the Philosopher's Stone to battle against Kimblee and Pride. He manages to trap Pride once again, but is taken by surprise by Kimblee when he starts using his own stone. Meanwhile, as the Armstrong siblings start to gain the upper hand over Sloth, Sloth begins to use his true strength and reveals himself to be the fastest homunculus. Although Al gets apprehended by Pride again, Heinkel, having been healed by Marcoh, manages to deliver a fatal blow to Kimblee. Yoki arrives to rescue Al and the others and head towards Central, while Pride consumes Kimblee. As Alex manages to temporarily impale Sloth on a spike, both he and Olivier are attacked by Mannequin Soldiers. Meanwhile, May fends off both Envy and the Mannequin Soldiers, and Ed's group, overwhelmed by the soldiers, are joined by Roy and Riza.",
+		"number": 52,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942821.jpg",
+		"airDate": "2010-04-11T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-53",
+		"title": "Flame of Vengeance",
+		"description": "Mustang's team has Mrs. Bradley interviewed on live radio. With the power of radio and the help of the Ishbalans, word of a supposed coup d'état spreads, giving the rebels support from the citizens, while Briggs launches an attack on Central HQ. Meanwhile, Roy manages to destroy the Mannequin Soldiers surrounding Ed's party by burning them to ash. May lures Envy into a trap in the upper levels, causing them both to fall below into the chamber with Ed's group. Envy reveals that he was the one who killed Hughes, infuriating Roy who seeks to get revenge. Ed's group moves onward as Roy fights Envy, but Ed gets concerned that Roy may end up being consumed by his own hatred. Envy is no match for Roy and flees for his life. Upon seeing Riza heading towards Roy for backup, Envy gets an idea. Roy later encounters Riza, who aims a gun at his back.",
+		"number": 53,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942831.jpg",
+		"airDate": "2010-04-18T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-54",
+		"title": "Beyond the Inferno",
+		"description": "Riza sees through Envy's disguise as Roy and shoots him until the real Roy arrives and mercilessly incinerates the homunculus, reverting him back to his parasitic form. Before Roy can kill Envy, Ed, Riza, and Scar persuade him to let go of his anger and his need for revenge, for Amestris cannot be ruled by someone consumed with hatred. Envy becomes outraged by Roy's change of heart and rants about why everyone does not kill each other, trying to goad them into doing so by pointing out all of the terrible things they have done to each other. Ed determines that the reason Envy hates humans is because he is jealous of their capacity to continue living on, despite all the abuse they take. Humiliated and insulted by how Ed understands him, Envy commits suicide by tearing out and destroying his own Philosopher's Stone. Meanwhile, the Armstrong siblings begin to gain the upper hand in their battle against Sloth; Izumi arrives in Central, allied with Briggs soldiers, to participate in the coup; and Hohenheim confronts Father alone.",
+		"number": 54,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942841.jpg",
+		"airDate": "2010-04-25T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-55",
+		"title": "The Adults' Way of Life",
+		"description": "The Armstrong siblings' and the Central forces' battle against Sloth rages on until Izumi appears and effortlessly pummels the homunculus, who is tossed and impaled on a spike by Alex and Sig, finally killing him. The Armstrongs and Curtises continue on around Central Command to wipe out the remaining mannequin soldiers, with Hohenheim and Father battling underground. With a majority of Central command captured, the Briggs forces are seemingly victorious until when King Bradley suddenly reappears, alive and unharmed, to overturn the coup and retake control of the country.",
+		"number": 55,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942851.jpg",
+		"airDate": "2010-05-02T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-56",
+		"title": "The Return of the Führer",
+		"description": "Hohenheim, who had managed to converse with all the souls within his Philosopher's Stone, had infused the souls into Father's body to destroy it from the inside. However, Father shows his true form and is able to survive outside of his container. Meanwhile, Bradley begins his attack on Central HQ and single-handedly takes on the resisting forces, as well as destroying Buccaneer's arm. As he reaches the main gate, he finds himself against Greed, and Bradley reveals his hidden Ultimate Eye to fight him. Buccaneer allows himself to be stabbed in order to take away Bradley's sword, though Bradley soon arms himself with daggers. Meanwhile, Falman and the remaining Briggs soldiers try to fend off the Central army, and Fu later arrives to assist Greed in facing Bradley.",
+		"number": 56,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942861.jpg",
+		"airDate": "2010-05-09T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-57",
+		"title": "Eternal Leave",
+		"description": "Greed, unable to hurt Bradley, is pinned down during their fight, which forces Fu to fight Bradley alone. Fu attempts to perform a suicide attack to kill Bradley using explosives strapped to his chest, but Bradley defuses them and mortally wounds Fu. However, Buccaneer thrusts a sword through Fu's body before he falls and successfully stabs Bradley in the stomach, allowing Greed to further harm him, while Lan Fan arrives to witness her grandfather's death. Meanwhile, Ed's group encounters the doctor who created Bradley, and are pit against the numerous rejected Fuhrer candidates. The doctor then activates a transmutation circle, connected by the five research labs in Central, and absorbs Ed, Al, and Izumi.",
+		"number": 57,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942871.jpg",
+		"airDate": "2010-05-16T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-58",
+		"title": "Sacrifices",
+		"description": "Lin and Bradley's fight leaves them hanging over the side of the front gate, but Lin is saved by Lan Fan while Bradley falls into the moat below. As Buccaneer lays dying, he gives his final request to Lin to defend the front gate. Already distraught by Fu's death, Lin complies and draws upon the full power of Greed's Ultimate Shield to annihilate all Central forces before the gate. Underground, Ed, Izumi, and the unconscious Al reappear in Father's lair to find Hohenheim subdued. With four of the five human sacrifices, Father is left to wait for the fifth. The gold-toothed doctor in the levels above decides to use Roy as the candidate for the fifth sacrifice, has Riza's throat slit and tells Roy that he will only save her if he performs human transmutation.",
+		"number": 58,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942881.jpg",
+		"airDate": "2010-05-23T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-59",
+		"title": "Lost Light",
+		"description": "Following Riza's eye signal, Roy refuses to perform a human transmutation. May arrives with Zampano, Jerso, and Darius and heals Riza's wound. However, Bradley and Pride also appear and force Roy to perform a human transmutation anyway, using the gold-toothed doctor as a sacrifice. Roy passes through the Gate of Truth and reappears in Father's lair with Pride, Father, and the other sacrifices, and finds he has lost his eyesight in exchange. Scar battles Bradley above, and May crashes through the ceiling of Father's lair to find Al unconscious. Al stands before the Gate to find his body, but despairs that he will be unable to use it to fight alongside the others because it is so frail. He promises to return for his body and goes through the Gate, regaining consciousness in Father's lair and completing Father's count for the five sacrifices.",
+		"number": 59,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942891.jpg",
+		"airDate": "2010-05-30T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-60",
+		"title": "Eye of Heaven, Gateway of Earth",
+		"description": "Ed and Al battle against Pride while May tries to take on Father. Meanwhile, Ishbalans make plans within the city. In his fight against Bradley, Scar reveals a reconstruction transmutation circle from his brother's research now tattooed on his other arm. Just as Ed's group start to gain the upper hand and despite the arrival of Greed, Father grabs the four sacrifices and uses them, along with Hohenheim, for his transmutation circle, absorbing all the souls in Amestris. This opens a giant gate flat on the surface of the Earth from which rises a giant Father. Then another gate opens in the sky with a giant eye looking out which Father calls \"God\" and pulls towards him.",
+		"number": 60,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942901.jpg",
+		"airDate": "2010-06-06T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-61",
+		"title": "He Who Would Swallow God",
+		"description": "Everyone closest to the center of Father's nationwide transmutation circle, including Ed's group, survives to discover that Father has used the souls of over fifty million Amestrians to suppress God within a new, youthful body. Father neutralizes everyone's alchemy, but, before he can annihilate them, Hohenheim reveals his countermeasure: he had spent years traveling the country, placing fragments of his own Philosopher's Stone into the earth to use as foundation for returning the Amestrian souls to their bodies. The stone fragments are activated by the eclipse's umbra, and the souls are ripped from Father's body back into their original bodies, which weakens Father to the point of barely being able to suppress God anymore. The eclipse then lifts, blinding Bradley with sunlight and allowing Scar to kill him. Scar activates the nationwide alkahestry circle his brother and fellow Ishbalans had been preparing, which restores everyone else's alchemy at their greatest potential. Facing the full strength of his opponents' attacks in his unstable body, Father retreats aboveground to find more souls and replenish his stone supply. Ed remains behind to fight Pride while everyone else chases Father. Pride tries to steal Ed's body to replace his own unstable one, but Kimblee's soul reappears within him and taunts him while Ed enters his body and destroys it, reverting him to the form of a small fetus-like creature. Ed spares Pride's life and leaves to join his friends.",
+		"number": 61,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942911.jpg",
+		"airDate": "2010-06-13T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-62",
+		"title": "A Fierce Counterattack",
+		"description": "Hohenheim and the others stop Father from making Philosopher's stones, but as Ed rejoins them, Father spawns humans resembling the people of Xerxes before attacking with a powerful blast which takes out half the headquarters. They barely manage to survive the blast, but Al and Hohenheim take some heavy damage protecting the others. Before Father can kill Ed and Izumi, the Briggs soldiers, along with several of Ed's allies, join up to attack Father and use up his stone supply. Father lets down his barrier temporarily to try and absorb Greed's stone, giving Ed, Alex and Izumi the opportunity to damage him to the point of defending himself manually. As Father starts to lose control, he creates a blast which traps Ed's arm whilst his automail arm is destroyed. With Ed in danger, Al convinces May to help him perform a transmutation, trading his soul for the return of Ed's right arm. Al rejoins with his body on the other side and with his arm returned, Ed frees himself to unleash a series of blows on Father.",
+		"number": 62,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942921.jpg",
+		"airDate": "2010-06-20T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-63",
+		"title": "The Other Side of the Gateway",
+		"description": "While being effortlessly pummeled, Father desperately tries to absorb Greed's Philosopher's Stone. Greed decides to part from Lin's body, and uses his carbonization ability to turn Father's body into weak charcoal. Father extinguishes Greed's soul, killing him, but Ed punches through Father's chest, releasing all the souls of the people of Xerxes and sending Father to the Gate of Truth where he is trapped for eternity. In the wake of Father's defeat, everyone mourns Al's sacrifice. Ed rejects using a Philosopher's Stone to bring him back to life, even after Hohenheim offers his final life as an apology for the pain Ed and Al were forced through. Ed ultimately decides to perform a human transmutation on himself, sacrificing his own Gate and his ability to use alchemy with it. As a reward for discovering he doesn't need to perform alchemy, Ed is allowed to bring Al back with him in his original body. As everyone recuperates from the battle, Hohenheim returns to Resembool and dies peacefully before Trisha's grave.",
+		"number": 63,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/1942931.jpg",
+		"airDate": "2010-06-27T00:00:00.000Z"
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-episode-64",
+		"title": "Journey's End",
+		"description": "Deciding to help sort out Ishbalan policies, Roy is approached by Knox and Marcoh, who offer him a Philosopher's Stone to get his eyesight back, with Roy insisting it be used to fix Havoc's legs first. Olivier secretly rescues Scar so that he can assist Miles in rebuilding Ishbal. Having previously seen off Lin, who had promised to take care of May's clan among others once he becomes emperor, Ed and Al return to Risembool where an overjoyed Winry awaits them. Two years later, Grumman, who had become Fuhrer, visits Bradley's wife, who had been raising up Selim to be a compassionate child. Al decides to travel with Jerso and Zampano to Xing and other eastern countries to learn about alkahestry, whilst Ed learns what he can in the west, hoping to pool their research together. As Ed heads off, he and Winry finally express their love to each other using confusing terminology.",
+		"number": 64,
+		"image": "https://artworks.thetvdb.com/banners/episodes/85249/2351281.jpg",
+		"airDate": "2010-07-04T00:00:00.000Z"
+	}]
+}
