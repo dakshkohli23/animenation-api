@@ -588,18 +588,6 @@
             "genres": ["Mystery", "Psychological", "Supernatural", "Thriller"]
         },
         {
-            "animeId": "fullmetal-alchemist",
-            "episodeId": "fullmetal-alchemist-episode-1",
-            "name": "Fullmetal Alchemist",
-            "jname": "Hagane no Renkinjutsushi",
-            "episodeNum": "51",
-            "subOrDub": "dub",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png",
-            "type": "tv",
-            "episodeUrl": "anime/fullmetal-alchemist",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy"]
-        },
-        {
             "animeId": "kimetsu-no-yaiba-mugen-resshahen",
             "episodeId": "kimetsu-no-yaiba-mugen-resshahen-episode-1",
             "name": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
@@ -718,6 +706,30 @@
             "type": "special",
             "episodeUrl": "anime/dr-stone-stone-wars-eve-of-the-battle-special-feature",
             "genres": ["Adventure", "Sci-Fi", "Shounen", "Suspense"]
+        },
+        {
+            "animeId": "fullmetal-alchemist",
+            "episodeId": "fullmetal-alchemist-episode-1",
+            "name": "Fullmetal Alchemist",
+            "jname": "Hagane no Renkinjutsushi",
+            "episodeNum": "51",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png",
+            "type": "tv",
+            "episodeUrl": "anime/fullmetal-alchemist",
+            "genres": ["Action", "Adventure", "Drama", "Fantasy"]
+        },
+        {
+            "animeId": "fullmetal-alchemist-brotherhood",
+            "episodeId": "fullmetal-alchemist-brotherhood-episode-1",
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "jname": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+            "episodeNum": "64",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/fullmetal-alchemist-brotherhood",
+            "genres": ["Action", "Adventure", "Drama", "Fantasy"]
         },
         {
             "animeId": "haikyuu-to-the-top-2",
