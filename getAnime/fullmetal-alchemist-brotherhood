@@ -36,7 +36,38 @@
 	"studios": ["bones"],
 	"subOrDub": "dub",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 121,
+		"malId": 121,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi",
+			"english": "Fullmetal Alchemist",
+			"native": "鋼の錬金術師"
+		},
+		"status": "Completed",
+		"episodes": 51,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/121-t5K7c8WRuPWl.jpg",
+		"rating": 78,
+		"type": "TV",
+		"animeurl": "fullmetal-alchemist"
+	},
+	{
+		"id": 5114,
+		"malId": 5114,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+			"english": "Fullmetal Alchemist: Brotherhood",
+			"native": "鋼の錬金術師 FULLMETAL ALCHEMIST"
+		},
+		"status": "Completed",
+		"episodes": 64,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5114-q0V5URebphSG.jpg",
+		"rating": 90,
+		"type": "TV",
+		"animeurl": "fullmetal-alchemist-brotherhood"
+	}],
 	"characters": [{
 		"id": 12,
 		"role": "MAIN",
