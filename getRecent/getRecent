@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "fullmetal-alchemist-brotherhood",
+		"episodeId": "fullmetal-alchemist-brotherhood-episode-1",
+		"name": "Fullmetal Alchemist: Brotherhood",
+		"jname": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+		"episodeNum": "64",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
+		"episodeUrl": "../anime/fullmetal-alchemist-brotherhood"
+	},
+	{
 		"animeId": "fullmetal-alchemist",
 		"episodeId": "fullmetal-alchemist-episode-1",
 		"name": "Fullmetal Alchemist",
