@@ -1,0 +1,74 @@
+[
+        {
+            "server1": "7cwdja6gwfbt",
+            "animeNameWithEP": "Fullmetal Alchemist: Premium OVA Collection Episode 1",
+            "ep_num": "1",
+            "anime_info": "fullmetal-alchemist-premium-ova-collection",
+            "movie_id": "908",
+            "alias": "fullmetal-alchemist-premium-ova-collection",
+            "nextEpText": "Fullmetal Alchemist: Premium OVA Collection Episode 2 >>",
+            "nextEpLink": "/fullmetal-alchemist-premium-ova-collection-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "otx36rwufri4",
+            "animeNameWithEP": "Fullmetal Alchemist: Premium OVA Collection Episode 2",
+            "ep_num": "2",
+            "anime_info": "fullmetal-alchemist-premium-ova-collection",
+            "movie_id": "908",
+            "alias": "fullmetal-alchemist-premium-ova-collection",
+            "nextEpText": "Fullmetal Alchemist: Premium OVA Collection Episode 3 >>",
+            "nextEpLink": "/fullmetal-alchemist-premium-ova-collection-episode-3",
+            "prevEpText": "<< Fullmetal Alchemist: Premium OVA Collection Episode 1",
+            "prevEpLink": "/fullmetal-alchemist-premium-ova-collection-episode-1"
+        },
+        {
+            "server1": "mm4vw9ecro5x",
+            "animeNameWithEP": "Fullmetal Alchemist: Premium OVA Collection Episode 3",
+            "ep_num": "3",
+            "anime_info": "fullmetal-alchemist-premium-ova-collection",
+            "movie_id": "908",
+            "alias": "fullmetal-alchemist-premium-ova-collection",
+            "nextEpText": "Fullmetal Alchemist: Premium OVA Collection Episode 4 >>",
+            "nextEpLink": "/fullmetal-alchemist-premium-ova-collection-episode-4",
+            "prevEpText": "<< Fullmetal Alchemist: Premium OVA Collection Episode 2",
+            "prevEpLink": "/fullmetal-alchemist-premium-ova-collection-episode-2"
+        },
+        {
+            "server1": "s6o3e8ev3vpr",
+            "animeNameWithEP": "Fullmetal Alchemist: Premium OVA Collection Episode 4",
+            "ep_num": "4",
+            "anime_info": "fullmetal-alchemist-premium-ova-collection",
+            "movie_id": "908",
+            "alias": "fullmetal-alchemist-premium-ova-collection",
+            "nextEpText": "Fullmetal Alchemist: Premium OVA Collection Episode 5 >>",
+            "nextEpLink": "/fullmetal-alchemist-premium-ova-collection-episode-5",
+            "prevEpText": "<< Fullmetal Alchemist: Premium OVA Collection Episode 3",
+            "prevEpLink": "/fullmetal-alchemist-premium-ova-collection-episode-3"
+        },
+        {
+            "server1": "cmjz1zitddmo",
+            "animeNameWithEP": "Fullmetal Alchemist: Premium OVA Collection Episode 5",
+            "ep_num": "5",
+            "anime_info": "fullmetal-alchemist-premium-ova-collection",
+            "movie_id": "908",
+            "alias": "fullmetal-alchemist-premium-ova-collection",
+            "nextEpText": "Fullmetal Alchemist: Premium OVA Collection Episode 6 >>",
+            "nextEpLink": "/fullmetal-alchemist-premium-ova-collection-episode-6",
+            "prevEpText": "<< Fullmetal Alchemist: Premium OVA Collection Episode 4",
+            "prevEpLink": "/fullmetal-alchemist-premium-ova-collection-episode-4"
+        },
+        {
+            "server1": "dzi5q7q4gutx",
+            "animeNameWithEP": "Fullmetal Alchemist: Premium OVA Collection Episode 6",
+            "ep_num": "6",
+            "anime_info": "fullmetal-alchemist-premium-ova-collection",
+            "movie_id": "908",
+            "alias": "fullmetal-alchemist-premium-ova-collection",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Fullmetal Alchemist: Premium OVA Collection Episode 5",
+            "prevEpLink": "/fullmetal-alchemist-premium-ova-collection-episode-5"
+        }
+    ]
