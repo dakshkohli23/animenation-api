@@ -36,7 +36,134 @@
 	"studios": ["bones"],
 	"subOrDub": "dub",
 	"type": "MOVIE",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 121,
+		"malId": 121,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi",
+			"english": "Fullmetal Alchemist",
+			"native": "鋼の錬金術師"
+		},
+		"status": "Completed",
+		"episodes": 51,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/121-t5K7c8WRuPWl.jpg",
+		"rating": 78,
+		"type": "TV",
+		"animeurl": "fullmetal-alchemist"
+	},
+	{
+		"id": 5114,
+		"malId": 5114,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+			"english": "Fullmetal Alchemist: Brotherhood",
+			"native": "鋼の錬金術師 FULLMETAL ALCHEMIST"
+		},
+		"status": "Completed",
+		"episodes": 64,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5114-q0V5URebphSG.jpg",
+		"rating": 90,
+		"type": "TV",
+		"animeurl": "fullmetal-alchemist-brotherhood"
+	},
+	{
+		"id": 430,
+		"malId": 430,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: Shamballa wo Yuku Mono",
+			"english": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
+			"native": "劇場版 鋼の錬金術師 シャンバラを征く者"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx430-Fx7lVxpcwArH.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/430-G07rfvPsD2Zg.jpg",
+		"rating": 70,
+		"type": "MOVIE",
+		"animeurl": "fullmetal-alchemist-the-conqueror-of-shamballa"
+	},
+	{
+		"id": 9135,
+		"malId": 9135,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
+			"english": "Fullmetal Alchemist: The Sacred Star of Milos",
+			"native": "劇場版 鋼の錬金術師 嘆きの丘の聖なる星"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9135-nPvbvO7QCx7L.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9135-Ffg7j7Rd641G.jpg",
+		"rating": 69,
+		"type": "MOVIE",
+		"animeurl": "fullmetal-alchemist-the-sacred-star-of-milos"
+	},
+	{
+		"id": 664,
+		"malId": 664,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: Reflections",
+			"english": "Fullmetal Alchemist: Reflections",
+			"native": "鋼の錬金術師 Reflections"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/664.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/664.jpg",
+		"rating": 68,
+		"type": "SPECIAL",
+		"animeurl": "fullmetal-alchemist-reflections"
+	},
+	{
+		"id": 6421,
+		"malId": 6421,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST Mihousou Episode",
+			"english": "Fullmetal Alchemist: Brotherhood OVA Collection",
+			"native": "鋼の錬金術師 FULLMETAL ALCHEMIST 未放送エピソード"
+		},
+		"status": "Completed",
+		"episodes": 4,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6421.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6421-yqShxVmGNtd0.jpg",
+		"rating": 77,
+		"type": "OVA",
+		"animeurl": "fullmetal-alchemist-brotherhood-ova-collection"
+	},
+	{
+		"id": 908,
+		"malId": 908,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: PREMIUM COLLECTION",
+			"english": "Fullmetal Alchemist: Premium OVA Collection",
+			"native": "鋼の錬金術師 PREMIUM COLLECTION"
+		},
+		"status": "Completed",
+		"episodes": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/908.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/908.jpg",
+		"rating": 68,
+		"type": "OVA",
+		"animeurl": "fullmetal-alchemist-premium-ova-collection"
+	},
+	{
+		"id": 7902,
+		"malId": 7902,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST - Arakawa Hiromu Kaki Oroshi 4-koma Gekijou",
+			"english": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
+			"native": "鋼の錬金術師 FULLMETAL ALCHEMIST 荒川弘 描き下ろし4コマ劇場"
+		},
+		"status": "Completed",
+		"episodes": 16,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"rating": 69,
+		"type": "SPECIAL",
+		"animeurl": "fullmetal-alchemist-brotherhood-4-koma-theater"
+	}],
 	"characters": [{
 		"id": 40943,
 		"role": "MAIN",
