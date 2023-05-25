@@ -1,0 +1,762 @@
+{
+	"id": "6421",
+	"title": {
+		"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST Mihousou Episode",
+		"english": "Fullmetal Alchemist: Brotherhood OVA Collection",
+		"native": "鋼の錬金術師 FULLMETAL ALCHEMIST 未放送エピソード"
+	},
+	"malId": 6421,
+	"synonyms": ["Moumoku no Renkinjutsushi", "The Blind Alchemist", "Shinpuru na Hitobito", "Simple People"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6421.jpg",
+	"popularity": 22006,
+	"color": "#bbf1ff",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6421-yqShxVmGNtd0.jpg",
+	"description": "Amazing secrets and startling facts are exposed for the first time in the Fullmetal Alchemist: Brotherhood OVA Collection, a new assortment of stories set in never-before-seen corners of the FMA universe. Join Ed and Al as they chase rumors of successful human transmutation into a web of shocking family drama and lies. Sneak a glance at hidden sides of Winry and Hawkeye's personalities. Survive the frigid north with a young Izumi Curtis as she fights to gain a deeper understanding of alchemy. Explore the legendary friendship shared by Mustang and Hughes and watch them grow from military school rivals into hardened brothers transformed by the horrors of the Ishvalan War. You thought you knew the whole story. You thought all the tales were told. The Fullmetal Alchemist: Brotherhood OVA Collection offers proof: You were wrong.<br>\n<br>\n(Source: FUNimation)<br>\n<br>\n<b>1. The Blind Alchemist (盲目の錬金術師, Moumoku no Renkinjutsushi)</b><br>\nBased on a side story of the Fullmetal Alchemist manga published in the Fullmetal Alchemist Perfect Guidebook (2003). It's about a blind alchemist named Jude, who serves the Humbergang family. He once violated the taboo of Alchemy.<br>\n<br>\n<b>2. Simple People (シンプルな人々, Simple na Hitobito)</b><br>\nA story about Riza (why she let her hair grow longer) and Winry (why she had her ears pierced and how she got her earrings).<br>\n<br>\n<b>3. The Tale of Teacher (師匠物語, Sensei Monogatari)</b><br>\nBased on a side story of the Fullmetal Alchemist manga, the third OVA is about Edward and Alphonse's teacher, Izumi Curtis. The story is compiled of two parts. The first part shows how Izumi survived in Mt. Briggs to become an apprentice of a renowned alchemist. The second part shows how Izumi and Sig met and their love at first sight.<br>\n<br>\n<b>4. Yet Another Man's Battlefield (それもまた彼の戦場, Sore mo mata Kare no Senjou)</b><br>\nThe story centres around Roy, aged 18, in a military boot camp, how he met an Ishbalan recruit named Heathcliffe Arbor, how he became a friendly rival to Hughes.",
+	"status": "Completed",
+	"releaseDate": 2009,
+	"startDate": {
+		"year": 2009,
+		"month": 8,
+		"day": 26
+	},
+	"endDate": {
+		"year": 2010,
+		"month": 8,
+		"day": 25
+	},
+	"totalEpisodes": 4,
+	"currentEpisode": 4,
+	"rating": 77,
+	"duration": 15,
+	"genres": ["Adventure", "Drama", "Fantasy"],
+	"season": "SUMMER",
+	"studios": ["bones"],
+	"subOrDub": "sub",
+	"type": "OVA",
+	"recommendations": [{
+		"id": 11061,
+		"malId": 11061,
+		"title": {
+			"romaji": "HUNTER×HUNTER (2011)",
+			"english": "Hunter x Hunter (2011)",
+			"native": "HUNTER×HUNTER (2011)",
+			"userPreferred": "HUNTER×HUNTER (2011)"
+		},
+		"status": "Completed",
+		"episodes": 148,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11061-8WkkTZ6duKpq.jpg",
+		"rating": 89,
+		"type": "TV"
+	}, {
+		"id": 18397,
+		"malId": 18397,
+		"title": {
+			"romaji": "Shingeki no Kyojin OVA",
+			"english": "Attack on Titan OVA",
+			"native": "進撃の巨人 OVA",
+			"userPreferred": "Shingeki no Kyojin OVA"
+		},
+		"status": "Completed",
+		"episodes": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18397-AnpwhLkSjYL1.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/18397-rG4Vpg67Kr0j.jpg",
+		"rating": 76,
+		"type": "OVA"
+	}],
+	"characters": [{
+		"id": 12,
+		"role": "MAIN",
+		"name": {
+			"first": "Alphonse",
+			"last": "Elric",
+			"full": "Alphonse Elric",
+			"native": "アルフォンス・エルリック",
+			"userPreferred": "Alphonse Elric"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg",
+		"voiceActors": [{
+			"id": 95008,
+			"language": "Japanese",
+			"name": {
+				"first": "Rie",
+				"last": "Kugimiya",
+				"full": "Rie Kugimiya",
+				"native": "釘宮理恵",
+				"userPreferred": "Rie Kugimiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png"
+		}, {
+			"id": 103722,
+			"language": "English",
+			"name": {
+				"first": "Maxey",
+				"last": "Whitehead",
+				"full": "Maxey Whitehead",
+				"native": null,
+				"userPreferred": "Maxey Whitehead"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103722-4IYtnwwabhYI.jpg"
+		}]
+	}, {
+		"id": 11,
+		"role": "MAIN",
+		"name": {
+			"first": "Edward",
+			"last": "Elric",
+			"full": "Edward Elric",
+			"native": "エドワード・エルリック",
+			"userPreferred": "Edward Elric"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg",
+		"voiceActors": [{
+			"id": 95082,
+			"language": "Japanese",
+			"name": {
+				"first": "Romi",
+				"last": "Park",
+				"full": "Romi Park",
+				"native": "朴璐美",
+				"userPreferred": "Romi Park"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95082-pNGbnYv4cHAK.png"
+		}, {
+			"id": 95043,
+			"language": "English",
+			"name": {
+				"first": "Vic",
+				"last": "Mignogna",
+				"full": "Vic Mignogna",
+				"native": "Victor Joseph Mignogna",
+				"userPreferred": "Vic Mignogna"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95043-cgQunZolvkPW.png"
+		}]
+	}, {
+		"id": 67,
+		"role": "MAIN",
+		"name": {
+			"first": "Izumi",
+			"last": "Curtis",
+			"full": "Izumi Curtis",
+			"native": "イズミ･カーティス",
+			"userPreferred": "Izumi Curtis"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b67-ggB3aC6DzQqB.png",
+		"voiceActors": [{
+			"id": 96664,
+			"language": "Japanese",
+			"name": {
+				"first": "Shouko",
+				"last": "Tsuda",
+				"full": "Shouko Tsuda",
+				"native": "津田匠子",
+				"userPreferred": "Shouko Tsuda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96664-ct3IoFBmnyoJ.jpg"
+		}, {
+			"id": 95509,
+			"language": "English",
+			"name": {
+				"first": "Christine",
+				"last": "Auten",
+				"full": "Christine Auten",
+				"native": null,
+				"userPreferred": "Christine Auten"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95509-fSwGUErqAkmA.jpg"
+		}]
+	}, {
+		"id": 17103,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Rebecca",
+			"last": "Catalina",
+			"full": "Rebecca Catalina",
+			"native": "レベッカ・カタリナ",
+			"userPreferred": "Rebecca Catalina"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/17103.jpg",
+		"voiceActors": [{
+			"id": 95256,
+			"language": "Japanese",
+			"name": {
+				"first": "Naomi",
+				"last": "Shindou",
+				"full": "Naomi Shindou",
+				"native": "進藤尚美",
+				"userPreferred": "Naomi Shindou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95256-4emdBHqQ5S7m.png"
+		}, {
+			"id": 95891,
+			"language": "English",
+			"name": {
+				"first": "Jamie",
+				"last": "Marchi",
+				"full": "Jamie Marchi",
+				"native": null,
+				"userPreferred": "Jamie Marchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95891-QG8dyefPjUIz.jpg"
+		}]
+	}, {
+		"id": 50123,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Charlie",
+			"last": null,
+			"full": "Charlie",
+			"native": "チャーリー",
+			"userPreferred": "Charlie"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n50123-2kInS5rwOuM7.png",
+		"voiceActors": [{
+			"id": 100928,
+			"language": "Japanese",
+			"name": {
+				"first": "Rintarou",
+				"last": "Nishi",
+				"full": "Rintarou Nishi",
+				"native": "西凜太朗",
+				"userPreferred": "Rintarou Nishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100928-OfFb5f55VSFB.png"
+		}, {
+			"id": 104777,
+			"language": "English",
+			"name": {
+				"first": "David",
+				"last": "Wald",
+				"full": "David Wald",
+				"native": null,
+				"userPreferred": "David Wald"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9777.jpg"
+		}]
+	}, {
+		"id": 68,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Roy",
+			"last": "Mustang",
+			"full": "Roy Mustang",
+			"native": "ロイ・マスタング",
+			"userPreferred": "Roy Mustang"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b68-moBLY2WO2am3.png",
+		"voiceActors": [{
+			"id": 95022,
+			"language": "Japanese",
+			"name": {
+				"first": "Shinichirou",
+				"last": "Miki",
+				"full": "Shinichirou Miki",
+				"native": "三木眞一郎",
+				"userPreferred": "Shinichirou Miki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png"
+		}, {
+			"id": 95026,
+			"language": "English",
+			"name": {
+				"first": "Travis",
+				"last": "Willingham",
+				"full": "Travis Willingham",
+				"native": null,
+				"userPreferred": "Travis Willingham"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95026-8rP8eX7zsekz.jpg"
+		}]
+	}, {
+		"id": 10954,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gracia",
+			"last": "Hughes",
+			"full": "Gracia Hughes",
+			"native": "グレイシア・ヒューズ",
+			"userPreferred": "Gracia Hughes"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b10954-lbg0Qqj7EPOR.png",
+		"voiceActors": [{
+			"id": 95471,
+			"language": "Japanese",
+			"name": {
+				"first": "Tomoe",
+				"last": "Hanba",
+				"full": "Tomoe Hanba",
+				"native": "半場友恵",
+				"userPreferred": "Tomoe Hanba"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95471-QFtcXqtRwhlS.png"
+		}, {
+			"id": 105292,
+			"language": "English",
+			"name": {
+				"first": "Anastasia",
+				"last": "Muñoz",
+				"full": "Anastasia Muñoz",
+				"native": null,
+				"userPreferred": "Anastasia Muñoz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/10292.jpg"
+		}]
+	}, {
+		"id": 46553,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Heathcliffe",
+			"last": "Arbor",
+			"full": "Heathcliffe Arbor",
+			"native": "ヒースクリフ・アーブ",
+			"userPreferred": "Heathcliffe Arbor"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/46553.jpg",
+		"voiceActors": [{
+			"id": 95801,
+			"language": "Japanese",
+			"name": {
+				"first": "Yasuyuki",
+				"last": "Kase",
+				"full": "Yasuyuki Kase",
+				"native": "加瀬康之",
+				"userPreferred": "Yasuyuki Kase"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95801-Jno6Y2OawOII.png"
+		}, {
+			"id": 106438,
+			"language": "English",
+			"name": {
+				"first": "Charles",
+				"last": "Baker",
+				"full": "Charles Baker",
+				"native": null,
+				"userPreferred": "Charles Baker"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/11438.jpg"
+		}]
+	}, {
+		"id": 61557,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Okugata",
+			"last": "",
+			"full": "Okugata",
+			"native": "奥方",
+			"userPreferred": "Okugata"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b61557-eMXv2GzUIQIJ.png",
+		"voiceActors": [{
+			"id": 104032,
+			"language": "Japanese",
+			"name": {
+				"first": "Kyouko",
+				"last": "Terase",
+				"full": "Kyouko Terase",
+				"native": "寺瀬今日子",
+				"userPreferred": "Kyouko Terase"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104032-T2WQPMRn19IB.png"
+		}, {
+			"id": 95476,
+			"language": "English",
+			"name": {
+				"first": "Jennifer",
+				"last": "Seman",
+				"full": "Jennifer Seman",
+				"native": null,
+				"userPreferred": "Jennifer Seman"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/476.jpg"
+		}]
+	}, {
+		"id": 63,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Winry",
+			"last": "Rockbell",
+			"full": "Winry Rockbell",
+			"native": "ウィンリィ・ロックベル",
+			"userPreferred": "Winry Rockbell"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/63-xloedtYxiJ2E.jpg",
+		"voiceActors": [{
+			"id": 95046,
+			"language": "Japanese",
+			"name": {
+				"first": "Megumi",
+				"last": "Takamoto",
+				"full": "Megumi Takamoto",
+				"native": "高本めぐみ",
+				"userPreferred": "Megumi Takamoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95046-3vW0I3zKOpfW.jpg"
+		}, {
+			"id": 95313,
+			"language": "English",
+			"name": {
+				"first": "Caitlin",
+				"last": "Glass",
+				"full": "Caitlin Glass",
+				"native": null,
+				"userPreferred": "Caitlin Glass"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95313-zK3WpeNtACvm.jpg"
+		}]
+	}, {
+		"id": 61555,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Rosalie",
+			"last": null,
+			"full": "Rosalie",
+			"native": "ロザリー",
+			"userPreferred": "Rosalie"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b61555-5JVimyDPAtmp.png",
+		"voiceActors": [{
+			"id": 95054,
+			"language": "Japanese",
+			"name": {
+				"first": "Aya",
+				"last": "Endou",
+				"full": "Aya Endou",
+				"native": "遠藤綾",
+				"userPreferred": "Aya Endou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png"
+		}, {
+			"id": 110441,
+			"language": "English",
+			"name": {
+				"first": "Lara",
+				"last": "Woodhull",
+				"full": "Lara Woodhull",
+				"native": null,
+				"userPreferred": "Lara Woodhull"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/15441.jpg"
+		}]
+	}, {
+		"id": 52739,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Damiano",
+			"last": null,
+			"full": "Damiano",
+			"native": "ダミアノ",
+			"userPreferred": "Damiano"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n52739-CVU3CZq0UBx7.png",
+		"voiceActors": [{
+			"id": 111989,
+			"language": "Japanese",
+			"name": {
+				"first": "Masayuki",
+				"last": "Shouji",
+				"full": "Masayuki Shouji",
+				"native": "庄司将之",
+				"userPreferred": "Masayuki Shouji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/16989.jpg"
+		}, {
+			"id": 96047,
+			"language": "English",
+			"name": {
+				"first": "Jessie James",
+				"last": "Grelle",
+				"full": "Jessie James Grelle",
+				"native": null,
+				"userPreferred": "Jessie James Grelle"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96047-E9nBWn3YL0Tn.jpg"
+		}]
+	}, {
+		"id": 69,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Maes",
+			"last": "Hughes",
+			"full": "Maes Hughes",
+			"native": "マース･ヒューズ",
+			"userPreferred": "Maes Hughes"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b69-MRetSG8Qevvu.png",
+		"voiceActors": [{
+			"id": 95063,
+			"language": "Japanese",
+			"name": {
+				"first": "Keiji",
+				"last": "Fujiwara",
+				"full": "Keiji Fujiwara",
+				"native": "藤原啓治",
+				"userPreferred": "Keiji Fujiwara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg"
+		}, {
+			"id": 95360,
+			"language": "English",
+			"name": {
+				"first": "Sonny",
+				"last": "Strait",
+				"full": "Sonny Strait",
+				"native": null,
+				"userPreferred": "Sonny Strait"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/360.jpg"
+		}]
+	}, {
+		"id": 62499,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Meissner",
+			"last": null,
+			"full": "Meissner",
+			"native": "マイスナー",
+			"userPreferred": "Meissner"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b62499-FGy1RdNesMnF.png",
+		"voiceActors": [{
+			"id": 96260,
+			"language": "Japanese",
+			"name": {
+				"first": "Takashi",
+				"last": "Nagasako",
+				"full": "Takashi Nagasako",
+				"native": "長嶝高士",
+				"userPreferred": "Takashi Nagasako"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96260-IhjrEBKbw8aN.png"
+		}]
+	}, {
+		"id": 30292,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Jude",
+			"last": null,
+			"full": "Jude",
+			"native": "ジュドウ",
+			"userPreferred": "Jude"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b30292-zGpA5xZjza84.png",
+		"voiceActors": [{
+			"id": 95137,
+			"language": "Japanese",
+			"name": {
+				"first": "Shou",
+				"last": "Hayami",
+				"full": "Shou Hayami",
+				"native": "速水奨",
+				"userPreferred": "Shou Hayami"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95137-2Q5l3Br9G7sk.png"
+		}, {
+			"id": 101562,
+			"language": "English",
+			"name": {
+				"first": "Christopher",
+				"last": "Smith",
+				"full": "Christopher Smith",
+				"native": null,
+				"userPreferred": "Christopher Smith"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/6562.jpg"
+		}]
+	}, {
+		"id": 10972,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sig",
+			"last": "Curtis",
+			"full": "Sig Curtis",
+			"native": "シグ・カーティス",
+			"userPreferred": "Sig Curtis"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n10972-NNiWRRcdfOTO.png",
+		"voiceActors": [{
+			"id": 100439,
+			"language": "Japanese",
+			"name": {
+				"first": "Seiji",
+				"last": "Sasaki",
+				"full": "Seiji Sasaki",
+				"native": "佐々木誠二",
+				"userPreferred": "Seiji Sasaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100439-OBOGjSKuPxAB.jpg"
+		}, {
+			"id": 96512,
+			"language": "English",
+			"name": {
+				"first": "Bob",
+				"last": "Carter",
+				"full": "Bob Carter",
+				"native": null,
+				"userPreferred": "Bob Carter"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1512.jpg"
+		}]
+	}, {
+		"id": 70,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Riza",
+			"last": "Hawkeye",
+			"full": "Riza Hawkeye",
+			"native": "リザ・ホークアイ",
+			"userPreferred": "Riza Hawkeye"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png",
+		"voiceActors": [{
+			"id": 95152,
+			"language": "Japanese",
+			"name": {
+				"first": "Fumiko",
+				"last": "Orikasa",
+				"full": "Fumiko Orikasa",
+				"native": "折笠富美子",
+				"userPreferred": "Fumiko Orikasa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95152-X9K5ciNGSX35.jpg"
+		}, {
+			"id": 95472,
+			"language": "English",
+			"name": {
+				"first": "Colleen",
+				"last": "Clinkenbeard",
+				"full": "Colleen Clinkenbeard",
+				"native": null,
+				"userPreferred": "Colleen Clinkenbeard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95472-fznpewUW95vm.jpg"
+		}]
+	}, {
+		"id": 65,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Pinako",
+			"last": "Rockbell",
+			"full": "Pinako Rockbell",
+			"native": "ピナコ・ロックベル",
+			"userPreferred": "Pinako Rockbell"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/65.jpg",
+		"voiceActors": [{
+			"id": 96542,
+			"language": "Japanese",
+			"name": {
+				"first": "Miyoko",
+				"last": "Asou",
+				"full": "Miyoko Asou",
+				"native": "麻生美代子",
+				"userPreferred": "Miyoko Asou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96542-nUqFdwzo1FEX.jpg"
+		}, {
+			"id": 101912,
+			"language": "English",
+			"name": {
+				"first": "Juli",
+				"last": "Erickson",
+				"full": "Juli Erickson",
+				"native": null,
+				"userPreferred": "Juli Erickson"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101912-7FhZiYCA403v.jpg"
+		}]
+	}, {
+		"id": 36309,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Narrator",
+			"last": null,
+			"full": "Narrator",
+			"native": "ナレーター",
+			"userPreferred": "Narrator"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg",
+		"voiceActors": [{
+			"id": 96485,
+			"language": "Japanese",
+			"name": {
+				"first": "Iemasa",
+				"last": "Kayumi",
+				"full": "Iemasa Kayumi",
+				"native": "家弓家正",
+				"userPreferred": "Iemasa Kayumi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1485.jpg"
+		}, {
+			"id": 95872,
+			"language": "English",
+			"name": {
+				"first": "Kent",
+				"last": "Williams",
+				"full": "Kent Williams",
+				"native": null,
+				"userPreferred": "Kent Williams"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/872.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 5114,
+		"relationType": "PARENT",
+		"malId": 5114,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+			"english": "Fullmetal Alchemist: Brotherhood",
+			"native": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+			"userPreferred": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
+		},
+		"status": "Completed",
+		"episodes": 64,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
+		"color": "#e4c993",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5114-q0V5URebphSG.jpg",
+		"rating": 90
+	}],
+	"mappings": {
+		"mal": 6421,
+		"kitsu": 4555,
+		"anilist": 6421,
+		"anisearch": 6973,
+		"livechart": 3410,
+		"notify.moe": "X1Z65Fmig",
+		"anime-planet": "fullmetal-alchemist-brotherhood-specials"
+	},
+	"episodes": [{
+		"id": "fullmetal-alchemist-brotherhood-ova-collection-episode-1",
+		"title": null,
+		"description": null,
+		"number": 1,
+		"image": null,
+		"airDate": null
+	},{
+		"id": "fullmetal-alchemist-brotherhood-ova-collection-episode-2",
+		"title": null,
+		"description": null,
+		"number": 2,
+		"image": null,
+		"airDate": null
+	},{
+		"id": "fullmetal-alchemist-brotherhood-ova-collection-episode-3",
+		"title": null,
+		"description": null,
+		"number": 3,
+		"image": null,
+		"airDate": null
+	},{
+		"id": "fullmetal-alchemist-brotherhood-ova-collection-episode-4",
+		"title": null,
+		"description": null,
+		"number": 4,
+		"image": null,
+		"airDate": null
+	}]
+}
