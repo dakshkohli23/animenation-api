@@ -1,0 +1,954 @@
+{
+	"id": "7902",
+	"title": {
+		"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST - Arakawa Hiromu Kaki Oroshi 4-koma Gekijou",
+		"english": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
+		"native": "鋼の錬金術師 FULLMETAL ALCHEMIST 荒川弘 描き下ろし4コマ劇場"
+	},
+	"malId": 7902,
+	"synonyms": [],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+	"popularity": 9165,
+	"color": "#e4c9a1",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+	"description": "Short specials from the DVDs/BDs.",
+	"status": "Completed",
+	"releaseDate": 2009,
+	"startDate": {
+		"year": 2009,
+		"month": 8,
+		"day": 26
+	},
+	"endDate": {
+		"year": 2010,
+		"month": 11,
+		"day": 24
+	},
+	"totalEpisodes": 16,
+	"currentEpisode": 16,
+	"rating": 69,
+	"duration": 2,
+	"genres": ["Comedy", "Fantasy"],
+	"season": "SUMMER",
+	"studios": ["bones"],
+	"subOrDub": "dub",
+	"type": "SPECIAL",
+	"recommendations": [],
+	"characters": [{
+		"id": 12,
+		"role": "MAIN",
+		"name": {
+			"first": "Alphonse",
+			"last": "Elric",
+			"full": "Alphonse Elric",
+			"native": "アルフォンス・エルリック",
+			"userPreferred": "Alphonse Elric"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b12-tCKu8yK5kFL5.jpg",
+		"voiceActors": [{
+			"id": 95008,
+			"language": "Japanese",
+			"name": {
+				"first": "Rie",
+				"last": "Kugimiya",
+				"full": "Rie Kugimiya",
+				"native": "釘宮理恵",
+				"userPreferred": "Rie Kugimiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png"
+		}, {
+			"id": 103722,
+			"language": "English",
+			"name": {
+				"first": "Maxey",
+				"last": "Whitehead",
+				"full": "Maxey Whitehead",
+				"native": null,
+				"userPreferred": "Maxey Whitehead"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103722-4IYtnwwabhYI.jpg"
+		}]
+	}, {
+		"id": 11,
+		"role": "MAIN",
+		"name": {
+			"first": "Edward",
+			"last": "Elric",
+			"full": "Edward Elric",
+			"native": "エドワード・エルリック",
+			"userPreferred": "Edward Elric"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b11-TA5Nuk7EDUZG.jpg",
+		"voiceActors": [{
+			"id": 95082,
+			"language": "Japanese",
+			"name": {
+				"first": "Romi",
+				"last": "Park",
+				"full": "Romi Park",
+				"native": "朴璐美",
+				"userPreferred": "Romi Park"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95082-pNGbnYv4cHAK.png"
+		}, {
+			"id": 95043,
+			"language": "English",
+			"name": {
+				"first": "Vic",
+				"last": "Mignogna",
+				"full": "Vic Mignogna",
+				"native": "Victor Joseph Mignogna",
+				"userPreferred": "Vic Mignogna"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95043-cgQunZolvkPW.png"
+		}]
+	}, {
+		"id": 4685,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Jean",
+			"last": "Havoc",
+			"full": "Jean Havoc",
+			"native": "ジャン・ハボック",
+			"userPreferred": "Jean Havoc"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n4685-9uloq4hxlcTw.png",
+		"voiceActors": [{
+			"id": 95058,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuji",
+				"last": "Ueda",
+				"full": "Yuuji Ueda",
+				"native": "うえだゆうじ",
+				"userPreferred": "Yuuji Ueda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95058-fGnId7E4tgx3.jpg"
+		}, {
+			"id": 95202,
+			"language": "English",
+			"name": {
+				"first": "Mike",
+				"last": "McFarland",
+				"full": "Mike McFarland",
+				"native": null,
+				"userPreferred": "Mike McFarland"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/202.jpg"
+		}]
+	}, {
+		"id": 70,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Riza",
+			"last": "Hawkeye",
+			"full": "Riza Hawkeye",
+			"native": "リザ・ホークアイ",
+			"userPreferred": "Riza Hawkeye"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b70-k4bCgDspyOdI.png",
+		"voiceActors": [{
+			"id": 95152,
+			"language": "Japanese",
+			"name": {
+				"first": "Fumiko",
+				"last": "Orikasa",
+				"full": "Fumiko Orikasa",
+				"native": "折笠富美子",
+				"userPreferred": "Fumiko Orikasa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95152-X9K5ciNGSX35.jpg"
+		}, {
+			"id": 95472,
+			"language": "English",
+			"name": {
+				"first": "Colleen",
+				"last": "Clinkenbeard",
+				"full": "Colleen Clinkenbeard",
+				"native": null,
+				"userPreferred": "Colleen Clinkenbeard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95472-fznpewUW95vm.jpg"
+		}]
+	}, {
+		"id": 6590,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Solf J.",
+			"last": "Kimblee",
+			"full": "Solf J. Kimblee",
+			"native": "ゾルフ・J・キンブリー",
+			"userPreferred": "Solf J. Kimblee"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b6590-HIiNVX4XVFom.jpg",
+		"voiceActors": [{
+			"id": 95283,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroyuki",
+				"last": "Yoshino",
+				"full": "Hiroyuki Yoshino",
+				"native": "吉野裕行",
+				"userPreferred": "Hiroyuki Yoshino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95283-g76zV4YacFfm.jpg"
+		}, {
+			"id": 95312,
+			"language": "English",
+			"name": {
+				"first": "Eric",
+				"last": "Vale",
+				"full": "Eric Vale",
+				"native": null,
+				"userPreferred": "Eric Vale"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95312-lixmVhwE8AXE.png"
+		}]
+	}, {
+		"id": 651,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Envy",
+			"last": null,
+			"full": "Envy",
+			"native": "エンヴィー",
+			"userPreferred": "Envy"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b651-S4mzVOTMzej6.png",
+		"voiceActors": [{
+			"id": 95574,
+			"language": "English",
+			"name": {
+				"first": "Wendy",
+				"last": "Powell",
+				"full": "Wendy Powell",
+				"native": null,
+				"userPreferred": "Wendy Powell"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/574.jpg"
+		}]
+	}, {
+		"id": 15534,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Zampano",
+			"last": null,
+			"full": "Zampano",
+			"native": "ザンパノ",
+			"userPreferred": "Zampano"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/15534.jpg",
+		"voiceActors": [{
+			"id": 96342,
+			"language": "English",
+			"name": {
+				"first": "Chris",
+				"last": "Rager",
+				"full": "Chris Rager",
+				"native": null,
+				"userPreferred": "Chris Rager"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1342.jpg"
+		}]
+	}, {
+		"id": 50123,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Charlie",
+			"last": null,
+			"full": "Charlie",
+			"native": "チャーリー",
+			"userPreferred": "Charlie"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n50123-2kInS5rwOuM7.png",
+		"voiceActors": [{
+			"id": 104777,
+			"language": "English",
+			"name": {
+				"first": "David",
+				"last": "Wald",
+				"full": "David Wald",
+				"native": null,
+				"userPreferred": "David Wald"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9777.jpg"
+		}]
+	}, {
+		"id": 23338,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shao",
+			"last": "May",
+			"full": "Shao May",
+			"native": "シャオメイ",
+			"userPreferred": "Shao May"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/23338.jpg",
+		"voiceActors": [{
+			"id": 95008,
+			"language": "Japanese",
+			"name": {
+				"first": "Rie",
+				"last": "Kugimiya",
+				"full": "Rie Kugimiya",
+				"native": "釘宮理恵",
+				"userPreferred": "Rie Kugimiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png"
+		}, {
+			"id": 104526,
+			"language": "English",
+			"name": {
+				"first": "Tia",
+				"last": "Ballard",
+				"full": "Tia Ballard",
+				"native": null,
+				"userPreferred": "Tia Ballard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9526.jpg"
+		}]
+	}, {
+		"id": 69,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Maes",
+			"last": "Hughes",
+			"full": "Maes Hughes",
+			"native": "マース･ヒューズ",
+			"userPreferred": "Maes Hughes"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b69-MRetSG8Qevvu.png",
+		"voiceActors": [{
+			"id": 95063,
+			"language": "Japanese",
+			"name": {
+				"first": "Keiji",
+				"last": "Fujiwara",
+				"full": "Keiji Fujiwara",
+				"native": "藤原啓治",
+				"userPreferred": "Keiji Fujiwara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg"
+		}, {
+			"id": 95360,
+			"language": "English",
+			"name": {
+				"first": "Sonny",
+				"last": "Strait",
+				"full": "Sonny Strait",
+				"native": null,
+				"userPreferred": "Sonny Strait"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/360.jpg"
+		}]
+	}, {
+		"id": 15532,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "May",
+			"last": "Chang",
+			"full": "May Chang",
+			"native": "メイ・チャン",
+			"userPreferred": "May Chang"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/15532.jpg",
+		"voiceActors": [{
+			"id": 100281,
+			"language": "Japanese",
+			"name": {
+				"first": "Mai",
+				"last": "Gotou",
+				"full": "Mai Gotou",
+				"native": "後藤麻衣",
+				"userPreferred": "Mai Gotou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5281.jpg"
+		}, {
+			"id": 95159,
+			"language": "English",
+			"name": {
+				"first": "Monica",
+				"last": "Rial",
+				"full": "Monica Rial",
+				"native": null,
+				"userPreferred": "Monica Rial"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95159-iTd65o5LhA62.png"
+		}]
+	}, {
+		"id": 5428,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Barry the Chopper",
+			"last": null,
+			"full": "Barry the Chopper",
+			"native": "バリー・ザ・チョッパー",
+			"userPreferred": "Barry the Chopper"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n5428-TJbELkDf4F0N.png",
+		"voiceActors": [{
+			"id": 101602,
+			"language": "Japanese",
+			"name": {
+				"first": "Hideyuki",
+				"last": "Umezu",
+				"full": "Hideyuki Umezu",
+				"native": "梅津秀行",
+				"userPreferred": "Hideyuki Umezu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101602-wUvWtCkvNGNB.jpg"
+		}, {
+			"id": 95302,
+			"language": "English",
+			"name": {
+				"first": "Jerry",
+				"last": "Jewell",
+				"full": "Jerry Jewell",
+				"native": null,
+				"userPreferred": "Jerry Jewell"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/302.jpg"
+		}]
+	}, {
+		"id": 4159,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Nina",
+			"last": "Tucker",
+			"full": "Nina Tucker",
+			"native": " ニーナ・タッカー",
+			"userPreferred": "Nina Tucker"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b4159-g0Q6tQ9SCq6R.jpg",
+		"voiceActors": [{
+			"id": 95659,
+			"language": "English",
+			"name": {
+				"first": "Brina",
+				"last": "Palencia",
+				"full": "Brina Palencia",
+				"native": null,
+				"userPreferred": "Brina Palencia"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/659.jpg"
+		}]
+	}, {
+		"id": 10972,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sig",
+			"last": "Curtis",
+			"full": "Sig Curtis",
+			"native": "シグ・カーティス",
+			"userPreferred": "Sig Curtis"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n10972-NNiWRRcdfOTO.png",
+		"voiceActors": [{
+			"id": 100439,
+			"language": "Japanese",
+			"name": {
+				"first": "Seiji",
+				"last": "Sasaki",
+				"full": "Seiji Sasaki",
+				"native": "佐々木誠二",
+				"userPreferred": "Seiji Sasaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100439-OBOGjSKuPxAB.jpg"
+		}, {
+			"id": 96512,
+			"language": "English",
+			"name": {
+				"first": "Bob",
+				"last": "Carter",
+				"full": "Bob Carter",
+				"native": null,
+				"userPreferred": "Bob Carter"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1512.jpg"
+		}]
+	}, {
+		"id": 10962,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Number 48",
+			"last": null,
+			"full": "Number 48",
+			"native": "ナンバー48",
+			"userPreferred": "Number 48"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b10962-U4tJQGUmbHZp.png",
+		"voiceActors": [{
+			"id": 104867,
+			"language": "English",
+			"name": {
+				"first": "Bill",
+				"last": "Jenkins",
+				"full": "Bill Jenkins",
+				"native": null,
+				"userPreferred": "Bill Jenkins"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9867.jpg"
+		}]
+	}, {
+		"id": 21005,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Isaac",
+			"last": "McDougal",
+			"full": "Isaac McDougal",
+			"native": "アイザック・マクドゥーガル",
+			"userPreferred": "Isaac McDougal"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/n21005-n7FOAprc4nNz.png",
+		"voiceActors": [{
+			"id": 95011,
+			"language": "Japanese",
+			"name": {
+				"first": "Kouichi",
+				"last": "Yamadera",
+				"full": "Kouichi Yamadera",
+				"native": "山寺宏一",
+				"userPreferred": "Kouichi Yamadera"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png"
+		}, {
+			"id": 102151,
+			"language": "English",
+			"name": {
+				"first": "Bryan",
+				"last": "Massey",
+				"full": "Bryan Massey",
+				"native": null,
+				"userPreferred": "Bryan Massey"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7151.jpg"
+		}]
+	}, {
+		"id": 3293,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ling",
+			"last": "Yao",
+			"full": "Ling Yao",
+			"native": "リン・ヤオ",
+			"userPreferred": "Ling Yao"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b3293-2GiFTmLQnBw8.jpg",
+		"voiceActors": [{
+			"id": 95065,
+			"language": "Japanese",
+			"name": {
+				"first": "Mamoru",
+				"last": "Miyano",
+				"full": "Mamoru Miyano",
+				"native": "宮野真守",
+				"userPreferred": "Mamoru Miyano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+		}, {
+			"id": 95860,
+			"language": "English",
+			"name": {
+				"first": "Todd",
+				"last": "Haberkorn",
+				"full": "Todd Haberkorn",
+				"native": "Todd Michael Haberkorn",
+				"userPreferred": "Todd Haberkorn"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95860-FfQiFIq7vcKc.jpg"
+		}]
+	}, {
+		"id": 351,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Greed",
+			"last": null,
+			"full": "Greed",
+			"native": "グリード",
+			"userPreferred": "Greed"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b351-XMQzTuMy2Xtn.jpg",
+		"voiceActors": [{
+			"id": 95513,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuichi",
+				"last": "Nakamura",
+				"full": "Yuuichi Nakamura",
+				"native": "中村悠一",
+				"userPreferred": "Yuuichi Nakamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+		}, {
+			"id": 95182,
+			"language": "English",
+			"name": {
+				"first": "Troy",
+				"last": "Baker",
+				"full": "Troy Baker",
+				"native": null,
+				"userPreferred": "Troy Baker"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95182-TiZXT6F98sV2.png"
+		}]
+	}, {
+		"id": 15543,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sloth",
+			"last": null,
+			"full": "Sloth",
+			"native": "スロウス",
+			"userPreferred": "Sloth"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b15543-InwPEKIOdTvX.png",
+		"voiceActors": [{
+			"id": 95340,
+			"language": "English",
+			"name": {
+				"first": "Patrick",
+				"last": "Seitz",
+				"full": "Patrick Seitz",
+				"native": null,
+				"userPreferred": "Patrick Seitz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95340-W5PAwurtgtXs.jpg"
+		}]
+	}, {
+		"id": 35144,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Garfiel",
+			"last": null,
+			"full": "Garfiel",
+			"native": "ガーフィール",
+			"userPreferred": "Garfiel"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b35144-UjyMf6g71t5c.png",
+		"voiceActors": [{
+			"id": 95720,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenta",
+				"last": "Miyake",
+				"full": "Kenta Miyake",
+				"native": "三宅健太",
+				"userPreferred": "Kenta Miyake"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+		}, {
+			"id": 95662,
+			"language": "English",
+			"name": {
+				"first": "Antimere",
+				"last": "Robinson",
+				"full": "Antimere Robinson",
+				"native": null,
+				"userPreferred": "Antimere Robinson"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95662-H3FLEV7RqEoE.jpg"
+		}]
+	}, {
+		"id": 65,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Pinako",
+			"last": "Rockbell",
+			"full": "Pinako Rockbell",
+			"native": "ピナコ・ロックベル",
+			"userPreferred": "Pinako Rockbell"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/65.jpg",
+		"voiceActors": [{
+			"id": 96542,
+			"language": "Japanese",
+			"name": {
+				"first": "Miyoko",
+				"last": "Asou",
+				"full": "Miyoko Asou",
+				"native": "麻生美代子",
+				"userPreferred": "Miyoko Asou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96542-nUqFdwzo1FEX.jpg"
+		}, {
+			"id": 101912,
+			"language": "English",
+			"name": {
+				"first": "Juli",
+				"last": "Erickson",
+				"full": "Juli Erickson",
+				"native": null,
+				"userPreferred": "Juli Erickson"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101912-7FhZiYCA403v.jpg"
+		}]
+	}, {
+		"id": 23461,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Foo",
+			"last": null,
+			"full": "Foo",
+			"native": "フー",
+			"userPreferred": "Foo"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b23461-WxC1ACNKQC4Y.jpg",
+		"voiceActors": [{
+			"id": 104978,
+			"language": "English",
+			"name": {
+				"first": "Kenny",
+				"last": "Green",
+				"full": "Kenny Green",
+				"native": null,
+				"userPreferred": "Kenny Green"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104978-LUeUklhFVPZy.jpg"
+		}]
+	}, {
+		"id": 5103,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "King",
+			"last": "Bradley",
+			"full": "King Bradley",
+			"native": "キング・ブラッドレイ",
+			"userPreferred": "King Bradley"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b5103-jnflrjKevO3z.png",
+		"voiceActors": [{
+			"id": 95018,
+			"language": "Japanese",
+			"name": {
+				"first": "Hidekatsu",
+				"last": "Shibata",
+				"full": "Hidekatsu Shibata",
+				"native": "柴田秀勝",
+				"userPreferred": "Hidekatsu Shibata"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95018-HXJMMED74SVO.png"
+		}, {
+			"id": 96336,
+			"language": "English",
+			"name": {
+				"first": "Thomas",
+				"last": "Blaylock, Jr.",
+				"full": "Thomas Blaylock, Jr.",
+				"native": null,
+				"userPreferred": "Thomas Edwin Blaylock, Jr."
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1336.jpg"
+		}]
+	}, {
+		"id": 10974,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Paninya",
+			"last": null,
+			"full": "Paninya",
+			"native": "パニーニャ",
+			"userPreferred": "Paninya"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/10974.jpg",
+		"voiceActors": [{
+			"id": 95076,
+			"language": "Japanese",
+			"name": {
+				"first": "Akemi",
+				"last": "Okamura",
+				"full": "Akemi Okamura",
+				"native": "岡村明美",
+				"userPreferred": "Akemi Okamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95076-itRGy8F3x5Em.png"
+		}, {
+			"id": 95851,
+			"language": "English",
+			"name": {
+				"first": "Cynthia",
+				"last": "Cranz",
+				"full": "Cynthia Cranz",
+				"native": null,
+				"userPreferred": "Cynthia Cranz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/851.jpg"
+		}]
+	}, {
+		"id": 650,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Lust",
+			"last": null,
+			"full": "Lust",
+			"native": "ラスト",
+			"userPreferred": "Lust"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/650.jpg",
+		"voiceActors": [{
+			"id": 95195,
+			"language": "Japanese",
+			"name": {
+				"first": "Kikuko",
+				"last": "Inoue",
+				"full": "Kikuko Inoue",
+				"native": "井上喜久子",
+				"userPreferred": "Kikuko Inoue"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png"
+		}, {
+			"id": 95187,
+			"language": "English",
+			"name": {
+				"first": "Laura",
+				"last": "Bailey",
+				"full": "Laura Bailey",
+				"native": null,
+				"userPreferred": "Laura Bailey"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95187-QeezFM0GP4tu.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 5114,
+		"relationType": "PARENT",
+		"malId": 5114,
+		"title": {
+			"romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+			"english": "Fullmetal Alchemist: Brotherhood",
+			"native": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+			"userPreferred": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST"
+		},
+		"status": "Completed",
+		"episodes": 64,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
+		"color": "#e4c993",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5114-q0V5URebphSG.jpg",
+		"rating": 90
+	}],
+	"mappings": {
+		"mal": 7902,
+		"kitsu": 5154,
+		"anilist": 7902,
+		"anisearch": 7911,
+		"livechart": 4137,
+		"notify.moe": "pcLztFmiR",
+		"anime-planet": "fullmetal-alchemist-brotherhood-4-koma-theater"
+	},
+	"episodes": [{
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-1",
+		"title": null,
+		"description": null,
+		"number": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-2",
+		"title": null,
+		"description": null,
+		"number": 2,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-3",
+		"title": null,
+		"description": null,
+		"number": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-4",
+		"title": null,
+		"description": null,
+		"number": 4,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-5",
+		"title": null,
+		"description": null,
+		"number": 5,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-6",
+		"title": null,
+		"description": null,
+		"number": 6,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-7",
+		"title": null,
+		"description": null,
+		"number": 7,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-8",
+		"title": null,
+		"description": null,
+		"number": 8,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-9",
+		"title": null,
+		"description": null,
+		"number": 9,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-10",
+		"title": null,
+		"description": null,
+		"number": 10,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-11",
+		"title": null,
+		"description": null,
+		"number": 11,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-12",
+		"title": null,
+		"description": null,
+		"number": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-13",
+		"title": null,
+		"description": null,
+		"number": 13,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-14",
+		"title": null,
+		"description": null,
+		"number": 14,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-15",
+		"title": null,
+		"description": null,
+		"number": 15,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}, {
+		"id": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-16",
+		"title": null,
+		"description": null,
+		"number": 16,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+		"airDate": null
+	}]
+}
