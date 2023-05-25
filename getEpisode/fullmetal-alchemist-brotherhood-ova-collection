@@ -1,0 +1,50 @@
+[
+        {
+            "server1": "9u0tm1rat633",
+            "animeNameWithEP": "Fullmetal Alchemist: Brotherhood OVA Collection Episode 1",
+            "ep_num": "1",
+            "anime_info": "fullmetal-alchemist-brotherhood-ova-collection",
+            "movie_id": "6421",
+            "alias": "fullmetal-alchemist-brotherhood-ova-collection",
+            "nextEpText": "Fullmetal Alchemist: Brotherhood OVA Collection Episode 2 >>",
+            "nextEpLink": "/fullmetal-alchemist-brotherhood-ova-collection-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "cjqe5zbpkcd1",
+            "animeNameWithEP": "Fullmetal Alchemist: Brotherhood OVA Collection Episode 2",
+            "ep_num": "2",
+            "anime_info": "fullmetal-alchemist-brotherhood-ova-collection",
+            "movie_id": "6421",
+            "alias": "fullmetal-alchemist-brotherhood-ova-collection",
+            "nextEpText": "Fullmetal Alchemist: Brotherhood OVA Collection Episode 3 >>",
+            "nextEpLink": "/fullmetal-alchemist-brotherhood-ova-collection-episode-3",
+            "prevEpText": "<< Fullmetal Alchemist: Brotherhood OVA Collection Episode 1",
+            "prevEpLink": "/fullmetal-alchemist-brotherhood-ova-collection-episode-1"
+        },
+        {
+            "server1": "w6huj2008al4",
+            "animeNameWithEP": "Fullmetal Alchemist: Brotherhood OVA Collection Episode 3",
+            "ep_num": "3",
+            "anime_info": "fullmetal-alchemist-brotherhood-ova-collection",
+            "movie_id": "6421",
+            "alias": "fullmetal-alchemist-brotherhood-ova-collection",
+            "nextEpText": "Fullmetal Alchemist: Brotherhood OVA Collection Episode 4 >>",
+            "nextEpLink": "/fullmetal-alchemist-brotherhood-ova-collection-episode-4",
+            "prevEpText": "<< Fullmetal Alchemist: Brotherhood OVA Collection Episode 2",
+            "prevEpLink": "/fullmetal-alchemist-brotherhood-ova-collection-episode-2"
+        },
+        {
+            "server1": "vx1vuurpkc2j",
+            "animeNameWithEP": "Fullmetal Alchemist: Brotherhood OVA Collection Episode 4",
+            "ep_num": "4",
+            "anime_info": "fullmetal-alchemist-brotherhood-ova-collection",
+            "movie_id": "6421",
+            "alias": "fullmetal-alchemist-brotherhood-ova-collection",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Fullmetal Alchemist: Brotherhood OVA Collection Episode 3",
+            "prevEpLink": "/fullmetal-alchemist-brotherhood-ova-collection-episode-3"
+        }
+    ]
