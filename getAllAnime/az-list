@@ -732,6 +732,42 @@
             "genres": ["Action", "Adventure", "Drama", "Fantasy"]
         },
         {
+            "animeId": "fullmetal-alchemist-reflections",
+            "episodeId": "fullmetal-alchemist-reflections-episode-1",
+            "name": "Fullmetal Alchemist: Reflections",
+            "jname": "Hagane no Renkinjutsushi: Reflections",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/664.jpg",
+            "type": "special",
+            "episodeUrl": "anime/fullmetal-alchemist-reflections",
+            "genres": ["Adventure", "Comedy", "Drama", "Fantasy"]
+        },
+        {
+            "animeId": "fullmetal-alchemist-brotherhood-ova-collection",
+            "episodeId": "fullmetal-alchemist-brotherhood-ova-collection-episode-1",
+            "name": "Fullmetal Alchemist: Brotherhood OVA Collection",
+            "jname": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST Mihousou Episode",
+            "episodeNum": "4",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6421.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/fullmetal-alchemist-brotherhood-ova-collection",
+            "genres": ["Adventure", "Drama", "Fantasy"]
+        },
+        {
+            "animeId": "fullmetal-alchemist-brotherhood-4-koma-theater",
+            "episodeId": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-1",
+            "name": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
+            "jname": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST - Arakawa Hiromu Kaki Oroshi 4-koma Gekijou",
+            "episodeNum": "16",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
+            "type": "special",
+            "episodeUrl": "anime/fullmetal-alchemist-brotherhood-4-koma-theater",
+            "genres": ["Comedy", "Fantasy"]
+        },
+        {
             "animeId": "haikyuu-to-the-top-2",
             "episodeId": "haikyuu-to-the-top-2-episode-1",
             "name": "HAIKYU‼ TO THE TOP Part 2",
@@ -1048,7 +1084,7 @@
             "episodeId": "oshi-no-ko-episode-1",
             "name": "Oshi No Ko",
             "jname": "Oshi no Ko",
-            "episodeNum": "7",
+            "episodeNum": "6",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
             "type": "tv",
