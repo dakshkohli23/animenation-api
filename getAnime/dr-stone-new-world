@@ -37,8 +37,8 @@
 		"timeUntilAiring": 600464,
 		"episode": 3
 	},
-	"totalEpisodes": 7,
-	"currentEpisode": 7,
+	"totalEpisodes": 8,
+	"currentEpisode": 8,
 	"rating": 81,
 	"duration": 24,
 	"genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
@@ -719,6 +719,14 @@
 		"title": "",
 		"description": "",
 		"number": 7,
+		"image": "",
+		"airDate": ""
+	},
+	{
+		"id": "dr-stone-new-world-episode-8",
+		"title": "",
+		"description": "",
+		"number": 8,
 		"image": "",
 		"airDate": ""
 	}
