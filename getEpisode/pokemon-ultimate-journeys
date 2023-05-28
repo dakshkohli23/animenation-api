@@ -522,9 +522,21 @@
             "anime_info": "pokemon-ultimate-journeys",
             "movie_id": "112153",
             "alias": "pokemon-ultimate-journeys",
-            "nextEpText": "",
-            "nextEpLink": "",
+             "nextEpText": "Pokémon Ultimate Journeys: The Series Episode 45 >>",
+            "nextEpLink": "/pokemon-ultimate-journeys-episode-45",
             "prevEpText": "<< Pokémon Ultimate Journeys: The Series Episode 43",
             "prevEpLink": "/pokemon-ultimate-journeys-episode-43"
+        },
+        {
+            "server1": "phdo42x7y57n",
+            "animeNameWithEP": "Pokémon Ultimate Journeys: The Series Episode 45 Dubbed",
+            "ep_num": "45",
+            "anime_info": "pokemon-ultimate-journeys",
+            "movie_id": "112153",
+            "alias": "pokemon-ultimate-journeys",
+             "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Pokémon Ultimate Journeys: The Series Episode 44",
+            "prevEpLink": "/pokemon-ultimate-journeys-episode-44"
         }
     ]
