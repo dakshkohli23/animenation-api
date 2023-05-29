@@ -640,7 +640,7 @@
             "episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-1",
             "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
             "jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-            "episodeNum": "8",
+            "episodeNum": "7",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
             "type": "tv",
@@ -664,7 +664,7 @@
             "episodeId": "dr-stone-new-world-episode-1",
             "name": "Dr. STONE New World",
             "jname": "Dr. STONE: NEW WORLD",
-            "episodeNum": "8",
+            "episodeNum": "7",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131518-RU7RoUmGb2sP.jpg",
             "type": "tv",
@@ -1056,6 +1056,18 @@
             "genres": ["Comedy"]
         },
         {
+            "animeId": "my-hero-academia",
+            "episodeId": "my-hero-academia-episode-1",
+            "name": "My Hero Academia",
+            "jname": "Boku no Hero Academia",
+            "episodeNum": "13",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-DUKLgasrgeNO.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/my-hero-academia",
+            "genres": ["Action", "Adventure", "Comedy"]
+        },
+        {
             "animeId": "naruto",
             "episodeId": "naruto-episode-1",
             "name": "Naruto",
@@ -1180,7 +1192,7 @@
             "episodeId": "pokemon-horizons-the-series-episode-1",
             "name": "Pokemon Horizons: The Series",
             "jname": "Pocket Monsters (2023)",
-            "episodeNum": "8",
+            "episodeNum": "7",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
             "type": "tv",
@@ -1444,7 +1456,7 @@
             "episodeId": "pokemon-ultimate-journeys-episode-1",
             "name": "Pokemon Ultimate Journeys: The Series",
             "jname": "Pocket Monsters (2019)",
-            "episodeNum": "45",
+            "episodeNum": "44",
             "subOrDub": "dub",
             "imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
             "type": "tv",
@@ -1956,3 +1968,4 @@
             "genres": ["Ecchi", "Sci-Fi"]
         }
     ]
+    
