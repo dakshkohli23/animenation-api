@@ -1,26 +1,26 @@
 [
 	{
-		"animeId": "my-hero-academia",
-		"episodeId": "my-hero-academia-episode-1",
-		"name": "Boku no Hero Academia",
-		"jname": "My Hero Academia",
-		"episodeNum": "13",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-DUKLgasrgeNO.jpg",
-		"description": "",
-		"episodeUrl": "../anime/my-hero-academia"
-	},
-	{
 		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
-		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-8",
-		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-		"episodeNum": "8",
+		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-1",
+		"name": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+		"jname": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+		"episodeNum": "11",
 		"subOrDub": "sub",
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-		"description": "",
+		"description": "Adaptation of the Swordsmith Village Arc.<br>\n<br>\n<i>Note: The first episode has a runtime of 1 hour, and received an early premiere in cinemas worldwide as part of a special screening alongside the final two episodes of Kimetsu no Yaiba: Yuukaku-hen.</i>",
 		"episodeUrl": "../anime/kimetsu-no-yaiba-katanakaji-no-satohen"
+	},
+	{
+		"animeId": "attack-on-titan",
+		"episodeId": "attack-on-titan-episode-1",
+		"name": "Shingeki no Kyojin",
+		"jname": "Attack on Titan",
+		"episodeNum": "25",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
+		"description": "Several hundred years ago, humans were nearly exterminated by titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titans.<br><br>\r\nFlash forward to the present and the city has not seen a titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a colossal titan that appears out of thin air. As the smaller titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single titan and take revenge for all of mankind.<br><br>\r\n(Source: MangaHelpers) ",
+		"episodeUrl": "../anime/attack-on-titan"
 	}
  ]
