@@ -640,7 +640,7 @@
             "episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-1",
             "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
             "jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-            "episodeNum": "7",
+            "episodeNum": "8",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
             "type": "tv",
@@ -664,7 +664,7 @@
             "episodeId": "dr-stone-new-world-episode-1",
             "name": "Dr. STONE New World",
             "jname": "Dr. STONE: NEW WORLD",
-            "episodeNum": "7",
+            "episodeNum": "8",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131518-RU7RoUmGb2sP.jpg",
             "type": "tv",
@@ -780,18 +780,6 @@
             "genres": ["Adventure", "Comedy", "Drama", "Fantasy"]
         },
         {
-            "animeId": "fullmetal-alchemist-the-sacred-star-of-milos",
-            "episodeId": "fullmetal-alchemist-the-sacred-star-of-milos-episode-1",
-            "name": "Fullmetal Alchemist: The Sacred Star of Milos",
-            "jname": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
-            "episodeNum": "1",
-            "subOrDub": "dub",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9135-nPvbvO7QCx7L.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/fullmetal-alchemist-the-sacred-star-of-milos",
-            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy"]
-        },
-        {
             "animeId": "fullmetal-alchemist-the-conqueror-of-shamballa",
             "episodeId": "fullmetal-alchemist-the-conqueror-of-shamballa-episode-1",
             "name": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
@@ -802,6 +790,18 @@
             "type": "movie",
             "episodeUrl": "anime/fullmetal-alchemist-the-conqueror-of-shamballa",
             "genres": ["Action", "Comedy", "Drama", "Fantasy"]
+        },
+        {
+            "animeId": "fullmetal-alchemist-the-sacred-star-of-milos",
+            "episodeId": "fullmetal-alchemist-the-sacred-star-of-milos-episode-1",
+            "name": "Fullmetal Alchemist: The Sacred Star of Milos",
+            "jname": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9135-nPvbvO7QCx7L.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/fullmetal-alchemist-the-sacred-star-of-milos",
+            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy"]
         },
         {
             "animeId": "haikyuu-to-the-top-2",
@@ -1068,6 +1068,42 @@
             "genres": ["Action", "Adventure", "Comedy"]
         },
         {
+            "animeId": "my-hero-academia-heroes-rising",
+            "episodeId": "my-hero-academia-heroes-rising-episode-1",
+            "name": "My Hero Academia: Heroes Rising",
+            "jname": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/my-hero-academia-heroes-rising",
+            "genres": ["Action", "Sci-Fi"]
+        },
+        {
+            "animeId": "my-hero-academia-two-heroes",
+            "episodeId": "my-hero-academia-two-heroes-episode-1",
+            "name": "My Hero Academia: Two Heroes",
+            "jname": "Boku no Hero Academia THE MOVIE: Futari no Hero",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100723-7f5e1BCTCDoB.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/my-hero-academia-two-heroes",
+            "genres": ["Action", "Comedy", "Drama", "Sci-Fi"]
+        },
+        {
+            "animeId": "my-hero-academia-world-heroes-mission",
+            "episodeId": "my-hero-academia-world-heroes-mission-episode-1",
+            "name": "My Hero Academia: World Heroes' Mission",
+            "jname": "Boku no Hero Academia THE MOVIE: World Heroes' Mission",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126659-i6c1PsXHGyke.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/my-hero-academia-world-heroes-mission",
+            "genres": ["Action", "Adventure", "Sci-Fi"]
+        },
+        {
             "animeId": "naruto",
             "episodeId": "naruto-episode-1",
             "name": "Naruto",
@@ -1132,7 +1168,7 @@
             "episodeId": "oshi-no-ko-episode-1",
             "name": "Oshi No Ko",
             "jname": "Oshi no Ko",
-            "episodeNum": "6",
+            "episodeNum": "7",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
             "type": "tv",
@@ -1192,7 +1228,7 @@
             "episodeId": "pokemon-horizons-the-series-episode-1",
             "name": "Pokemon Horizons: The Series",
             "jname": "Pocket Monsters (2023)",
-            "episodeNum": "7",
+            "episodeNum": "8",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
             "type": "tv",
@@ -1456,7 +1492,7 @@
             "episodeId": "pokemon-ultimate-journeys-episode-1",
             "name": "Pokemon Ultimate Journeys: The Series",
             "jname": "Pocket Monsters (2019)",
-            "episodeNum": "44",
+            "episodeNum": "45",
             "subOrDub": "dub",
             "imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
             "type": "tv",
@@ -1968,4 +2004,3 @@
             "genres": ["Ecchi", "Sci-Fi"]
         }
     ]
-    
