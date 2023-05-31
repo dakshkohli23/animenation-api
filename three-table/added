@@ -1,5 +1,38 @@
 [
 	{
+		"animeId": "my-hero-academia-world-heroes-mission",
+		"episodeId": "my-hero-academia-world-heroes-mission-episode-1",
+		"name": "My Hero Academia: World Heroes' Mission",
+		"jname": "Boku no Hero Academia THE MOVIE: World Heroes' Mission",
+		"episodeNum": "1",
+		"subOrDub": "dub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126659-i6c1PsXHGyke.jpg",
+		"episodeUrl": "../anime/my-hero-academia-world-heroes-mission"
+	},
+	{
+		"animeId": "my-hero-academia-heroes-rising",
+		"episodeId": "my-hero-academia-heroes-rising-episode-1",
+		"name": "My Hero Academia: Heroes Rising",
+		"jname": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+		"episodeNum": "1",
+		"subOrDub": "dub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg",
+		"episodeUrl": "../anime/my-hero-academia-heroes-rising"
+	},
+	{
+		"animeId": "my-hero-academia-two-heroes",
+		"episodeId": "my-hero-academia-two-heroes-episode-1",
+		"name": "My Hero Academia: Two Heroes",
+		"jname": "Boku no Hero Academia THE MOVIE: Futari no Hero",
+		"episodeNum": "1",
+		"subOrDub": "dub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100723-7f5e1BCTCDoB.jpg",
+		"episodeUrl": "../anime/my-hero-academia-two-heroes"
+	},
+	{
 		"animeId": "to-me-the-one-who-loved-you",
 		"episodeId": "to-me-the-one-who-loved-you-episode-1",
 		"name": "To Me, The One Who Loved You",
