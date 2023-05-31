@@ -1,0 +1,1304 @@
+{
+	"id": "130298",
+	"title": {
+		"romaji": "Kage no Jitsuryokusha ni Naritakute!",
+		"english": "The Eminence in Shadow",
+		"native": "陰の実力者になりたくて！"
+	},
+	"malId": 48316,
+	"synonyms": ["To Be a Power in the Shadows!", "ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา", "Un giorno sarò l'eminenza grigia", "TEIS"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "L7LgAbGF-WY",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/L7LgAbGF-WY/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-O7nR1Wrav2dH.jpg",
+	"popularity": 112587,
+	"color": "#d61a1a",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130298-9yxFlFvKMwRk.jpg",
+	"description": "Some people just aren’t suited to playing the part of the flashy, in-your-face hero or the dastardly, mustache-twirling villain with larger-than-life panache. Instead, they operate in the shadows and pull the strings of society through wit and cleverness. That’s the role Cid wants to play when he’s transported to another world. Cid spins a yarn or three and becomes the unlikely leader of the underground Shadow Garden organization that fights against a menacing cult (which he totally made up). However, there’s a catch even his wild imagination didn’t see coming: the cult he concocted actually exists, and they’re beyond displeased that his power fantasy just got in the way of their evil plans!<br>\n<br>\n(Source: HIDIVE)",
+	"status": "Completed",
+	"releaseDate": 2022,
+	"startDate": {
+		"year": 2022,
+		"month": 10,
+		"day": 5
+	},
+	"endDate": {
+		"year": 2023,
+		"month": 2,
+		"day": 15
+	},
+	"totalEpisodes": 20,
+	"currentEpisode": 20,
+	"rating": 82,
+	"duration": 24,
+	"genres": ["Action", "Comedy", "Fantasy"],
+	"season": "FALL",
+	"studios": ["Nexus"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 136837,
+		"role": "MAIN",
+		"name": {
+			"first": "Cid",
+			"last": "Kagenou",
+			"full": "Cid Kagenou",
+			"native": "シド・カゲノー",
+			"userPreferred": "Cid Kagenou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b136837-3WR22FYet8Hv.jpg",
+		"voiceActors": [{
+			"id": 95112,
+			"language": "Japanese",
+			"name": {
+				"first": "Hikaru",
+				"last": "Midorikawa",
+				"full": "Hikaru Midorikawa",
+				"native": "緑川光",
+				"userPreferred": "Hikaru Midorikawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95112-c275OLptkSYO.png"
+		}, {
+			"id": 118249,
+			"language": "Japanese",
+			"name": {
+				"first": "Seiichirou",
+				"last": "Yamashita",
+				"full": "Seiichirou Yamashita",
+				"native": "山下誠一郎",
+				"userPreferred": "Seiichirou Yamashita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118249-aws1DsuN7cUW.png"
+		}, {
+			"id": 112243,
+			"language": "English",
+			"name": {
+				"first": "Adam",
+				"last": "Gibbs",
+				"full": "Adam Gibbs",
+				"native": null,
+				"userPreferred": "Adam Gibbs"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112243-3kj5gcfGOpiW.png"
+		}, {
+			"id": 157475,
+			"language": "Italian",
+			"name": {
+				"first": "Ezio ",
+				"last": "Vivolo",
+				"full": "Ezio  Vivolo",
+				"native": "Ezio Vivolo",
+				"userPreferred": "Ezio  Vivolo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157475-tntPpQo6GoWM.jpg"
+		}, {
+			"id": 274702,
+			"language": "French",
+			"name": {
+				"first": "Alan",
+				"last": "Aubert-Carlin",
+				"full": "Alan Aubert-Carlin",
+				"native": null,
+				"userPreferred": "Alan Aubert-Carlin"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 162246,
+		"role": "MAIN",
+		"name": {
+			"first": "Alpha",
+			"last": null,
+			"full": "Alpha",
+			"native": "アルファ",
+			"userPreferred": "Alpha"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162246-IbbxkhNJFDN5.png",
+		"voiceActors": [{
+			"id": 106787,
+			"language": "Japanese",
+			"name": {
+				"first": "Asami",
+				"last": "Seto",
+				"full": "Asami Seto",
+				"native": "瀬戸麻沙美",
+				"userPreferred": "Asami Seto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-pNRFEiywJuEx.png"
+		}, {
+			"id": 129147,
+			"language": "English",
+			"name": {
+				"first": "Christina",
+				"last": "Kelly",
+				"full": "Christina Kelly",
+				"native": null,
+				"userPreferred": "Christina Kelly"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129147-I19GWVyaMPKe.png"
+		}, {
+			"id": 225967,
+			"language": "Italian",
+			"name": {
+				"first": "Federica",
+				"last": "Simonelli",
+				"full": "Federica Simonelli",
+				"native": null,
+				"userPreferred": "Federica Simonelli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n225967-cd08Hy1XukIg.jpg"
+		}, {
+			"id": 286475,
+			"language": "French",
+			"name": {
+				"first": "Laura",
+				"last": "Blanc",
+				"full": "Laura Blanc",
+				"native": null,
+				"userPreferred": "Laura Blanc"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n286475-68wmqXP3J7Lf.png"
+		}]
+	}, {
+		"id": 162247,
+		"role": "MAIN",
+		"name": {
+			"first": "Beta",
+			"last": null,
+			"full": "Beta",
+			"native": "ベータ",
+			"userPreferred": "Beta"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162247-R6OrAuT1FwL4.png",
+		"voiceActors": [{
+			"id": 106297,
+			"language": "Japanese",
+			"name": {
+				"first": "Inori",
+				"last": "Minase",
+				"full": "Inori Minase",
+				"native": "水瀬いのり",
+				"userPreferred": "Inori Minase"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106297-KnzvgfxB1byY.png"
+		}, {
+			"id": 274763,
+			"language": "English",
+			"name": {
+				"first": "Annie",
+				"last": "Wild",
+				"full": "Annie Wild",
+				"native": null,
+				"userPreferred": "Annie Wild"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n274763-dqbPZ8UaUe32.jpg"
+		}, {
+			"id": 157477,
+			"language": "Italian",
+			"name": {
+				"first": "Laura ",
+				"last": "Cherubelli",
+				"full": "Laura  Cherubelli",
+				"native": "Laura Cherubelli",
+				"userPreferred": "Laura  Cherubelli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157477-pnobMnTNWaQ3.jpg"
+		}, {
+			"id": 274701,
+			"language": "French",
+			"name": {
+				"first": "Emilie",
+				"last": "Marié",
+				"full": "Emilie Marié",
+				"native": null,
+				"userPreferred": "Emilie Marié"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 162245,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gamma",
+			"last": null,
+			"full": "Gamma",
+			"native": "ガンマ",
+			"userPreferred": "Gamma"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162245-x86QMM6nOj75.png",
+		"voiceActors": [{
+			"id": 106359,
+			"language": "Japanese",
+			"name": {
+				"first": "Suzuko",
+				"last": "Mimori",
+				"full": "Suzuko Mimori",
+				"native": "三森すずこ",
+				"userPreferred": "Suzuko Mimori"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106359-G8dROMWpwlM6.png"
+		}, {
+			"id": 129174,
+			"language": "English",
+			"name": {
+				"first": "Elissa",
+				"last": "Cuellar",
+				"full": "Elissa Cuellar",
+				"native": null,
+				"userPreferred": "Elissa Cuellar"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129174-zZZiKAf7eHl8.jpg"
+		}, {
+			"id": 231691,
+			"language": "Italian",
+			"name": {
+				"first": "Elisa",
+				"last": "Giorgio",
+				"full": "Elisa Giorgio",
+				"native": null,
+				"userPreferred": "Elisa Giorgio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n231691-fXZU0GOxIhda.png"
+		}, {
+			"id": 277088,
+			"language": "French",
+			"name": {
+				"first": "Sabrina",
+				"last": "Marchese",
+				"full": "Sabrina Marchese",
+				"native": null,
+				"userPreferred": "Sabrina Marchese"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 215409,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Aurora",
+			"last": null,
+			"full": "Aurora",
+			"native": "アウロラ",
+			"userPreferred": "Aurora"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b215409-Y1Ti42451ivg.png",
+		"voiceActors": [{
+			"id": 95078,
+			"language": "Japanese",
+			"name": {
+				"first": "Kaori",
+				"last": "Nazuka",
+				"full": "Kaori Nazuka",
+				"native": "名塚佳織",
+				"userPreferred": "Kaori Nazuka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg"
+		}, {
+			"id": 231690,
+			"language": "Italian",
+			"name": {
+				"first": "Ilaria",
+				"last": "Silvestri",
+				"full": "Ilaria Silvestri",
+				"native": null,
+				"userPreferred": "Ilaria Silvestri"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n231690-fST9RY5fot0O.png"
+		}]
+	}, {
+		"id": 295300,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Olba",
+			"last": null,
+			"full": "Olba",
+			"native": "オルバ",
+			"userPreferred": "Olba"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b295300-0bIlwZ3wRewz.png",
+		"voiceActors": [{
+			"id": 95113,
+			"language": "Japanese",
+			"name": {
+				"first": "Rikiya",
+				"last": "Koyama",
+				"full": "Rikiya Koyama",
+				"native": "小山力也",
+				"userPreferred": "Rikiya Koyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png"
+		}, {
+			"id": 115082,
+			"language": "Italian",
+			"name": {
+				"first": "Ruggero",
+				"last": "Andreozzi",
+				"full": "Ruggero Andreozzi",
+				"native": null,
+				"userPreferred": "Ruggero Andreozzi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/20082.jpg"
+		}]
+	}, {
+		"id": 297028,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Raphael",
+			"last": "Oriana",
+			"full": "Raphael Oriana",
+			"native": "ラファエロ・オリアナ",
+			"userPreferred": "Raphael Oriana"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b297028-PNxLB1yTkXLK.jpg",
+		"voiceActors": [{
+			"id": 96538,
+			"language": "Japanese",
+			"name": {
+				"first": "Yutaka",
+				"last": "Aoyama",
+				"full": "Yutaka Aoyama",
+				"native": "青山穣",
+				"userPreferred": "Yutaka Aoyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96538-mM7J8gp87gut.jpg"
+		}, {
+			"id": 156062,
+			"language": "Italian",
+			"name": {
+				"first": "Aldo",
+				"last": "Stella",
+				"full": "Aldo Stella",
+				"native": null,
+				"userPreferred": "Aldo Stella"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n156062-EmZRDADbGLnK.jpg"
+		}]
+	}, {
+		"id": 168800,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Rose",
+			"last": "Oriana",
+			"full": "Rose Oriana",
+			"native": "ローズ・オリアナ",
+			"userPreferred": "Rose Oriana"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b168800-eb3FqWq0IdyV.png",
+		"voiceActors": [{
+			"id": 112629,
+			"language": "Japanese",
+			"name": {
+				"first": "Haruka",
+				"last": "Shiraishi",
+				"full": "Haruka Shiraishi",
+				"native": "白石晴香",
+				"userPreferred": "Haruka Shiraishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112629-7VH5IJtDBTn3.jpg"
+		}, {
+			"id": 240256,
+			"language": "Italian",
+			"name": {
+				"first": "Giorgia",
+				"last": "Carnevale",
+				"full": "Giorgia Carnevale",
+				"native": null,
+				"userPreferred": "Giorgia Carnevale"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n240256-HcM7hMhfFeXw.jpg"
+		}, {
+			"id": 304190,
+			"language": "French",
+			"name": {
+				"first": "Ludivine",
+				"last": "Maffren",
+				"full": "Ludivine Maffren",
+				"native": null,
+				"userPreferred": "Ludivine Maffren"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 294236,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Jack",
+			"last": "Nelson",
+			"full": "Jack Nelson",
+			"native": "ジャック・ネルソン",
+			"userPreferred": "Jack Nelson"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b294236-qLd9wMfP0iGO.jpg",
+		"voiceActors": [{
+			"id": 96436,
+			"language": "Japanese",
+			"name": {
+				"first": "Mugihito",
+				"last": "",
+				"full": "Mugihito",
+				"native": "麦人 ",
+				"userPreferred": "Mugihito"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/1436.jpg"
+		}, {
+			"id": 234130,
+			"language": "Italian",
+			"name": {
+				"first": "Cesare",
+				"last": "Rasini",
+				"full": "Cesare Rasini",
+				"native": null,
+				"userPreferred": "Cesare Rasini"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n234130-WTzDo892esUD.jpg"
+		}, {
+			"id": 249568,
+			"language": "French",
+			"name": {
+				"first": "Jean-Luc",
+				"last": "Atlan",
+				"full": "Jean-Luc Atlan",
+				"native": null,
+				"userPreferred": "Jean-Luc Atlan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n249568-bLWfjmG03yyA.jpg"
+		}]
+	}, {
+		"id": 295305,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hakui no Otoko",
+			"last": null,
+			"full": "Hakui no Otoko",
+			"native": "白衣の男",
+			"userPreferred": "Hakui no Otoko"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b295305-2eVtQ2eFeVQB.jpg",
+		"voiceActors": [{
+			"id": 95341,
+			"language": "Japanese",
+			"name": {
+				"first": "Hirofumi",
+				"last": "Nojima",
+				"full": "Hirofumi Nojima",
+				"native": "野島裕史",
+				"userPreferred": "Hirofumi Nojima"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95341-SOsBuzcMtYe8.png"
+		}]
+	}, {
+		"id": 298851,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Lambda",
+			"last": null,
+			"full": "Lambda",
+			"native": "ラムダ",
+			"userPreferred": "Lambda"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b298851-UMG5YdDRpnRB.jpg",
+		"voiceActors": [{
+			"id": 132768,
+			"language": "Japanese",
+			"name": {
+				"first": "Ikumi",
+				"last": "Hasegawa",
+				"full": "Ikumi Hasegawa",
+				"native": "長谷川育美",
+				"userPreferred": "Ikumi Hasegawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n132768-eIoq58EHCA4F.png"
+		}, {
+			"id": 153008,
+			"language": "Italian",
+			"name": {
+				"first": "Marisa",
+				"last": "Della Pasqua",
+				"full": "Marisa Della Pasqua",
+				"native": null,
+				"userPreferred": "Marisa Della Pasqua"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153008-h73CSmhTLyvx.jpg"
+		}]
+	}, {
+		"id": 204204,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Iris ",
+			"last": "Midgar",
+			"full": "Iris  Midgar",
+			"native": "アイリス・ミドガル",
+			"userPreferred": "Iris  Midgar"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b204204-wsPvzUwfdUwJ.jpg",
+		"voiceActors": [{
+			"id": 102263,
+			"language": "Japanese",
+			"name": {
+				"first": "Youko",
+				"last": "Hikasa",
+				"full": "Youko Hikasa",
+				"native": "日笠陽子",
+				"userPreferred": "Youko Hikasa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
+		}, {
+			"id": 129144,
+			"language": "English",
+			"name": {
+				"first": "Patricia",
+				"last": "Duran",
+				"full": "Patricia Duran",
+				"native": null,
+				"userPreferred": "Patricia Duran"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129144-TsEsYXH5n0va.jpg"
+		}, {
+			"id": 157479,
+			"language": "Italian",
+			"name": {
+				"first": "Chiara",
+				"last": "Francese",
+				"full": "Chiara Francese",
+				"native": "Chiara Francese",
+				"userPreferred": "Chiara Francese"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 304189,
+			"language": "French",
+			"name": {
+				"first": "Delphine",
+				"last": "Rivière",
+				"full": "Delphine Rivière",
+				"native": null,
+				"userPreferred": "Delphine Rivière"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 289297,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Eta",
+			"last": null,
+			"full": "Eta",
+			"native": "イータ",
+			"userPreferred": "Eta"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b289297-e2DgfeWhVPRa.jpg",
+		"voiceActors": [{
+			"id": 124747,
+			"language": "Japanese",
+			"name": {
+				"first": "Reina",
+				"last": "Kondou",
+				"full": "Reina Kondou",
+				"native": "近藤玲奈",
+				"userPreferred": "Reina Kondou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124747-uWJRlxZ05TaM.png"
+		}]
+	}, {
+		"id": 295293,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Omega",
+			"last": null,
+			"full": "Omega",
+			"native": "オメガ",
+			"userPreferred": "Omega"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b295293-w4DP3ifIZHu2.png",
+		"voiceActors": [{
+			"id": 120430,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryouko",
+				"last": "Maekawa",
+				"full": "Ryouko Maekawa",
+				"native": "前川涼子",
+				"userPreferred": "Ryouko Maekawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120430-CMENRlWNgR37.png"
+		}]
+	}, {
+		"id": 204202,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Annerose",
+			"last": " ",
+			"full": "Annerose  ",
+			"native": "アンネローゼ・フシアナス",
+			"userPreferred": "Annerose  "
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b204202-bvSbKDSSGg7J.png",
+		"voiceActors": [{
+			"id": 148220,
+			"language": "Japanese",
+			"name": {
+				"first": "Shion",
+				"last": "Wakayama",
+				"full": "Shion Wakayama",
+				"native": "若山詩音",
+				"userPreferred": "Shion Wakayama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n148220-VY4dx4JwvAer.png"
+		}, {
+			"id": 104991,
+			"language": "Italian",
+			"name": {
+				"first": "Giuliana",
+				"last": "Atepi",
+				"full": "Giuliana Atepi",
+				"native": null,
+				"userPreferred": "Giuliana Atepi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104991-9eWTfVyMactS.png"
+		}]
+	}, {
+		"id": 162248,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Delta",
+			"last": null,
+			"full": "Delta",
+			"native": "デルタ",
+			"userPreferred": "Delta"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162248-57Xgk6EmwKRQ.png",
+		"voiceActors": [{
+			"id": 133625,
+			"language": "Japanese",
+			"name": {
+				"first": "Fairouz",
+				"last": "Ai",
+				"full": "Fairouz Ai",
+				"native": "ファイルーズあい",
+				"userPreferred": "Fairouz Ai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n133625-YpEgKD7flV2S.jpg"
+		}, {
+			"id": 294654,
+			"language": "English",
+			"name": {
+				"first": "Raven",
+				"last": "Troup",
+				"full": "Raven Troup",
+				"native": null,
+				"userPreferred": "Raven Justine Troup"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n294654-1nRbmlVCSDkK.jpg"
+		}, {
+			"id": 224060,
+			"language": "Italian",
+			"name": {
+				"first": "Katia",
+				"last": "Sorrentino",
+				"full": "Katia Sorrentino",
+				"native": null,
+				"userPreferred": "Katia Sorrentino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n224060-1HPCAFItT5Sc.png"
+		}, {
+			"id": 212446,
+			"language": "French",
+			"name": {
+				"first": "Charlotte",
+				"last": "Hervieux",
+				"full": "Charlotte Hervieux",
+				"native": null,
+				"userPreferred": "Charlotte Hervieux"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n212446-VkFq5NXvAPUI.jpg"
+		}]
+	}, {
+		"id": 264565,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Zeta",
+			"last": null,
+			"full": "Zeta",
+			"native": "ゼータ",
+			"userPreferred": "Zeta"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b264565-XcXapBRcXO6V.jpg",
+		"voiceActors": [{
+			"id": 118939,
+			"language": "Japanese",
+			"name": {
+				"first": "Ayaka",
+				"last": "Asai",
+				"full": "Ayaka Asai",
+				"native": "朝井彩加",
+				"userPreferred": "Ayaka Asai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118939-6W4V2P4JL6QH.png"
+		}, {
+			"id": 294655,
+			"language": "English",
+			"name": {
+				"first": "Dominique",
+				"last": "Meyer",
+				"full": "Dominique Meyer",
+				"native": null,
+				"userPreferred": "Dominique Meyer"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n294655-QLayD3AmrHFc.jpg"
+		}, {
+			"id": 158646,
+			"language": "Italian",
+			"name": {
+				"first": "Deborah",
+				"last": "Morese",
+				"full": "Deborah Morese",
+				"native": null,
+				"userPreferred": "Deborah Morese"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 290064,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Zenon",
+			"last": "Griffey",
+			"full": "Zenon Griffey",
+			"native": "ゼノン・グリフィ",
+			"userPreferred": "Zenon Griffey"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b290064-5TdClmoLQxJz.jpg",
+		"voiceActors": [{
+			"id": 95042,
+			"language": "Japanese",
+			"name": {
+				"first": "Masaya",
+				"last": "Matsukaze",
+				"full": "Masaya Matsukaze",
+				"native": "松風雅也",
+				"userPreferred": "Masaya Matsukaze"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95042-gEcEYD7iDXnF.png"
+		}, {
+			"id": 120597,
+			"language": "English",
+			"name": {
+				"first": "Scott",
+				"last": "Gibbs",
+				"full": "Scott Gibbs",
+				"native": null,
+				"userPreferred": "Scott Gibbs"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120597-bLE3PH6TAZ5L.jpg"
+		}, {
+			"id": 157480,
+			"language": "Italian",
+			"name": {
+				"first": "Mattia",
+				"last": "Bressan",
+				"full": "Mattia Bressan",
+				"native": "Mattia Bressan",
+				"userPreferred": "Mattia Bressan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157480-SxPNCg5EQDlK.png"
+		}, {
+			"id": 304188,
+			"language": "French",
+			"name": {
+				"first": "Alexandre",
+				"last": "Bierry",
+				"full": "Alexandre Bierry",
+				"native": null,
+				"userPreferred": "Alexandre Bierry"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 295292,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kai",
+			"last": null,
+			"full": "Kai",
+			"native": "カイ",
+			"userPreferred": "Kai"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b295292-Eo3yIn4Qh8ND.png",
+		"voiceActors": [{
+			"id": 148844,
+			"language": "Japanese",
+			"name": {
+				"first": "Mayu",
+				"last": "Minami",
+				"full": "Mayu Minami",
+				"native": "南真由",
+				"userPreferred": "Mayu Minami"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n148844-GDJ8hpOUAa4j.jpg"
+		}]
+	}, {
+		"id": 296392,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tsugiide",
+			"last": "Makkenjii",
+			"full": "Tsugiide Makkenjii",
+			"native": "ツギーデ・マッケンジー",
+			"userPreferred": "Tsugiide Makkenjii"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b296392-SL1OMA0wXuHJ.jpg",
+		"voiceActors": [{
+			"id": 131578,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryuunosuke",
+				"last": "Watanuki",
+				"full": "Ryuunosuke Watanuki",
+				"native": "綿貫竜之介",
+				"userPreferred": "Ryuunosuke Watanuki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131578-XYDFui7Rf7M1.png"
+		}, {
+			"id": 260690,
+			"language": "Italian",
+			"name": {
+				"first": "Loris",
+				"last": "Bondesan",
+				"full": "Loris Bondesan",
+				"native": null,
+				"userPreferred": "Loris Bondesan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n260690-0J4AvWmT9zHO.jpg"
+		}]
+	}, {
+		"id": 168798,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Claire",
+			"last": "Kagenou",
+			"full": "Claire Kagenou",
+			"native": "クレア・カゲノー",
+			"userPreferred": "Claire Kagenou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b168798-IrHBKh5xbRsr.png",
+		"voiceActors": [{
+			"id": 100250,
+			"language": "Japanese",
+			"name": {
+				"first": "Rina",
+				"last": "Hidaka",
+				"full": "Rina Hidaka",
+				"native": "日高里菜",
+				"userPreferred": "Rina Hidaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100250-JhNN2vxQ311M.png"
+		}, {
+			"id": 95189,
+			"language": "English",
+			"name": {
+				"first": "Luci",
+				"last": "Christian",
+				"full": "Luci Christian",
+				"native": null,
+				"userPreferred": "Luci Christian"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95189-M2IkMNRzHYcF.jpg"
+		}, {
+			"id": 158950,
+			"language": "Italian",
+			"name": {
+				"first": "Martina",
+				"last": "Tamburello",
+				"full": "Martina Tamburello",
+				"native": null,
+				"userPreferred": "Martina Tamburello"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n158950-IhZBU2Gp4kG8.png"
+		}, {
+			"id": 274231,
+			"language": "French",
+			"name": {
+				"first": "Léopoldine",
+				"last": "Serre",
+				"full": "Léopoldine Serre",
+				"native": null,
+				"userPreferred": "Léopoldine Serre"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n274231-EWgqpIqXIqgK.jpg"
+		}]
+	}, {
+		"id": 197922,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sherry",
+			"last": "Barnett",
+			"full": "Sherry Barnett",
+			"native": "シェリー・バーネット",
+			"userPreferred": "Sherry Barnett"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b197922-O4tDEc271sYa.png",
+		"voiceActors": [{
+			"id": 129326,
+			"language": "Japanese",
+			"name": {
+				"first": "Saya",
+				"last": "Aizawa",
+				"full": "Saya Aizawa",
+				"native": "会沢紗弥",
+				"userPreferred": "Saya Aizawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129326-UrPZoDTpWkNt.png"
+		}, {
+			"id": 95414,
+			"language": "English",
+			"name": {
+				"first": "Brittney",
+				"last": "Karbowski",
+				"full": "Brittney Karbowski",
+				"native": null,
+				"userPreferred": "Brittney Karbowski"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/414.jpg"
+		}, {
+			"id": 157481,
+			"language": "Italian",
+			"name": {
+				"first": "Giulia",
+				"last": "Maniglio",
+				"full": "Giulia Maniglio",
+				"native": null,
+				"userPreferred": "Giulia Maniglio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157481-TqeSE5wMXRzY.png"
+		}]
+	}, {
+		"id": 290847,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Marco",
+			"last": "Granger",
+			"full": "Marco Granger",
+			"native": "マルコ・グレンジャー",
+			"userPreferred": "Marco Granger"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b290847-2rdQVKiCCwIk.jpg",
+		"voiceActors": [{
+			"id": 128786,
+			"language": "Japanese",
+			"name": {
+				"first": "Rikuya",
+				"last": "Yasuda",
+				"full": "Rikuya Yasuda",
+				"native": "安田陸矢",
+				"userPreferred": "Rikuya Yasuda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128786-52fsMpv7qvCl.png"
+		}, {
+			"id": 168122,
+			"language": "English",
+			"name": {
+				"first": "Blake",
+				"last": "Weir",
+				"full": "Blake Weir",
+				"native": null,
+				"userPreferred": "Blake Weir"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n168122-YHi47Ps2F3XH.jpg"
+		}, {
+			"id": 157476,
+			"language": "Italian",
+			"name": {
+				"first": "Mosè ",
+				"last": "Singh",
+				"full": "Mosè  Singh",
+				"native": "Mosè Singh",
+				"userPreferred": "Mosè  Singh"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157476-Aqhj80XXKHHa.jpg"
+		}, {
+			"id": 300218,
+			"language": "French",
+			"name": {
+				"first": "Vincent",
+				"last": "Pierrard",
+				"full": "Vincent Pierrard",
+				"native": null,
+				"userPreferred": "Vincent Pierrard"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 204203,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Olivier",
+			"last": "　",
+			"full": "Olivier 　",
+			"native": "オリヴィエ",
+			"userPreferred": "Olivier 　"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b204203-AUa5RQad7eC7.png",
+		"voiceActors": []
+	}, {
+		"id": 296393,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Quinton",
+			"last": null,
+			"full": "Quinton",
+			"native": "クイントン",
+			"userPreferred": "Quinton"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b296393-wvxuGqitrNTa.jpg",
+		"voiceActors": [{
+			"id": 95720,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenta",
+				"last": "Miyake",
+				"full": "Kenta Miyake",
+				"native": "三宅健太",
+				"userPreferred": "Kenta Miyake"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+		}, {
+			"id": 157831,
+			"language": "Italian",
+			"name": {
+				"first": "Stefano",
+				"last": "Albertini",
+				"full": "Stefano Albertini",
+				"native": null,
+				"userPreferred": "Stefano Albertini"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 108428,
+		"relationType": "ADAPTATION",
+		"malId": 115922,
+		"title": {
+			"romaji": "Kage no Jitsuryokusha ni Naritakute!",
+			"english": "The Eminence in Shadow",
+			"native": "陰の実力者になりたくて！",
+			"userPreferred": "Kage no Jitsuryokusha ni Naritakute!"
+		},
+		"status": "Ongoing",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108428-wTg20rSpvkU9.jpg",
+		"color": "#1a1ad6",
+		"type": "NOVEL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/108428-Zm90nTeodNMI.jpg",
+		"rating": 83
+	}, {
+		"id": 106758,
+		"relationType": "ALTERNATIVE",
+		"malId": 119022,
+		"title": {
+			"romaji": "Kage no Jitsuryokusha ni Naritakute!",
+			"english": "The Eminence in Shadow",
+			"native": "陰の実力者になりたくて！",
+			"userPreferred": "Kage no Jitsuryokusha ni Naritakute!"
+		},
+		"status": "Ongoing",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106758-jtXpQYQqyNJv.jpg",
+		"color": "#e45d35",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/106758-IWiib0G2AJdg.jpg",
+		"rating": 81
+	}, {
+		"id": 156001,
+		"relationType": "SIDE_STORY",
+		"malId": 53406,
+		"title": {
+			"romaji": "Kage-Jitsu!",
+			"english": "KAGE-JITSU!",
+			"native": "かげじつ！",
+			"userPreferred": "Kage-Jitsu!"
+		},
+		"status": "Completed",
+		"episodes": 17,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156001-Sudx5O8jCIQ4.jpg",
+		"color": "#e4a15d",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156001-Sudx5O8jCIQ4.jpg",
+		"rating": 70
+	}, {
+		"id": 161964,
+		"relationType": "SEQUEL",
+		"malId": 54595,
+		"title": {
+			"romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+			"english": "The Eminence in Shadow Season 2",
+			"native": "陰の実力者になりたくて！ 2nd season",
+			"userPreferred": "Kage no Jitsuryokusha ni Naritakute! 2nd season"
+		},
+		"status": "Not yet aired",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161964-chUYBE29hd1y.jpg",
+		"color": "#e4505d",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/161964-GiAaLuucbOoi.jpg",
+		"rating": null
+	}],
+	"mappings": {
+		"mal": 48316,
+		"anidb": 16073,
+		"kitsu": 44107,
+		"anilist": 130298,
+		"thetvdb": 407520,
+		"anisearch": 16003,
+		"livechart": 10432,
+		"notify.moe": "efOvyTyGR",
+		"anime-planet": "the-eminence-in-shadow"
+	},
+	"episodes": [{
+		"id": "the-eminence-in-shadow-episode-20",
+		"title": "Advent of the Demon",
+		"description": "Provoked by the fight between Shadow and Beatrix, Iris joins the fray. An intense battle progresses across the Royal Capital. Meanwhile, Rose runs into Alpha...",
+		"number": 20,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9369173/screencap/63e6243f71670.jpg",
+		"airDate": "2023-02-15T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-19",
+		"title": "Dancing Puppet",
+		"description": "Doem tries to make war with Midgar. Meanwhile, the match between Jimina and Iris begins.",
+		"number": 19,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9369172/screencap/63e2bc9f031bc.jpg",
+		"airDate": "2023-02-08T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-18",
+		"title": "Betting on a Moment",
+		"description": "Cid and Claire receive an invitation to a tournament. At the festivities, Cid receives more attention than a background character desires.",
+		"number": 18,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9369171/screencap/63d3c2db8776c.jpg",
+		"airDate": "2023-02-01T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-17",
+		"title": "Moonlight That Pierces the Darkness",
+		"description": "Cid recollects piano lessons from his past life — what impact does this have on his present? Meanwhile, Epsilon’s performance sets the soundtrack for something else...",
+		"number": 17,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9369170/screencap/63ca87728c728.jpg",
+		"airDate": "2023-01-25T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-16",
+		"title": "Unseen Intentions",
+		"description": "Princess Rose flees to the north of the Royal Capital. The Oriana Kingdom wants to handle it internally as a “purely domestic” matter.",
+		"number": 16,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9369169/screencap/63c14113a76de.jpg",
+		"airDate": "2023-01-18T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-15",
+		"title": "The Strongest Weakest Man",
+		"description": "Only the strongest warriors can advance in the prestigious Bushin Festival, but one contestant proves himself a feeble and mundane man with no talent. Why is he competing?",
+		"number": 15,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9369168/screencap/63b7ff40292e3.jpg",
+		"airDate": "2023-01-11T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-14",
+		"title": "Your Lie, Your Wish",
+		"description": "Cid’s victory is short-lived when Nelson counters with his new magic. Meanwhile, Alexia convinces Rose and Natsume to form an alliance to uncover the truth of their world.",
+		"number": 14,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9369167/screencap/63aea663a1d7c.jpg",
+		"airDate": "2023-01-04T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-13",
+		"title": "A Bloody Showdown as an Offering to Annihilation",
+		"description": "Alpha faces off against an empowered Nelson in a vicious battle. Elsewhere, Cid and Aurora reach the Sanctuary's core, but a door only a hero can open blocks their path.",
+		"number": 13,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9361010/screencap/63a5734e2a87b.jpg",
+		"airDate": "2022-12-28T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-12",
+		"title": "The Truth Within the Memories",
+		"description": "The door to the Sanctuary opens and Alpha strides through it, intending to expose the Cult’s grave secrets. Meanwhile, Cid also enters the Sanctuary and reunites with… Aurora?",
+		"number": 12,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9361009/screencap/639c4338bf8bf.jpg",
+		"airDate": "2022-12-21T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-11",
+		"title": "The Goddess' Trial",
+		"description": "The curtain rises on the Goddess’ Trial. When Cid is unwittingly called into the arena, he transforms into Shadow and faces none other than Aurora, the Witch of Calamity.",
+		"number": 11,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9361008/screencap/63931cfac37a8.jpg",
+		"airDate": "2022-12-14T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-10",
+		"title": "The Sacred Land, City of Deception",
+		"description": "Cid heads to Lindwurm in response to a summons from Alpha, but he is not the only one traveling there; the annual Goddess’ Trial is quickly approaching.",
+		"number": 10,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9361007/screencap/638a3aa974cc2.jpg",
+		"airDate": "2022-12-07T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-9",
+		"title": "The End of a Lie",
+		"description": "When the students fight back, Shadow Garden joins the fray as their reinforcements. Amidst the chaos, Cid confronts the Gaunt Knight.",
+		"number": 9,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9361006/screencap/6380860dd835c.jpg",
+		"airDate": "2022-11-30T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-8",
+		"title": "Dark Knight Academy Under Attack",
+		"description": "Cid sacrificed his life to save Rose. At least, that’s what everyone thinks. Unbeknownst to anyone else, Cid survived exactly as planned, and now his counterattack can begin.",
+		"number": 8,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9361005/screencap/6377baba330b1.jpg",
+		"airDate": "2022-11-23T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-7",
+		"title": "A Fencing Tournament of Intrigue & Bloodshed",
+		"description": "Cid gets a report from Nu about powerful cult members lurking in the Royal Capital. Too bad he’s too distracted about the upcoming fencing tournament to notice.",
+		"number": 7,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9361004/screencap/636e7b823fcd1.jpg",
+		"airDate": "2022-11-16T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-6",
+		"title": "Pretenders",
+		"description": "While Iris seeks a bright mind to study an artifact, Cid visits a popular store. Meanwhile, in the dark corners of the city, someone commits murders in Shadow Garden’s name!",
+		"number": 6,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9361003/screencap/63653ca4e1e3a.jpg",
+		"airDate": "2022-11-09T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-5",
+		"title": "I Am...",
+		"description": "Cid is not facing a minion but a would-be Knight of the Rounds. Normally, that is cause for concern, but an atomic bomb has no reason to fear the gnashing of a lowly pest.",
+		"number": 5,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9361001/screencap/635bc54790aab.jpg",
+		"airDate": "2022-11-02T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-4",
+		"title": "Sadism's Rewards",
+		"description": "The mistake those with power always make is believing that they are the ones in control.",
+		"number": 4,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360999/screencap/6353cf1766300.jpg",
+		"airDate": "2022-10-26T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-3",
+		"title": "Fencer Ordinaire",
+		"description": "The princess is supposed to reject the background character’s confession, not accept it — since when did Cid become a rom-com protagonist?",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360998/screencap/6349884007d0e.jpg",
+		"airDate": "2022-10-19T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-2",
+		"title": "Shadow Garden Is Born",
+		"description": "Reincarnated as the son of Baron Kagenou, Cid bides his time as Background Character A while preparing for the day he can finally become the Eminence in Shadow!",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9360997/screencap/63403c43153cc.jpg",
+		"airDate": "2022-10-12T00:00:00.000Z"
+	}, {
+		"id": "the-eminence-in-shadow-episode-1",
+		"title": "The Hated Classmate",
+		"description": "Akane copes with her trauma by being popular and working hard to make people like her, but one boy in her class doesn’t care about her at all. That bothers her to no end.",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/8806492/screencap/6336b1cc904be.jpg",
+		"airDate": "2022-10-05T00:00:00.000Z"
+	}]
+}
