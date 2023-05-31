@@ -41,7 +41,38 @@
 	"studios": ["Studio PuYUKAI"],
 	"subOrDub": "sub",
 	"type": "ONA",
-	"recommendations": [],
+	"recommendations": [{
+      "id": 130298,
+      "malId": 48316,
+      "title": {
+        "romaji": "Kage no Jitsuryokusha ni Naritakute!",
+		"english": "The Eminence in Shadow",
+		"native": "陰の実力者になりたくて！"
+      },
+      "status": "Completed",
+      "episodes": 20,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-O7nR1Wrav2dH.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130298-9yxFlFvKMwRk.jpg",
+      "rating": 82,
+      "type": "tv",
+	  "animeurl": "the-eminence-in-shadow"
+    },
+	{
+      "id": 156001,
+      "malId": 53406,
+      "title": {
+        "romaji": "Kage-Jitsu!",
+		"english": "KAGE-JITSU!",
+		"native": "かげじつ！"
+      },
+      "status": "Completed",
+      "episodes": 17,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156001-Sudx5O8jCIQ4.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156001-Sudx5O8jCIQ4.jpg",
+      "rating": 69,
+      "type": "ona",
+	  "animeurl": "kagejitsu"
+    }],
 	"characters": [{
 		"id": 162248,
 		"role": "MAIN",
