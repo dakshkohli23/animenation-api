@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "the-eminence-in-shadow",
+		"episodeId": "the-eminence-in-shadow-episode-1",
+		"name": "Kage no Jitsuryokusha ni Naritakute!",
+		"jname": "The Eminence in Shadow",
+		"episodeNum": "20",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-O7nR1Wrav2dH.jpg",
+		"episodeUrl": "../anime/the-eminence-in-shadow"
+	},
+	{
 		"animeId": "my-hero-academia",
 		"episodeId": "my-hero-academia-episode-1",
 		"name": "Boku no Hero Academia",
