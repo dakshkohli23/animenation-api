@@ -1068,6 +1068,42 @@
             "genres": ["Comedy", "Fantasy"]
         },
         {
+            "animeId": "mob-psycho-100",
+            "episodeId": "mob-psycho-100-episode-1",
+            "name": "Mob Psycho 100",
+            "jname": "Mob Psycho 100",
+            "episodeNum": "12",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-BICFCVZY3xQb.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/mob-psycho-100",
+            "genres": ["Action", "Comedy", "Psychological", "Slice of Life", "Supernatural"]
+        },
+        {
+            "animeId": "mob-psycho-100-ii",
+            "episodeId": "mob-psycho-100-ii-episode-1",
+            "name": "Mob Psycho 100 II",
+            "jname": "Mob Psycho 100 II",
+            "episodeNum": "13",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-7qOfIaEKSjgl.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/mob-psycho-100-ii",
+            "genres": ["Action", "Comedy", "Psychological", "Slice of Life", "Supernatural"]
+        },
+        {
+            "animeId": "mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul",
+            "episodeId": "mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul-episode-1",
+            "name": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+            "jname": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109819-71ZeBjJuU3da.png",
+            "type": "ova",
+            "episodeUrl": "anime/mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul",
+            "genres": ["Action", "Comedy", "Supernatural"]
+        },
+        {
             "animeId": "my-hero-academia",
             "episodeId": "my-hero-academia-episode-1",
             "name": "My Hero Academia",
