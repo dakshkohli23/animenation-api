@@ -40,8 +40,8 @@
     "month": "3",
     "day": "24"
   },
-  "currentEpisode": 45,
-  "totalEpisodes": 45,
+  "currentEpisode": 46,
+  "totalEpisodes": 46,
   "rating": 73,
   "duration": 24,
   "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
@@ -3462,6 +3462,12 @@
       "title": "Pokémon Ultimate Journeys: The Series Episode 45",
       "image": "",
       "number": 45
+    },
+    {
+      "id": "pokemon-ultimate-journeys-episode-46",
+      "title": "Pokémon Ultimate Journeys: The Series Episode 46",
+      "image": "",
+      "number": 46
     }
     
   ]
