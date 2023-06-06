@@ -1,0 +1,74 @@
+[
+        {
+            "server1": "9i1wokimk49e",
+            "animeNameWithEP": "Mob Psycho Mini Episode 1",
+            "ep_num": "1",
+            "anime_info": "mob-psycho-mini",
+            "movie_id": "102449",
+            "alias": "mob-psycho-mini",
+            "nextEpText": "Mob Psycho Mini Episode 2 >>",
+            "nextEpLink": "/mob-psycho-mini-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "401pef34ibqb",
+            "animeNameWithEP": "Mob Psycho Mini Episode 2",
+            "ep_num": "2",
+            "anime_info": "mob-psycho-mini",
+            "movie_id": "102449",
+            "alias": "mob-psycho-mini",
+            "nextEpText": "Mob Psycho Mini Episode 3 >>",
+            "nextEpLink": "/mob-psycho-mini-episode-3",
+            "prevEpText": "<< Mob Psycho Mini Episode 1",
+            "prevEpLink": "/mob-psycho-mini-episode-1"
+        },
+        {
+            "server1": "cv8du73qao0u",
+            "animeNameWithEP": "Mob Psycho Mini Episode 3",
+            "ep_num": "3",
+            "anime_info": "mob-psycho-mini",
+            "movie_id": "102449",
+            "alias": "mob-psycho-mini",
+            "nextEpText": "Mob Psycho Mini Episode 4 >>",
+            "nextEpLink": "/mob-psycho-mini-episode-4",
+            "prevEpText": "<< Mob Psycho Mini Episode 2",
+            "prevEpLink": "/mob-psycho-mini-episode-2"
+        },
+        {
+            "server1": "387l4yhwy4md",
+            "animeNameWithEP": "Mob Psycho Mini Episode 4",
+            "ep_num": "4",
+            "anime_info": "mob-psycho-mini",
+            "movie_id": "102449",
+            "alias": "mob-psycho-mini",
+            "nextEpText": "Mob Psycho Mini Episode 5 >>",
+            "nextEpLink": "/mob-psycho-mini-episode-5",
+            "prevEpText": "<< Mob Psycho Mini Episode 3",
+            "prevEpLink": "/mob-psycho-mini-episode-3"
+        },
+        {
+            "server1": "hx0ahmm9x0cz",
+            "animeNameWithEP": "Mob Psycho Mini Episode 5",
+            "ep_num": "5",
+            "anime_info": "mob-psycho-mini",
+            "movie_id": "102449",
+            "alias": "mob-psycho-mini",
+            "nextEpText": "Mob Psycho Mini Episode 6 >>",
+            "nextEpLink": "/mob-psycho-mini-episode-6",
+            "prevEpText": "<< Mob Psycho Mini Episode 4",
+            "prevEpLink": "/mob-psycho-mini-episode-4"
+        },
+        {
+            "server1": "rj1cn6frghs3",
+            "animeNameWithEP": "Mob Psycho Mini Episode 6",
+            "ep_num": "6",
+            "anime_info": "mob-psycho-mini",
+            "movie_id": "102449",
+            "alias": "mob-psycho-mini",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Mob Psycho Mini Episode 5",
+            "prevEpLink": "/mob-psycho-mini-episode-5"
+        }
+    ]
