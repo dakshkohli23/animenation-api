@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "oshi-no-ko",
+		"episodeId": "oshi-no-ko-episode-7",
+		"name": "Oshi No Ko",
+		"jname": "[Oshi no Ko]",
+		"episodeNum": "8",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
+		"episodeUrl": "../anime/oshi-no-ko"
+	},
+	{
 		"animeId": "mob-psycho-100-iii",
 		"episodeId": "mob-psycho-100-iii-episode-1",
 		"name": "Mob Psycho 100 III",
@@ -91,17 +102,7 @@
 
 
 
-		{
-		"animeId": "oshi-no-ko",
-		"episodeId": "oshi-no-ko-episode-7",
-		"name": "Oshi No Ko",
-		"jname": "[Oshi no Ko]",
-		"episodeNum": "7",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
-		"episodeUrl": "../anime/oshi-no-ko"
-	},
+
 	{
 		"animeId": "fullmetal-alchemist-brotherhood",
 		"episodeId": "fullmetal-alchemist-brotherhood-episode-1",
