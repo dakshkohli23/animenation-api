@@ -1,4 +1,15 @@
 [
+	{
+		"animeId": "oshi-no-ko",
+		"episodeId": "oshi-no-ko-episode-7",
+		"name": "Oshi No Ko",
+		"jname": "[Oshi no Ko]",
+		"episodeNum": "8",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
+		"episodeUrl": "../anime/oshi-no-ko"
+	},
 {
 		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
 		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-9",
@@ -34,17 +45,7 @@
 	},
 
 
-	{
-		"animeId": "oshi-no-ko",
-		"episodeId": "oshi-no-ko-episode-7",
-		"name": "Oshi No Ko",
-		"jname": "[Oshi no Ko]",
-		"episodeNum": "7",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
-		"episodeUrl": "../anime/oshi-no-ko"
-	},
+
 
 
 
