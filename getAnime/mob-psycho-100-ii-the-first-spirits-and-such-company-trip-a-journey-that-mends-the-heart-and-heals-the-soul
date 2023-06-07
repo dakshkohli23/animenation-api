@@ -36,7 +36,102 @@
 	"studios": ["bones"],
 	"subOrDub": "dub",
 	"type": "OVA",
-	"recommendations": [],
+	"recommendations": [{
+      "id": 21507,
+      "malId": 32182,
+      "title": {
+        "romaji": "Mob Psycho 100",
+		"english": "Mob Psycho 100",
+		"native": "モブサイコ100"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-BICFCVZY3xQb.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21507-Qx8bGsLXUgLo.jpg",
+      "rating": 84,
+      "type": "TV",
+	  "animeurl": "mob-psycho-100"
+    },
+	{
+      "id": 101338,
+      "malId": 37510,
+      "title": {
+        "romaji": "Mob Psycho 100 II",
+		"english": "Mob Psycho 100 II",
+		"native": "モブサイコ100 II"
+      },
+      "status": "Completed",
+      "episodes": 13,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-7qOfIaEKSjgl.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101338-Rl54Qhx71dUq.jpg",
+      "rating": 88,
+      "type": "TV",
+	  "animeurl": "mob-psycho-100-ii"
+    },
+	{
+      "id": 140439,
+      "malId": 50172,
+      "title": {
+        "romaji": "Mob Psycho 100 III",
+		"english": "Mob Psycho 100 III",
+		"native": "モブサイコ100 Ⅲ"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140439-qpBzXkvVqSx3.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140439-r9SRh0q0UgX1.jpg",
+      "rating": 87,
+      "type": "TV",
+	  "animeurl": "mob-psycho-100-iii"
+    },
+	{
+      "id": 100353,
+      "malId": 36616,
+      "title": {
+        "romaji": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+		"english": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+		"native": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100353-6dM62JCho2Yg.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100353-4rbNdk54kkHu.jpg",
+      "rating": 72,
+      "type": "OVA",
+	  "animeurl": "mob-psycho-100-reigen-the-miraculous-unknown-psychic"
+    },
+	{
+      "id": 109819,
+      "malId": 39651,
+      "title": {
+        "romaji": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+		"english": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+		"native": "モブサイコ100 第一回霊とか相談所慰安旅行~ココロ満たす癒やしの旅~"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109819-71ZeBjJuU3da.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109819-x6X6TbHlXyBr.jpg",
+      "rating": 76,
+      "type": "OVA",
+	  "animeurl": "mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul"
+    },
+	{
+      "id": 102449,
+      "malId": 37504,
+      "title": {
+        "romaji": "Mob Psycho mini",
+		"english": "Mob Psycho mini",
+		"native": "モブサイコmini"
+      },
+      "status": "Completed",
+      "episodes": 6,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102449-P13Qyzq9MczC.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102449-xUcBC7lXOPPJ.jpg",
+      "rating": 63,
+      "type": "Special",
+	  "animeurl": "mob-psycho-mini"
+    }],
 	"characters": [{
 		"id": 89616,
 		"role": "MAIN",
