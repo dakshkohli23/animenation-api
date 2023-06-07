@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "mob-psycho-100-iii",
+		"episodeId": "mob-psycho-100-iii-episode-1",
+		"name": "Mob Psycho 100 III",
+		"jname": "Mob Psycho 100 III",
+		"episodeNum": "12",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140439-qpBzXkvVqSx3.jpg",
+		"episodeUrl": "../anime/mob-psycho-100-iii"
+	},
+	{
 		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
 		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-9",
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
