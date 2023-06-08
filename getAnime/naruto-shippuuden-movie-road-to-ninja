@@ -36,7 +36,182 @@
 	"studios": ["Studio Pierrot"],
 	"subOrDub": "dub",
 	"type": "MOVIE",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 20,
+		"malId": 20,
+		"title": {
+			"romaji": "NARUTO",
+			"english": "Naruto",
+			"native": "NARUTO -ナルト-"
+		},
+		"status": "Completed",
+		"episodes": 220,
+		"image": "https://www.themoviedb.org/t/p/original/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+		"cover": "https://www.themoviedb.org/t/p/original/xuJ0F9RfKvVSJNDg2usurQ9WvY5.jpg",
+		"rating": 79,
+		"type": "TV",
+		"animeurl": "naruto"
+	},
+	{
+		"id": 442,
+		"malId": 442,
+		"title": {
+			"romaji": "NARUTO: Dai Katsugeki! Yuki Hime Ninpouchou Dattebayo!!",
+			"english": "Naruto the Movie: Ninja Clash in the Land of Snow",
+			"native": "劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx442-VJbmIVTgmne3.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/442-Mi9O1QwTaXqQ.jpg",
+		"rating": 67,
+		"type": "MOVIE",
+		"animeurl": "naruto-the-movie-ninja-clash-in-the-land-of-snow"
+	},
+	{
+		"id": 936,
+		"malId": 936,
+		"title": {
+			"romaji": "NARUTO: Dai Gekitotsu! Maboroshi no Chitei Iseki Dattebayo",
+			"english": "Naruto the Movie: Legend of the Stone of Gelel",
+			"native": "劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx936-P1ogcIs07UR8.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/936-q1NJoF3NDEjF.jpg",
+		"rating": 65,
+		"type": "MOVIE",
+		"animeurl": "naruto-the-movie-legend-of-the-stone-of-gelel"
+	},
+	{
+		"id": 2144,
+		"malId": 2144,
+		"title": {
+			"romaji": "NARUTO: Dai Koufun! Mikazukijima no Animal Panic Dattebayo!",
+			"english": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+			"native": "劇場版 NARUTO -ナルト- 大興奮!みかづき島のアニマル騒動だってばよ"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2144-9FITEzdGnlWC.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2144-KnEAcgexm2SI.jpg",
+		"rating": 65,
+		"type": "MOVIE",
+		"animeurl": "naruto-the-movie-guardians-of-the-crescent-moon-kingdom"
+	},
+	{
+		"id": 2472,
+		"malId": 2472,
+		"title": {
+			"romaji": "NARUTO: Shippuuden Movie",
+		"english": "Naruto Shippuden the Movie",
+		"native": "劇場版 NARUTO -ナルト- 疾風伝"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2472-mYApVxceStn5.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2472-yKoD8rvll5al.jpg",
+		"rating": 69,
+		"type": "MOVIE",
+		"animeurl": "naruto-shippuden-the-movie"
+	},
+	{
+		"id": 4437,
+		"malId": 4437,
+		"title": {
+			"romaji": "NARUTO: Shippuuden - Kizuna",
+		"english": "Naruto Shippuden the Movie: Bonds",
+		"native": "劇場版 NARUTO -ナルト- 疾風伝 絆"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4437-8LQbBZo4N6yi.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4437-iYmkXFEF3ybw.jpg",
+		"rating": 69,
+		"type": "MOVIE",
+		"animeurl": "naruto-shippuden-the-movie-bonds"
+	},
+	{
+		"id": 6325,
+		"malId": 6325,
+		"title": {
+			"romaji": "NARUTO: Shippuuden - Hi no Ishi wo Tsugu Mono",
+		"english": "Naruto Shippuden the Movie: The Will of Fire",
+		"native": "劇場版 NARUTO -ナルト- 疾風伝 火の意志を継ぐ者"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6325-WaJPWmdnzgiI.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6325-DpxNXjgp7BPz.jpg",
+		"rating": 70,
+		"type": "MOVIE",
+		"animeurl": "naruto-shippuden-the-movie-the-will-of-fire"
+	},
+	{
+		"id": 8246,
+		"malId": 8246,
+		"title": {
+			"romaji": "NARUTO: Shippuuden - The Lost Tower",
+		"english": "Naruto Shippuden the Movie: The Lost Tower",
+		"native": "劇場版 NARUTO -ナルト- 疾風伝 ザ・ロストタワー"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8246-KAi3bLLdJ4OI.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8246-FfSs0aXwJpPV.jpg",
+		"rating": 70,
+		"type": "MOVIE",
+		"animeurl": "naruto-shippuden-the-movie-the-lost-tower"
+	},
+	{
+		"id": 10589,
+		"malId": 10589,
+		"title": {
+			"romaji": "NARUTO: Blood Prison",
+		"english": "Naruto Shippuden the Movie: Blood Prison",
+		"native": "劇場版 NARUTO -ナルト- ブラッド・プリズン"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10589-VhXWWMm24Dso.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10589-s5r2dzqohuU7.jpg",
+		"rating": 71,
+		"type": "MOVIE",
+		"animeurl": "naruto-shippuden-the-movie-blood-prison"
+	},
+	{
+		"id": 13667,
+		"malId": 13667,
+		"title": {
+			"romaji": "ROAD TO NINJA: NARUTO THE MOVIE",
+		"english": "Road to Ninja: Naruto the Movie",
+		"native": "ROAD TO NINJA -NARUTO THE MOVIE-"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13667-gAKuIXI2avRq.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13667-7Cpxg5sCOVpw.jpg",
+		"rating": 74,
+		"type": "MOVIE",
+		"animeurl": "naruto-shippuuden-movie-road-to-ninja"
+	},
+	{
+		"id": 16870,
+		"malId": 16870,
+		"title": {
+			"romaji": "THE LAST: NARUTO THE MOVIE",
+		"english": "The Last: Naruto the Movie",
+		"native": "THE LAST -NARUTO THE MOVIE-"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16870-Wg0XQKHcwV1r.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16870-xz6KbaGC0jas.jpg",
+		"rating": 76,
+		"type": "MOVIE",
+		"animeurl": "naruto-shippuuden-movie-the-last"
+	}],
 	"characters": [{
 		"id": 2535,
 		"role": "MAIN",
