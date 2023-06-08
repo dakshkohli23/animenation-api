@@ -1092,6 +1092,18 @@
             "genres": ["Action", "Comedy", "Psychological", "Slice of Life", "Supernatural"]
         },
         {
+            "animeId": "mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul",
+            "episodeId": "mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul-episode-1",
+            "name": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
+            "jname": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109819-71ZeBjJuU3da.png",
+            "type": "ova",
+            "episodeUrl": "anime/mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul",
+            "genres": ["Action", "Comedy", "Supernatural"]
+        },
+        {
             "animeId": "mob-psycho-100-iii",
             "episodeId": "mob-psycho-100-iii-episode-1",
             "name": "Mob Psycho 100 III",
@@ -1104,6 +1116,18 @@
             "genres": ["Action", "Comedy", "Psychological", "Slice of Life", "Supernatural"]
         },
         {
+            "animeId": "mob-psycho-100-reigen-the-miraculous-unknown-psychic",
+            "episodeId": "mob-psycho-100-reigen-the-miraculous-unknown-psychic-episode-1",
+            "name": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
+            "jname": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100353-6dM62JCho2Yg.png",
+            "type": "ova",
+            "episodeUrl": "anime/mob-psycho-100-reigen-the-miraculous-unknown-psychic",
+            "genres": ["Action", "Comedy", "Supernatural"]
+        },
+        {
             "animeId": "mob-psycho-mini",
             "episodeId": "mob-psycho-mini-episode-1",
             "name": "Mob Psycho mini",
@@ -1114,18 +1138,6 @@
             "type": "special",
             "episodeUrl": "anime/mob-psycho-mini",
             "genres": ["Comedy"]
-        },
-        {
-            "animeId": "mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul",
-            "episodeId": "mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul-episode-1",
-            "name": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
-            "jname": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
-            "episodeNum": "1",
-            "subOrDub": "dub",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109819-71ZeBjJuU3da.png",
-            "type": "ova",
-            "episodeUrl": "anime/mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul",
-            "genres": ["Action", "Comedy", "Supernatural"]
         },
         {
             "animeId": "my-hero-academia",
@@ -1186,6 +1198,66 @@
             "type": "tv",
             "episodeUrl": "anime/naruto",
             "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Supernatural"]
+        },
+        {
+            "animeId": "naruto-shippuden-the-movie",
+            "episodeId": "naruto-shippuden-the-movie-episode-1",
+            "name": "Naruto Shippuden the Movie",
+            "jname": "NARUTO: Shippuuden Movie",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2472-mYApVxceStn5.png",
+            "type": "movie",
+            "episodeUrl": "anime/naruto-shippuden-the-movie",
+            "genres": ["Action", "Adventure", "Comedy", "Fantasy"]
+        },
+        {
+            "animeId": "naruto-shippuden-the-movie-blood-prison",
+            "episodeId": "naruto-shippuden-the-movie-blood-prison-episode-1",
+            "name": "Naruto Shippuden the Movie: Blood Prison",
+            "jname": "NARUTO: Blood Prison",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10589-VhXWWMm24Dso.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/naruto-shippuden-the-movie-blood-prison",
+            "genres": ["Action", "Adventure", "Mystery"]
+        },
+        {
+            "animeId": "naruto-shippuden-the-movie-bonds",
+            "episodeId": "naruto-shippuden-the-movie-bonds-episode-1",
+            "name": "Naruto Shippuden the Movie: Bonds",
+            "jname": "NARUTO: Shippuuden - Kizuna",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4437-8LQbBZo4N6yi.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/naruto-shippuden-the-movie-bonds",
+            "genres": ["Action", "Supernatural"]
+        },
+        {
+            "animeId": "naruto-shippuden-the-movie-the-lost-tower",
+            "episodeId": "naruto-shippuden-the-movie-the-lost-tower-episode-1",
+            "name": "Naruto Shippuden the Movie: The Lost Tower",
+            "jname": "NARUTO: Shippuuden - The Lost Tower",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8246-KAi3bLLdJ4OI.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/naruto-shippuden-the-movie-the-lost-tower",
+            "genres": ["Action", "Comedy"]
+        },
+        {
+            "animeId": "naruto-shippuden-the-movie-the-will-of-fire",
+            "episodeId": "naruto-shippuden-the-movie-the-will-of-fire-episode-1",
+            "name": "Naruto Shippuden the Movie: The Will of Fire",
+            "jname": "NARUTO: Shippuuden - Hi no Ishi wo Tsugu Mono",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6325-WaJPWmdnzgiI.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/naruto-shippuden-the-movie-the-will-of-fire",
+            "genres": ["Action", "Comedy"]
         },
         {
             "animeId": "naruto-the-movie-guardians-of-the-crescent-moon-kingdom",
@@ -1920,6 +1992,18 @@
             "genres": ["Action", "Drama", "Fantasy", "Supernatural"]
         },
         {
+            "animeId": "naruto-shippuuden-movie-road-to-ninja",
+            "episodeId": "naruto-shippuuden-movie-road-to-ninja-episode-1",
+            "name": "Road to Ninja: Naruto the Movie",
+            "jname": "ROAD TO NINJA: NARUTO THE MOVIE",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13667-gAKuIXI2avRq.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/naruto-shippuuden-movie-road-to-ninja",
+            "genres": ["Action", "Adventure"]
+        },
+        {
             "animeId": "samurai-champloo",
             "episodeId": "samurai-champloo-episode-1",
             "name": "Samurai Champloo",
@@ -2002,6 +2086,18 @@
             "type": "tv",
             "episodeUrl": "anime/the-eminence-in-shadow",
             "genres": ["Action", "Comedy", "Fantasy"]
+        },
+        {
+            "animeId": "naruto-shippuuden-movie-the-last",
+            "episodeId": "naruto-shippuuden-movie-the-last-episode-1",
+            "name": "The Last: Naruto the Movie",
+            "jname": "THE LAST: NARUTO THE MOVIE",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16870-Wg0XQKHcwV1r.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/naruto-shippuuden-movie-the-last",
+            "genres": ["Action", "Romance"]
         },
         {
             "animeId": "the-powerpuff-girls",
