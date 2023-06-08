@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "naruto-shippuuden-movie-the-last",
+		"episodeId": "naruto-shippuuden-movie-the-last-episode-1",
+		"name": "The Last: Naruto the Movie",
+		"jname": "THE LAST: NARUTO THE MOVIE",
+		"episodeNum": "1",
+		"subOrDub": "dub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16870-Wg0XQKHcwV1r.jpg",
+		"episodeUrl": "../anime/naruto-shippuuden-movie-the-last"
+	},
+	{
 		"animeId": "oshi-no-ko",
 		"episodeId": "oshi-no-ko-episode-8",
 		"name": "Oshi No Ko",
