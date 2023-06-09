@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "one-punch-man-season-2",
+		"episodeId": "one-punch-man-season-2-episode-1",
+		"name": "One-Punch Man Season 2",
+		"jname": "One Punch Man 2",
+		"episodeNum": "12",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
+		"episodeUrl": "../anime/one-punch-man-season-2"
+	},
+	{
 		"animeId": "demon-slayer-swordsmith-village-arc",
 		"episodeId": "demon-slayer-swordsmith-village-arc-episode-1",
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
