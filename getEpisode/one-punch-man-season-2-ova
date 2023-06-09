@@ -1,0 +1,74 @@
+[
+        {
+            "server1": "lhrxsx9h2avz",
+            "animeNameWithEP": "One-Punch Man Season 2 OVA Episode 1",
+            "ep_num": "1",
+            "anime_info": "one-punch-man-season-2-ova",
+            "movie_id": "97668",
+            "alias": "one-punch-man-season-2-ova",
+            "nextEpText": "One-Punch Man Season 2 OVA Episode 2 >>",
+            "nextEpLink": "/one-punch-man-season-2-ova-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "ucsom9nf82h2",
+            "animeNameWithEP": "One-Punch Man Season 2 OVA Episode 2",
+            "ep_num": "2",
+            "anime_info": "one-punch-man-season-2-ova",
+            "movie_id": "97668",
+            "alias": "one-punch-man-season-2-ova",
+            "nextEpText": "One-Punch Man Season 2 OVA Episode 3 >>",
+            "nextEpLink": "/one-punch-man-season-2-ova-episode-3",
+            "prevEpText": "<< One-Punch Man Season 2 OVA Episode 1",
+            "prevEpLink": "/one-punch-man-season-2-ova-episode-1"
+        },
+        {
+            "server1": "1w20e9p669xc",
+            "animeNameWithEP": "One-Punch Man Season 2 OVA Episode 3",
+            "ep_num": "3",
+            "anime_info": "one-punch-man-season-2-ova",
+            "movie_id": "97668",
+            "alias": "one-punch-man-season-2-ova",
+            "nextEpText": "One-Punch Man Season 2 OVA Episode 4 >>",
+            "nextEpLink": "/one-punch-man-season-2-ova-episode-4",
+            "prevEpText": "<< One-Punch Man Season 2 OVA Episode 2",
+            "prevEpLink": "/one-punch-man-season-2-ova-episode-2"
+        },
+        {
+            "server1": "hguy14h7e0mn",
+            "animeNameWithEP": "One-Punch Man Season 2 OVA Episode 4",
+            "ep_num": "4",
+            "anime_info": "one-punch-man-season-2-ova",
+            "movie_id": "97668",
+            "alias": "one-punch-man-season-2-ova",
+            "nextEpText": "One-Punch Man Season 2 OVA Episode 5 >>",
+            "nextEpLink": "/one-punch-man-season-2-ova-episode-5",
+            "prevEpText": "<< One-Punch Man Season 2 OVA Episode 3",
+            "prevEpLink": "/one-punch-man-season-2-ova-episode-3"
+        },
+        {
+            "server1": "qdjvlqllbvj2",
+            "animeNameWithEP": "One-Punch Man Season 2 OVA Episode 5",
+            "ep_num": "5",
+            "anime_info": "one-punch-man-season-2-ova",
+            "movie_id": "97668",
+            "alias": "one-punch-man-season-2-ova",
+            "nextEpText": "One-Punch Man Season 2 OVA Episode 6 >>",
+            "nextEpLink": "/one-punch-man-season-2-ova-episode-6",
+            "prevEpText": "<< One-Punch Man Season 2 OVA Episode 4",
+            "prevEpLink": "/one-punch-man-season-2-ova-episode-4"
+        },
+        {
+            "server1": "y0khlv1l1jka",
+            "animeNameWithEP": "One-Punch Man Season 2 OVA Episode 6",
+            "ep_num": "6",
+            "anime_info": "one-punch-man-season-2-ova",
+            "movie_id": "97668",
+            "alias": "one-punch-man-season-2-ova",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< One-Punch Man Season 2 OVA Episode 5",
+            "prevEpLink": "/one-punch-man-season-2-ova-episode-5"
+        }
+    ]
