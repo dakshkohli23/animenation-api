@@ -648,6 +648,18 @@
             "genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"]
         },
         {
+            "animeId": "demon-slayer-swordsmith-village-arc",
+            "episodeId": "demon-slayer-swordsmith-village-arc-episode-1",
+            "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+            "jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+            "episodeNum": "2",
+            "subOrDub": "dub",
+            "imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/demon-slayer-swordsmith-village-arc",
+            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"]
+        },
+        {
             "animeId": "dr-stone",
             "episodeId": "dr-stone-episode-1",
             "name": "Dr. STONE",
@@ -1306,6 +1318,78 @@
             "type": "movie",
             "episodeUrl": "anime/one-piece-film-red",
             "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Music"]
+        },
+        {
+            "animeId": "one-punch-man",
+            "episodeId": "one-punch-man-episode-1",
+            "name": "One-Punch Man",
+            "jname": "One Punch Man",
+            "episodeNum": "13",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-UV2tu6exrfXz.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/one-punch-man",
+            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"]
+        },
+        {
+            "animeId": "one-punch-man-ova",
+            "episodeId": "one-punch-man-ova-episode-1",
+            "name": "One-Punch Man OVA",
+            "jname": "One Punch Man OVA",
+            "episodeNum": "6",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21416-IwCJBh54K3iw.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/one-punch-man-ova",
+            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"]
+        },
+        {
+            "animeId": "one-punch-man-road-to-hero",
+            "episodeId": "one-punch-man-road-to-hero-episode-1",
+            "name": "One-Punch Man: Road to Hero",
+            "jname": "One Punch Man: Road to Hero",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21386-ZMcREWXeWMow.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/one-punch-man-road-to-hero",
+            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"]
+        },
+        {
+            "animeId": "one-punch-man-season-2",
+            "episodeId": "one-punch-man-season-2-episode-1",
+            "name": "One-Punch Man Season 2",
+            "jname": "One Punch Man 2",
+            "episodeNum": "12",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
+            "type": "tv",
+            "episodeUrl": "anime/one-punch-man-season-2",
+            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"]
+        },
+        {
+            "animeId": "one-punch-man-season-2-ova",
+            "episodeId": "one-punch-man-season-2-ova-episode-1",
+            "name": "One-Punch Man Season 2 OVA",
+            "jname": "One Punch Man 2 OVA",
+            "episodeNum": "6",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108945-snH9n5sN1vrb.png",
+            "type": "ova",
+            "episodeUrl": "anime/one-punch-man-season-2-ova",
+            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"]
+        },
+        {
+            "animeId": "go-saitama",
+            "episodeId": "go-saitama-episode-1",
+            "name": "Go! Saitama",
+            "jname": "Go! Saitama",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139586-Bd6VA8DW1CsY.png",
+            "type": "ona",
+            "episodeUrl": "anime/go-saitama",
+            "genres": ["Action", "Comedy"]
         },
         {
             "animeId": "oshi-no-ko",
