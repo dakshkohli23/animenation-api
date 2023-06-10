@@ -102,9 +102,21 @@
             "anime_info": "pokemon-horizons-the-series",
             "movie_id": "158871",
             "alias": "pokemon-horizons-the-series",
-            "nextEpText": "",
-            "nextEpLink": "",
+            "nextEpText": "Pokémon Horizons The Series Episode 10 >>",
+            "nextEpLink": "/pokemon-horizons-the-series-episode-10",
             "prevEpText": "<< Pokémon Horizons The Series Episode 8",
             "prevEpLink": "/pokemon-horizons-the-series-episode-8"
+        },
+        {
+            "server1": "aalhxqcwso0g",
+            "animeNameWithEP": "Pokémon Horizons The Series Episode 10",
+            "ep_num": "10",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "158871",
+            "alias": "pokemon-horizons-the-series",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Pokémon Horizons The Series Episode 9",
+            "prevEpLink": "/pokemon-horizons-the-series-episode-9"
         }
     ]
