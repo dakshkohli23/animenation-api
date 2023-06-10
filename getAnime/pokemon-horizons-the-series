@@ -37,8 +37,8 @@
 		"timeUntilAiring": 178006,
 		"episode": 7
 	},
-	"totalEpisodes": 9,
-	"currentEpisode": 9,
+	"totalEpisodes": 13,
+	"currentEpisode": 10,
 	"rating": 72,
 	"duration": null,
 	"genres": ["Adventure", "Fantasy"],
@@ -702,6 +702,13 @@
 		"title": "",
 		"description": "",
 		"number": 9,
+		"image": "",
+		"airDate": ""
+	}, {
+		"id": "pokemon-horizons-the-series-episode-10",
+		"title": "",
+		"description": "",
+		"number": 10,
 		"image": "",
 		"airDate": ""
 	}]
