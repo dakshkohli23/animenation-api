@@ -38,7 +38,7 @@
 		"episode": 2
 	},
 	"totalEpisodes": 11,
-	"currentEpisode": 9,
+	"currentEpisode": 10,
 	"rating": 84,
 	"duration": 24,
 	"genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
@@ -1298,6 +1298,13 @@
 		"title": "",
 		"description": ".",
 		"number": 9,
+		"image": "",
+		"airDate": "2023-04-09T00:00:00.000Z"
+	},{
+		"id": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-10",
+		"title": "",
+		"description": ".",
+		"number": 10,
 		"image": "",
 		"airDate": "2023-04-09T00:00:00.000Z"
 	}]
