@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
+		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-10",
+		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+		"episodeNum": "10",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
+		"episodeUrl": "../anime/kimetsu-no-yaiba-katanakaji-no-satohen"
+	},
+	{
 		"animeId": "pokemon-ultimate-journeys",
 		"episodeId": "pokemon-ultimate-journeys-episode-47",
 		"name": "Pokémon Ultimate Journeys: The Series",
@@ -32,17 +43,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
 		"episodeUrl": "../anime/one-punch-man-season-2"
 	},
-	{
-		"animeId": "demon-slayer-swordsmith-village-arc",
-		"episodeId": "demon-slayer-swordsmith-village-arc-episode-1",
-		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-		"episodeNum": "2",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
-		"episodeUrl": "../anime/demon-slayer-swordsmith-village-arc"
-	},
+
 	{
 		"animeId": "dr-stone-new-world",
 		"episodeId": "dr-stone-new-world-episode-10",
@@ -87,17 +88,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140439-qpBzXkvVqSx3.jpg",
 		"episodeUrl": "../anime/mob-psycho-100-iii"
 	},
-	{
-		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
-		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-9",
-		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-		"episodeNum": "9",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-		"episodeUrl": "../anime/kimetsu-no-yaiba-katanakaji-no-satohen"
-	},
+
 
 
 
