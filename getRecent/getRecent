@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "demon-slayer-swordsmith-village-arc",
+		"episodeId": "demon-slayer-swordsmith-village-arc-episode-3",
+		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+		"episodeNum": "3",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
+		"episodeUrl": "../anime/demon-slayer-swordsmith-village-arc"
+	},
+	{
 		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
 		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-10",
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
