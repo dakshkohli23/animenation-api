@@ -1,5 +1,38 @@
 [
 	{
+		"animeId": "black-clover-mahou-tei-no-ken",
+		"episodeId": "black-clover-mahou-tei-no-ken-episode-1",
+		"name": "Black Clover: Sword of the Wizard King",
+		"jname": "Black Clover: Mahou Tei no Ken",
+		"episodeNum": "1",
+		"subOrDub": "sub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-r9SxIrm2hDGI.jpg",
+		"episodeUrl": "../anime/black-clover-mahou-tei-no-ken"
+	},
+	{
+		"animeId": "black-clover-sword-of-the-wizard-king",
+		"episodeId": "black-clover-sword-of-the-wizard-king-episode-1",
+		"name": "Black Clover: Sword of the Wizard King",
+		"jname": "Black Clover: Mahou Tei no Ken",
+		"episodeNum": "1",
+		"subOrDub": "sub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-r9SxIrm2hDGI.jpg",
+		"episodeUrl": "../anime/black-clover-sword-of-the-wizard-king"
+	},
+	{
+		"animeId": "black-clover-sword-of-the-wizard-king-hindi",
+		"episodeId": "black-clover-sword-of-the-wizard-king-hindi-episode-1",
+		"name": "Black Clover: Sword of the Wizard King (Hindi)",
+		"jname": "Black Clover: Mahou Tei no Ken (Hindi)",
+		"episodeNum": "1",
+		"subOrDub": "sub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-r9SxIrm2hDGI.jpg",
+		"episodeUrl": "../anime/black-clover-sword-of-the-wizard-king-hindi"
+	},
+	{
 		"animeId": "demon-slayer-swordsmith-village-arc",
 		"episodeId": "demon-slayer-swordsmith-village-arc-episode-3",
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
