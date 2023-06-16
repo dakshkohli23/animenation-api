@@ -360,6 +360,42 @@
             "genres": ["Action", "Adventure", "Drama", "Sci-Fi", "Fantasy", "Superhero"]
         },
         {
+            "animeId": "black-clover-sword-of-the-wizard-king",
+            "episodeId": "black-clover-sword-of-the-wizard-king-episode-1",
+            "name": "Black Clover: Sword of the Wizard King",
+            "jname": "Black Clover: Mahou Tei no Ken",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-r9SxIrm2hDGI.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/black-clover-sword-of-the-wizard-king",
+            "genres": ["Action", "Adventure", "Comedy", "Fantasy"]
+        },
+        {
+            "animeId": "black-clover-mahou-tei-no-ken",
+            "episodeId": "black-clover-mahou-tei-no-ken-episode-1",
+            "name": "Black Clover: Sword of the Wizard King",
+            "jname": "Black Clover: Mahou Tei no Ken",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-r9SxIrm2hDGI.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/black-clover-mahou-tei-no-ken",
+            "genres": ["Action", "Adventure", "Comedy", "Fantasy"]
+        },
+        {
+            "animeId": "black-clover-mahou-tei-no-ken-hindi",
+            "episodeId": "black-clover-mahou-tei-no-ken-hindi-episode-1",
+            "name": "Black Clover: Sword of the Wizard King (Hindi)",
+            "jname": "Black Clover: Mahou Tei no Ken (Hindi)",
+            "episodeNum": "1",
+            "subOrDub": "hindi",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-r9SxIrm2hDGI.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/black-clover-mahou-tei-no-ken-hindi",
+            "genres": ["Action", "Adventure", "Comedy", "Fantasy"]
+        },
+        {
             "animeId": "bleach",
             "episodeId": "bleach-episode-1",
             "name": "Bleach",
@@ -477,6 +513,18 @@
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
             "type": "movie",
             "episodeUrl": "anime/bleach-thousand-year-blood-war",
+            "genres": ["Action", "Adventure", "Supernatural"]
+        },
+        {
+            "animeId": "bleach-thousandyear-blood-war-the-separation",
+            "episodeId": "bleach-thousandyear-blood-war-the-separation-episode-1",
+            "name": "BLEACH: Thousand-Year Blood War - The Separation",
+            "jname": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-FK5tyOowXPHE.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/bleach-thousandyear-blood-war-the-separation",
             "genres": ["Action", "Adventure", "Supernatural"]
         },
         {
@@ -640,7 +688,7 @@
             "episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-1",
             "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
             "jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-            "episodeNum": "10",
+            "episodeNum": "9",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
             "type": "tv",
@@ -652,7 +700,7 @@
             "episodeId": "demon-slayer-swordsmith-village-arc-episode-1",
             "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
             "jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-            "episodeNum": "3",
+            "episodeNum": "2",
             "subOrDub": "dub",
             "imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
             "type": "tv",
@@ -676,7 +724,7 @@
             "episodeId": "dr-stone-new-world-episode-1",
             "name": "Dr. STONE New World",
             "jname": "Dr. STONE: NEW WORLD",
-            "episodeNum": "10",
+            "episodeNum": "11",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131518-RU7RoUmGb2sP.jpg",
             "type": "tv",
@@ -814,6 +862,18 @@
             "type": "movie",
             "episodeUrl": "anime/fullmetal-alchemist-the-sacred-star-of-milos",
             "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy"]
+        },
+        {
+            "animeId": "go-saitama",
+            "episodeId": "go-saitama-episode-1",
+            "name": "Go! Saitama",
+            "jname": "Go! Saitama",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139586-Bd6VA8DW1CsY.png",
+            "type": "ona",
+            "episodeUrl": "anime/go-saitama",
+            "genres": ["Action", "Comedy"]
         },
         {
             "animeId": "haikyuu-to-the-top-2",
@@ -1344,18 +1404,6 @@
             "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"]
         },
         {
-            "animeId": "one-punch-man-road-to-hero",
-            "episodeId": "one-punch-man-road-to-hero-episode-1",
-            "name": "One-Punch Man: Road to Hero",
-            "jname": "One Punch Man: Road to Hero",
-            "episodeNum": "1",
-            "subOrDub": "sub",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21386-ZMcREWXeWMow.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/one-punch-man-road-to-hero",
-            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"]
-        },
-        {
             "animeId": "one-punch-man-season-2",
             "episodeId": "one-punch-man-season-2-episode-1",
             "name": "One-Punch Man Season 2",
@@ -1380,23 +1428,23 @@
             "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"]
         },
         {
-            "animeId": "go-saitama",
-            "episodeId": "go-saitama-episode-1",
-            "name": "Go! Saitama",
-            "jname": "Go! Saitama",
+            "animeId": "one-punch-man-road-to-hero",
+            "episodeId": "one-punch-man-road-to-hero-episode-1",
+            "name": "One-Punch Man: Road to Hero",
+            "jname": "One Punch Man: Road to Hero",
             "episodeNum": "1",
             "subOrDub": "sub",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139586-Bd6VA8DW1CsY.png",
-            "type": "ona",
-            "episodeUrl": "anime/go-saitama",
-            "genres": ["Action", "Comedy"]
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21386-ZMcREWXeWMow.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/one-punch-man-road-to-hero",
+            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"]
         },
         {
             "animeId": "oshi-no-ko",
             "episodeId": "oshi-no-ko-episode-1",
             "name": "Oshi No Ko",
             "jname": "Oshi no Ko",
-            "episodeNum": "8",
+            "episodeNum": "9",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
             "type": "tv",
@@ -1456,7 +1504,7 @@
             "episodeId": "pokemon-horizons-the-series-episode-1",
             "name": "Pokemon Horizons: The Series",
             "jname": "Pocket Monsters (2023)",
-            "episodeNum": "10",
+            "episodeNum": "8",
             "subOrDub": "sub",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
             "type": "tv",
@@ -1720,7 +1768,7 @@
             "episodeId": "pokemon-ultimate-journeys-episode-1",
             "name": "Pokemon Ultimate Journeys: The Series",
             "jname": "Pocket Monsters (2019)",
-            "episodeNum": "47",
+            "episodeNum": "45",
             "subOrDub": "dub",
             "imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
             "type": "tv",
