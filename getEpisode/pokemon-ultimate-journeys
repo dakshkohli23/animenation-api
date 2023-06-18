@@ -558,9 +558,21 @@
             "anime_info": "pokemon-ultimate-journeys",
             "movie_id": "112153",
             "alias": "pokemon-ultimate-journeys",
-            "nextEpText": "",
-            "nextEpLink": "",
+            "nextEpText": "Pokémon Ultimate Journeys: The Series Episode 48 >>",
+            "nextEpLink": "/pokemon-ultimate-journeys-episode-48",
             "prevEpText": "<< Pokémon Ultimate Journeys: The Series Episode 46",
             "prevEpLink": "/pokemon-ultimate-journeys-episode-46"
+        },
+        {
+            "server1": "886naganenbz",
+            "animeNameWithEP": "Pokémon Ultimate Journeys: The Series Episode 48 Dubbed",
+            "ep_num": "48",
+            "anime_info": "pokemon-ultimate-journeys",
+            "movie_id": "112153",
+            "alias": "pokemon-ultimate-journeys",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Pokémon Ultimate Journeys: The Series Episode 47",
+            "prevEpLink": "/pokemon-ultimate-journeys-episode-47"
         }
     ]
