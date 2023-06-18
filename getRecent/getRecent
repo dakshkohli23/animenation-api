@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
+		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-11",
+		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+		"episodeNum": "11",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
+		"episodeUrl": "../anime/kimetsu-no-yaiba-katanakaji-no-satohen"
+	},
+	{
 		"animeId": "pokemon-ultimate-journeys",
 		"episodeId": "pokemon-ultimate-journeys-episode-48",
 		"name": "Pokémon Ultimate Journeys: The Series",
@@ -65,17 +76,7 @@
 		"imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
 		"episodeUrl": "../anime/demon-slayer-swordsmith-village-arc"
 	},
-	{
-		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
-		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-10",
-		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-		"episodeNum": "10",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-		"episodeUrl": "../anime/kimetsu-no-yaiba-katanakaji-no-satohen"
-	},
+
 
 
 	{
