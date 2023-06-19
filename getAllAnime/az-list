@@ -389,7 +389,7 @@
             "name": "Black Clover: Sword of the Wizard King (Hindi)",
             "jname": "Black Clover: Mahou Tei no Ken (Hindi)",
             "episodeNum": "1",
-            "subOrDub": "dub",
+            "subOrDub": "hindi",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-r9SxIrm2hDGI.jpg",
             "type": "movie",
             "episodeUrl": "anime/black-clover-sword-of-the-wizard-king-hindi",
@@ -1366,6 +1366,18 @@
             "type": "movie",
             "episodeUrl": "anime/naruto-the-movie-ninja-clash-in-the-land-of-snow",
             "genres": ["Action", "Adventure", "Comedy", "Drama", "Supernatural"]
+        },
+        {
+            "animeId": "one-piece",
+            "episodeId": "one-piece-episode-1",
+            "name": "ONE PIECE",
+            "jname": "ONE PIECE",
+            "episodeNum": "50",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/one-piece",
+            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy"]
         },
         {
             "animeId": "one-piece-film-red",
