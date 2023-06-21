@@ -35,10 +35,10 @@
 	"nextAiringEpisode": {
 		"airingTime": 1683122400,
 		"timeUntilAiring": 380258,
-		"episode": 4
+		"episode": 11
 	},
 	"totalEpisodes": 11,
-	"currentEpisode": 9,
+	"currentEpisode": 10,
 	"rating": 89,
 	"duration": 24,
 	"genres": ["Drama", "Mystery", "Psychological", "Supernatural"],
@@ -660,6 +660,13 @@
 		"title": null,
 		"description": null,
 		"number": 9,
+		"image": null,
+		"airDate": null
+	}, {
+		"id": "oshi-no-ko-episode-10",
+		"title": null,
+		"description": null,
+		"number": 10,
 		"image": null,
 		"airDate": null
 	}]
