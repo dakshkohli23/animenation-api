@@ -90,7 +90,7 @@
             "anime_info": "oshi-no-ko",
             "movie_id": "150672",
             "alias": "oshi-no-ko",
-            "nextEpText": "<< Oshi No Ko Episode 9",
+            "nextEpText": "Oshi No Ko Episode 9 >>",
             "nextEpLink": "/oshi-no-ko-episode-9",
             "prevEpText": "<< Oshi No Ko Episode 7",
             "prevEpLink": "/oshi-no-ko-episode-7"
@@ -102,9 +102,21 @@
             "anime_info": "oshi-no-ko",
             "movie_id": "150672",
             "alias": "oshi-no-ko",
-            "nextEpText": "",
-            "nextEpLink": "",
+            "nextEpText": "Oshi No Ko Episode 10 >>",
+            "nextEpLink": "/oshi-no-ko-episode-10",
             "prevEpText": "<< Oshi No Ko Episode 8",
             "prevEpLink": "/oshi-no-ko-episode-8"
+        },
+        {
+            "server1": "5treva7uud2v",
+            "animeNameWithEP": "Oshi No Ko",
+            "ep_num": "10",
+            "anime_info": "oshi-no-ko",
+            "movie_id": "150672",
+            "alias": "oshi-no-ko",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Oshi No Ko Episode 9",
+            "prevEpLink": "/oshi-no-ko-episode-9"
         }
     ]
