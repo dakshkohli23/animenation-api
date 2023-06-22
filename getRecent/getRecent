@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "oswald",
+		"episodeId": "oswald-episode-1",
+		"name": "Oswald",
+		"jname": "Oswald",
+		"episodeNum": "26",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://m.media-amazon.com/images/M/MV5BOTM3NDkxZjUtNmQ3Ni00MTJiLWIyN2UtZjdmMTlkM2EzMzk4XkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_FMjpg_UX1000_.jpg",
+		"episodeUrl": "../anime/oswald"
+	},
+	{
 		"animeId": "demon-slayer-swordsmith-village-arc",
 		"episodeId": "demon-slayer-swordsmith-village-arc-episode-4",
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
