@@ -38,7 +38,7 @@
 		"episode": 7
 	},
 	"totalEpisodes": 13,
-	"currentEpisode": 11,
+	"currentEpisode": 12,
 	"rating": 72,
 	"duration": null,
 	"genres": ["Adventure", "Fantasy"],
@@ -716,6 +716,13 @@
 		"title": "",
 		"description": "",
 		"number": 11,
+		"image": "",
+		"airDate": ""
+	}, {
+		"id": "pokemon-horizons-the-series-episode-12",
+		"title": "",
+		"description": "",
+		"number": 12,
 		"image": "",
 		"airDate": ""
 	}]
