@@ -1,0 +1,265 @@
+{
+	"id": "142411",
+	"title": {
+		"romaji": "Boku no Hero Academia THE MOVIE: World Heroes' Mission - Tabidachi",
+		"english": "My Hero Academia THE MOVIE: World Heroes' Mission - Takeoff",
+		"native": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション ≪旅立ち≫"
+	},
+	"malId": 50532,
+	"synonyms": ["My Hero Academia: World Heroes' Mission <<Departure>>", "No.XXX ホークス：SOOTHE", "Hawks: SOOTHE"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142411-Hb2c6mMLs6Jb.png",
+	"popularity": 9166,
+	"color": "#e4865d",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142411-FAM0hUgdRaxl.jpg",
+	"description": "Animation included with the PLUS ULTRA version of the <i>Boku no Hero Academia THE MOVIE: World Heroes' Mission</i> Blu-ray/DVD release. The OVA is an adaptation of the \"Hawks: SOOTHE\" one-shot from the Vol. World Heroes booklet that was given out during the movie's theatrical run. <br> <br>\n<i>Note: This animation received an advance limited screening run alongside the World Heroes' Mission movie in theaters from January 22 to 27th in Japan. </i>",
+	"status": "Completed",
+	"releaseDate": 2022,
+	"startDate": {
+		"year": 2022,
+		"month": 2,
+		"day": 16
+	},
+	"endDate": {
+		"year": 2022,
+		"month": 2,
+		"day": 16
+	},
+	"totalEpisodes": 1,
+	"currentEpisode": 1,
+	"rating": 73,
+	"duration": 6,
+	"genres": ["Action", "Comedy"],
+	"season": "WINTER",
+	"studios": ["bones"],
+	"subOrDub": "sub",
+	"type": "OVA",
+	"recommendations": [],
+	"characters": [{
+		"id": 89220,
+		"role": "MAIN",
+		"name": {
+			"first": "Shouto",
+			"last": "Todoroki",
+			"full": "Shouto Todoroki",
+			"native": "轟焦凍",
+			"userPreferred": "Shouto Todoroki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-AuWlCcZ8fy4l.png",
+		"voiceActors": [{
+			"id": 95672,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuki",
+				"last": "Kaji",
+				"full": "Yuuki Kaji",
+				"native": "梶裕貴",
+				"userPreferred": "Yuuki Kaji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-RN4nm0OFwCyU.png"
+		}]
+	}, {
+		"id": 89028,
+		"role": "MAIN",
+		"name": {
+			"first": "Izuku",
+			"last": "Midoriya",
+			"full": "Izuku Midoriya",
+			"native": "緑谷出久",
+			"userPreferred": "Izuku Midoriya"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-UlMgShccGeDk.png",
+		"voiceActors": [{
+			"id": 116971,
+			"language": "Japanese",
+			"name": {
+				"first": "Daiki",
+				"last": "Yamashita",
+				"full": "Daiki Yamashita",
+				"native": "山下大輝",
+				"userPreferred": "Daiki Yamashita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116971-r6Yn9mDyzBqU.png"
+		}]
+	}, {
+		"id": 88892,
+		"role": "MAIN",
+		"name": {
+			"first": "Katsuki",
+			"last": "Bakugou",
+			"full": "Katsuki Bakugou",
+			"native": "爆豪勝己",
+			"userPreferred": "Katsuki Bakugou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-4YU2mgU4tWPT.png",
+		"voiceActors": [{
+			"id": 95270,
+			"language": "Japanese",
+			"name": {
+				"first": "Nobuhiko",
+				"last": "Okamoto",
+				"full": "Nobuhiko Okamoto",
+				"native": "岡本信彦",
+				"userPreferred": "Nobuhiko Okamoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+		}]
+	}, {
+		"id": 126158,
+		"role": "MAIN",
+		"name": {
+			"first": "Enji",
+			"last": "Todoroki",
+			"full": "Enji Todoroki",
+			"native": "轟炎司",
+			"userPreferred": "Enji Todoroki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b126158-Wix9rh7unTDQ.png",
+		"voiceActors": [{
+			"id": 95395,
+			"language": "Japanese",
+			"name": {
+				"first": "Tetsu",
+				"last": "Inada",
+				"full": "Tetsu Inada",
+				"native": "稲田徹",
+				"userPreferred": "Tetsu Inada"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png"
+		}]
+	}, {
+		"id": 128299,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Keigo",
+			"last": "Takami",
+			"full": "Keigo Takami",
+			"native": "鷹見啓悟",
+			"userPreferred": "Keigo Takami"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b128299-eMEsWazNXE56.png",
+		"voiceActors": [{
+			"id": 95513,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuichi",
+				"last": "Nakamura",
+				"full": "Yuuichi Nakamura",
+				"native": "中村悠一",
+				"userPreferred": "Yuuichi Nakamura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+		}]
+	}, {
+		"id": 89898,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Fumikage",
+			"last": "Tokoyami",
+			"full": "Fumikage Tokoyami",
+			"native": "常闇踏陰",
+			"userPreferred": "Fumikage Tokoyami"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/89898-nREVl7RviMWR.jpg",
+		"voiceActors": [{
+			"id": 100626,
+			"language": "Japanese",
+			"name": {
+				"first": "Yoshimasa",
+				"last": "Hosoya",
+				"full": "Yoshimasa Hosoya",
+				"native": "細谷佳正",
+				"userPreferred": "Yoshimasa Hosoya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg"
+		}]
+	}, {
+		"id": 226254,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Rody",
+			"last": "Soul",
+			"full": "Rody Soul",
+			"native": "ロディ・ソウル",
+			"userPreferred": "Rody Soul"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b226254-TgPDmuHpjn34.png",
+		"voiceActors": [{
+			"id": 148219,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryou",
+				"last": "Yoshizawa",
+				"full": "Ryou Yoshizawa",
+				"native": "吉沢亮",
+				"userPreferred": "Ryou Yoshizawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n148219-3VRWmuzmmErQ.png"
+		}]
+	}, {
+		"id": 234038,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Pino",
+			"last": null,
+			"full": "Pino",
+			"native": "ピノ",
+			"userPreferred": "Pino"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b234038-tk74MLhFbBcR.png",
+		"voiceActors": []
+	}],
+	"relations": [{
+		"id": 141101,
+		"relationType": "ADAPTATION",
+		"malId": 156510,
+		"title": {
+			"romaji": "Hawks: SOOTHE",
+			"english": "Hawks: Soothe",
+			"native": "ホークス: SOOTHE",
+			"userPreferred": "Hawks: SOOTHE"
+		},
+		"status": "Completed",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b141101-vgpwkpYrSmeM.jpg",
+		"color": null,
+		"type": "ONE_SHOT",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b141101-vgpwkpYrSmeM.jpg",
+		"rating": 69
+	}, {
+		"id": 126659,
+		"relationType": "PARENT",
+		"malId": 44200,
+		"title": {
+			"romaji": "Boku no Hero Academia THE MOVIE: World Heroes' Mission",
+			"english": "My Hero Academia: World Heroes' Mission",
+			"native": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション",
+			"userPreferred": "Boku no Hero Academia THE MOVIE: World Heroes' Mission"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126659-i6c1PsXHGyke.jpg",
+		"color": "#f19350",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/126659-ru3BlsuYypkp.jpg",
+		"rating": 77
+	}],
+	"mappings": {
+		"mal": 50532,
+		"kitsu": 45566,
+		"anilist": 142411,
+		"anisearch": 17276,
+		"livechart": 10926,
+		"anime-planet": "my-hero-academia-tabidachi"
+	},
+	"episodes": [{
+		"id": "my-hero-academia-the-movie-world-heroes-mission-take-off-episode-1",
+		"title": "Full",
+		"description": null,
+		"number": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130183-F68jrVVGNt0n.jpg",
+		"airDate": null
+	}]
+}
