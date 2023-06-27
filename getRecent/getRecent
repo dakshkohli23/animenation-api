@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "demon-slayer-swordsmith-village-arc",
+		"episodeId": "demon-slayer-swordsmith-village-arc-episode-5",
+		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+		"episodeNum": "5",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
+		"episodeUrl": "../anime/demon-slayer-swordsmith-village-arc"
+	},
+	{
 		"animeId": "pokemon-ultimate-journeys",
 		"episodeId": "pokemon-ultimate-journeys-episode-49",
 		"name": "Pokémon Ultimate Journeys: The Series",
@@ -32,17 +43,7 @@
 		"imgUrl": "https://m.media-amazon.com/images/M/MV5BOTM3NDkxZjUtNmQ3Ni00MTJiLWIyN2UtZjdmMTlkM2EzMzk4XkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_FMjpg_UX1000_.jpg",
 		"episodeUrl": "../anime/oswald"
 	},
-	{
-		"animeId": "demon-slayer-swordsmith-village-arc",
-		"episodeId": "demon-slayer-swordsmith-village-arc-episode-4",
-		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-		"episodeNum": "4",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
-		"episodeUrl": "../anime/demon-slayer-swordsmith-village-arc"
-	},
+
 	{
 		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
 		"episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-11",
