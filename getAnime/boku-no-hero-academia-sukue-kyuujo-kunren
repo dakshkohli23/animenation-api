@@ -36,52 +36,7 @@
 	"studios": ["bones"],
 	"subOrDub": "sub",
 	"type": "OVA",
-	"recommendations": [{
-		"id": 122349,
-		"malId": 42603,
-		"title": {
-			"romaji": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
-			"english": "My Hero Academia: Make It! Do-or-Die Survival Training",
-			"native": "僕のヒーローアカデミア 生き残れ！決死のサバイバル訓練",
-			"userPreferred": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren"
-		},
-		"status": "Completed",
-		"episodes": 2,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122349-DkEdG7N1231n.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122349-DkEdG7N1231n.jpg",
-		"rating": 71,
-		"type": "ONA"
-	}, {
-		"id": 104276,
-		"malId": 38408,
-		"title": {
-			"romaji": "Boku no Hero Academia 4",
-			"english": "My Hero Academia Season 4",
-			"native": "僕のヒーローアカデミア４",
-			"userPreferred": "Boku no Hero Academia 4"
-		},
-		"status": "Completed",
-		"episodes": 25,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104276-SnEowMvesWIE.png",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104276-PQO1pcNzzWT0.jpg",
-		"rating": 79,
-		"type": "TV"
-	}, {
-		"id": 130183,
-		"malId": 35459,
-		"title": {
-			"romaji": "Boku no Hero Academia: Training of the Dead",
-			"english": null,
-			"native": "僕のヒーローアカデミア トレーニング・オブ・ザ・デッド",
-			"userPreferred": "Boku no Hero Academia: Training of the Dead"
-		},
-		"status": "Completed",
-		"episodes": 1,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130183-F68jrVVGNt0n.jpg",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130183-hvnKy71fAQOZ.jpg",
-		"rating": 68,
-		"type": "OVA"
-	}],
+	"recommendations": [],
 	"characters": [{
 		"id": 89223,
 		"role": "MAIN",
