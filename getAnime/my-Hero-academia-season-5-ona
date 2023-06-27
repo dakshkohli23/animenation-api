@@ -1,0 +1,935 @@
+{
+	"id": "149073",
+	"title": {
+		"romaji": "Boku no Hero Academia 5 (ONA)",
+		"english": "My Hero Academia Season 5 ONA",
+		"native": "僕のヒーローアカデミア 5 (ONA)"
+	},
+	"malId": 51781,
+	"synonyms": ["僕のヒーローアカデミア 笑え!地獄のように", "僕のヒーローアカデミア HLB", "Boku no Hero Academia: HLB", "Boku no Hero Academia: Warae! Jigoku no You ni", "My Hero Academia: HLB (Hero League Baseball)", "My Hero Academia: Laugh! As if you are in hell "],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149073-ATpEgEZNDheZ.jpg",
+	"popularity": 10331,
+	"color": "#e4931a",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149073-ATpEgEZNDheZ.jpg",
+	"description": "Original animation episodes for the fifth season of <i>Boku no Hero Academia</i>.\n<br><br>\n<b>Entry includes: </b><br>\n\n1) <i>Boku no Hero Academia: HLB (My Hero Academia: HLB)</i> <br><br>\n\nHLB stands for “Hero League of Baseball” - it is a baseball league founded by pro-heroes who love baseball!<br>\n\n It’s game day! The last game of HLB championship is between Gang Orca and Shishido's two rival agencies. They form a team (“Orcas” and “Lionels”) to compete. In the world of HLB, there is no rule – using their quirks is of course accepted. However, just when the game is about to finish, they are interrupted by a villain. Who will be the winner of HLB!? <br><br>\n\n2) <i>Boku no Hero Academia: Warae! Jigoku no You ni (My Hero Academia: Laugh! As if you are in hell)</i> <br><br>\n\n\nDeku, Bakugo, and Todoroki participate in internship under the No.1 hero, Endeavor's agency. One of their tasks these days is to find a villain (“Smiley”) who draws doodles in the city. However, since the urgency is so low, they let other pro-heroes solve this case. One day, Smiley draws a doodle on Endeavor’s house! Being furious, Endeavor himself and the 1-A trio go out to get the villain. However, Smiley’s quirk turns out to be something ridiculous but powerful... It is to make anyone who looks into his eyes laugh hysterically! Can the team capture the villain and stop laughing!? <br><br>\n(Source: Crunchyroll) <br><br>\n\n<i>Note: The ONA had a preliminary showing in theaters from June 16 to June 19 as part of  \"Hero Day\" 2022.</i>",
+	"status": "Completed",
+	"releaseDate": 2022,
+	"startDate": {
+		"year": 2022,
+		"month": 8,
+		"day": 1
+	},
+	"endDate": {
+		"year": 2022,
+		"month": 8,
+		"day": 1
+	},
+	"totalEpisodes": 2,
+	"currentEpisode": 2,
+	"rating": 69,
+	"duration": 23,
+	"genres": ["Action", "Comedy", "Sports"],
+	"season": "SUMMER",
+	"studios": ["bones"],
+	"subOrDub": "dub",
+	"type": "ONA",
+	"recommendations": [],
+	"characters": [{
+		"id": 89028,
+		"role": "MAIN",
+		"name": {
+			"first": "Izuku",
+			"last": "Midoriya",
+			"full": "Izuku Midoriya",
+			"native": "緑谷出久",
+			"userPreferred": "Izuku Midoriya"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b89028-UlMgShccGeDk.png",
+		"voiceActors": [{
+			"id": 116971,
+			"language": "Japanese",
+			"name": {
+				"first": "Daiki",
+				"last": "Yamashita",
+				"full": "Daiki Yamashita",
+				"native": "山下大輝",
+				"userPreferred": "Daiki Yamashita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116971-r6Yn9mDyzBqU.png"
+		}, {
+			"id": 175195,
+			"language": "Portuguese",
+			"name": {
+				"first": "Lipe",
+				"last": "Volpato",
+				"full": "Lipe Volpato",
+				"native": null,
+				"userPreferred": "Lipe Volpato"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175195-vIv8LgrkG8fd.png"
+		}]
+	}, {
+		"id": 88892,
+		"role": "MAIN",
+		"name": {
+			"first": "Katsuki",
+			"last": "Bakugou",
+			"full": "Katsuki Bakugou",
+			"native": "爆豪勝己",
+			"userPreferred": "Katsuki Bakugou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b88892-4YU2mgU4tWPT.png",
+		"voiceActors": [{
+			"id": 95270,
+			"language": "Japanese",
+			"name": {
+				"first": "Nobuhiko",
+				"last": "Okamoto",
+				"full": "Nobuhiko Okamoto",
+				"native": "岡本信彦",
+				"userPreferred": "Nobuhiko Okamoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+		}, {
+			"id": 96108,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fábio",
+				"last": "Lucindo",
+				"full": "Fábio Lucindo",
+				"native": null,
+				"userPreferred": "Fábio Lucindo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96108-MuX1nYAfR6za.png"
+		}]
+	}, {
+		"id": 89220,
+		"role": "MAIN",
+		"name": {
+			"first": "Shouto",
+			"last": "Todoroki",
+			"full": "Shouto Todoroki",
+			"native": "轟焦凍",
+			"userPreferred": "Shouto Todoroki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b89220-AuWlCcZ8fy4l.png",
+		"voiceActors": [{
+			"id": 95672,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuki",
+				"last": "Kaji",
+				"full": "Yuuki Kaji",
+				"native": "梶裕貴",
+				"userPreferred": "Yuuki Kaji"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-RN4nm0OFwCyU.png"
+		}, {
+			"id": 184978,
+			"language": "Portuguese",
+			"name": {
+				"first": "André",
+				"last": "Sauer",
+				"full": "André Sauer",
+				"native": null,
+				"userPreferred": "André Sauer"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184978-AlWpLFad9emQ.png"
+		}]
+	}, {
+		"id": 149186,
+		"role": "MAIN",
+		"name": {
+			"first": "Kuugo",
+			"last": "Sakamata",
+			"full": "Kuugo Sakamata",
+			"native": "逆俣空悟",
+			"userPreferred": "Kuugo Sakamata"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b149186-fvBDbvij65aI.png",
+		"voiceActors": [{
+			"id": 127680,
+			"language": "Japanese",
+			"name": {
+				"first": "Shuuhei",
+				"last": "Matsuda",
+				"full": "Shuuhei Matsuda",
+				"native": "松田修平",
+				"userPreferred": "Shuuhei Matsuda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127680-Lnkhk82o8DTF.jpg"
+		}, {
+			"id": 185164,
+			"language": "Portuguese",
+			"name": {
+				"first": "Paulo",
+				"last": "Porto",
+				"full": "Paulo Porto",
+				"native": null,
+				"userPreferred": "Paulo Porto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185164-rkNEdLUOexQe.png"
+		}]
+	}, {
+		"id": 278638,
+		"role": "MAIN",
+		"name": {
+			"first": "Shishido",
+			"last": null,
+			"full": "Shishido",
+			"native": "シシド",
+			"userPreferred": "Shishido"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b278638-HvsObiGge2aC.jpg",
+		"voiceActors": [{
+			"id": 95257,
+			"language": "Japanese",
+			"name": {
+				"first": "Nobuyuki",
+				"last": "Hiyama",
+				"full": "Nobuyuki Hiyama",
+				"native": "檜山修之",
+				"userPreferred": "Nobuyuki Hiyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95257-PgYwsBplRSJa.png"
+		}, {
+			"id": 102529,
+			"language": "Portuguese",
+			"name": {
+				"first": "Christiano",
+				"last": "Torreão",
+				"full": "Christiano Torreão",
+				"native": null,
+				"userPreferred": "Christiano Torreão"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7529.jpg"
+		}]
+	}, {
+		"id": 89897,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kyouka",
+			"last": "Jirou",
+			"full": "Kyouka Jirou",
+			"native": "耳郎響香",
+			"userPreferred": "Kyouka Jirou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b89897-VPTbCURoT5IY.png",
+		"voiceActors": [{
+			"id": 95594,
+			"language": "Japanese",
+			"name": {
+				"first": "Kei",
+				"last": "Shindou",
+				"full": "Kei Shindou",
+				"native": "真堂圭",
+				"userPreferred": "Kei Shindou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95594-uUAU6lh6TMQW.png"
+		}, {
+			"id": 106595,
+			"language": "Portuguese",
+			"name": {
+				"first": "Jussara",
+				"last": "Marques",
+				"full": "Jussara Marques",
+				"native": null,
+				"userPreferred": "Jussara Marques"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/11595.jpg"
+		}]
+	}, {
+		"id": 127043,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tetsutetsu",
+			"last": "Tetsutetsu",
+			"full": "Tetsutetsu Tetsutetsu",
+			"native": "鉄哲徹鐵",
+			"userPreferred": "Tetsutetsu Tetsutetsu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/127043-kigkXsp4tAHU.jpg",
+		"voiceActors": [{
+			"id": 127044,
+			"language": "Japanese",
+			"name": {
+				"first": "Kouji",
+				"last": "Okino",
+				"full": "Kouji Okino",
+				"native": "沖野晃司",
+				"userPreferred": "Kouji Okino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127044-YGqvBYZ6ZfG2.jpg"
+		}, {
+			"id": 198591,
+			"language": "Portuguese",
+			"name": {
+				"first": "Guilherme",
+				"last": "de Barros",
+				"full": "Guilherme de Barros",
+				"native": null,
+				"userPreferred": "Guilherme de Barros"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198591-SUn0HtX1Nxoa.jpg"
+		}]
+	}, {
+		"id": 191597,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Higari",
+			"last": "Maijima",
+			"full": "Higari Maijima",
+			"native": "埋島干狩",
+			"userPreferred": "Higari Maijima"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b191597-3okHoV3FlDsb.png",
+		"voiceActors": [{
+			"id": 107216,
+			"language": "Japanese",
+			"name": {
+				"first": "You",
+				"last": "Kitazawa",
+				"full": "You Kitazawa",
+				"native": "北沢洋",
+				"userPreferred": "You Kitazawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107216-xdQOoZ4LULfq.png"
+		}, {
+			"id": 266675,
+			"language": "Portuguese",
+			"name": {
+				"first": "Fábio",
+				"last": "Matsuoka",
+				"full": "Fábio Matsuoka",
+				"native": null,
+				"userPreferred": "Fábio Matsuoka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 89244,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Minoru",
+			"last": "Mineta",
+			"full": "Minoru Mineta",
+			"native": "峰田実",
+			"userPreferred": "Minoru Mineta"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b89244-VVwK9loDHeTV.png",
+		"voiceActors": [{
+			"id": 95111,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryou",
+				"last": "Hirohashi",
+				"full": "Ryou Hirohashi",
+				"native": "広橋涼",
+				"userPreferred": "Ryou Hirohashi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/95111-iw76EbsupYkS.jpg"
+		}, {
+			"id": 116937,
+			"language": "Portuguese",
+			"name": {
+				"first": "Alex",
+				"last": "Minei",
+				"full": "Alex Minei",
+				"native": null,
+				"userPreferred": "Alex Minei"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/21937.jpg"
+		}]
+	}, {
+		"id": 208143,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Nirengeki",
+			"last": "Shoda",
+			"full": "Nirengeki Shoda",
+			"native": "庄田連撃",
+			"userPreferred": "Nirengeki Shoda"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b208143-w6rQrczIATRG.jpg",
+		"voiceActors": [{
+			"id": 117425,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenta",
+				"last": "Ookuma",
+				"full": "Kenta Ookuma",
+				"native": "大隈健太",
+				"userPreferred": "Kenta Ookuma"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/22425.jpg"
+		}, {
+			"id": 265951,
+			"language": "Portuguese",
+			"name": {
+				"first": "Giovanni",
+				"last": "Mamede",
+				"full": "Giovanni Mamede",
+				"native": null,
+				"userPreferred": "Giovanni Mamede"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n265951-qxxVYlaDh1yk.jpg"
+		}]
+	}, {
+		"id": 279795,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kidou",
+			"last": null,
+			"full": "Kidou",
+			"native": "キドウ",
+			"userPreferred": "Kidou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b279795-WMq73B1d4lEd.jpg",
+		"voiceActors": [{
+			"id": 95482,
+			"language": "Japanese",
+			"name": {
+				"first": "Kiyotaka",
+				"last": "Furushima",
+				"full": "Kiyotaka Furushima",
+				"native": "古島清孝",
+				"userPreferred": "Kiyotaka Furushima"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95482-TvNE5H6I7pEb.png"
+		}, {
+			"id": 253297,
+			"language": "Portuguese",
+			"name": {
+				"first": "Vinicius",
+				"last": "Rodrigues",
+				"full": "Vinicius Rodrigues",
+				"native": null,
+				"userPreferred": "Vinicius Rodrigues"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 129758,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shinji",
+			"last": "Nishiya",
+			"full": "Shinji Nishiya",
+			"native": "西屋森児",
+			"userPreferred": "Shinji Nishiya"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b129758-aFlDEDPm4tJc.jpg",
+		"voiceActors": [{
+			"id": 127684,
+			"language": "Japanese",
+			"name": {
+				"first": "Masamichi",
+				"last": "Kitada",
+				"full": "Masamichi Kitada",
+				"native": "北田理道",
+				"userPreferred": "Masamichi Kitada"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127684-nD8SGYeDXcT8.jpg"
+		}, {
+			"id": 243745,
+			"language": "Portuguese",
+			"name": {
+				"first": "Augusto",
+				"last": "de Souza",
+				"full": "Augusto de Souza",
+				"native": null,
+				"userPreferred": "Augusto de Souza"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n243745-sF3HlBHINaWU.jpg"
+		}]
+	}, {
+		"id": 279794,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Untenmaru",
+			"last": "Kurumada",
+			"full": "Untenmaru Kurumada",
+			"native": "車田運天丸",
+			"userPreferred": "Untenmaru Kurumada"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b279794-NSsbLQ5Zy1Cd.png",
+		"voiceActors": [{
+			"id": 96481,
+			"language": "Japanese",
+			"name": {
+				"first": "Hisao",
+				"last": "Egawa",
+				"full": "Hisao Egawa",
+				"native": "江川央生",
+				"userPreferred": "Hisao Egawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96481-7houCLOMkp3g.png"
+		}, {
+			"id": 185881,
+			"language": "Portuguese",
+			"name": {
+				"first": "Cassiano",
+				"last": "Ávila",
+				"full": "Cassiano Ávila",
+				"native": null,
+				"userPreferred": "Cassiano Ávila"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185881-tlLhn9XhlurL.jpg"
+		}]
+	}, {
+		"id": 126158,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Enji",
+			"last": "Todoroki",
+			"full": "Enji Todoroki",
+			"native": "轟炎司",
+			"userPreferred": "Enji Todoroki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b126158-Wix9rh7unTDQ.png",
+		"voiceActors": [{
+			"id": 95395,
+			"language": "Japanese",
+			"name": {
+				"first": "Tetsu",
+				"last": "Inada",
+				"full": "Tetsu Inada",
+				"native": "稲田徹",
+				"userPreferred": "Tetsu Inada"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png"
+		}, {
+			"id": 191002,
+			"language": "Portuguese",
+			"name": {
+				"first": "César",
+				"last": "Emílio",
+				"full": "César Emílio",
+				"native": null,
+				"userPreferred": "César Emílio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n191002-UoR9vzUO5Nnc.jpg"
+		}]
+	}, {
+		"id": 125934,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tamaki",
+			"last": "Amajiki",
+			"full": "Tamaki Amajiki",
+			"native": "天喰環",
+			"userPreferred": "Tamaki Amajiki"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b125934-NiOfNSQ0b24c.png",
+		"voiceActors": [{
+			"id": 118498,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuto",
+				"last": "Uemura",
+				"full": "Yuuto Uemura",
+				"native": "上村祐翔",
+				"userPreferred": "Yuuto Uemura"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118498-6YvZZS0HM2qD.jpg"
+		}, {
+			"id": 153463,
+			"language": "Portuguese",
+			"name": {
+				"first": "Lucas",
+				"last": "Almeida",
+				"full": "Lucas Almeida",
+				"native": null,
+				"userPreferred": "Lucas Almeida"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153463-MF7Z63vMJ47o.jpg"
+		}]
+	}, {
+		"id": 278637,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shinjirou",
+			"last": "Hohoemi",
+			"full": "Shinjirou Hohoemi",
+			"native": "微笑真治郎",
+			"userPreferred": "Shinjirou Hohoemi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b278637-YdFea1VTwDfw.jpg",
+		"voiceActors": [{
+			"id": 106840,
+			"language": "Japanese",
+			"name": {
+				"first": "Hironori",
+				"last": "Kondou",
+				"full": "Hironori Kondou",
+				"native": "近藤浩徳",
+				"userPreferred": "Hironori Kondou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106840-AC03w0OTFovU.png"
+		}, {
+			"id": 148738,
+			"language": "English",
+			"name": {
+				"first": "Anthony",
+				"last": "DiMascio",
+				"full": "Anthony DiMascio",
+				"native": null,
+				"userPreferred": "Anthony DiMascio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n148738-BL431iAZLgPh.jpg"
+		}, {
+			"id": 183721,
+			"language": "Portuguese",
+			"name": {
+				"first": "Eduardo",
+				"last": "Borgerth",
+				"full": "Eduardo Borgerth",
+				"native": "Eduardo Borgerth",
+				"userPreferred": "Eduardo Borgerth"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n183721-sZKxypkghYFp.png"
+		}]
+	}, {
+		"id": 279793,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Onima",
+			"last": null,
+			"full": "Onima",
+			"native": "オニマー",
+			"userPreferred": "Onima"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b279793-Sx6KUdCAMLWM.jpg",
+		"voiceActors": [{
+			"id": 96659,
+			"language": "Japanese",
+			"name": {
+				"first": "Tooru",
+				"last": "Nara",
+				"full": "Tooru Nara",
+				"native": "奈良徹",
+				"userPreferred": "Tooru Nara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96659-zLvDfHLoxCne.png"
+		}]
+	}, {
+		"id": 89899,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mezou",
+			"last": "Shouji",
+			"full": "Mezou Shouji",
+			"native": "障子目蔵",
+			"userPreferred": "Mezou Shouji"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/89899-P0ahCPv4ACC4.jpg",
+		"voiceActors": [{
+			"id": 119715,
+			"language": "Japanese",
+			"name": {
+				"first": "Masakazu",
+				"last": "Nishida",
+				"full": "Masakazu Nishida",
+				"native": "西田雅一",
+				"userPreferred": "Masakazu Nishida"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/24715-SMwbD5QQJelp.jpg"
+		}, {
+			"id": 202431,
+			"language": "Portuguese",
+			"name": {
+				"first": "Guilherme",
+				"last": "Conradi",
+				"full": "Guilherme Conradi",
+				"native": null,
+				"userPreferred": "Guilherme Conradi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n202431-0cKCY4JIgZP2.png"
+		}]
+	}, {
+		"id": 121529,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yuu",
+			"last": "Takeyama",
+			"full": "Yuu Takeyama",
+			"native": "岳山優",
+			"userPreferred": "Yuu Takeyama"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/121529-Yn4F2mi6Un24.jpg",
+		"voiceActors": [{
+			"id": 95078,
+			"language": "Japanese",
+			"name": {
+				"first": "Kaori",
+				"last": "Nazuka",
+				"full": "Kaori Nazuka",
+				"native": "名塚佳織",
+				"userPreferred": "Kaori Nazuka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg"
+		}, {
+			"id": 202430,
+			"language": "Portuguese",
+			"name": {
+				"first": "Amanda",
+				"last": "Cappia",
+				"full": "Amanda Cappia",
+				"native": null,
+				"userPreferred": "Amanda Cappia"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 89225,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shouta",
+			"last": "Aizawa",
+			"full": "Shouta Aizawa",
+			"native": "相澤消太",
+			"userPreferred": "Shouta Aizawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b89225-XBgvUhI9naVI.png",
+		"voiceActors": [{
+			"id": 95095,
+			"language": "Japanese",
+			"name": {
+				"first": "Junichi",
+				"last": "Suwabe",
+				"full": "Junichi Suwabe",
+				"native": "諏訪部順一",
+				"userPreferred": "Junichi Suwabe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png"
+		}, {
+			"id": 154552,
+			"language": "Portuguese",
+			"name": {
+				"first": "Cesar",
+				"last": "Marchetti",
+				"full": "Cesar Marchetti",
+				"native": "César Marchetti",
+				"userPreferred": "Cesar Marchetti"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n154552-JXRCgweROAlW.jpg"
+		}]
+	}, {
+		"id": 89243,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Eijirou",
+			"last": "Kirishima",
+			"full": "Eijirou Kirishima",
+			"native": "切島鋭児郎",
+			"userPreferred": "Eijirou Kirishima"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b89243-AcTOecYHyQ4g.png",
+		"voiceActors": [{
+			"id": 107017,
+			"language": "Japanese",
+			"name": {
+				"first": "Toshiki",
+				"last": "Masuda",
+				"full": "Toshiki Masuda",
+				"native": "増田俊樹",
+				"userPreferred": "Toshiki Masuda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107017-Jv96B9DBJOy9.png"
+		}, {
+			"id": 197596,
+			"language": "Portuguese",
+			"name": {
+				"first": "Bruno ",
+				"last": "Casemiro",
+				"full": "Bruno  Casemiro",
+				"native": null,
+				"userPreferred": "Bruno  Casemiro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197596-7Ym8Vmna0Ggu.jpg"
+		}]
+	}, {
+		"id": 89896,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mashirao",
+			"last": "Ojiro",
+			"full": "Mashirao Ojiro",
+			"native": "尾白猿夫",
+			"userPreferred": "Mashirao Ojiro"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/89896-RU5UQnvLDTJN.jpg",
+		"voiceActors": [{
+			"id": 119835,
+			"language": "Japanese",
+			"name": {
+				"first": "Kousuke",
+				"last": "Miyoshi",
+				"full": "Kousuke Miyoshi",
+				"native": "晃祐三好",
+				"userPreferred": "Kousuke Miyoshi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/24835-BzYUWGKXA0kg.png"
+		}, {
+			"id": 198590,
+			"language": "Portuguese",
+			"name": {
+				"first": "Filipe",
+				"last": "Teófilo",
+				"full": "Filipe Teófilo",
+				"native": null,
+				"userPreferred": "Filipe Teófilo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198590-OkepUtWmRyxt.png"
+		}]
+	}, {
+		"id": 89902,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Rikidou",
+			"last": "Satou",
+			"full": "Rikidou Satou",
+			"native": "砂藤力道",
+			"userPreferred": "Rikidou Satou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/89902-ibEwUXjUjGsP.jpg",
+		"voiceActors": [{
+			"id": 96659,
+			"language": "Japanese",
+			"name": {
+				"first": "Tooru",
+				"last": "Nara",
+				"full": "Tooru Nara",
+				"native": "奈良徹",
+				"userPreferred": "Tooru Nara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96659-zLvDfHLoxCne.png"
+		}, {
+			"id": 184111,
+			"language": "Portuguese",
+			"name": {
+				"first": "Ramon",
+				"last": "Campos",
+				"full": "Ramon Campos",
+				"native": null,
+				"userPreferred": "Ramon Campos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184111-bO3OhdLPWFte.jpg"
+		}]
+	}, {
+		"id": 127425,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Hizashi",
+			"last": "Yamada",
+			"full": "Hizashi Yamada",
+			"native": "山田 ひざし",
+			"userPreferred": "Hizashi Yamada"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b127425-hJjrOoM3JPnG.jpg",
+		"voiceActors": [{
+			"id": 95283,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroyuki",
+				"last": "Yoshino",
+				"full": "Hiroyuki Yoshino",
+				"native": "吉野裕行",
+				"userPreferred": "Hiroyuki Yoshino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95283-g76zV4YacFfm.jpg"
+		}, {
+			"id": 109489,
+			"language": "Portuguese",
+			"name": {
+				"first": "Dado",
+				"last": "Monteiro",
+				"full": "Dado Monteiro",
+				"native": null,
+				"userPreferred": "Dado Monteiro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/14489.jpg"
+		}]
+	}, {
+		"id": 89249,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Denki",
+			"last": "Kaminari",
+			"full": "Denki Kaminari",
+			"native": "上鳴電気",
+			"userPreferred": "Denki Kaminari"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b89249-GHuj7Kwh1uKK.jpg",
+		"voiceActors": [{
+			"id": 107018,
+			"language": "Japanese",
+			"name": {
+				"first": "Tasuku",
+				"last": "Hatanaka",
+				"full": "Tasuku Hatanaka",
+				"native": "畠中祐",
+				"userPreferred": "Tasuku Hatanaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107018-UwRPnTdllbPT.png"
+		}, {
+			"id": 197972,
+			"language": "Portuguese",
+			"name": {
+				"first": "Samuel",
+				"last": "Fernandes",
+				"full": "Samuel Fernandes",
+				"native": null,
+				"userPreferred": "Samuel Fernandes"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197972-V0pN1ol3wFsm.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 117193,
+		"relationType": "PARENT",
+		"malId": 41587,
+		"title": {
+			"romaji": "Boku no Hero Academia 5",
+			"english": "My Hero Academia Season 5",
+			"native": "僕のヒーローアカデミア５",
+			"userPreferred": "Boku no Hero Academia 5"
+		},
+		"status": "Completed",
+		"episodes": 25,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117193-E75BlZmDh1aB.jpg",
+		"color": "#e4501a",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117193-37OySoeOMN0z.jpg",
+		"rating": 74
+	}],
+	"mappings": {
+		"mal": 51781,
+		"anidb": 17356,
+		"kitsu": 46117,
+		"anilist": 149073,
+		"thetvdb": 305074,
+		"anisearch": 17447,
+		"livechart": 11210,
+		"notify.moe": "nSTI3DCnR",
+		"anime-planet": "my-hero-academia-web"
+	},
+	"episodes": [{
+		"id": "my-Hero-academia-season-5-ona-episode-1",
+		"title": "HLB",
+		"description": "HLB stands for “Hero League of Baseball” - it is a baseball league founded by pro-heroes who love baseball!\nIt’s game day! The last game of HLB championship is between Gang Orca and Shishido's two rival agencies. They form a team (“Orcas” and “Lionels”) to compete. In the world of HLB, there is no rule – using their quirks is of course accepted. However, just when the game is about to finish, they are interrupted by a villain. Who will be the winner of HLB!?",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9285382/screencap/62e7cc8b49ed7.jpg",
+		"airDate": "2022-06-16T00:00:00.000Z"
+	}, {
+		"id": "my-Hero-academia-season-5-ona-episode-2",
+		"title": "Laugh! As If You Are in Hell",
+		"description": "Deku, Bakugo, and Todoroki participate in internship under the No.1 hero, Endeavor's agency.\nOne of their tasks these days is to find a villain (“Smiley”) who draws doodles in the city. However, since the urgency is so low, they let other pro-heroes solve this case.\nOne day, Smiley draws a doodle on Endeavor’s house! Being furious, Endeavor himself and the 1-A trio go out to get the villain. However, Smiley’s quirk turns out to be something ridiculous but powerful... It is to make anyone who looks into his eyes laugh hysterically!\nCan the team capture the villain and stop laughing!?",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9285383/screencap/62e7cd5eebf59.jpg",
+		"airDate": "2022-06-16T00:00:00.000Z"
+	}]
+}
