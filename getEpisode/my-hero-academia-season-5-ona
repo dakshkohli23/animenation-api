@@ -1,0 +1,26 @@
+[
+        {
+            "server1": "ax4o1dvjusu0",
+            "animeNameWithEP": "My Hero Academia Season 5 ONA Episode 1",
+            "ep_num": "1",
+            "anime_info": "my-hero-academia-season-5-ona",
+            "movie_id": "149073",
+            "alias": "my-hero-academia-season-5-ona",
+            "nextEpText": "My Hero Academia Season 5 ONA Episode 2 >>",
+            "nextEpLink": "/my-hero-academia-season-5-ona-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "p5hzfgbvzw56",
+            "animeNameWithEP": "My Hero Academia Season 5 ONA Episode 2",
+            "ep_num": "2",
+            "anime_info": "my-hero-academia-season-5-ona",
+            "movie_id": "149073",
+            "alias": "my-hero-academia-season-5-ona",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< My Hero Academia Season 5 ONA Episode 1",
+            "prevEpLink": "/my-hero-academia-season-5-ona-episode-1"
+        }
+    ]
