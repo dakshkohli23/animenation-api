@@ -1,0 +1,26 @@
+[
+        {
+            "server1": "15krtkeiuqki",
+            "animeNameWithEP": "My Hero Academia: Make It! Do-or-Die Survival Training Episode 1",
+            "ep_num": "1",
+            "anime_info": "my-hero-academia-make-it-doordie-survival-training",
+            "movie_id": "21856",
+            "alias": "my-hero-academia-make-it-doordie-survival-training",
+            "nextEpText": "My Hero Academia: Make It! Do-or-Die Survival Training Episode 2 >>",
+            "nextEpLink": "/my-hero-academia-make-it-doordie-survival-training-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "wn2aq2iz4azb",
+            "animeNameWithEP": "My Hero Academia: Make It! Do-or-Die Survival Training Episode 2",
+            "ep_num": "2",
+            "anime_info": "my-hero-academia-make-it-doordie-survival-training",
+            "movie_id": "21856",
+            "alias": "my-hero-academia-make-it-doordie-survival-training",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< My Hero Academia: Make It! Do-or-Die Survival Training Episode 1",
+            "prevEpLink": "/my-hero-academia-make-it-doordie-survival-training-episode-1"
+        }
+    ]
