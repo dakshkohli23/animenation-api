@@ -1272,6 +1272,18 @@
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"]
         },
         {
+            "animeId": "my-Hero-academia-season-5-ona",
+            "episodeId": "my-Hero-academia-season-5-ona-episode-1",
+            "name": "My Hero Academia Season 5 ONA",
+            "jname": "Boku no Hero Academia 5 (ONA)",
+            "episodeNum": "2",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149073-ATpEgEZNDheZ.jpg",
+            "type": "ona",
+            "episodeUrl": "anime/my-Hero-academia-season-5-ona",
+            "genres": ["Action", "Comedy", "Sports"]
+        },
+        {
             "animeId": "my-hero-academia-season-6",
             "episodeId": "my-hero-academia-season-6-episode-1",
             "name": "My Hero Academia Season 6",
@@ -1284,6 +1296,42 @@
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"]
         },
         {
+            "animeId": "my-hero-academia-all-might-rising-the-animation",
+            "episodeId": "my-hero-academia-all-might-rising-the-animation-episode-1",
+            "name": "My Hero Academia the Movie: Two Heroes Specials",
+            "jname": "Boku no Hero Academia THE MOVIE: Futari no Hero Specials",
+            "episodeNum": "2",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105893-IW5rW9O9auyK.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/my-hero-academia-all-might-rising-the-animation",
+            "genres": ["Action", "Drama"]
+        },
+        {
+            "animeId": "my-hero-academia-the-movie-world-heroes-mission-take-off",
+            "episodeId": "my-hero-academia-the-movie-world-heroes-mission-take-off-episode-1",
+            "name": "My Hero Academia THE MOVIE: World Heroes' Mission - Takeoff",
+            "jname": "Boku no Hero Academia THE MOVIE: World Heroes' Mission - Tabidachi",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142411-Hb2c6mMLs6Jb.png",
+            "type": "ova",
+            "episodeUrl": "anime/my-hero-academia-the-movie-world-heroes-mission-take-off",
+            "genres": ["Action", "Comedy"]
+        },
+        {
+            "animeId": "my-hero-academia-hero-notebook",
+            "episodeId": "my-hero-academia-hero-notebook-episode-1",
+            "name": "My Hero Academia: Hero Notebook",
+            "jname": "Boku no Hero Academia: Hero Note",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://cdn.myanimelist.net/images/anime/1089/121748.jpg",
+            "type": "special",
+            "episodeUrl": "anime/my-hero-academia-hero-notebook",
+            "genres": ["Action", "Adventure", "Comedy", "Supernatural"]
+        },
+        {
             "animeId": "my-hero-academia-heroes-rising",
             "episodeId": "my-hero-academia-heroes-rising-episode-1",
             "name": "My Hero Academia: Heroes Rising",
@@ -1294,6 +1342,54 @@
             "type": "movie",
             "episodeUrl": "anime/my-hero-academia-heroes-rising",
             "genres": ["Action", "Sci-Fi"]
+        },
+        {
+            "animeId": "my-hero-academia-make-it-doordie-survival-training",
+            "episodeId": "my-hero-academia-make-it-doordie-survival-training-episode-1",
+            "name": "My Hero Academia: Make It! Do-or-Die Survival Training",
+            "jname": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
+            "episodeNum": "2",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122349-DkEdG7N1231n.jpg",
+            "type": "ona",
+            "episodeUrl": "anime/my-hero-academia-make-it-doordie-survival-training",
+            "genres": ["Action", "Adventure", "Comedy"]
+        },
+        {
+            "animeId": "boku-no-hero-academia-sukue-kyuujo-kunren",
+            "episodeId": "boku-no-hero-academia-sukue-kyuujo-kunren-episode-1",
+            "name": "My Hero Academia: Rescue! Rescue Training",
+            "jname": "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87486-RN58UaoCSALB.png",
+            "type": "Ova",
+            "episodeUrl": "anime/boku-no-hero-academia-sukue-kyuujo-kunren",
+            "genres": ["Action", "Adventure", "Comedy", "Supernatural"]
+        },
+        {
+            "animeId": "my-hero-academia-training-of-the-dead",
+            "episodeId": "my-hero-academia-training-of-the-dead-episode-1",
+            "name": "My Hero Academia: Training of the Dead",
+            "jname": "Boku no Hero Academia: Training of the Dead",
+            "episodeNum": "1",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130183-F68jrVVGNt0n.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/my-hero-academia-training-of-the-dead",
+            "genres": ["Action", "Adventure", "Comedy", "Supernatural"]
+        },
+        {
+            "animeId": "my-hero-academia-training-of-the-dead",
+            "episodeId": "my-hero-academia-training-of-the-dead-episode-1",
+            "name": "My Hero Academia: Training of the Dead",
+            "jname": "Boku no Hero Academia: Training of the Dead",
+            "episodeNum": "1",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99634-9u4hdvWwmC2s.png",
+            "type": "ova",
+            "episodeUrl": "anime/my-hero-academia-training-of-the-dead",
+            "genres": ["Action", "Adventure", "Comedy", "Supernatural"]
         },
         {
             "animeId": "my-hero-academia-two-heroes",
