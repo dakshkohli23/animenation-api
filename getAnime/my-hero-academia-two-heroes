@@ -41,7 +41,247 @@
 	"studios": ["bones"],
 	"subOrDub": "dub",
 	"type": "MOVIE",
-	"recommendations": [],
+	"recommendations": [{
+      "id": 21459,
+      "malId": 31964,
+      "title": {
+        "romaji": "Boku no Hero Academia",
+		"english": "My Hero Academia",
+		"native": "僕のヒーローアカデミア"
+      },
+      "status": "Completed",
+      "episodes": 13,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-DUKLgasrgeNO.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21459-yeVkolGKdGUV.jpg",
+      "rating": 77,
+      "type": "TV",
+	  "animeurl": "my-hero-academia"
+    },{
+      "id": 21856,
+      "malId": 33486,
+      "title": {
+        "romaji": "Boku no Hero Academia 2",
+		"english": "My Hero Academia Season 2",
+		"native": "僕のヒーローアカデミア２"
+      },
+      "status": "Completed",
+      "episodes": 25,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21856-gutauxhWAwn6.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21856-wtSHgeHFmzdG.jpg",
+      "rating": 80,
+      "type": "TV",
+	  "animeurl": "my-hero-academia-season-2"
+    },{
+      "id": 100166,
+      "malId": 36456,
+      "title": {
+        "romaji": "Boku no Hero Academia 3",
+		"english": "My Hero Academia Season 3",
+		"native": "僕のヒーローアカデミア３"
+      },
+      "status": "Completed",
+      "episodes": 25,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100166-jUCZYbzn2XLw.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100166-k7RXwN5vZg0r.jpg",
+      "rating": 79,
+      "type": "TV",
+	  "animeurl": "my-hero-academia-season-3"
+    },{
+      "id": 104276,
+      "malId": 38408,
+      "title": {
+        "romaji": "Boku no Hero Academia 4",
+		"english": "My Hero Academia Season 4",
+		"native": "僕のヒーローアカデミア４"
+      },
+      "status": "Completed",
+      "episodes": 25,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104276-SnEowMvesWIE.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104276-PQO1pcNzzWT0.jpg",
+      "rating": 79,
+      "type": "TV",
+	  "animeurl": "my-hero-academia-season-4"
+    },{
+      "id": 117193,
+      "malId": 41587,
+      "title": {
+        "romaji": "Boku no Hero Academia 5",
+		"english": "My Hero Academia Season 5",
+		"native": "僕のヒーローアカデミア５"
+      },
+      "status": "Completed",
+      "episodes": 25,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117193-E75BlZmDh1aB.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117193-37OySoeOMN0z.jpg",
+      "rating": 74,
+      "type": "TV",
+	  "animeurl": "my-hero-academia-season-5"
+    },{
+      "id": 139630,
+      "malId": 49918,
+      "title": {
+        "romaji": "Boku no Hero Academia 6",
+		"english": "My Hero Academia Season 6",
+		"native": "僕のヒーローアカデミア６"
+      },
+      "status": "Completed",
+      "episodes": 25,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139630-2Nvd1vqQ52Ik.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139630-XLc90c6CJjZv.jpg",
+      "rating": 83,
+      "type": "TV",
+	  "animeurl": "my-hero-academia-season-6"
+    },{
+      "id": 100723,
+      "malId": 36896,
+      "title": {
+        "romaji": "Boku no Hero Academia THE MOVIE: Futari no Hero",
+		"english": "My Hero Academia: Two Heroes",
+		"native": "僕のヒーローアカデミア THE MOVIE 〜2人の英雄〜"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100723-7f5e1BCTCDoB.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100723-B3tiFsddYmfF.jpg",
+      "rating": 74,
+      "type": "MOVIE",
+	  "animeurl": "my-hero-academia-two-heroes"
+    },{
+      "id": 108553,
+      "malId": 39565,
+      "title": {
+        "romaji": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+		"english": "My Hero Academia: Heroes Rising",
+		"native": "僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108553-rEe0n22hRkPH.jpg",
+      "rating": 79,
+      "type": "MOVIE",
+	  "animeurl": "my-hero-academia-heroes-rising"
+    },{
+      "id": 126659,
+      "malId": 44200,
+      "title": {
+        "romaji": "Boku no Hero Academia THE MOVIE: World Heroes' Mission",
+		"english": "My Hero Academia: World Heroes' Mission",
+		"native": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126659-i6c1PsXHGyke.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/126659-ru3BlsuYypkp.jpg",
+      "rating": 77,
+      "type": "MOVIE",
+	  "animeurl": "my-hero-academia-world-heroes-mission"
+    },{
+      "id": 35262,
+      "malId": 35262,
+      "title": {
+        "romaji": "Boku no Hero Academia: Hero Note",
+		"english": "My Hero Academia: Hero Notebook",
+		"native": " 僕のヒーローアカデミア ヒーローノート"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://cdn.myanimelist.net/images/anime/1089/121748.jpg",
+      "cover": "https://cdn.myanimelist.net/images/anime/11/84951.jpg",
+      "rating": 72,
+      "type": "SPECIAL",
+	  "animeurl": "my-hero-academia-hero-notebook"
+    },{
+      "id": 87486,
+      "malId": 33929,
+      "title": {
+        "romaji": "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
+		"english": "My Hero Academia: Rescue! Rescue Training",
+		"native": "僕のヒーローアカデミア救え!救助訓練!"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87486-RN58UaoCSALB.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87486-HabPH3yacvsi.jpg",
+      "rating": 70,
+      "type": "OVA",
+	  "animeurl": "boku-no-hero-academia-sukue-kyuujo-kunren"
+    },{
+      "id": 105893,
+      "malId": 38699,
+      "title": {
+        "romaji": "Boku no Hero Academia THE MOVIE: Futari no Hero Specials",
+		"english": "My Hero Academia the Movie: Two Heroes Specials",
+		"native": "僕のヒーローアカデミア THE MOVIE 〜2人の英雄〜 特典"
+      },
+      "status": "Completed",
+      "episodes": 2,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105893-IW5rW9O9auyK.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/105893-lIMSByqRPHTi.jpg",
+      "rating": 71,
+      "type": "OVA",
+	  "animeurl": "my-hero-academia-all-might-rising-the-animation"
+    },{
+      "id": 122349,
+      "malId": 42603,
+      "title": {
+        "romaji": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
+		"english": "My Hero Academia: Make It! Do-or-Die Survival Training",
+		"native": "僕のヒーローアカデミア 生き残れ！決死のサバイバル訓練"
+      },
+      "status": "Completed",
+      "episodes": 2,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122349-DkEdG7N1231n.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122349-DkEdG7N1231n.jpg",
+      "rating": 71,
+      "type": "ONA",
+	  "animeurl": "my-hero-academia-make-it-doordie-survival-training"
+    },{
+      "id": 130183,
+      "malId": 35459,
+      "title": {
+        "romaji": "Boku no Hero Academia: Training of the Dead",
+		"english": "My Hero Academia: Training of the Dead",
+		"native": "僕のヒーローアカデミア トレーニング・オブ・ザ・デッド"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130183-F68jrVVGNt0n.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130183-hvnKy71fAQOZ.jpg",
+      "rating": 68,
+      "type": "OVA",
+	  "animeurl": "my-hero-academia-training-of-the-dead"
+    },{
+      "id": 142411,
+      "malId": 50532,
+      "title": {
+        "romaji": "Boku no Hero Academia THE MOVIE: World Heroes' Mission - Tabidachi",
+		"english": "My Hero Academia THE MOVIE: World Heroes' Mission - Takeoff",
+		"native": "僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション ≪旅立ち≫"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142411-Hb2c6mMLs6Jb.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142411-FAM0hUgdRaxl.jpg",
+      "rating": 73,
+      "type": "OVA",
+	  "animeurl": "my-hero-academia-the-movie-world-heroes-mission-take-off"
+    },{
+      "id": 149073,
+      "malId": 51781,
+      "title": {
+        "romaji": "Boku no Hero Academia 5 (ONA)",
+		"english": "My Hero Academia Season 5 ONA",
+		"native": "僕のヒーローアカデミア 5 (ONA)"
+      },
+      "status": "Completed",
+      "episodes": 2,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149073-ATpEgEZNDheZ.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149073-ATpEgEZNDheZ.jpg",
+      "rating": 69,
+      "type": "ONA",
+	  "animeurl": "my-hero-academia-season-5-ona"
+    }],
 	"characters": [{
 		"id": 89028,
 		"role": "MAIN",
