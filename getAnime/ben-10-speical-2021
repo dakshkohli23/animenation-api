@@ -28,8 +28,9 @@
 		"month": 9,
 		"day": 18
 	},
+	"currentEpisode: 3",
 	"totalEpisodes": 3,
-	"rating": 3	,
+	"rating": 30,
 	"duration": 12,
 	"genres": ["Action", "Adventure", "Comedy", "Drama", "Science", "Sci-Fi", "Fantasy", "Superhero"],
 	"season": "Fall",
