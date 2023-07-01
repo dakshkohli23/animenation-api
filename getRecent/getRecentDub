@@ -86,15 +86,15 @@
 	},
 
     {
-        "animeId": "shingeki-no-kyojin",
-        "episodeId": "shingeki-no-kyojin-episode-1",
+        "animeId": "attack-on-titan",
+        "episodeId": "attack-on-titan-episode-1",
         "name": "Attack on Titan",
         "jname": "Shingeki no Kyojin",
         "episodeNum": "25",
         "subOrDub": "dub",
         "type": "tv",
         "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
-        "episodeUrl": "anime/shingeki-no-kyojin"
+        "episodeUrl": "anime/attack-on-titan"
     },
     {
         "animeId": "ben-10-omniverse",
