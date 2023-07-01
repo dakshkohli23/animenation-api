@@ -16,7 +16,7 @@
         "name": "Ben 10: Omniverse",
         "episodeNum": "80",
         "subOrDub": "dub",
-        "imgUrl": "../cover/ben-10-omniverse-poster.jpg",
+        "imgUrl": "https://www.themoviedb.org/t/p/original/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
         "episodeUrl": "anime/ben-10-omniverse"
     },
     {
@@ -25,7 +25,7 @@
         "name": "Ben 10: Ultimate Alien",
         "episodeNum": "52",
         "subOrDub": "dub",
-        "imgUrl": "../cover/ben-10-ultimate-alien-poster.jpg",
+        "imgUrl": "https://www.themoviedb.org/t/p/original/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
         "episodeUrl": "anime/ben-10-ultimate-alien"
     },
     {
@@ -34,7 +34,7 @@
         "name": "Ben 10: Alien Force",
         "episodeNum": "46",
         "subOrDub": "dub",
-        "imgUrl": "../cover/ben-10-alien-force-poster.jpg",
+        "imgUrl": "https://www.themoviedb.org/t/p/original/xzsgaZc9cE3212ihA0c6naZ5zj7.jpg",
         "episodeUrl": "anime/ben-10-alien-force"
     }
 ]
