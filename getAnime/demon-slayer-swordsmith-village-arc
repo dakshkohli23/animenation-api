@@ -33,7 +33,7 @@
 		"day": null
 	},
 	"totalEpisodes": 11,
-	"currentEpisode": 5,
+	"currentEpisode": 6,
 	"rating": 84,
 	"duration": 24,
 	"genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
@@ -1148,6 +1148,13 @@
 		"title": null,
 		"description": null,
 		"number": 5,
+		"image": null,
+		"airDate": null
+	},{
+		"id": "demon-slayer-swordsmith-village-arc-episode-6",
+		"title": null,
+		"description": null,
+		"number": 6,
 		"image": null,
 		"airDate": null
 	}]
