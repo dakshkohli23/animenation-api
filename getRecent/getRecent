@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "demon-slayer-swordsmith-village-arc",
+		"episodeId": "demon-slayer-swordsmith-village-arc-episode-6",
+		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+		"episodeNum": "6",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
+		"episodeUrl": "../anime/demon-slayer-swordsmith-village-arc"
+	},
+	{
 		"animeId": "oshi-no-ko",
 		"episodeId": "oshi-no-ko-episode-11",
 		"name": "Oshi No Ko",
@@ -10,17 +21,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
 		"episodeUrl": "../anime/oshi-no-ko"
 	},
-	{
-		"animeId": "demon-slayer-swordsmith-village-arc",
-		"episodeId": "demon-slayer-swordsmith-village-arc-episode-5",
-		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-		"episodeNum": "5",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
-		"episodeUrl": "../anime/demon-slayer-swordsmith-village-arc"
-	},
+
 	{
 		"animeId": "pokemon-ultimate-journeys",
 		"episodeId": "pokemon-ultimate-journeys-episode-49",
