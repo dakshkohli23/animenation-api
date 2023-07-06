@@ -40,7 +40,7 @@
 	"totalEpisodes": 23,
 	"currentEpisode": 1,
 	"rating": null,
-	"duration": null,
+	"duration": 24,
 	"genres": ["Action", "Drama", "Supernatural"],
 	"season": "SUMMER",
 	"studios": ["MAPPA"],
@@ -86,7 +86,7 @@
 		"english": "Jujutsu Kaisen Season 2",
 		"native": "呪術廻戦 第2期"
       },
-      "status": "Not yet aired",
+      "status": "Currently Airing",
       "episodes": 0,
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-kH9vbOEitIhl.jpg",
