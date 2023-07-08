@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "pokemon-ultimate-journeys",
+		"episodeId": "pokemon-ultimate-journeys-episode-50",
+		"name": "Pokémon Ultimate Journeys: The Series",
+		"jname": "Pocket Monsters (2019)",
+		"episodeNum": "50",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
+		"episodeUrl": "../anime/pokemon-ultimate-journeys"
+	},
+	{
 		"animeId": "jujutsu-kaisen-season-2",
 		"episodeId": "jujutsu-kaisen-season-2-episode-1",
 		"name": "Jujutsu Kaisen Season 2",
@@ -33,17 +44,7 @@
 		"episodeUrl": "../anime/oshi-no-ko"
 	},
 
-	{
-		"animeId": "pokemon-ultimate-journeys",
-		"episodeId": "pokemon-ultimate-journeys-episode-49",
-		"name": "Pokémon Ultimate Journeys: The Series",
-		"jname": "Pocket Monsters (2019)",
-		"episodeNum": "49",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
-		"episodeUrl": "../anime/pokemon-ultimate-journeys"
-	},
+
 	{
 		"animeId": "pokemon-horizons-the-series",
 		"episodeId": "pokemon-horizons-the-series-episode-12",
