@@ -15,12 +15,12 @@
 		"site": "youtube",
 		"thumbnail": "https://i.ytimg.com/vi/53_QT4NSB48/hqdefault.jpg"
 	},
-	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-FK5tyOowXPHE.jpg",
-	"popularity": 27586,
-	"color": "#a1001a",
-	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159322-01tQYQg7BZDy.jpg",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
+	"popularity": 33264,
+	"color": "#4386e4",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159322-biJjvtNkhkxR.jpg",
 	"description": "The second part of <i>BLEACH: Sennen Kessen-hen</i>. <br><br>\n",
-	"status": "Not yet aired",
+	"status": "Currently Airing",
 	"releaseDate": 2023,
 	"startDate": {
 		"year": 2023,
@@ -34,11 +34,11 @@
 	},
 	"nextAiringEpisode": {
 		"airingTime": 1688824800,
-		"timeUntilAiring": 2174227,
+		"timeUntilAiring": 37343,
 		"episode": 1
 	},
-	"totalEpisodes": 0,
-	"currentEpisode": 0,
+	"totalEpisodes": 1,
+	"currentEpisode": 1,
 	"rating": null,
 	"duration": null,
 	"genres": ["Action", "Adventure", "Supernatural"],
@@ -663,17 +663,19 @@
 		"anidb": 17765,
 		"kitsu": 46903,
 		"anilist": 159322,
+		"thetvdb": 74796,
 		"anisearch": 17934,
 		"livechart": 11467,
 		"notify.moe": "OSnyldp4R",
 		"anime-planet": "bleach-thousand-year-blood-war-part-ii-the-separation"
 	},
 	"episodes": [{
-            "id": "bleach-thousandyear-blood-war-the-separation-episode-1",
-            "title": null,
-            "description": null,
-            "number": "Trailer",
-            "image": null,
-            "airDate": null
-        }]
+		"id": "bleach-thousand-year-blood-war-the-separation-episode-1",
+		"title": null,
+		"description": null,
+		"number": 1,
+		"image": null,
+		"airDate": null
+	}
+	]
 }
