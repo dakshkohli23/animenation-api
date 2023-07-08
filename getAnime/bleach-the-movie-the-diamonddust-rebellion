@@ -69,6 +69,22 @@
 	  "animeurl": "bleach-thousand-year-blood-war"
 },
 {
+      "id": 159322,
+      "malId": 53998,
+      "title": {
+        "romaji": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
+		"english": "BLEACH: Thousand-Year Blood War - The Separation",
+		"native": "BLEACH 千年血戦篇-訣別譚-"
+      },
+      "status": "Currenlty Airing",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159322-biJjvtNkhkxR.jpg",
+      "rating": null,
+      "type": "tv",
+	  "animeurl": "bleach-thousand-year-blood-war-the-separation"
+},
+{
       "id": 1686,
       "malId": 1686,
       "title": {
