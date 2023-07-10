@@ -1,0 +1,134 @@
+[
+        {
+            "server1": "vsp9jb4g1y1s",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 1",
+            "ep_num": "1",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "Rent-a-Girlfriend Episode 2 >>",
+            "nextEpLink": "/rent-a-girlfriend-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "xj7xhd9gqo70",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 2",
+            "ep_num": "2",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "Rent-a-Girlfriend Episode 3 >>",
+            "nextEpLink": "/rent-a-girlfriend-episode-3",
+            "prevEpText": "<< Rent-a-Girlfriend Episode 1",
+            "prevEpLink": "/rent-a-girlfriend-episode-1"
+        },
+        {
+            "server1": "w4zzydj4hrb3",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 3",
+            "ep_num": "3",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "Rent-a-Girlfriend Episode 4 >>",
+            "nextEpLink": "/rent-a-girlfriend-episode-4",
+            "prevEpText": "<< Rent-a-Girlfriend Episode 2",
+            "prevEpLink": "/rent-a-girlfriend-episode-2"
+        },
+        {
+            "server1": "oradb2po1xs5",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 4",
+            "ep_num": "4",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "Rent-a-Girlfriend Episode 5 >>",
+            "nextEpLink": "/rent-a-girlfriend-episode-5",
+            "prevEpText": "<< Rent-a-Girlfriend Episode 3",
+            "prevEpLink": "/rent-a-girlfriend-episode-3"
+        },
+        {
+            "server1": "0q43u77izbv1",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 5",
+            "ep_num": "5",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "Rent-a-Girlfriend Episode 6 >>",
+            "nextEpLink": "/rent-a-girlfriend-episode-6",
+            "prevEpText": "<< Rent-a-Girlfriend Episode 4",
+            "prevEpLink": "/rent-a-girlfriend-episode-4"
+        },
+        {
+            "server1": "qc5c3b02m8yd",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 6",
+            "ep_num": "6",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "Rent-a-Girlfriend Episode 7 >>",
+            "nextEpLink": "/rent-a-girlfriend-episode-7",
+            "prevEpText": "<< Rent-a-Girlfriend Episode 5",
+            "prevEpLink": "/rent-a-girlfriend-episode-5"
+        },
+        {
+            "server1": "2br6n7wc0cxz",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 7",
+            "ep_num": "7",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "Rent-a-Girlfriend Episode 8 >>",
+            "nextEpLink": "/rent-a-girlfriend-episode-8",
+            "prevEpText": "<< Rent-a-Girlfriend Episode 6",
+            "prevEpLink": "/rent-a-girlfriend-episode-6"
+        },
+        {
+            "server1": "m33pvuwmtl4p",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 8",
+            "ep_num": "8",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "Rent-a-Girlfriend Episode 9 >>",
+            "nextEpLink": "/rent-a-girlfriend-episode-9",
+            "prevEpText": "<< Rent-a-Girlfriend Episode 7",
+            "prevEpLink": "/rent-a-girlfriend-episode-7"
+        },
+        {
+            "server1": "exuz9pozvssq",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 9",
+            "ep_num": "9",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "Rent-a-Girlfriend Episode 10 >>",
+            "nextEpLink": "/rent-a-girlfriend-episode-10",
+            "prevEpText": "<< Rent-a-Girlfriend Episode 8",
+            "prevEpLink": "/rent-a-girlfriend-episode-8"
+        },
+        {
+            "server1": "8h856w11o3mv",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 10",
+            "ep_num": "10",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "Rent-a-Girlfriend Episode 11 >>",
+            "nextEpLink": "/rent-a-girlfriend-episode-11",
+            "prevEpText": "<< Rent-a-Girlfriend Episode 9",
+            "prevEpLink": "/rent-a-girlfriend-episode-9"
+        },
+        {
+            "server1": "8omdz4q1cwp7",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 11",
+            "ep_num": "11",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "Rent-a-Girlfriend Episode 12 >>",
+            "nextEpLink": "/rent-a-girlfriend-episode-12",
+            "prevEpText": "<< Rent-a-Girlfriend Episode 10",
+            "prevEpLink": "/rent-a-girlfriend-episode-10"
+        },
+        {
+            "server1": "hwo2tvamd0so",
+            "animeNameWithEP": "Rent-a-Girlfriend Episode 12",
+            "ep_num": "12",
+            "anime_info": "rent-a-girlfriend",
+            "movie_id": "113813",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Rent-a-Girlfriend Episode 11",
+            "prevEpLink": "/rent-a-girlfriend-episode-11"
+        }
+    ]
