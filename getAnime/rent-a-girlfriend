@@ -1,0 +1,892 @@
+{
+	"id": "113813",
+	"title": {
+		"romaji": "Kanojo, Okarishimasu",
+		"english": "Rent-a-Girlfriend",
+		"native": "彼女、お借りします"
+	},
+	"malId": 40839,
+	"synonyms": ["I'd like to Borrow a Girlfriend", "Kanokari", "สะดุดรักยัยแฟนเช่า", "Pacar Sewaan"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "jZFEtc3CKHs",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/jZFEtc3CKHs/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113813-UCgSIGyWvLgl.jpg",
+	"popularity": 213728,
+	"color": "#e45086",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113813-Al8VofQuNQHV.jpg",
+	"description": "Kinoshita Kazuya is a 20-year-old failure of a college student. He managed to kiss his girlfriend once, but was dumped after a month. \"Ugh... Damn it. I never want to go through that again.\" \n<br><br>\nCompletely spiteful, Kazuya uses a certain method to date a girl. He goes to their meeting place and suddenly hears, \"You're Kazuya-kun, right?\" A beautiful girl brushing her long, black hair behind her ear was there, smiling at him. Her name was Mizuhara Chizuru. Something real is born after just a single rental! A reckless rom-com filled with love and excitement is about to begin!\n<br><br>\n(Source: Crunchyroll)",
+	"status": "Completed",
+	"releaseDate": 2020,
+	"startDate": {
+		"year": 2020,
+		"month": 7,
+		"day": 11
+	},
+	"endDate": {
+		"year": 2020,
+		"month": 9,
+		"day": 26
+	},
+	"totalEpisodes": 12,
+	"currentEpisode": 12,
+	"rating": 68,
+	"duration": 24,
+	"genres": ["Comedy", "Drama", "Romance"],
+	"season": "SUMMER",
+	"studios": ["TMS Entertainment"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 128106,
+		"role": "MAIN",
+		"name": {
+			"first": "Chizuru",
+			"last": "Ichinose",
+			"full": "Chizuru Ichinose",
+			"native": "一ノ瀬ちづる",
+			"userPreferred": "Chizuru Ichinose"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b128106-zSTsuULvz6PX.png",
+		"voiceActors": [{
+			"id": 116517,
+			"language": "Japanese",
+			"name": {
+				"first": "Sora",
+				"last": "Amamiya",
+				"full": "Sora Amamiya",
+				"native": "雨宮天",
+				"userPreferred": "Sora Amamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-NQh6ewlCwzBN.jpg"
+		}, {
+			"id": 146949,
+			"language": "English",
+			"name": {
+				"first": "Lizzie",
+				"last": "Freeman",
+				"full": "Lizzie Freeman",
+				"native": null,
+				"userPreferred": "Lizzie Freeman"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n146949-StltrUoIP5fr.jpg"
+		}, {
+			"id": 182455,
+			"language": "Spanish",
+			"name": {
+				"first": "Valentina",
+				"last": "Souza",
+				"full": "Valentina Souza",
+				"native": null,
+				"userPreferred": "Valentina Souza"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182455-785l5xplDPf7.jpg"
+		}, {
+			"id": 177127,
+			"language": "Portuguese",
+			"name": {
+				"first": "Amanda",
+				"last": "Manso",
+				"full": "Amanda Manso",
+				"native": null,
+				"userPreferred": "Amanda Manso"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n177127-e7YBo5jXm754.jpg"
+		}, {
+			"id": 273360,
+			"language": "French",
+			"name": {
+				"first": "Anna",
+				"last": "Lauzeray-Gishi",
+				"full": "Anna Lauzeray-Gishi",
+				"native": null,
+				"userPreferred": "Anna Lauzeray-Gishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n273360-hD3tunfOx1Yc.jpg"
+		}, {
+			"id": 105710,
+			"language": "German",
+			"name": {
+				"first": "Luisa",
+				"last": "Wietzorek",
+				"full": "Luisa Wietzorek",
+				"native": null,
+				"userPreferred": "Luisa Wietzorek"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/10710.jpg"
+		}]
+	}, {
+		"id": 128105,
+		"role": "MAIN",
+		"name": {
+			"first": "Kazuya",
+			"last": "Kinoshita",
+			"full": "Kazuya Kinoshita",
+			"native": "木ノ下和也",
+			"userPreferred": "Kazuya Kinoshita"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b128105-gad6JuGEXPWe.png",
+		"voiceActors": [{
+			"id": 119869,
+			"language": "Japanese",
+			"name": {
+				"first": "Shun",
+				"last": "Horie",
+				"full": "Shun Horie",
+				"native": "堀江瞬",
+				"userPreferred": "Shun Horie"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119869-mUUrORIQBlnB.png"
+		}, {
+			"id": 147792,
+			"language": "English",
+			"name": {
+				"first": "Aleks",
+				"last": "Le",
+				"full": "Aleks Le",
+				"native": null,
+				"userPreferred": "Aleks Le"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n147792-GJl4jEALPYbZ.png"
+		}, {
+			"id": 189472,
+			"language": "Spanish",
+			"name": {
+				"first": "Luis",
+				"last": "Navarro",
+				"full": "Luis Navarro",
+				"native": null,
+				"userPreferred": "Luis Navarro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189472-XV6GbLZ2z6mJ.png"
+		}, {
+			"id": 107861,
+			"language": "Portuguese",
+			"name": {
+				"first": "Charles",
+				"last": "Emmanuel",
+				"full": "Charles Emmanuel",
+				"native": null,
+				"userPreferred": "Charles Emmanuel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107861-SFg57susRKxf.jpg"
+		}, {
+			"id": 116201,
+			"language": "French",
+			"name": {
+				"first": "Arthur",
+				"last": "Pestel",
+				"full": "Arthur Pestel",
+				"native": null,
+				"userPreferred": "Arthur Pestel"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/21201.jpg"
+		}, {
+			"id": 142048,
+			"language": "German",
+			"name": {
+				"first": "Lasse",
+				"last": "Dreyer",
+				"full": "Lasse Dreyer",
+				"native": null,
+				"userPreferred": "Lasse Dreyer"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142048-9yj3XqCzB7ic.jpg"
+		}]
+	}, {
+		"id": 283247,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sayuri",
+			"last": "Ichinose",
+			"full": "Sayuri Ichinose",
+			"native": "一ノ瀬小百合",
+			"userPreferred": "Sayuri Ichinose"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b283247-GJxhmUgL6yz0.jpg",
+		"voiceActors": [{
+			"id": 100749,
+			"language": "Japanese",
+			"name": {
+				"first": "Sayuri",
+				"last": "Sadaoka",
+				"full": "Sayuri Sadaoka",
+				"native": "定岡小百合",
+				"userPreferred": "Sayuri Sadaoka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5749.jpg"
+		}, {
+			"id": 114868,
+			"language": "Spanish",
+			"name": {
+				"first": "Isabel",
+				"last": "Romo",
+				"full": "Isabel Romo",
+				"native": null,
+				"userPreferred": "Isabel Romo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/19868.jpg"
+		}, {
+			"id": 263424,
+			"language": "Portuguese",
+			"name": {
+				"first": "Lina",
+				"last": "Rossana",
+				"full": "Lina Rossana",
+				"native": null,
+				"userPreferred": "Lina Rossana"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n263424-Gx6N4QAY4GBc.png"
+		}, {
+			"id": 96214,
+			"language": "German",
+			"name": {
+				"first": "Eva-Maria",
+				"last": "Werth",
+				"full": "Eva-Maria Werth",
+				"native": null,
+				"userPreferred": "Eva-Maria Werth"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 147005,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ruka",
+			"last": "Sarashina",
+			"full": "Ruka Sarashina",
+			"native": "更科瑠夏",
+			"userPreferred": "Ruka Sarashina"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b147005-5vLFz3lTsssh.png",
+		"voiceActors": [{
+			"id": 106184,
+			"language": "Japanese",
+			"name": {
+				"first": "Nao",
+				"last": "Touyama",
+				"full": "Nao Touyama",
+				"native": "東山奈央",
+				"userPreferred": "Nao Touyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106184-rFA0sHFJrbk4.png"
+		}, {
+			"id": 109285,
+			"language": "English",
+			"name": {
+				"first": "Sarah",
+				"last": "Williams",
+				"full": "Sarah Williams",
+				"native": null,
+				"userPreferred": "Sarah Williams"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109285-x9o53amp58HB.jpg"
+		}, {
+			"id": 201444,
+			"language": "Spanish",
+			"name": {
+				"first": "Amanda",
+				"last": "Hinojosa",
+				"full": "Amanda Hinojosa",
+				"native": null,
+				"userPreferred": "Amanda Hinojosa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201444-UuM4e0e04Wk0.png"
+		}, {
+			"id": 186330,
+			"language": "Portuguese",
+			"name": {
+				"first": "Jullie",
+				"last": null,
+				"full": "Jullie",
+				"native": null,
+				"userPreferred": "Jullie"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n186330-EsSa9o92XKm6.png"
+		}, {
+			"id": 286060,
+			"language": "French",
+			"name": {
+				"first": "Lauryanne",
+				"last": "Philippe",
+				"full": "Lauryanne Philippe",
+				"native": null,
+				"userPreferred": "Lauryanne Philippe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n286060-KNYgv4TjnHdw.jpg"
+		}, {
+			"id": 191192,
+			"language": "German",
+			"name": {
+				"first": "Özge",
+				"last": "Kayalar",
+				"full": "Özge Kayalar",
+				"native": null,
+				"userPreferred": "Özge Kayalar"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n191192-CEdYdD9Frht9.png"
+		}]
+	}, {
+		"id": 144665,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sumi",
+			"last": "Sakurasawa",
+			"full": "Sumi Sakurasawa",
+			"native": "桜沢墨",
+			"userPreferred": "Sumi Sakurasawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b144665-aPda7bPvOoYl.png",
+		"voiceActors": [{
+			"id": 119331,
+			"language": "Japanese",
+			"name": {
+				"first": "Rie",
+				"last": "Takahashi",
+				"full": "Rie Takahashi",
+				"native": "高橋李依",
+				"userPreferred": "Rie Takahashi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-0CYDTh2mwy62.png"
+		}, {
+			"id": 152393,
+			"language": "English",
+			"name": {
+				"first": "Suzie",
+				"last": "Yeung",
+				"full": "Suzie Yeung",
+				"native": null,
+				"userPreferred": "Suzie Yeung"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n152393-b5B9ZTzgxUaa.jpg"
+		}, {
+			"id": 244310,
+			"language": "Spanish",
+			"name": {
+				"first": "Polly",
+				"last": "Huerta",
+				"full": "Polly Huerta",
+				"native": null,
+				"userPreferred": "Polly Huerta"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n244310-BBD9Xkgk78fp.png"
+		}, {
+			"id": 283099,
+			"language": "Portuguese",
+			"name": {
+				"first": "Paula",
+				"last": "Troyack",
+				"full": "Paula Troyack",
+				"native": null,
+				"userPreferred": "Paula Troyack"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n283099-EeekVaX16p7G.png"
+		}, {
+			"id": 286061,
+			"language": "French",
+			"name": {
+				"first": "Manon",
+				"last": "Adolphe",
+				"full": "Manon Adolphe",
+				"native": null,
+				"userPreferred": "Manon Adolphe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n286061-iolrmv1bFx99.jpg"
+		}, {
+			"id": 140948,
+			"language": "German",
+			"name": {
+				"first": "Amelie",
+				"last": "Plaas-Link",
+				"full": "Amelie Plaas-Link",
+				"native": null,
+				"userPreferred": "Amelie Plaas-Link"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140948-GiZ70lD0b6hY.png"
+		}]
+	}, {
+		"id": 154224,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mami",
+			"last": "Nanami",
+			"full": "Mami Nanami",
+			"native": "七海麻美",
+			"userPreferred": "Mami Nanami"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b154224-7dJ09BKEnG3v.png",
+		"voiceActors": [{
+			"id": 101686,
+			"language": "Japanese",
+			"name": {
+				"first": "Aoi",
+				"last": "Yuuki",
+				"full": "Aoi Yuuki",
+				"native": "悠木碧",
+				"userPreferred": "Aoi Yuuki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png"
+		}, {
+			"id": 129678,
+			"language": "English",
+			"name": {
+				"first": "Laura",
+				"last": "Stahl",
+				"full": "Laura Stahl",
+				"native": "Laura Megan Stahl",
+				"userPreferred": "Laura Megan Stahl"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129678-ktHQSAt2Bg1m.jpg"
+		}, {
+			"id": 182194,
+			"language": "Spanish",
+			"name": {
+				"first": "Verania",
+				"last": "Ortiz",
+				"full": "Verania Ortiz",
+				"native": null,
+				"userPreferred": "Verania Ortiz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182194-ajxRkcvEIjhy.png"
+		}, {
+			"id": 168030,
+			"language": "Portuguese",
+			"name": {
+				"first": "Isabella ",
+				"last": "Simi",
+				"full": "Isabella  Simi",
+				"native": null,
+				"userPreferred": "Isabella  Simi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n168030-dWXMO1RoqyRV.jpg"
+		}, {
+			"id": 249565,
+			"language": "French",
+			"name": {
+				"first": "Alice",
+				"last": "Orsat",
+				"full": "Alice Orsat",
+				"native": null,
+				"userPreferred": "Alice Orsat"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n249565-ASL27XR6qcOg.jpg"
+		}, {
+			"id": 275835,
+			"language": "German",
+			"name": {
+				"first": "Leandra",
+				"last": "Fili",
+				"full": "Leandra Fili",
+				"native": null,
+				"userPreferred": "Leandra Fili"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 172022,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yoshiaki",
+			"last": "Kibe",
+			"full": "Yoshiaki Kibe",
+			"native": "木部芳秋",
+			"userPreferred": "Yoshiaki Kibe"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b172022-wmZvC1RvCAhe.png",
+		"voiceActors": [{
+			"id": 124445,
+			"language": "Japanese",
+			"name": {
+				"first": "Masayuki",
+				"last": "Akasaka",
+				"full": "Masayuki Akasaka",
+				"native": "赤坂柾之",
+				"userPreferred": "Masayuki Akasaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124445-hACW3UTz0xTF.jpg"
+		}, {
+			"id": 138278,
+			"language": "English",
+			"name": {
+				"first": "Nicolas",
+				"last": "Roye",
+				"full": "Nicolas Roye",
+				"native": null,
+				"userPreferred": "Nicolas Roye"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n138278-a41EqPr13UPB.jpg"
+		}, {
+			"id": 182454,
+			"language": "Spanish",
+			"name": {
+				"first": "Pablo",
+				"last": "Moreno",
+				"full": "Pablo Moreno",
+				"native": "Pablo Rafael Moreno Tarín",
+				"userPreferred": "Pablo Moreno"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182454-1m3O6owyf4gb.png"
+		}, {
+			"id": 175611,
+			"language": "Portuguese",
+			"name": {
+				"first": "Yago",
+				"last": "Machado",
+				"full": "Yago Machado",
+				"native": null,
+				"userPreferred": "Yago Machado"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175611-B2qSbmoCoEML.jpg"
+		}, {
+			"id": 116417,
+			"language": "German",
+			"name": {
+				"first": "Roman",
+				"last": "Wolko",
+				"full": "Roman Wolko",
+				"native": null,
+				"userPreferred": "Roman Wolko"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116417-TJXhgYKKp2hs.jpg"
+		}]
+	}, {
+		"id": 172021,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Nagomi",
+			"last": "Kinoshita",
+			"full": "Nagomi Kinoshita",
+			"native": "木ノ下和",
+			"userPreferred": "Nagomi Kinoshita"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b172021-mTJYFfqwJnUH.png",
+		"voiceActors": [{
+			"id": 101302,
+			"language": "Japanese",
+			"name": {
+				"first": "Yukari",
+				"last": "Nozawa",
+				"full": "Yukari Nozawa",
+				"native": "野沢由香里",
+				"userPreferred": "Yukari Nozawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101302-wQSCXCjFoFu9.jpg"
+		}, {
+			"id": 129203,
+			"language": "English",
+			"name": {
+				"first": "Alex",
+				"last": "Cazares",
+				"full": "Alex Cazares",
+				"native": null,
+				"userPreferred": "Alex Cazares"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129203-dgvgiFqFfVm4.jpg"
+		}, {
+			"id": 284662,
+			"language": "Spanish",
+			"name": {
+				"first": "Teresa",
+				"last": "Ibarrola",
+				"full": "Teresa Ibarrola",
+				"native": null,
+				"userPreferred": "Teresa Ibarrola"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n284662-uhAzDuCf5jYh.jpg"
+		}, {
+			"id": 180909,
+			"language": "Portuguese",
+			"name": {
+				"first": "Rosa Maria",
+				"last": "Baroli",
+				"full": "Rosa Maria Baroli",
+				"native": null,
+				"userPreferred": "Rosa Maria Baroli"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n180909-xs8zkehbtccs.jpg"
+		}, {
+			"id": 165431,
+			"language": "German",
+			"name": {
+				"first": "Heike",
+				"last": "Schroetter",
+				"full": "Heike Schroetter",
+				"native": null,
+				"userPreferred": "Heike Schroetter"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n165431-udaefs8HDW0q.jpg"
+		}]
+	}, {
+		"id": 172023,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Shun",
+			"last": "Kuribayashi",
+			"full": "Shun Kuribayashi",
+			"native": "栗林駿",
+			"userPreferred": "Shun Kuribayashi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b172023-xcXMrzz1HJLS.png",
+		"voiceActors": [{
+			"id": 123286,
+			"language": "Japanese",
+			"name": {
+				"first": "Gakuto",
+				"last": "Kajiwara",
+				"full": "Gakuto Kajiwara",
+				"native": "梶原岳人",
+				"userPreferred": "Gakuto Kajiwara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123286-TfHayiK4hqbk.png"
+		}, {
+			"id": 130682,
+			"language": "English",
+			"name": {
+				"first": "Landon",
+				"last": "McDonald",
+				"full": "Landon McDonald",
+				"native": null,
+				"userPreferred": "Landon McDonald"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n130682-bMeCRcuIvX4D.png"
+		}, {
+			"id": 284663,
+			"language": "Spanish",
+			"name": {
+				"first": "Víctor",
+				"last": "Guerrero",
+				"full": "Víctor Guerrero",
+				"native": null,
+				"userPreferred": "Víctor Guerrero"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n284663-KXQHEbBt8mWH.png"
+		}, {
+			"id": 176921,
+			"language": "Portuguese",
+			"name": {
+				"first": "João Victor",
+				"last": "Granja",
+				"full": "João Victor Granja",
+				"native": "João Victor Granja do Nascimento",
+				"userPreferred": "João Victor Granja"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176921-vJhuyAevlt3k.jpg"
+		}, {
+			"id": 161650,
+			"language": "German",
+			"name": {
+				"first": "Benno",
+				"last": "Lehmann",
+				"full": "Benno Lehmann",
+				"native": null,
+				"userPreferred": "Benno Lehmann"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 99943,
+		"relationType": "ADAPTATION",
+		"malId": 108407,
+		"title": {
+			"romaji": "Kanojo, Okarishimasu",
+			"english": "Rent-A-Girlfriend",
+			"native": "彼女、お借りします",
+			"userPreferred": "Kanojo, Okarishimasu"
+		},
+		"status": "Ongoing",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx99943-0tJ6oNhn3xet.png",
+		"color": "#f1bb35",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/99943-bs6PEAZgj1wy.jpg",
+		"rating": 61
+	}, {
+		"id": 123901,
+		"relationType": "OTHER",
+		"malId": 42867,
+		"title": {
+			"romaji": "Kanojo, Okarishimasu Petit",
+			"english": null,
+			"native": "彼女、お借りします ぷち",
+			"userPreferred": "Kanojo, Okarishimasu Petit"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"color": "#f1d6c9",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123901-3FIrkDyJdTHT.jpg",
+		"rating": 60
+	}, {
+		"id": 124410,
+		"relationType": "SEQUEL",
+		"malId": 42963,
+		"title": {
+			"romaji": "Kanojo, Okarishimasu 2nd Season",
+			"english": "Rent-a-Girlfriend Season 2",
+			"native": "彼女、お借りします 第2期",
+			"userPreferred": "Kanojo, Okarishimasu 2nd Season"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124410-iScdHzzEqdmk.png",
+		"color": "#f1d650",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/124410-mo2jQSOaJIeL.jpg",
+		"rating": 67
+	}, {
+		"id": 123464,
+		"relationType": "OTHER",
+		"malId": null,
+		"title": {
+			"romaji": "Kanojo, Okarishimasu Collab Mini Animation",
+			"english": null,
+			"native": "彼女、お借りします コラボミニアニメーション",
+			"userPreferred": "Kanojo, Okarishimasu Collab Mini Animation"
+		},
+		"status": "Completed",
+		"episodes": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123464-IDRajV9Vikko.png",
+		"color": "#ffd6bb",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123464-GCG7ZjItDipo.jpg",
+		"rating": 56
+	}, {
+		"id": 143391,
+		"relationType": "CHARACTER",
+		"malId": 43413,
+		"title": {
+			"romaji": "Chiyuki no Fashion Check",
+			"english": null,
+			"native": "千雪のファッションチェック！",
+			"userPreferred": "Chiyuki no Fashion Check"
+		},
+		"status": "Completed",
+		"episodes": 9,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143391-iFj8UKciDab3.png",
+		"color": "#e4f1ae",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143391-iFj8UKciDab3.png",
+		"rating": 50
+	}, {
+		"id": 162800,
+		"relationType": "OTHER",
+		"malId": 51135,
+		"title": {
+			"romaji": "Kanojo, Okarishimasu: Date Movie",
+			"english": null,
+			"native": "彼女、お借りします デートムービー",
+			"userPreferred": "Kanojo, Okarishimasu: Date Movie"
+		},
+		"status": "Completed",
+		"episodes": 32,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162800-WYuKTx8iBwHB.jpg",
+		"color": "#e4866b",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162800-WYuKTx8iBwHB.jpg",
+		"rating": 53
+	}],
+	"mappings": {
+		"mal": 40839,
+		"anidb": 15299,
+		"kitsu": 43028,
+		"anilist": 113813,
+		"thetvdb": 380654,
+		"anisearch": 14816,
+		"livechart": 9707,
+		"notify.moe": "RFz1z-8Zg",
+		"anime-planet": "rent-a-girlfriend"
+	},
+	"episodes": [{
+		"id": "rent-a-girlfriend-episode-1",
+		"title": "Rent-a-Girlfriend",
+		"description": "Jilted and heartbroken, 20-year-old Kinoshita Kazuya turns to Diamond, a Rent-A-Girlfriend app that leads him to a fateful encounter with Mizuhara Chizuru, one of the talents on offer.",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f05ff06012c1.jpg",
+		"airDate": "2020-07-11T00:00:00.000Z"
+	}, {
+		"id": "rent-a-girlfriend-episode-2",
+		"title": "Ex-Girlfriend and Girlfriend",
+		"description": "Immediately after deciding not to rely on pretend dating anymore, Kazuya is hit with a triple whammy of reveals: Chizuru not only goes to his college but lives next door to him, and his grandmother is coming to visit and wants to see her.",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f0f1d2cea2dd.jpg",
+		"airDate": "2020-07-18T00:00:00.000Z"
+	}, {
+		"id": "rent-a-girlfriend-episode-3",
+		"title": "Beach and Girlfriend",
+		"description": "Kazuya barely has time to deal with the fallout of the situation in the pub before the gang heads off on a short trip to Izu, where they run into someone unexpected.",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f19177b4a22b.jpg",
+		"airDate": "2020-07-25T00:00:00.000Z"
+	}, {
+		"id": "rent-a-girlfriend-episode-4",
+		"title": "Friend and Girlfriend",
+		"description": "Mami's plan comes to a head as Kazuya decides to set the story straight, to mixed reactions.",
+		"number": 4,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f22e3e4883bc.jpg",
+		"airDate": "2020-08-01T00:00:00.000Z"
+	}, {
+		"id": "rent-a-girlfriend-episode-5",
+		"title": "Hot Springs and Girlfriend",
+		"description": "The aftermath of the ferry incident signals a clear shift in Kazuya's feelings. Meanwhile, there's a conspiracy brewing at the hot springs inn he and his family decide to visit.",
+		"number": 5,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f2bcb4854c57.jpg",
+		"airDate": "2020-08-08T00:00:00.000Z"
+	}, {
+		"id": "rent-a-girlfriend-episode-6",
+		"title": "Girlfriend and Girlfriend",
+		"description": "Having to spend a night in the same room with Chizuru sends Kazuya's heart and mind racing. Meanwhile, Kuribayashi Shun has a surprise in store...",
+		"number": 6,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f369a9b96caa.jpg",
+		"airDate": "2020-08-15T00:00:00.000Z"
+	}, {
+		"id": "rent-a-girlfriend-episode-7",
+		"title": "Provisional Girlfriend and Girlfriend",
+		"description": "While Kazuya desperately tries to get Ruka to promise she won't reveal his secret, she tells him her own.",
+		"number": 7,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f3eaa7444827.jpg",
+		"airDate": "2020-08-22T00:00:00.000Z"
+	}, {
+		"id": "rent-a-girlfriend-episode-8",
+		"title": "Christmas and Girlfriend",
+		"description": "Christmas rolls around with Kazuya not having met Chizuru for ages, and he sees something he never wanted to see.",
+		"number": 8,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f49141fea58e.jpg",
+		"airDate": "2020-08-29T00:00:00.000Z"
+	}, {
+		"id": "rent-a-girlfriend-episode-9",
+		"title": "Lies and Girlfriend",
+		"description": "Ruka is hellbent on knowing the full story behind Kazuya and Chizuru's relationship, and once she does she decides to take action.",
+		"number": 9,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f5269e04923c.jpg",
+		"airDate": "2020-09-05T00:00:00.000Z"
+	}, {
+		"id": "rent-a-girlfriend-episode-10",
+		"title": "Friend's Girlfriend",
+		"description": "Kazuya learns that Kuribayashi's been down in the dumps and tries to figure out how he can help him.",
+		"number": 10,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f5b8bf5ca6b0.jpg",
+		"airDate": "2020-09-12T00:00:00.000Z"
+	}, {
+		"id": "rent-a-girlfriend-episode-11",
+		"title": "Truth and Girlfriend",
+		"description": "On Chizuru's request, Kazuya goes on a practice date with Sumi, another rental girlfriend. Will he actually be able to help her and stay out of trouble while he's at it?",
+		"number": 11,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f64d8dcaa09b.jpg",
+		"airDate": "2020-09-19T00:00:00.000Z"
+	}, {
+		"id": "rent-a-girlfriend-episode-12",
+		"title": "Confession and Girlfriend",
+		"description": "Chizuru and Mami go on an awkward rental date unaware that Kazuya has seen them together. How can Chizuru handle this situation?",
+		"number": 12,
+		"image": "https://artworks.thetvdb.com/banners/series/380654/episodes/5f6dcc25dd9c9.jpg",
+		"airDate": "2020-09-26T00:00:00.000Z"
+	}]
+}
