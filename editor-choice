@@ -1,58 +1,65 @@
 [
   {
     "animeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-1",
-    "janimeTitle": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-    "animeTitle": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-    "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-    "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145139-V01Prh6UzfRk.jpg",
+    "jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+    "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+	"subOrDub": "sub",
+	"type": "tv",
+    "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
     "animeUrl": "/anime/kimetsu-no-yaiba-katanakaji-no-satohen"
   },
     {
     "animeId": "oshi-no-ko-episode-1",
-    "janimeTitle": "[Oshi No Ko]",
-    "animeTitle": "Oshi No Ko",
-    "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
-    "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150672-ISwoA0eS722H.jpg",
+    "jname": "[Oshi No Ko]",
+    "name": "Oshi No Ko",
+	"subOrDub": "sub",
+	"type": "tv",
+    "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
     "animeUrl": "/anime/oshi-no-ko"
   },
   {
     "animeId": "attack-on-titan-the-final-season-part-3-episode-1",
-    "janimeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
-    "animeTitle": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
-    "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
-    "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146984-yAkTtW2AExVj.jpg",
+    "jname": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
+    "name": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+	"subOrDub": "dub",
+	"type": "tv",
+    "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
     "animeUrl": "/anime/attack-on-titan-the-final-season-part-3"
   },
   {
     "animeId": "attack-on-titan-final-season-episode-1",
-    "janimeTitle": "Shingeki no Kyojin: The Final Season",
-    "animeTitle": "Attack on Titan Final Season",
-    "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-qDRIhu50PXzz.jpg",
-    "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110277-iuGn6F5bK1U1.jpg",
+    "jname": "Shingeki no Kyojin: The Final Season",
+    "name": "Attack on Titan Final Season",
+	"subOrDub": "dub",
+	"type": "tv",
+    "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-qDRIhu50PXzz.jpg",
     "animeUrl": "/anime/attack-on-titan-final-season"
   },
   {
     "animeId": "kimetsu-no-yaiba-yuukaku-hen",
-    "janimeTitle": "Kimetsu no Yaiba: Yuukaku-hen",
-    "animeTitle": "Demon Slayer: Entertainment District Arc",
-    "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
-    "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142329-i413SzLmToZN.jpg",
+    "jname": "Kimetsu no Yaiba: Yuukaku-hen",
+    "name": "Demon Slayer: Entertainment District Arc",
+	"subOrDub": "dub",
+	"type": "tv",
+    "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
     "animeUrl": "/anime/kimetsu-no-yaiba-yuukaku-hen"
   },
   {
     "animeId": "jujutsu-kaisen-tv",
-    "janimeTitle": "Jujutsu Kaisen",
-    "animeTitle": "Jujutsu Kaisen",
-    "animeImg": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
-    "animeCover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113415-jQBSkxWAAk83.jpg",
+    "jname": "Jujutsu Kaisen",
+    "name": "Jujutsu Kaisen",
+	"subOrDub": "dub",
+	"type": "tv",
+    "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
     "animeUrl": "/anime/jujutsu-kaisen-tv"
   },
   {
     "animeId": "pokemon-ultimate-journeys",
-    "janimeTitle": "Pocket Monster (2019)",
-    "animeTitle": "Pokémon Ultimate Journeys: The Series",
-    "animeImg": "../cover/pokemon-ultimate-journeys.jpg",
-    "animeCover": "../cover/pokemon-ultimate-journeys.jpg",
+    "jname": "Pocket Monster (2019)",
+    "name": "Pokémon Ultimate Journeys: The Series",
+	"subOrDub": "dub",
+	"type": "tv",
+    "imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
     "animeUrl": "/anime/pokemon-ultimate-journeys"
   }
 ]
