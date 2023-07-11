@@ -1,0 +1,199 @@
+{
+	"id": "9262",
+	"title": {
+		"romaji": "Pingu",
+		"english": "Pingu",
+		"native": "Pingu"
+	},
+	"malId": 9262,
+	"synonyms": ["Pingu"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "CH",
+	"image": "https://www.themoviedb.org/t/p/original/nLE7NR3EsEbv2NfG0bLIaOEhGfY.jpg",
+	"popularity": 7700,
+	"color": "#e4a15d",
+	"cover": "https://www.themoviedb.org/t/p/original/ikNqtcxLSdYRZf7E1yTU1kfu0WY.jpg",
+	"description": "Pingu finds himself in tricky and comical situations, but he always learns a lesson. Pingu spends his days with his parents and baby sister, Pinga. Everyone in his town speaks 'Penguinese'. Laugh along and find out what happens.",
+	"status": "Completed",
+	"releaseDate": 1986,
+	"startDate": {
+		"year": 1986,
+		"month": 5,
+		"day": 28
+	},
+	"endDate": {
+		"year": 2000,
+		"month": 4,
+		"day": 9
+	},
+	"totalEpisodes": 26,
+	"currentEpisode": 26,
+	"rating": 74,
+	"duration": 5,
+	"genres": ["Animation", "Short", "Comedy", "Kids"],
+	"season": "SPRING",
+	"studios": ["SF DRS", "ZDF"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+		"id": "pingu-season-01-episode-1",
+		"title": "Pingu is Introduced",
+		"description": "The episode begins as the family is enjoying their lunch. Pingu tries to scoop up his potatoes but is having great difficulty, so he smashes his fork which makes it easier to swallow them whole. Father scolds him, but then ends up showing how difficult it is for him to keep his potatoes on his fork too. Pingu laughs and blows bubbles into his drink, with Mother telling him off for it. He then moves on to his fish which he puts into his mouth and pulls up again to reveal the bones. He does not want to eat his greens, but Father tells him he must if he wants to leave the table. Once finally eaten through his straw, Pingu rushes to the bathroom and spits the greens into the toilet. Pingu exits the bathroom and the table is cleared, so he slides under the table and sneaks into the toybox, to find his red rubber ball. He asks Father to inflate it for him, so he fetches the pump and does so. While he waits, Mother lets Pingu have a lick of her ice lolly. Pingu finally goes outside with his ball, sets it down and goes back in to blow his nose. While Pingu is gone, two bullies named Pingo and Pingg come along and steal the ball. Pingu soon returns and a big fight ensues to rescue his ball, resulting with Pingg hitting Pingu on the head and Pingo tripping Pingu up onto the ball, causing it to burst. Pingu runs back to his igloo, chased by snowballs thrown at him by Pingo. Father blows up the ball again while Mother puts a plaster on Pingu's head. Father also plasters up the damage that the ball suffered too. Pingu then finishes off the day with a sleep in his hammock.",
+		"number": 1,
+		"image": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/1OOYGRQWqbYDQFT8h77wOdelbv9.jpg"
+	}, {
+		"id": "pingu-season-01-episode-2",
+		"title": "The Polka Dot Umbrella/One More Marshmallow",
+		"description": "Oswald finds an umbrella in Big City Park. Oswald is hosting a tea party but doesn't have enough marshmallows.",
+		"number": 2,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjE4MTA5NTUzOV5BMl5BanBnXkFtZTgwMzYyOTM0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-3",
+		"title": "Daisy Plays an Instrument/The Ball of Yarn",
+		"description": "Oswald and Daisy find a duckling who's lost her mother. With the help of the Egg Twins, Madame Butterfly and Johnny Snowman, they search all over town, but can't find her anywhere.",
+		"number": 3,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjIyNjc5NzkzNF5BMl5BanBnXkFtZTgwMDE0NDE1NTE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-4",
+		"title": "Down in the Dump/The Birdhouse",
+		"description": "Oswald cleans out his apartment and plans to throw away his useless junk. As he heads to the dump, he meets Henry, who is happy to take Oswald's broken rake - he can use it to scratch his feathers!",
+		"number": 4,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjAwNDk0OTA4Ml5BMl5BanBnXkFtZTgwNjYwNTM0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-5",
+		"title": "Henry Needs a Haircut/Flippy the Fish",
+		"description": "Henry has a feather sticking up from his head! Oswald suggests that he visit the barber, but Henry thinks it will hurt and refuses. Instead, he makes many attempts to slick the stray feather back, but nothing works.",
+		"number": 5,
+		"image": "https://m.media-amazon.com/images/M/MV5BODc2NTMxNDk5Ml5BMl5BanBnXkFtZTgwNjk0OTI0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-6",
+		"title": "Rollerskating/I Guess You Never Know",
+		"description": "Oswald watches Daisy twirl on her rollerskates and is encouraged to try./Oswald's favorite television show ends with the message - may your day be filled with surprises.",
+		"number": 6,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTcyNTIwODU4NF5BMl5BanBnXkFtZTgwNzc3NTI0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-7",
+		"title": "Sleepover/Big Banana",
+		"description": "Tonight Oswald and Weenie are sleeping over Henry's apartment! It's Weenie's very first sleepover./Oswald and Weenie plant a banana seed.",
+		"number": 7,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTk4OTE4Njk3NV5BMl5BanBnXkFtZTgwNjc3ODI0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-8",
+		"title": "Leaky Faucet/Catrina's Birthday Cake",
+		"description": "Oswald and Weenie discover a drip coming from the kitchen sink./Madame Butterfly is planning a birthday party for Catrina.",
+		"number": 8,
+		"image": "https://m.media-amazon.com/images/M/MV5BNjIxNjI0MjE4MF5BMl5BanBnXkFtZTgwOTI4NTI0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-9",
+		"title": "Cloud Collecting/Pongo the Friendly Dragon",
+		"description": "After admiring his friends' collections of various objects, Oswald becomes inspired to start a collection of his own. He decides to collect clouds, but discovers that some things should just be admired and not kept.",
+		"number": 9,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU0MTMwMjQzNV5BMl5BanBnXkFtZTgwMDU5MDM0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-10",
+		"title": "A Nice Quiet Picnic/The Big Parade",
+		"description": "",
+		"number": 10,
+		"image": ""
+	}, {
+		"id": "pingu-season-01-episode-11",
+		"title": "The Go-Kart Race/Autumn Leaves",
+		"description": "Oswald and Weenie are preparing to race in the Big City Go-Kart Race. But Oswald stops to help his friends get their go-karts ready, and he misses the start of the race.",
+		"number": 11,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTYyMDY2NDQwMV5BMl5BanBnXkFtZTgwNTU0NzM0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-12",
+		"title": "A Day at the Beach/The Sand Sculpture Contest",
+		"description": "Oswald and the gang go to the beach. Henry doesn't like the idea of getting wet, and Oswald has to protect him from Daisy's reckless splashing around.",
+		"number": 12,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ2Njk4MTcxN15BMl5BanBnXkFtZTgwNDkxODI0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-13",
+		"title": "Fixing the Piano/Henry Wants to Fly",
+		"description": "Henry is sad because he can't fly like the other birds. Oswald and Daisy try to help him realize his dream.",
+		"number": 13,
+		"image": "https://m.media-amazon.com/images/M/MV5BNjM0NTYwMjg5Nl5BMl5BanBnXkFtZTgwNDcyNzM0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-14",
+		"title": "Daisy and the Duckling/The Double Date",
+		"description": "Oswald and Daisy find a duckling who's lost her mother. With the help of the Egg Twins, Madame Butterfly and Johnny Snowman, they search all over town, but can't find her anywhere.",
+		"number": 14,
+		"image": "https://m.media-amazon.com/images/M/MV5BYmQwNzIyYzMtOGM1NS00MjFkLWFjN2QtN2RhMGFlYzM4ZWNkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-15",
+		"title": "The Sniffles/The Broken Vase",
+		"description": "Oswald goes out into Big City to get some cocoa and a newspaper for Henry, who has a bad case of the Arctic Sniffles.",
+		"number": 15,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTcwNjA3MzIzNF5BMl5BanBnXkFtZTgwODMyNzI0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-16",
+		"title": "The Big Balloon Rescue/Snow to Go",
+		"description": "Oswald gives a balloon to Catrina, but a strong wind carries her off into the sky. Oswald and Weenie commandeer the hot air balloon and finally rescue her - but now how do they get back?",
+		"number": 16,
+		"image": "https://m.media-amazon.com/images/M/MV5BODc3MTg3NjA5Nl5BMl5BanBnXkFtZTgwMjI3NjE1NTE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-17",
+		"title": "Odd One Out/Goodbye Best Friend",
+		"description": "Oswald is excited to meet Henry's cousin, Louie. But the two penguins have a great time all by themselves. Oswald feels left out, but once Henry and Louie catch up on old times, they seek Oswald out.",
+		"number": 17,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTgyMTkyNzcyMl5BMl5BanBnXkFtZTgwODQyNzM0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-18",
+		"title": "The Tomato Garden/Bird-Watching",
+		"description": "Oswald plants a tomato garden, but soon discovers that snails are feasting on his succulent plants.",
+		"number": 18,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQyOTEwNzIzMV5BMl5BanBnXkFtZTgwODQ0NzM0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-19",
+		"title": "Friends Indeed/Sammy Starfish Live",
+		"description": "Oswald finds himself in the middle when Henry and Daisy have an argument and stop talking to each other.",
+		"number": 19,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTk0NTk1MzYyN15BMl5BanBnXkFtZTgwNjAxNjI0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-20",
+		"title": "The Pet Show/Going Fishing",
+		"description": "Oswald brings Weenie to the Big City Pet Show. But Weenie doesn't do well in the competition, because she's more concerned about a runaway woodpecker chipping away at the tent pole.",
+		"number": 20,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjAxMzMxMzE4Ml5BMl5BanBnXkFtZTgwMjYwNTM0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-21",
+		"title": "The Naughty Cat/The Giant Egg",
+		"description": "Oswald offers to watch Roderick Robot's mechanical cat, Tinsel. Oswald thinks it will be easy, but Tinsel's mischievous behavior makes it a hard afternoon.",
+		"number": 21,
+		"image": "https://m.media-amazon.com/images/M/MV5BNTc2NjEzMjg3MV5BMl5BanBnXkFtZTgwNDYwNTM0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-22",
+		"title": "A Sticky Situation/Tutti-frutti Pie",
+		"description": "Daisy and Oswald decide to make sticky honey buns - but it's not long before the recipe goes wrong.Oswald keeps getting distracted by friends who need help and Catrina follows his example and helps a Mother Bird gather food.",
+		"number": 22,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTU0MTY1MDUyMl5BMl5BanBnXkFtZTgwOTAwNjI0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-23",
+		"title": "Job for a Day/Perfect Match",
+		"description": "Oswald works the ice cream route for Johnny the Snowman.",
+		"number": 23,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTQ4ODkzMzUyNF5BMl5BanBnXkFtZTgwMzIxOTI0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-24",
+		"title": "Catrina's First Snow/The Snow Festival",
+		"description": "Oswald babysits Catrina and takes her outside on a snowy day. Oswald comes across his friends who are building snow forts and making snow angels.",
+		"number": 24,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTEzMDI4OTg5ODBeQTJeQWpwZ15BbWU4MDk4MjUyNDIx._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-25",
+		"title": "The Biggest Wish/The Stopped Clock",
+		"description": "Oswald catches a firefly, and gets to make a wish on it. But he can't decide what the perfect wish should be. He asks all his friends for advice, but none of their wishes are what he would wish for.",
+		"number": 25,
+		"image": "https://m.media-amazon.com/images/M/MV5BMjE3MDEzOTUyNl5BMl5BanBnXkFtZTgwMjQ0NzM0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}, {
+		"id": "pingu-season-01-episode-26",
+		"title": "Hide & Seek/Weenie Takes a Bath",
+		"description": "Oswald and Weenie play a game of Hide and Seek that unexpectedly turns into a game of Lost and Found when Weenie disappears. Worried, Oswald looks all over Big City in search of his pet.",
+		"number": 26,
+		"image": "https://m.media-amazon.com/images/M/MV5BMTk3NDY4NDI0M15BMl5BanBnXkFtZTgwMzYwNTM0MjE@._V1_UX224_CR0,0,224,126_AL_.jpg"
+	}]
+}
