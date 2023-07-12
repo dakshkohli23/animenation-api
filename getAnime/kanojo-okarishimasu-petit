@@ -1,0 +1,312 @@
+{
+	"id": "123901",
+	"title": {
+		"romaji": "Kanojo, Okarishimasu Petit",
+		"english": "Rent-a-Girlfriend Chibi",
+		"native": "彼女、お借りします ぷち"
+	},
+	"malId": 42867,
+	"synonyms": ["Rent-a-Girlfriend Chibi", "Kanojo, Okarishimasu Mini Anime"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+	"popularity": 5297,
+	"color": "#f1d6c9",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123901-3FIrkDyJdTHT.jpg",
+	"description": "Chibi shorts posted on the official Kanojo, Okarishimasu Twitter account.",
+	"status": "Completed",
+	"releaseDate": 2020,
+	"startDate": {
+		"year": 2020,
+		"month": 7,
+		"day": 17
+	},
+	"endDate": {
+		"year": 2020,
+		"month": 10,
+		"day": 1
+	},
+	"totalEpisodes": 12,
+	"currentEpisode": 12,
+	"rating": 59,
+	"duration": 1,
+	"genres": ["Comedy"],
+	"season": "SUMMER",
+	"studios": ["AQUA ARIS"],
+	"subOrDub": "sub",
+	"type": "ONA",
+	"recommendations": [],
+	"characters": [{
+		"id": 147005,
+		"role": "MAIN",
+		"name": {
+			"first": "Ruka",
+			"last": "Sarashina",
+			"full": "Ruka Sarashina",
+			"native": "更科瑠夏",
+			"userPreferred": "Ruka Sarashina"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b147005-5vLFz3lTsssh.png",
+		"voiceActors": [{
+			"id": 106184,
+			"language": "Japanese",
+			"name": {
+				"first": "Nao",
+				"last": "Touyama",
+				"full": "Nao Touyama",
+				"native": "東山奈央",
+				"userPreferred": "Nao Touyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106184-rFA0sHFJrbk4.png"
+		}]
+	}, {
+		"id": 128106,
+		"role": "MAIN",
+		"name": {
+			"first": "Chizuru",
+			"last": "Ichinose",
+			"full": "Chizuru Ichinose",
+			"native": "一ノ瀬ちづる",
+			"userPreferred": "Chizuru Ichinose"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b128106-zSTsuULvz6PX.png",
+		"voiceActors": [{
+			"id": 116517,
+			"language": "Japanese",
+			"name": {
+				"first": "Sora",
+				"last": "Amamiya",
+				"full": "Sora Amamiya",
+				"native": "雨宮天",
+				"userPreferred": "Sora Amamiya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-NQh6ewlCwzBN.jpg"
+		}]
+	}, {
+		"id": 154224,
+		"role": "MAIN",
+		"name": {
+			"first": "Mami",
+			"last": "Nanami",
+			"full": "Mami Nanami",
+			"native": "七海麻美",
+			"userPreferred": "Mami Nanami"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b154224-7dJ09BKEnG3v.png",
+		"voiceActors": [{
+			"id": 101686,
+			"language": "Japanese",
+			"name": {
+				"first": "Aoi",
+				"last": "Yuuki",
+				"full": "Aoi Yuuki",
+				"native": "悠木碧",
+				"userPreferred": "Aoi Yuuki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png"
+		}]
+	}, {
+		"id": 144665,
+		"role": "MAIN",
+		"name": {
+			"first": "Sumi",
+			"last": "Sakurasawa",
+			"full": "Sumi Sakurasawa",
+			"native": "桜沢墨",
+			"userPreferred": "Sumi Sakurasawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b144665-aPda7bPvOoYl.png",
+		"voiceActors": [{
+			"id": 119331,
+			"language": "Japanese",
+			"name": {
+				"first": "Rie",
+				"last": "Takahashi",
+				"full": "Rie Takahashi",
+				"native": "高橋李依",
+				"userPreferred": "Rie Takahashi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-0CYDTh2mwy62.png"
+		}]
+	}, {
+		"id": 128105,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Kazuya",
+			"last": "Kinoshita",
+			"full": "Kazuya Kinoshita",
+			"native": "木ノ下和也",
+			"userPreferred": "Kazuya Kinoshita"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b128105-gad6JuGEXPWe.png",
+		"voiceActors": []
+	}],
+	"relations": [{
+		"id": 123464,
+		"relationType": "SIDE_STORY",
+		"malId": null,
+		"title": {
+			"romaji": "Kanojo, Okarishimasu Collab Mini Animation",
+			"english": null,
+			"native": "彼女、お借りします コラボミニアニメーション",
+			"userPreferred": "Kanojo, Okarishimasu Collab Mini Animation"
+		},
+		"status": "Completed",
+		"episodes": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123464-IDRajV9Vikko.png",
+		"color": "#ffd6bb",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123464-GCG7ZjItDipo.jpg",
+		"rating": 56
+	}, {
+		"id": 113813,
+		"relationType": "PARENT",
+		"malId": 40839,
+		"title": {
+			"romaji": "Kanojo, Okarishimasu",
+			"english": "Rent-a-Girlfriend",
+			"native": "彼女、お借りします",
+			"userPreferred": "Kanojo, Okarishimasu"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113813-UCgSIGyWvLgl.jpg",
+		"color": "#e45086",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113813-Al8VofQuNQHV.jpg",
+		"rating": 68
+	}, {
+		"id": 154385,
+		"relationType": "SEQUEL",
+		"malId": 52562,
+		"title": {
+			"romaji": "Kanojo, Okarishimasu 2nd Season Petit",
+			"english": null,
+			"native": "彼女、お借りします 第2期 ぷち",
+			"userPreferred": "Kanojo, Okarishimasu 2nd Season Petit"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154385-cCM4Ow2qgOK7.png",
+		"color": "#f1c9a1",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154385-cCM4Ow2qgOK7.png",
+		"rating": 55
+	}],
+	"mappings": {
+		"mal": 42867,
+		"kitsu": 43565,
+		"anilist": 123901,
+		"anisearch": 18446,
+		"livechart": 10568,
+		"notify.moe": "7xTKzaOMg",
+		"anime-planet": "rent-a-girlfriend-mini-anime"
+	},
+	"episodes": [{
+		"id": "kanojo-okarishimasu-petit-episode-1",
+		"title": null,
+		"description": null,
+		"number": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-2",
+		"title": null,
+		"description": null,
+		"number": 2,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-3",
+		"title": null,
+		"description": null,
+		"number": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-4",
+		"title": null,
+		"description": null,
+		"number": 4,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-5",
+		"title": null,
+		"description": null,
+		"number": 5,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-6",
+		"title": null,
+		"description": null,
+		"number": 6,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-7",
+		"title": null,
+		"description": null,
+		"number": 7,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-8",
+		"title": null,
+		"description": null,
+		"number": 8,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-9",
+		"title": null,
+		"description": null,
+		"number": 9,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-10",
+		"title": null,
+		"description": null,
+		"number": 10,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-11",
+		"title": null,
+		"description": null,
+		"number": 11,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-12",
+		"title": null,
+		"description": null,
+		"number": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-13",
+		"title": null,
+		"description": null,
+		"number": 13,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-14",
+		"title": null,
+		"description": null,
+		"number": 14,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}, {
+		"id": "kanojo-okarishimasu-petit-episode-15",
+		"title": null,
+		"description": null,
+		"number": 15,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+		"airDate": null
+	}]
+}
