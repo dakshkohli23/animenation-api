@@ -1764,7 +1764,33 @@
             "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTM3NDkxZjUtNmQ3Ni00MTJiLWIyN2UtZjdmMTlkM2EzMzk4XkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_FMjpg_UX1000_.jpg",
             "type": "tv",
             "episodeUrl": "anime/oswald",
-            "genres": ["Animation", "Family", "Music"],
+            "genres": ["Animation", "Family", "Music", "Kids"],
+            "isAdult": false
+        },
+        {
+            "animeId": "pingu-season-01",
+            "episodeId": "pingu-season-01-episode-1",
+            "name": "Pingu",
+            "jname": "Pingu",
+            "episodeNum": "26",
+            "subOrDub": "dub",
+            "imgUrl": "https://www.themoviedb.org/t/p/original/nLE7NR3EsEbv2NfG0bLIaOEhGfY.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/pingu-season-01",
+            "genres": ["Animation", "Short", "Comedy", "Kids"],
+            "isAdult": false
+        },
+        {
+            "animeId": "pingu-season-02",
+            "episodeId": "pingu-season-02-episode-1",
+            "name": "Pingu Season 02",
+            "jname": "Pingu Season 02",
+            "episodeNum": "26",
+            "subOrDub": "dub",
+            "imgUrl": "https://www.themoviedb.org/t/p/original/fBnhZLMcJ8WNrZJiN11vpq4FekL.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/pingu-season-02",
+            "genres": ["Animation", "Short", "Comedy", "Kids"],
             "isAdult": false
         },
         {
@@ -2498,7 +2524,7 @@
         {
             "animeId": "rent-a-girlfriend",
             "episodeId": "rent-a-girlfriend-episode-1",
-            "name": "Rent-a-Girlfriend",
+            "name": "Rent a Girlfriend",
             "jname": "Kanojo, Okarishimasu",
             "episodeNum": "12",
             "subOrDub": "dub",
@@ -2511,7 +2537,7 @@
         {
             "animeId": "rent-a-girlfriend-season-2",
             "episodeId": "rent-a-girlfriend-season-2-episode-1",
-            "name": "Rent-a-Girlfriend Season 2",
+            "name": "Rent a Girlfriend Season 2",
             "jname": "Kanojo, Okarishimasu 2nd Season",
             "episodeNum": "12",
             "subOrDub": "dub",
@@ -2524,7 +2550,7 @@
         {
             "animeId": "rent-a-girlfriend-season-3",
             "episodeId": "rent-a-girlfriend-season-3-episode-1",
-            "name": "Rent-a-Girlfriend Season 3",
+            "name": "Rent a Girlfriend Season 3",
             "jname": "Kanojo, Okarishimasu 3rd Season",
             "episodeNum": "1",
             "subOrDub": "sub",
@@ -2532,6 +2558,19 @@
             "type": "tv",
             "episodeUrl": "anime/rent-a-girlfriend-season-3",
             "genres": ["Comedy", "Drama", "Romance"],
+            "isAdult": false
+        },
+        {
+            "animeId": "kanojo-okarishimasu-petit",
+            "episodeId": "kanojo-okarishimasu-petit-episode-1",
+            "name": "Rent-a-Girlfriend Chibi",
+            "jname": "Kanojo, Okarishimasu Petit",
+            "episodeNum": "15",
+            "subOrDub": "sub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
+            "type": "ona",
+            "episodeUrl": "anime/kanojo-okarishimasu-petit",
+            "genres": ["Comedy"],
             "isAdult": false
         },
         {
