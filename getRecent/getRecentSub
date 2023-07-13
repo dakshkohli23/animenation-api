@@ -1,5 +1,16 @@
-
 [
+	{
+		"animeId": "jujutsu-kaisen-season-2",
+		"episodeId": "jujutsu-kaisen-season-2-episode-2",
+		"name": "Jujutsu Kaisen Season 2",
+		"jname": "Jujutsu Kaisen 2nd Season",
+		"episodeNum": "2",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
+		"episodeUrl": "../anime/jujutsu-kaisen-season-2",
+		"isAdult": true
+	},
 	{
 		"animeId": "rent-a-girlfriend-season-3",
 		"episodeId": "rent-a-girlfriend-season-3-episode-1",
@@ -47,17 +58,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
 		"episodeUrl": "../anime/bleach-thousand-year-blood-war-the-separation"
 	},
-	{
-		"animeId": "jujutsu-kaisen-season-2",
-		"episodeId": "jujutsu-kaisen-season-2-episode-1",
-		"name": "Jujutsu Kaisen Season 2",
-		"jname": "Jujutsu Kaisen 2nd Season",
-		"episodeNum": "1",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
-		"episodeUrl": "../anime/jujutsu-kaisen-season-2"
-	},
+
 	{
 		"animeId": "oshi-no-ko",
 		"episodeId": "oshi-no-ko-episode-11",
