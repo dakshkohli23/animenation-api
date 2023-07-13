@@ -1,0 +1,57 @@
+[
+        {
+            "server1": "6h5ini3d8bn7",
+            "animeNameWithEP": "Record of Ragnarok II Part 2 Part 2 Episode1",
+            "ep_num": "1",
+            "anime_info": "record-of-ragnarok-2-part-2",
+            "movie_id": "165356",
+            "nextEpText": "Record of Ragnarok II Part 2 Episode 2 >>",
+            "nextEpLink": "/record-of-ragnarok-2-part-2-episode-2",
+            "prevEpText": "",
+            "prevEpLink": ""
+        },
+        {
+            "server1": "gjtgsxm1mem4",
+            "animeNameWithEP": "Record of Ragnarok II Part 2 Part 2 Episode2",
+            "ep_num": "2",
+            "anime_info": "record-of-ragnarok-2-part-2",
+            "movie_id": "165356",
+            "nextEpText": "Record of Ragnarok II Part 2 Episode 3 >>",
+            "nextEpLink": "/record-of-ragnarok-2-part-2-episode-3",
+            "prevEpText": "<< Record of Ragnarok II Part 2 Episode 1",
+            "prevEpLink": "/record-of-ragnarok-2-part-2-episode-1"
+        },
+        {
+            "server1": "912zi2ukv0ep",
+            "animeNameWithEP": "Record of Ragnarok II Part 2 Part 2 Episode3",
+            "ep_num": "3",
+            "anime_info": "record-of-ragnarok-2-part-2",
+            "movie_id": "165356",
+            "nextEpText": "Record of Ragnarok II Part 2 Episode 4 >>",
+            "nextEpLink": "/record-of-ragnarok-2-part-2-episode-4",
+            "prevEpText": "<< Record of Ragnarok II Part 2 Episode 2",
+            "prevEpLink": "/record-of-ragnarok-2-part-2-episode-2"
+        },
+        {
+            "server1": "bgty6npnsfgp",
+            "animeNameWithEP": "Record of Ragnarok II Part 2 Part 2 Episode4",
+            "ep_num": "4",
+            "anime_info": "record-of-ragnarok-2-part-2",
+            "movie_id": "165356",
+            "nextEpText": "Record of Ragnarok II Part 2 Episode 5 >>",
+            "nextEpLink": "/record-of-ragnarok-2-part-2-episode-5",
+            "prevEpText": "<< Record of Ragnarok II Part 2 Episode 3",
+            "prevEpLink": "/record-of-ragnarok-2-part-2-episode-3"
+        },
+        {
+            "server1": "t9lf1fk7cpm9",
+            "animeNameWithEP": "Record of Ragnarok II Part 2 Part 2 Episode5",
+            "ep_num": "5",
+            "anime_info": "record-of-ragnarok-2-part-2",
+            "movie_id": "165356",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Record of Ragnarok II Part 2 Episode 4",
+            "prevEpLink": "/record-of-ragnarok-2-part-2-episode-4"
+        }
+    ]
