@@ -38,7 +38,7 @@
 		"episode": 1
 	},
 	"totalEpisodes": 23,
-	"currentEpisode": 1,
+	"currentEpisode": 2,
 	"rating": null,
 	"duration": 24,
 	"genres": ["Action", "Drama", "Supernatural"],
@@ -404,6 +404,13 @@
 		"title": "Hidden Inventory",
 		"description": null,
 		"number": 1,
+		"image": null,
+		"airDate": null
+	},{
+		"id": "jujutsu-kaisen-season-2-episode-2",
+		"title": "Hidden Inventory Part 2",
+		"description": null,
+		"number": 2,
 		"image": null,
 		"airDate": null
 	}]
