@@ -1794,6 +1794,32 @@
             "isAdult": false
         },
         {
+            "animeId": "pingu-season-03",
+            "episodeId": "pingu-season-03-episode-1",
+            "name": "Pingu Season 03",
+            "jname": "Pingu Season 03",
+            "episodeNum": "26",
+            "subOrDub": "dub",
+            "imgUrl": "https://www.themoviedb.org/t/p/original/5znHv2b5EThovRS302NvnCQsyBN.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/pingu-season-03",
+            "genres": ["Animation", "Short", "Comedy", "Kids"],
+            "isAdult": false
+        },
+        {
+            "animeId": "pingu-season-034",
+            "episodeId": "pingu-season-034-episode-1",
+            "name": "Pingu Season 04",
+            "jname": "Pingu Season 04",
+            "episodeNum": "26",
+            "subOrDub": "dub",
+            "imgUrl": "https://www.themoviedb.org/t/p/original/4f3dSKXoPxsd3sf1WVPMVSX4W8o.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/pingu-season-034",
+            "genres": ["Animation", "Short", "Comedy", "Kids"],
+            "isAdult": false
+        },
+        {
             "animeId": "pokemon-the-movie-spell-of-the-unown",
             "episodeId": "pokemon-the-movie-spell-of-the-unown-episode-1",
             "name": "Pokemon 3: The Movie - Spell of the Unown",
@@ -2518,6 +2544,19 @@
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138056-r6wKvl71ddar.jpg",
             "type": "ona",
             "episodeUrl": "anime/record-of-ragnarok-2",
+            "genres": ["Action", "Drama", "Fantasy", "Supernatural"],
+            "isAdult": true
+        },
+        {
+            "animeId": "record-of-ragnarok-2-part-2",
+            "episodeId": "record-of-ragnarok-2-part-2-episode-1",
+            "name": "Record of Ragnarok II Part 2",
+            "jname": "Shuumatsu no Valkyrie II Part 2",
+            "episodeNum": "5",
+            "subOrDub": "dub",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165356-MnzKLWZOx7av.jpg",
+            "type": "ona",
+            "episodeUrl": "anime/record-of-ragnarok-2-part-2",
             "genres": ["Action", "Drama", "Fantasy", "Supernatural"],
             "isAdult": true
         },
