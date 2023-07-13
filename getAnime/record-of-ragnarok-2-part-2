@@ -41,7 +41,54 @@
 	"studios": ["Graphinica", "Yumeta Company"],
 	"subOrDub": "sub",
 	"type": "ONA",
-	"recommendations": [],
+	"recommendations": [{
+      "id": 127399,
+      "malId": 44942,
+      "title": {
+        "romaji": "Shuumatsu no Valkyrie",
+		"english": "Record of Ragnarok",
+		"native": "終末のワルキューレ"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127399-AAH1pevCZLrB.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127399-eiN22Xg4LG9x.jpg",
+      "rating": 66,
+      "type": "ONA",
+	  "animeurl": "record-of-ragnarok"
+    },
+	{
+      "id": 138056,
+      "malId": 49618,
+      "title": {
+        "romaji": "Shuumatsu no Valkyrie II",
+		"english": "Record of Ragnarok II",
+		"native": "終末のワルキューレⅡ"
+      },
+      "status": "Completed",
+      "episodes": 10,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138056-r6wKvl71ddar.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138056-Q1rJZ3ZT8b39.jpg",
+      "rating": 75,
+      "type": "ONA",
+	  "animeurl": "record-of-ragnarok-2"
+    },
+	{
+      "id": 165356,
+      "malId": 55454,
+      "title": {
+        "romaji": "Shuumatsu no Valkyrie II Part 2",
+		"english": "Record of Ragnarok II Part 2",
+		"native": "終末のワルキューレⅡ 後編"
+      },
+      "status": "Completed",
+      "episodes": 5,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165356-MnzKLWZOx7av.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165356-3ZKJhz8PRkAJ.jpg",
+      "rating": 74,
+      "type": "ONA",
+	  "animeurl": "record-of-ragnarok-2-part-2"
+    }],
 	"characters": [{
 		"id": 140636,
 		"role": "MAIN",
