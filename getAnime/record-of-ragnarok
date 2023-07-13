@@ -65,13 +65,29 @@
 		"english": "Record of Ragnarok II",
 		"native": "終末のワルキューレⅡ"
       },
-      "status": "Ongoing",
+      "status": "Completed",
       "episodes": 10,
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138056-r6wKvl71ddar.jpg",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138056-Q1rJZ3ZT8b39.jpg",
       "rating": 75,
       "type": "ONA",
 	  "animeurl": "record-of-ragnarok-2"
+    },
+	{
+      "id": 165356,
+      "malId": 55454,
+      "title": {
+        "romaji": "Shuumatsu no Valkyrie II Part 2",
+		"english": "Record of Ragnarok II Part 2",
+		"native": "終末のワルキューレⅡ 後編"
+      },
+      "status": "Completed",
+      "episodes": 5,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165356-MnzKLWZOx7av.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165356-3ZKJhz8PRkAJ.jpg",
+      "rating": 74,
+      "type": "ONA",
+	  "animeurl": "record-of-ragnarok-2-part-2"
     }],
 	"characters": [{
 		"id": 140651,
