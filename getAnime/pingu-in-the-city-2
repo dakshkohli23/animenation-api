@@ -1,0 +1,325 @@
+{
+	"id": "99995",
+	"title": {
+		"romaji": "Pingu in the City 2",
+		"english": "Pingu in the City 2",
+		"native": "ピングー in ザ・シティ2"
+	},
+	"malId": 38262,
+	"synonyms": [],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99995-lR1k6Q3EeHBP.jpg",
+	"popularity": 2570,
+	"color": "#e45d35",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99995-uje6S32KFU72.png",
+	"description": "The second season of Pingu in the City.",
+	"status": "Completed",
+	"releaseDate": 2018,
+	"startDate": {
+		"year": 2018,
+		"month": 10,
+		"day": 6
+	},
+	"endDate": {
+		"year": 2019,
+		"month": 3,
+		"day": 30
+	},
+	"totalEpisodes": 26,
+	"currentEpisode": 26,
+	"rating": 70,
+	"duration": 7,
+	"genres": ["Comedy", "Slice of Life"],
+	"season": "FALL",
+	"studios": ["Dandelion Animation Studio"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 128104,
+		"role": "MAIN",
+		"name": {
+			"first": "Pingu",
+			"last": null,
+			"full": "Pingu",
+			"native": "ピング",
+			"userPreferred": "Pingu"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b128104-cUWD2bjNhWSC.png",
+		"voiceActors": []
+	}, {
+		"id": 225346,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ojii-chan",
+			"last": null,
+			"full": "Ojii-chan",
+			"native": "おじいちゃん",
+			"userPreferred": "Ojii-chan"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b225346-1bOf9x9qEnhL.png",
+		"voiceActors": []
+	}, {
+		"id": 132915,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Pinga",
+			"last": null,
+			"full": "Pinga",
+			"native": "ピンガ",
+			"userPreferred": "Pinga"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b132915-jteVlHezryp2.png",
+		"voiceActors": []
+	}, {
+		"id": 225347,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Robi",
+			"last": null,
+			"full": "Robi",
+			"native": "ロビ",
+			"userPreferred": "Robi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b225347-0vrWtowodSvX.png",
+		"voiceActors": []
+	}, {
+		"id": 225349,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Papa",
+			"last": null,
+			"full": "Papa",
+			"native": "パパ",
+			"userPreferred": "Papa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b225349-NmAJyLhrUvFG.png",
+		"voiceActors": []
+	}, {
+		"id": 225348,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mama",
+			"last": null,
+			"full": "Mama",
+			"native": "ママ",
+			"userPreferred": "Mama"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b225348-sDghPhIrhIkE.png",
+		"voiceActors": []
+	}],
+	"relations": [{
+		"id": 99994,
+		"relationType": "PREQUEL",
+		"malId": 36259,
+		"title": {
+			"romaji": "Pingu in the City",
+			"english": "Pingu in the City",
+			"native": "ピングー in ザ・シティ",
+			"userPreferred": "Pingu in the City"
+		},
+		"status": "Completed",
+		"episodes": 26,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99994-jApr7drb87Bn.jpg",
+		"color": "#feae50",
+		"type": "TV_SHORT",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99994-9t3JqV9AO3Zc.jpg",
+		"rating": 73
+	}],
+	"mappings": {
+		"mal": 38262,
+		"anidb": 14371,
+		"kitsu": 41981,
+		"anilist": 99995,
+		"thetvdb": 336973,
+		"anisearch": 13871,
+		"livechart": 3498,
+		"notify.moe": "GNU22f-mR",
+		"anime-planet": "pingu-in-the-city-2"
+	},
+	"episodes": [{
+		"id": "pingu-in-the-city-2-episode-1",
+		"title": "Fire Fighter Training is Tough!",
+		"description": "Pingu is learning how to be a firefighter, but he's not having an easy time of it.",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6838330.jpg",
+		"airDate": "2018-10-01T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-2",
+		"title": "A Mysterious Helper",
+		"description": "Pingu goes on an exciting adventure to the bottom of the ocean.",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6863909.jpg",
+		"airDate": "2018-10-13T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-3",
+		"title": "Grandfather's Here!",
+		"description": "Pingu's grandfather comes to the city for a visit, and Pingu and Pinga think he's lonely.",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6863910.jpg",
+		"airDate": "2018-10-20T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-4",
+		"title": "The Naughty Tram Passenger",
+		"description": "Pingu goes on a journey on the tram, and tries to scare some seagulls away from the roof.",
+		"number": 4,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6863911.jpg",
+		"airDate": "2018-10-27T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-5",
+		"title": "A Mysterious Creature Appears!",
+		"description": "There's a rumour that a creature is living in the snowy caves near Pingu's house.",
+		"number": 5,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6881363.jpg",
+		"airDate": "2018-11-03T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-6",
+		"title": "Pingu's Jam Session",
+		"description": "Pingu and the family go to a restaurant, where a jazz band is playing for the diners.",
+		"number": 6,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6899489.jpg",
+		"airDate": "2018-11-10T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-7",
+		"title": "Say Cheese!",
+		"description": "Pingu gets a new camera and uses it to take pictures of the residents of the city.",
+		"number": 7,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6899495.jpg",
+		"airDate": "2018-11-17T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-8",
+		"title": "What's Inside?",
+		"description": "Pingu is invited to help on the packing line at a fish-canning company.",
+		"number": 8,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6916487.jpg",
+		"airDate": "2018-11-24T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-9",
+		"title": "The Big Blue Chase",
+		"description": "Pingu chases a thief who stole a bag, but accidentally gets covered in blue paint.",
+		"number": 9,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6916488.jpg",
+		"airDate": "2018-12-01T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-10",
+		"title": "Pingu's Space Adventures",
+		"description": "Pingu gets some astronaut training, but he gets sent in to space before he's ready!",
+		"number": 10,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6932139.jpg",
+		"airDate": "2018-12-10T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-11",
+		"title": "Helping a New Friend",
+		"description": "Pingu and Pinga try helping penguins in need.",
+		"number": 11,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6932141.jpg",
+		"airDate": "2018-12-15T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-12",
+		"title": "Pingu & The Egg",
+		"description": "When Pingu is asked to watch over some eggs, the eggs end up going all over the city.",
+		"number": 12,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6932143.jpg",
+		"airDate": "2018-12-22T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-13",
+		"title": "Pingu Makes a Movie!",
+		"description": "Pingu attempts to make a movie, but finds it harder than he imagined.",
+		"number": 13,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6967394.jpg",
+		"airDate": "2018-12-29T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-14",
+		"title": "Pingu is a Rock Star!",
+		"description": "Pingu and his friends form a band for a talent show.",
+		"number": 14,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6967396.jpg",
+		"airDate": "2019-01-05T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-15",
+		"title": "Household Helping Hands",
+		"description": "Pingu and Pinga look after the house when their mum and dad are ill.",
+		"number": 15,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6988723.jpg",
+		"airDate": "2019-01-12T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-16",
+		"title": "Pingu The Wig Maker!",
+		"description": "The Inventor creates a wig machine, and Pingu starts his own salon with it.",
+		"number": 16,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/6988725.jpg",
+		"airDate": "2019-01-19T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-17",
+		"title": "Pingu On Patrol!",
+		"description": "Pingu is appointed to a junior police officer after he catches a penguin littering, but he takes it too far in patrolling the city.",
+		"number": 17,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/7010086.jpg",
+		"airDate": "2019-01-26T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-18",
+		"title": "Pingu's Frozen Discovery",
+		"description": "Pingu and the Inventor find a fossil inside some ice.",
+		"number": 18,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/7020720.jpg",
+		"airDate": "2019-02-02T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-19",
+		"title": "Pingu's Treasure Hunt",
+		"description": "Pingu's dad sets up a treasure hunt for Pingu and Pinga to solve.",
+		"number": 19,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/7020725.jpg",
+		"airDate": "2019-02-09T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-20",
+		"title": "Voyage to the Moon",
+		"description": "Pingu and Robby make a spaceship in the back garden and let their imagination take over.",
+		"number": 20,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/7045465.jpg",
+		"airDate": "2019-02-16T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-21",
+		"title": "Pingu's Traffic Dance",
+		"description": "Pingu helps out the police by directing traffic after an accident causes a traffic jam.",
+		"number": 21,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/7045467.jpg",
+		"airDate": "2019-02-23T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-22",
+		"title": "I want to be on TV!",
+		"description": "Pingu decides to do anything it takes to get himself on the small screen.",
+		"number": 22,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/7067574.jpg",
+		"airDate": "2019-03-01T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-23",
+		"title": "Flea Market",
+		"description": "Pingu's family struggle to sell their junk at the flea market.",
+		"number": 23,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/7067748.jpg",
+		"airDate": "2019-03-09T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-24",
+		"title": "Pingu the Living Statue",
+		"description": "Pingu accidentally breaks a new statue and comes up with an innovative replacement.",
+		"number": 24,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/7091100.jpg",
+		"airDate": "2019-03-16T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-25",
+		"title": "Pingu's Snack Attack",
+		"description": "Pingu sets a trap for a pesky seagull who has been stealing his treats.",
+		"number": 25,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/7091101.jpg",
+		"airDate": "2019-03-23T00:00:00.000Z"
+	}, {
+		"id": "pingu-in-the-city-2-episode-26",
+		"title": "Pingu the Conductor",
+		"description": "A concert performance inspires Pingu to put on his own musical show.",
+		"number": 26,
+		"image": "https://artworks.thetvdb.com/banners/series/336973/episodes/7091102.jpg",
+		"airDate": "2019-03-30T00:00:00.000Z"
+	}]
+}
