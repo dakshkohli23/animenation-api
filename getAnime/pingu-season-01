@@ -36,7 +36,142 @@
 	"studios": ["SF DRS", "ZDF"],
 	"subOrDub": "dub",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 9262,
+		"malId": 9262,
+		"title": {
+			"romaji": "Pingu",
+			"english": "Pingu",
+			"native": "Pingu"
+		},
+		"status": "Completed",
+		"episodes": 26,
+		"image": "https://www.themoviedb.org/t/p/original/nLE7NR3EsEbv2NfG0bLIaOEhGfY.jpg",
+		"cover": "https://www.themoviedb.org/t/p/original/ikNqtcxLSdYRZf7E1yTU1kfu0WY.jpg",
+		"rating": 74,
+		"type": "TV",
+		"animeurl": "pingu-season-01"
+	},{
+		"id": 9262,
+		"malId": 9262,
+		"title": {
+			"romaji": "Pingu Season 02",
+			"english": "Pingu Season 02",
+			"native": "Pingu Season 02"
+		},
+		"status": "Completed",
+		"episodes": 26,
+		"image": "https://www.themoviedb.org/t/p/original/fBnhZLMcJ8WNrZJiN11vpq4FekL.jpg",
+		"cover": "https://www.themoviedb.org/t/p/original/lZAIAYMmUMDkUvvggxO9SS00PJX.jpg",
+		"rating": 74,
+		"type": "TV",
+		"animeurl": "pingu-season-02"
+	},{
+		"id": 9262,
+		"malId": 9262,
+		"title": {
+			"romaji": "Pingu Season 03",
+			"english": "Pingu Season 03",
+			"native": "Pingu Season 03"
+		},
+		"status": "Completed",
+		"episodes": 26,
+		"image": "https://www.themoviedb.org/t/p/original/5znHv2b5EThovRS302NvnCQsyBN.jpg",
+		"cover": "https://www.themoviedb.org/t/p/original/avGWwxjkXLyfhrcDiOMAg5b1U0w.jpg",
+		"rating": 74,
+		"type": "TV",
+		"animeurl": "pingu-season-03"
+	},{
+		"id": 9262,
+		"malId": 9262,
+		"title": {
+			"romaji": "Pingu Season 04",
+			"english": "Pingu Season 04",
+			"native": "Pingu Season 04"
+		},
+		"status": "Completed",
+		"episodes": 26,
+		"image": "https://www.themoviedb.org/t/p/original/4f3dSKXoPxsd3sf1WVPMVSX4W8o.jpg",
+		"cover": "https://www.themoviedb.org/t/p/original/xKKNelAPoJnf8wZLQ2Mq6DfBhgp.jpg",
+		"rating": 74,
+		"type": "TV",
+		"animeurl": "pingu-season-04"
+	},{
+		"id": 9262,
+		"malId": 9262,
+		"title": {
+			"romaji": "Pingu Season 05",
+			"english": "Pingu Season 05",
+			"native": "Pingu Season 05"
+		},
+		"status": "Completed",
+		"episodes": 26,
+		"image": "https://www.themoviedb.org/t/p/original/4Og5QawlR5yxO2LP4wVJ2Px1wKs.jpg",
+		"cover": "https://www.themoviedb.org/t/p/original/uPdrip5FUicOO0hTnxsLWPcWSaJ.jpg",
+		"rating": 74,
+		"type": "TV",
+		"animeurl": "pingu-season-05"
+	},{
+		"id": 9262,
+		"malId": 9262,
+		"title": {
+			"romaji": "Pingu Season 06",
+			"english": "Pingu Season 06",
+			"native": "Pingu Season 06"
+		},
+		"status": "Completed",
+		"episodes": 26,
+		"image": "https://www.themoviedb.org/t/p/original/9U7J0pwzAatzMRFCGKjnBWzXcRa.jpg",
+		"cover": "https://www.themoviedb.org/t/p/original/wribqQ1Pu3AjVHiHWk1i5QhrbDE.jpg",
+		"rating": 74,
+		"type": "TV",
+		"animeurl": "pingu-season-06"
+	},{
+		"id": 9262,
+		"malId": 9262,
+		"title": {
+			"romaji": "Pingu Special",
+			"english": "Pingu Special",
+			"native": "Pingu Special"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://www.themoviedb.org/t/p/original/opU81ywAKQCEzYjsqkRolkzgj3j.jpg",
+		"cover": "https://www.themoviedb.org/t/p/original/nmjerNLKYeEAato5LxcTBhHaM07.jpg",
+		"rating": 74,
+		"type": "special",
+		"animeurl": "pingu-special"
+	},{
+		"id": 99994,
+		"malId": 36259,
+		"title": {
+			"romaji": "Pingu in the City",
+			"english": "Pingu in the City",
+			"native": "ピングー in ザ・シティ"
+		},
+		"status": "Completed",
+		"episodes": 26,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99994-jApr7drb87Bn.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99994-9t3JqV9AO3Zc.jpg",
+		"rating": 73,
+		"type": "TV",
+		"animeurl": "pingu-in-the-city"
+	},{
+		"id": 99995,
+		"malId": 38262,
+		"title": {
+			"romaji": "Pingu in the City 2",
+			"english": "Pingu in the City 2",
+			"native": "ピングー in ザ・シティ2"
+		},
+		"status": "Completed",
+		"episodes": 26,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99995-lR1k6Q3EeHBP.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99995-uje6S32KFU72.png",
+		"rating": 70,
+		"type": "TV",
+		"animeurl": "pingu-in-the-city-2"
+	}],
 	"characters": [],
 	"relations": [],
 	"episodes": [{
