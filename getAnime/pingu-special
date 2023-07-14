@@ -1,0 +1,49 @@
+{
+	"id": "9262",
+	"title": {
+		"romaji": "Pingu Special",
+		"english": "Pingu Special",
+		"native": "Pingu Special"
+	},
+	"malId": 9262,
+	"synonyms": ["Pingu", "Pingu Special"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "CH",
+	"image": "https://www.themoviedb.org/t/p/original/opU81ywAKQCEzYjsqkRolkzgj3j.jpg",
+	"popularity": 7700,
+	"color": "#e4a15d",
+	"cover": "https://www.themoviedb.org/t/p/original/nmjerNLKYeEAato5LxcTBhHaM07.jpg",
+	"description": "Pingu and his family visit a wedding. (Also known by its 2005 home video title 'A Very Special Wedding')",
+	"status": "Completed",
+	"releaseDate": 1997,
+	"startDate": {
+		"year": 1997,
+		"month": 10,
+		"day": 17
+	},
+	"endDate": {
+		"year": 1997,
+		"month": 10,
+		"day": 17
+	},
+	"totalEpisodes": 1,
+	"currentEpisode": 1,
+	"rating": 74,
+	"duration": 25,
+	"genres": ["Animation", "Short", "Comedy", "Kids"],
+	"season": "FALL",
+	"studios": ["SF DRS", "ZDF"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+		"id": "pingu-special-episode-1",
+		"title": "Pingu at the Wedding Party",
+		"description": "Pingu and his family visit a wedding. (Also known by its 2005 home video title 'A Very Special Wedding')",
+		"number": 1,
+		"image": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aSFBlqB1LPe3wueOD9DVnPasJQ2.jpg"
+	}]
+}
