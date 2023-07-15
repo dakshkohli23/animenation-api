@@ -1,6 +1,7 @@
 [
         {
             "server1": "15sjsscrohef",
+            "server2": "0h71wcyksq7n",
             "animeNameWithEP": "Pokémon Ultimate Journeys: The Series Episode 1 Dubbed",
             "ep_num": "1",
             "anime_info": "pokemon-ultimate-journeys",
@@ -10,7 +11,7 @@
             "nextEpLink": "/pokemon-ultimate-journeys-episode-2",
             "prevEpText": "",
             "prevEpLink": "",
-"subOrDub": "dub"
+            "subOrDub": "dual"
 
         },
         {
@@ -24,7 +25,7 @@
             "nextEpLink": "/pokemon-ultimate-journeys-episode-3",
             "prevEpText": "<< Pokémon Ultimate Journeys: The Series Episode 1",
             "prevEpLink": "/pokemon-ultimate-journeys-episode-1",
-"subOrDub": "sub"
+            "subOrDub": "sub"
 
         },
         {
@@ -37,7 +38,8 @@
             "nextEpText": "Pokémon Ultimate Journeys: The Series Episode 4 >>",
             "nextEpLink": "/pokemon-ultimate-journeys-episode-4",
             "prevEpText": "<< Pokémon Ultimate Journeys: The Series Episode 2",
-            "prevEpLink": "/pokemon-ultimate-journeys-episode-2"
+            "prevEpLink": "/pokemon-ultimate-journeys-episode-2",
+            "subOrDub": "dub"
         },
         {
             "server1": "hp2fq2q4t25p",
