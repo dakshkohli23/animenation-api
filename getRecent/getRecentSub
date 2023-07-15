@@ -12,6 +12,18 @@
 		"isAdult": true
 	},
 	{
+		"animeId": "rent-a-girlfriend-season-3",
+		"episodeId": "rent-a-girlfriend-season-3-episode-2",
+		"name": "Rent-a-Girlfriend Season 3",
+		"jname": "Kanojo, Okarishimasu 3rd Season",
+		"episodeNum": "2",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154745-xBr65cJsL3uW.jpg",
+		"episodeUrl": "../anime/rent-a-girlfriend-season-3",
+		"isAdult": false
+	},
+	{
 		"animeId": "pokemon-horizons-the-series",
 		"episodeId": "pokemon-horizons-the-series-episode-13",
 		"name": "Pokémon Horizons: The Series",
@@ -35,18 +47,7 @@
 		"episodeUrl": "../anime/jujutsu-kaisen-season-2",
 		"isAdult": true
 	},
-	{
-		"animeId": "rent-a-girlfriend-season-3",
-		"episodeId": "rent-a-girlfriend-season-3-episode-1",
-		"name": "Rent-a-Girlfriend Season 3",
-		"jname": "Kanojo, Okarishimasu 3rd Season",
-		"episodeNum": "1",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154745-xBr65cJsL3uW.jpg",
-		"episodeUrl": "../anime/rent-a-girlfriend-season-3",
-		"isAdult": false
-	},
+
 	{
 		"animeId": "rent-a-girlfriend-season-2",
 		"episodeId": "rent-a-girlfriend-season-2-episode-1",
