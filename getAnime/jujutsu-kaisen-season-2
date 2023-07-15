@@ -402,16 +402,16 @@
 	"episodes": [{
 		"id": "jujutsu-kaisen-season-2-episode-1",
 		"title": "Hidden Inventory",
-		"description": null,
+		"description": "It's said that people have been disappearing repeatedly. Jujutsu sorcerers Utahime and Meimei are sent to investigate a mysterious mansion. The two sneak into the mansion and take action to break a cursed spirit's barrier. However, as the building starts to collapse and they are thrown into mid-air, what appears before them is... 2006. The strongest duo's past days are about to be unveiled.",
 		"number": 1,
-		"image": null,
-		"airDate": null
-	},{
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9000784/screencap/64a424d8a45e7.jpg",
+		"airDate": "2023-07-06T00:00:00.000Z"
+	}, {
 		"id": "jujutsu-kaisen-season-2-episode-2",
-		"title": "Hidden Inventory Part 2",
+		"title": "Hidden Inventory 2",
 		"description": null,
 		"number": 2,
-		"image": null,
-		"airDate": null
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9816818/screencap/64ae6f358799e.jpg",
+		"airDate": "2023-07-13T00:00:00.000Z"
 	}]
 }
