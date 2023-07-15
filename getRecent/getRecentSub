@@ -1,5 +1,17 @@
 [
 	{
+		"animeId": "bleach-thousand-year-blood-war-the-separation",
+		"episodeId": "bleach-thousand-year-blood-war-the-separation-episode-2",
+		"name": "BLEACH: Thousand-Year Blood War - The Separation",
+		"jname": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
+		"episodeNum": "2",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
+		"episodeUrl": "../anime/bleach-thousand-year-blood-war-the-separation",
+		"isAdult": true
+	},
+	{
 		"animeId": "pokemon-horizons-the-series",
 		"episodeId": "pokemon-horizons-the-series-episode-13",
 		"name": "Pokémon Horizons: The Series",
@@ -59,17 +71,7 @@
 		"episodeUrl": "../anime/rent-a-girlfriend",
 		"isAdult": false
 	},
-	{
-		"animeId": "bleach-thousand-year-blood-war-the-separation",
-		"episodeId": "bleach-thousand-year-blood-war-the-separation-episode-1",
-		"name": "BLEACH: Thousand-Year Blood War - The Separation",
-		"jname": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
-		"episodeNum": "1",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
-		"episodeUrl": "../anime/bleach-thousand-year-blood-war-the-separation"
-	},
+
 
 	{
 		"animeId": "oshi-no-ko",
