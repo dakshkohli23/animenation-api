@@ -40,8 +40,8 @@
     "month": "3",
     "day": "24"
   },
-  "currentEpisode": 50,
-  "totalEpisodes": 50,
+  "currentEpisode": 51,
+  "totalEpisodes": 51,
   "rating": 73,
   "duration": 24,
   "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
@@ -1269,6 +1269,12 @@
       "title": "Pokémon Ultimate Journeys: The Series Episode 50",
       "image": "",
       "number": 50
+    },
+    {
+      "id": "pokemon-ultimate-journeys-episode-51",
+      "title": "Pokémon Ultimate Journeys: The Series Episode 51",
+      "image": "",
+      "number": 51
     }
     
   ]
