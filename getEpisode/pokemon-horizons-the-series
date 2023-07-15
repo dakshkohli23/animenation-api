@@ -138,9 +138,21 @@
             "anime_info": "pokemon-horizons-the-series",
             "movie_id": "158871",
             "alias": "pokemon-horizons-the-series",
-            "nextEpText": "",
-            "nextEpLink": "",
+            "nextEpText": "Pokémon Horizons The Series Episode 13 >>",
+            "nextEpLink": "/pokemon-horizons-the-series-episode-13",
             "prevEpText": "<< Pokémon Horizons The Series Episode 11",
             "prevEpLink": "/pokemon-horizons-the-series-episode-11"
+        },
+        {
+            "server1": "em3piaj32faj",
+            "animeNameWithEP": "Pokémon Horizons The Series Episode 13",
+            "ep_num": "13",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "158871",
+            "alias": "pokemon-horizons-the-series",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Pokémon Horizons The Series Episode 12",
+            "prevEpLink": "/pokemon-horizons-the-series-episode-12"
         }
     ]
