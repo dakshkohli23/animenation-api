@@ -1,5 +1,17 @@
 [
 	{
+		"animeId": "pokemon-ultimate-journeys",
+		"episodeId": "pokemon-ultimate-journeys-episode-51",
+		"name": "Pokémon Ultimate Journeys: The Series",
+		"jname": "Pocket Monsters (2019)",
+		"episodeNum": "51",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
+		"episodeUrl": "../anime/pokemon-ultimate-journeys",
+		"isAdult": false
+	},
+	{
 		"animeId": "jujutsu-kaisen-season-2",
 		"episodeId": "jujutsu-kaisen-season-2-episode-2",
 		"name": "Jujutsu Kaisen Season 2",
@@ -81,17 +93,7 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
 		"episodeUrl": "../anime/bleach-thousand-year-blood-war-the-separation"
 	},
-	{
-		"animeId": "pokemon-ultimate-journeys",
-		"episodeId": "pokemon-ultimate-journeys-episode-50",
-		"name": "Pokémon Ultimate Journeys: The Series",
-		"jname": "Pocket Monsters (2019)",
-		"episodeNum": "50",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
-		"episodeUrl": "../anime/pokemon-ultimate-journeys"
-	},
+
 
 
 	{
