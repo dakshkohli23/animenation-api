@@ -37,8 +37,8 @@
 		"timeUntilAiring": 37343,
 		"episode": 1
 	},
-	"totalEpisodes": 1,
-	"currentEpisode": 1,
+	"totalEpisodes": 2,
+	"currentEpisode": 2,
 	"rating": null,
 	"duration": null,
 	"genres": ["Action", "Adventure", "Supernatural"],
@@ -674,6 +674,13 @@
 		"title": null,
 		"description": null,
 		"number": 1,
+		"image": null,
+		"airDate": null
+	},{
+		"id": "bleach-thousand-year-blood-war-the-separation-episode-2",
+		"title": null,
+		"description": null,
+		"number": 2,
 		"image": null,
 		"airDate": null
 	}
