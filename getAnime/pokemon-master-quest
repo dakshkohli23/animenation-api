@@ -33,6 +33,7 @@
     "day": 14
   },
   "totalEpisodes": 65,
+  "currentEpisode": 65,
   "rating": 71,
   "duration": 24,
   "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
@@ -960,331 +961,524 @@
       "rating": 65
     }
   ],
-  "episodes": [
-    {
-      "id": "pokemon-master-quest-episode-1",
-      "title": "Pokémon: Master Quest Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-master-quest-episode-2",
-      "title": "Pokémon: Master Quest Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-master-quest-episode-3",
-      "title": "Pokémon: Master Quest Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-master-quest-episode-4",
-      "title": "Pokémon: Master Quest Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-master-quest-episode-5",
-      "title": "Pokémon: Master Quest Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-master-quest-episode-6",
-      "title": "Pokémon: Master Quest Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-master-quest-episode-7",
-      "title": "Pokémon: Master Quest Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-master-quest-episode-8",
-      "title": "Pokémon: Master Quest Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-master-quest-episode-9",
-      "title": "Pokémon: Master Quest Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-master-quest-episode-10",
-      "title": "Pokémon: Master Quest Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-master-quest-episode-11",
-      "title": "Pokémon: Master Quest Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-master-quest-episode-12",
-      "title": "Pokémon: Master Quest Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-master-quest-episode-13",
-      "title": "Pokémon: Master Quest Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-master-quest-episode-14",
-      "title": "Pokémon: Master Quest Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-master-quest-episode-15",
-      "title": "Pokémon: Master Quest Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-master-quest-episode-16",
-      "title": "Pokémon: Master Quest Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-master-quest-episode-17",
-      "title": "Pokémon: Master Quest Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-master-quest-episode-18",
-      "title": "Pokémon: Master Quest Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-master-quest-episode-19",
-      "title": "Pokémon: Master Quest Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-master-quest-episode-20",
-      "title": "Pokémon: Master Quest Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-master-quest-episode-21",
-      "title": "Pokémon: Master Quest Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-master-quest-episode-22",
-      "title": "Pokémon: Master Quest Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-master-quest-episode-23",
-      "title": "Pokémon: Master Quest Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-master-quest-episode-24",
-      "title": "Pokémon: Master Quest Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-master-quest-episode-25",
-      "title": "Pokémon: Master Quest Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-master-quest-episode-26",
-      "title": "Pokémon: Master Quest Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-master-quest-episode-27",
-      "title": "Pokémon: Master Quest Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-master-quest-episode-28",
-      "title": "Pokémon: Master Quest Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-master-quest-episode-29",
-      "title": "Pokémon: Master Quest Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-master-quest-episode-30",
-      "title": "Pokémon: Master Quest Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-master-quest-episode-31",
-      "title": "Pokémon: Master Quest Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-master-quest-episode-32",
-      "title": "Pokémon: Master Quest Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-master-quest-episode-33",
-      "title": "Pokémon: Master Quest Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-master-quest-episode-34",
-      "title": "Pokémon: Master Quest Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-master-quest-episode-35",
-      "title": "Pokémon: Master Quest Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-master-quest-episode-36",
-      "title": "Pokémon: Master Quest Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-master-quest-episode-37",
-      "title": "Pokémon: Master Quest Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-master-quest-episode-38",
-      "title": "Pokémon: Master Quest Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-master-quest-episode-39",
-      "title": "Pokémon: Master Quest Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-master-quest-episode-40",
-      "title": "Pokémon: Master Quest Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-master-quest-episode-41",
-      "title": "Pokémon: Master Quest Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-master-quest-episode-42",
-      "title": "Pokémon: Master Quest Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-master-quest-episode-43",
-      "title": "Pokémon: Master Quest Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-master-quest-episode-44",
-      "title": "Pokémon: Master Quest Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-master-quest-episode-45",
-      "title": "Pokémon: Master Quest Episode 45",
-      "number": 45
-    },
-    {
-      "id": "pokemon-master-quest-episode-46",
-      "title": "Pokémon: Master Quest Episode 46",
-      "number": 46
-    },
-    {
-      "id": "pokemon-master-quest-episode-47",
-      "title": "Pokémon: Master Quest Episode 47",
-      "number": 47
-    },
-    {
-      "id": "pokemon-master-quest-episode-48",
-      "title": "Pokémon: Master Quest Episode 48",
-      "number": 48
-    },
-    {
-      "id": "pokemon-master-quest-episode-49",
-      "title": "Pokémon: Master Quest Episode 49",
-      "number": 49
-    },
-    {
-      "id": "pokemon-master-quest-episode-50",
-      "title": "Pokémon: Master Quest Episode 50",
-      "number": 50
-    },
-    {
-      "id": "pokemon-master-quest-episode-51",
-      "title": "Pokémon: Master Quest Episode 51",
-      "number": 51
-    },
-    {
-      "id": "pokemon-master-quest-episode-52",
-      "title": "Pokémon: Master Quest Episode 52",
-      "number": 52
-    },
-    {
-      "id": "pokemon-master-quest-episode-53",
-      "title": "Pokémon: Master Quest Episode 53",
-      "number": 53
-    },
-    {
-      "id": "pokemon-master-quest-episode-54",
-      "title": "Pokémon: Master Quest Episode 54",
-      "number": 54
-    },
-    {
-      "id": "pokemon-master-quest-episode-55",
-      "title": "Pokémon: Master Quest Episode 55",
-      "number": 55
-    },
-    {
-      "id": "pokemon-master-quest-episode-56",
-      "title": "Pokémon: Master Quest Episode 56",
-      "number": 56
-    },
-    {
-      "id": "pokemon-master-quest-episode-57",
-      "title": "Pokémon: Master Quest Episode 57",
-      "number": 57
-    },
-    {
-      "id": "pokemon-master-quest-episode-58",
-      "title": "Pokémon: Master Quest Episode 58",
-      "number": 58
-    },
-    {
-      "id": "pokemon-master-quest-episode-59",
-      "title": "Pokémon: Master Quest Episode 59",
-      "number": 59
-    },
-    {
-      "id": "pokemon-master-quest-episode-60",
-      "title": "Pokémon: Master Quest Episode 60",
-      "number": 60
-    },
-    {
-      "id": "pokemon-master-quest-episode-61",
-      "title": "Pokémon: Master Quest Episode 61",
-      "number": 61
-    },
-    {
-      "id": "pokemon-master-quest-episode-62",
-      "title": "Pokémon: Master Quest Episode 62",
-      "number": 62
-    },
-    {
-      "id": "pokemon-master-quest-episode-63",
-      "title": "Pokémon: Master Quest Episode 63",
-      "number": 63
-    },
-    {
-      "id": "pokemon-master-quest-episode-64",
-      "title": "Pokémon: Master Quest Episode 64",
-      "number": 64
-    },
-    {
-      "id": "pokemon-master-quest-episode-65",
-      "title": "Pokémon: Master Quest Episode 65",
-      "number": 65
-    }
-  ]
+  "episodes": [{
+    "id": "/pokemon-master-quest-episode-1",
+    "title": "Around the Whirlpool",
+    "description": "In a scuffle with Team Rocket, Ash and friends are thrown from the ship bearing them to the Whirl Islands! Can they escape the powerful whirlpools that threaten to drag them down?",
+    "number": "1",
+    "image": "https://image.tmdb.org/t/p/original/xxJe93v2CRE0i81Yuj4DWtpMrpf.jpg",
+    "airDate": "2001-08-09"
+},
+{
+    "id": "/pokemon-master-quest-episode-2",
+    "title": "Fly Me to the Moon",
+    "description": "The Pidgey on a protected island don't have to worry about being attacked, so most have lost interest in flying. But one of them still dreams of soaring beyond the stars! Can Ash and friends help?",
+    "number": "2",
+    "image": "https://image.tmdb.org/t/p/original/kQKMhDEZ9aSBg3E1bGMHW5q0gA1.jpg",
+    "airDate": "2001-08-16"
+},
+{
+    "id": "/pokemon-master-quest-episode-3",
+    "title": "Takin' It on the Chinchou",
+    "description": "Our heroes pass a small mountain village just in time for the annual Chinchou migration. The village always sends Trainers to protect the Chinchou on their journey-but will they be enough to stop Team Rocket?",
+    "number": "3",
+    "image": "https://image.tmdb.org/t/p/original/fX2SDPpBrZOXpQwzkXOYgEHZnmh.jpg",
+    "airDate": "2001-08-23"
+},
+{
+    "id": "/pokemon-master-quest-episode-4",
+    "title": "A Corsola Caper!",
+    "description": "When a family's home is threatened by the Corsola who live nearby, it's Ash and friends to the rescue...and maybe Misty can finally catch that Corsola she's been after!",
+    "number": "4",
+    "image": "https://image.tmdb.org/t/p/original/nkGgLe6FyJKm6LFW7yG1Cp22w94.jpg",
+    "airDate": "2001-08-30"
+},
+{
+    "id": "/pokemon-master-quest-episode-5",
+    "title": "Mantine Overboard!",
+    "description": "After our heroes miss a ferry, they meet a diver who offers to take them to the next island...but they're soon distracted by tales of treasure aboard a sunken ship!",
+    "number": "5",
+    "image": "https://image.tmdb.org/t/p/original/1BdGSnNkhiBrQLfwevFDqK50q2m.jpg",
+    "airDate": "2001-09-06"
+},
+{
+    "id": "/pokemon-master-quest-episode-6",
+    "title": "Octillery the Outcast",
+    "description": "When they're not competing in the Whirl Cup, Ash and Misty try to help a young Trainer whose Octillery has been rejected by its Remoraid friends after evolving.",
+    "number": "6",
+    "image": "https://image.tmdb.org/t/p/original/wWaKZIHvHIxROj4RUk2zOo77dqL.jpg",
+    "airDate": "2001-09-13"
+},
+{
+    "id": "/pokemon-master-quest-episode-7",
+    "title": "Dueling Heroes",
+    "description": "After winning their preliminary rounds, Ash and Misty face formidable opponents in the Whirl Cup. Meanwhile, the Team Rocket trio have their eyes on stealing the tournament's prize!",
+    "number": "7",
+    "image": "https://image.tmdb.org/t/p/original/oVmlSzBvbE97Fj0SVMZskpYZAmu.jpg",
+    "airDate": "2001-09-20"
+},
+{
+    "id": "/pokemon-master-quest-episode-8",
+    "title": "The Perfect Match!",
+    "description": "It's the second round of the Whirl Cup, and Ash and Misty have been paired up against each other! Who will come out on top? And will Team Rocket's plan to distract the police be successful?",
+    "number": "8",
+    "image": "https://image.tmdb.org/t/p/original/dGmOGF9zy54PQ0ceX0nthAUfrs2.jpg",
+    "airDate": "2001-09-27"
+},
+{
+    "id": "/pokemon-master-quest-episode-9",
+    "title": "Plant It Now... Diglett Later",
+    "description": "Our heroes are asked to help protect a village from marauders who threaten to make off with the Diglett who live there-and thanks to a delicious dinner, Team Rocket offers to help, too!",
+    "number": "9",
+    "image": "https://image.tmdb.org/t/p/original/bXLmAxO2ooGqYeaxZXaXjVVSgzw.jpg",
+    "airDate": "2001-10-04"
+},
+{
+    "id": "/pokemon-master-quest-episode-10",
+    "title": "Hi Ho Silver... Away!",
+    "description": "Our heroes meet a jewelry maker who tells them the legend of the fourth Whirl Island...and who soon finds himself embroiled in a Team Rocket plot!",
+    "number": "10",
+    "image": "https://image.tmdb.org/t/p/original/kKdxqczRmW6sJGl0q4KVv9pq8a6.jpg",
+    "airDate": "2001-10-11"
+},
+{
+    "id": "/pokemon-master-quest-episode-11",
+    "title": "The Mystery Is History",
+    "description": "While two sets of Team Rocket villains set out to capture the Legendary Pokémon Lugia, Ash runs into his old friend Richie and his partner, a Pikachu named Sparky!",
+    "number": "11",
+    "image": "https://image.tmdb.org/t/p/original/oqGMMUYG1Cw4dZIZ8vgVmpW9zIV.jpg",
+    "airDate": "2001-10-18"
+},
+{
+    "id": "/pokemon-master-quest-episode-12",
+    "title": "A Parent Trapped!",
+    "description": "The little Lugia named Silver has fallen into the hands of Butch and Cassidy of Team Rocket, and with Richie's help, Ash must win the adult Lugia's trust before it gets caught in the same trap!",
+    "number": "12",
+    "image": "https://image.tmdb.org/t/p/original/v2HmX5gMjVLAcxL82D6G1WXG52R.jpg",
+    "airDate": "2001-10-25"
+},
+{
+    "id": "/pokemon-master-quest-episode-13",
+    "title": "A Promise Is a Promise",
+    "description": "While trying to rescue the two Lugia from Team Rocket, Ash and friends have been taken prisoner! Now, they must figure out a way to escape...and to free the captured Pokémon as well!",
+    "number": "13",
+    "image": "https://image.tmdb.org/t/p/original/b4slm3ei995jsPpJFfqKlKhu8WD.jpg",
+    "airDate": "2001-11-01"
+},
+{
+    "id": "/pokemon-master-quest-episode-14",
+    "title": "Throwing in the Noctowl",
+    "description": "Ash and friends are on a plane back to Olivine City when they get caught in a terrible storm that also sweeps up Team Rocket's balloon! They'll have to work together to land safely...but can they manage it?",
+    "number": "14",
+    "image": "https://image.tmdb.org/t/p/original/4zVgk1NsZQvreMuGzIiDq4kSnYv.jpg",
+    "airDate": "2001-11-08"
+},
+{
+    "id": "/pokemon-master-quest-episode-15",
+    "title": "Nerves of Steelix!",
+    "description": "After several interruptions, including yet another Team Rocket scheme, Ash's battle against Jasmine at the Olivine Gym is finally getting under way!",
+    "number": "15",
+    "image": "https://image.tmdb.org/t/p/original/aq3TD0NjPnTsh5obVFn7XE9Iqee.jpg",
+    "airDate": "2001-11-15"
+},
+{
+    "id": "/pokemon-master-quest-episode-16",
+    "title": "Bulbasaur... the Ambassador!",
+    "description": "When the Pokémon at Professor Oak's lab in Kanto have a hard time getting along, the professor asks Ash to send his Bulbasaur to the lab so it can help keep the peace.",
+    "number": "16",
+    "image": "https://image.tmdb.org/t/p/original/cIUDyTdX9CpRLSiFVA7U2xIJWNa.jpg",
+    "airDate": "2001-11-22"
+},
+{
+    "id": "/pokemon-master-quest-episode-17",
+    "title": "Espeon, Not Included",
+    "description": "In Ecruteak City, our heroes meet up with their friend Sakura and her newly evolved Espeon. Sakura and her sisters are preparing for a dance competition, but Team Rocket is lurking in the wings, hoping to steal their Pokémon...",
+    "number": "17",
+    "image": "https://image.tmdb.org/t/p/original/bBXsfpWlUMoQ2ty4jhZZq02OXsX.jpg",
+    "airDate": "2001-11-29"
+},
+{
+    "id": "/pokemon-master-quest-episode-18",
+    "title": "For Ho-Oh the Bells Toll!",
+    "description": "When our heroes investigate a sudden pealing of bells, they discover that the Crystal Bells, which are said to ring only when the Legendary Pokémon Ho-Oh returns, are missing! The researcher Eusine seems to know something...",
+    "number": "18",
+    "image": "https://image.tmdb.org/t/p/original/tlOjeFvdk8PWzIAPRnO27hHDefE.jpg",
+    "airDate": "2001-12-06"
+},
+{
+    "id": "/pokemon-master-quest-episode-19",
+    "title": "Extreme Pokémon!",
+    "description": "When Ash runs into his old rival Gary preparing to enter his Arcanine in a race, he decides to compete as well! But first, he'll have to chase Team Rocket away from the Pokémon Day Care.",
+    "number": "19",
+    "image": "https://image.tmdb.org/t/p/original/6qrfLG4BIAMC9vLIIT5VAX691ta.jpg",
+    "airDate": "2001-12-13"
+},
+{
+    "id": "/pokemon-master-quest-episode-20",
+    "title": "An EGG-sighting Adventure!",
+    "description": "When the Pokémon Egg given to Ash goes missing, our heroes call on the help of a hapless Officer Jenny. It isn't long before they realize that if they want the Egg back, they'll have to find it themselves!",
+    "number": "20",
+    "image": "https://image.tmdb.org/t/p/original/xAclkAEl8tPE8gnOLOkfIStAYUx.jpg",
+    "airDate": "2001-12-20"
+},
+{
+    "id": "/pokemon-master-quest-episode-21",
+    "title": "Hatching a Plan",
+    "description": "The moment has finally come: a Phanpy has hatched from Ash's Pokémon Egg! The little Pokémon is full of energy and soon charging off...with our heroes and Team Rocket in tow!",
+    "number": "21",
+    "image": "https://image.tmdb.org/t/p/original/9c0Cjhd463f0CK8le02LLS0HhYF.jpg",
+    "airDate": "2001-12-27"
+},
+{
+    "id": "/pokemon-master-quest-episode-22",
+    "title": "Dues and Don'ts",
+    "description": "Jessie, James, and Meowth take time to lick their wounds and dream of stealing Pikachu for the glory of Team Rocket. After a chance meeting with a Team Rocket scout, it seems these dreams are blasting off before their eyes!",
+    "number": "22",
+    "image": "https://image.tmdb.org/t/p/original/wwzhPd0hUfBxnRBeAYmceu6UtEN.jpg",
+    "airDate": "2002-01-10"
+},
+{
+    "id": "/pokemon-master-quest-episode-23",
+    "title": "Just Waiting On a Friend",
+    "description": "When thick fog interrupts our heroes' journey, a girl and her Ninetales invite them to rest at a nearby mansion...where Brock and their host fall into a romance that could turn out to be ghostly!",
+    "number": "23",
+    "image": "https://image.tmdb.org/t/p/original/3JHuuJSejcTzyYHGg97sb0XtqB5.jpg",
+    "airDate": "2002-01-17"
+},
+{
+    "id": "/pokemon-master-quest-episode-24",
+    "title": "A Tyrogue Full of Trouble",
+    "description": "Near Mt. Mortar, our heroes run into a Trainer who is trying to curb a Tyrogue's wild ways. But when Team Rocket gets involved, will they be able to save the troublesome Tyrogue from the villains' clutches?",
+    "number": "24",
+    "image": "https://image.tmdb.org/t/p/original/nDRFo6C1rENZBc0dzbJjLd049Nf.jpg",
+    "airDate": "2002-01-24"
+},
+{
+    "id": "/pokemon-master-quest-episode-25",
+    "title": "Xatu the Future",
+    "description": "Our heroes meet a young girl watching over a group of Xatu, whose psychic powers let them predict the future of a local village. When the villagers begin doubting their warnings, can the Xatu prove the truth of their visions?",
+    "number": "25",
+    "image": "https://image.tmdb.org/t/p/original/nfiSJk4B957mufiOjhoovbTz6gc.jpg",
+    "airDate": "2002-01-31"
+},
+{
+    "id": "/pokemon-master-quest-episode-26",
+    "title": "Talkin' 'Bout an Evolution (1)",
+    "description": "Reaching the Lake of Rage, Pikachu and Togepi begin to feel sick, and our heroes are attacked by an enraged red Gyarados. When Team Rocket appears on the scene, things look a lot more dangerous for Ash and friends...",
+    "number": "26",
+    "image": "https://image.tmdb.org/t/p/original/dxBObqc4LIJ9QyGJsjS4kg26NEp.jpg",
+    "airDate": "2002-02-07"
+},
+{
+    "id": "/pokemon-master-quest-episode-27",
+    "title": "Rage of Innocence (2)",
+    "description": "Things look bad for our heroes, who have been captured by Team Rocket at the Lake of Rage. With the fate of the world's Pokémon at stake, can Ash rise to the occasion and save the day?",
+    "number": "27",
+    "image": "https://image.tmdb.org/t/p/original/w8gnac1gwDpZWGmWO9cinZiyK2S.jpg",
+    "airDate": "2002-02-14"
+},
+{
+    "id": "/pokemon-master-quest-episode-28",
+    "title": "As Cold as Pryce",
+    "description": "Finally reaching Mahogany Town, Ash is warming up for his next Gym battle. But after getting the cold shoulder from Gym Leader Pryce, can our hero convince his frosty opponent to give him a chance?",
+    "number": "28",
+    "image": "https://image.tmdb.org/t/p/original/oL0H5InuhpFDWpZQh5qfgsa5SjJ.jpg",
+    "airDate": "2002-02-21"
+},
+{
+    "id": "/pokemon-master-quest-episode-29",
+    "title": "Nice Pryce, Baby!",
+    "description": "Pryce and Ash are about to clash in a cold contest in the Mahogany Town Gym. Will Ash be able to show what he and his Pokémon are made of and earn his seventh Johto region Gym badge?",
+    "number": "29",
+    "image": "https://image.tmdb.org/t/p/original/rEBdvitW1ZFvNwfVVagu5zChQ5F.jpg",
+    "airDate": "2002-02-28"
+},
+{
+    "id": "/pokemon-master-quest-episode-30",
+    "title": "Whichever Way the Wind Blows",
+    "description": "Our heroes encounter battling groups of Bellossom and Vileplume, who have only recently evolved. As each group fights with increasing number and intensity, can our heroes put an end to the quarrelling?",
+    "number": "30",
+    "image": "https://image.tmdb.org/t/p/original/6z4TjK0lnxdSxoOZp1UX3qu8V2b.jpg",
+    "airDate": "2002-03-07"
+},
+{
+    "id": "/pokemon-master-quest-episode-31",
+    "title": "Some Like It Hot",
+    "description": "The heat is rising in our heroes' journey when Misty and her Water-type Pokémon go head to head with a willful Fire-type Trainer!",
+    "number": "31",
+    "image": "https://image.tmdb.org/t/p/original/fqEdvc5VM4hAX24f80JUUZ79uqv.jpg",
+    "airDate": "2002-03-14"
+},
+{
+    "id": "/pokemon-master-quest-episode-32",
+    "title": "Hocus Pokémon",
+    "description": "Ash and the gang bump into a Pokémon magician, and soon they're on the hunt to find components for her greatest spell yet!",
+    "number": "32",
+    "image": "https://image.tmdb.org/t/p/original/hQzmRD1V0RCS7hYxnOnAQYkFW4L.jpg",
+    "airDate": "2002-03-21"
+},
+{
+    "id": "/pokemon-master-quest-episode-33",
+    "title": "As Clear as Crystal",
+    "description": "After yet another close encounter with Team Rocket, Pikachu is left exhausted and weak. Thankfully, a passerby takes our heroes to a nearby lake that helps recharge Electric types...but also hides a great secret!",
+    "number": "33",
+    "image": "https://image.tmdb.org/t/p/original/5ukyVpi61dmcEzSCb9OtlnIhCoB.jpg",
+    "airDate": "2002-03-28"
+},
+{
+    "id": "/pokemon-master-quest-episode-34",
+    "title": "Same Old Song and Dance",
+    "description": "Our heroes take time out to enjoy the entertainment of a young Trainer and her Igglybuff variety act. But it's not long before Team Rocket arrives and tries to steal the show!",
+    "number": "34",
+    "image": "https://image.tmdb.org/t/p/original/xkgnYW5YcsueAed5Lb7kaWj9DAd.jpg",
+    "airDate": "2002-04-11"
+},
+{
+    "id": "/pokemon-master-quest-episode-35",
+    "title": "Enlighten Up!",
+    "description": "A chance trip to a Slowpoke temple gives our heroes an opportunity to seek enlightenment...and gives Team Rocket the chance to lighten some pockets!",
+    "number": "35",
+    "image": "https://image.tmdb.org/t/p/original/2PoPDEw9hNqK7Iah0PL3WqPDyrW.jpg",
+    "airDate": "2002-04-18"
+},
+{
+    "id": "/pokemon-master-quest-episode-36",
+    "title": "Will the Real Oak Please Stand Up?",
+    "description": "A lavish celebrity event inspires Jessie and James to pretend to be the VIPs and fill their rumbling tummies. But it's not long before their disguises are put to the test by the real guest of honor: Professor Oak!",
+    "number": "36",
+    "image": "https://image.tmdb.org/t/p/original/49HvNfCglZESZE3tGKLRu8abvti.jpg",
+    "airDate": "2002-04-25"
+},
+{
+    "id": "/pokemon-master-quest-episode-37",
+    "title": "Wish Upon a Star Shape",
+    "description": "When our heroes spot an object falling from the night sky, they rush to investigate. Soon, they find themselves joining forces with a Pokémon mystery club to uncover the secrets shared by the fallen Cleffa and the stars above!",
+    "number": "37",
+    "image": "https://image.tmdb.org/t/p/original/f2NRG7cZQHqzVlalYtVKeVpBmvf.jpg",
+    "airDate": "2002-05-02"
+},
+{
+    "id": "/pokemon-master-quest-episode-38",
+    "title": "Outrageous Fortunes",
+    "description": "Ash and Misty get into an argument over who can take on a powerful Trainer and his Poliwrath. When he accepts both challenges, the tough battles that follow give Misty some ideas for her own Poliwhirl!",
+    "number": "38",
+    "image": "https://image.tmdb.org/t/p/original/trG4k2UEq7xvqxp5pSfL75afpRf.jpg",
+    "airDate": "2002-05-09"
+},
+{
+    "id": "/pokemon-master-quest-episode-39",
+    "title": "One Trick Phony!",
+    "description": "Hearing of a nearby amusement park for battling, Ash is eager to test his skills. But the Team Rocket trio have recently joined the park, and they have a few ideas in store to test this Trainer's mettle!",
+    "number": "39",
+    "image": "https://image.tmdb.org/t/p/original/ae37B5YktKQym8exa0vqiPEWDPn.jpg",
+    "airDate": "2002-05-16"
+},
+{
+    "id": "/pokemon-master-quest-episode-40",
+    "title": "I Politoed Ya So!",
+    "description": "It's a case of mistaken identity for Misty's Politoed when it gets roped into replacing the leader of a Pokémon Cheer team...but where has the other Politoed gone?",
+    "number": "40",
+    "image": "https://image.tmdb.org/t/p/original/iC5TdCobrftpSSeY60bsUCs2Yz5.jpg",
+    "airDate": "2002-05-23"
+},
+{
+    "id": "/pokemon-master-quest-episode-41",
+    "title": "The Ice Cave!",
+    "description": "Ash and friends enter an ice cave as it's a shortcut to Blackthorn City. After a watery run-in with Team Rocket, Brock catches a cold and the gang finds a Pokémon Center in the cave. While a Jynx working there is taking care of Brock, Nurse Joy tells Ash and Misty that the cave is cold because of a big building working there as a refrigerator. Team Rocket finds the building and they cause trouble by reversing the structure, heating the cave and cooling the jungle outside, and make their attempt to steal the Ice-type Pokémon as well.",
+    "number": "41",
+    "image": "https://image.tmdb.org/t/p/original/kBj7rgD0tGgFD5BOJCCpwnnY7qO.jpg",
+    "airDate": "2002-05-30"
+},
+{
+    "id": "/pokemon-master-quest-episode-42",
+    "title": "Beauty Is Skin Deep",
+    "description": "On the outskirts of Blackthorn City, Ash meets Gym Leader Clair, who is busy training her Dratini for a ceremony. But Team Rocket has other plans for the Dragon-type Pokémon, and Ash and Clair must work together to stop them!",
+    "number": "42",
+    "image": "https://image.tmdb.org/t/p/original/zqulP0MWEu8qSr112hlANmLaPBe.jpg",
+    "airDate": "2002-06-06"
+},
+{
+    "id": "/pokemon-master-quest-episode-43",
+    "title": "Fangs for Nothin'",
+    "description": "Facing off against Blackthorn Gym Leader Clair, Ash is finding it difficult to overcome the power of her Dragon-type Pokémon. Things are harder still when Team Rocket shows up to steal Blackthorn City's prized Dragon Fang relic!",
+    "number": "43",
+    "image": "https://image.tmdb.org/t/p/original/6OOMm7Pg0Fz5PfAgV09YnCasycH.jpg",
+    "airDate": "2002-06-13"
+},
+{
+    "id": "/pokemon-master-quest-episode-44",
+    "title": "Great Bowls of Fire!",
+    "description": "Team Rocket has taken the Blackthorn City Dragon Fang and holed up deep within the Dragon's Den. Things look bad for the ancient relic, but help comes in the form of an old friend!",
+    "number": "44",
+    "image": "https://image.tmdb.org/t/p/original/jlKgkZqe77orhz5Fd3rSxZkW9LH.jpg",
+    "airDate": "2002-06-20"
+},
+{
+    "id": "/pokemon-master-quest-episode-45",
+    "title": "Better Eight Than Never",
+    "description": "Ash and Clair finally face off in a Gym battle that will push Ash's skills as a Trainer to the limit! Can he win his final Johto Gym badge?",
+    "number": "45",
+    "image": "https://image.tmdb.org/t/p/original/8vP1U4pj0th8QfsBEAVLxwzjEHf.jpg",
+    "airDate": "2002-06-27"
+},
+{
+    "id": "/pokemon-master-quest-episode-46",
+    "title": "Why? Wynaut!",
+    "description": "A Team Rocket trick takes all of Ash's hard-earned Johto Gym badges from him, but it's not long before the troublesome trio get a taste of their own medicine. What tricksy Pokémon could have beaten them at their own game?",
+    "number": "46",
+    "image": "https://image.tmdb.org/t/p/original/x9HqIzgTD9ctPZFrrt17kmkCcTl.jpg",
+    "airDate": "2002-07-04"
+},
+{
+    "id": "/pokemon-master-quest-episode-47",
+    "title": "Just Add Water",
+    "description": "Discovering a nearby Pokémon synchronized swim team, Misty goes to check it out, and soon finds herself heading below the surface to take on the team's Trainer in an exciting underwater battle!",
+    "number": "47",
+    "image": "https://image.tmdb.org/t/p/original/g4KyS2faX6NhtBrRuBbRPw7iH2B.jpg",
+    "airDate": "2002-07-11"
+},
+{
+    "id": "/pokemon-master-quest-episode-48",
+    "title": "Lapras of Luxury",
+    "description": "Ash barely makes it back to New Bark Town before he is off again, retrieving a Pokémon Egg for Professor Elm. However, things get interesting when he meets an old friend and Team Rocket shows up with more mischief!",
+    "number": "48",
+    "image": "https://image.tmdb.org/t/p/original/vVNbmwJjD3TkU5rMbg8sNcicUUs.jpg",
+    "airDate": "2002-07-18"
+},
+{
+    "id": "/pokemon-master-quest-episode-49",
+    "title": "Hatch Me If You Can",
+    "description": "Professor Elm's Pokémon Egg hatches into a Larvitar! The Pokémon is unresponsive even after being checked over at the Pokémon Center, and Ash tries to cheer it up, but soon Team Rocket arrives to ruin all his hard work.",
+    "number": "49",
+    "image": "https://image.tmdb.org/t/p/original/yJh0XfZfJtv2U4q5eKtlOy3H7Oh.jpg",
+    "airDate": "2002-07-25"
+},
+{
+    "id": "/pokemon-master-quest-episode-50",
+    "title": "Entei at Your Own Risk",
+    "description": "On their way to Mt. Silver, our heroes relax at a hot spring and meet a young Trainer who's tracking the Legendary Pokémon Entei. Trouble arises when Team Rocket follows them with a plan to steal Pikachu and Larvitar!",
+    "number": "50",
+    "image": "https://image.tmdb.org/t/p/original/vR4huUatdsioEO7gnfR7YunNsOh.jpg",
+    "airDate": "2002-08-01"
+},
+{
+    "id": "/pokemon-master-quest-episode-51",
+    "title": "A Crowning Achievement",
+    "description": "Our heroes find a group of Slowpoke guarding a dried-up stream and hear the tale of a similar drought long ago, when one Slowpoke took the initiative to evolve into Slowking and save everyone. Can the same thing happen here?",
+    "number": "51",
+    "image": "https://image.tmdb.org/t/p/original/1ZYL5hkmtTa1x5MZkAE232PARQR.jpg",
+    "airDate": "2002-08-08"
+},
+{
+    "id": "/pokemon-master-quest-episode-52",
+    "title": "Here's Lookin' at You, Elekid",
+    "description": "A cheeky Elekid starts to bother Larvitar, but soon both Pokémon are in the clutches of Team Rocket. Ash's rival Casey wants to catch Elekid for herself, but can they mount a rescue before the villains get away?",
+    "number": "52",
+    "image": "https://image.tmdb.org/t/p/original/bFwHWKPLW4YS0zWEv3w6F56lhnb.jpg",
+    "airDate": "2002-08-15"
+},
+{
+    "id": "/pokemon-master-quest-episode-53",
+    "title": "You're a Star, Larvitar!",
+    "description": "Our heroes have reached Mt. Silver, and Ash wastes no time starting his training for the Johto League Silver Conference. But all the Trainers around provide the perfect prey for Team Rocket, who arrive to swipe all the rare Pokémon!",
+    "number": "53",
+    "image": "https://image.tmdb.org/t/p/original/ibdr48kA3gQbE1BLcampzIM2U51.jpg",
+    "airDate": "2002-08-22"
+},
+{
+    "id": "/pokemon-master-quest-episode-54",
+    "title": "Address Unown!",
+    "description": "With Mt. Silver a few yards away, Ash and co. soon spot an Unown, which quickly becomes friends with Larvitar. After which, it was attacked by Team Rocket and soon Ash and friends are swept into another dimension. Where are they now and where is Larvitar? And how did Pikachu and Togepi become giants?",
+    "number": "54",
+    "image": "https://image.tmdb.org/t/p/original/zQXJpf6Y9HATkmRWIaInt3Cn5PU.jpg",
+    "airDate": "2002-08-29"
+},
+{
+    "id": "/pokemon-master-quest-episode-55",
+    "title": "Mother of All Battles",
+    "description": "After finally arriving at Mt. Silver, Ash and co. find the Preserve where Larvitar was born. There they encounter Larvitar's mother, the same Tyranitar that was in Larvitar's visions. The reunion is not a happy one however, even after they get reunited. The three men from Larvitar's visions were also the ones responsible for stealing its Egg and they managed to capture the Tyranitar. Can they get mother and child reunited with the help of Ranger Mason?",
+    "number": "55",
+    "image": "https://image.tmdb.org/t/p/original/4bqVj4n9cnmGe0tfSKaCZd0kSwm.jpg",
+    "airDate": "2002-09-05"
+},
+{
+    "id": "/pokemon-master-quest-episode-56",
+    "title": "Pop Goes the Sneasel",
+    "description": "Our heroes are called into action to save the Johto League Silver Conference's opening ceremony from being stopped by a territorial Sneasel!",
+    "number": "56",
+    "image": "https://image.tmdb.org/t/p/original/1amnzBMVdhIm5715m3icRmGfU26.jpg",
+    "airDate": "2002-09-12"
+},
+{
+    "id": "/pokemon-master-quest-episode-57",
+    "title": "A Claim to Flame!",
+    "description": "The Johto League Silver Conference has begun, and Ash and his rivals are getting serious about what the future has in store!",
+    "number": "57",
+    "image": "https://image.tmdb.org/t/p/original/2L1Egq1hfDAdAl8AdTXQ1PVPhPL.jpg",
+    "airDate": "2002-09-19"
+},
+{
+    "id": "/pokemon-master-quest-episode-58",
+    "title": "Love, Pokémon Style",
+    "description": "As the Johto League Silver Conference heats up, Ash will have to rely on some old friends to fight off the affections of his next opponent!",
+    "number": "58",
+    "image": "https://image.tmdb.org/t/p/original/jkz0eTubDQcUAHZ9FOfWr3apS4n.jpg",
+    "airDate": "2002-09-26"
+},
+{
+    "id": "/pokemon-master-quest-episode-59",
+    "title": "Tie One On!",
+    "description": "The battle between Ash and Macy is over and Ash wins, but the next battle will determine if he will or will not go to the victory tournament. He faces off against Jackson, a trainer from Twinleaf Town who has a Meganium like Casey. Will Ash be able to win this final battle of the elimination block?",
+    "number": "59",
+    "image": "https://image.tmdb.org/t/p/original/at3EORdAHF6nKYjuBRRdk9jGxpt.jpg",
+    "airDate": "2002-10-03"
+},
+{
+    "id": "/pokemon-master-quest-episode-60",
+    "title": "The Ties That Bind",
+    "description": "It's Ash versus his oldest rival, Gary, in the Johto League Silver Conference, and both Trainers are ready to give it all they've got. But who will come out on top?",
+    "number": "60",
+    "image": "https://image.tmdb.org/t/p/original/4Y7MIlfE95Ml2cPSd3pEJQmqCWo.jpg",
+    "airDate": "2002-10-10"
+},
+{
+    "id": "/pokemon-master-quest-episode-61",
+    "title": "Can't Beat the Heat!",
+    "description": "The ultimate battle continues as Ash and Gary face off. Ash will have to come up with a new plan to beat Gary's Blastoise. Can he do it with the Pokémon he's got, and if Ash beats Gary, who will be his next opponent?",
+    "number": "61",
+    "image": "https://image.tmdb.org/t/p/original/aJ92nMSVh9DWy9EuZM4wFuQba5W.jpg",
+    "airDate": "2002-10-17"
+},
+{
+    "id": "/pokemon-master-quest-episode-62",
+    "title": "Playing with Fire!",
+    "description": "After defeating Gary in the last round, Ash has to take on his new friend Harrison in the Johto League Silver Conference. Will our hero be able to stop the challenger from the Hoenn region?",
+    "number": "62",
+    "image": "https://image.tmdb.org/t/p/original/kO53UHuKJxrLi4StpNwNZzc2Y73.jpg",
+    "airDate": "2002-10-24"
+},
+{
+    "id": "/pokemon-master-quest-episode-63",
+    "title": "Johto Photo Finish",
+    "description": "The scorching battle between Ash and Harrison rages on, with Charizard taking on Blaziken, a Pokémon from the Hoenn region!",
+    "number": "63",
+    "image": "https://image.tmdb.org/t/p/original/yEIXzMjN9wBqMzXcrLyWYyr2uDd.jpg",
+    "airDate": "2002-10-31"
+},
+{
+    "id": "/pokemon-master-quest-episode-64",
+    "title": "Gotta Catch Ya Later!",
+    "description": "With his Johto League adventure behind him, Ash has decided to head back to Pallet Town. But it's all too soon before he has to say goodbye to Brock and Misty, and head out alone for a new adventure!",
+    "number": "64",
+    "image": "https://image.tmdb.org/t/p/original/mxZyZoRblfzcjRsmk3cQhYUK1jY.jpg",
+    "airDate": "2002-11-07"
+},
+{
+    "id": "/pokemon-master-quest-episode-65",
+    "title": "Hoenn Alone!",
+    "description": "The Hoenn region is on Ash's mind, and he's preparing to board a ship bound there when Team Rocket strikes! With Pikachu missing and time running out before the boat leaves, can Ash get his adventure back on track?",
+    "number": "65",
+    "image": "https://image.tmdb.org/t/p/original/rrNmmBadxgvZ27XQ2X6ZXqFWLHG.jpg",
+    "airDate": "2002-11-14"
+}]
 }
