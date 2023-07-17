@@ -960,186 +960,292 @@
       "rating": 65
     }
   ],
-  "episodes": [
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-1",
-      "title": "Pallet Party Panic",
-      "number": 1
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-2",
-      "title": "A Scare in the Air",
-      "number": 2
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-3",
-      "title": "Pokéball Peril",
-      "number": 3
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-4",
-      "title": "The Lost Lapras",
-      "number": 4
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-5",
-      "title": "Fit to Be Tide",
-      "number": 5
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-6",
-      "title": "Pikachu Re-Volts",
-      "number": 6
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-7",
-      "title": "The Crystal Onix",
-      "number": 7
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-8",
-      "title": "In the Pink",
-      "number": 8
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-9",
-      "title": "Shell Shock",
-      "number": 9
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-10",
-      "title": "Stage Fight",
-      "number": 10
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-11",
-      "title": "Bye Bye Psyduck",
-      "number": 11
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-12",
-      "title": "The Joy of Pokémon",
-      "number": 12
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-13",
-      "title": "Navel Maneuvers",
-      "number": 13
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-14",
-      "title": "Snack Attack",
-      "number": 14
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-15",
-      "title": "A Shipful of Shivers",
-      "number": 15
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-16",
-      "title": "Meowth Rules!",
-      "number": 16
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-17",
-      "title": "Tracey Gets Bugged",
-      "number": 17
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-18",
-      "title": "A Way Off Day Off",
-      "number": 18
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-19",
-      "title": "The Mandarin Island Miss Match",
-      "number": 19
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-20",
-      "title": "Wherefore Art Thou, Pokémon?",
-      "number": 20
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-21",
-      "title": "Get Along, Little Pokémon",
-      "number": 21
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-22",
-      "title": "The Mystery Menace",
-      "number": 22
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-23",
-      "title": "Misty Meets Her Match",
-      "number": 23
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-24",
-      "title": "Bound for Trouble",
-      "number": 24
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-25",
-      "title": "Charizard Chills",
-      "number": 25
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-26",
-      "title": "The Pokémon Water War",
-      "number": 26
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-27",
-      "title": "Pokémon Food Fight",
-      "number": 27
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-28",
-      "title": "Pokémon Double Trouble",
-      "number": 28
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-29",
-      "title": "The Wacky Watcher",
-      "number": 29
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-30",
-      "title": "The Stun Spore Detour",
-      "number": 30
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-31",
-      "title": "Hello Pummelo",
-      "number": 31
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-32",
-      "title": "Enter the Dragonite",
-      "number": 32
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-33",
-      "title": "Viva Las Lapras",
-      "number": 33
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-34",
-      "title": "The Underground Round-Up",
-      "number": 34
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-35",
-      "title": "A Tent Situation",
-      "number": 35
-    },
-    {
-      "id": "pokemon-adventures-in-the-orange-islands-episode-36",
-      "title": "The Rivalry Revival",
-      "number": 36
-    }
-  ]
+  "episodes": [{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-1",
+    "title": "Pallet Party Panic",
+    "description": "After battling in the Pokémon League Tournament, Ash and his friends return to Pallet Town for a hero's welcome.",
+    "number": "1",
+    "image": "https://image.tmdb.org/t/p/original/wTzvv4Qp9zCya7dk5BMlz2LSyDQ.jpg",
+    "airDate": "1999-01-28"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-2",
+    "title": "A Scare in the Air",
+    "description": "Ash, Brock, and Misty prepare for their long journey to Valencia Island to bring back a mysterious Poké Ball for Professor Oak. After discovering that the trip will take a month to get there, Ash manages to win a free blimp ride so it will take only a day! Once on board, they realize the blimp is being powered by Team Rocket! And things only get worse from there!",
+    "number": "2",
+    "image": "https://image.tmdb.org/t/p/original/hKLzqQjlvQiMEEEbN50NUhxBnQ5.jpg",
+    "airDate": "1999-02-04"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-3",
+    "title": "Pokéball Peril",
+    "description": "After making a crash landing onto Valencia Island, our heroes get directions to Professor Ivy's laboratory where the mysterious Pokéball is being held. Once at the laboratory, Brock realizes that Professor Ivy and her group of scientists are Pokémon breeders just like him! Suddenly Brock begins to feel at home and thinks about staying for awhile to continue his studies on Pokémon breeding.",
+    "number": "3",
+    "image": "https://image.tmdb.org/t/p/original/4J4j7aMEXJkIaKwrVxSy9jQcu8G.jpg",
+    "airDate": "1999-02-11"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-4",
+    "title": "The Lost Lapras",
+    "description": "After picking up the GS Ball from Professor Ivy, Brock decided to stay on the island so Ash and Misty head back home by blimp. Unfortunately, our duo gets double-crossed by Team Rocket once again, and Jigglypuff puts the whole crew to sleep. After another crash landing in the middle of nowhere they meet a new friend named Tracey while trying to help a Lapras that washed up on the beach.",
+    "number": "4",
+    "image": "https://image.tmdb.org/t/p/original/cVlGFJ93t7VsQMCBgwEBEaaTf3F.jpg",
+    "airDate": "1999-02-18"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-5",
+    "title": "Fit To Be Tide",
+    "description": "Ash, Misty and their new friend, Tracey, are on a new adventure exploring the Orange Islands as Ash sets out to qualify for the Orange League Tournament. After hearing that the Mikan Gym Leader is known as one of the toughest trainers in the Orange Crew, Ash can't wait for the challenge. He learns that Pokémon battles are run a little differently on the Orange Islands, but he can always rely on his Squirtle to pull them through!",
+    "number": "5",
+    "image": "https://image.tmdb.org/t/p/original/wTJTdPKghRgdNUMTlQELUSIEEvz.jpg",
+    "airDate": "1999-02-25"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-6",
+    "title": "Pikachu Re-Volts",
+    "description": "Just as Ash, Misty, and Tracey set foot on Mandarin Island, Pikachu and Togepi turn against them and join a group of other angry Pokémon. When the misbehaving Pokémon disappear, Officer Jenny arrives and informs them that dozens of Pokémon have been reported missing, including Meowth! Everyone fears a Psychic attack is behind this mystery. Will Jessie and James actually join forces with our heroes? Could they possibly win a battle for the first time?",
+    "number": "6",
+    "image": "https://image.tmdb.org/t/p/original/FC6hxkS90t7mBFUDD7h8ZSC8Y5.jpg",
+    "airDate": "1999-03-04"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-7",
+    "title": "The Crystal Onix",
+    "description": "While riding around the Orange Islands on his Lapras, Ash finds a mysterious message in a bottle, which leads the gang on a new adventure. Ash, Misty and Tracey travel to Sunburst Island, which is famous for its artists and glassblowers. They meet a struggling young shopkeeper who's seeking inspiration from a legendary crystal Onix. Having been unable to find this special Pokémon, the shopkeeper turns to our heroes. With Tracey and his observational Pokémon on board, they set out to fire up a new friend's creative drive!",
+    "number": "7",
+    "image": "https://image.tmdb.org/t/p/original/aYuXdePGaeMphKz5CkcLCWi9og.jpg",
+    "airDate": "1999-03-11"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-8",
+    "title": "In the Pink",
+    "description": "Ash and friends are caught in a whirlpool and swept to an unexplored island where all the Pokémon are pink. It's Pinkan Island, a Pokémon refuge where the Pokémon's diet of Pinkan Berries causes their unique coloration. But the Pokémon aren't all as sweet as they look. Our heroes cross paths with an enraged Nidoking, and end up cornered under a cliff.",
+    "number": "8",
+    "image": "https://image.tmdb.org/t/p/original/8gYAXR48udSK6g6zTcgXR2jXOdM.jpg",
+    "airDate": "1999-03-18"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-9",
+    "title": "Shell Shock!",
+    "description": "Aboard Lapras, the group follows a news crew to an uninhabited island, where a scientific expedition is underway after the discovery of a fossilized Kabuto. A series of natural disasters place our heroes in mortal danger, with only the power of their Pokémon to help them. What is the secret of the Kabuto, and who wants that secret to remain hidden?",
+    "number": "9",
+    "image": "https://image.tmdb.org/t/p/original/miCujOfLRxwyzIhf0hDRSSdZ29s.jpg",
+    "airDate": "1999-03-25"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-10",
+    "title": "Stage Fight!",
+    "description": "Misty meets another female trainer who also is an expert on water Pokémon. The new trainer notices some signs that Misty's Psyduck may be ready to evolve. As the two prepare for a Pokémon battle, a Golduck springs from the water and battles for Misty. With her powerful new Pokémon, can Misty defeat both her newfound friend and Team Rocket?",
+    "number": "10",
+    "image": "https://image.tmdb.org/t/p/original/yzg1fxptKowFhYSrTkbIoIIJzND.jpg",
+    "airDate": "1999-04-01"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-11",
+    "title": "Bye Bye Psyduck",
+    "description": "After stopping on another island to rest, Misty notices her Psyduck's tail is glowing, a nearby trainer says it may mean it is time for it to evolve. So Misty challenges her to battle and when she finds she has a Golduck, she easily beats the trainer. However, Team Rocket has other plans. Later, Golduck turns out to be a wild Pokémon as Misty's Psyduck makes an appearance. ",
+    "number": "11",
+    "image": "https://image.tmdb.org/t/p/original/r1DZCx6isjBUv1wFeyatIT6Mk6b.jpg",
+    "airDate": "1999-04-08"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-12",
+    "title": "The Joy of Pokémon",
+    "description": "While riding Ash's Lapras to the next island, Ash and the gang come across a tanned Nurse Joy who insists on healing Wild Water Pokémon on the island. Ash and Tracey decide to help out, but when Team Rocket arrives to stop them, a giant Magikarp arrives.",
+    "number": "12",
+    "image": "https://image.tmdb.org/t/p/original/m9iiLP6T3ghVtE3DfgJAY521eRD.jpg",
+    "airDate": "1999-04-15"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-13",
+    "title": "Navel Maneuvers",
+    "description": "The group arrive on Navel Island where Ash finds himself up against the Gym Leader, Danny as Ash competes for his second Orange League badge. Misty tries to tempt Ash by showing more caring attitude to Danny. Ash once again gets jealous and sad.",
+    "number": "13",
+    "image": "https://image.tmdb.org/t/p/original/on3lQimTRiJcKpoLES6QGCU7QmJ.jpg",
+    "airDate": "1999-04-22"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-14",
+    "title": "Snack Attack",
+    "description": "Arriving on the Grapefruit Islands, Ash discovers that there is a Snorlax going from island to island eating all the grapefruits. Ash is employed to help stop the Snorlax, but the Snorlax proves to be slippery. Later on, Ash captures the Snorlax.",
+    "number": "14",
+    "image": "https://image.tmdb.org/t/p/original/7QW9qHtS8ra1fpBWMN5YY3PRyAX.jpg",
+    "airDate": "1999-04-29"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-15",
+    "title": "A Shipful of Shivers",
+    "description": "Arriving on Moro Island, Ash and his friends hear about a long lost Orange League Trophy being found on a sunken ship, but when Team Rocket steals it, Ash and the gang follow them to a ghost ship inhabited by a Gastly and Haunter.",
+    "number": "15",
+    "image": "https://image.tmdb.org/t/p/original/qnWW6qHaYHa4CJVe8qtbVdnt4mR.jpg",
+    "airDate": "1999-05-06"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-16",
+    "title": "Meowth Rules!",
+    "description": "Meowth finds himself on an island where the inhabitants believe him to be a \"Meowth God\".",
+    "number": "16",
+    "image": "https://image.tmdb.org/t/p/original/np3krnWaPErUoJBwXcN1LF2z8tE.jpg",
+    "airDate": "1999-05-13"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-17",
+    "title": "Tracey Gets Bugged",
+    "description": "Arriving on Murcott Island, Ash and his friends discover a wounded Scyther. After capturing it, Tracey must take it to a Pokémon Center. While there, he discovers the Scyther got dethroned from being in charge of his group.",
+    "number": "17",
+    "image": "https://image.tmdb.org/t/p/original/fiEcOCWubrFTBnLPUILzV2JOwZz.jpg",
+    "airDate": "1999-05-20"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-18",
+    "title": "A Way Off Day Off",
+    "description": "Deciding to take a break on a nearby island, Ash, his friends, and all their Pokémon just use the time to relax and get better acquainted. However, Team Rocket has other plans for the Pokémon and intend to steal them.",
+    "number": "18",
+    "image": "https://image.tmdb.org/t/p/original/bMjduqwet4iSzrw1z0RDwqgQM3p.jpg",
+    "airDate": "1999-05-27"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-19",
+    "title": "The Mandarin Island Miss Match",
+    "description": "The group descend on Mandarin Island where Ash's arrogance emerges due to the fact that he's won every single battle he's had since arriving on the island but upon meeting Prima, a member of the Elite Four and challenging her to a battle, Ash starts to realize that he may have made a grave mistake.",
+    "number": "19",
+    "image": "https://image.tmdb.org/t/p/original/yxYW4gblNvDfv6PKsMgTmEeAp3z.jpg",
+    "airDate": "1999-06-03"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-20",
+    "title": "Wherefore Art Thou, Pokémon",
+    "description": "Still on Mandarin Island, Ash and his friends go through Victorian Town where they find two Nidoran who are in love with each other but any possible hint of a relationship is being derailed by the trainers who happen to be childhood rivals.",
+    "number": "20",
+    "image": "https://image.tmdb.org/t/p/original/uD98wepTIrg0S2DAmkOCOL093u6.jpg",
+    "airDate": "1999-06-10"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-21",
+    "title": "Get Along, Little Pokémon",
+    "description": "Ash and his friends discover a man who has troops of Magnemite and has to take them to a town on the island in order to give it power. However, he gets injured, so it is up to Ash to herd up the Magnemite and get to the town.",
+    "number": "21",
+    "image": "https://image.tmdb.org/t/p/original/uhxGgzR0ngjsqcXBgMboakY7XTk.jpg",
+    "airDate": "1999-06-17"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-22",
+    "title": "The Mystery Menace",
+    "description": "Heading to the other end of Mandarin Island, Ash and his friends discover there's a monster in the sewer that is causing lots of problems in the town. When the Mayor wants to blow it up, Joy protests and asks Ash and company to help.",
+    "number": "22",
+    "image": "https://image.tmdb.org/t/p/original/fSn7lHlzxd6sJTu5IGESX8Rf5Ip.jpg",
+    "airDate": "1999-06-24"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-23",
+    "title": "Misty Meets Her Match",
+    "description": "Ash arrives on Trovita Island prepared to battle for his third Orange League Gym Badge. However, much to Ash's dismay, the Gym Leader, Rudy has more than just battling on his mind, Rudy develops a crush on Misty, and Ash gets jealous once again. Rudy moves in to court Misty after she helps rescue his younger sister, Mahri. While Ash battles for the Spike Shell Badge, Misty considers the tempting offer to stay on the island with Rudy and Mahri forever.",
+    "number": "23",
+    "image": "https://image.tmdb.org/t/p/original/iVtqrERAqytQhNfBcCQAIkjEM0n.jpg",
+    "airDate": "1999-07-01"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-24",
+    "title": "Bound for Trouble",
+    "description": "After getting his 3rd Orange League Badge, Ash and his friends arrive on an island, where Pikachu is soon captured by Team Rocket and is chained to Meowth. But soon after Pikachu and Meowth are taken away by a giant Pidgeot, the trapped rivals eventually learn how to get along.",
+    "number": "24",
+    "image": "https://image.tmdb.org/t/p/original/5crNQMqCjLeFPWfuf9ZYPJSH7h8.jpg",
+    "airDate": "1999-07-15"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-25",
+    "title": "Charizard Chills",
+    "description": "After hearing about Ash from the Trovita Island gym leader, another trainer seeks him out for a battle. When Pikachu is knocked out during the battle, Ash turns to his Charizard, but he struggles to make the unruly Pokémon listen to him.",
+    "number": "25",
+    "image": "https://image.tmdb.org/t/p/original/1ZIc1j4v0vKh1Dv52Y48qgk7JNq.jpg",
+    "airDate": "1999-07-22"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-26",
+    "title": "The Pokémon Water War",
+    "description": "On the next island, Ash and his friends see a team of firefighters consisting of Squirtles, Wartortles, and Blastoises. Eager to test its skills, Ash's Squirtle get to train with them. But when an actual fire turns up, training has to become reality.",
+    "number": "26",
+    "image": "https://image.tmdb.org/t/p/original/wG7IjsBeupv62Dgy9RrISwSvbRr.jpg",
+    "airDate": "1999-07-29"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-27",
+    "title": "Pokémon Food Fight!",
+    "description": "While in a battle, Ash accidentally breaks Snorlax's Pokéball. With the Pokémon Center on the other side of the island, Ash and his friends have to get Snorlax there. And to make matters worse, Team Rocket arrive and are hoarding the island's food ransom until they get Pikachu.",
+    "number": "27",
+    "image": "https://image.tmdb.org/t/p/original/ai49eQljTJYK7GOx26lmaIfYkoi.jpg",
+    "airDate": "1999-08-05"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-28",
+    "title": "Pokémon Double Trouble",
+    "description": "On Kumquat Island, Ash discovers Luana, the final Orange Island Gym Leader, who mistakes him for her son. After defending the island from Team Rocket, they head to the Gym to have a Double Battle where Pikachu and Charizard battle against Marowak and Alakazam but Pikachu's and Charizard's unwillingness to work together might end up costing Ash his chance of qualifying for the Orange League.",
+    "number": "28",
+    "image": "https://image.tmdb.org/t/p/original/jOs5zUqA7eIacmDwnPh3Jv7a1Fo.jpg",
+    "airDate": "1999-08-12"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-29",
+    "title": "The Wacky Watcher!",
+    "description": "On Rind Island, Tracey meets Dr. Quackenpoker, a noted Pokémon Watcher who is doing a study on the Magikarp that climb up waterfalls and how they evolve into Gyarados. However, Team Rocket appears to steal the Magikarp and get them to evolve.",
+    "number": "29",
+    "image": "https://image.tmdb.org/t/p/original/l0Uk8HMOH6y1PHktzzfLD5kf7uF.jpg",
+    "airDate": "1999-08-19"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-30",
+    "title": "The Stun Spore Detour",
+    "description": "On Tiny Island, Ash and Tracey get affected by Stun Spore leaving it up to Misty to get an antidote to heal them. Can Misty find it with the help of her new Poliwag?",
+    "number": "30",
+    "image": "https://image.tmdb.org/t/p/original/euriYsCzhB7WRBiWNoY8DH8klpm.jpg",
+    "airDate": "1999-08-26"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-31",
+    "title": "Hello, Pummelo!",
+    "description": "After winning his way to the final competition for the Orange League Winner's Trophy, victory seems a long shot for Ash as the Gym Leader deploys a powerful Gengar that topples one of Ash's Pokémon after another.",
+    "number": "31",
+    "image": "https://image.tmdb.org/t/p/original/pou8L6Hry1o7jPG6x0vQSQcmtoA.jpg",
+    "airDate": "1999-09-02"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-32",
+    "title": "Enter the Dragonite",
+    "description": "As if a gym battle with a Dragonite isn't challenge enough for one day, Team Rocket secretly surveys the weakened state of Ash's battling Pokémon and plots to turn the situation to their advantage.",
+    "number": "32",
+    "image": "https://image.tmdb.org/t/p/original/cRGC3c1MCHzvVOBEpNfTKTwEFPa.jpg",
+    "airDate": "1999-09-09"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-33",
+    "title": "Viva Las Lapras",
+    "description": "It's piracy on the open seas and Ash and friends must rescue a local school of Lapras from would-be poachers, but how can they be of help when the Lapras, conditioned to fear humans, shun the young Trainers?",
+    "number": "33",
+    "image": "https://image.tmdb.org/t/p/original/ecHwprFJoYX7E3U7Lb9a0qtgPTd.jpg",
+    "airDate": "1999-09-16"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-34",
+    "title": "The Underground Round-Up",
+    "description": "Having to travel by boat, Ash and his friends arrive on Hamlin Island, their final stop before returning to Kanto to discover that the town is being attacked by hundreds of Electrode. A man named Poncho is trying to stop them with his Diglett.",
+    "number": "34",
+    "image": "https://image.tmdb.org/t/p/original/kx3nPP6uM3O1bbhBByjnKizePHx.jpg",
+    "airDate": "1999-09-23"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-35",
+    "title": "A Tent Situation",
+    "description": "They’re back in Pallet Town. When they get home, they discover Brock is back and he won’t explain why he left Valencia Island. However, as usual, Team Rocket try to steal all of the Pokémon in Oak’s lab by vacuuming all the Pokéballs, including the GS Ball that Oak was working on. Can they get it back?",
+    "number": "35",
+    "image": "https://image.tmdb.org/t/p/original/r4U6b5sV5hf3Mq6fCiaSPRSmM53.jpg",
+    "airDate": "1999-09-30"
+},
+{
+    "id": "/pokemon-adventures-in-the-orange-islands-episode-36",
+    "title": "The Rivalry Revival",
+    "description": "An errand of Professor Oak's sets Ash on the road once again, but first he must face his old hometown rival, Gary, in a Pokémon battle.",
+    "number": "36",
+    "image": "https://image.tmdb.org/t/p/original/ipJebLsR6l974QdkOgZzh6w86j1.jpg",
+    "airDate": "1999-10-07"
+}]
 }
