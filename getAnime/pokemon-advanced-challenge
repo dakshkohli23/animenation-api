@@ -961,266 +961,420 @@
       "rating": 65
     }
   ],
-  "episodes": [
-    {
-      "id": "pokemon-advanced-challenge-episode-1",
-      "title": "Pokémon: Advanced Challenge Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-2",
-      "title": "Pokémon: Advanced Challenge Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-3",
-      "title": "Pokémon: Advanced Challenge Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-4",
-      "title": "Pokémon: Advanced Challenge Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-5",
-      "title": "Pokémon: Advanced Challenge Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-6",
-      "title": "Pokémon: Advanced Challenge Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-7",
-      "title": "Pokémon: Advanced Challenge Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-8",
-      "title": "Pokémon: Advanced Challenge Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-9",
-      "title": "Pokémon: Advanced Challenge Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-10",
-      "title": "Pokémon: Advanced Challenge Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-11",
-      "title": "Pokémon: Advanced Challenge Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-12",
-      "title": "Pokémon: Advanced Challenge Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-13",
-      "title": "Pokémon: Advanced Challenge Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-14",
-      "title": "Pokémon: Advanced Challenge Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-15",
-      "title": "Pokémon: Advanced Challenge Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-16",
-      "title": "Pokémon: Advanced Challenge Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-17",
-      "title": "Pokémon: Advanced Challenge Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-18",
-      "title": "Pokémon: Advanced Challenge Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-19",
-      "title": "Pokémon: Advanced Challenge Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-20",
-      "title": "Pokémon: Advanced Challenge Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-21",
-      "title": "Pokémon: Advanced Challenge Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-22",
-      "title": "Pokémon: Advanced Challenge Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-23",
-      "title": "Pokémon: Advanced Challenge Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-24",
-      "title": "Pokémon: Advanced Challenge Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-25",
-      "title": "Pokémon: Advanced Challenge Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-26",
-      "title": "Pokémon: Advanced Challenge Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-27",
-      "title": "Pokémon: Advanced Challenge Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-28",
-      "title": "Pokémon: Advanced Challenge Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-29",
-      "title": "Pokémon: Advanced Challenge Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-30",
-      "title": "Pokémon: Advanced Challenge Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-31",
-      "title": "Pokémon: Advanced Challenge Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-32",
-      "title": "Pokémon: Advanced Challenge Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-33",
-      "title": "Pokémon: Advanced Challenge Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-34",
-      "title": "Pokémon: Advanced Challenge Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-35",
-      "title": "Pokémon: Advanced Challenge Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-36",
-      "title": "Pokémon: Advanced Challenge Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-37",
-      "title": "Pokémon: Advanced Challenge Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-38",
-      "title": "Pokémon: Advanced Challenge Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-39",
-      "title": "Pokémon: Advanced Challenge Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-40",
-      "title": "Pokémon: Advanced Challenge Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-41",
-      "title": "Pokémon: Advanced Challenge Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-42",
-      "title": "Pokémon: Advanced Challenge Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-43",
-      "title": "Pokémon: Advanced Challenge Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-44",
-      "title": "Pokémon: Advanced Challenge Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-45",
-      "title": "Pokémon: Advanced Challenge Episode 45",
-      "number": 45
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-46",
-      "title": "Pokémon: Advanced Challenge Episode 46",
-      "number": 46
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-47",
-      "title": "Pokémon: Advanced Challenge Episode 47",
-      "number": 47
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-48",
-      "title": "Pokémon: Advanced Challenge Episode 48",
-      "number": 48
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-49",
-      "title": "Pokémon: Advanced Challenge Episode 49",
-      "number": 49
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-50",
-      "title": "Pokémon: Advanced Challenge Episode 50",
-      "number": 50
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-51",
-      "title": "Pokémon: Advanced Challenge Episode 51",
-      "number": 51
-    },
-    {
-      "id": "pokemon-advanced-challenge-episode-52",
-      "title": "Pokémon: Advanced Challenge Episode 52",
-      "number": 52
-    }
-  ]
+  "episodes": [{
+    "id": "/pokemon-advanced-challenge-episode-1",
+    "title": "What You Seed is What You Get",
+    "description": "After earning the Dynamo Badge from Wattson, Ash and co. continue their journey. May insists to go to Fallarbor Town while Ash suggests they go to Lavaridge Town. Max suggests they go to both and Brock decides the order. During the trip, they notice some watermelons float down by the river and have some lunch. Ash then comes up with an idea: Teach Treecko to use Bullet Seed like the Shiftry that attacked them a while back, and as practice, they try it by spitting watermelon seeds. Can Treecko learn to master this move, and who do the watermelons belong too?",
+    "number": "1",
+    "image": "https://image.tmdb.org/t/p/original/lE8KSjglXpTSdgJL4aiy6XX39ZD.jpg",
+    "airDate": "2003-09-04"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-2",
+    "title": "Love at First Flight",
+    "description": "The heroes spot a pair of Pokémon bowing to one another, as dance partners would, and begin flying around one another in a wide circle. Brock identifies them for what they are (Volbeat and Illumise), prompting May and Ash to pull out their Pokédexes: May's identifies Illumise, and Ash's Volbeat. The two Firefly Pokémon are still dancing about. While watching, a Nurse Joy greets the group, asking of they are here for the May Festival, for the dance performance of Illumise and Volbeat. She notes that it is almost time for the practice runs, and indicated two people standing out on the lake's pier, saying they are Volbeat and Illumise's Trainers, Romeo and Juliet.",
+    "number": "2",
+    "image": "https://image.tmdb.org/t/p/original/mOgB54EUObAt0drZvHUtojm36Su.jpg",
+    "airDate": "2003-09-11"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-3",
+    "title": "Let Bagons Be Bagons",
+    "description": "On the way to Fallarbor Town and May's next contest, Ash and co encounter a rare Bagon and its trainer, a girl named Michelle, who is trying hard to make Bagon's dream of flying high come true. So Ash challenges her to a battle to get it to evolve faster. Will his plan work? And what could Team Rocket do with a Bagon anyway?",
+    "number": "3",
+    "image": "https://image.tmdb.org/t/p/original/cKgkCGT6v5Xw0YJDxEpYjD3Fdvy.jpg",
+    "airDate": "2003-09-18"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-4",
+    "title": "The Princess and the Togepi",
+    "description": "Ash and co. reunite with their old friend Misty, who is happy to meet May and Max for the first time. Soon, they enter a kingdom dedicated to Togepi and soon meet Sara, princess of the Togepi Kingdom. Team Rocket also teams up with Colonel Hansen, who wants to rule the kingdom with an iron fist. What will happen to Togepi now, and has Max learned a way how to keep Brock from flirting with pretty girls?",
+    "number": "4",
+    "image": "https://image.tmdb.org/t/p/original/o37HbK99x1Hgqzn96X3DittNE4z.jpg",
+    "airDate": "2003-09-25"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-5",
+    "title": "A Togepi Mirage!",
+    "description": "During the reunion with their old friend Misty, Ash and co. discover Hansen wants to rule the Togepi Kingdom and the Mirage Kingdom. Will they be able to stop him, and will Misty say good-bye to the Pokémon she cared for so long?",
+    "number": "5",
+    "image": "https://image.tmdb.org/t/p/original/buenzoYwT3174t5ToMKHluifbDn.jpg",
+    "airDate": "2003-10-02"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-6",
+    "title": "Candid Camerupt!",
+    "description": "Being exhausted and tired, the heroes collapse in a desert. Soon, they wake up in a lodge, being rescued by the Winstrate family. The heroes ask what could they repay for the family's kindness. The family decides to battle Ash, May, Max and Brock, in honor of their eldest son, Vito, who is watching the battle and wondering what to do, since he gave up on his dream to become the Champion of Hoenn League.",
+    "number": "6",
+    "image": "https://image.tmdb.org/t/p/original/fpSph8j9Pm0XWmHfw42ffnuph4s.jpg",
+    "airDate": "2003-10-09"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-7",
+    "title": "I Feel Skitty!",
+    "description": "While doing her training with Beautifly, May's frisbee flies off. Torchic goes to retrieve the frisbee, but also finds a Skitty, who seems to be ill. May is amused by Skitty's cuteness and goes with her friends to a laboratory, where Skitty would recover through aromatherapy. Team Rocket plans on stealing the fragrances, but Meowth finds Skitty and falls in love with her. The heroes try to get the fragrances back, while Meowth starts wondering what he'll do with Skitty.",
+    "number": "7",
+    "image": "https://image.tmdb.org/t/p/original/bsO0IGNaTYVvo8HEkyiQwDJRbMt.jpg",
+    "airDate": "2003-10-16"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-8",
+    "title": "ZigZag Zangoose!",
+    "description": "Traveling on the road, the heroes encounter Nicholai, who had caught a Zangoose. While having a battle with Ash, Nicholai notices Zangoose is acting strange. Just then, Team Rocket appears, whose Seviper starts battling Zangoose and injures it. Due to Zangoose being Seviper's natural enemy, Ash decides to help Nicholai in training, to aid Zangoose in defeating Seviper.",
+    "number": "8",
+    "image": "https://image.tmdb.org/t/p/original/gv20JlFFoECm1DMgHAnYjPeY3wF.jpg",
+    "airDate": "2003-10-23"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-9",
+    "title": "Maxxed Out!",
+    "description": "Heading to Fallarbor City, the gang meet up with a trainer called Max who looks identical to Max. He is having trouble with his Surskit. However Max doesn't like or trust Max. Team Rocket have their eyes set on Max's Surskit. Can Max & Max protect the Surskit and overcome their differences?",
+    "number": "9",
+    "image": "https://image.tmdb.org/t/p/original/yXiuLFskS8UdoNELsfYayio7WeV.jpg",
+    "airDate": "2003-10-30"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-10",
+    "title": "Pros and Con Artists",
+    "description": "After arriving in Fallarbor Town, May starts doubting herself, seeing a lot of Coordinators that will participate, including Drew. However, the heroes meet Grace, a Coordinator, who gives May advice on the performances. May starts wondering what to do and tries to find an answer.",
+    "number": "10",
+    "image": "https://image.tmdb.org/t/p/original/AwqlgZnBuiDjaquUprr29qOO6Ln.jpg",
+    "airDate": "2003-11-06"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-11",
+    "title": "Come What May!",
+    "description": "May reaches the second round of the Contest and defeats Jessica (who is Jessie, in disguise). Seeing Grace had managed to defeat her rival, Drew, May wonders if she could defeat Grace. During the battle, however, May displays new tricks she learned from Grace.",
+    "number": "11",
+    "image": "https://image.tmdb.org/t/p/original/t91L5NuwTTADpAbFy3cxv6exxIE.jpg",
+    "airDate": "2003-11-13"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-12",
+    "title": "Cheer Pressure",
+    "description": "The heroes encounter Thatcher, the boy they helped at the lighthouse, who joined a band of cheerleaders, named Pep Squad. Team Rocket decides to ally themselves with the Pep Squad's leader, Sheridan, who gives them an advantage during their battle with Ash and Brock. However, Max starts having suspicions and goes to check out what is coming from the drums the squad is playing.",
+    "number": "12",
+    "image": "https://image.tmdb.org/t/p/original/wE1kqafRFRIiq9vovl1UNxVTifi.jpg",
+    "airDate": "2003-11-20"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-13",
+    "title": "Game Winning Assist",
+    "description": "After running away from some Slugma, the heroes find themselves on a ranch, owned by a girl named Julie. The heroes decide to spend some time at the ranch, while Julie offers a battle with May's Skitty, who got them in the trouble with the Slugma. Team Rocket attempts to steal the ranch's Numel and ends up capturing May and Skitty. To get out, May has to awaken Numel and has an idea with Skitty's Assist attack.",
+    "number": "13",
+    "image": "https://image.tmdb.org/t/p/original/oaw9vwwak9KF80M0nGwVk3Ystuu.jpg",
+    "airDate": "2003-11-27"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-14",
+    "title": "Fight for the Meteorite",
+    "description": "The heroes (and Team Rocket, who hope to catch their enemy, Pikachu) take a cable cart to Mount Chimney. However, the cart suddenly stops and without any technical help, Ash climbs to Mount Chimney to find some help. Instead, he finds Professor Cozmo, who tries to hide the meteorite from Team Magma, who want to use it for ill purposes. Ash and Professor Cozmo make a plan to stop Team Magma's plan and set it into action.",
+    "number": "14",
+    "image": "https://image.tmdb.org/t/p/original/hmQLPpDUM0WkJ459AKbFqS2gwJn.jpg",
+    "airDate": "2003-12-04"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-15",
+    "title": "Poetry Commotion!",
+    "description": "After Ash and Co. reach Lavaridge Town, they meet Flannery, the Gym Leader. Having just inherited the Gym from her grandfather and determined to prove her abilities, she is just as eager as Ash to battle, but the Gym's battlefield is full of holes and therefore cannot be used. Deciding to help, the gang are hard at work filling the holes. Meanwhile, Team Rocket are standing by ready to snatch one of Flannery's Pokémon, a Torkoal that they can give to their boss.",
+    "number": "15",
+    "image": "https://image.tmdb.org/t/p/original/ofjfH8DsgfBP864RSbbmQFAeaBo.jpg",
+    "airDate": "2003-12-11"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-16",
+    "title": "Going, Going, Yawn!",
+    "description": "Ash challenges Flannery to a Gym match. Ash hopes to have an easy fight by using Corphish. Flannery, despite sometimes acting a bit nervous, manages to display some clever moves to thwart Ash's tactics and sends Torkoal, who switches offense and defense, pushing Ash to his limits.",
+    "number": "16",
+    "image": "https://image.tmdb.org/t/p/original/8xZSp4PMDaKr4SRSHuDpOoTlrnu.jpg",
+    "airDate": "2003-12-18"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-17",
+    "title": "Going for a Spinda",
+    "description": "Ash decides to head to Petalburg City for his next Gym battle. On the road, the gang runs into a group of Spinda. A pretty girl named Claire approaches, and Brock's reaction to her scares all the Spinda away. She is looking for her lucky Spinda, which has a heart-shaped mark on its face. Ash and friends offer to help her.\r\n\r\nTeam Rocket tries to steal the Spinda using a vacuum, but the lucky Spinda fights back using Hypnosis and all of the Spinda escape. They also try disguising a Teddiursa (and later Meowth) as a Spinda to lure the real Spinda in, but fail.\r\n\r\nThe kids track the lucky Spinda down to a flower garden, where they are met by the Spinda's owner—Claire's fiancée, Kain. Brock's heart is broken.\r\n\r\nTeam Rocket shows up in a giant Spinda robot capable of repelling all the attacks of the Spinda. Brock sends out all of his Pokémon, and his Forretress destroys the robot using Explosion.\r\n\r\nAsh and friends wish Claire and Cain the best, and depart for Petalburg.",
+    "number": "17",
+    "image": "https://image.tmdb.org/t/p/original/iJNPs2FcNkVyQgr5aZxUq0BwJ7I.jpg",
+    "airDate": "2003-12-25"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-18",
+    "title": "All Torkoal, No Play",
+    "description": "On their way back to Mauville City, Ash and friends travel through the Valley of Steel, home of many different kinds of Steel Pokémon and a potential shortcut to Mauville City and then Petalburg City. On their way through, they come across a Torkoal being attacked by several Steel Pokémon. After using Pikachu to scare the Pokémon away, the Fire-type hears a noise, also scaring it off. Later, having reunited with Torkoal, Ash and friends become determined to help Torkoal defeat the Steelix that lords over the valley. Will they succeed in cutting through the valley unharmed or will the angry Steel-type block their way?",
+    "number": "18",
+    "image": "https://image.tmdb.org/t/p/original/g7G5Wa7LXBTdkPlELlyASsjJndg.jpg",
+    "airDate": "2004-01-08"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-19",
+    "title": "Manectric Charge",
+    "description": "Ash and friends return to Mauville City, where they encounter a carnival run by Team Rocket. They let all their Pokémon out to enjoy the festivities, and Team Rocket tries to steal them. Wattson and Watt arrive to help fight off the thieves, and after the battle Wattson's Electrike evolves into a Manectric.\r\n\r\nEveryone heads to the Mauville Gym for two practice battles. First up, May's Skitty faces off against Watt's Ampharos. Skitty is victorious with Assist, using Quick Attack and Double Slap in quick succession.\r\n\r\nMeanwhile, Team Rocket falls into Wattson's new improved Gym traps, eventually encountering a group of robotic Raikou that they mistake for the real thing.\r\n\r\nThe second battle is Ash's Torkoal versus Wattson's Manectric. Torkoal uses Overheat too many times, and Manectric takes out the Fire-type with a Charge/Thunder Wave combo.\r\n\r\nWatt tells May about a Pokémon Contest taking place in Verdanturf Town, so the kids make that their next destination.",
+    "number": "19",
+    "image": "https://image.tmdb.org/t/p/original/kDFBbIsxHRBmooxU9niVD4YuX56.jpg",
+    "airDate": "2004-01-15"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-20",
+    "title": "Delcatty Got Your Tongue",
+    "description": "After a battle with Team Rocket, May's Skitty accidentally inhales Torkoal's smoke. To cure her, the heroes go to a Pokémon Clinic, run by Dr. Abby. Abby, who manages to cure Skitty, is recognized by May as the Top Coordinator. Abby confirms this and even gives May some tips for Skitty before the Verdanturf Town's Contest. Team Rocket, however, plans on stealing Jonny, Dr. Abby's Delcatty.",
+    "number": "20",
+    "image": "https://image.tmdb.org/t/p/original/4vIHegT0iwrRSA9SWTMeN01cDTr.jpg",
+    "airDate": "2004-01-22"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-21",
+    "title": "Disaster of Disguise",
+    "description": "As the heroes arrive in Verdanturf Town, they meet up with Drew, who cannot participate in the upcoming Contest, since his Roselia has been defeated by the Phantom and his Dusclops. May is surprised and decides to train for the Contest. Just then, the Phantom appears, so Ash challenges him to a battle. However, a woman arrives and starts chasing the Phantom, but fails. In order to find more about the Phantom, the woman requests the heroes to unmask his identity.",
+    "number": "21",
+    "image": "https://image.tmdb.org/t/p/original/345QofUWwJrbReFlR1cnRXLTBNx.jpg",
+    "airDate": "2004-01-29"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-22",
+    "title": "Disguise Da Limit",
+    "description": "With Timmy participating in the Contest, May hopes to win her second ribbon. However, with May's Skitty's Blizzard not working properly, May starts worrying. Timmy, however, gets visited by his own mother, who watches her son's successes.",
+    "number": "22",
+    "image": "https://image.tmdb.org/t/p/original/bn6fkhR3JxsOIjarijhjPKqNRpw.jpg",
+    "airDate": "2004-02-05"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-23",
+    "title": "Take the Lombre Home",
+    "description": "The heroes, who are thirsty, wander the land. Brock shows them a spring, but it ran out of water. They go to the village, but find it deserted. Just as Lotad falls in a well and gets risen up, it evolves into a Lombre. Much to the heroes' surprise, the villagers start coming out of their houses and pray to Lombre and start cursing a Solrock, believing it is the reason for the local drought. In order to prove them wrong, the heroes decide to investigate.",
+    "number": "23",
+    "image": "https://image.tmdb.org/t/p/original/5S59Cg607n6AwTIoZQ9Toxd0SqX.jpg",
+    "airDate": "2004-02-12"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-24",
+    "title": "True Blue Swablu",
+    "description": "The heroes, who got lost in a forest, encounter a Swablu, who has its wing injured. Along with the help of a local ranger, Morita, May spends time with Swablu, who recovers and heals its wing. However, due to its trauma, Swablu cannot fly, so the heroes try certain ways to teach Swablu how to fly once more.",
+    "number": "24",
+    "image": "https://image.tmdb.org/t/p/original/ls6wsjqhsdlBH2zYQQjvI5HKR3S.jpg",
+    "airDate": "2004-02-19"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-25",
+    "title": "Gulpin it Down!",
+    "description": "During a break, the heroes get their lunch eaten by a Gulpin. They soon find out a group of Gulpin is eating away the food supplies in the city. They contact Nurse Joy and Officer Jenny, who receive help from Professor Jacuzzi, who decides to stop the Gulpin. After driving off the Gulpin, the professor uses a machine to launch Gulpin away. However, the machine malfunctions and oversizes Gulpin and Ash's Treecko, who battled the former.",
+    "number": "25",
+    "image": "https://image.tmdb.org/t/p/original/ykmBe5A6aF360KUyaUVd1CJklDr.jpg",
+    "airDate": "2004-02-26"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-26",
+    "title": "Exploud and Clear",
+    "description": "Ash and friends are eating lunch in the woods when they notice that Treecko has wandered off. After failing to convince the Grass-type to come down from a tree, lunch is disrupted by a rampaging Loudred. Its Trainer, Guy finally catches up with his Pokémon and makes it stop.\r\n\r\nAsh and Guy decide that both troublesome Pokémon need exercise, so they battle. While battling, both Pokémon evolve at the same time, into Exploud and Grovyle. The battle continues, but Exploud won't listen to Guy. It hits Grovyle hard and runs off.\r\n\r\nGrovyle catches up with Exploud at a waterfall, and the two begin to battle again. Exploud still won't listen to Guy. Team Rocket interrupts, trying to capture Exploud, but Guy protects his Pokémon. Pikachu and Exploud send Team Rocket blasting off.\r\n\r\nGuy and Exploud reconcile, and Ash and Guy decide to finish the battle.",
+    "number": "26",
+    "image": "https://image.tmdb.org/t/p/original/lMYOw6hYoHU7qUb98IweSy3PPF5.jpg",
+    "airDate": "2004-03-04"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-27",
+    "title": "Go Go Ludicolo!",
+    "description": "While having sandwiches for lunch, the heroes are visited by a man named Poncho and his Ludicolo. They challenge Ash to a battle, who bets his sandwiches with Poncho, who is to buy cheeseburgers if Poncho loses. Corphish volunteers for the battle, but it seems distracted and eventually loses. This infuriates Corphish even more, who runs off while the heroes try to find out why Corphish is angry.",
+    "number": "27",
+    "image": "https://image.tmdb.org/t/p/original/ok5OZeDH75TR2nZ27jiAtfLoLTj.jpg",
+    "airDate": "2004-03-11"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-28",
+    "title": "A Double Dilemma",
+    "description": "As the heroes arrive to Petalburg City, May and Max are visited by the crowd, who like Norman, Caroline and their children. While Max and May are dealing with the crowd and Ash battles a lot of trainers to prove he is worthy to challenge Norman, Team Rocket decides to disguise themselves to take profit from the situation.",
+    "number": "28",
+    "image": "https://image.tmdb.org/t/p/original/t7rwyFjyFbrWK35HTyRPuKzyha.jpg",
+    "airDate": "2004-03-18"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-29",
+    "title": "Love, Petalburg Style!",
+    "description": "Just as the heroes return to Petalburg City, Ash goes to the Pokémon Center to get ready for his Gym match, where he encounters Norman talking with Nurse Joy. Back home, May and Max, along with Brock, meet up with Kenny, who reports trouble. Caroline, Norman's wife, greets them as well, but something troubles her as well. Deciding enough is enough, Caroline goes with her children, as well as Kenny and Brock, to face Norman, who is hiding something. Ash, however, is at the greenhouse with Norman's Pokémon and faces Team Rocket, who want to steal them.",
+    "number": "29",
+    "image": "https://image.tmdb.org/t/p/original/oOZqT4gRc5sCQj3ACdcZa65N7qt.jpg",
+    "airDate": "2004-03-25"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-30",
+    "title": "Balance of Power",
+    "description": "Ash faces Norman in a Gym battle. Norman switches offense and defense to baffle Ash, who tries to overcome this trial, having his Pokémon use abilities in the battle. After the battle, however, Max becomes upset over something.",
+    "number": "30",
+    "image": "https://image.tmdb.org/t/p/original/3IsuW3zRzV0yOVVXXCBsNGKyl4i.jpg",
+    "airDate": "2004-04-01"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-31",
+    "title": "A Six Pack Attack!",
+    "description": "The heroes decide to stop at Professor Birch's lab. Hearing Professor Oak will come to the lab as well, Ash and Brock decide to accompany Birch to escort Oak to the lab. However, Professor Oak arrives by a cart and greets May and Max, the latter being a big fan of his. Once Team Rocket steals Birch and Oak's Pokémon, May, Max and Professor Oak decide to go after them and rescue the Pokémon on their own.",
+    "number": "31",
+    "image": "https://image.tmdb.org/t/p/original/4R4XFJ8hGWVAGX5MpjiQGJyy1ue.jpg",
+    "airDate": "2004-04-08"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-32",
+    "title": "The Bicker the Better",
+    "description": "Due to May being late, Ash is outraged, since he wants to go to Fortree City as quickly as possible. May becomes angry as well and soon, Ash and May are challenged by a couple named Oscar and Andi. Even during the battle, Ash and May bicker at each other, causing them to lose. Team Rocket gets challenged as well, causing Jessie and James to annoy each other. Just as they meet up with the twerps, James sides with Ash and Jessie with May to have another Tag Battle, which displeases Brock, Max, Pikachu and Meowth who just want the feud to end.",
+    "number": "32",
+    "image": "https://image.tmdb.org/t/p/original/88Bo1Ajd95Qxiyj2Zm6NU8bV8Tx.jpg",
+    "airDate": "2004-04-15"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-33",
+    "title": "Grass Hysteria!",
+    "description": "The heroes get lost in a forest. Just then, May gets taken away by a Skarmory. As Ash, Brock and Max try to get May out of the forbidden area, May befriends a Bulbasaur, but the other Grass-type Pokémon start attacking her.",
+    "number": "33",
+    "image": "https://image.tmdb.org/t/p/original/dATWI5fMVygFy0lKVTINJynT1cH.jpg",
+    "airDate": "2004-04-22"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-34",
+    "title": "Hokey Poké Balls!",
+    "description": "With Bulbasaur being in May's team, Ash decides to call his own Bulbasaur to meet up. However, Team Rocket has modified the transporting machine, causing them to obtain the Poké Balls that are being transported. While Team Rocket blasts off during the battle, they manage to steal the Poké Balls. Fortunately, Ash's Bulbasaur returns and teams up with May's Bulbasaur to find Team Rocket.",
+    "number": "34",
+    "image": "https://image.tmdb.org/t/p/original/xWoFadshXJN9XlPtNUlaMwKEp0g.jpg",
+    "airDate": "2004-04-29"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-35",
+    "title": "Whiscash and Ash",
+    "description": "While resting by a lake with his friends, Ash polishes his Badge Case and remembers all the Gym Battles he's won so far. Suddenly, a wild Whiscash jumps out and eats the case. Ash dives in to go after it to get his badges back, but nearly drowns. He is saved by a Fishing Master named Sullivan who has spent years trying to catch the giant Whiscash. Determined to retrieve the badges, Ash and the others start fishing. Meanwhile, Team Rocket are also trying to get a hold of the same Whiscash.",
+    "number": "35",
+    "image": "https://image.tmdb.org/t/p/original/d6zL5CE2t9zSWFd7mQqH4MsGYOE.jpg",
+    "airDate": "2004-05-06"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-36",
+    "title": "Me, Myself and Time",
+    "description": "While separated from his friends, Ash encounters a girl and her Baltoy. He learns they were called to meet someone at a set of ruins, and her Baltoy is a key.",
+    "number": "36",
+    "image": "https://image.tmdb.org/t/p/original/wtZUWdohsglf4OdOJ3mJPcGXceS.jpg",
+    "airDate": "2004-05-13"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-37",
+    "title": "A Fan with a Plan!",
+    "description": "Arriving in Rubello Town, May finds Drew, who is going to participate in the Contest. She also meets Savannah, a wife, who is going to participate in the Contest. However, Savannah becomes nervous and asks for help from May, who has decided to use Bulbasaur, even if she didn't train it much. Since she can't compete without a ribbon, Jessie plans on stealing some.",
+    "number": "37",
+    "image": "https://image.tmdb.org/t/p/original/oa2U63yeKvcHvNtADvXzibJ3D68.jpg",
+    "airDate": "2004-05-20"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-38",
+    "title": "Cruisin' for a Losin'",
+    "description": "May, confident in her Pokémon, enters the Rubello Contest with Drew and Savannah. While all three manage to pass the first round, May's Bulbasaur becomes nervous, which shakes May's victory. May tries to get Bulbasaur to battle, but this does not impress the judges or her friends when she takes her wins for granted instead of showing concern for her Pokémon's health.",
+    "number": "38",
+    "image": "https://image.tmdb.org/t/p/original/7l7XGBghRUrwaWWSr20Qbysd2JY.jpg",
+    "airDate": "2004-05-27"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-39",
+    "title": "Pearls are a Spoink's Best Friend",
+    "description": "Continuing their journey to Fortree City, Ash and friends come across a Spoink, who is upset after losing the Pearl it keeps on the top of its head. After Spoink tries to put on a couple of round Pokémon on its head, the Pearl is found. However, during a Team Rocket encounter, they steal the Pearl. After coming across a fair, James is approached by the same Magikarp Salesman who has made his life miserable in the past and offers to trade a Feebas for the Pearl. After discovering Feebas evolves into Milotic, Team Rocket agrees. However, when they let their new Feebas out to have a swim in a nearby river, they discover the Feebas is just a Magikarp painted with a Feebas' colors, meaning they have been swindled yet again. After Ash and the others find out what happened, they have to get Spoink's Pearl back by finding the Magikarp Salesman before Team Rocket do.",
+    "number": "39",
+    "image": "https://image.tmdb.org/t/p/original/caJqL7Gt32zTaDcc3uftkd0SJpH.jpg",
+    "airDate": "2004-06-03"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-40",
+    "title": "That's Just Swellow",
+    "description": "As they arrive to Crossgate Town, the heroes learn there is a tournament involving Flying-type Pokémon. May, Ash and, surprisingly, James, enter the competition. Just as James and Ash advance to next rounds, Jessie and Meowth decide to make another attempt at stealing Pokémon.",
+    "number": "40",
+    "image": "https://image.tmdb.org/t/p/original/4GzBlAYOcQhR32z0SkhVHvyVIS0.jpg",
+    "airDate": "2004-06-10"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-41",
+    "title": "Take This House and Shuppet",
+    "description": "The heroes and Team Rocket, after another clash, have gone to the mansion. There, May argues with Max, who runs off and meets a Shuppet. Due to his fight with his sister, Max decides to play a prank on her, Ash and Brock with Shuppet. However, Team Rocket arrives and stirs trouble.",
+    "number": "41",
+    "image": "https://image.tmdb.org/t/p/original/qYq9PJgOK4CXSHfv6bynRH4yTdd.jpg",
+    "airDate": "2004-06-17"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-42",
+    "title": "A Shroomish Skirmish",
+    "description": "As the heroes have a meal, Torchic and Corphish start fighting. As Ash and May try to calm them down, Team Rocket arrives, and so do some Breloom, from whom they stole some apples from. The Breloom attack and blast everyone away, causing everyone to get separated. Max, Meowth, Torchic and Corphish try to find others and come to dead end, where they face the Breloom once more. Corphish decides to protect Torchic, who gathers all of its bravery to attack.",
+    "number": "42",
+    "image": "https://image.tmdb.org/t/p/original/mtCyj7zkZubuMOHgkeQVNTPyYJn.jpg",
+    "airDate": "2004-06-24"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-43",
+    "title": "Unfair Weather Friends",
+    "description": "The heroes spend a day at the Weather Research Institute. Just then, Team Aqua, with Shelly as the commander, arrive to gather information about Legendary Pokémon. The heroes make a plan to protect the data, but an unexpected betrayal is among the scientists.",
+    "number": "43",
+    "image": "https://image.tmdb.org/t/p/original/eTrjZQVONS01jjfeW1zq1Xg4A40.jpg",
+    "airDate": "2004-07-01"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-44",
+    "title": "Who's Flying Now?",
+    "description": "After the events that transpired at the Weather Institute, Ash and co. finally arrive at Fortree City. Ash couldn't wait to challenge the Gym Leader, sadly the Gym Leader is helping with the Feather Carnival. Later they meet the Gym Leader, Winona, who scheduled in Ash's request for a Gym Battle, but in the meantime they should have some fun. Meanwhile, Team Rocket has plans of their own. What sinister plot are they up to this time, and why does the carnival bring back such bad memories for James?",
+    "number": "44",
+    "image": "https://image.tmdb.org/t/p/original/nR4q61Znn8ikgiYJatxYkwOo5Lt.jpg",
+    "airDate": "2004-07-08"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-45",
+    "title": "Sky High Gym Battle!",
+    "description": "The time has come once more. Ash is ready to have his Gym Battle with Winona. Before the battle starts she evokes a prayer to all Flying Pokémon to give her strength. And now the battle begins. Will Ash fly high in the sky or will he crash and burn?",
+    "number": "45",
+    "image": "https://image.tmdb.org/t/p/original/1S4FzT3SPFTHea5rhvssQtfu5Yb.jpg",
+    "airDate": "2004-07-15"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-46",
+    "title": "Lights, Camerupt, Action!",
+    "description": "As the heroes continue onwards, they encounter a man pushing his Camerupt. After helping the man, the heroes are told the man, named Elijah, goes around villages and shows movies. The heroes decide to accompany them, while Team Rocket plans on stealing his equipment.",
+    "number": "46",
+    "image": "https://image.tmdb.org/t/p/original/8UgPKLrCHzsIfJIPQi1caWhM7Yy.jpg",
+    "airDate": "2004-07-22"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-47",
+    "title": "Crazy as a Lunatone",
+    "description": "The heroes arrive in a deserted town and get rejected by Nurse Joy to stay in her Pokémon Center. They soon find out the PMC, Ken and Mary, whom Ash and Brock encountered in Johto, are here after a mysterious Pokémon. Arriving in the Pokémon Center, the heroes encounter Team Rocket, as well as the mysterious Pokémon, Lunatone. They soon find out Lunatone is weak and can be restored if it sees moonlight beams. While the heroes go to the place to heal Lunatone, they encounter the PMC guys again",
+    "number": "47",
+    "image": "https://image.tmdb.org/t/p/original/iZcZRpezuepr1XyPQ48TLxmC3HY.jpg",
+    "airDate": "2004-07-29"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-48",
+    "title": "The Garden of Eatin'",
+    "description": "The heroes come into the Banana Slakoth Garden, a famous tourist spot. However, they find it empty, save for a Snorlax, who is eating away the bananas. Marcel asks for their help and the heroes accept it. However, when they face Snorlax, it uses Yawn, putting everyone to sleep. To battle against such a foe, the heroes speak with Professor Oak, who shares some tips.",
+    "number": "48",
+    "image": "https://image.tmdb.org/t/p/original/ajER2Gy2S98hV3xAAyj5mB8aQNR.jpg",
+    "airDate": "2004-08-05"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-49",
+    "title": "A Scare to Remember!",
+    "description": "After another encounter with Team Rocket, Ash loses Pikachu. Pikachu, however, has hit his head and suffers from amnesia and is found by Meowth. Meowth takes the opportunity and states Pikachu was one of Team Rocket members. Pikachu starts believing and once Ash comes to him, Pikachu turns his back on him. Ash, however, does not give up on Pikachu and tries to find a way to bring his memories back.",
+    "number": "49",
+    "image": "https://image.tmdb.org/t/p/original/gPaYMYSPeyeHf4K6Heu9MTIbm8m.jpg",
+    "airDate": "2004-08-12"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-50",
+    "title": "Pokéblock, Stock, and Berry",
+    "description": "As they arrive in Lilycove City, the heroes meet Kelly, a fellow Coordinator, who knows how to make good Pokéblocks. As Max stays with Ash, who wants to teach Swellow Aerial Ace, Brock goes with May, who wants to learn more about Pokéblocks from Kelly.",
+    "number": "50",
+    "image": "https://image.tmdb.org/t/p/original/bimpqc5oB1G8ZY1c6Jz6gWOdapM.jpg",
+    "airDate": "2004-08-19"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-51",
+    "title": "Lessons in Lilycove",
+    "description": "May's Combusken manages to control the Fire Spin attack it launched. Through luck, May enters the next round with Kelly and fights Josaphine. In the final round, Kelly battles May, who has a tactic to overcome Grumpig's psychic powers. Just as Grumpig and Combusken are to fall down, May makes an honorable gesture. Meanwhile, Ash misses the contest to help his Swellow learn Aerial Ace.",
+    "number": "51",
+    "image": "https://image.tmdb.org/t/p/original/wqFvBWTP8zYSurXy8KgAJdaCFqG.jpg",
+    "airDate": "2004-08-26"
+},
+{
+    "id": "/pokemon-advanced-challenge-episode-52",
+    "title": "Judgment Day",
+    "description": "Due to a mistake, the heroes sail away to an island, with their actual destination being Mossdeep City. On the island, they find Jimmy, who trains to become a judge. With teacher Serena's help, Jimmy tries to be the referee of a Double Battle of Ash vs. Brock. After the battle, Jimmy recalls his past before he has to rescue his Pokémon, who were stolen by Team Rocket.",
+    "number": "52",
+    "image": "https://image.tmdb.org/t/p/original/6haUQmmDfCRJClfyY9PHAJ1lqkC.jpg",
+    "airDate": "2004-09-02"
+}]
 }
