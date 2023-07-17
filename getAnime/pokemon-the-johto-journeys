@@ -960,211 +960,332 @@
       "rating": 65
     }
   ],
-  "episodes": [
-    {
-      "id": "pokemon-the-johto-journeys-episode-1",
-      "title": "Pokémon: The Johto Journeys Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-2",
-      "title": "Pokémon: The Johto Journeys Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-3",
-      "title": "Pokémon: The Johto Journeys Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-4",
-      "title": "Pokémon: The Johto Journeys Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-5",
-      "title": "Pokémon: The Johto Journeys Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-6",
-      "title": "Pokémon: The Johto Journeys Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-7",
-      "title": "Pokémon: The Johto Journeys Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-8",
-      "title": "Pokémon: The Johto Journeys Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-9",
-      "title": "Pokémon: The Johto Journeys Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-10",
-      "title": "Pokémon: The Johto Journeys Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-11",
-      "title": "Pokémon: The Johto Journeys Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-12",
-      "title": "Pokémon: The Johto Journeys Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-13",
-      "title": "Pokémon: The Johto Journeys Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-14",
-      "title": "Pokémon: The Johto Journeys Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-15",
-      "title": "Pokémon: The Johto Journeys Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-16",
-      "title": "Pokémon: The Johto Journeys Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-17",
-      "title": "Pokémon: The Johto Journeys Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-18",
-      "title": "Pokémon: The Johto Journeys Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-19",
-      "title": "Pokémon: The Johto Journeys Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-20",
-      "title": "Pokémon: The Johto Journeys Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-21",
-      "title": "Pokémon: The Johto Journeys Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-22",
-      "title": "Pokémon: The Johto Journeys Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-23",
-      "title": "Pokémon: The Johto Journeys Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-24",
-      "title": "Pokémon: The Johto Journeys Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-25",
-      "title": "Pokémon: The Johto Journeys Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-26",
-      "title": "Pokémon: The Johto Journeys Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-27",
-      "title": "Pokémon: The Johto Journeys Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-28",
-      "title": "Pokémon: The Johto Journeys Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-29",
-      "title": "Pokémon: The Johto Journeys Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-30",
-      "title": "Pokémon: The Johto Journeys Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-31",
-      "title": "Pokémon: The Johto Journeys Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-32",
-      "title": "Pokémon: The Johto Journeys Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-33",
-      "title": "Pokémon: The Johto Journeys Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-34",
-      "title": "Pokémon: The Johto Journeys Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-35",
-      "title": "Pokémon: The Johto Journeys Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-36",
-      "title": "Pokémon: The Johto Journeys Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-37",
-      "title": "Pokémon: The Johto Journeys Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-38",
-      "title": "Pokémon: The Johto Journeys Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-39",
-      "title": "Pokémon: The Johto Journeys Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-40",
-      "title": "Pokémon: The Johto Journeys Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-the-johto-journeys-episode-41",
-      "title": "Pokémon: The Johto Journeys Episode 41",
-      "number": 41
-    }
-  ]
+  "episodes": [{
+    "id": "/pokemon-the-johto-journeys-episode-1",
+    "title": "Don't Touch That 'dile",
+    "description": "Ash begins his journey in Johto, a largely unexplored region said to be thickly populated with Pokémon entirely new to him and his friends.",
+    "number": "1",
+    "image": "https://image.tmdb.org/t/p/original/3OGlJuhB8xXOnzRRZZyRjAJ1Udm.jpg",
+    "airDate": "1999-10-14"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-2",
+    "title": "The Double Trouble Header",
+    "description": "In a Pokémon battle, Ash soundly defeats an ambitious young Trainer, who runs away dejectedly.",
+    "number": "2",
+    "image": "https://image.tmdb.org/t/p/original/hU5CduPgpZ1Z2KcPbNAX9UmDSMQ.jpg",
+    "airDate": "1999-10-21"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-3",
+    "title": "A Sappy Ending",
+    "description": "Ash and friends discover a forest where invading Pinsir are causing heavy deforestation.",
+    "number": "3",
+    "image": "https://image.tmdb.org/t/p/original/g9VJRexorWTZuvZrwgRVpeG1FWn.jpg",
+    "airDate": "1999-10-28"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-4",
+    "title": "Roll On, Pokémon!",
+    "description": "Ash and friends stumble into a small valley where Donphan are used to harvest precious stones.",
+    "number": "4",
+    "image": "https://image.tmdb.org/t/p/original/iMpecSroRsBO30Q5Xy2EWLpljuh.jpg",
+    "airDate": "1999-11-04"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-5",
+    "title": "Illusion Confusion!",
+    "description": "Who would be foolish enough to brave a thick forest in the dead of night without a Hoothoot guide? Certainly not Ash Ketchum...",
+    "number": "5",
+    "image": "https://image.tmdb.org/t/p/original/zP1QcQYc079UUlEG3wqkoJ7vAMQ.jpg",
+    "airDate": "1999-11-11"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-6",
+    "title": "Flower Power",
+    "description": "Our heroes must help prepare an insecure Bellossom dance troupe for their upcoming exhibition.",
+    "number": "6",
+    "image": "https://image.tmdb.org/t/p/original/gadYYbDOCly2RInxQ13zAew1cgf.jpg",
+    "airDate": "1999-11-18"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-7",
+    "title": "Spinarak Attack",
+    "description": "Ash and friends reach a new town and hear of three mysterious robbers apparently mimicking the crimes of a legendary master thief.",
+    "number": "7",
+    "image": "https://image.tmdb.org/t/p/original/iHgEJrjQ1fhwQCWn8V37mukiSAd.jpg",
+    "airDate": "1999-11-25"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-8",
+    "title": "Snubbull Snobbery",
+    "description": "With pet food prepared by a French chef, rooms of WalkMaster exercise equipment and closets stocked with the latest in Pokémon fashion, life couldn't be much better for a Palm Hills Snubbull.",
+    "number": "8",
+    "image": "https://image.tmdb.org/t/p/original/6nHuWPnNkmKdxcpSxPp55qhc76g.jpg",
+    "airDate": "1999-12-02"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-9",
+    "title": "The Little Big Horn",
+    "description": "Brock saves a lost and frightened Stantler fawn and carefully nurses it back to health before releasing it.",
+    "number": "9",
+    "image": "https://image.tmdb.org/t/p/original/5VnnA8uJIKvP0H4eArxj57EvpjZ.jpg",
+    "airDate": "1999-12-09"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-10",
+    "title": "The Chikorita Rescue",
+    "description": "Ash encounters a wild Chikorita and engages it in battle, thinking to add it to his team.",
+    "number": "10",
+    "image": "https://image.tmdb.org/t/p/original/lFcPV6NrsTIiKLJ98LdI3EbMy8P.jpg",
+    "airDate": "1999-12-16"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-11",
+    "title": "Once in a Blue Moon",
+    "description": "Professor Oak's errand—to deliver the mysterious GS Ball to a Poké Ball expert—is interrupted when a Quagsire with a penchant for spherical objects steals the GS ball for use in a nocturnal ritual.",
+    "number": "11",
+    "image": "https://image.tmdb.org/t/p/original/b3uQpuO8u5Q2m1X4Auu4oFyMK6l.jpg",
+    "airDate": "1999-12-23"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-12",
+    "title": "The Whistle Stop",
+    "description": "When Team Rocket attacks Ash and his friends, a brave young Trainer and her flock of Ledyba come to the rescue.",
+    "number": "12",
+    "image": "https://image.tmdb.org/t/p/original/cYm0vNwXVxpqwgrV8AXlo3AELhH.jpg",
+    "airDate": "2000-01-01"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-13",
+    "title": "Ignorance Is Blissey",
+    "description": "Team Rocket can't believe their luck when the Blissey employed in a Pokémon Center willingly gives them the cente's entire food supply.",
+    "number": "13",
+    "image": "https://image.tmdb.org/t/p/original/21kfPcgoXB9hLIO4EoEq4GSP6O6.jpg",
+    "airDate": "2000-01-06"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-14",
+    "title": "A Bout With Sprout",
+    "description": "Our heroes are recruited as guest instructors at a youth Pokémon Academy.",
+    "number": "14",
+    "image": "https://image.tmdb.org/t/p/original/eQNHeWYeESGP5CIF3YTVTq8Em6o.jpg",
+    "airDate": "2000-01-13"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-15",
+    "title": "Fighting Flyer With Fire",
+    "description": "With Pikachu's help, Ash is confident that winning the Zephyr badge will be a breeze.",
+    "number": "15",
+    "image": "https://image.tmdb.org/t/p/original/3sOosLYqNgpubw9CXrhi2y04rTR.jpg",
+    "airDate": "2000-01-20"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-16",
+    "title": "For Crying Out Loud",
+    "description": "Cute and cuddly is one thing, but a bawling Marill is too much even for Misty.",
+    "number": "16",
+    "image": "https://image.tmdb.org/t/p/original/4po9WNm4hhq9DgIMpmYiWoqiJBu.jpg",
+    "airDate": "2000-01-27"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-17",
+    "title": "Tanks a Lot!",
+    "description": "Team Rocket's most recent super vehicle, the Arbotank, is their ticket to world domination.",
+    "number": "17",
+    "image": "https://image.tmdb.org/t/p/original/lnpNdDcvFhq9h7R97Mn3VWmVqYo.jpg",
+    "airDate": "2000-02-03"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-18",
+    "title": "Charizard's Burning Ambitions",
+    "description": "When Ash hears of the nearby Charicific Valley, he is sure a quick trip would be just the thing to reignite his Charizard's flagging spirits.",
+    "number": "18",
+    "image": "https://image.tmdb.org/t/p/original/zvOquZk2I73mOprdF2lj14nxeHu.jpg",
+    "airDate": "2000-02-10"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-19",
+    "title": "Grin to Win!",
+    "description": "The annual Sunflora contest is only a day away and yet our hero's new friend and Sunflora Trainer is unable to convince her star Pokémon to compete.",
+    "number": "19",
+    "image": "https://image.tmdb.org/t/p/original/fdwCXTO5YmZFXxxO9el8cD9XCev.jpg",
+    "airDate": "2000-02-17"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-20",
+    "title": "Chikorita's Big Upset",
+    "description": "A severe case of rivalry between Pikachu and Chikorita calls for therapy sessions with Nurse Joy.",
+    "number": "20",
+    "image": "https://image.tmdb.org/t/p/original/eEAgZwQHAUrGDoCJywsuy8zMSRw.jpg",
+    "airDate": "2000-02-24"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-21",
+    "title": "Foul Weather Friends",
+    "description": "Our heroes chance upon a Hoppip—the fluffy \"Cottonweed\" Pokémon that is able to drift for miles on a passing wind.",
+    "number": "21",
+    "image": "https://image.tmdb.org/t/p/original/44dFLRWoJlIKNDncUTrOPf6kNbP.jpg",
+    "airDate": "2000-03-02"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-22",
+    "title": "The Superhero Secret",
+    "description": "When Ash and friends wander into town, they bring with them a challenge that threatens to be Gligarman's last—Team Rocket.",
+    "number": "22",
+    "image": "https://image.tmdb.org/t/p/original/cp1WnZ00Cd68IrwsW4NVYgjiv1W.jpg",
+    "airDate": "2000-03-09"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-23",
+    "title": "Mild 'n Wooly",
+    "description": "Team Rocket comes in sheep's clothing to relieve a kind Poké-shepherd of her Mareep flock.",
+    "number": "23",
+    "image": "https://image.tmdb.org/t/p/original/gl8BBO0Tz1UB9MJ2Rw8p5E6moqw.jpg",
+    "airDate": "2000-03-16"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-24",
+    "title": "Wired for Battle!",
+    "description": "When the most promising trainee at a Pokémon dojo abandons battle altogether, it's up to Ash and friends to convince him that battling is more than just a matter of probability.",
+    "number": "24",
+    "image": "https://image.tmdb.org/t/p/original/leRqqeEKsOeuSHmAQcEDtUH1zk3.jpg",
+    "airDate": "2000-03-23"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-25",
+    "title": "Good 'Quil Hunting",
+    "description": "With Charizard gone and no fire Pokémon to call his own, Ash is overjoyed to come across a Cyndaquil in the wild.",
+    "number": "25",
+    "image": "https://image.tmdb.org/t/p/original/znNLcuhu6Wlpry6YPdiYhcJMw30.jpg",
+    "airDate": "2000-03-30"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-26",
+    "title": "A Shadow of a Drought",
+    "description": "Ash carelessly makes enemies of the Slowpoke-worshipping residents of a town.",
+    "number": "26",
+    "image": "https://image.tmdb.org/t/p/original/6XWLd0cH1cj8jAEz6yTewKJ8Xmb.jpg",
+    "airDate": "2000-04-06"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-27",
+    "title": "Going Apricorn!",
+    "description": "Ash delivers the mysterious GS Ball to a renowned Pokémon expert, but Team Rocket wreaks trouble when they attempt to harvest the Apricorns essential to local Poké Ball production.",
+    "number": "27",
+    "image": "https://image.tmdb.org/t/p/original/mLfHKn3BzzQiIv1E0Mqlyt8TwbM.jpg",
+    "airDate": "2000-04-13"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-28",
+    "title": "Gettin' the Bugs Out",
+    "description": "When Ash reaches the Hive Gym, he has just the Pokémon to challenge the Gym Leader's Bug Pokémon.",
+    "number": "28",
+    "image": "https://image.tmdb.org/t/p/original/6VvBDWyJpIyZZmreH7tVAN9Q7oC.jpg",
+    "airDate": "2000-04-20"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-29",
+    "title": "A Farfetch'd Tale",
+    "description": "An inexperienced young Trainer mistakenly scares off his own Farfetch'd.",
+    "number": "29",
+    "image": "https://image.tmdb.org/t/p/original/n1Ue0XkysqPcc3xXhh4kdcx0HpA.jpg",
+    "airDate": "2000-04-27"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-30",
+    "title": "Tricks of the Trade",
+    "description": "At the Pokémon Swap Meet, our heroes befriend a young Pokémon trainer who's having difficulties finding a trading partner willing to accept his Wobbuffet. When Jessie inadvertently deposits her Poké Ball across from his in the exchanger, this young trainer gets more than he had bargained for.",
+    "number": "30",
+    "image": "https://image.tmdb.org/t/p/original/k0jXS3vvg8pQIh2iVkqkc8QIXi8.jpg",
+    "airDate": "2000-05-04"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-31",
+    "title": "The Fire-ing Squad!",
+    "description": "Rocket attempts to steal all the water Pokémon from the annual Fire and Rescue Grand Prix.",
+    "number": "31",
+    "image": "https://image.tmdb.org/t/p/original/b2Z2eBdNl2wMNixRjM78xpnCQWE.jpg",
+    "airDate": "2000-05-11"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-32",
+    "title": "No Big Woop!",
+    "description": "Ash and friends enthusiastically volunteer to watch over a troubled trainer's school of Wooper.",
+    "number": "32",
+    "image": "https://image.tmdb.org/t/p/original/7BvYFKwwAILuKFsoi3ELrKUDAMn.jpg",
+    "airDate": "2000-05-18"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-33",
+    "title": "Tunnel Vision",
+    "description": "While Ash and friends deliberate on how to pass through a tunnel replete with Onix, two wandering Pokémon arrive on the scene together.",
+    "number": "33",
+    "image": "https://image.tmdb.org/t/p/original/uNGFum6kbGaQpG0GLNQkF3Gpcry.jpg",
+    "airDate": "2000-05-25"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-34",
+    "title": "Hour of the Houndour",
+    "description": "Investigating a string of mysterious thefts, our heroes discover a pack of Houndour, struggling to survive in the wild.",
+    "number": "34",
+    "image": "https://image.tmdb.org/t/p/original/5l1HWL8yClHR3jaxx9So6YWYYyz.jpg",
+    "airDate": "2000-06-01"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-35",
+    "title": "The Totodile Duel",
+    "description": "Ash and Misty's friendly rivalry is tested when they both try to capture a Totodile at the same time. Unable to determine whose Poké Ball had captured the wild Pokémon, the two must battle it out to determine the Totodile's new master.",
+    "number": "35",
+    "image": "https://image.tmdb.org/t/p/original/oVvFNBFUwyO0mDueh2iq9hEXEBM.jpg",
+    "airDate": "2000-06-08"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-36",
+    "title": "Hot Matches!",
+    "description": "When Ash and friends hear of a virtually undefeatable trainer operating nearby, they seek her out.",
+    "number": "36",
+    "image": "https://image.tmdb.org/t/p/original/7njPh4qzIQaJ2jqQMjcIEcwIZuj.jpg",
+    "airDate": "2000-06-15"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-37",
+    "title": "Love, Totodile Style",
+    "description": "Ash's Totodile falls head over tail for a passing Azumarill, but is still unsuccessful in having its feelings requited when Team Rocket kidnap the Pokémon before Totodile's eyes.",
+    "number": "37",
+    "image": "https://image.tmdb.org/t/p/original/d3o1mM9EnBvI3Jibo8eUJi2Qhu4.jpg",
+    "airDate": "2000-06-22"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-38",
+    "title": "Fowl Play!",
+    "description": "Ash has his sights set on a rare and brightly-colored Noctowl.",
+    "number": "38",
+    "image": "https://image.tmdb.org/t/p/original/kbs5JbIaFUrSzAddTCCldzBqGxi.jpg",
+    "airDate": "2000-06-29"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-39",
+    "title": "Forest Grumps",
+    "description": "When an Ursaring attack leaves Team Rocket and our heroes in compromising positions, compromise they do, members of each team being paired with members of the other.",
+    "number": "39",
+    "image": "https://image.tmdb.org/t/p/original/jLdvt4mPSa6zHNJ2gJnBlfI5cHx.jpg",
+    "airDate": "2000-07-06"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-40",
+    "title": "The Psychic Sidekicks!",
+    "description": "Our heroes come to a town whose residents all raise Psychic Pokémon to repel the Ghost Pokémon that lurk nearby",
+    "number": "40",
+    "image": "https://image.tmdb.org/t/p/original/uUGuSFOT2XHOFrQnmSrannFXsVM.jpg",
+    "airDate": "2000-07-13"
+},
+{
+    "id": "/pokemon-the-johto-journeys-episode-41",
+    "title": "The Fortune Hunters",
+    "description": "A Pokémon Fortune Telling boom turns out to be a Team Rocket plot to steal Pokémon from local trainers.",
+    "number": "41",
+    "image": "https://image.tmdb.org/t/p/original/myJg06UKjcLUwE4soGXhu7a08p9.jpg",
+    "airDate": "2000-07-27"
+}]
 }
