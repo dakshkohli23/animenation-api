@@ -961,429 +961,660 @@
       "rating": 65
     }
   ],
-  "episodes": [
-    {
-      "id": "pokemon-indigo-league-episode-1",
-      "title": "Pokémon - I Choose You!",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep01_ss02.jpg",
-      "number": 1
-    },
-    {
-      "id": "pokemon-indigo-league-episode-2",
-      "title": "Pokémon Emergency!",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep02_ss02.jpg",
-      "number": 2
-    },
-    {
-      "id": "pokemon-indigo-league-episode-3",
-      "title": "Ash Catches a Pokémon",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep03_ss03.jpg",
-      "number": 3
-    },
-    {
-      "id": "pokemon-indigo-league-episode-4",
-      "title": "Challenge of the Samurai",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep04_ss02.jpg",
-      "number": 4
-    },
-    {
-      "id": "pokemon-indigo-league-episode-5",
-      "title": "Showdown in Pewter City",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep05_ss02.jpg",
-      "number": 5
-    },
-    {
-      "id": "pokemon-indigo-league-episode-6",
-      "title": "Clefairy and the Moon Stone",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep06_ss02.jpg",
-      "number": 6
-    },
-    {
-      "id": "pokemon-indigo-league-episode-7",
-      "title": "The Water Flowers of Cerulean City",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep07_ss03.jpg",
-      "number": 7
-    },
-    {
-      "id": "pokemon-indigo-league-episode-8",
-      "title": "The Path to the Pokémon League",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep08_ss03.jpg",
-      "number": 8
-    },
-    {
-      "id": "pokemon-indigo-league-episode-9",
-      "title": "The School of Hard Knocks",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep09_ss02.jpg",
-      "number": 9
-    },
-    {
-      "id": "pokemon-indigo-league-episode-10",
-      "title": "Bulbasaur and the Hidden Village",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep10_ss01.jpg",
-      "number": 10
-    },
-    {
-      "id": "pokemon-indigo-league-episode-11",
-      "title": "Charmander – The Stray Pokémon",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep11_ss03.jpg",
-      "number": 11
-    },
-    {
-      "id": "pokemon-indigo-league-episode-12",
-      "title": "Here Comes the Squirtle Squad",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep12_ss01.jpg",
-      "number": 12
-    },
-    {
-      "id": "pokemon-indigo-league-episode-13",
-      "title": "Mystery at the Lighthouse",
-      "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season01/season01_ep13_ss03.jpg",
-      "number": 13
-    },
-    {
-      "id": "pokemon-indigo-league-episode-14",
-      "title": "Electric Shock Showdown",
-      "number": 14
-    },
-    {
-      "id": "pokemon-indigo-league-episode-15",
-      "title": "Battle Aboard the St. Anne",
-      "number": 15
-    },
-    {
-      "id": "pokemon-indigo-league-episode-16",
-      "title": "Pokémon Shipwreck",
-      "number": 16
-    },
-    {
-      "id": "pokemon-indigo-league-episode-17",
-      "title": "Island of the Giant Pokémon",
-      "number": 17
-    },
-    {
-      "id": "pokemon-indigo-league-episode-18",
-      "title": "Tentacool & Tentacruel",
-      "number": 18
-    },
-    {
-      "id": "pokemon-indigo-league-episode-19",
-      "title": "The Ghost of Maiden's Peak",
-      "number": 19
-    },
-    {
-      "id": "pokemon-indigo-league-episode-20",
-      "title": "Bye Bye Butterfree",
-      "number": 20
-    },
-    {
-      "id": "pokemon-indigo-league-episode-21",
-      "title": "Abra and the Psychic Showdown",
-      "number": 21
-    },
-    {
-      "id": "pokemon-indigo-league-episode-22",
-      "title": "The Tower of Terror",
-      "number": 22
-    },
-    {
-      "id": "pokemon-indigo-league-episode-23",
-      "title": "Haunter versus Kadabra",
-      "number": 23
-    },
-    {
-      "id": "pokemon-indigo-league-episode-24",
-      "title": "Primeape Goes Bananas",
-      "number": 24
-    },
-    {
-      "id": "pokemon-indigo-league-episode-25",
-      "title": "Pokémon Scent-sation!",
-      "number": 25
-    },
-    {
-      "id": "pokemon-indigo-league-episode-26",
-      "title": "Hypno's Naptime",
-      "number": 26
-    },
-    {
-      "id": "pokemon-indigo-league-episode-27",
-      "title": "Pokémon Fashion Flash",
-      "number": 27
-    },
-    {
-      "id": "pokemon-indigo-league-episode-28",
-      "title": "The Punchy Pokémon",
-      "number": 28
-    },
-    {
-      "id": "pokemon-indigo-league-episode-29",
-      "title": "Sparks Fly for Magnemite",
-      "number": 29
-    },
-    {
-      "id": "pokemon-indigo-league-episode-30",
-      "title": "Dig Those Diglett!",
-      "number": 30
-    },
-    {
-      "id": "pokemon-indigo-league-episode-31",
-      "title": "The Ninja Poké-Showdown",
-      "number": 31
-    },
-    {
-      "id": "pokemon-indigo-league-episode-32",
-      "title": "The Flame Pokémon-athon!",
-      "number": 32
-    },
-    {
-      "id": "pokemon-indigo-league-episode-33",
-      "title": "The Kangaskhan Kid",
-      "number": 33
-    },
-    {
-      "id": "pokemon-indigo-league-episode-34",
-      "title": "The Bridge Bike Gang",
-      "number": 34
-    },
-    {
-      "id": "pokemon-indigo-league-episode-35",
-      "title": "Ditto's Mysterious Mansion",
-      "number": 35
-    },
-    {
-      "id": "pokemon-indigo-league-episode-36",
-      "title": "Pikachu's Goodbye",
-      "number": 36
-    },
-    {
-      "id": "pokemon-indigo-league-episode-37",
-      "title": "The Battling Eevee Brothers",
-      "number": 37
-    },
-    {
-      "id": "pokemon-indigo-league-episode-38",
-      "title": "Wake Up Snorlax!",
-      "number": 38
-    },
-    {
-      "id": "pokemon-indigo-league-episode-39",
-      "title": "Showdown at Dark City",
-      "number": 39
-    },
-    {
-      "id": "pokemon-indigo-league-episode-40",
-      "title": "The March of the Exeggutor Squad",
-      "number": 40
-    },
-    {
-      "id": "pokemon-indigo-league-episode-41",
-      "title": "The Problem with Paras",
-      "number": 41
-    },
-    {
-      "id": "pokemon-indigo-league-episode-42",
-      "title": "The Song of Jigglypuff",
-      "number": 42
-    },
-    {
-      "id": "pokemon-indigo-league-episode-43",
-      "title": "Attack of the Prehistoric Pokémon",
-      "number": 43
-    },
-    {
-      "id": "pokemon-indigo-league-episode-44",
-      "title": "A Chansey Operation",
-      "number": 44
-    },
-    {
-      "id": "pokemon-indigo-league-episode-45",
-      "title": "Holy Matrimony!",
-      "number": 45
-    },
-    {
-      "id": "pokemon-indigo-league-episode-46",
-      "title": "So Near, Yet So Farfetch'd",
-      "number": 46
-    },
-    {
-      "id": "pokemon-indigo-league-episode-47",
-      "title": "Who Gets to Keep Togepi?",
-      "number": 47
-    },
-    {
-      "id": "pokemon-indigo-league-episode-48",
-      "title": "Bulbasaur's Mysterious Garden",
-      "number": 48
-    },
-    {
-      "id": "pokemon-indigo-league-episode-49",
-      "title": "The Case of the K-9 Caper!",
-      "number": 49
-    },
-    {
-      "id": "pokemon-indigo-league-episode-50",
-      "title": "Pokémon Paparazzi",
-      "number": 50
-    },
-    {
-      "id": "pokemon-indigo-league-episode-51",
-      "title": "The Ultimate Test",
-      "number": 51
-    },
-    {
-      "id": "pokemon-indigo-league-episode-52",
-      "title": "The Breeding Center Secret",
-      "number": 52
-    },
-    {
-      "id": "pokemon-indigo-league-episode-53",
-      "title": "Riddle Me This",
-      "number": 53
-    },
-    {
-      "id": "pokemon-indigo-league-episode-54",
-      "title": "Volcanic Panic",
-      "number": 54
-    },
-    {
-      "id": "pokemon-indigo-league-episode-55",
-      "title": "Beach Blank-Out Blastoise",
-      "number": 55
-    },
-    {
-      "id": "pokemon-indigo-league-episode-56",
-      "title": "Princess vs. Princess",
-      "number": 56
-    },
-    {
-      "id": "pokemon-indigo-league-episode-57",
-      "title": "The Purr-fect Hero",
-      "number": 57
-    },
-    {
-      "id": "pokemon-indigo-league-episode-58",
-      "title": "The Misty Mermaid",
-      "number": 58
-    },
-    {
-      "id": "pokemon-indigo-league-episode-59",
-      "title": "Clefairy Tales",
-      "number": 59
-    },
-    {
-      "id": "pokemon-indigo-league-episode-60",
-      "title": "The Battle of the Badge",
-      "number": 60
-    },
-    {
-      "id": "pokemon-indigo-league-episode-61",
-      "title": "It's Mr. Mime Time",
-      "number": 61
-    },
-    {
-      "id": "pokemon-indigo-league-episode-62",
-      "title": "Holiday Hi-Jynx",
-      "number": 62
-    },
-    {
-      "id": "pokemon-indigo-league-episode-63",
-      "title": "Snow Way Out!",
-      "number": 63
-    },
-    {
-      "id": "pokemon-indigo-league-episode-64",
-      "title": "Showdown at the Po-ké Corral",
-      "number": 64
-    },
-    {
-      "id": "pokemon-indigo-league-episode-65",
-      "title": "The Evolution Solution",
-      "number": 65
-    },
-    {
-      "id": "pokemon-indigo-league-episode-66",
-      "title": "The Pi-Kahuna",
-      "number": 66
-    },
-    {
-      "id": "pokemon-indigo-league-episode-67",
-      "title": "The Pi-Kahuna",
-      "number": 67
-    },
-    {
-      "id": "pokemon-indigo-league-episode-68",
-      "title": "Lights, Camera, Quack-tion!",
-      "number": 68
-    },
-    {
-      "id": "pokemon-indigo-league-episode-69",
-      "title": "Go West Young Meowth",
-      "number": 69
-    },
-    {
-      "id": "pokemon-indigo-league-episode-70",
-      "title": "To Master the Onixpected!",
-      "number": 70
-    },
-    {
-      "id": "pokemon-indigo-league-episode-71",
-      "title": "The Ancient Puzzle of Pokémopolis",
-      "number": 71
-    },
-    {
-      "id": "pokemon-indigo-league-episode-72",
-      "title": "Bad to the Bone",
-      "number": 72
-    },
-    {
-      "id": "pokemon-indigo-league-episode-73",
-      "title": "All Fired Up!",
-      "number": 73
-    },
-    {
-      "id": "pokemon-indigo-league-episode-74",
-      "title": "Round One - Begin!",
-      "number": 74
-    },
-    {
-      "id": "pokemon-indigo-league-episode-75",
-      "title": "Fire and Ice",
-      "number": 75
-    },
-    {
-      "id": "pokemon-indigo-league-episode-7",
-      "title": "The Fourth Round Rumble",
-      "number": 76
-    },
-    {
-      "id": "pokemon-indigo-league-episode-77",
-      "title": "A Friend In Deed",
-      "number": 77
-    },
-    {
-      "id": "pokemon-indigo-league-episode-78",
-      "title": "Friend and Foe Alike",
-      "number": 78
-    },
-    {
-      "id": "pokemon-indigo-league-episode-79",
-      "title": "Friends to the End",
-      "number": 79
-    },
-    {
-      "id": "pokemon-indigo-league-episode-80",
-      "title": "Pallet Party Panic",
-      "number": 80
-    },
-    {
-      "id": "pokemon-indigo-league-episode-81",
-      "title": "A Scare in the Air",
-      "number": 81
-    },
-    {
-      "id": "pokemon-indigo-league-episode-82",
-      "title": "Poké Ball Peril",
-      "number": 82
-    }
-  ]
+  "episodes": [{
+    "id": "/pokemon-indigo-league-episode-1",
+    "title": "Pokémon - I Choose You!",
+    "description": "Meet Ash Ketchum, a 10-year-old boy full of imagination, confidence, and dreams that are almost too big for his village of Pallet Town—plus the desire to become a Pokémon Master!",
+    "number": "1",
+    "image": "https://image.tmdb.org/t/p/original/9jsmli3rQDMjHMSbBDDiKlUarWE.jpg",
+    "airDate": "1997-04-01"
+},
+{
+    "id": "/pokemon-indigo-league-episode-2",
+    "title": "Pokémon Emergency!",
+    "description": "Ash rushes into Viridian City with his gravely wounded Pikachu. The city's on high alert for Pokémon thieves-thieves like Jessie, James, and Meowth of Team Rocket, a group of bad guys dedicated to stealing valuable Pokémon.",
+    "number": "2",
+    "image": "https://image.tmdb.org/t/p/original/v6blQvKexrnjDZnRKVLb2qxgN32.jpg",
+    "airDate": "1997-04-08"
+},
+{
+    "id": "/pokemon-indigo-league-episode-3",
+    "title": "Ash Catches a Pokémon",
+    "description": "Ash discovers and catches a Caterpie—his first Pokémon capture! Though Ash is excited, Misty is grossed out by Bug-type Pokémon, so she is repulsed by its attempts to be friends with her. At night, as Ash and Misty sleep, Caterpie shares with Pikachu its dream of evolving into a Butterfree.",
+    "number": "3",
+    "image": "https://image.tmdb.org/t/p/original/1lYZyeW4rtx9UJSiVPnKceM65QG.jpg",
+    "airDate": "1997-04-15"
+},
+{
+    "id": "/pokemon-indigo-league-episode-4",
+    "title": "Challenge of the Samurai",
+    "description": "Misty and Ash continue to wander the Viridian Forest when they spot a Weedle. As Ash battles it, he's distracted by a boy dressed as a samurai and calling himself (naturally) Samurai. Samurai challenges Ash to a battle, and Ash gets the advantage when his Metapod defends itself against Samurai's Pinsir. Samurai sends out his own Metapod—and a standoff begins.",
+    "number": "4",
+    "image": "https://image.tmdb.org/t/p/original/69vgcSl051kIxTyHpzHCXnAQ6Ix.jpg",
+    "airDate": "1997-04-22"
+},
+{
+    "id": "/pokemon-indigo-league-episode-5",
+    "title": "Showdown in Pewter City",
+    "description": "Jessie, James, and Meowth dig a trap for our heroes, but they end up falling into it themselves! Ash and Misty arrive at Pewter City and meet a curious fellow named Flint, who notices that Pikachu is tired and shows them the way to the Pokémon Center.",
+    "number": "5",
+    "image": "https://image.tmdb.org/t/p/original/3kRL8wftUeICQrMCaRtn0N8xFGZ.jpg",
+    "airDate": "1997-04-29"
+},
+{
+    "id": "/pokemon-indigo-league-episode-6",
+    "title": "Clefairy and the Moon Stone",
+    "description": "Will Team Rocket steal the Moon Stone? Are there other Clefairy lurking about, and do they carry Moon Stones, too? And is the legend of the Moon Stone true?",
+    "number": "6",
+    "image": "https://image.tmdb.org/t/p/original/CskYs2kWZHMroizpERQKZ0yjhD.jpg",
+    "airDate": "1997-05-06"
+},
+{
+    "id": "/pokemon-indigo-league-episode-7",
+    "title": "The Water Flowers of Cerulean City",
+    "description": "Ash seeks the Cascade badge in Cerulean City—but for some reason, Misty doesn't want to join them. When Ash and Brock show up, the city is buzzing about a break-in that just took place—and are initially accused of the crime!",
+    "number": "7",
+    "image": "https://image.tmdb.org/t/p/original/fRMN1XBZOt9JoJhX9XRA8PyATLa.jpg",
+    "airDate": "1997-05-13"
+},
+{
+    "id": "/pokemon-indigo-league-episode-8",
+    "title": "The Path to the Pokémon League",
+    "description": "On the way to Vermillion City, Ash meets AJ, a Gym Leader at an unsanctioned Gym who has 98 wins and zero losses. They battle, and Ash is surprised that AJ's Ground-type Sandshrew can easily beat his Flying-type Pokémon.",
+    "number": "8",
+    "image": "https://image.tmdb.org/t/p/original/lvaU804SxEeMraSE5q2syp0R737.jpg",
+    "airDate": "1997-05-20"
+},
+{
+    "id": "/pokemon-indigo-league-episode-9",
+    "title": "The School of Hard Knocks",
+    "description": "While searching for firewood in the foggy woods, Ash and Pikachu discover a bunch of prep-school kids bullying a classmate named Joe.",
+    "number": "9",
+    "image": "https://image.tmdb.org/t/p/original/ZNQPrQyVIXXysBNEPUfbfXfhmT.jpg",
+    "airDate": "1997-05-27"
+},
+{
+    "id": "/pokemon-indigo-league-episode-10",
+    "title": "Bulbasaur and the Hidden Village",
+    "description": "Ash and Misty, while arguing, discover an Oddish. As Misty's Starmie weakens the Oddish, a Bulbasaur appears and fights Starmie while the Oddish runs off into the woods.",
+    "number": "10",
+    "image": "https://image.tmdb.org/t/p/original/njdqF5bUyq00FKW7Ov3RGHWrn3Z.jpg",
+    "airDate": "1997-06-03"
+},
+{
+    "id": "/pokemon-indigo-league-episode-11",
+    "title": "Charmander - The Stray Pokémon",
+    "description": "Our friends, lost, discover an injured Charmander. Pikachu talks to it and learns that it's been waiting a long time for its trainer to return.",
+    "number": "11",
+    "image": "https://image.tmdb.org/t/p/original/3V6lDYrnLyX6vihvTpVvdA6u7a9.jpg",
+    "airDate": "1997-06-10"
+},
+{
+    "id": "/pokemon-indigo-league-episode-12",
+    "title": "Here Comes the Squirtle Squad",
+    "description": "Ash and his friends walk along a path and fall into a hole dug by a batch of mischievous Squirtle. Ash climbs out and tries to battle them, but they scatter when Officer Jenny arrives.",
+    "number": "12",
+    "image": "https://image.tmdb.org/t/p/original/pGZHm9Qdk8lG6VhUqAftfh6rS4W.jpg",
+    "airDate": "1997-06-17"
+},
+{
+    "id": "/pokemon-indigo-league-episode-13",
+    "title": "Mystery at the Lighthouse",
+    "description": "A tremendously large shadow begins to take form in the sea mists, but this possible discovery could be hindered due to the infamous Team Rocket lurking in the background cooking up another one of their schemes.",
+    "number": "13",
+    "image": "https://image.tmdb.org/t/p/original/s7Vxn81h7WSeTZYga0fBzkHmiAa.jpg",
+    "airDate": "1997-06-24"
+},
+{
+    "id": "/pokemon-indigo-league-episode-14",
+    "title": "Electric Shock Showdown",
+    "description": "Our heroes finally reach Vermillion City, and they discover that the Pokémon Center is filled with Pokémon hurt during battles with Lt. Surge, the Vermillion City Gym Leader.",
+    "number": "14",
+    "image": "https://image.tmdb.org/t/p/original/1WxU5XivrDKZAX20su4oIwVEUA6.jpg",
+    "airDate": "1997-07-01"
+},
+{
+    "id": "/pokemon-indigo-league-episode-15",
+    "title": "Battle Aboard the St. Anne",
+    "description": "Ash and his friends board a fancy cruise ship called the St. Anne, thanks to tickets provided by two friendly but familiar-looking people. We soon learn that they're actually Jessie and James in disguise!",
+    "number": "15",
+    "image": "https://image.tmdb.org/t/p/original/i6lAy1xh40lMXFRsG9sfohcaGnK.jpg",
+    "airDate": "1997-07-08"
+},
+{
+    "id": "/pokemon-indigo-league-episode-16",
+    "title": "Pokémon Shipwreck",
+    "description": "The St. Anne has capsized and sunk with Ash, the gang, and Team Rocket trapped inside. Now, both sides must put aside their differences in order to escape.",
+    "number": "16",
+    "image": "https://image.tmdb.org/t/p/original/d8zFIuVdYUtzjLP8acMcJ0hAyQ6.jpg",
+    "airDate": "1997-07-15"
+},
+{
+    "id": "/pokemon-indigo-league-episode-17",
+    "title": "Island of the Giant Pokémon",
+    "description": "As our heroes and Team Rocket beat the odds by surviving the sinking ship, they are dragged into another potentially deadly situation when they are attacked by the ferocious Pokémon, Gyarados.",
+    "number": "17",
+    "image": "https://image.tmdb.org/t/p/original/jabdiDpVRNtWQw42eepq4hWCQjJ.jpg",
+    "airDate": "1997-07-22"
+},
+{
+    "id": "/pokemon-indigo-league-episode-18",
+    "title": "Beauty and the Beach",
+    "description": "Ash and his friends have finally arrived in Porta Vista, a beach-side tourist town. After destroying an old man's ship, they must help in the old man's business. To attempt to pay the man back faster, Misty enters a beauty contest, only to discover she is competing against Jessie and James.",
+    "number": "18",
+    "image": "https://image.tmdb.org/t/p/original/voqyc0nkc8pEVKS45K4e05lGUdz.jpg",
+    "airDate": "1997-07-29"
+},
+{
+    "id": "/pokemon-indigo-league-episode-19",
+    "title": "Tentacool & Tentacruel",
+    "description": "Our heroes arrive at Hutber Port, where a ferryboat line runs to the mainland.",
+    "number": "19",
+    "image": "https://image.tmdb.org/t/p/original/d2p1QiTwOmtTNYAPCGUXQKlgkk0.jpg",
+    "airDate": "1997-08-05"
+},
+{
+    "id": "/pokemon-indigo-league-episode-20",
+    "title": "The Ghost of Maiden's Peak",
+    "description": "After leaving Acapulco in search of Saffron City, our heroes finally arrive at a small port town in the middle of celebrating a summer festival.",
+    "number": "20",
+    "image": "https://image.tmdb.org/t/p/original/9XVsgaFYi3hR5Ocgf6dXzld4HVQ.jpg",
+    "airDate": "1997-08-12"
+},
+{
+    "id": "/pokemon-indigo-league-episode-21",
+    "title": "Bye Bye Butterfree",
+    "description": "When the party sees a flock of Butterfree flying above the ocean, Brock, as a Pokémon breeder, explains that it is the Butterfree's egg-laying season.",
+    "number": "21",
+    "image": "https://image.tmdb.org/t/p/original/gN1q2KbRa9RtVB9RT908SlxqAL0.jpg",
+    "airDate": "1997-08-19"
+},
+{
+    "id": "/pokemon-indigo-league-episode-22",
+    "title": "Abra and the Psychic Showdown",
+    "description": "The party finally arrives in Saffron City where a young girl manages a gym of Pokémon using her psychic powers. If Ash defeats this particular Gym Leader, Ash can earn a gold badge.",
+    "number": "22",
+    "image": "https://image.tmdb.org/t/p/original/faOvc4tPzWu4XPFkmf0WrHflXLF.jpg",
+    "airDate": "1997-08-26"
+},
+{
+    "id": "/pokemon-indigo-league-episode-23",
+    "title": "The Tower of Terror",
+    "description": "In search of a ghost Pokémon, Ash heads immediately for a tower in Lavender Town where they are said to dwell.",
+    "number": "23",
+    "image": "https://image.tmdb.org/t/p/original/1ONHLSx0P162FbnMqS6Lc0qNlq0.jpg",
+    "airDate": "1997-09-02"
+},
+{
+    "id": "/pokemon-indigo-league-episode-24",
+    "title": "Haunter Versus Kadabra",
+    "description": "Unbenownst to Ash, one of the ghost Pokémon decides to join Ash and friends on their journey and more importantly help Ash battle the powerful Saffron City Gym Leader.",
+    "number": "24",
+    "image": "https://image.tmdb.org/t/p/original/2Kv0dCqEDzI6wFqHfeNJQcCzsDY.jpg",
+    "airDate": "1997-09-09"
+},
+{
+    "id": "/pokemon-indigo-league-episode-25",
+    "title": "Primeape Goes Bananas",
+    "description": "On their way to Celadon City, our heroes encounter Mankey, a wild Pokémon that if rubbed the wrong way can go into uncontrollable fits. Not realizing its unpredictability, the party accidentally upsets Mankey.",
+    "number": "25",
+    "image": "https://image.tmdb.org/t/p/original/aV1iskvZgcM05Dl6JW5glKoidde.jpg",
+    "airDate": "1997-09-16"
+},
+{
+    "id": "/pokemon-indigo-league-episode-26",
+    "title": "Pokémon Scent-sation!",
+    "description": "The party arrives in Celadon City, a perfectly pleasant town full of large department stores, condominiums, and fancy arcades.",
+    "number": "26",
+    "image": "https://image.tmdb.org/t/p/original/aqJe6fzo6T4Cp1kVOEDvQqgm5OY.jpg",
+    "airDate": "1997-09-23"
+},
+{
+    "id": "/pokemon-indigo-league-episode-27",
+    "title": "Hypno's Naptime",
+    "description": "Our heroes come to a town in which a great deal of children have recently turned up missing.",
+    "number": "27",
+    "image": "https://image.tmdb.org/t/p/original/vNttWRnN1LEuzYUbVsfi5seFzEZ.jpg",
+    "airDate": "1997-09-30"
+},
+{
+    "id": "/pokemon-indigo-league-episode-28",
+    "title": "Pokémon Fashion Flash",
+    "description": "At Brock's persistent request, our heroes stop by Caesar Street, a town of breeders famous for its Pokémon beauty salons.",
+    "number": "28",
+    "image": "https://image.tmdb.org/t/p/original/s3YCV8BvkM2RLJ4sjiYk0vsXatr.jpg",
+    "airDate": "1997-10-07"
+},
+{
+    "id": "/pokemon-indigo-league-episode-29",
+    "title": "The Punchy Pokémon",
+    "description": "In the outskirts of Fuchsia City, our heroes come across Hitmonchan, a fighter-Pokémon. With little thought, Ash attempts to capture it, but he and Pikachu are badly defeated.",
+    "number": "29",
+    "image": "https://image.tmdb.org/t/p/original/4rwytdXDxXTSyTwJ9kNZ1DKBRqv.jpg",
+    "airDate": "1997-10-14"
+},
+{
+    "id": "/pokemon-indigo-league-episode-30",
+    "title": "Sparks Fly for Magnemite",
+    "description": "As our heroes make their way through the industrial town of Gringy City, Pikachu, perhaps weary from travel, is in a strange state; the electric sacks on his cheeks are continually twitching as though overcharged.",
+    "number": "30",
+    "image": "https://image.tmdb.org/t/p/original/fzKHaidztSolIDa4FFMdJBM5APJ.jpg",
+    "airDate": "1997-10-21"
+},
+{
+    "id": "/pokemon-indigo-league-episode-31",
+    "title": "Dig Those Diglett!",
+    "description": "Ash, Brock, Misty and Pikachu are lost deep in the mountains. As they press forward on a rough road not even shown on their map, they suddenly hear a large explosion.",
+    "number": "31",
+    "image": "https://image.tmdb.org/t/p/original/aIwlVuT5Sm0GY3PSDBkKpx8wWOF.jpg",
+    "airDate": "1997-10-28"
+},
+{
+    "id": "/pokemon-indigo-league-episode-32",
+    "title": "The Ninja-Poké Showdown",
+    "description": "Fuchsia Gym, the authorized gym where Ash seeks his next badge, turns out to be a hidden ninja's lair. After finally discovering and entering the gym, he is held up by a complex system of traps.",
+    "number": "32",
+    "image": "https://image.tmdb.org/t/p/original/pjrsJ5KiAyPKti8ZJLgdmf7BRfG.jpg",
+    "airDate": "1997-11-04"
+},
+{
+    "id": "/pokemon-indigo-league-episode-33",
+    "title": "The Flame Pokémon-athon!",
+    "description": "Our heroes come to a prairie where the Laramies, a family of Pokémon Ranchers live. They learn from a daughter of the Laramie family that a race is held at the ranch once a year to measure the growth of everyone's Pokémon.",
+    "number": "33",
+    "image": "https://image.tmdb.org/t/p/original/oiiKhsrcBe8EyE2T0EVDr2QRpMH.jpg",
+    "airDate": "1997-11-11"
+},
+{
+    "id": "/pokemon-indigo-league-episode-34",
+    "title": "The Kangaskhan Kid",
+    "description": "Our heroes accompany Officer Jenny into the forest, intent on pursuing the Pokémon poachers in the area.",
+    "number": "34",
+    "image": "https://image.tmdb.org/t/p/original/arQ9UFUVBzHqSUFBfSYp5xzk8mW.jpg",
+    "airDate": "1997-11-18"
+},
+{
+    "id": "/pokemon-indigo-league-episode-35",
+    "title": "The Legend of Dratini",
+    "description": "Ash and his friends get challenged by Team Rocket in seeing who can capture the most Pokémon within the Safari Zone, with Ash catching a whole herd of Tauros. As soon as Ash and his friends head out Pokémon hunting, Team Rocket manages to get the drop on the game warden (Mr. Kaiza) and forces him into giving up the location on where Dratini is (the Dragon Valley). In the end, Ash, his friends, Team Rocket, and Kaiza end up seeing the legendary Dratini and Dragonair, with the heroes saving the day.",
+    "number": "35",
+    "image": "https://image.tmdb.org/t/p/original/92m5EGNZVxAawiZWQ5tBQtYkfZb.jpg",
+    "airDate": "1997-11-25"
+},
+{
+    "id": "/pokemon-indigo-league-episode-36",
+    "title": "The Bridge Bike Gang",
+    "description": "Ash and the others happen upon a town that can only be reached by a long bike bridge, but they don't have enough money to rent bikes for the crossing.",
+    "number": "36",
+    "image": "https://image.tmdb.org/t/p/original/2t0nCN8Onp4bgAOqXWkCtCflPxh.jpg",
+    "airDate": "1997-12-02"
+},
+{
+    "id": "/pokemon-indigo-league-episode-37",
+    "title": "Ditto's Mysterious Mansion",
+    "description": "Our heroes take shelter in a cabin that turns out to be the Copycat House of a trainer who has a Pikachu that is a Ditto, the Transform Pokémon.",
+    "number": "37",
+    "image": "https://image.tmdb.org/t/p/original/9JMN8xk4999k14z4AYzjHD2pD9Q.jpg",
+    "airDate": "1997-12-09"
+},
+{
+    "id": "/pokemon-indigo-league-episode-38",
+    "title": "Cyber Soldier Porygon",
+    "description": "Ash and his friends arrive at Pokémon Center where the PokéBall transfer machine has been causing problems, as the transferred Pokémon never end up at the other side. Ash and his friends decide to accompany Porygon, a computerized Pokémon, used by Professor Akihabara to investigate the problem, only to discover Team Rocket and another Porygon are to blame.",
+    "number": "38",
+    "image": "https://image.tmdb.org/t/p/original/tMS7cCpUpPhid9ltsECLhtskiQV.jpg",
+    "airDate": "1997-12-16"
+},
+{
+    "id": "/pokemon-indigo-league-episode-39",
+    "title": "Pikachu's Goodbye",
+    "description": "Ash and the others discover a group of wild Pikachu in a secluded area of the woods. How will Pikachu feel seeing others of its kind in the wild?",
+    "number": "39",
+    "image": "https://image.tmdb.org/t/p/original/7kjiZr8OCAZSDQWyYZhmvIg603j.jpg",
+    "airDate": "1998-04-16"
+},
+{
+    "id": "/pokemon-indigo-league-episode-40",
+    "title": "The Battling Eevee Brothers",
+    "description": "Tracing a path through the woods, the party comes across a tree baited with a plate of food and water. An Eevee is bound to the trunk with string.",
+    "number": "40",
+    "image": "https://image.tmdb.org/t/p/original/rbK53YM3gnXI5FoKRev2bikDDUf.jpg",
+    "airDate": "1998-04-16"
+},
+{
+    "id": "/pokemon-indigo-league-episode-41",
+    "title": "Wake Up, Snorlax!",
+    "description": "On empty stomachs, our heroes' search for food brings them to a small village, but find there is no food at the bakery nor at the grocery store; even the town restaurant is out of food.",
+    "number": "41",
+    "image": "https://image.tmdb.org/t/p/original/kciL7aV7dw3CxCbqDbwECfLkJDc.jpg",
+    "airDate": "1998-04-23"
+},
+{
+    "id": "/pokemon-indigo-league-episode-42",
+    "title": "Showdown at Dark City",
+    "description": "In the middle of a terrible desert, our heroes inadvertently wandered into Dark City. With no name but Dark, the city has fallen into ruin.",
+    "number": "42",
+    "image": "https://image.tmdb.org/t/p/original/a4bUGFkuhqOqztAkkHV5aoUjYUa.jpg",
+    "airDate": "1998-04-30"
+},
+{
+    "id": "/pokemon-indigo-league-episode-43",
+    "title": "The March of the Exeggutor Squad",
+    "description": "After discovering there's a traveling carnival nearby, Ash, Misty and Brock join in on the fun of the fair and stumble across a rather dull magic show.",
+    "number": "43",
+    "image": "https://image.tmdb.org/t/p/original/sc6jc8yzEJXNysjuqjkeusJ3bsN.jpg",
+    "airDate": "1998-05-07"
+},
+{
+    "id": "/pokemon-indigo-league-episode-44",
+    "title": "The Problem with Paras",
+    "description": "Team Rocket never let up with their constant interception, but today something seems strange. The coin on Meowth's forehead is blinking red, indicating overheating.",
+    "number": "44",
+    "image": "https://image.tmdb.org/t/p/original/bMAx6tLJSe2FkL2Sws0duUxTLkK.jpg",
+    "airDate": "1998-05-14"
+},
+{
+    "id": "/pokemon-indigo-league-episode-45",
+    "title": "The Song of Jigglypuff",
+    "description": "Our heroes trudge along, resigning themselves to the idea of camping out in the desert as the sun slowly sets. Suddenly they see bright lights in front of them: a glamorous city appears before them, covered in neon lights.",
+    "number": "45",
+    "image": "https://image.tmdb.org/t/p/original/kNWfBThGLZTmpmr4FxpK3ufkxNl.jpg",
+    "airDate": "1998-05-21"
+},
+{
+    "id": "/pokemon-indigo-league-episode-46",
+    "title": "Attack of the Prehistoric Pokémon",
+    "description": "Our heroes approach Grampa Canyon, famous for the beautiful scenery of its valley. As they approach, however, they find wave upon wave of people also heading for Grampa Canyon.",
+    "number": "46",
+    "image": "https://image.tmdb.org/t/p/original/vvfp25TaV9ep6YHPj1nvMRNZNEy.jpg",
+    "airDate": "1998-05-28"
+},
+{
+    "id": "/pokemon-indigo-league-episode-47",
+    "title": "A Chansey Operation",
+    "description": "As our heroes sleep peacefully, Pikachu begins experiencing an unusual sensation. As though it were choking on something, Pikachu's expression grows steadily more and more pained.",
+    "number": "47",
+    "image": "https://image.tmdb.org/t/p/original/ck4wh9mmRRoD4uZ9V47ZGYJAbR4.jpg",
+    "airDate": "1998-06-04"
+},
+{
+    "id": "/pokemon-indigo-league-episode-48",
+    "title": "Holy Matrimony!",
+    "description": "As our heroes pass the entrance to a small village, they stop in front of a strange sign.",
+    "number": "48",
+    "image": "https://image.tmdb.org/t/p/original/nkOa9sCkjtSZroSQxPfwkbl8Xr9.jpg",
+    "airDate": "1998-06-11"
+},
+{
+    "id": "/pokemon-indigo-league-episode-49",
+    "title": "So Near, Yet So Farfetch'd",
+    "description": "As Ash sits on a rock, staring at his Pokédex, it displays Farfetch'd, an odd-looking Pokémon holding a leek.",
+    "number": "49",
+    "image": "https://image.tmdb.org/t/p/original/4YXdVzyEyVQRSxnCx3zV6bPNROs.jpg",
+    "airDate": "1998-06-18"
+},
+{
+    "id": "/pokemon-indigo-league-episode-50",
+    "title": "Who Gets to Keep Togepi?",
+    "description": "When Ash and friends reach a certain Pokémon E. R., Joy informs Ash that a message has arrived for him, from Professor Oak.",
+    "number": "50",
+    "image": "https://image.tmdb.org/t/p/original/xckpCI8LInkzskaulxUa56KNwhM.jpg",
+    "airDate": "1998-06-25"
+},
+{
+    "id": "/pokemon-indigo-league-episode-51",
+    "title": "Bulbasaur's Mysterious Garden",
+    "description": "After Bulbasaur's bulb begins to emit an odd glow, a nurse runs some tests and discovers that Bulbasaur isn't sick: It's getting ready to evolve!",
+    "number": "51",
+    "image": "https://image.tmdb.org/t/p/original/mivXNRfdl3XHRlO7xSYdp1zJ5Oc.jpg",
+    "airDate": "1998-07-02"
+},
+{
+    "id": "/pokemon-indigo-league-episode-52",
+    "title": "Princess vs. Princess",
+    "description": "Misty and Jessie compete against one another for Queen of the Princess Festival, a day where women rule and the guys have to do whatever the girls tell them.",
+    "number": "52",
+    "image": "https://image.tmdb.org/t/p/original/6OUDPCUln4Qd5NUEYZPIZxefRW2.jpg",
+    "airDate": "1998-07-09"
+},
+{
+    "id": "/pokemon-indigo-league-episode-53",
+    "title": "The Purr-fect Hero",
+    "description": "It's Kids Day, and Ash and friends help the children at a nearby school celebrate the holiday.",
+    "number": "53",
+    "image": "https://image.tmdb.org/t/p/original/sh2mlc6aoUdUaj3QFO4fJfI6U0z.jpg",
+    "airDate": "1998-07-09"
+},
+{
+    "id": "/pokemon-indigo-league-episode-54",
+    "title": "The Case of the K-9 Caper!",
+    "description": "Ash enrolls Pikachu in a training school for police Growlithe, but the course is tougher than he imagined, for himself and for Pikachu!",
+    "number": "54",
+    "image": "https://image.tmdb.org/t/p/original/qgHXU2bgpAz9plUPPGG9Rfw3QTU.jpg",
+    "airDate": "1998-07-16"
+},
+{
+    "id": "/pokemon-indigo-league-episode-55",
+    "title": "Pokémon Paparazzi",
+    "description": "Ash and friends are being shadowed by Todd Snap, the world's greatest Pokémon photographer.",
+    "number": "55",
+    "image": "https://image.tmdb.org/t/p/original/eXhi6D2DMdPQgVapxdhEBkW7j4g.jpg",
+    "airDate": "1998-07-23"
+},
+{
+    "id": "/pokemon-indigo-league-episode-56",
+    "title": "The Ultimate Test",
+    "description": "Ash signs up to take an exam to be admitted to the Pokémon League.",
+    "number": "56",
+    "image": "https://image.tmdb.org/t/p/original/A5nweWkLL1QZgxzxKlQJ8m6vQqu.jpg",
+    "airDate": "1998-07-30"
+},
+{
+    "id": "/pokemon-indigo-league-episode-57",
+    "title": "The Breeding Center Secret",
+    "description": "Our heroes discover a terrible secret about the new breeding center in town.",
+    "number": "57",
+    "image": "https://image.tmdb.org/t/p/original/y2o4wzvHrVZLF8xRb9tcIc13Psd.jpg",
+    "airDate": "1998-08-06"
+},
+{
+    "id": "/pokemon-indigo-league-episode-58",
+    "title": "Riddle Me This (1)",
+    "description": "Ash, Brock and Misty travel to Cinnabar Island where Ash hopes to win his Volcano Badge.",
+    "number": "58",
+    "image": "https://image.tmdb.org/t/p/original/bAcllMUwKn3qczh1HCwuwwNzBk2.jpg",
+    "airDate": "1998-08-13"
+},
+{
+    "id": "/pokemon-indigo-league-episode-59",
+    "title": "Volcanic Panic (2)",
+    "description": "Ash continues his quest to attain his Volcano Badge once he finally locates the gym that is suspended above a pool of molten lava!",
+    "number": "59",
+    "image": "https://image.tmdb.org/t/p/original/sdNSOOQFPmWA4lh402xGs1fTuOX.jpg",
+    "airDate": "1998-08-20"
+},
+{
+    "id": "/pokemon-indigo-league-episode-60",
+    "title": "Beach Blank-Out Blastoise",
+    "description": "As Ash and the gang are rushing to catch the last ferry off of Cinnabar Island, they stumble over a rare Pokémon in trouble.",
+    "number": "60",
+    "image": "https://image.tmdb.org/t/p/original/xJWuY9v1W0IRQmrJFU9osNVj3lJ.jpg",
+    "airDate": "1998-08-27"
+},
+{
+    "id": "/pokemon-indigo-league-episode-61",
+    "title": "The Misty Mermaid",
+    "description": "One of Misty's water Pokémon is in desperate need of exercise, so the gang decides to take her Horsea to a gym that's run by her sisters in Cerulean City.",
+    "number": "61",
+    "image": "https://image.tmdb.org/t/p/original/nGfqglyxygsE01KlWMI4dGdkas7.jpg",
+    "airDate": "1998-09-03"
+},
+{
+    "id": "/pokemon-indigo-league-episode-62",
+    "title": "Clefairy Tales",
+    "description": "Ash, Brock and Misty get sidetracked on their way to Viridian City when all of their belongings mysteriously disappear.",
+    "number": "62",
+    "image": "https://image.tmdb.org/t/p/original/racZ5khEyNCH56oFIRV0w5jPnui.jpg",
+    "airDate": "1998-09-10"
+},
+{
+    "id": "/pokemon-indigo-league-episode-63",
+    "title": "The Battle of the Badge",
+    "description": "Ash and friends finally make their way to Viridian City where Ash hopes to earn his Earth Badge.",
+    "number": "63",
+    "image": "https://image.tmdb.org/t/p/original/3bKyYGMoKBnhvH6PgrE4D0Z66D0.jpg",
+    "airDate": "1998-09-17"
+},
+{
+    "id": "/pokemon-indigo-league-episode-64",
+    "title": "It's Mr. Mime Time!",
+    "description": "On their way back to Pallet Town, Ash, Brock and Misty encounter a runaway Mr. Mime.",
+    "number": "64",
+    "image": "https://image.tmdb.org/t/p/original/bvlfqihqXP3HbBdz90emgoy4bRZ.jpg",
+    "airDate": "1998-09-24"
+},
+{
+    "id": "/pokemon-indigo-league-episode-65",
+    "title": "Holiday Hi-Jynx",
+    "description": "Ash, Misty, Brock, and their Pokémon must return a lost Jynx to Santa before Christmas, with the help of a Lapras. Meanwhile, Jessie attempts to take revenge on Santa for stealing her favorite doll when she was young.",
+    "number": "65",
+    "image": "https://image.tmdb.org/t/p/original/80OXC7kI8l7Lw8uqiGjvdsQ25qy.jpg",
+    "airDate": "1998-10-05"
+},
+{
+    "id": "/pokemon-indigo-league-episode-66",
+    "title": "Snow Way Out!",
+    "description": "Pikachu is lost in a snowy mountain forest! Can Ash and the gang stay warm while tracking down their missing pal?",
+    "number": "66",
+    "image": "https://image.tmdb.org/t/p/original/6BMdBnTdwP17PpEUbhwKnycDA89.jpg",
+    "airDate": "1998-10-05"
+},
+{
+    "id": "/pokemon-indigo-league-episode-67",
+    "title": "Showdown at the Po-ké Corral",
+    "description": "Back in Pallet Town, Ash finds Gary, already there, waiting to partake in the Pokémon League. Always having a bitter rivalry with Gary, Professor Oak tells them both the meaning of Pokémon. Meanwhile, Team Rocket is trying to get inside the lab to steal the Pokémon.",
+    "number": "67",
+    "image": "https://image.tmdb.org/t/p/original/mzajljlmfV4t2AZBqltfxcyt6n7.jpg",
+    "airDate": "1998-10-08"
+},
+{
+    "id": "/pokemon-indigo-league-episode-68",
+    "title": "The Evolution Solution",
+    "description": "Ash goes to Seafoam Island to help Professor Oak to discover the mystery of how Slowpoke evolves into Slowbro. There, Professor Westwood V is also trying to solve the mystery. Jessie captures Shellder, and tries to rush a Slowpoke's evolution, forcing Psyduck to stall the evolution.",
+    "number": "68",
+    "image": "https://image.tmdb.org/t/p/original/hZtryNY70cOVRvSoIid8nwI7B07.jpg",
+    "airDate": "1998-10-15"
+},
+{
+    "id": "/pokemon-indigo-league-episode-69",
+    "title": "The Pi-Kahuna",
+    "description": "Ash and the gang take some time off to go surfing. While surfing, however, Ash passes out, but is thankfully rescued by a surfer named Victor and his blue-eyed Pikachu, Puka. Victor then reveals his plans to surf a tsunami called Humungadunga and become a surfing legend.",
+    "number": "69",
+    "image": "https://image.tmdb.org/t/p/original/svBywsVCt2tiMgnKfNyjv4dqvjn.jpg",
+    "airDate": "1998-10-22"
+},
+{
+    "id": "/pokemon-indigo-league-episode-70",
+    "title": "Make Room for Gloom",
+    "description": "Ash goes to a flower garden to get some fertilizer for his mother, but Bulbasaur sniffs the flowers and becomes paralyzed.",
+    "number": "70",
+    "image": "https://image.tmdb.org/t/p/original/ieMzt1rh1OJiTbH6haRrBTwrxDz.jpg",
+    "airDate": "1998-10-29"
+},
+{
+    "id": "/pokemon-indigo-league-episode-71",
+    "title": "Lights, Camera, Quack-tion",
+    "description": "When the gang discovers there is a movie with an all Pokemon cast being made nearby, Ash and his friends put their Pokémon in for an audition. Misty's Psyduck gets the main role while the others get minor roles.",
+    "number": "71",
+    "image": "https://image.tmdb.org/t/p/original/gBe5WGm6VXYZC6Z0qexwMS5N8CI.jpg",
+    "airDate": "1998-11-05"
+},
+{
+    "id": "/pokemon-indigo-league-episode-72",
+    "title": "Go West Young Meowth",
+    "description": "Ash and his friends go to Hollywood (although only a small nearby town) to see the premiere of the movie their Pokémon were cast in. Team Rocket follows them to find out that Meowth has history in this town; It is here where he was a member of a gang of street Meowths led by the Persian. He learned to speak and walk upright to win the heart of a female Meowth who was abandoned by her owner. Upon returning, he challenges Persian who was once his mentor for the female Meowth he thought he lost years before.",
+    "number": "72",
+    "image": "https://image.tmdb.org/t/p/original/pQLSeNfkfaTlcvTFVNncSIu74ic.jpg",
+    "airDate": "1998-11-12"
+},
+{
+    "id": "/pokemon-indigo-league-episode-73",
+    "title": "To Master the Onixpected!",
+    "description": "After watching Elite Four member Bruno on TV, Ash and his friends decide to do training in the mountains to be as strong as Bruno. However, they meet Bruno and he manipulates them to do some menial tasks for him. Meanwhile, a giant Onix is on a rampage.",
+    "number": "73",
+    "image": "https://image.tmdb.org/t/p/original/aK8fDq5w1eXrHLR42krGZTbmgCx.jpg",
+    "airDate": "1998-11-19"
+},
+{
+    "id": "/pokemon-indigo-league-episode-74",
+    "title": "The Ancient Puzzle of Pokémopolis",
+    "description": "While training, Ash and his friends accidentally uncover the ruins of Pokémopolis, an ancient city. After a bit of research, they find a giant Gengar and a giant Alakazam starting to fight. Then, a giant Jigglypuff appears to put them to sleep.",
+    "number": "74",
+    "image": "https://image.tmdb.org/t/p/original/7M9HhRinKKb6fQx2LrMWNFLx0gX.jpg",
+    "airDate": "1998-11-26"
+},
+{
+    "id": "/pokemon-indigo-league-episode-75",
+    "title": "Bad to the Bone",
+    "description": "Ash and his friends offer to help a trainer that is heading for the Pokémon League to retrieve his stolen gym badges from Team Rocket.",
+    "number": "75",
+    "image": "https://image.tmdb.org/t/p/original/aqvgAwsC3s1nGnjImO7zYLGEflE.jpg",
+    "airDate": "1998-12-03"
+},
+{
+    "id": "/pokemon-indigo-league-episode-76",
+    "title": "All Fired Up!",
+    "description": "Ash finally reaches the Indigo Plateau, home of the Pokémon League conference. Before the tournament begins, they plan on lighting a ceremonial cauldron with the flame of the legendary Pokémon, Moltres. Ash, as a participant, is free to carry the flame but when Team Rocket steals it, the tournament may be cancelled.",
+    "number": "76",
+    "image": "https://image.tmdb.org/t/p/original/x74Vtje0s3Jiq4CjqZoGNW5SBX4.jpg",
+    "airDate": "1998-12-10"
+},
+{
+    "id": "/pokemon-indigo-league-episode-77",
+    "title": "Round One - Begin!",
+    "description": "Ash enters his first match of the tournament on the water field against Mandi the Astounding. During the battle against Mandi's Exeggutor, Ash's Krabby evolves into Kingler, who he then uses against Mandy's remaining Seadra and Golbat, winning the match and moving onto the next preliminary round.",
+    "number": "77",
+    "image": "https://image.tmdb.org/t/p/original/qLQ5N5B8PsxdaTYxZl7pH0kOeky.jpg",
+    "airDate": "1998-12-17"
+},
+{
+    "id": "/pokemon-indigo-league-episode-78",
+    "title": "Fire and Ice",
+    "description": "For the second round Ash battles in the rock arena. Ash's last Pokémon, Squirtle, defeats his foe's last Pokémon, Nidorino, and he, victorious, moves on to Round 3. In the third round Ash faces a trainer named Pete in the ice arena. Both trainers are left with 2 Pokémon each. Pete uses Cloyster and Arcanine. In the end, Ash is victorious and he moves on to Round 4.",
+    "number": "78",
+    "image": "https://image.tmdb.org/t/p/original/1SiUMohDZMXRZI0GJgUlMN12LpC.jpg",
+    "airDate": "1998-12-24"
+},
+{
+    "id": "/pokemon-indigo-league-episode-79",
+    "title": "The Fourth Round Rumble",
+    "description": "In the 4th round, Ash faces a trainer named Jeanette, who uses a Beedrill, a Scyther, and a Bellsprout. The match ends with Ash victorious, and he moves on to the 5th round, becoming one of the final sixteen members of the tournament.",
+    "number": "79",
+    "image": "https://image.tmdb.org/t/p/original/6kxxUsWdS2Qlh3C8ImI4hLyZdP8.jpg",
+    "airDate": "1999-01-01"
+},
+{
+    "id": "/pokemon-indigo-league-episode-80",
+    "title": "A Friend in Deed",
+    "description": "Ash meets a new trainer named Richie, who is eerily similar to Ash, including owning a Pikachu. However, Team Rocket makes another attempt to steal Ash's and Richie's Pokémon. Ash and Richie prevent Team Rocket from stealing their Pokémon. Ash discovers his next battle is against Richie. Will Ash manage to reach the quarterfinals?",
+    "number": "80",
+    "image": "https://image.tmdb.org/t/p/original/aLWMTJrzXXS3CEe5jsZFo9Gl89Y.jpg",
+    "airDate": "1999-01-07"
+},
+{
+    "id": "/pokemon-indigo-league-episode-81",
+    "title": "Friend and Foe Alike",
+    "description": "A twist of fate pits Ash and his new friend, Richie, against each other in the fifth round of the Pokémon League Competition. Both are determined to triumph, but who will emerge victorious? And, can their friendship survive the struggle?",
+    "number": "81",
+    "image": "https://image.tmdb.org/t/p/original/ki0NIeT0VAk6mUIK6s2KbWXgjlT.jpg",
+    "airDate": "1999-01-14"
+},
+{
+    "id": "/pokemon-indigo-league-episode-82",
+    "title": "Friends to the End",
+    "description": "After losing to Richie in the fifth round, Ash is moping around, annoyed that he lost. He is convinced by Misty that he should support Richie who is now in the quarterfinals. However, when Richie loses, they both have to look inside themselves to see if they are good trainers.",
+    "number": "82",
+    "image": "https://image.tmdb.org/t/p/original/h5WAMXVCn7xj5vA2QPfkqmXanEi.jpg",
+    "airDate": "1999-01-21"
+}]
 }
