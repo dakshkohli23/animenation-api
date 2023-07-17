@@ -33,7 +33,7 @@
 		"day": null
 	},
 	"totalEpisodes": 11,
-	"currentEpisode": 7,
+	"currentEpisode": 8,
 	"rating": 84,
 	"duration": 24,
 	"genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
@@ -1164,5 +1164,12 @@
 		"number": 7,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/9704259/screencap/6460f896164af.jpg",
 		"airDate": "2023-05-21T00:00:00.000Z"
-	}]
+	}{
+		"id": "demon-slayer-swordsmith-village-arc-episode-8",
+		"title": "The Mu in Muichiro",
+		"description": "Muichiro, with the help of air blown by Kotetsu to him, escapes Gyokko's Water Prison Pot. Muichiro finally recalls his tragic past.",
+		"number": 8,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9704260/screencap/646a483b27a81.jpg",
+		"airDate": "2023-05-28T00:00:00.000Z"
+	},]
 }
