@@ -1586,76 +1586,99 @@
 		"anime-planet": "one-punch-man-2"
 	},
 	"episodes": [{
-		"id": "one-punch-man-season-2-episode-1",
-		"title": "Ningen no Kaijin",
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 1,
-		"description": null
-	}, {
-		"id": "one-punch-man-season-2-episode-2",
-		"title": "Kari no Hajimari",
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 2,
-		"description": null
-	}, {
-		"id": "one-punch-man-season-2-episode-3",
-		"title": "Kinzoku no Bat",
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 3,
-		"description": null
-	}, {
-		"id": "one-punch-man-season-2-episode-4",
-		"title": "Bujutsu no Taikai",
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 4,
-		"description": null
-	}, {
-		"id": "one-punch-man-season-2-episode-5",
-		"title": "Kaijin no Houki",
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 5,
-		"description": null
-	}, {
-		"id": "one-punch-man-season-2-episode-6",
-		"title": "S Kyuu no Hero",
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 6,
-		"description": null
-	}, {
-		"id": "one-punch-man-season-2-episode-7",
-		"title": "Tsuyoi Yatsu no Teikou",
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 7,
-		"description": null
-	}, {
-		"id": "one-punch-man-season-2-episode-8",
-		"title": "Saikyou no Nayami",
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 8,
-		"description": null
-	}, {
-		"id": "one-punch-man-season-2-episode-9",
-		"title": "Seigi no Houi Ami",
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 9,
-		"description": null
-	}, {
-		"id": "one-punch-man-season-2-episode-10",
-		"title": "Sorezore no Kyouji",
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 10,
-		"description": null
-	}, {
-		"id": "one-punch-man-season-2-episode-11",
-		"title": "Deshi no Shirinugui",
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 11,
-		"description": null
-	}, {
-		"id": "one-punch-man-season-2-episode-12",
-		"title": null,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-		"number": 12,
-		"description": null
-	}]
+    "id": "/one-punch-man-season-2-episode-1",
+    "title": "Return of the Hero",
+    "description": "Saitama is out shopping with Genos in tow when the pair come across G4, a demonic robot on a mission to eliminate King. Elsewhere, Sitch attempts to recruit various cutthroats, villains and assassins of the underworld to help the Hero Association.",
+    "number": "1",
+    "image": "https://image.tmdb.org/t/p/original/wNeKfTka6lIDQCGpZuOMATv0UJD.jpg",
+    "airDate": "2019-04-10"
+},
+{
+    "id": "/one-punch-man-season-2-episode-2",
+    "title": "Human Monster",
+    "description": "Garou issues a declaration of war on the Hero Association through terrifying means, Hellish Blizzard gives Saitama an ultimatum, and Genos decides to eliminate his master’s stalker, Speed-o’-Sound Sonic.",
+    "number": "2",
+    "image": "https://image.tmdb.org/t/p/original/hh6JMbDji6wuz5RFRqDrYzqihaE.jpg",
+    "airDate": "2019-04-17"
+},
+{
+    "id": "/one-punch-man-season-2-episode-3",
+    "title": "The Hunt Begins",
+    "description": "Garou, out hunting heroes, can barely contain his excitement when he gets the chance to battle the S Class hero Tank-top Master. Meanwhile, Silverfang shutters his dojo to begin his own hunt of his former disciple.",
+    "number": "3",
+    "image": "https://image.tmdb.org/t/p/original/gedbotRXMOCUC7P9RblaHgw0LuL.jpg",
+    "airDate": "2019-04-24"
+},
+{
+    "id": "/one-punch-man-season-2-episode-4",
+    "title": "The Metal Bat",
+    "description": "Assigned to guard a VIP and his son, Metal Bat couldn’t be less thrilled. But when the group is suddenly attacked all hell breaks loose. Meanwhile, Saitama has disguised himself as Charanko in order to enter the “Super Fight” martial arts tournament.",
+    "number": "4",
+    "image": "https://image.tmdb.org/t/p/original/1I29xRhdTy6A1ybdPHc6Ke4fRV2.jpg",
+    "airDate": "2019-05-01"
+},
+{
+    "id": "/one-punch-man-season-2-episode-5",
+    "title": "The Martial Arts Tournament",
+    "description": "Monsters from the Monster Association launch simultaneous attacks on all the human cities, attempting to overwhelm the forces of the Hero Association. Meanwhile, the “Super Fight” martial arts tournament kicks off.",
+    "number": "5",
+    "image": "https://image.tmdb.org/t/p/original/us7myp7Us2h87nZ1f8ACZ6Fcaoz.jpg",
+    "airDate": "2019-05-08"
+},
+{
+    "id": "/one-punch-man-season-2-episode-6",
+    "title": "The Uprising of the Monsters",
+    "description": "The Super Fight tournament kicks off while Genos takes on multiple monsters who have appeared in City C. Elsewhere, countless monsters are wreaking havoc in multiple areas, but the Hero Association is being overwhelmed by the sheer number of threats.",
+    "number": "6",
+    "image": "https://image.tmdb.org/t/p/original/sN0T4orzh3HgMBFoKqI7xcYNjBI.jpg",
+    "airDate": "2019-05-15"
+},
+{
+    "id": "/one-punch-man-season-2-episode-7",
+    "title": "The Class S Heroes",
+    "description": "As the Super Fight tournament heads for its grand finale, the Class S heroes battle to hold back the tide of monster incursions. Meanwhile, Atomic Samurai is setting in motion a plan of his own.",
+    "number": "7",
+    "image": "https://image.tmdb.org/t/p/original/c9QhXBPVwOaayJ04FBt3OXjmafV.jpg",
+    "airDate": "2019-05-22"
+},
+{
+    "id": "/one-punch-man-season-2-episode-8",
+    "title": "The Resistance of the Strong",
+    "description": "Goketsu, the first Super Fight Tournament champion, arrives in the stadium. Having now become a monster, he’s aiming to force the Super Fight competitors to turn into monsters themselves. When several do, it’s up to Suiryu to take them on alone.",
+    "number": "8",
+    "image": "https://image.tmdb.org/t/p/original/tGKbogDzxuL8KlHOkYm6yKlUzFU.jpg",
+    "airDate": "2019-05-29"
+},
+{
+    "id": "/one-punch-man-season-2-episode-9",
+    "title": "The Troubles of the Strongest",
+    "description": "Just as Suiryu finds himself in the depths of despair, Saitama suddenly appears to help him out. But despite all Saitama’s strength, there’s still something bugging the hero that he just can’t seem to shake.",
+    "number": "9",
+    "image": "https://image.tmdb.org/t/p/original/on2YtDbgc6KdbKpRy2DFHShRZP3.jpg",
+    "airDate": "2019-06-12"
+},
+{
+    "id": "/one-punch-man-season-2-episode-10",
+    "title": "Justice Under Siege",
+    "description": "The Monster Association issues a challenge to the Hero Association, telling them they have only three days to rescue the hostage Waganma. Elsewhere, Garou tries to recover from his constant fighting, but things don’t quite go as planned.",
+    "number": "10",
+    "image": "https://image.tmdb.org/t/p/original/zD7LqTECY0MKFVCjsNbdOrBWFQs.jpg",
+    "airDate": "2019-06-19"
+},
+{
+    "id": "/one-punch-man-season-2-episode-11",
+    "title": "Everyone's Dignity",
+    "description": "Garo is at last surrounded by multiple heroes and forced to fight, even though he’s covered in wounds and nearly at his limit. The hero hunter still has his incredible ability to read opponents’ fighting styles, but there are surprises in store for all.",
+    "number": "11",
+    "image": "https://image.tmdb.org/t/p/original/gkpapTjLwcjejU1WrLdAhH8O2aG.jpg",
+    "airDate": "2019-06-26"
+},
+{
+    "id": "/one-punch-man-season-2-episode-12",
+    "title": "Cleaning Up the Disciple’s Mess",
+    "description": "Silverfang and Bomb catch up with Garou while the hero hunter is battling Genos, starting a whirlwind battle that draws in more and more combatants as it marches towards its hair-raising climax!",
+    "number": "12",
+    "image": "https://image.tmdb.org/t/p/original/vcZkOnTOa9d5K94DkO604RuRuMU.jpg",
+    "airDate": "2019-07-03"
+}]
 }
