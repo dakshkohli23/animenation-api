@@ -41,6 +41,7 @@
     "day": 17
   },
   "totalEpisodes": 42,
+  "currentEpisode": 42,
   "rating": 73,
   "duration": 24,
   "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
@@ -968,216 +969,340 @@
       "rating": 65
     }
   ],
-  "episodes": [
-    {
-      "id": "pokemon-master-journeys-the-series-episode-1",
-      "title": "Pokémon Master Journeys: The Series Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-2",
-      "title": "Pokémon Master Journeys: The Series Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-3",
-      "title": "Pokémon Master Journeys: The Series Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-4",
-      "title": "Pokémon Master Journeys: The Series Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-5",
-      "title": "Pokémon Master Journeys: The Series Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-6",
-      "title": "Pokémon Master Journeys: The Series Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-7",
-      "title": "Pokémon Master Journeys: The Series Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-8",
-      "title": "Pokémon Master Journeys: The Series Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-9",
-      "title": "Pokémon Master Journeys: The Series Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-10",
-      "title": "Pokémon Master Journeys: The Series Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-11",
-      "title": "Pokémon Master Journeys: The Series Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-12",
-      "title": "Pokémon Master Journeys: The Series Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-13",
-      "title": "Pokémon Master Journeys: The Series Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-14",
-      "title": "Pokémon Master Journeys: The Series Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-15",
-      "title": "Pokémon Master Journeys: The Series Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-16",
-      "title": "Pokémon Master Journeys: The Series Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-17",
-      "title": "Pokémon Master Journeys: The Series Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-18",
-      "title": "Pokémon Master Journeys: The Series Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-19",
-      "title": "Pokémon Master Journeys: The Series Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-20",
-      "title": "Pokémon Master Journeys: The Series Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-21",
-      "title": "Pokémon Master Journeys: The Series Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-22",
-      "title": "Pokémon Master Journeys: The Series Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-23",
-      "title": "Pokémon Master Journeys: The Series Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-24",
-      "title": "Pokémon Master Journeys: The Series Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-25",
-      "title": "Pokémon Master Journeys: The Series Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-26",
-      "title": "Pokémon Master Journeys: The Series Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-27",
-      "title": "Pokémon Master Journeys: The Series Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-28",
-      "title": "Pokémon Master Journeys: The Series Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-29",
-      "title": "Pokémon Master Journeys: The Series Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-30",
-      "title": "Pokémon Master Journeys: The Series Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-31",
-      "title": "Pokémon Master Journeys: The Series Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-32",
-      "title": "Pokémon Master Journeys: The Series Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-33",
-      "title": "Pokémon Master Journeys: The Series Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-34",
-      "title": "Pokémon Master Journeys: The Series Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-35",
-      "title": "Pokémon Master Journeys: The Series Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-36",
-      "title": "Pokémon Master Journeys: The Series Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-37",
-      "title": "Pokémon Master Journeys: The Series Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-38",
-      "title": "Pokémon Master Journeys: The Series Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-39",
-      "title": "Pokémon Master Journeys: The Series Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-40",
-      "title": "Pokémon Master Journeys: The Series Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-41",
-      "title": "Pokémon Master Journeys: The Series Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-master-journeys-the-series-episode-42",
-      "title": "Pokémon Master Journeys: The Series Episode 42",
-      "number": 42
-    }
-  ]
+  "episodes": [{
+    "id": "/pokemon-master-journeys-the-series-episode-1",
+    "title": "To Train, or Not to Train!",
+    "description": "A mysterious Eevee runs away from the Eevee Evolution Laboratory and meets Chloe. Meanwhile, Team Rocket makes a plan to steal some students' Pokémon.",
+    "number": "1",
+    "image": "https://image.tmdb.org/t/p/original/p6u4BkfRiRbfvL6F1epaJxwPeAu.jpg",
+    "airDate": "2020-12-11"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-2",
+    "title": "A Pinch of This, A Pinch of That!",
+    "description": "Ash, Goh and Chloe head to the Galar region to investigate some of its unusual fossils. The on-site researchers want to reconstruct the ancient Pokémon.",
+    "number": "2",
+    "image": "https://image.tmdb.org/t/p/original/rPyt9RODvopKJC7dKuXiIh4MOlH.jpg",
+    "airDate": "2021-01-08"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-3",
+    "title": "Trials of a Budding Master!",
+    "description": "Investigating an outbreak of Geodude in Rock Tunnel, Ash and Goh meet a trainer who accepts Ash's challenge to a World Coronation battle with Gurdurr!",
+    "number": "3",
+    "image": "https://image.tmdb.org/t/p/original/mupeo6sFRLLhNnJQkipuipVkAaf.jpg",
+    "airDate": "2021-01-15"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-4",
+    "title": "How Are Ya Gonna Keep 'Em Off of the Farm?",
+    "description": "When Professor Cerise's former student asks for help with some Diglett and Dugtrio wreaking havoc on his farm, Goh, Ash and Chloe go check it out.",
+    "number": "4",
+    "image": "https://image.tmdb.org/t/p/original/jYhJc4rfaf7Giq45I9lsVWs8MAW.jpg",
+    "airDate": "2021-01-22"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-5",
+    "title": "Healing the Healer!",
+    "description": "Hearing rumors that the legendary Suicune has been spotted at a lake, Ash and Goh travel to the Johto region, where they find a human polluting plot.",
+    "number": "5",
+    "image": "https://image.tmdb.org/t/p/original/3lpjcAMHpaiMX1GU5UPlKVUDsoo.jpg",
+    "airDate": "2021-01-29"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-6",
+    "title": "Sobble Spies a Stealthy Strategy!",
+    "description": "Goh and Ash visit the set of a popular spy movie. When the film's Inteleon star cinematically foils a Team Rocket attack, Goh's Sobble is inspired.",
+    "number": "6",
+    "image": "https://image.tmdb.org/t/p/original/gGEhPSlrtixHsSkfTn6Lk6Klmjl.jpg",
+    "airDate": "2021-02-05"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-7",
+    "title": "The Tale of You and Glimwood Tangle!",
+    "description": "Chloe, Ash and Goh head to Glimwood Tangle to learn more about Galarian Ponyta and Rapidash. Separated in the forest, they have storybook adventures.",
+    "number": "7",
+    "image": "https://image.tmdb.org/t/p/original/nPy8N09TBDZJuJCh36m1a8OygAJ.jpg",
+    "airDate": "2021-02-12"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-8",
+    "title": "Searching for Chivalry!",
+    "description": "After hearing about Wikstrom of the Kalos Elite Four, Ash and Goh travel to his castle to take his test alongside their Farfetch'd and Scyther.",
+    "number": "8",
+    "image": "https://image.tmdb.org/t/p/original/pwjQYJpnP3MPUfNHKaKJP9xqhA.jpg",
+    "airDate": "2021-02-19"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-9",
+    "title": "Memories of a Warming Kindness",
+    "description": "While Ash and Goh take advantage of a cold snap to search for Ice Pokémon, Chloe enjoys some girls' time with lab assistant Chrysa at her apartment.",
+    "number": "9",
+    "image": "https://image.tmdb.org/t/p/original/iZfAwOgK6UUll7GU97jZPTIuPs2.jpg",
+    "airDate": "2021-02-26"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-10",
+    "title": "A Rollicking Roll…Eyes on the Goal!",
+    "description": "When Team Rocket's Pelipper dispenses too many Gulpin from the Prize Master, trouble rolls through Vermilion City. Then, the race is on with Chewtle!",
+    "number": "10",
+    "image": "https://image.tmdb.org/t/p/original/jJoPFktqyMhWwVZeJRXpj9QfG8M.jpg",
+    "airDate": "2021-03-05"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-11",
+    "title": "When a House Is Not a Home!",
+    "description": "Goh finds a Grookey in the lab and tries to capture it, only to learn it belongs to someone else. To locate its owner, he and Ash set out on a search.",
+    "number": "11",
+    "image": "https://image.tmdb.org/t/p/original/kjXOHXSarT6A3h3NdROYZzU9YsD.jpg",
+    "airDate": "2021-03-12"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-12",
+    "title": "Beyond Chivalry…Aiming to Be a Leek Master!",
+    "description": "Ash runs into Rinto, who's also in the World Coronation Series, at the Pokémon Center. He and Farfetch'd challenge Rinto and Gallade to a rematch!",
+    "number": "12",
+    "image": "https://image.tmdb.org/t/p/original/oQMJVd10uKDpSJzGFpFA9OcvgJM.jpg",
+    "airDate": "2021-03-19"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-13",
+    "title": "Searching for Service with a Smile!",
+    "description": "Goh and Ash offer to help handyperson Multa after her partner is injured. Out on the job, they cross paths with Team Rocket and their latest plot.",
+    "number": "13",
+    "image": "https://image.tmdb.org/t/p/original/6v1F8HsS7TwWLuZt88iHLi54ZJG.jpg",
+    "airDate": "2021-04-09"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-14",
+    "title": "Not Too Close for Comfort!",
+    "description": "Goh's Sobble evolves into a Drizzile. But for some reason, it withdraws to a cave in Cerise Park, much to Goh's consternation.",
+    "number": "14",
+    "image": "https://image.tmdb.org/t/p/original/aSAoTljdjqOX1D2U4lv23XipqIE.jpg",
+    "airDate": "2021-04-16"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-15",
+    "title": "On Land, in the Sea, and to the Future!",
+    "description": "Chloe, Ash and Goh head to Hoenn to meet race champion trainer Kiley and his Vaporeon. At his suggestion, they enter the Kids Marine Athletic Race.",
+    "number": "15",
+    "image": "https://image.tmdb.org/t/p/original/vKluIIQzmW88dj0serXKAlmRiuM.jpg",
+    "airDate": "2021-04-23"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-16",
+    "title": "Absol Absolved",
+    "description": "Goh and Ash travel to Lavaridge Town to help their old friend Hodge, whose uncle's hot springs have gone dry — perhaps due to an Absol spotted nearby.",
+    "number": "16",
+    "image": "https://image.tmdb.org/t/p/original/6VFqHDTVkqGWvgLaBrTB72HdYas.jpg",
+    "airDate": "2021-04-30"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-17",
+    "title": "Thrash of the Titans!",
+    "description": "Ash receives a letter from an old friend in Unova: Iris! He and Goh head to Opelucid City so Ash can face her in a World Coronation Series battle.",
+    "number": "17",
+    "image": "https://image.tmdb.org/t/p/original/aXClkWWYPZqGPejJlmaNXzWUPrq.jpg",
+    "airDate": "2021-05-07"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-18",
+    "title": "Under Color of Darkness!",
+    "description": "Goh and Ash travel to Kalos to find a new flower for one of Goh's Flabébé. After a few days, they visit a plant researcher for some expert insights.",
+    "number": "18",
+    "image": "https://image.tmdb.org/t/p/original/8nIsta6joZ4deHOV5sZffiXLIr1.jpg",
+    "airDate": "2021-05-14"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-19",
+    "title": "Sleuths for Truth!",
+    "description": "Officer Jenny and an Inspector Decker visit the lab, searching for the culprit in a series of electricity thefts. Decker decides Pikachu is responsible!",
+    "number": "19",
+    "image": "https://image.tmdb.org/t/p/original/lw7nLxHPTz0r58XsKINCvJ7jXnh.jpg",
+    "airDate": "2021-05-21"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-20",
+    "title": "Advice to Goh!",
+    "description": "Ash and Goh travel to Pallet to visit Professor Oak, who offers Goh a job on the Project Mew research team. They also run into Ash's old frenemy, Gary.",
+    "number": "20",
+    "image": "https://image.tmdb.org/t/p/original/evQIyDLXPLFdOK2TnWGZoGAB0CI.jpg",
+    "airDate": "2021-05-28"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-21",
+    "title": "Errand Endurance!",
+    "description": "Goh and Chloe dispatch their Grookey and Eevee on an errand together but secretly follow them to supervise. Team Rocket do the same with Pelipper.",
+    "number": "21",
+    "image": "https://image.tmdb.org/t/p/original/mYNdyH7sX7LgkybOSJcSF9g3KX6.jpg",
+    "airDate": "2021-06-04"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-22",
+    "title": "Take My Thief! Please!",
+    "description": "After trying and failing to get rid of their Morpeko, Team Rocket hatch a plan to get Goh to capture it so they don't have to feed it anymore.",
+    "number": "22",
+    "image": "https://image.tmdb.org/t/p/original/zTR9S4A5wHxHqa6nvZWRAoMWhXI.jpg",
+    "airDate": "2021-06-11"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-23",
+    "title": "Leaping Toward the Dream!",
+    "description": "Goh travels to the Sinnoh region for his first mission with Project Mew, accompanied by Ash. It turns out, becoming a full team member is quite a trial!",
+    "number": "23",
+    "image": "https://image.tmdb.org/t/p/original/tlPI2UE966xQkf5hoIKrnqVBP23.jpg",
+    "airDate": "2021-06-18"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-24",
+    "title": "Everybody's Doing the Underground Shuffle!",
+    "description": "Ash, Goh and Chloe travel to Driftveil City after hearing about a Klink. Surprised in a cave by Team Rocket, the two groups' members get mixed up!",
+    "number": "24",
+    "image": "https://image.tmdb.org/t/p/original/dbRPeMgwyte7GvLi04pXtRa7ai0.jpg",
+    "airDate": "2021-06-25"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-25",
+    "title": "Grabbing the Brass Ring!",
+    "description": "After learning about Falinks from Professor Cerise, Ash and Goh go to Galar to see one. Meanwhile, an Eiscue adrift on an ice floe washes up in Galar.",
+    "number": "25",
+    "image": "https://image.tmdb.org/t/p/original/2Ryi3XnFpx9gJhVdR8uQshwu4mV.jpg",
+    "airDate": "2021-07-16"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-26",
+    "title": "Nightfall? Nightmares!",
+    "description": "Goh and Ash head to Sinnoh after reports of nightmares, suspecting the mythical Pokémon Darkrai is responsible. Chloe and Eevee travel to Sinnoh too.",
+    "number": "26",
+    "image": "https://image.tmdb.org/t/p/original/5PpCWsZKIztGb9Uxy4TwzxanBCy.jpg",
+    "airDate": "2021-07-23"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-27",
+    "title": "A Midsummer Night's Light!",
+    "description": "Dawn and Chloe find an injured Cresselia and are able to give it first aid. Ash and Goh are still on Darkrai's trail, and so is Team Rocket.",
+    "number": "27",
+    "image": "https://image.tmdb.org/t/p/original/vVXs2W6quKc7oW6aT55QROnr60d.jpg",
+    "airDate": "2021-07-30"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-28",
+    "title": "All Out, All of the Time!",
+    "description": "Ash and Goh race through the mountains on a deserted island in the Alola region — where they meet the lively All-Out brothers, Phil and Mayshure.",
+    "number": "28",
+    "image": "https://image.tmdb.org/t/p/original/pnPkQkxfRC3P9bQGGt7gW5BaiHw.jpg",
+    "airDate": "2021-08-13"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-29",
+    "title": "Excitement from the Ultra-Shocking Start!",
+    "description": "Ash has leveled up to the Ultra Class! Now, he must face gym leader Volkner in a blazing battle in solar-powered Sunyshore City.",
+    "number": "29",
+    "image": "https://image.tmdb.org/t/p/original/3Cfzd6FgmwDRvFJvw7M5aKc7iIF.jpg",
+    "airDate": "2021-08-20"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-30",
+    "title": "Detective Drizzile!",
+    "description": "Something has caused the Cerise Lab's data to suddenly vanish. Drizzile helps the team track down the mysterious culprit.",
+    "number": "30",
+    "image": "https://image.tmdb.org/t/p/original/ptUyhg0KBdJhhEzqdhYRmIC97G9.jpg",
+    "airDate": "2021-08-27"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-31",
+    "title": "Night and Day, You Are the Ones!",
+    "description": "Adam, Goh and Chloe arrive at Eclipse Castle to meet Espeon and Umbreon and see their special Pokémon powers firsthand.",
+    "number": "31",
+    "image": "https://image.tmdb.org/t/p/original/sJxXUMslqInvmHy75dmSO2arpba.jpg",
+    "airDate": "2021-09-03"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-32",
+    "title": "Trial on a Golden Scale!",
+    "description": "In search of Volcarona, the Sun Pokémon, Ash and Goh head to the Colossus Ruins in the Unova region for Goh's first trial mission from Project Mew.",
+    "number": "32",
+    "image": "https://image.tmdb.org/t/p/original/vtkIQW0wG2tbSV498F9IPHId8IV.jpg",
+    "airDate": "2021-09-10"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-33",
+    "title": "Mad About Blue!",
+    "description": "The crew spies the rare and spherical Voltorb and bumps into Gorman, a blue Pokémon fanatic. But Team Rocket plots to ruin the fun with this new friend.",
+    "number": "33",
+    "image": "https://image.tmdb.org/t/p/original/7amzh1ecoiO8gFElvXllncE2zRR.jpg",
+    "airDate": "2021-09-17"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-34",
+    "title": "The Sweet Taste of Battle!",
+    "description": "The tasty Alcremie, a Pokémon made of cream, floats toward Goh and pals. Later, gym leader Opal arranges a special challenge with Leon.",
+    "number": "34",
+    "image": "https://image.tmdb.org/t/p/original/bHkmIzGfuKQV8FukUyZyLzos2ii.jpg",
+    "airDate": "2021-10-01"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-35",
+    "title": "Star Night, Star Flight!",
+    "description": "Ash and Goh run into champion Cynthia while investigating strange phenomena in the Johto region, where daytime has plunged into total darkness.",
+    "number": "35",
+    "image": "https://image.tmdb.org/t/p/original/tHBbmeSkGL7QkesTOUfVydzGBCg.jpg",
+    "airDate": "2021-10-08"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-36",
+    "title": "An Adventure of Mega Proportions!",
+    "description": "Ash receives a mega glove from cheerleader Korrina in Shalour City. Later, the gang searches for a mega stone to help Lucario mega evolve.",
+    "number": "36",
+    "image": "https://image.tmdb.org/t/p/original/iIrIVjVGUrLslxvE4766Bw4oFZK.jpg",
+    "airDate": "2021-10-22"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-37",
+    "title": "Battle Three with Bea!",
+    "description": "Ash and Bea have already faced off twice. Will Ash have better luck during their third showdown at Stow-on-Side Stadium with Korrina in the stands?",
+    "number": "37",
+    "image": "https://image.tmdb.org/t/p/original/teO2swWZOkvbZ9Z1gfDZBxgw50y.jpg",
+    "airDate": "2021-10-29"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-38",
+    "title": "A Battle of Mega Versus Max!",
+    "description": "With a contentious back-and-forth battle with Bea, Ash brings out Sirfetch'd, Pikachu and Lucario to bolster his attacks and defensive strength.",
+    "number": "38",
+    "image": "https://image.tmdb.org/t/p/original/lJhxekT8Vk6eHjk0FEPhGsEbttb.jpg",
+    "airDate": "2021-11-05"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-39",
+    "title": "Breaking the Ice!",
+    "description": "Goh brings Ash along to school for a presentation. Later, transfer student Regina and her Glaceon Pokémon cause a freeze over the entire class.",
+    "number": "39",
+    "image": "https://image.tmdb.org/t/p/original/dwSES1o5J8b15ui6jXY16edazp3.jpg",
+    "airDate": "2021-11-12"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-40",
+    "title": "Looking Out for Number Two!",
+    "description": "Ash and Goh dive into the deep waters of the Hoenn region for Goh's trial mission. This time, he's off to catch a wild Kingdra, a Dragon Pokémon.",
+    "number": "40",
+    "image": "https://image.tmdb.org/t/p/original/yHiJLHloUpY5twhUGh4YOT1PMt5.jpg",
+    "airDate": "2021-11-19"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-41",
+    "title": "The Gates of Warp! (1)",
+    "description": "Team Rocket shows up while Ash, Goh and Chloe travel to the Sinnoh region to investigate multiple missing Pokémon reports — including Dawn's Piplup.",
+    "number": "41",
+    "image": "https://image.tmdb.org/t/p/original/9atYQFHpW5cW057lvicvUYGlTTY.jpg",
+    "airDate": "2021-12-03"
+},
+{
+    "id": "/pokemon-master-journeys-the-series-episode-42",
+    "title": "Showdown at the Gates of Warp! (2)",
+    "description": "Time's running out and flowing backwards as Ash, Goh and friends enter a strange world and battle alongside different versions of themselves.",
+    "number": "42",
+    "image": "https://image.tmdb.org/t/p/original/2nmLEJH2amRXtBxUb4m5hL2S3Fb.jpg",
+    "airDate": "2021-12-10"
+}]
 }
