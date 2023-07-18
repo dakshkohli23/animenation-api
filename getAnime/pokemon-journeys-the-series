@@ -969,246 +969,388 @@
       "rating": 65
     }
   ],
-  "episodes": [
-    {
-      "id": "pokemon-journeys-the-series-episode-1",
-      "title": "Pokémon Journeys: The Series Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-2",
-      "title": "Pokémon Journeys: The Series Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-3",
-      "title": "Pokémon Journeys: The Series Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-4",
-      "title": "Pokémon Journeys: The Series Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-5",
-      "title": "Pokémon Journeys: The Series Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-6",
-      "title": "Pokémon Journeys: The Series Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-7",
-      "title": "Pokémon Journeys: The Series Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-8",
-      "title": "Pokémon Journeys: The Series Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-9",
-      "title": "Pokémon Journeys: The Series Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-10",
-      "title": "Pokémon Journeys: The Series Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-11",
-      "title": "Pokémon Journeys: The Series Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-12",
-      "title": "Pokémon Journeys: The Series Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-13",
-      "title": "Pokémon Journeys: The Series Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-14",
-      "title": "Pokémon Journeys: The Series Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-15",
-      "title": "Pokémon Journeys: The Series Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-16",
-      "title": "Pokémon Journeys: The Series Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-17",
-      "title": "Pokémon Journeys: The Series Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-18",
-      "title": "Pokémon Journeys: The Series Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-19",
-      "title": "Pokémon Journeys: The Series Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-20",
-      "title": "Pokémon Journeys: The Series Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-21",
-      "title": "Pokémon Journeys: The Series Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-22",
-      "title": "Pokémon Journeys: The Series Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-23",
-      "title": "Pokémon Journeys: The Series Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-24",
-      "title": "Pokémon Journeys: The Series Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-25",
-      "title": "Pokémon Journeys: The Series Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-26",
-      "title": "Pokémon Journeys: The Series Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-27",
-      "title": "Pokémon Journeys: The Series Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-28",
-      "title": "Pokémon Journeys: The Series Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-29",
-      "title": "Pokémon Journeys: The Series Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-30",
-      "title": "Pokémon Journeys: The Series Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-31",
-      "title": "Pokémon Journeys: The Series Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-32",
-      "title": "Pokémon Journeys: The Series Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-33",
-      "title": "Pokémon Journeys: The Series Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-34",
-      "title": "Pokémon Journeys: The Series Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-35",
-      "title": "Pokémon Journeys: The Series Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-36",
-      "title": "Pokémon Journeys: The Series Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-37",
-      "title": "Pokémon Journeys: The Series Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-38",
-      "title": "Pokémon Journeys: The Series Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-39",
-      "title": "Pokémon Journeys: The Series Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-40",
-      "title": "Pokémon Journeys: The Series Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-41",
-      "title": "Pokémon Journeys: The Series Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-42",
-      "title": "Pokémon Journeys: The Series Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-43",
-      "title": "Pokémon Journeys: The Series Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-44",
-      "title": "Pokémon Journeys: The Series Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-45",
-      "title": "Pokémon Journeys: The Series Episode 45",
-      "number": 45
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-46",
-      "title": "Pokémon Journeys: The Series Episode 46",
-      "number": 46
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-47",
-      "title": "Pokémon Journeys: The Series Episode 47",
-      "number": 47
-    },
-    {
-      "id": "pokemon-journeys-the-series-episode-48",
-      "title": "Pokémon Journeys: The Series Episode 48",
-      "number": 48
-    }
-  ]
+  "episodes": [{
+    "id": "/pokemon-journeys-the-series-episode-1",
+    "title": "Enter Pikachu!",
+    "description": "Though he's excited to attend Professor Oak's Pokémon camp, Ash oversleeps when the day arrives. Newcomer Goh is just as excited — and on time.",
+    "number": "1",
+    "image": "https://image.tmdb.org/t/p/original/5B0hX4wmzK0ADqtPzqJydmznaOf.jpg",
+    "airDate": "2019-11-17"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-2",
+    "title": "Legend? Go! Friends? Go!",
+    "description": "Professor Oak invites Ash to the opening ceremony for Professor Cerise's new lab in Vermilion City. Goh sets out to catch a legendary Pokémon.",
+    "number": "2",
+    "image": "https://image.tmdb.org/t/p/original/bQnWnVtodvVZ2kU7E2saLn6z8WQ.jpg",
+    "airDate": "2019-11-24"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-3",
+    "title": "Ivysaur's Mysterious Tower!",
+    "description": "Professor Cerise asks Ash and Goh to investigate the sudden appearance of Ivysaur in Vermilion City, but the two researchers disagree on their methods.",
+    "number": "3",
+    "image": "https://image.tmdb.org/t/p/original/ojg5pBoWE62u7aM4YnBtf5bON1k.jpg",
+    "airDate": "2019-12-01"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-4",
+    "title": "Settling the Scorebunny!",
+    "description": "Ash and Goh head to the Galar region on assignment. During their stopover, some Pokémon steal Ash's backpack — with Ash and Goh's train tickets inside!",
+    "number": "4",
+    "image": "https://image.tmdb.org/t/p/original/ggG2jGcyvQ0shrtudAIeyHrwBkQ.jpg",
+    "airDate": "2019-12-08"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-5",
+    "title": "Mind-Boggling Dynamax!",
+    "description": "Once they get off the train, Ash and Goh set out on the hunt for Dynamax Pokémon. Meanwhile, a Scorbunny is hot on their trail.",
+    "number": "5",
+    "image": "https://image.tmdb.org/t/p/original/fqCS2pUFEcOFobFGlnKdhOfYEps.jpg",
+    "airDate": "2019-12-15"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-6",
+    "title": "Working My Way Back to Mew!",
+    "description": "After learning more about the Pokédex functions on their Rotom Phones from Professor Cerise, Ash and Goh head out to catch some local Pokémon.",
+    "number": "6",
+    "image": "https://image.tmdb.org/t/p/original/ur1906o1eW6H1izQh5UgGHrVDul.jpg",
+    "airDate": "2019-12-22"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-7",
+    "title": "Serving Up the Flute Cup!",
+    "description": "Ash and Goh travel to the Hoenn region, where Ash has entered Goh into the Battle Frontier Flute Cup. Their first opponents are Hodge and his Hariyama.",
+    "number": "7",
+    "image": "https://image.tmdb.org/t/p/original/4P2qsnvJHXZKLJnZVukpZxy4RAH.jpg",
+    "airDate": "2019-12-29"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-8",
+    "title": "The Sinnoh Iceberg Race!",
+    "description": "The internet is full of reports that legendary Pokémon Ho-Oh has been seen in the Johto region. The researchers head to Ecruteak City to check it out.",
+    "number": "8",
+    "image": "https://image.tmdb.org/t/p/original/hBHdKlsxt4Ll0xJgEtMo76fc3IU.jpg",
+    "airDate": "2020-01-12"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-9",
+    "title": "Finding a Legend!",
+    "description": "The internet is full of reports that legendary Pokémon Ho-Oh has been seen in the Johto region. The researchers head to Ecruteak City to check it out.",
+    "number": "9",
+    "image": "https://image.tmdb.org/t/p/original/rLCHkSHmlyzWNmIX7vhTQe1Xgwe.jpg",
+    "airDate": "2020-01-19"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-10",
+    "title": "A Test in Paradise!",
+    "description": "After a ship's captain reports being saved by a Dragonite, Goh and Ash set out in search of the Dragonite island that they believe exists ... somewhere.",
+    "number": "10",
+    "image": "https://image.tmdb.org/t/p/original/9dg2XLpqzDiyHsCPnwrtouhvd2Z.jpg",
+    "airDate": "2020-01-26"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-11",
+    "title": "Best Friend... Worst Nightmare!",
+    "description": "While the laboratory staff deal with a mysterious power outage, Chloe contemplates her future and her relationship with Pokémon.",
+    "number": "11",
+    "image": "https://image.tmdb.org/t/p/original/k12rgX1oarXlKW9mId1Od0WJlim.jpg",
+    "airDate": "2020-02-02"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-12",
+    "title": "Flash of the Titans!",
+    "description": "Professor Cerise gives Ash and Goh tickets to the World Coronation Series finals in the Galar region, where the strongest trainers battle for glory!",
+    "number": "12",
+    "image": "https://image.tmdb.org/t/p/original/1WNo6WeZZZdZYE8QW6r8iIozXNI.jpg",
+    "airDate": "2020-02-09"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-13",
+    "title": "The Climb to Be the Very Best!",
+    "description": "When a Gigantamax Drednaw interrupts the World Coronation finals in pursuit of Team Rocket, Ash, Goh and their Pokémon spring into action!",
+    "number": "13",
+    "image": "https://image.tmdb.org/t/p/original/2klABYM5z9YrPSnrCiY9QYgcssS.jpg",
+    "airDate": "2020-02-16"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-14",
+    "title": "Raid Battle in the Ruins!",
+    "description": "Ash and Goh travel to the Unova region, where they head to the newly discovered Ruins of the Titan site at Desert Resort to search for Pokémon.",
+    "number": "14",
+    "image": "https://image.tmdb.org/t/p/original/mM3yuV8SSsXMhTc1JIxBEauOblD.jpg",
+    "airDate": "2020-02-23"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-15",
+    "title": "A Snow Day for Searching!",
+    "description": "After snow in Vermilion City forces Professor Cerise to shut down the lab for system maintenance, Goh heads home for a few days to visit his family.",
+    "number": "15",
+    "image": "https://image.tmdb.org/t/p/original/c9lAA3Q6kN4hzLmFIjdq9XpuC2A.jpg",
+    "airDate": "2020-03-01"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-16",
+    "title": "A Chilling Curse!",
+    "description": "Gengar's hauntings at the lab resume. Ash and Goh vow to capture the poltergeist Pokémon, and Professor Cerise explains the lab's paranormal history.",
+    "number": "16",
+    "image": "https://image.tmdb.org/t/p/original/ak8ErJyeoDPcc8X8s4IjcOEZodU.jpg",
+    "airDate": "2020-03-08"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-17",
+    "title": "Kicking It from Here Into Tomorrow!",
+    "description": "After Darmanitan taunts Scorbunny in a practice battle, Scorbunny is determined to learn the Ember attack, but getting Goh's attention is a challenge.",
+    "number": "17",
+    "image": "https://image.tmdb.org/t/p/original/kTWMA5ZGuNDblqasIBuzTkHhWYy.jpg",
+    "airDate": "2020-03-15"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-18",
+    "title": "Destination: Coronation!",
+    "description": "Ash and Goh head to the Vermilion Gym, where Ash challenges the substitute Gym Leader as his first World Coronation Series opponent.",
+    "number": "18",
+    "image": "https://image.tmdb.org/t/p/original/ljOAyHYO622SwxWVsnmn6s1pSld.jpg",
+    "airDate": "2020-03-22"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-19",
+    "title": "A Talent for Imitation!",
+    "description": "Goh and Ash visit a film set, where the star, a Ditto, flees after a fight with the director. They search for her, but she's fallen in with Team Rocket!",
+    "number": "19",
+    "image": "https://image.tmdb.org/t/p/original/glFopnB8SNhWiSGMrfuZpGL10bW.jpg",
+    "airDate": "2020-03-29"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-20",
+    "title": "Dreams Are Made of These!",
+    "description": "Pokémon Orienteering day dawns bright and early, with Ash, Goh and Professor Cerise each leading a group of kids on a trek through Vermilion City.",
+    "number": "20",
+    "image": "https://image.tmdb.org/t/p/original/dv8k2PeWCPfEoQ92bjYERvsnRXN.jpg",
+    "airDate": "2020-04-05"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-21",
+    "title": "Caring for a Mystery!",
+    "description": "After learning about Pokémon Eggs, Goh wants to find one. Ash's latest World Coronation Series match ends with him feeling like someone is calling him.",
+    "number": "21",
+    "image": "https://image.tmdb.org/t/p/original/8gEgowliruRjqtB0zyUxHeqS9UK.jpg",
+    "airDate": "2020-04-12"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-22",
+    "title": "Goodbye, Friend!",
+    "description": "Ash and Goh head to the Hoenn region to witness the annual migration of Beautifly, but first they have to find them. Goh's Raboot starts acting out.",
+    "number": "22",
+    "image": "https://image.tmdb.org/t/p/original/cvCc2gI2nwEH10F8KaUy79ehGPM.jpg",
+    "airDate": "2020-04-19"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-23",
+    "title": "Panic in the Park!",
+    "description": "Someone seems to be stealing the food that the researchers leave out for Pokémon in Cerise Park. To catch the culprit, Ash and Goh camp out.",
+    "number": "23",
+    "image": "https://image.tmdb.org/t/p/original/jMK1lYUqKsoqW8qjoRJp4ioAOhz.jpg",
+    "airDate": "2020-06-07"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-24",
+    "title": "A Little Rocket R & R!",
+    "description": "Team Rocket are sent to the Sinnoh region for a vacation, but their break is interrupted by the arrival of Ash and Goh looking for a special Pokémon.",
+    "number": "24",
+    "image": "https://image.tmdb.org/t/p/original/1l7po020ShRxa2skb2XK85gOhBO.jpg",
+    "airDate": "2020-06-14"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-25",
+    "title": "A Festival Reunion!",
+    "description": "Ash and Goh head to the Kalos region, where Goh wants to catch Kalos Pokémon and Ash sets his sights on a World Coronation Series Battle Festival.",
+    "number": "25",
+    "image": "https://image.tmdb.org/t/p/original/wiadOqP7orABQmUuaG3UBW2bY57.jpg",
+    "airDate": "2020-06-21"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-26",
+    "title": "Splash, Dash, and Smash for the Crown! / Slowking's Crowning!",
+    "description": "Goh enters his giant Magikarp in the tenth annual Magikarp High Jump Tournament. Then he and Ash head to Slowpoke Island, hoping to catch a Slowpoke.",
+    "number": "26",
+    "image": "https://image.tmdb.org/t/p/original/jf477Q5I56jUYS2AZikctZwUAiN.jpg",
+    "airDate": "2020-06-28"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-27",
+    "title": "Toughing It Out!",
+    "description": "Professor Cerise gives Ash and Goh tickets to a World Coronation Series Master Class battle in Galar, with challenger Raihan battling champion Leon.",
+    "number": "27",
+    "image": "https://image.tmdb.org/t/p/original/2eKvz52xTWzWtQIz2E64ycCLBhT.jpg",
+    "airDate": "2020-07-05"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-28",
+    "title": "Sobbing Sobble!",
+    "description": "A Sobble sneaks up on Ash and Goh while they're eating at the Wyndon Pokémon Center. To catch it, they have to follow a trail of crying people.",
+    "number": "28",
+    "image": "https://image.tmdb.org/t/p/original/hPE6jKT8uExEdthDCYMEGBUYyWz.jpg",
+    "airDate": "2020-07-12"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-29",
+    "title": "There's a New Kid in Town!",
+    "description": "Yamper brings home an injured Pidove, so Professor Cerise and his family decide to nurse it back to health. Chloe has her hands full keeping the peace!",
+    "number": "29",
+    "image": "https://image.tmdb.org/t/p/original/bCK1egUhu9Yy1IQq2fizifpi8fk.jpg",
+    "airDate": "2020-07-19"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-30",
+    "title": "Betrayed, Bothered, and Beleaguered!",
+    "description": "Ash and Riolu are on a roll after the latest World Coronation Series battle, and Pikachu is jealous! When Ash's mom visits, Pikachu follows her home.",
+    "number": "30",
+    "image": "https://image.tmdb.org/t/p/original/eUKG2X2fTgvr0yzZpX26eB87viU.jpg",
+    "airDate": "2020-07-26"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-31",
+    "title": "The Cuteness Quotient!",
+    "description": "Chloe asks Ash and Goh to step in at her younger brother Parker's school: His friend Nami is upset that other kids say her Feebas isn't cute.",
+    "number": "31",
+    "image": "https://image.tmdb.org/t/p/original/zFHXsqavv3swyjXtufYYvubPtM1.jpg",
+    "airDate": "2020-08-02"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-32",
+    "title": "Time After Time!",
+    "description": "Goh joins his parents for a family vacation in the Johto region. Walking through the woods, he recalls meeting another trainer there three years ago.",
+    "number": "32",
+    "image": "https://image.tmdb.org/t/p/original/cC9NBHCWLr9XtxH5vJl0IwSd9AD.jpg",
+    "airDate": "2020-08-09"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-33",
+    "title": "Trade, Borrow, and Steal!",
+    "description": "The local Pokémon Center is hosting a Pokémon trading event. When Ash and Goh head over to check it out, they meet a trainer who's a Bug-type enthusiast.",
+    "number": "33",
+    "image": "https://image.tmdb.org/t/p/original/jhLe1VBl1mkaLUeLiFc01yM07bq.jpg",
+    "airDate": "2020-08-16"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-34",
+    "title": "Solitary and Menacing!",
+    "description": "Ash travels to Saffron City to battle his next opponent, but when he learns that the Karate Master has been defeated, he challenges the victor instead.",
+    "number": "34",
+    "image": "https://image.tmdb.org/t/p/original/zox0AWwn7SUSPTjizKpWby8Imyf.jpg",
+    "airDate": "2020-08-23"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-35",
+    "title": "Gotta Catch a What?!",
+    "description": "Goh decides to catch a Pikachu, and Professor Cerise informs him about a mass outbreak of Pikachu in the mountains. But Team Rocket is on the hunt too!",
+    "number": "35",
+    "image": "https://image.tmdb.org/t/p/original/kBzAkJp7Wf82ug2AenauDCvqyK4.jpg",
+    "airDate": "2020-08-30"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-36",
+    "title": "Making Battles in the Sand!",
+    "description": "After Ash battles new opponents in the World Coronation Series, the Cerise Laboratory researchers head to the Hoenn region to investigate a sandstorm.",
+    "number": "36",
+    "image": "https://image.tmdb.org/t/p/original/zrEIsWVX6X679EzrnMV4dOvA3ka.jpg",
+    "airDate": "2020-09-06"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-37",
+    "title": "That New Old Gang of Mine!",
+    "description": "Ash and Goh head to the Alola region and reunite with Professor Kukui, Professor Burnet and Ash's human and Pokémon friends at the Pokémon School.",
+    "number": "37",
+    "image": "https://image.tmdb.org/t/p/original/l8o3wFpx4KK8jdPqS2Yp7l6fVOH.jpg",
+    "airDate": "2020-09-13"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-38",
+    "title": "Restore and Renew!",
+    "description": "With Chloe in tow, Ash and Goh visit the Pewter Museum of Science. Goh heads to a public dig site to find a Fossil Pokémon, but Team Rocket is there!",
+    "number": "38",
+    "image": "https://image.tmdb.org/t/p/original/gNdwc97ckQ5idNQVTUyDrXMhx52.jpg",
+    "airDate": "2020-09-20"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-39",
+    "title": "Octo-Gridlock at the Gym!",
+    "description": "Goh and Ash travel to the Cianwood Gym in the Johto region so Ash can take on Bea in a World Coronation Series rematch.",
+    "number": "39",
+    "image": "https://image.tmdb.org/t/p/original/sq5JjwENvWGciGXHobd8RiLlcld.jpg",
+    "airDate": "2020-09-27"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-40",
+    "title": "A Crackling Raid Battle!",
+    "description": "When a hot day in Vermilion City turns thunderous, Ash, Goh and Professor Cerise suspect that the Legendary bird Pokémon Zapdos is somewhere nearby.",
+    "number": "40",
+    "image": "https://image.tmdb.org/t/p/original/e5dAi18VjSyDOMZsOn2ALj3lBgU.jpg",
+    "airDate": "2020-10-09"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-41",
+    "title": "Pikachu Translation Check! / Up to Your Neck!",
+    "description": "While Meowth battles a cold, Jessie and James review a video of Ash's Pikachu. On a forest walk, Ash and Goh try to help a wild Marshtomp.",
+    "number": "41",
+    "image": "https://image.tmdb.org/t/p/original/zAddVCqGi6yo9c3NtQqCAYeAXa5.jpg",
+    "airDate": "2020-10-16"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-42",
+    "title": "Sword and Shield, Slumbering Weald!",
+    "description": "Ash and Goh set out for the Galar region to investigate the Dynamax phenomenon. During a train delay, they meet strange Pokémon in a mysterious forest.",
+    "number": "42",
+    "image": "https://image.tmdb.org/t/p/original/dSCvXsX6V2Vgp0OscVQijpZaL83.jpg",
+    "airDate": "2020-10-23"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-43",
+    "title": "Sword and Shield: The Darkest Day!",
+    "description": "While Goh and Sonia investigate the Darkest Day in Turffield, Team Rocket infiltrates the Galar Energy Plant, with Ash and Leon heading there too.",
+    "number": "43",
+    "image": "https://image.tmdb.org/t/p/original/fKIAh83j4tLnAAVS31B125lZYmh.jpg",
+    "airDate": "2020-10-30"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-44",
+    "title": "Sword and Shield: From Here to Eternatus!",
+    "description": "Ash heads to Stow-on-Side to meet Sonia and Goh, who conclude that the Darkest Day is a Pokémon. At the Energy Plant, Leon encounters it directly.",
+    "number": "44",
+    "image": "https://image.tmdb.org/t/p/original/hZR9n6GJY5758X2cXmB6zWL9by9.jpg",
+    "airDate": "2020-11-06"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-45",
+    "title": "Sword and Shield... The Legends Awaken!",
+    "description": "At the stadium, Leon and Team Rocket are no match for Eternatus. Ash takes on Chairman Rose while Goh battles Oleana to break through and end the chaos.",
+    "number": "45",
+    "image": "https://image.tmdb.org/t/p/original/aQ8fLgG70ls6wkNntmXUfdBJP8Y.jpg",
+    "airDate": "2020-11-13"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-46",
+    "title": "Getting More Than You Battled For!",
+    "description": "When Psychic energy is detected on Cero Island, Ash and Goh head out in hopes of finding Mew. When they get there, they meet an old foe: Mewtwo!",
+    "number": "46",
+    "image": "https://image.tmdb.org/t/p/original/6uudf4JYzUhp4lJBsPW4dOCZJXZ.jpg",
+    "airDate": "2020-11-20"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-47",
+    "title": "Crowning the Chow Crusher!",
+    "description": "The Vermilion City Pokémon Eating Contest is on, and Ash, Goh and their Pokémon are competing for a trip to Unova. Team Rocket wants to win too.",
+    "number": "47",
+    "image": "https://image.tmdb.org/t/p/original/d8H3sZBlgnJifhyy5JQo73Qzyf3.jpg",
+    "airDate": "2020-11-27"
+},
+{
+    "id": "/pokemon-journeys-the-series-episode-48",
+    "title": "A Close Call... Practically!",
+    "description": "Setting out on Goh's prize trip, Ash and Goh arrive in Castelia City. Unbeknownst to them, Team Rocket is lying in wait to kidnap Pikachu!",
+    "number": "48",
+    "image": "https://image.tmdb.org/t/p/original/2jJVAKphGlMjqixTueMBnZcfxDi.jpg",
+    "airDate": "2020-12-04"
+}]
 }
