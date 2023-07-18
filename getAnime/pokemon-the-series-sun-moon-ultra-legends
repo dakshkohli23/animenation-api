@@ -36,6 +36,7 @@
     "day": 7
   },
   "totalEpisodes": 54,
+  "currentEpisode": 54,
   "rating": 66,
   "duration": 24,
   "genres": [
@@ -969,276 +970,436 @@
       "rating": 65
     }
   ],
-  "episodes": [
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-1",
-      "title": "Pokémon The Series: XY Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-2",
-      "title": "Pokémon The Series: XY Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-3",
-      "title": "Pokémon The Series: XY Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-4",
-      "title": "Pokémon The Series: XY Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-5",
-      "title": "Pokémon The Series: XY Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-6",
-      "title": "Pokémon The Series: XY Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-7",
-      "title": "Pokémon The Series: XY Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-8",
-      "title": "Pokémon The Series: XY Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-9",
-      "title": "Pokémon The Series: XY Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-10",
-      "title": "Pokémon The Series: XY Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-11",
-      "title": "Pokémon The Series: XY Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-12",
-      "title": "Pokémon The Series: XY Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-13",
-      "title": "Pokémon The Series: XY Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-14",
-      "title": "Pokémon The Series: XY Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-15",
-      "title": "Pokémon The Series: XY Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-16",
-      "title": "Pokémon The Series: XY Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-17",
-      "title": "Pokémon The Series: XY Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-18",
-      "title": "Pokémon The Series: XY Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-19",
-      "title": "Pokémon The Series: XY Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-20",
-      "title": "Pokémon The Series: XY Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-21",
-      "title": "Pokémon The Series: XY Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-22",
-      "title": "Pokémon The Series: XY Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-23",
-      "title": "Pokémon The Series: XY Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-24",
-      "title": "Pokémon The Series: XY Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-25",
-      "title": "Pokémon The Series: XY Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-26",
-      "title": "Pokémon The Series: XY Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-27",
-      "title": "Pokémon The Series: XY Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-28",
-      "title": "Pokémon The Series: XY Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-29",
-      "title": "Pokémon The Series: XY Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-30",
-      "title": "Pokémon The Series: XY Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-31",
-      "title": "Pokémon The Series: XY Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-32",
-      "title": "Pokémon The Series: XY Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-33",
-      "title": "Pokémon The Series: XY Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-34",
-      "title": "Pokémon The Series: XY Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-35",
-      "title": "Pokémon The Series: XY Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-36",
-      "title": "Pokémon The Series: XY Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-37",
-      "title": "Pokémon The Series: XY Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-38",
-      "title": "Pokémon The Series: XY Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-39",
-      "title": "Pokémon The Series: XY Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-40",
-      "title": "Pokémon The Series: XY Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-41",
-      "title": "Pokémon The Series: XY Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-42",
-      "title": "Pokémon The Series: XY Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-43",
-      "title": "Pokémon The Series: XY Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-44",
-      "title": "Pokémon The Series: XY Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-45",
-      "title": "Pokémon The Series: XY Episode 45",
-      "number": 45
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-46",
-      "title": "Pokémon The Series: XY Episode 46",
-      "number": 46
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-47",
-      "title": "Pokémon The Series: XY Episode 47",
-      "number": 47
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-48",
-      "title": "Pokémon The Series: XY Episode 48",
-      "number": 48
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-49",
-      "title": "Pokémon The Series: XY Episode 49",
-      "number": 49
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-50",
-      "title": "Pokémon The Series: XY Episode 50",
-      "number": 50
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-51",
-      "title": "Pokémon The Series: XY Episode 51",
-      "number": 51
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-52",
-      "title": "Pokémon The Series: XY Episode 52",
-      "number": 52
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-53",
-      "title": "Pokémon The Series: XY Episode 53",
-      "number": 53
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-ultra-legends-episode-54",
-      "title": "Pokémon The Series: XY Episode 54",
-      "number": 54
-    }
-  ]
+  "episodes": [{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-1",
+    "title": "Lillier and the Staff!",
+    "description": "Today is the sole performance of the Pokémon School play, and everyone’s so excited! Lillie stars as Lillier, a brave adventurer who is charged with restoring Alola’s lost energy using a staff imbued with the power of Legendary Pokémon. But Act Two takes an unexpected turn, as Jessie, in disguise as Jessa Bergère, crashes the performance to steal the spotlight for herself! After some confusion, Rotom Dex writes a magnificent new script on the fly, bringing the crowd (including Ash’s mom) to applause for a job well done!",
+    "number": "1",
+    "image": "https://image.tmdb.org/t/p/original/2qZUXEaYtsIGW0fCBDfdLVS76it.jpg",
+    "airDate": "2018-10-21"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-2",
+    "title": "A Haunted House for Everyone!",
+    "description": "Harper and Sarah are determined to visit a haunted house, but when our heroes are stumped as to where to find one, Acerola suggests they create their own! At first, Shuppet and Mimikins provide ghostly entertainment for the twins, but then several other Ghost-type Pokémon join in on the fun. Everyone gets caught up in what looks like a scary dream, but when Komala strikes the Pokémon School bell, they all wake up and breathe a sigh of relief! Still, Lana is not amused with her sisters’ rambunctious behavior…",
+    "number": "2",
+    "image": "https://image.tmdb.org/t/p/original/qEzJcfJN6LP9i7PYFVhUWXgxM7W.jpg",
+    "airDate": "2018-10-28"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-3",
+    "title": "Sparking Confusion!",
+    "description": "The Ultra Guardians have been summoned to investigate unusual magnetic activity around Wela Volcano, where they discover a group of Alolan Geodude and Alolan Graveler munching on Spark Stones. But our heroes also find a group of rock hunters who are after the Spark Stones for themselves. The Ultra Guardians spring into action…but so does an enraged Alolan Golem, who sends the rock hunters packing! Thanks to the efforts of Sophocles’s friend Metang, the Golem eventually calms down—and it happily joins a group of Hikers who promise to keep watch over the volcano!",
+    "number": "3",
+    "image": "https://image.tmdb.org/t/p/original/iUWJq5ZhvythKjqo2uta7hAPcOQ.jpg",
+    "airDate": "2018-11-04"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-4",
+    "title": "Don't Ignore the Small Stufful!",
+    "description": "Ash heads to Aether Paradise to deliver the lunches Professor Burnet and Munchlax forgot at home, and he and Lillie enjoy seeing the Pokémon there. But Team Rocket is there, too, plotting to steal Pokémon while in disguise as Aether Paradise employees. When one of the Pokémon from the conservation area, an adorable Stufful, goes missing, everyone suspects Team Rocket of foul play. But Stufful refuses to leave Team Rocket’s side, and when Bewear appears to whisk them away, everyone learns that Bewear and Stufful are family! This time, Team Rocket’s exit includes a new member of the group: Stufful!",
+    "number": "4",
+    "image": "https://image.tmdb.org/t/p/original/dZMRBNbz1Z8c5j25q2SaxHMfoqH.jpg",
+    "airDate": "2018-11-11"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-5",
+    "title": "No Stone Unturned!",
+    "description": "Hau and his partner Dartrix are training hard for the island challenge when they have a run-in with Ash and Rowlet. When Ash learns that Hau’s grandfather is Kahuna Hala, he challenges his new friend to a battle!\r\n\r\nDartrix wins easily, but Rowlet is fired up, and at a suggestion from Professor Burnet, Ash decides to teach it a new move. Returning to the woods where they first met, they encounter Trumbeak and Toucannon, who try to teach Rowlet to use Bullet Seed. That isn’t a move Rowlet can learn, but with determination, it does master Seed Bomb (after swallowing an Everstone)—and in the rematch, Rowlet emerges victorious!",
+    "number": "5",
+    "image": "https://image.tmdb.org/t/p/original/sSUQjHwl9UKPvl1KiZDG8Ak1Aem.jpg",
+    "airDate": "2018-11-18"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-6",
+    "title": "Bright Lights, Big Changes!",
+    "description": "When Rotom Dex catches a continuity error during the filming of Alolan Detective Laki, the cast and crew are so impressed that they invite it to join the show and help Laki solve cases! Ash is thrilled, until he realizes the international shooting schedule means Rotom will have to leave…\r\n\r\nWhile our hero sadly considers this option, a serious conversation with Laki reminds Rotom that its real dream is to be the best Pokédex in the world—and when Ash tries to be strong and send his friend off to pursue an acting career, it decides to stay and study rare Pokémon with him instead!",
+    "number": "6",
+    "image": "https://image.tmdb.org/t/p/original/cXMhzBG9DTyYIN8ZtDCO4M9Sptt.jpg",
+    "airDate": "2018-11-25"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-7",
+    "title": "We Know Where You're Going, Eevee!",
+    "description": "A familiar Eevee has been making its way across the ocean toward Alola, and its journey has been filled with adventure. A series of harrowing encounters—including a brush with Team Skull—has tested its determination, but when it finally finds our heroes, it’s as happy as can be! After forming a bond with Popplio, Eevee’s ready to join Lana’s team…but not before Lana gives it a name: Sandy! Lana and her family are thrilled to get to know her new partner—and Sandy’s excited to get to know them, too!",
+    "number": "7",
+    "image": "https://image.tmdb.org/t/p/original/dIp0gjFnZiv4Mj8aF4SwjCz679z.jpg",
+    "airDate": "2018-12-02"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-8",
+    "title": "Battling the Beast Within!",
+    "description": "While battling Tapu Koko, Ash and Pikachu suddenly find themselves in an unfamiliar place inhabited by a menacing Ultra Beast known as Guzzlord! Guzzlord’s power is fearsome, but a mysterious man named Dia—accompanied by the Mythical Pokémon Zeraora—comes to our heroes’ aid. Ash wants to help Dia reclaim his home from Guzzlord’s destructive wrath, but after Dia defeats Ash in a test battle, our hero relents. He and Pikachu must return to their own home, but how? Dia offers them shelter for the night, but on the way, they discover an abandoned Pokémon School! What could all of this mean?",
+    "number": "8",
+    "image": "https://image.tmdb.org/t/p/original/1FqNFJGf70YPiL0FAAHMEUaNooV.jpg",
+    "airDate": "2018-12-09"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-9",
+    "title": "Parallel Friendships!",
+    "description": "After traveling to an unfamiliar place, Ash encounters the Pokémon School in ruins. The mysterious Dia explains that Ash must be from a parallel world, where the Alola region hasn’t been destroyed.\r\n\r\nAfter convincing Zeraora to help Pikachu train, Ash teams up with Dia to force Guzzlord back to its own world through an Ultra Wormhole. Zeraora and Pikachu use powerful attacks against Guzzlord’s weak spot, but it isn’t enough. Then, the parallel world’s Tapu Koko appears and enables them to use their Z-Moves again, and it works! Guzzlord is banished, and for the first time, Dia sees hope for his world as Ash returns to his own.",
+    "number": "9",
+    "image": "https://image.tmdb.org/t/p/original/dXLkiBgU8X3V40Bjd7nuS6fancn.jpg",
+    "airDate": "2019-07-15"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-10",
+    "title": "Alola, Alola!",
+    "description": "As our heroes prepare for a break from Pokémon School, Lana makes a surprise announcement: they have visitors! Who? None other than Misty and Brock! Everyone’s excited to show Ash’s longtime friends around Alola, and when Ash tells them about Treasure Island—a place he and Pikachu previously visited—they’re off! They meet up with a group of Mantine who love to surf, but Team Rocket is determined to make a splash—by catching the Mantine and Pikachu! But they’re no match for our heroes, who shower the trio with a series of attacks that send them blasting off again…just like old times!",
+    "number": "10",
+    "image": "https://image.tmdb.org/t/p/original/sB1WoggoKk7biVlu5fqrWpLVGkO.jpg",
+    "airDate": "2019-07-16"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-11",
+    "title": "Heart of Fire! Heart of Stone!",
+    "description": "Brock and Misty are having quite a busy vacation in Alola! Ash and the Pokémon School gang admire Brock’s culinary skills, boosted by delicious ingredients from Kiawe’s family farm. They decide to visit the farm on Akala Island—mostly because Brock has been determined to meet the beautiful Kahuna Olivia!\r\n\r\nLike many of Brock’s crushes, Olivia is taken aback…but the two are soon bonding over their shared love of Rock types, and when Team Rocket attacks, they respond with a paired-up Z-Move! Brock and Misty’s visit ends with a beautiful fireworks display and promises to return to Alola for more vacation fun!",
+    "number": "11",
+    "image": "https://image.tmdb.org/t/p/original/4SqsD3LYdSOhsd3fEvuzzvSuLxL.jpg",
+    "airDate": "2019-07-17"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-12",
+    "title": "That's Some Spicy Island Research!",
+    "description": "The Pokémon School class is visiting Poni Island, and everyone is excited about their upcoming research projects. Ash wants to compete in his fourth grand trial, but because the island currently has no kahuna, he plans to challenge Tapu Fini instead! While searching for the Island Guardian, he meets a Trainer named Hapu, who impresses our hero with her tenacity and battling skills. Although Hapu doesn’t share Ash’s enthusiasm, she respects his determination. And when Team Skull tries to capture a group of Oricorio, she jumps into the fray and defeats the hapless trio with just one hit!",
+    "number": "12",
+    "image": "https://image.tmdb.org/t/p/original/takvgJ7ATbnBdSY7bXE2EljLAhl.jpg",
+    "airDate": "2019-07-18"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-13",
+    "title": "Showdown on Poni Island!",
+    "description": "When Hapu learns that Ash wants to battle Tapu Fini for his Poni Island grand trial, she lectures him about the true meaning of a grand trial, and Mudsdale backs it up with a tremendous kick! Ash goes flying and lands near Gladion, who’s also come to challenge the Island Guardian.\r\n\r\nThe two rivals decide to battle each other instead, in a Lycanroc showdown: Gladion’s Midnight Form versus Ash’s Dusk Form! Hapu reluctantly agrees to be the referee, and as the battle continues, she begins to understand Ash’s determination. After Gladion wins, Tapu Fini makes an appearance, and our heroes wonder if it will listen to their request…",
+    "number": "13",
+    "image": "https://image.tmdb.org/t/p/original/t0Z4ptKtAXrZAEac1tYKC6bpvYJ.jpg",
+    "airDate": "2019-07-22"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-14",
+    "title": "Evolving Research!",
+    "description": "As our heroes continue their research projects, Sophocles wants to help Charjabug evolve. The pair set off to Vast Poni Canyon and encounter Horacio, who wants his own Charjabug to evolve first. But when Horacio ends up in danger, Sophocles’s Charjabug springs into rescue mode and evolves into Vikavolt!\r\n\r\nMeanwhile, Lana has her heart set on training, but she’s disappointed because her mentor, Ida, is about to depart Poni Island. Still, Popplio and Sandy have fun playing with Ida’s Primarina, and when Lana decides to show Ida what she’s capable of, Popplio evolves into Brionne! As congratulations, Ida gives Lana her own Primarium Z and encourages her to continue training.",
+    "number": "14",
+    "image": "https://image.tmdb.org/t/p/original/t6d1ites2n9GIxxkM6NcMa8G3EV.jpg",
+    "airDate": "2019-07-23"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-15",
+    "title": "Run, Heroes, Run!",
+    "description": "Ash and Kiawe set off to challenge Tapu Fini to a grand trial, but when they get no response, they decide to battle each other to attract its attention. When the battle gets out of hand and starts to damage the surrounding ruins, Ash finds himself trapped in an energy field as punishment, and a mysterious old man tells Kiawe he must return with a scale from Tapu Lele to rescue his friend. Kiawe completes his quest just in time—and when Tapu Fini appears and gives him a Z-Crystal, it becomes clear that this was Kiawe’s grand trial!\r\n\r\nMeanwhile, Mallow has been working with Hapu to develop new recipes using Poni Radishes. Two more research projects completed!",
+    "number": "15",
+    "image": "https://image.tmdb.org/t/p/original/uTS4wJZ7W6gjJUf2CYLEBOWxOQV.jpg",
+    "airDate": "2019-02-03"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-16",
+    "title": "Memories in the Mist!",
+    "description": "Get your tissues ready, because this episode of Pokémon the Series: Sun & Moon—Ultra Legends is a real tearjerker. On Poni Island, Hapu tells Ash and friends about a strange mist created by Tapu Fini. When people and Pokémon venture into the fog, they can be temporarily reunited with loved ones who have passed on. Ash, Mallow, and Hapu herself all encounter the mist, and when Lillie and Gladion emerge from it, a shocking revelation sets the stage for an exciting mystery!",
+    "number": "16",
+    "image": "https://image.tmdb.org/t/p/original/usrDglRMJ73GG4QE3zivaEsBwIE.jpg",
+    "airDate": "2019-02-10"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-17",
+    "title": "A Grand Debut!",
+    "description": "Following her standing up to Tapu Fini, Hapu has finally become the Island Kahuna of Poni Island, and Ash challenges her to her Grand Trial. Her trial requires Ash to battle her with just one Pokémon. With Hapu using her Mudsale, Ash and Pikachi face a tough battle. Will they be able to win the Grand Trial and finish Ash's research project?",
+    "number": "17",
+    "image": "https://image.tmdb.org/t/p/original/kPDqNjXtU5oOpAO2aBnq8KiKLZ6.jpg",
+    "airDate": "2019-02-17"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-18",
+    "title": "Keeping Your Eyes on the Ball!",
+    "description": "After their visit to Poni Island, Ash and the gang meet legendary Poké-golfer Kahili, who has been on a losing streak lately, and her partner Touckey (Toucannon). It's the first time that the gang has seen Poké-Golf, a sport that's popular in Alola, and are fascinated, so they ask Kahili to teach them how to play. In this version of Golf, both trainer and Pokémon must work together...will they do well and who is this self-proclaimed \"Caddie Expert\" who keeps butting in?",
+    "number": "18",
+    "image": "https://image.tmdb.org/t/p/original/tY7sscLqg6rvfSKRcM9a69b4OxT.jpg",
+    "airDate": "2019-02-24"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-19",
+    "title": "Show Me the Metal!",
+    "description": "Some mysterious and unknown Pokémon have arrived on Melemele Island, and they eat metal! They start wreaking havoc across the island, including eating the tools at the Pokémon School, the equipment in the Ultra Guardians' headquarters and even James's precious bottle cap collection. James is enraged and decides to chase down the Pokémon to get his revenge. Just who and what are they and why is one of them hanging around Ash's Rowlet?",
+    "number": "19",
+    "image": "https://image.tmdb.org/t/p/original/1ZuwCJJu5eBFMvQTOOhjcn5U7Pq.jpg",
+    "airDate": "2019-03-03"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-20",
+    "title": "Got Meltan?",
+    "description": "Professor Oak has finished his research on the mysterious new Pokémon Ash reported and names the new Pokémon Meltan, a Steel-type. One of the Meltan has grown attached to Ash's Rowlet and stows away in Ash's backpack with Rowlet to join them all at the Pokémon School, but after an incident with a Murkrow, it loses its Hex-Nut. Rowlet tries to replace it but nothing he tries seems to work, so he and Meltan head out to find its Hex-Nut. However, they run into Team Rocket, who have found Meltan's Hex-Nut and are still after all the Meltan. Will Rowlet be able to protect Meltan?",
+    "number": "20",
+    "image": "https://image.tmdb.org/t/p/original/9hCPwgoKNOtiiqr6C9nzQtS8MZT.jpg",
+    "airDate": "2019-03-10"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-21",
+    "title": "This Magik Moment!",
+    "description": "Sophocles is on a TV quiz show, so Ash and the gang come to the station to cheer him on. While there, they see the filming of a series starring a Magikarp; however, the Magikarp seems to have something wrong with it. On another TV show, the regular actresses don't show up in time, which leads to Lana, Mallow and Lillie being cast as replacements.",
+    "number": "21",
+    "image": "https://image.tmdb.org/t/p/original/AbBRvd5G9ajzDUEMB2GKqZE4ORT.jpg",
+    "airDate": "2019-03-17"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-22",
+    "title": "Beauty is Only Crystal Deep!",
+    "description": "A new Ultra Beast, Pheromosa, has appeared and started attacking trainers and stealing their Z-Crystals. The Ultra Guardians are tasked with stopping Pheromosa. Pheromosa steals Team Rocket's Z-Crystals, but while trying to stop it Meowth falls in love with Pheromosa. Will anybody be able to stop it before it's too late?",
+    "number": "22",
+    "image": "https://image.tmdb.org/t/p/original/l7UHgRPpZ8Mv6BNeL4bdfyFhyy6.jpg",
+    "airDate": "2019-03-24"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-23",
+    "title": "The Dealer of Destruction!",
+    "description": "After much planning, Professor Kukui has finally announced the formation of a Pokémon League in Alola. However, while the rest of Alola (including Team Rocket) celebrates and gets ready, Team Skull's leader Guzma is enraged and decides that he will destroy the new Pokémon League, and heads over to the Pokémon School to confront Kukui. Before things can get ugly, Ash challenges Guzma to a battle. It's Pikachu vs. Guzma's Golisopod; who will win, and why does Guzma hate Kukui so much?",
+    "number": "23",
+    "image": "https://image.tmdb.org/t/p/original/vfdrrXnNSB2DFsMz3bjOwkfrrUN.jpg",
+    "airDate": "2019-03-31"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-24",
+    "title": "The Secret Princess!",
+    "description": "Since their Poni Island experience made them realize that their father Mohn is still alive, Lillie and Gladion return to Aether Paradise and go through their father's papers, hoping to find some clues. Back at the family mansion, Lusamine shows them Mohn's old office, where Lillie discovers her father's old Z-Ring and the inoperative Mythical Pokémon Magearna. Lillie goes to Kahuna Hala and asks for permission to use her father's Z-Ring, and they have a battle to see if Lillie can master Z-Moves. Will Lillie and Gladion learn anything new about their father's whereabouts, and what is Magearna's connection to Mohn and Lillie?",
+    "number": "24",
+    "image": "https://image.tmdb.org/t/p/original/fSuKuRxRXv1prUJPHXHu44IibcS.jpg",
+    "airDate": "2019-04-07"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-25",
+    "title": "Drawn with the Wind!",
+    "description": "Ash and the gang travel to picturesque Malie City on Ula'ula Island. When a strong wind blows Mallow's hair ornament away, Shaymin chases after it, followed by Sandy and Meltan. Unfortunately, Team Rocket, who are also in Malie City, spots the trio and goes after them to catch them, but our three adventurers aren't going to let themselves be taken without a fight!",
+    "number": "25",
+    "image": "https://image.tmdb.org/t/p/original/Aq2RaA5nvYen7f0Iz0cjSJ0IYKX.jpg",
+    "airDate": "2019-04-14"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-26",
+    "title": "Aiming for the Top Floor!",
+    "description": "Having learned about the Kantonian Gym in Malie City from their new friend Charlie Charma, Ash and the gang decide to visit it, but while the gym is supposed to be like a Kanto Gym, the rules are not quite the same: a challenger has to face one of the three Gym Trainers AND Charlie on each floor in a \"game\" in order to reach the top floor. After only Ash and Kiawe make it to the top floor they find that the \"Gym Leader\", Dragon-type Trainer Ryuki, has a \"rock star\" battle style which quickly defeats Kiawe's Marowak. Rowlet starts off for Ash, but when Meltan jumps in to help its friend, it becomes a double-battle!",
+    "number": "26",
+    "image": "https://image.tmdb.org/t/p/original/g4QRVSyAdVyXXufBgHmfMpTIc0h.jpg",
+    "airDate": "2019-04-21"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-27",
+    "title": "A High-Speed Awakening!",
+    "description": "Sophocles and Vikavolt are entering a Vikavolt race! When they arrive, Sophocles learns that his rival Horacio is also competing with his newly evolved Vikavolt. The entrants get off to a rousing start, but when Sophocles enters the cave route, his fear of the dark leaves him petrified. Vikavolt offers him support, leading him to realize that if his Pokémon is determined to press on, he can be courageous as well. After an interruption by Team Rocket, the race is back on, and Sophocles wins by a nose! He receives a Buginium Z as a prize, and Hapu follows up by giving him a Z-Ring!",
+    "number": "27",
+    "image": "https://image.tmdb.org/t/p/original/b2vuqxGa6bMG1sVqfDMojApVBoS.jpg",
+    "airDate": "2019-04-28"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-28",
+    "title": "The One That Didn't Get Away!",
+    "description": "The students of the Pokémon School are on a relaxing fishing excursion, but Ash and Lana want to add a little more adventure to their day. The two travel a bit farther out to sea, where they have an unexpected encounter with a very powerful Pokémon! Unfortunately, this Pokémon is also in the sights of some nefarious Pokémon hunters who have no qualms about poisoning Pokémon to make them easier to catch. It’s up to Ash, Lana, and their Pokémon partners to save the day!",
+    "number": "28",
+    "image": "https://image.tmdb.org/t/p/original/eHAvb3E0jlhEJWQbuEVhRfEAN0a.jpg",
+    "airDate": "2019-05-05"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-29",
+    "title": "A Recipe for Success!",
+    "description": "When the Family Restaurant runs out of Big Mushrooms, Mallow visits Oranguru’s place in the forest to ask for more. When she arrives, she finds Meowth looking for some peace and quiet, but the place quickly becomes busy with Pokémon customers. Mallow decides to stay and help Oranguru, and she prepares scrumptious food and drinks for all kinds of Pokémon. When Tapu Koko turns out to be one of those customers, she prepares a special dish for the Island Guardian. Thrilled with its meal, Tapu Koko presents Mallow with a Grassium Z, and Oranguru gives her a Z-Ring! Now all our heroes have Z-Rings of their own!",
+    "number": "29",
+    "image": "https://image.tmdb.org/t/p/original/bTtPODe0vk2vnkQ52LnvFP2NUb0.jpg",
+    "airDate": "2019-05-12"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-30",
+    "title": "Spying for the Big Guy!",
+    "description": "When Team Rocket receives a call from Headquarters, they come to regret their previous claim to have caught Bewear, as Matori tells them to send the Pokémon to Giovanni right away. But, of course, they haven’t actually caught Bewear—if anything, Bewear has caught them. Panic ensues when Matori arrives in Alola, but Jessie, James, and Meowth convince her that they need Bewear’s help to catch an even more impressive Pokémon. Eventually, Matori changes plans and tries to steal Stufful instead, but a disguised Meowth thwarts her plan by taking the little Pokémon’s place. Then, just in the nick of time, Bewear swoops in to take Meowth back home!",
+    "number": "30",
+    "image": "https://image.tmdb.org/t/p/original/fmVpJpp5iZ2hBtP11Ms0q45HTFM.jpg",
+    "airDate": "2019-05-19"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-31",
+    "title": "A Fiery Training Camp Trick!",
+    "description": "Excitement is building for the upcoming Alola Pokémon League, and the Pokémon School class is ready to train! Ash, Kiawe, and Sophocles decide to camp out at Kiawe’s family farm, but Sophocles is having a hard time working up the confidence to pull off a Z-Move. To help Sophocles train, Kiawe secretly enlists the help of a wild Crawdaunt who previously clashed with Turtonator. Crawdaunt launches a surprise attack on Sophocles, but Sophocles manages to overcome his fear and launch a powerful Z-Move with Vikavolt! The circumstances of the battle may have been unusual, but Sophocles is feeling more confident with a Z-Move at his command!",
+    "number": "31",
+    "image": "https://image.tmdb.org/t/p/original/12gJcyXeVEcMVmFv7PWmQKLbano.jpg",
+    "airDate": "2019-05-26"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-32",
+    "title": "Living on the Cutting Edge!",
+    "description": "Someone’s been slicing and dicing objects all over Melemele Island: a cabbage at Mallow’s Family Restaurant gets chopped up, a golden Viren statue is cut in half, and the trees in Lillie’s yard are shaped into perfect topiaries! These occurrences (and more) are the work of an Ultra Beast named Kartana, who can cut anything with its bladelike body. When the Ultra Guardians ask Kartana to stop its cutting spree, it ignores them—but later it saves the day by demolishing a meteor that’s barreling straight for the Pokémon School! Grateful for Kartana’s help, our heroes bid it farewell as it returns home through an Ultra Wormhole.",
+    "number": "32",
+    "image": "https://image.tmdb.org/t/p/original/arudQMYh1sjrzeTfGoWIYwdTixf.jpg",
+    "airDate": "2019-06-02"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-33",
+    "title": "A Timeless Encounter!",
+    "description": "While Ash and his Pokémon train for the upcoming Alola Pokémon League, they accidentally startle a nearby Celebi. The Mythical Pokémon flees back in time—and brings Ash and Torracat with it! Unaware that he’s in the past, Ash meets a young boy who, unbeknownst to him, is actually a younger Professor Kukui. The boy wants to learn about Pokémon moves, and Ash and Torracat demonstrate some of their skills, even receiving a Firium Z from a Totem Trevenant. But the fun suddenly ends when Celebi transports our hero back to the present day. Ash wonders where the boy went, but he’s also happy to see all his Pokémon again!",
+    "number": "33",
+    "image": "https://image.tmdb.org/t/p/original/xBSW6YNhc0rr14r8UcOxUNXvuIF.jpg",
+    "airDate": "2019-06-09"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-34",
+    "title": "Pikachu's Exciting Adventure!",
+    "description": "After returning to the present day, Ash and Torracat reunite with Pikachu, Lycanroc, Rowlet, and Meltan—who are all covered in dirt! It turns out the four Pokémon had been searching for Ash and Torracat after the pair’s sudden disappearance. They’re excited to recap their journey, but Ash doesn’t understand what they’re saying! He has no idea what they went through in order to find him—they even took on the role of Ultra Guardians and got some help from Clefable and Garchomp! Even though he can’t figure out how they got so filthy, our hero is just happy to be back in the company of his Pokémon friends!",
+    "number": "34",
+    "image": "https://image.tmdb.org/t/p/original/xIQ1rkFB3y1VzcqKzG6yrwPKmxR.jpg",
+    "airDate": "2019-06-16"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-35",
+    "title": "Chasing Memories, Creating Dreams!",
+    "description": "Professor Kukui has finally realized his dream of establishing the Alola Pokémon League, and he’s excited to welcome everyone to the dedication of the brand-new Manalo Stadium. Much to the excitement of our heroes, he announces that the Champion of the Alola Pokémon League will be granted an exhibition battle with the Masked Royal. Ash and friends are fired up and eager to participate—and Lillie even pulls off her first Z-Move!\r\n\r\nMeanwhile, Gladion sets out on a search…and eventually reunites with his father’s long-lost Zoroark! After learning that its partner is still alive, Zoroark agrees to join Gladion on his quest to find Professor Mohn!",
+    "number": "35",
+    "image": "https://image.tmdb.org/t/p/original/yiEmiFLXdygyt4ZZrwbk3MxdKP9.jpg",
+    "airDate": "2019-06-23"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-36",
+    "title": "League Offenders and Defenders!",
+    "description": "Professor Kukui’s dream of creating an Alola Pokémon League is finally reality! Our heroes are as excited as can be, and everybody wants to participate—even Team Rocket! But there’s someone set on destroying the League and everything it stands for…Guzma, the leader of Team Skull. Full of resentment for Professor Kukui and the teachings of Kahuna Hala, he’s determined to get the last laugh by winning the League, then shutting it down for good! But Ash is having none of that, and he vows to never lose to Guzma. His friends agree—and with that, the League is off to a rousing start!",
+    "number": "36",
+    "image": "https://image.tmdb.org/t/p/original/iSJHL6Gr6WgfhLhiJyryFO3NDtZ.jpg",
+    "airDate": "2019-06-30"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-37",
+    "title": "Battle Royale 151!",
+    "description": "The Alola Pokémon League is underway, and it promises to be full of action, drama, and surprises! The qualifying round is a Battle Royal competition among 151 different Trainers, and only the top 16 will make it to the next stage! A free-for-all ensues, with our heroes battling against and alongside friendly rivals like Pikala and Hiroki as well as returning foes like Viren’s cronies and Plumeria from Team Skull. When the dizzying action finally winds down, the entire Pokémon School class, Hau, Gladion, and even a disguised Team Rocket are among those left standing! Now, the question is: who will make it all the way to the top?",
+    "number": "37",
+    "image": "https://image.tmdb.org/t/p/original/1j0t5sDCanNAUnmejz8r5Lak3jw.jpg",
+    "airDate": "2019-07-07"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-38",
+    "title": "Battling Besties!",
+    "description": "Now that the Alola Pokémon League’s qualifying round is over, it’s time for the real matches to begin! Ash faces off against the scheming Faba, and crowd favorite Ilima takes on Team Skull’s Boss, the foul-tempered Guzma. But perhaps the most exciting match of the day occurs when Lana and Primarina battle against Mallow and Tsareena. The two may be best friends outside the arena, but that won’t stop them from giving their all during this battle!",
+    "number": "38",
+    "image": "https://image.tmdb.org/t/p/original/m8vXJYDRh8GMg4XnQaXt5kdR0mM.jpg",
+    "airDate": "2019-07-14"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-39",
+    "title": "The Battlefield of Truth and Love!",
+    "description": "As the Alola Pokémon League continues, it’s time to decide on four more competitors to move to the next round! First up is Sophocles and Vikavolt against Mina and Ribombee, and while Ribombee is powerful, it’s no match for Vikavolt’s Signal Beam! Then, it’s a Team Rocket showdown as James and Mareanie take on Jessie and Wobbuffet. The match is close, but James decides to give it his all—and wins! After that, Kiawe and Marowak defeat Acerola and Rapooh in a ghostly clash, and Lillie and Snowy face off against Gladion and Umbreon. Lillie’s skills are impressive, but Gladion still pulls off the win. On to the next round!",
+    "number": "39",
+    "image": "https://image.tmdb.org/t/p/original/mGajc2EpzGh75O0WfLinxoCqfpN.jpg",
+    "airDate": "2019-07-21"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-40",
+    "title": "Imitation is the Sincerest Form of Strategy!",
+    "description": "Rowlet is determined to battle Decidueye in Ash’s Alola Pokémon League quarterfinals match against Hau, but first it needs some additional training. And just in the nick of time, Toucannon and its flock arrive to teach Rowlet a new move! Meanwhile, at Manalo Stadium, Gladion and his Lycanroc defeat James and Mareanie…and then Ash is up next! Rowlet enters the battlefield dressed in a Decidueye costume, which ends up becoming a decoy against the real Decidueye’s Sinister Arrow Raid attack! With Rowlet still standing, how will the rest of the match play out?",
+    "number": "40",
+    "image": "https://image.tmdb.org/t/p/original/10JJxg6tykYYiX2WmjP75zzm8t0.jpg",
+    "airDate": "2019-07-28"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-41",
+    "title": "Battling on the Wing!",
+    "description": "The Alola Pokémon League quarterfinals continue at a lightning pace, and Ash and Rowlet are in the midst of their battle with Hau and Decidueye. The attacks fly furiously—just like the competitors themselves—until it appears that Rowlet is unable to battle. But Hala notices that Rowlet hasn’t lost yet…it’s actually just sleeping! The battle restarts, and after mastering a new move, Rowlet ends up victorious! Then, Kiawe and Charizard face off against Sophocles and Vikavolt, and the latter two successfully pull off a Z-Move—will Charizard be able to escape the devastating attack?",
+    "number": "41",
+    "image": "https://image.tmdb.org/t/p/original/90KGEygNVZLvA3iO7FwKGK54qGn.jpg",
+    "airDate": "2019-08-04"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-42",
+    "title": "The Road to the Semifinals!",
+    "description": "As the Alola Pokémon League quarterfinals rage on, Kiawe and Charizard face off against Sophocles and Vikavolt in the third battle. Both sides show impressive offense and defense, making it clear they’ve trained hard. But Vikavolt’s Wild Charge attack isn’t enough to stop Charizard’s Supersonic Skystrike Z-Move, and Kiawe and Charizard end up on top!\r\n\r\nIn the fourth match, Lana and Primarina battle Guzma and Golisopod, but Guzma’s intense battling style takes Lana and Primarina by surprise. Despite a valiant effort, Primarina takes significant damage and loses the battle, but everyone agrees Guzma won fair and square.\r\n\r\nNext up are the semifinals: Kiawe versus Gladion and Ash versus Guzma!",
+    "number": "42",
+    "image": "https://image.tmdb.org/t/p/original/tMWnjIDBz9s5RhAIkFZgAxEEkSy.jpg",
+    "airDate": "2019-08-11"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-43",
+    "title": "The Final Four!",
+    "description": "We’ve reached the Alola Pokémon League semifinals! Ash is lined up to challenge Team Skull’s Guzma, but first, Kiawe will take on Gladion. Their battle allows each competitor to use two Pokémon, and given the skills possessed by both Trainers, this is going to be an exciting match. Gladion has chosen Lycanroc and Silvally to go up against Kiawe’s Alolan Marowak and Turtonator—four powerful Pokémon that have been trained to win. Lycanroc faces Marowak first, but there’s no way we’re going to spoil the outcome. We will say this, though: it’s an extremely heated battle with a cliffhanger that will leave you eagerly anticipating the next episode!",
+    "number": "43",
+    "image": "https://image.tmdb.org/t/p/original/ignWMWTp0m2NIu5g2hTGhifMPEF.jpg",
+    "airDate": "2019-08-18"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-44",
+    "title": "Getting Down to the Ire!",
+    "description": "The Kaki/Gladio battle continues, with Bakugames now facing Glazio's Silvally, but will Kaki's Z-move be enough to win the battle? With Satoshi inspiring both of them, who knows? Then comes the match everyone's on the edge of their seats for ... another 2-on-2, and it's Satoshi vs. Guzma! But Guzma's supposedly never been defeated! First out for Guzma is Hassam, and Satoshi chooses Nyaheat. Just as the battle gets started, Guzma switches out and brings in Gusokumusha, but when Nyaheat begins to get the upper hand, Gusokumusha uses Crisis Prevention to forcibly switch-out with Hassam, who takes major damage, shocking everyone including Guzma! What's with Gusokumusha? And just how long can Rocket-Dan's robot-Yareyuutan keep Kiteruguma and Nuikoguma in that hot spring?",
+    "number": "44",
+    "image": "https://image.tmdb.org/t/p/original/cfQ0inFgwu0SFziQpE7FWck31uc.jpg",
+    "airDate": "2019-08-25"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-45",
+    "title": "The Wisdom Not to Run",
+    "description": "Ash and Guzma’s battle continues in the second half of the Alola Pokémon League semifinals! After the surprising defeat of Guzma’s Scizor, his Golisopod is left to take on Ash’s Torracat. Unfortunately, the exhausted Torracat is quickly defeated, leaving it up to Pikachu to face the powerful Golisopod. During the fierce battle, new details come to light, revealing why Guzma is so determined to bring down Professor Kukui and the Alola Pokémon League. Can Ash and Pikachu overcome this determined adversary?",
+    "number": "45",
+    "image": "https://image.tmdb.org/t/p/original/2xJCgugFa153R4zHG7tOdqaIy9K.jpg",
+    "airDate": "2019-09-01"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-46",
+    "title": "Final Rivals!",
+    "description": "On the night before the Finals, Hanako, Barri-chan and Professor Okibo arrive at Manolo to cheer for Satoshi. The wild Meltan also arrive, and with their help, to everyone's surprise, Meltan evolves into Melmetal! The next day is the ultimate showdown between two strong rivals ... Satoshi vs. Gladio! This time, it's a 3-on-3 match. For their first Pokemon, Gladio chooses Silvally and for Satoshi Melmetal makes its battle debut! Unfortunately, Silvally is too strong and Melmetal is defeated. Satoshi sends in Pikachu, who defeats Silvally. Gladio sends in Lugarugan ... but there's something not quite right about Lugarugan.",
+    "number": "46",
+    "image": "https://image.tmdb.org/t/p/original/rEoifL7xOcDFLnNKGqkqkncp8nO.jpg",
+    "airDate": "2019-09-08"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-47",
+    "title": "Enter the Champion!",
+    "description": "As the Alola Pokémon League races toward the finish line, Gladion and Zoroark unleash the Z-Move Never-Ending Nightmare against Pikachu. But Pikachu stops in its tracks to meet the threat head-on with Breakneck Blitz: a strategy that’s pure Ash! The clash of Z-Moves leaves both Pokémon unable to battle, and Ash and Gladion both respond by sending out their Lycanroc for the final stretch of the match. The two Lycanroc battle to new levels of intensity, ending with a Counter-versus-Counter showdown—and a momentous, hard-earned win for Ash!\r\n\r\nAt long last, our hero is crowned the Champion of the first-ever Alola Pokémon League!",
+    "number": "47",
+    "image": "https://image.tmdb.org/t/p/original/nXrjXkkwHBmawtuAryC8dZriZhx.jpg",
+    "airDate": "2019-09-15"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-48",
+    "title": "Z-Move Showdown!",
+    "description": "Just as Ash is crowned Champion of the Alola Pokémon League, an Ultra Wormhole opens above the stadium, and an angry Guzzlord appears! Ash had battled it previously in a parallel world, so he tells Alola’s island kahunas about the Ultra Beast’s weak spot. But before they know it, two more Guzzlord appear! The kahunas and Pokémon School class leap into Z-Move action to defeat the first two, while Ash, Pikachu, and the Masked Royal reunite with Naganadel—formerly Poipole—and use Gigavolt Havoc to send the third one packing. The resulting explosion blows off the Masked Royal’s mask, revealing his true identity: Professor Kukui!",
+    "number": "48",
+    "image": "https://image.tmdb.org/t/p/original/yursQ3AphPmkgjt5okcqlRuR3CU.jpg",
+    "airDate": "2019-09-22"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-49",
+    "title": "Exhibition Unmasked!",
+    "description": "The Masked Royal is finally unmasked—he’s Professor Kukui! It’s time for the Alola Pokémon League’s exhibition match, and Ash is more excited than ever to battle his mentor in a six-versus-six Full Battle. First up are Torracat and Incineroar, and when Incineroar’s Blast Burn attack pelts Torracat with overwhelming flames, Torracat surprises everyone by absorbing the fire into its own body! But the heat becomes too much for Torracat, and it retreats from battle for the time being. Ash then sends out Lycanroc, who uses a shard from its Stone Edge attack to land a blow on Incineroar. Professor Kukui responds by sending out Braviary—what will happen next?",
+    "number": "49",
+    "image": "https://image.tmdb.org/t/p/original/nhaQoxkcKRJxwnewRipVm1NUzhe.jpg",
+    "airDate": "2019-09-29"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-50",
+    "title": "A Full Battle Bounty!",
+    "description": "The Alola Pokémon League’s exhibition match continues with a dizzying array of Pokémon! Braviary manages to defeat Ash’s Lycanroc, and then Rowlet takes down Braviary with a powerful Brave Bird attack. Professor Kukui then calls on Venusaur, who traps Rowlet in its flower! Thanks to Feather Dance, Rowlet escapes unscathed—but then falls to Venusaur’s Sludge Bomb attack. Next up is Torracat’s fiery return to defeat Venusaur, followed by Pikachu versus Empoleon. After a dizzying Whirlpool, Ash switches in Melmetal, who takes down Empoleon but can’t withstand Incineroar’s flames. Each Trainer has three Pokémon still standing as Professor Kukui sends out Lucario, Ash responds with Naganadel, and the battle continues!",
+    "number": "50",
+    "image": "https://image.tmdb.org/t/p/original/ihJifNCkclm0aoAPXaTyDQKOKSx.jpg",
+    "airDate": "2019-10-06"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-51",
+    "title": "Fiery Surprises!",
+    "description": "With three Pokémon left on each side during the Alola Pokémon League’s exhibition match, Ash’s Naganadel is up against Professor Kukui’s Lucario. A strategic Dragon Pulse lands another win for Ash—and the first-ever battle victory for Naganadel!\r\n\r\nThen, it’s Torracat’s rematch with Incineroar. The flames burn hotter than ever, and when the smoke clears, Torracat is on top! Triumphant, it suddenly evolves and becomes an Incineroar itself! But all the excitement leaves it too exhausted to continue.\r\n\r\nJust as Professor Kukui is about to send out his final Pokémon, Tapu Koko appears—and decides that it wants to battle Ash instead! Just how will Ash approach this history-making matchup?",
+    "number": "51",
+    "image": "https://image.tmdb.org/t/p/original/3WJaQXfetkAr6bdxKl9kmLqbQYG.jpg",
+    "airDate": "2019-10-13"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-52",
+    "title": "From Z to Shining Z!",
+    "description": "As the Alola Pokémon League’s exhibition match nears its conclusion, Tapu Koko appears—it wants to team up with Professor Kukui and battle Ash! Our hero responds by sending out Naganadel, and the clash of Island Guardian and Ultra Beast powers is an amazing sight. But Tapu Koko manages to overpower Naganadel, so Ash turns to Pikachu, his last Pokémon standing! Tapu Koko raises the stakes as it and Professor Kukui unleash a legendary Z-Move reserved for Island Guardians, but Ash and Pikachu rise to the challenge with their own Z-Move: 10,000,000 Volt Thunderbolt! Once the dust clears, Tapu Koko falls, and Ash and Pikachu are victorious!",
+    "number": "52",
+    "image": "https://image.tmdb.org/t/p/original/dTWbIlTq5TSohLf3JG96k5UBHge.jpg",
+    "airDate": "2019-10-20"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-53",
+    "title": "Dreams of the Sun and Moon!",
+    "description": "With the Alola Pokémon League behind them, our heroes are deciding how to spend their upcoming vacation! Kiawe is determined to finally have an all-out battle against Ash, while Sophocles is going to take the first steps toward his dream of becoming an astronaut. Lana plans to help her dad with his ocean research, and Mallow wants to create a menu for Pokémon at the Family Restaurant. Meanwhile, Lillie continues her efforts to awaken Magearna…and succeeds! But what about Ash? After receiving some wise advice from Olivia, he decides to explore the world—first stop, Pallet Town!",
+    "number": "53",
+    "image": "https://image.tmdb.org/t/p/original/miUcMClrgZuzyG7P3nnle2XUiIm.jpg",
+    "airDate": "2019-10-27"
+},
+{
+    "id": "/pokemon-the-series-sun-moon-ultra-legends-episode-54",
+    "title": "Thank You, Alola! The Journey Continues!",
+    "description": "As their vacation approaches, our heroes’ plans move closer to reality! Kiawe has decided to assist Olivia with her kahuna duties, while Lana, Mallow, and Sophocles continue to work toward their own goals. Now that Magearna is awake, Lillie and her family are setting out to find Mohn, and Ash is embarking on a new adventure of his own—he wants to see new places and meet new Pokémon! The Pokémon School class, Professor Kukui, and Professor Burnet are sad to see him leave Alola, but they wish him all the best for the future. And with Team Rocket also departing Alola, just what might that future hold?",
+    "number": "54",
+    "image": "https://image.tmdb.org/t/p/original/op4OpMddSwEf4EqxLNC3RKSfSXs.jpg",
+    "airDate": "2019-11-03"
+}]
 }
