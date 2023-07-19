@@ -18,10 +18,10 @@
   "isAdult": false,
   "countryOfOrigin": "JP",
   "trailer": {},
-  "image": "../cover/pokemon-the-series-sun-moon-ultra-adventures.jpg",
+  "image": "../coverpokemon-the-series-sun-moon-ultra-adventures.jpg",
   "popularity": 97634,
   "color": "#e45d5d",
-  "cover": "../cover/pokemon-the-series-sun-moon-ultra-adventures.jpg",
+  "cover": "../coverpokemon-the-series-sun-moon-ultra-adventures.jpg",
   "description": "When Ash sees the Legendary Pokémon Solgaleo and Lunala in a dream, he makes a promise to them. But when he wakes up, he can’t remember what it was! Will the strange Pokémon called Nebby help jog his memory? Along with their new friend and the rest of the students at the Pokémon School, Ash and Pikachu explore the Aether Foundation, an organization dedicated to Pokémon conservation and care. But it may not be as innocent as it seems, and Ash and his friends will have to work together to protect the people and Pokémon they care about as they face a mysterious power like nothing they have ever seen.",
   "status": "Completed",
   "releaseDate": 2018,
@@ -403,8 +403,8 @@
       },
       "status": "Completed",
       "episodes": 48,
-      "image": "../cover/pokemon-the-series-sun-moon-ultra-adventures.jpg",
-      "cover": "../cover/pokemon-the-series-sun-moon-ultra-adventures.jpg",
+      "image": "../coverpokemon-the-series-sun-moon-ultra-adventures.jpg",
+      "cover": "../coverpokemon-the-series-sun-moon-ultra-adventures.jpg",
       "rating": 66,
       "type": "TV",
 	  "animeurl": "pokemon-the-series-sun-moon-ultra-adventures"
@@ -971,7 +971,7 @@
     }
   ],
   "episodes": [{
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-1",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-1",
     "title": "A Dream Encounter!",
     "description": "After dreaming that he made a promise to the Legendary Pokémon Solgaleo and Lunala, Ash has a hard time waking up. On his way to school, he’s sidetracked by Tapu Koko, who guides him to a strange little Pokémon that looks like a cloud of stars. Lillie nicknames it Nebby, and Ash remembers his dream: he promised to take care of it!\r\n\r\nThis attracts the attention of Lillie’s mother, Lusamine, the head of the Aether Foundation. She and her colleagues come to meet Nebby and offer to take care of (and research) this unknown Pokémon. But Ash is resolute in his promise, so Nebby’s identity is a mystery for now!",
     "number": "1",
@@ -979,7 +979,7 @@
     "airDate": "2017-10-05"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-2",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-2",
     "title": "Now You See Them, Now You Don't!",
     "description": "The Pokémon School class is sculpting with clay today! But while our heroes muse about various Pokémon and places, they disappear one by one—first appearing at the scenes of their musings, then reappearing back at school! They soon realize Nebby had used Teleport to take them to the places and Pokémon they were thinking about.\r\n\r\nMeanwhile, Team Rocket is determined to catch Nebby. They succeed, but thanks to Teleport, Bewear carries the trio off...and Nebby makes its way back to Ash—all by itself! After Ash and Pikachu visit the places the rest of the class saw earlier, one thing becomes obvious: Nebby is growing up!",
     "number": "2",
@@ -987,7 +987,7 @@
     "airDate": "2017-10-12"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-3",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-3",
     "title": "Deceiving Appearances!",
     "description": "Our heroes visit Aether Paradise, part of the Aether Foundation run by Lillie’s mother, Lusamine. An impressive variety of Pokémon live in the conservation area, including a group of Ditto who need their shots! Professor Burnet recruits Ash and friends to help with the vaccinations while Lusamine is busy on the phone, but one of the Ditto escapes and leads our heroes on a merry chase as it keeps transforming. They eventually catch it when it disguises itself as Snowy—and Lillie realizes she can’t touch it!\r\n\r\nMeanwhile, the Team Rocket trio has scored jobs at Aether Paradise, and they’re hot on Nebby’s trail when they stumble into Faba’s mysterious laboratory…",
     "number": "3",
@@ -995,7 +995,7 @@
     "airDate": "2017-10-19"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-4",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-4",
     "title": "A Masked Warning!",
     "description": "When Ash gives Lycanroc a bath, an accidental splash of dirty water unleashes Lycanroc’s surprisingly red-hot temper!\r\n\r\nThen, when our hero wonders aloud what Gladion is up to, Nebby teleports Ash and Pikachu to him. They meet Silvally, a Pokémon created to defeat Ultra Beasts—and Gladion is convinced that Nebby is one! Suspicious, Gladion wants to know what Ash is up to, and our hero suggests a battle so he can find out!\r\n\r\nAsh’s Dusk Form Lycanroc faces off against Gladion’s Silvally. Lycanroc battles magnificently, but another temper tantrum betrays its inexperience, and Silvally wins. But Gladion decides Ash is trustworthy, and their friendship starts to grow…",
     "number": "4",
@@ -1003,7 +1003,7 @@
     "airDate": "2017-10-26"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-5",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-5",
     "title": "Night of A Thousand Poses!",
     "description": "Our heroes are having a sleepover at Professor Kukui’s house, and Professor Burnet agrees to join them! Everyone has a good time, but there are a couple of hiccups: during a game of Z-Move poses, Kiawe accidentally unleashes Turtonator’s Inferno Overdrive in the living room, and then Professor Burnet’s Munchlax eats everything she cooked for dinner!\r\n\r\nThat night, when Lillie has trouble sleeping, she talks with Professor Burnet, who offers some advice about her family. The next day, Nebby unexpectedly whisks her away to visit her brother—and his partner, the mysterious Silvally, who leaves her terrified and apparently unable to touch Pokémon again!",
     "number": "5",
@@ -1011,7 +1011,7 @@
     "airDate": "2017-11-02"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-6",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-6",
     "title": "Mission: Total Recall!",
     "description": "After accidentally seeing Gladion and coming face-to-face with Silvally, Lillie is once again unable to touch Pokémon—but she’s determined to change that! With Nebby’s help, she embarks on a journey to recall the memories behind her fear. But Faba wants none of it, having been responsible for Silvally’s creation in the first place. Vowing to make sure Lillie never remembers her past, Faba captures her, and she’s again filled with fear. But Silvally rescues Lillie, and when she remembers that it was the one who saved her in the past, her fear of touching Pokémon finally vanishes!",
     "number": "6",
@@ -1019,7 +1019,7 @@
     "airDate": "2017-11-09"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-7",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-7",
     "title": "Faba's Revenge!",
     "description": "Lillie can touch Pokémon again! While our heroes celebrate, a disgraced Faba is determined to prove himself to Lusamine by summoning an Ultra Beast—the same one that threatened Lillie years before. He kidnaps Nebby and convinces it to teleport him into his research lab at Aether Paradise.\r\n\r\nAsh, Gladion, Lillie, and Lusamine go after Faba, arriving just as a panicked Nebby transforms into a chrysalis and the Ultra Wormhole begins to open! The Ultra Beast known as UB-01 Symbiont emerges and attacks Lillie—but Lusamine throws herself in front of her daughter, and the Ultra Beast engulfs her instead and takes her back through the wormhole!",
     "number": "7",
@@ -1027,7 +1027,7 @@
     "airDate": "2017-11-16"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-8",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-8",
     "title": "Family Determination!",
     "description": "Our heroes are in shock after Lusamine’s disappearance through an Ultra Wormhole, and they want to help get her back. But Gladion insists it’s a family matter, and he and Lillie set out on their own rescue mission. The Pokémon School class still wants to help, though, so Kahuna Hala directs them to the Altar of the Sunne on Poni Island. Meanwhile, nearing the altar, Gladion and Lillie encounter a Totem Kommo-o! With Snowy and Silvally, they defeat the Dragon-type Pokémon. Then, when the siblings rejoin the rest of our heroes, Ash again tries to convince Gladion to let everyone help. And when Lillie agrees, Gladion finally understands…",
     "number": "8",
@@ -1035,7 +1035,7 @@
     "airDate": "2017-11-23"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-9",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-9",
     "title": "Revealing the Stuff of Legend!",
     "description": "Our heroes are all gathered at the Altar of the Sunne, along with all four of Alola’s Island Guardians. Lillie and Gladion ask the Island Guardians for help to rescue their mother, Lusamine, who has been taken through an Ultra Wormhole by a mysterious Ultra Beast. After Tapu Koko and the others perform a ritual, little Nebby evolves into the mighty Solgaleo—one of the Legendary Pokémon of Alola!\r\n\r\nAt Solgaleo’s invitation, the Pokémon School students climb onto its back. With the help of a new Z-Move, Solgaleo opens an Ultra Wormhole and carries them through, off to rescue Lusamine from the Ultra Beast!",
     "number": "9",
@@ -1043,7 +1043,7 @@
     "airDate": "2017-11-30"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-10",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-10",
     "title": "Rescuing the Unwilling!",
     "description": "Our heroes have made it through the Ultra Wormhole, but when they find the captured Lusamine, they’re shocked to find she wants nothing to do with them! With an Ultra Beast controlling her mind, it’s up to Lillie, Ash, and friends to rescue her. Their Pokémon spring into action—but so do Lusamine’s Pokémon, who are also under the Ultra Beast’s control. Lillie gathers her courage and reaches out to Clefable, recounting the fun they had together in years past. Her reassuring persistence pays off, and Clefable breaks free of the Ultra Beast’s control. Meanwhile, riding on Solgaleo’s back, Ash presses on to find Lusamine—and the Ultra Beast.",
     "number": "10",
@@ -1051,7 +1051,7 @@
     "airDate": "2017-12-07"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-11",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-11",
     "title": "10,000,000 Reasons to Fight!",
     "description": "Our heroes are battling hard against a group of mind-controlled Pokémon, and Lusamine is still resisting rescue. When Gladion realizes their attacks won’t stop until the Ultra Beast is defeated, Ash suggests the two of them use Z-Moves.\r\n\r\nInstead, Gladion and his Pokémon provide a distraction while Ash and Pikachu use a powerful new Z-Move: 10,000,000 Volt Thunderbolt! This finally defeats the Ultra Beast, and after Lillie pleads with her mother to wake up, Lusamine is finally herself again.\r\n\r\nReturning through the Ultra Wormhole, our heroes and Lusamine are reunited with Professor Kukui and Professor Burnet, and Lusamine gratefully gives credit to our heroes for saving her.",
     "number": "11",
@@ -1059,7 +1059,7 @@
     "airDate": "2017-12-14"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-12",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-12",
     "title": "The Professors' New Adventure!",
     "description": "Following their journey through the Ultra Wormhole, our heroes return to the Pokémon School, where Lillie thanks everyone for their help saving her mother. Later, during a walk on the beach, Professor Kukui asks Professor Burnet to marry him! They aren’t planning a wedding ceremony, but our heroes have other ideas...a surprise ceremony awaits!\r\n\r\nThen, Lusamine asks the Pokémon School class to join the Ultra Guardians—a group that protects Alola from Ultra Beasts. And just after the bouquet toss, Solgaleo appears! Ash gets his wish and thanks the Legendary Pokémon for all its help, and he looks forward to seeing it again someday.",
     "number": "12",
@@ -1067,7 +1067,7 @@
     "airDate": "2017-12-21"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-13",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-13",
     "title": "Let Sleeping Pokémon Lie!",
     "description": "Our heroes are curious about the origins (and sleep habits) of Principal Samson Oak’s partner Komala. After telling the students how they met, Samson shows off Komala’s impressive skill at battling in its sleep!\r\n\r\nThey get another lesson in sleep when Jigglypuff shows up at the Pokémon School! As always, its song makes everyone sleep, and they wake with angry scribbles on their faces…everyone except Komala. That gives Samson an idea…\r\n\r\nWhen Jigglypuff returns, Komala joins it in song. This makes Jigglypuff fall asleep, and Komala doodles on its face! Rather than being grumpy when it wakes up, Jigglypuff seems to think this is hilarious. Komala has a new friend!",
     "number": "13",
@@ -1075,7 +1075,7 @@
     "airDate": "2017-12-28"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-14",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-14",
     "title": "The Dex Can't Help It!",
     "description": "Rotom Dex is excited to house-sit while Ash and the professors go shopping. But chaos ensues when a washing machine is mistakenly delivered—and there’s a Wash Rotom inside! Somehow, the Wash Rotom ends up inside Ash’s Pokédex, and Rotom Dex takes its place in the washing machine. After a series of accidental form changes, and even some time spent inside a TV, Rotom Dex yearns to be back inside the comfort of the Pokédex. It finally succeeds, but not for long—after a big shock from Pikachu, Rotom Dex accidentally inhabits the entire Pokémon Center!",
     "number": "14",
@@ -1083,7 +1083,7 @@
     "airDate": "2018-01-11"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-15",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-15",
     "title": "Fighting Back The Tears!",
     "description": "After a day of shopping, Team Rocket encounters Mareanie’s first love and mentor, a Mareanie that still has feelings for its former protégé. Filled with jealousy, it evolves into a Toxapex and poisons James! In his poisoned stupor, James decides Mareanie should be with Toxapex instead of with him. When Mareanie overhears this, its sadness causes it to run away. But Toxapex can’t bear to see Mareanie cry, and it challenges James to a duel to win Mareanie back. After what turns out to be an underwhelming battle, James is victorious, and Mareanie joyously reunites with him and the rest of Team Rocket!",
     "number": "15",
@@ -1091,7 +1091,7 @@
     "airDate": "2018-01-18"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-16",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-16",
     "title": "Tasting the Bitter with the Sweet!",
     "description": "When Harper and Sarah tell Lana that a Pokémon saved them after they got lost in the woods, Mallow remembers the same thing happened to her and Lana when they were younger! The two friends decide it’s time to find this Pokémon, nicknamed Grandpa Forest, and offer it their thanks. Always up for an adventure, Ash and Pikachu tag along, too! Our heroes soon learn that Grandpa Forest must be a Drampa, and when they find its favorite bittersweet Haban Berry trees, they realize they’re on the right track. Then, after a brief scuffle with Team Rocket, Lana and Mallow joyfully reunite with their old friend!",
     "number": "16",
@@ -1099,7 +1099,7 @@
     "airDate": "2018-01-25"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-17",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-17",
     "title": "Getting a Jump on the Competition!",
     "description": "The Pokémon School students, Professor Kukui, and Kahuna Hala are visiting Mount Lanakila on Ula’ula Island, where they meet Cerah, a star of the Pokémon Sled Jump event. With the help of her Alolan Ninetales, Cerah introduces our heroes to the sport, and Lillie and Snowy are excited to try it together—even regaining their confidence after crashing during a practice run.\r\n\r\nThe two of them fly high in the competition, and Snowy shows off a new move: Aurora Veil! Although Kahuna Hala and his newly evolved Crabominable are the winners, everyone agrees that Lillie’s jump was excellent, and she’s excited to keep working with Snowy as a team!",
     "number": "17",
@@ -1107,7 +1107,7 @@
     "airDate": "2018-02-01"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-18",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-18",
     "title": "A Mission of Ultra Urgency!",
     "description": "Lusamine gives our heroes their first assignment as members of the Ultra Guardians: catch an Ultra Beast named Buzzwole, who emerged from an Ultra Wormhole on Melemele Island. Equipped with the latest technology, the Ultra Guardians locate the Pokémon, whose aggressive behavior seems to reflect its anxiety about being in a strange world. Ash and Kiawe notice Buzzwole has a habit of striking heroic poses—so they join right in! With Buzzwole’s guard down, Ash catches it in a Beast Ball, and it’s soon returned to its own world through the reopened Ultra Wormhole. Though our heroes will miss Buzzwole, their first mission as Ultra Guardians is a rousing success!",
     "number": "18",
@@ -1115,7 +1115,7 @@
     "airDate": "2018-02-08"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-19",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-19",
     "title": "Acting True to Form!",
     "description": "When Team Rocket encounters an Alolan Meowth, Jessie and James admire its clever demeanor—but our Meowth knows from experience that this lookalike is only looking out for number one! To Meowth’s chagrin, Jessie and James want Alolan Meowth to join Team Rocket, and it even comes up with a plan to catch Pikachu once and for all. But when the plan’s set into motion, Alolan Meowth is nowhere to be found! When it reappears at Team Rocket Headquarters with the Boss, Jessie and James realize they’ve been had. Meowth is filled with jealousy, but he can also breathe a sigh of relief, as things are back to normal again!",
     "number": "19",
@@ -1123,7 +1123,7 @@
     "airDate": "2018-02-15"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-20",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-20",
     "title": "Pushing the Fiery Envelope!",
     "description": "The mysterious Masked Royal and his partner Incineroar star in the Battle Royal, an Alolan tradition in which four Pokémon battle until the last one standing is the winner. Ash, watching on TV, can’t wait to get in on the action—and the next day, he gets his chance!\r\n\r\nAt the Battle Royal Dome, Ash’s Litten charges right into the ring, determined to take on the impressive Incineroar. The Masked Royal accepts Litten’s challenge and invites Sophocles and Kiawe to round out the four. He defeats them all, but Litten is fired up—and during an unexpected rematch the next day, it evolves into Torracat!",
     "number": "20",
@@ -1131,7 +1131,7 @@
     "airDate": "2018-02-22"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-21",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-21",
     "title": "Turning Heads and Training Hard!",
     "description": "There’s plenty of excitement at the Pokémon School when Ilima, one of its most skilled graduates, returns for a visit. The students have heard plenty of stories of Ilima’s adventures with Eevee, and after sharing those stories with Ash and Lillie, they want to learn if the legends are true. Despite that popularity, though, Ilima’s reappearance has attracted the unwanted attention of Team Skull’s Tupp and his crew of Grunts.",
     "number": "21",
@@ -1139,7 +1139,7 @@
     "airDate": "2018-03-08"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-22",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-22",
     "title": "Smashing with Sketch!",
     "description": "Our heroes are learning all about Pokémon Ping-Pong, with Pokémon School graduate Ilima showing them the ins and outs of the game! Ilima plans to compete in an upcoming Pokémon Ping-Pong tournament, where he hopes to settle an old score and defeat Ikari, the winner in previous years. But while Ilima believes that consideration for his Pokémon partner is key to success, Ikari takes a more aggressive strategy. After Ikari berates his partner Mienshao during the heat of the tournament’s final game, the two lose coordination, and Ilima and his partner Smeargle emerge victorious!",
     "number": "22",
@@ -1147,7 +1147,7 @@
     "airDate": "2018-03-15"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-23",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-23",
     "title": "Love at First Twirl!",
     "description": "One day during class at the school, an unrecognizable creature comes to Ash and the others. When they notice it, the creature disappears, but for some reason they can no longer see Pikachu around either. It appears Pikachu was taken away by the earlier creature. An agitated Ash starts searching for Pikachu, but suddenly runs into Team Rocket.",
     "number": "23",
@@ -1155,7 +1155,7 @@
     "airDate": "2018-03-22"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-24",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-24",
     "title": "Real Life...Inquire Within!",
     "description": "Ash is on his way to the Pokémon Center with Pikachu, Rotom and Poipole for the school's work experience program when he is stopped by the Team Skull grunts, who challenge him to a battle. The 3-on-1 battle backfires when something goes wrong with Zipp's Garbodor's Venom Shock and Team Skull is forced to retreat. At the Center, the Nurse Joy that works there has a bad cold, so Ash and the others decide to do her duties for her. With some minor hiccups (such as a mix-up about Pokémon Center uniforms and an unexpected delivery to Team Rocket's food truck), things go well, but Zipp keeps showing up, apparently seeking treatment for his Garbodor, who is suffering from Poison Clog. The gang aren't sure how to help Garbodor, but Nurse Joy appears and takes change of treating Garbodor with their help. By evening, Garbodor has been cured, but the Nurse Joy who treated Garbodor turns out to be a sister of the now-recovered Nurse Joy.",
     "number": "24",
@@ -1163,7 +1163,7 @@
     "airDate": "2018-04-05"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-25",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-25",
     "title": "Rise and Shine, Starship!",
     "description": "Sophocles is out camping with his parents and Pokémon at Bamboo Hill when he finds a strange metallic object buried in the ground. Remembering a folktale, he believes it to be the legendary spaceship Celestial Starship. The next day, after he tells his classmates about it, they go there and see it for themselves. After an unsuccessful attempt to dig it up, they return to school, where they are contacted by Lusamine about an Ultra Beast having been detected. Sophocles is surprised to discover that the Pokémon he discovered is a Celesteela, and they determine to return it home. Attempts to catch it in a Beast Ball prove unsuccessful as it is firmly rooted down. Team Rocket attempts to catch Celesteela as the Ultra Guardians try to protect it, and Team Rocket is almost incinerated as Celesteela begins to launch itself. After the Ultra Guardians create a safe launch area, they watch Celesteela fly home.",
     "number": "25",
@@ -1171,7 +1171,7 @@
     "airDate": "2018-04-12"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-26",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-26",
     "title": "The Young Flame Strikes Back!",
     "description": "In Kiawe's farm, a man named Viren appears who comes up with an idea to make a resort hotel by purchasing the farm.",
     "number": "26",
@@ -1179,7 +1179,7 @@
     "airDate": "2018-04-19"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-27",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-27",
     "title": "Dewpider Ascending!",
     "description": "On Melemele Island, a wild Dewpider leaves its nest in search of its own pond to call home. Along the way, it gets caught up in confrontations with various Pokémon who don’t take kindly to intruders.\r\n\r\nDewpider wears a water bubble on its head that lets it breathe on land, so when it sees Lana wearing one of Popplio’s balloons on her head, it thinks she’s a Dewpider, too! The Pokémon School class observes and encourages Dewpider as it searches for a new home, battling opponents in the process. When it finally succeeds, it happily begins building its nest, inspired by its new friend Lana.",
     "number": "27",
@@ -1187,7 +1187,7 @@
     "airDate": "2018-04-26"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-28",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-28",
     "title": "Sours for the Sweet!",
     "description": "The annual Alola Bread Festival is coming up, and Mallow’s brother Ulu has unexpectedly returned home to enter! When Nina from the pancake restaurant stops by to wish Ulu good luck, he vows to win for her sake. But all his sweet Grepa Berries disappear, so our heroes jump in to help save his entry. Mallow suggests making jelly from sour Grepa Berries, sweetening it, and spreading it on Ulu’s bread. And it works! Ulu’s bread wins first prize…but when he discovers Nina’s already engaged to someone else, he suddenly takes off again on his cooking journey!",
     "number": "28",
@@ -1195,7 +1195,7 @@
     "airDate": "2018-04-26"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-29",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-29",
     "title": "Why Not Give Me a Z-Ring Sometime?",
     "description": "After James’s Mareanie masters a Dark-type move, Team Rocket realizes that they can finally take advantage of their Dark-type Z-Crystal. To this end, the Boss sends them to Ula’ula Island to get a Z-Ring from the kahuna—but they accidentally unleash a greedy Gengar who steals their Z-Crystal and kidnaps a girl named Acerola! Team Rocket sets off in pursuit, but can they defeat the ghostly thief? And just what are Gengar’s true intentions?",
     "number": "29",
@@ -1203,7 +1203,7 @@
     "airDate": "2018-05-03"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-30",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-30",
     "title": "Tough Guy Trials!",
     "description": "Ash can’t contain his excitement as he arrives on Ula’ula Island for his next grand trial. But Nanu, the island kahuna, has other ideas and leads Ash to believe someone else is the kahuna. To Nanu’s dismay, Acerola blows his cover and convinces him to grant Ash a “pre-trial” battle. Nanu is convinced Ash isn’t ready, and after his Krookodile soundly defeats Ash’s Lycanroc, he seems to prove his point. But Ash never gives up, and he vows to stay on the island and train hard for a rematch!",
     "number": "30",
@@ -1211,7 +1211,7 @@
     "airDate": "2018-05-10"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-31",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-31",
     "title": "Some Kind of Laziness!",
     "description": "Thanks to Acerola’s help, Ash arrives at the Ruins of Abundance, home of the Ula’ula Island Guardian Tapu Bulu. Ash wants to train with Tapu Bulu to prepare for his rematch against the Island Kahuna Nanu, and after our hero demonstrates his friendship with his Pokémon, Tapu Bulu springs into action! Showing immense power, the Island Guardian engages Ash and Lycanroc in battle. Lycanroc learns how to use Stone Edge! As the bond between Ash and Lycanroc grows, Tapu Bulu returns to its nap, satisfied that the training session was a success!",
     "number": "31",
@@ -1219,7 +1219,7 @@
     "airDate": "2018-05-17"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-32",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-32",
     "title": "A Battle Hand-Off!",
     "description": "Ash has been training hard, preparing for his rematch against Nanu on Ula’ula Island. But when he tells the kahuna he’s ready, Nanu has another idea. Team Rocket has just come looking for the Twerp so Mimikyu can try out its new Z-Move against Pikachu, so Nanu sends him out to battle them instead! Mimikyu proves to be a powerful opponent, but Pikachu overwhelms the opposition with a new move, Electroweb, and the Z-Move 10,000,000 Volt Thunderbolt. Ash wins, setting the stage for his Ula’ula Island grand trial!",
     "number": "32",
@@ -1227,7 +1227,7 @@
     "airDate": "2018-05-24"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-33",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-33",
     "title": "Guiding an Awakening!",
     "description": "With his pre-trial successfully behind him, Ash is finally ready to take the Ula’ula Island grand trial against Kahuna Nanu. Our hero is taken aback when Nanu reveals the terms of the challenge, though—Ash must defeat three of Nanu’s Pokémon with only one of his own! Ash decides that Lycanroc is up to the task, but the temperamental Pokémon might have trouble keeping its anger under control...especially when Nanu unleashes a barrage of taunts questioning Ash and Lycanroc’s teamwork.",
     "number": "33",
@@ -1235,7 +1235,7 @@
     "airDate": "2018-05-31"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-34",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-34",
     "title": "Twirling With a Bang!",
     "description": "Ash is back on Melemele Island, watching a fireworks display with his Pokémon School classmates. Toward the end of the show, a strange creature starts creating even more fireworks ... by making its own head explode! The next day, Lusamine summons the Ultra Guardians to deal with this Ultra Beast! When our heroes go after it, they discover a second Ultra Beast, and the two creatures face off, flinging fireworks and sparks around so no one can get close. At Ash’s suggestion, the Ultra Guardians stage their own fireworks show, combining their Pokémon’s moves into a gorgeous display that distracts the Ultra Beasts long enough to catch them!",
     "number": "34",
@@ -1243,7 +1243,7 @@
     "airDate": "2018-06-07"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-35",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-35",
     "title": "Showering the World With Love!",
     "description": "Ash and his Pokémon School friends visit Hokulani Observatory to view a meteor shower. But these aren’t normal meteors. They’re the space-dwelling Pokémon Minior, crashing to the ground in vast numbers! Guided by Sophocles’s cousin, Molayne, our heroes settle in for a night of making wishes on falling “stars”. When Minior land, they typically burst out of their protective rock shells, filling the evening sky with color and light. This amazing display creates a festive mood, but the celebration seems to bring back sad memories for Sophocles...",
     "number": "35",
@@ -1251,7 +1251,7 @@
     "airDate": "2018-06-14"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-36",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-36",
     "title": "Not Caving Under Pressure!",
     "description": "On their way to the ferry back to Melemele Island, our heroes take a shortcut through a cave. They find an area filled with luminescent moss, and Kiawe’s overexcited Marowak starts a commotion that separates everyone into groups. While the others try to find their way out, Lillie, Sophocles, and Mallow discover a group of Alolan Sandshrew in training. The Sandshrew are threatened by a Tyranitar, but Lillie intervenes. She challenges Tyranitar to a Double Battle—and wins with the help of Snowy and the Sandshrew Boss! To show their gratitude, the Sandshrew present Lillie with her very own Icium Z!",
     "number": "36",
@@ -1259,7 +1259,7 @@
     "airDate": "2018-06-28"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-37",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-37",
     "title": "A Young Royal Flame Ignites!",
     "description": "Another exciting Battle Royal is under way! It’s the Masked Royal versus the Revengers, a battle team known for their blatant rule-breaking. When they’re about to unleash a sneak attack on Incineroar, Ash’s Torracat charges into the ring with a sneak attack of its own—and \"Ash Royal\" joins the Masked Royal for a tag-team match against the Revengers’ Electivire and Magmortar! The Revengers’ boss is Viren, the ruthless developer who once threatened Kiawe’s family farm—which means the Battle Royal Dome itself is on the line! But Torracat and Incineroar prove to be a great team, and despite their opponents’ unsavory tactics, the Double Royals win the day!",
     "number": "37",
@@ -1267,7 +1267,7 @@
     "airDate": "2018-07-05"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-38",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-38",
     "title": "All They Want to Do Is Dance, Dance!",
     "description": "Professor Kukui has a new assignment for his class: teaching their Pokémon to dance! The students have lots of ideas—and varying degrees of success. While Mallow and Steenee are learning the traditional Alola Hula from Anela in the market, Team Rocket spies on them and makes a plan to crash the performance.  Sure enough, the villains strike, trapping everyone else in a pair of cages. But Steenee eludes capture and springs into action, leaping to the top of one cage and stomping with all its might—until it evolves into Tsareena, whose stronger legs make quick work of Team Rocket’s gadgets!",
     "number": "38",
@@ -1275,7 +1275,7 @@
     "airDate": "2018-07-19"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-39",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-39",
     "title": "Dummy, You Shrunk the Kids!",
     "description": "The Pokémon School has a visiting teacher: Faba! When he shows off his invention that can reduce the size of objects for easy storage, it malfunctions, and Ash, Lillie, and Sophocles are shrunk into tiny heroes! Faba recruits Rotom Dex to help him repair the machine, and meanwhile, our heroes are thrown into a world where everything is gigantic. They eventually reunite with Pikachu, who sneezes on them—causing them to return to normal size. But just when Faba thinks he’s fixed his invention, it misfires again…and the result is a towering Togedemaru!",
     "number": "39",
@@ -1283,7 +1283,7 @@
     "airDate": "2018-07-26"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-40",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-40",
     "title": "The Shape of Love to Come!",
     "description": "While out shopping, Ash meets a talented artist named Mina, whose partner Ribombee has an amazing power: it can tell what people and Pokémon are feeling! Poipole is fascinated, too, and shows off its own drawing skills to the rest of the Pokémon School class. It’s thrilled to draw symbols representing its love for its “Alolan family,” but after a mysterious dream, its artwork takes on a different, darker tone. Although Poipole’s motivations remain unclear, our heroes reassure it that they’re behind it no matter what! In the meantime, though, the mystery continues to deepen...",
     "number": "40",
@@ -1291,7 +1291,7 @@
     "airDate": "2018-08-02"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-41",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-41",
     "title": "The Long Vault Home!",
     "description": "While practicing their vaulting skills during gym class, Ash and friends compete to see who can jump the highest. The next day, an Ultra Beast named Stakataka appears in Alola—and our heroes initially mistake it for a giant vaulting challenge! But they soon realize its true identity, and they spring into action as the Ultra Guardians. After multiple failed attempts to get Stakataka into a Beast Ball, the Ultra Beast finally recognizes that our heroes are trying to help, and it agrees to be caught so it can be returned to its home world. It’s another success for the Ultra Guardians!",
     "number": "41",
@@ -1299,7 +1299,7 @@
     "airDate": "2018-08-09"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-42",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-42",
     "title": "I Choose Paradise!",
     "description": "The Ultra Guardians are beside themselves with excitement, as Lusamine has booked them a day at the Pokémon Paradise Resort—and the hardworking Ride Pokémon are tagging along, too! Everyone enjoys the spa’s relaxing amenities, but Team Rocket shows up in disguise with other plans: stealing all the Pokémon they can! Fortunately, the Ride Pokémon have none of it, and they make sure to dash the troublemakers’ ambitions. Our heroes finish their spa day in total luxury, while Team Rocket ends up stuck in the mud with Bewear...",
     "number": "42",
@@ -1307,7 +1307,7 @@
     "airDate": "2018-08-16"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-43",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-43",
     "title": "Filling the Light with Darkness!",
     "description": "Professors Kukui and Burnet have a hard time getting up in the morning, and when Ash gets to school, he discovers that the adults in his friends’ lives are in the same boat! The Aether Foundation team has a theory, but they’re exhausted too, so Ash takes charge of the Ultra Guardians (now including Gladion) to investigate.  The culprit seems to be something on the other side of an Ultra Wormhole, draining all the energy from the Ultra Auras. Our heroes track down the wormhole, and they’re excited to see the Legendary Pokémon Lunala emerge—but a mysterious and frightening creature is right on its tail!",
     "number": "43",
@@ -1315,7 +1315,7 @@
     "airDate": "2018-08-23"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-44",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-44",
     "title": "Full Moon and Many Arms!",
     "description": "The Ultra Guardians spring into action to protect Lunala from the mysterious creature who has chased it through the Ultra Wormhole! UB Black (as Lusamine later calls it) drains the power from Lunala’s Ultra Aura, then fastens itself onto the Legendary Pokémon to absorb it! Our heroes manage to fight it off with the help of Solgaleo, but the creature turns a similar attack on Solgaleo, absorbing it and escaping through an Ultra Wormhole.  As Lunala recovers its strength, the Ultra Guardians promise to do everything they can to rescue Solgaleo—and the kahunas prepare for a festival celebrating a solar eclipse!",
     "number": "44",
@@ -1323,7 +1323,7 @@
     "airDate": "2018-08-30"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-45",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-45",
     "title": "The Prism Between Light and Darkness!",
     "description": "After the mysterious creature known as UB Black absorbs Solgaleo and retreats into an Ultra Wormhole. Ash and his friends give chase and find themselves in Poipole’s original home. There, they meet a giant Pokémon named Naganadel, who tells our heroes of the threat to its world—and how UB Black may be the only hope of saving it!",
     "number": "45",
@@ -1331,7 +1331,7 @@
     "airDate": "2018-09-06"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-46",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-46",
     "title": "Securing the Future!",
     "description": "The Ultra Guardians, along with Faba and Professor Kukui, are attempting to return The Blinding One to its original form! As Necrozma in its “UB Black” form, it’s holding Solgaleo captive and threatening Poipole’s home world.\r\n\r\nOur heroes have been attempting to “feed” Necrozma with Z-Power to restore its light, but it’s not enough. That’s when the people of Alola band together to send their own power to Necrozma—and it works! The Blinding One is restored, and Solgaleo is released.  Poipole’s world is renewed, too, and Poipole decides to stay behind to protect it. As a goodbye present, it draws a loving portrait of Ash and Pikachu!",
     "number": "46",
@@ -1339,7 +1339,7 @@
     "airDate": "2018-09-13"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-47",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-47",
     "title": "A Plethora of Pikachu!",
     "description": "Ash, Kiawe, and Mimo discover an amazing place called Pikachu Valley, home to the biggest group of Pikachu they’ve ever seen! Their Trainer is a major pika-fan named Pikala, who gives everyone a set of Pikachu ears and a tail, and insists that they all talk in Pikaspeak by adding “pika” to every sentence.  At first, Ash’s Pikachu seems to be a big hit with the ladies—but Pikala clarifies that they’re just offering their usual pika-greetings. Annoyed by this behavior, the boss Pikachu challenges our buddy to a battle, but Ash’s Pikachu wins—and then thwarts an attempt by Team Rocket to grab the whole group!",
     "number": "47",
@@ -1347,7 +1347,7 @@
     "airDate": "2018-10-07"
 },
 {
-    "id": "/pokemon-the-series-sun-moon-ultra-adventures-episode-48",
+    "id": "pokemon-the-series-sun-moon-ultra-adventures-episode-48",
     "title": "Turning the Other Mask!",
     "description": "Everyone is excited when the Masked Royal announces a meet and greet at the mall! But things get complicated when Professor Burnet and Ash want to take Professor Kukui to the event…  Kukui enlists Molayne’s help to switch places and keep his secret. But James and Faba, who are both big fans, catch Molayne “stealing” the royal mask and tie him up. Unfortunately, a rival shows up for a revenge match, forcing Faba to don the mask and take to the ring!  It all works out in the end—Molayne escapes and helps Kukui get his mask back, the rival is defeated, and the Masked Royal’s secret identity is safe!",
     "number": "48",
