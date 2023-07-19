@@ -36,6 +36,7 @@
     "day": 9
   },
   "totalEpisodes": 43,
+  "currentEpisode": 43,
   "rating": 66,
   "duration": 24,
   "genres": [
@@ -969,221 +970,348 @@
       "rating": 65
     }
   ],
-  "episodes": [
-    {
-      "id": "pokemon-the-series-sun-moon-episode-1",
-      "title": "Pokémon The Series: XY Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-2",
-      "title": "Pokémon The Series: XY Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-3",
-      "title": "Pokémon The Series: XY Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-4",
-      "title": "Pokémon The Series: XY Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-5",
-      "title": "Pokémon The Series: XY Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-6",
-      "title": "Pokémon The Series: XY Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-7",
-      "title": "Pokémon The Series: XY Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-8",
-      "title": "Pokémon The Series: XY Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-9",
-      "title": "Pokémon The Series: XY Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-10",
-      "title": "Pokémon The Series: XY Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-11",
-      "title": "Pokémon The Series: XY Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-12",
-      "title": "Pokémon The Series: XY Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-13",
-      "title": "Pokémon The Series: XY Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-14",
-      "title": "Pokémon The Series: XY Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-15",
-      "title": "Pokémon The Series: XY Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-16",
-      "title": "Pokémon The Series: XY Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-17",
-      "title": "Pokémon The Series: XY Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-18",
-      "title": "Pokémon The Series: XY Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-19",
-      "title": "Pokémon The Series: XY Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-20",
-      "title": "Pokémon The Series: XY Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-21",
-      "title": "Pokémon The Series: XY Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-22",
-      "title": "Pokémon The Series: XY Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-23",
-      "title": "Pokémon The Series: XY Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-24",
-      "title": "Pokémon The Series: XY Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-25",
-      "title": "Pokémon The Series: XY Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-26",
-      "title": "Pokémon The Series: XY Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-27",
-      "title": "Pokémon The Series: XY Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-28",
-      "title": "Pokémon The Series: XY Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-29",
-      "title": "Pokémon The Series: XY Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-30",
-      "title": "Pokémon The Series: XY Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-31",
-      "title": "Pokémon The Series: XY Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-32",
-      "title": "Pokémon The Series: XY Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-33",
-      "title": "Pokémon The Series: XY Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-34",
-      "title": "Pokémon The Series: XY Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-35",
-      "title": "Pokémon The Series: XY Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-36",
-      "title": "Pokémon The Series: XY Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-37",
-      "title": "Pokémon The Series: XY Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-38",
-      "title": "Pokémon The Series: XY Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-39",
-      "title": "Pokémon The Series: XY Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-40",
-      "title": "Pokémon The Series: XY Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-41",
-      "title": "Pokémon The Series: XY Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-42",
-      "title": "Pokémon The Series: XY Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-the-series-sun-moon-episode-43",
-      "title": "Pokémon The Series: XY Episode 43",
-      "number": 43
-    }
-  ]
+  "episodes": [{
+    "id": "pokemon-the-series-sun-moon-episode-1",
+    "title": "Alola to New Adventure!",
+    "description": "What begins as a vacation for our hero on Melemele Island in the Alola region turns into the promise of many, many exciting adventures to come!",
+    "number": "1",
+    "image": "https://image.tmdb.org/t/p/original/qYsjDmR5MEPBgLaHPKxSx9WLzC6.jpg",
+    "airDate": "2016-11-17"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-2",
+    "title": "The Guardian's Challenge!",
+    "description": "Ash and Pikachu are adjusting to life in the Alola region-and it's about to give them a powerful push in a new direction!",
+    "number": "2",
+    "image": "https://image.tmdb.org/t/p/original/tXfAZ5nEO5a97ZAbxWI60IyWc3Y.jpg",
+    "airDate": "2016-11-17"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-3",
+    "title": "Loading the Dex!",
+    "description": "Ash's journey in the Alola region is just getting under way, and our hero has a new partner to share it with!",
+    "number": "3",
+    "image": "https://image.tmdb.org/t/p/original/vCcpR0Db1LbI3CTBZYklZtWBu5t.jpg",
+    "airDate": "2016-11-24"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-4",
+    "title": "First Catch in Alola, Ketchum-style!",
+    "description": "Ash is after his first Pokémon in the Alola region, and the adventure that ensues is typical Ash!",
+    "number": "4",
+    "image": "https://image.tmdb.org/t/p/original/y9YKPSbmai89Nn63zNopkeT0gj1.jpg",
+    "airDate": "2016-11-24"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-5",
+    "title": "Yo, Ho, Ho! Go, Popplio!",
+    "description": "Ash's Pokémon class is off to the sea for some fishing, but Team Rocket has a completely different kind of fishing in mind!",
+    "number": "5",
+    "image": "https://image.tmdb.org/t/p/original/6DfQktGHE4IGg1VkhRihuyBnp7X.jpg",
+    "airDate": "2016-12-01"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-6",
+    "title": "A Shocking Grocery Run!",
+    "description": "Ash's first day off from Pokémon School was supposed to be a relaxing break, but things don't go quite as expected!",
+    "number": "6",
+    "image": "https://image.tmdb.org/t/p/original/pWUPRtNKkuepNHnL07erFQ1rVlZ.jpg",
+    "airDate": "2016-12-08"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-7",
+    "title": "That's Why the Litten is a Scamp!",
+    "description": "A feisty Litten is determined to steal food from others, and Ash and Pikachu are determined to find out why!",
+    "number": "7",
+    "image": "https://image.tmdb.org/t/p/original/iUEWkOZn9PhRMRIJDkhTiQd1pU2.jpg",
+    "airDate": "2016-12-15"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-8",
+    "title": "Lillie's Egg-xhilarating Challenge!",
+    "description": "Lillie has a Pokémon Egg to care for until it hatches, but will fear get in her way?",
+    "number": "8",
+    "image": "https://image.tmdb.org/t/p/original/hIfRqaPbpUl8DJPDTyezHt6XbmS.jpg",
+    "airDate": "2016-12-22"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-9",
+    "title": "To Top a Totem!",
+    "description": "Ash wants a new Z-Crystal, but he must face some formidable tasks first!",
+    "number": "9",
+    "image": "https://image.tmdb.org/t/p/original/gRezPmS6sLLwgFjFdk7R2Q3iU6A.jpg",
+    "airDate": "2017-01-05"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-10",
+    "title": "Trial and Tribulation!",
+    "description": "The Melemele Island grand trial is imminent, and Ash must square off against the power and wisdom of Kahuna Hala!",
+    "number": "10",
+    "image": "https://image.tmdb.org/t/p/original/wxeGTI6xta4h117w3n7YbQMGjZp.jpg",
+    "airDate": "2017-01-12"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-11",
+    "title": "Young Kiawe Had a Farm!",
+    "description": "Ash has time off from school for training, but a fellow student's activities away from school have our hero wanting to find out all about it!",
+    "number": "11",
+    "image": "https://image.tmdb.org/t/p/original/qf6VNEzGmJdzeVCtnUeQd3Wead7.jpg",
+    "airDate": "2017-01-19"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-12",
+    "title": "The Sun, the Scare, the Secret Lair!",
+    "description": "Professor Kukui takes Ash and the other students for a special lesson at the beach, where they come across a bunch of Mareanie. One Mareanie causes trouble for Ash and his Pokémon when it decides to help Team Rocket (and especially James), who are under pressure from their boss to catch new Pokémon in the Alola region.",
+    "number": "12",
+    "image": "https://image.tmdb.org/t/p/original/cit3i57tm13TUHcjpa7INYkiStH.jpg",
+    "airDate": "2017-01-26"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-13",
+    "title": "Racing to a Big Event!",
+    "description": "Mallow tells Ash about the Great Alola Pancake Race and suggests that he join in. Ash agrees and finds his main rival to be the Pancake shop owner, who has an Alolan Raichu. During the race, Team Rocket, who want the grand prize of a year's supply of free pancakes, enter both Mimikyu and a mechanical Bewear powered by Meowth and Wobbuffet; Mimikyu is disqualified for using a Pokémon attack against Pikachu and the mechanical Bewear later self-destructs, and Team Rocket is carried off once again by the real Bewear. The Principal's Komala wins the race at the last second. Later at the Pokémon School, Lillie's egg begins to hatch!",
+    "number": "13",
+    "image": "https://image.tmdb.org/t/p/original/acQMdOuYxNyxNcmgXW689cBMN6r.jpg",
+    "airDate": "2017-02-02"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-14",
+    "title": "Getting to Know You!",
+    "description": "Lillie's egg hatches into an Alolan Vulpix, which she had named \"Snowy\" in the previous episode, and their principal's egg into a normal Vulpix. The fire-type Vulpix starts playing with Pikachu, Togedemaru, Popplio and the others, while Snowy (an ice-type) ignores the others. Finally, it decides to accept Lillie as its trainer and gets caught in Lillie's Pokéball by itself. Lillie decides to spend some time alone with her newfound partner and takes a walk with Snowy. Team Rocket starts following them and soon corners Lillie and Snowy. Though Lillie tries to put up a fight when Snowy uses Powder Snow, Team Rocket dominates her in battle. She and Snowy are saved by Ash and Mallow. Lillie finally learns to touch a Pokémon for the first time, even though this is exclusively for Snowy at this moment.",
+    "number": "14",
+    "image": "https://image.tmdb.org/t/p/original/jmYgUAOUKVk844RqLhZT1upoDgg.jpg",
+    "airDate": "2017-02-09"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-15",
+    "title": "Rocking Clawmark Hill!",
+    "description": "Ash and Professor Kukui notice that the Rockruff that lives with Professor Kukui is disappearing at night and returning the next morning badly injured. Following it, they find out that Rockruff is participating in a secret Pokémon training ground. Ash decides to help Rockruff train. Rockruff learns to use Rock Throw. After Rockruff defeats a Magmar that previously defeated it, Professor Kukui decides to leave Rockruff in Ash's care and Ash catches Rockruff.",
+    "number": "15",
+    "image": "https://image.tmdb.org/t/p/original/oicBiRikL9HnMMmwzgXf8ruVAuH.jpg",
+    "airDate": "2017-02-23"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-16",
+    "title": "They Might Not Be Giants!",
+    "description": "While training on a beach, Lana's Popplio and Ash's Rowlet are caught inside one of Popplio's balloons, which is blown away by a strong wind. Rowlet bursts the balloon open, and they both crash into Team Rocket's secret base. Meowth and Mareanie chase after them, but they are rescued by Litten. While Ash, Lana, and Mallow search for the missing pair, Litten takes them to where it has been staying with the old Stoutland. Stoutland asks Litten to help them find their trainers; however, Team Rocket is also hunting them. Who will find Litten and the lost Pokémon pair first?",
+    "number": "16",
+    "image": "https://image.tmdb.org/t/p/original/evI4mCgB6onEp4FGoGA4AhIkPub.jpg",
+    "airDate": "2017-03-02"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-17",
+    "title": "Crystal-Clear Sleuthing!",
+    "description": "Ash's Electrium Z-crystal is missing. Rotom, who is a big fan of an Alolan detective TV show, is prompted to try and find it with Pikachu as his assistant. In the meantime, Ash and the other students are all desperate to keep Kiawe, the only other Z-ring wearer, from finding out about the missing Z-crystal out of fear of his anger. However, the solution to the case may be even more surprising than anyone thinks. Rotom gets a new video camera function.",
+    "number": "17",
+    "image": "https://image.tmdb.org/t/p/original/nObbGLBXoUua08eKdoITaQ7pyKn.jpg",
+    "airDate": "2017-03-09"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-18",
+    "title": "A Seasoned Search!",
+    "description": "Mallow invites her classmates to her restaurant to taste her version of Alola's legendary stew; unfortunately, her use of Pikachu's electric shock to cook it doesn't go over so well. It turns out that she is missing an important ingredient: the rare Saffron honey, so Ash and Pikachu decide to help Mallow gather some honey. Their plan is to use an Oricorio to find it, but finding one is not so easy. Meanwhile, Ash's Rowlet seems to have developed feelings for Mallow's Bounsweet, but the feelings are not reciprocated. Team Rocket turns up once again, but this time instead of stealing Pikachu they plan to steal the Saffron honey. However, their interference causes Bounsweet to evolve into a Steenee with a devastating slap attack.",
+    "number": "18",
+    "image": "https://image.tmdb.org/t/p/original/iOzQyuTh16cCIyUtBau9HVbZIrs.jpg",
+    "airDate": "2017-03-16"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-19",
+    "title": "A Guardian Rematch!",
+    "description": "Ash needs to begin training for a possible rematch against Tapu Koko. Sophocles helps out with scientific methods that yields surprising results. Naturally, this arouses Tapu Koko's interest. Tapu Koko challenges Ash and Pikachu with the whole Pokémon school looking on. Are Ash and Pikachu strong enough with the Electrium Z-Crystal power to withstand the Island Guardian's powerful attacks?",
+    "number": "19",
+    "image": "https://image.tmdb.org/t/p/original/pAMHoJZGhQZ3JMHa3M59DUQHlvT.jpg",
+    "airDate": "2017-03-23"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-20",
+    "title": "Partner Promises!",
+    "description": "On the advice of a local shopkeeper, Ash and Pikachi (partly to escape being dragged along on the girls' shopping spree) kayak to nearby Treasure Island, where there are lots of wild Pokémon. After watching a group of Crabrawler, following an Cutiefly to a meadow full of friendly bug Pokémon and having fun with a group of Alolan Exeggutor, they are overrun by a school of Wimpod who try to steal their snacks. Preparing to return home, they find a Wimpod trapped inside a blocked cave. With the help of one of the Exeggutor from earlier, they manage to reach and free Wimpod, who thanks Ash before returning to its school. Ash and Pikachu see another Island Guardian, Tapu Lele, who heals Ash's bruised hands.",
+    "number": "20",
+    "image": "https://image.tmdb.org/t/p/original/mGCRG1hu6QEcrrubMBv2aY5FWs5.jpg",
+    "airDate": "2017-04-06"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-21",
+    "title": "One Journey Ends, Another Begins...",
+    "description": "Ash and Pikachu run into Litten again, but this time something's very wrong with its friend the old Stoutland. Ash carries Stoutland to the Pokémon Center, where Ash, Pikachu, and Rotom-Dex learn that Stoutland is dying. Litten and Stoutland escape from the Pokémon Center and return to the riverside, where Stoutland passes away in the night. After realizing what has happened, Litten is heart-broken and refuses to be comforted by anyone. After Litten finally comes to terms with the loss of its friend, Ash asks Litten to join him. Litten decides to test him by battling against Pikachu. When the battle ends in a draw, Litten chooses to become one of Ash's Pokémon. Team Rocket's Meowth, who for reasons of his own has been secretly watching everything, seems pleased by the outcome.",
+    "number": "21",
+    "image": "https://image.tmdb.org/t/p/original/t8PlNvPAu40UihCexnPzVrjrwy4.jpg",
+    "airDate": "2017-04-06"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-22",
+    "title": "A Shivering Shovel Search!",
+    "description": "While training Litten, who is having trouble mastering Fire Fang, Ash accidentally incurs the wrath of an unfriendly Sandygast when Rockruff's Rock Throw knocks the shovel off its head. Ash's attempt to temporarily replace it with Rotom-Dex only makes things worse. In a rage, Sandygast evolves into Palossand and swallows up Ash and also Litten when it tries to rescue him. With both Litten and Rotom-Dex affected by Palossand's energy drain, it is now up to the rest of Ash's classmates to save them. While Kiawe and the others keep Palossand busy, can Pikachu and Popplio find the lost shovel in time?",
+    "number": "22",
+    "image": "https://image.tmdb.org/t/p/original/lMvWnhPiCXbxWvu3vPrN2EB2F8p.jpg",
+    "airDate": "2017-04-13"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-23",
+    "title": "Getting the Band Back Together!",
+    "description": "Ash and his classmates are excited to see DJ Leo, who is a popular local musician that plays music with his Alolan Dugtrio. After an Alolan Diglett that dances joins the group, the Dugtrio start quarreling among themselves as to which of them should take center stage. Amidst the threat of a split-up, Team Rocket steps in to steal Dugtrio.",
+    "number": "23",
+    "image": "https://image.tmdb.org/t/p/original/mfhXILiowfMyIE7VfkytfW8Xu4e.jpg",
+    "airDate": "2017-04-20"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-24",
+    "title": "Alolan Open House!",
+    "description": "When the Pokémon School announces a special Visitors Day, Ash's mother and Mr. Mime come for a visit. Delia charms everyone, including all of Ash's Alolan Pokémon. Meanwhile, Ash faces one of his toughest challenges ever... giving a report in front of his classmates, the school visitors and now his own mother! When the Team Skull grunts crash the festivities on Tauros and start causing mayhem, Delia insists on standing up to them. Can Ash and his Pokémon save the day?",
+    "number": "24",
+    "image": "https://image.tmdb.org/t/p/original/xU8DtUPprYUys3oPm7iKgwSzUoW.jpg",
+    "airDate": "2017-04-27"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-25",
+    "title": "A Team-on-Team Tussle!",
+    "description": "When Team Rocket see Ash and Kiawe demonstrating Z-moves, they plot to find Z-crystals for themselves. While searching, Team Rocket run into Team Skull. Both gangs spot a Darkinium Z-crystal embedded in a large rock. Will they be able to work together to get through the infestation of Rattata and Raticate from earlier that are between them and the Z-crystal? If they can, how long will this alliance last? If they can't, who will get the Z-crystal first and will they be able to use it?",
+    "number": "25",
+    "image": "https://image.tmdb.org/t/p/original/4eFKZskteos4eoWKV3jZAPHSIxn.jpg",
+    "airDate": "2017-05-04"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-26",
+    "title": "So Long, Sophocles!",
+    "description": "Sophocles and his family may be moving away, so Sophocles will have to leave the Pokémon school and all his friends. Even though he tries to keep the news from his classmates, they can see that both he and Togedemaru are very upset. Ash and his friends work together to cheer up Sophocles with a farewell party. However, when Sophocles finds out he's made a mistake, he finds it very hard to tell his friends.",
+    "number": "26",
+    "image": "https://image.tmdb.org/t/p/original/qIOdrw4ErWnMS2ztvZbGloxhUqF.jpg",
+    "airDate": "2017-05-11"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-27",
+    "title": "A Glaring Rivalry!",
+    "description": "A trainer named Gladion, dressed in black, battling with a powerful fiery-eyed Lycanroc and wearing a Z-ring, has appeared on Melemele Island. After seeing them in action, Ash naturally wants to battle Gladion; however, he's totally shocked when Lillie appears and calls Gladion her brother. Gladion seems cold towards Lillie and at first refuses Ash's challenge, but then learns that Ash got his Z-ring from Tapu Koko and had actually battled the Island Guardian. That night, Gladion's Umbreon delivers a note to Ash agreeing to battle. It's Ash's Rockruff versus Gladion's Lycanroc! However, Team Rocket, who saw Gladion defeat the Team Skull grunts earlier, can't resist getting involved. Ash and Gladion must work together to rescue Pikachu and Lycanroc.",
+    "number": "27",
+    "image": "https://image.tmdb.org/t/p/original/zD1GuaDkqoQ9eLjzT1rc121fi51.jpg",
+    "airDate": "2017-05-18"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-28",
+    "title": "Pulling Out the Pokémon Base Pepper!",
+    "description": "Grab your bats and mitts: Pokémon Base season is upon us! Ash and friends can’t get enough of the popular sport, especially after watching the final Pro League game, and they’re delighted when Professor Kukui invites a star athlete to visit the Pokémon School for a special lesson. The competition gets fierce when Team Rocket arrives for a game! Get ready for some intense sports action—and the rare sight of Kiawe wearing a shirt!",
+    "number": "28",
+    "image": "https://image.tmdb.org/t/p/original/xVXc8SNpdXYT8a3f4ha1SSh1w8Q.jpg",
+    "airDate": "2017-05-25"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-29",
+    "title": "Lulled to La-La Land!",
+    "description": "Students and Pokémon take a camping trip together. After they wake up feeling mysteriously drained, they realize there's something in the forest.",
+    "number": "29",
+    "image": "https://image.tmdb.org/t/p/original/7n00TNHCyJhvcN9Nj68jCZobxkQ.jpg",
+    "airDate": "2017-06-08"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-30",
+    "title": "The Ol' Raise and Switch!",
+    "description": "Ash and his friends switch Pokémon for two days for a class assignment. Ash takes Snowy to his house while Pikachu goes home with Lillie.",
+    "number": "30",
+    "image": "https://image.tmdb.org/t/p/original/gFUjl16uZUt2C0g0sbW2bxCgenF.jpg",
+    "airDate": "2017-06-15"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-31",
+    "title": "The Island Whisperer!",
+    "description": "The Akala Island Kahuna, Olivia, comes to the Pokémon School. Ash and the rest of the class head to Akala for a practical class under her supervision.",
+    "number": "31",
+    "image": "https://image.tmdb.org/t/p/original/yPN4WHKP8OTHa5vxhCCG1AqcFDE.jpg",
+    "airDate": "2017-06-22"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-32",
+    "title": "Treasure Hunt, Akala Style!",
+    "description": "For the first class on Akala, Ash and his friends are paired with Stoutlands for a treasure hunt. Lillie and Lana struggle with their partners.",
+    "number": "32",
+    "image": "https://image.tmdb.org/t/p/original/8kid26Gtnk1NKK8Yc6C7YHVHxDa.jpg",
+    "airDate": "2017-06-29"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-33",
+    "title": "Big Sky, Small Fry!",
+    "description": "With no class today, Ash and Lana go fishing, but they may end up catching more than they bargained for since the lagoon they're fishing in may contain a water-type Totem Pokémon. If there is, then Lana is determined to battle it. Meanwhile, Kiawe takes the rest of the gang to visit his family's dairy farm, and Team Rocket doesn't seem to be having much luck with their own fishing.",
+    "number": "33",
+    "image": "https://image.tmdb.org/t/p/original/2YnnDc16we8Cq13irQtKr6fWtv4.jpg",
+    "airDate": "2017-07-06"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-34",
+    "title": "A Crowning Moment of Truth!",
+    "description": "The Wela Fire Festival is just starting to heat up, but someone seems determined to put it out!",
+    "number": "34",
+    "image": "https://image.tmdb.org/t/p/original/k2eiDr1fxG4w868vGT1owgYGtO5.jpg",
+    "airDate": "2017-07-20"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-35",
+    "title": "Currying Favor and Flavor!",
+    "description": "Our heroes are embarking on a mission filled with good taste...and a surprising finish!",
+    "number": "35",
+    "image": "https://image.tmdb.org/t/p/original/oK5dAmTUK0fYpo97fW5YQNhrz0l.jpg",
+    "airDate": "2017-07-27"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-36",
+    "title": "Trials and Determinations!",
+    "description": "The time for Ash's grand trial with Olivia is finally here, and it's no ordinary battle!",
+    "number": "36",
+    "image": "https://image.tmdb.org/t/p/original/hid6BjfjldJSMrLMZi5ZQo2RmEL.jpg",
+    "airDate": "2017-08-03"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-37",
+    "title": "Rising from the Ruins!",
+    "description": "As if Ash's victory at his grand trial wasn't monumental enough, an unexpected transformation makes a memorable field trip even more momentous!",
+    "number": "37",
+    "image": "https://image.tmdb.org/t/p/original/mb9sIHkNHvK2HK89FgSUBBcjD1z.jpg",
+    "airDate": "2017-08-10"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-38",
+    "title": "Mimikyu Unmasked!",
+    "description": "When Mimikyu faces a fashion problem, Jessie sees a bonding opportunity!",
+    "number": "38",
+    "image": "https://image.tmdb.org/t/p/original/8qSUxUduyrQWCLmOW2GRPjRFg83.jpg",
+    "airDate": "2017-08-17"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-39",
+    "title": "Mallow and the Forest Teacher!",
+    "description": "It's a challenging day for Mallow and her family restaurant, and emotions are running high!",
+    "number": "39",
+    "image": "https://image.tmdb.org/t/p/original/d5mRcJcNB9GrQHwxULA9RyaGqo6.jpg",
+    "airDate": "2017-08-24"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-40",
+    "title": "Balloons, Brionne, and Belligerence!",
+    "description": "Lana and Popplio are working hard to master their Z-Move, but their progress is soon to grow by leaps and bounds!",
+    "number": "40",
+    "image": "https://image.tmdb.org/t/p/original/2vIiwEO88TFBJbG7sOvR6FFAd8M.jpg",
+    "airDate": "2017-08-31"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-41",
+    "title": "Mounting an Electrifying Charge!",
+    "description": "Three of our heroes are teaming up for the annual Charjabug race, an electrifying event with shocking results!",
+    "number": "41",
+    "image": "https://image.tmdb.org/t/p/original/mmdpKnkx8j1CFYmDK0dcf5Q7Zps.jpg",
+    "airDate": "2017-09-07"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-42",
+    "title": "Alola, Kanto!",
+    "description": "A celebratory Pokémon School class trip turns out to be a reunion no one will ever forget!",
+    "number": "42",
+    "image": "https://image.tmdb.org/t/p/original/iYCto8g4ZlGUgD4wxkqwKqVvlxe.jpg",
+    "airDate": "2017-09-14"
+},
+{
+    "id": "pokemon-the-series-sun-moon-episode-43",
+    "title": "When Regions Collide!",
+    "description": "The Cerulean Gym is the setting for old and new friends, battling old and new skills!",
+    "number": "43",
+    "image": "https://image.tmdb.org/t/p/original/5TYvxJaSkLAedUCB6msmF2wpXW5.jpg",
+    "airDate": "2017-09-21"
+}]
 }
