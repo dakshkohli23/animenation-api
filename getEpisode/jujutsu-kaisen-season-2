@@ -16,10 +16,21 @@
             "ep_num": "2",
             "anime_info": "jujutsu-kaisen-season-2",
             "movie_id": "145064",
-            "nextEpText": "",
-            "nextEpLink": "",
+            "nextEpText": "JUJUTSU KAISEN Season 2 Episode 3 >>",
+            "nextEpLink": "/jujutsu-kaisen-season-2-episode-3",
             "prevEpText": "<< Jujutsu Kaisen Season 2 Episode 1",
             "prevEpLink": "/jujutsu-kaisen-season-2-episode-1"
+        },
+        {
+            "server1": "tj8whb7s68lz",
+            "animeNameWithEP": "Jujutsu Kaisen Season 2",
+            "ep_num": "3",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "nextEpText": "",
+            "nextEpLink": "",
+            "prevEpText": "<< Jujutsu Kaisen Season 2 Episode 2",
+            "prevEpLink": "/jujutsu-kaisen-season-2-episode-2"
         }
 
     ]
