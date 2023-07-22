@@ -38,7 +38,7 @@
 		"episode": 7
 	},
 	"totalEpisodes": 16,
-	"currentEpisode": 13,
+	"currentEpisode": 14,
 	"rating": 72,
 	"duration": null,
 	"genres": ["Adventure", "Fantasy"],
@@ -730,6 +730,13 @@
 		"title": "A Sudden Picnic",
 		"description": null,
 		"number": 13,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9861953/screencap/64b1fd039bc2c.jpg",
+		"airDate": "2023-07-14T00:00:00.000Z"
+	},{
+		"id": "pokemon-horizons-the-series-episode-14",
+		"title": "A Sudden Picnic",
+		"description": null,
+		"number": 14,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/9861953/screencap/64b1fd039bc2c.jpg",
 		"airDate": "2023-07-14T00:00:00.000Z"
 	}]
