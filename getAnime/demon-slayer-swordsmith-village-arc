@@ -33,7 +33,7 @@
 		"day": null
 	},
 	"totalEpisodes": 11,
-	"currentEpisode": 8,
+	"currentEpisode": 9,
 	"rating": 84,
 	"duration": 24,
 	"genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
@@ -1171,5 +1171,12 @@
 		"number": 8,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/9704260/screencap/646a483b27a81.jpg",
 		"airDate": "2023-05-28T00:00:00.000Z"
+	}, {
+		"id": "demon-slayer-swordsmith-village-arc-episode-9",
+		"title": "Mist Hashira Muichiro Tokito",
+		"description": "Armed with his memories, Muichiro feels powerful and invincible, convinced that the demonic fifth moon has no chance against him.",
+		"number": 9,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9704261/screencap/64739e9266ec7.jpg",
+		"airDate": "2023-06-04T00:00:00.000Z"
 	}]
 }
