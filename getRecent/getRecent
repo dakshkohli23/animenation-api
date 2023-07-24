@@ -1,5 +1,17 @@
 [
 	{
+		"animeId": "bleach-thousand-year-blood-war-the-separation",
+		"episodeId": "bleach-thousand-year-blood-war-the-separation-episode-3",
+		"name": "BLEACH: Thousand-Year Blood War - The Separation",
+		"jname": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
+		"episodeNum": "3",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
+		"episodeUrl": "../anime/bleach-thousand-year-blood-war-the-separation",
+		"isAdult": true
+	},
+	{
 		"animeId": "demon-slayer-swordsmith-village-arc",
 		"episodeId": "demon-slayer-swordsmith-village-arc-episode-9",
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
@@ -48,18 +60,7 @@
 		"isAdult": true
 	},
 
-	{
-		"animeId": "bleach-thousand-year-blood-war-the-separation",
-		"episodeId": "bleach-thousand-year-blood-war-the-separation-episode-2",
-		"name": "BLEACH: Thousand-Year Blood War - The Separation",
-		"jname": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
-		"episodeNum": "2",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
-		"episodeUrl": "../anime/bleach-thousand-year-blood-war-the-separation",
-		"isAdult": true
-	},
+
 	{
 		"animeId": "rent-a-girlfriend-season-3",
 		"episodeId": "rent-a-girlfriend-season-3-episode-2",
