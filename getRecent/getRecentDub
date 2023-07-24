@@ -1,4 +1,16 @@
 [
+	{
+		"animeId": "demon-slayer-swordsmith-village-arc",
+		"episodeId": "demon-slayer-swordsmith-village-arc-episode-9",
+		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+		"episodeNum": "9",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
+		"episodeUrl": "../anime/demon-slayer-swordsmith-village-arc",
+		"isAdult": true
+	},
 {
 	"animeId": "pokemon-ultimate-journeys",
 		"episodeId": "pokemon-ultimate-journeys-episode-52",
@@ -11,18 +23,7 @@
 		"episodeUrl": "../anime/pokemon-ultimate-journeys",
 		"isAdult": false
 	},
-	{
-		"animeId": "demon-slayer-swordsmith-village-arc",
-		"episodeId": "demon-slayer-swordsmith-village-arc-episode-8",
-		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-		"episodeNum": "8",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
-		"episodeUrl": "../anime/demon-slayer-swordsmith-village-arc",
-		"isAdult": true
-	},
+
 	
 	{
 		"animeId": "record-of-ragnarok-2-part-2",
