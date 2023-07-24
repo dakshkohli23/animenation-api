@@ -2,24 +2,24 @@
 	"id": "145064",
 	"title": {
 		"romaji": "Jujutsu Kaisen 2nd Season",
-		"english": "Jujutsu Kaisen Season 2",
+		"english": "JUJUTSU KAISEN Season 2",
 		"native": "呪術廻戦 第2期"
 	},
 	"malId": 51009,
-	"synonyms": ["呪術廻戦 懐玉・玉折／渋谷事変 ", "Jujutsu Kaisen: Kaigyoku Gyokusetsu / Shibuya Jihen", "JJK2", "มหาเวทย์ผนึกมาร ภาค 2", " 咒术回战", "2جوجوتسو كايسن ", "JUJUTSU KAISEN Season 2"],
+	"synonyms": ["呪術廻戦 懐玉・玉折／渋谷事変 ", "Jujutsu Kaisen: Kaigyoku Gyokusetsu / Shibuya Jihen", "Jujutsu Kaisen: Hidden Inventory / Premature Death", "JJK2", "咒術迴戰  第二季", "มหาเวทย์ผนึกมาร ภาค 2 ", "咒术回战 2", "2جوجوتسو كايسن "],
 	"isLicensed": true,
 	"isAdult": false,
 	"countryOfOrigin": "JP",
 	"trailer": {
-		"id": "aybr_9MzKXI",
+		"id": "O6qVieflwqs",
 		"site": "youtube",
-		"thumbnail": "https://i.ytimg.com/vi/aybr_9MzKXI/hqdefault.jpg"
+		"thumbnail": "https://i.ytimg.com/vi/O6qVieflwqs/hqdefault.jpg"
 	},
 	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
-	"popularity": 81668,
+	"popularity": 141248,
 	"color": "#5d86e4",
 	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-kH9vbOEitIhl.jpg",
-	"description": "The second season of <i>Jujutsu Kaisen</i>.",
+	"description": "The second season of <i>Jujutsu Kaisen</i>.<br>\n<br>\nThe past comes to light when second-year students Satoru Gojou and Suguru Getou are tasked with escorting young Riko Amanai to Master Tengen. But when a non-sorcerer user tries to kill them, their mission to protect the Star Plasma Vessel threatens to turn them into bitter enemies and cement their destinies—one as the world’s strongest sorcerer, and the other its most twisted curse user!<br>\n<br>\n(Source: Crunchyroll)",
 	"status": "Ongoing",
 	"releaseDate": 2023,
 	"startDate": {
@@ -33,13 +33,13 @@
 		"day": null
 	},
 	"nextAiringEpisode": {
-		"airingTime": 1688655360,
-		"timeUntilAiring": 5392451,
-		"episode": 1
+		"airingTime": 1690469760,
+		"timeUntilAiring": 277095,
+		"episode": 4
 	},
 	"totalEpisodes": 23,
 	"currentEpisode": 3,
-	"rating": null,
+	"rating": 85,
 	"duration": 24,
 	"genres": ["Action", "Drama", "Supernatural"],
 	"season": "SUMMER",
@@ -116,6 +116,39 @@
 				"userPreferred": "Yuuichi Nakamura"
 			},
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+		}, {
+			"id": 103491,
+			"language": "English",
+			"name": {
+				"first": "Kaiji",
+				"last": "Tang",
+				"full": "Kaiji Tang",
+				"native": null,
+				"userPreferred": "Kaiji Tang"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103491-m720HzpwMA2o.jpg"
+		}, {
+			"id": 105021,
+			"language": "Spanish",
+			"name": {
+				"first": "José Gilberto",
+				"last": "Vilchis",
+				"full": "José Gilberto Vilchis",
+				"native": "José Gilberto Vilchis Barrero",
+				"userPreferred": "José Gilberto Vilchis"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105021-Bn6vy2ClY3uX.png"
+		}, {
+			"id": 175184,
+			"language": "Portuguese",
+			"name": {
+				"first": "Leonardo",
+				"last": "Rabelo",
+				"full": "Leonardo Rabelo",
+				"native": null,
+				"userPreferred": "Leonardo Rabelo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175184-FHiCJYMtiWCR.png"
 		}]
 	}, {
 		"id": 133699,
@@ -139,6 +172,39 @@
 				"userPreferred": "Takahiro Sakurai"
 			},
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg"
+		}, {
+			"id": 95180,
+			"language": "English",
+			"name": {
+				"first": "Lex",
+				"last": "Lang",
+				"full": "Lex Lang",
+				"native": null,
+				"userPreferred": "Lex Lang"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95180-lBWAdPZISYWf.jpg"
+		}, {
+			"id": 105729,
+			"language": "Spanish",
+			"name": {
+				"first": "Christian",
+				"last": "Strempler",
+				"full": "Christian Strempler",
+				"native": "Christian David Strempler Fierro",
+				"userPreferred": "Christian Strempler"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105729-AYzrdI951lXN.png"
+		}, {
+			"id": 186387,
+			"language": "Portuguese",
+			"name": {
+				"first": "Wesley",
+				"last": "Santana",
+				"full": "Wesley Santana",
+				"native": null,
+				"userPreferred": "Wesley Santana"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n186387-mHNkfP89Psz0.jpg"
 		}]
 	}, {
 		"id": 127212,
@@ -174,7 +240,18 @@
 			"userPreferred": "Megumi Fushiguro"
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png",
-		"voiceActors": []
+		"voiceActors": [{
+			"id": 119617,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuma",
+				"last": "Uchida",
+				"full": "Yuuma Uchida",
+				"native": "内田雄馬",
+				"userPreferred": "Yuuma Uchida"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png"
+		}]
 	}, {
 		"id": 133700,
 		"role": "MAIN",
@@ -186,7 +263,18 @@
 			"userPreferred": "Nobara Kugisaki"
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png",
-		"voiceActors": []
+		"voiceActors": [{
+			"id": 106787,
+			"language": "Japanese",
+			"name": {
+				"first": "Asami",
+				"last": "Seto",
+				"full": "Asami Seto",
+				"native": "瀬戸麻沙美",
+				"userPreferred": "Asami Seto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-pNRFEiywJuEx.png"
+		}]
 	}, {
 		"id": 162722,
 		"role": "SUPPORTING",
@@ -209,6 +297,51 @@
 				"userPreferred": "Takehito Koyasu"
 			},
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+		}, {
+			"id": 138278,
+			"language": "English",
+			"name": {
+				"first": "Nicolas",
+				"last": "Roye",
+				"full": "Nicolas Roye",
+				"native": null,
+				"userPreferred": "Nicolas Roye"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n138278-a41EqPr13UPB.jpg"
+		}, {
+			"id": 176912,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcos",
+				"last": "Souza",
+				"full": "Marcos Souza",
+				"native": null,
+				"userPreferred": "Marcos Souza"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176912-AbNkAZQV9bZX.jpg"
+		}]
+	}, {
+		"id": 306268,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Koukun",
+			"last": null,
+			"full": "Koukun",
+			"native": "コークン",
+			"userPreferred": "Koukun"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b306268-49iFgcDudSAC.jpg",
+		"voiceActors": [{
+			"id": 251850,
+			"language": "Japanese",
+			"name": {
+				"first": "Kazuki",
+				"last": "Kyan",
+				"full": "Kazuki Kyan",
+				"native": "喜屋武和輝",
+				"userPreferred": "Kazuki Kyan"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n251850-pQzN301VcPkS.png"
 		}]
 	}, {
 		"id": 133702,
@@ -223,6 +356,29 @@
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b133702-Y7JRG5vAvjIL.png",
 		"voiceActors": []
 	}, {
+		"id": 306267,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Bayer",
+			"last": null,
+			"full": "Bayer",
+			"native": "バイエル",
+			"userPreferred": "Bayer"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b306267-7QXgLLV4bMVB.jpg",
+		"voiceActors": [{
+			"id": 95806,
+			"language": "Japanese",
+			"name": {
+				"first": "Yukitoshi",
+				"last": "Tokumoto",
+				"full": "Yukitoshi Tokumoto",
+				"native": "徳本恭敏",
+				"userPreferred": "Yukitoshi Tokumoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95806-LcRWC7JTOFnx.jpg"
+		}]
+	}, {
 		"id": 203015,
 		"role": "SUPPORTING",
 		"name": {
@@ -232,7 +388,7 @@
 			"native": "天内理子",
 			"userPreferred": "Riko Amanai"
 		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b203015-U2UwIirvSN3x.jpg",
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b203015-ez2Io1gxIQOP.jpg",
 		"voiceActors": [{
 			"id": 182100,
 			"language": "Japanese",
@@ -244,6 +400,28 @@
 				"userPreferred": "Anna Nagase"
 			},
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182100-buLXSv62GTH2.png"
+		}, {
+			"id": 129416,
+			"language": "English",
+			"name": {
+				"first": "Reba",
+				"last": "Buhr",
+				"full": "Reba Buhr",
+				"native": null,
+				"userPreferred": "Reba Buhr"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129416-snqT3wd52767.jpg"
+		}, {
+			"id": 310652,
+			"language": "Portuguese",
+			"name": {
+				"first": "Roberta",
+				"last": "Piragibe",
+				"full": "Roberta Piragibe",
+				"native": null,
+				"userPreferred": "Roberta Piragibe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n310652-V8vvxXmfp8v8.jpg"
 		}]
 	}, {
 		"id": 189237,
@@ -256,16 +434,39 @@
 			"userPreferred": "Masamichi Yaga"
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b189237-ZxNJwVPL8DvW.png",
+		"voiceActors": [{
+			"id": 96122,
+			"language": "Japanese",
+			"name": {
+				"first": "Takaya",
+				"last": "Kuroda",
+				"full": "Takaya Kuroda",
+				"native": "黒田崇矢",
+				"userPreferred": "Takaya Kuroda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96122-KZMI0XXqYtpG.png"
+		}]
+	}, {
+		"id": 217291,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Tengen",
+			"last": null,
+			"full": "Tengen",
+			"native": "天元",
+			"userPreferred": "Tengen"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b217291-zKcyXtXLZZJy.png",
 		"voiceActors": []
 	}, {
 		"id": 158154,
 		"role": "SUPPORTING",
 		"name": {
-			"first": "Shoko ",
+			"first": "Shouko",
 			"last": "Ieiri",
-			"full": "Shoko  Ieiri",
+			"full": "Shouko Ieiri",
 			"native": "家入硝子",
-			"userPreferred": "Shoko  Ieiri"
+			"userPreferred": "Shouko Ieiri"
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b158154-UCqbiULli62P.png",
 		"voiceActors": [{
@@ -279,6 +480,39 @@
 				"userPreferred": "Aya Endou"
 			},
 			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png"
+		}, {
+			"id": 129224,
+			"language": "English",
+			"name": {
+				"first": "Ryan",
+				"last": "Bartley",
+				"full": "Ryan Bartley",
+				"native": null,
+				"userPreferred": "Ryan Bartley"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129224-UOYnTHSiSC9C.png"
+		}, {
+			"id": 198311,
+			"language": "Spanish",
+			"name": {
+				"first": "Elena",
+				"last": "Torres",
+				"full": "Elena Torres",
+				"native": null,
+				"userPreferred": "Elena Torres"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198311-0SHYhYtUVsbj.png"
+		}, {
+			"id": 175193,
+			"language": "Portuguese",
+			"name": {
+				"first": "Aline",
+				"last": "Ghezzi",
+				"full": "Aline Ghezzi",
+				"native": null,
+				"userPreferred": "Aline Ghezzi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175193-s2v0yqtKMy97.png"
 		}]
 	}, {
 		"id": 255175,
@@ -290,8 +524,42 @@
 			"native": "黒井美里",
 			"userPreferred": "Misato Kuroi"
 		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b255175-oaSiH89zIoyT.jpg",
-		"voiceActors": []
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b255175-rOyuWgBm6W9M.jpg",
+		"voiceActors": [{
+			"id": 107282,
+			"language": "Japanese",
+			"name": {
+				"first": "Risa",
+				"last": "Shimizu",
+				"full": "Risa Shimizu",
+				"native": "清水理沙",
+				"userPreferred": "Risa Shimizu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107282-fyEJs2MuyVqP.png"
+		}]
+	}, {
+		"id": 310092,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Rourei Jusoshi",
+			"last": null,
+			"full": "Rourei Jusoshi",
+			"native": "老齢呪詛師",
+			"userPreferred": "Rourei Jusoshi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b310092-WElPSHDHTZDc.jpg",
+		"voiceActors": [{
+			"id": 109557,
+			"language": "Japanese",
+			"name": {
+				"first": "Naoki",
+				"last": "Bandou",
+				"full": "Naoki Bandou",
+				"native": "坂東尚樹",
+				"userPreferred": "Naoki Bandou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109557-aRcQs7olJEKa.jpg"
+		}]
 	}, {
 		"id": 157864,
 		"role": "SUPPORTING",
@@ -303,7 +571,41 @@
 			"userPreferred": "Utahime Iori"
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg",
-		"voiceActors": []
+		"voiceActors": [{
+			"id": 102263,
+			"language": "Japanese",
+			"name": {
+				"first": "Youko",
+				"last": "Hikasa",
+				"full": "Youko Hikasa",
+				"native": "日笠陽子",
+				"userPreferred": "Youko Hikasa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
+		}]
+	}, {
+		"id": 310091,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kamibukuro Jusoshi",
+			"last": null,
+			"full": "Kamibukuro Jusoshi",
+			"native": "紙袋呪詛師",
+			"userPreferred": "Kamibukuro Jusoshi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b310091-M3rC4FXthPtm.jpg",
+		"voiceActors": [{
+			"id": 209569,
+			"language": "Japanese",
+			"name": {
+				"first": "Seiyu",
+				"last": "Fujiwara",
+				"full": "Seiyu Fujiwara",
+				"native": "藤原聖侑",
+				"userPreferred": "Seiyu Fujiwara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n209569-Pw0OHAVW211B.png"
+		}]
 	}, {
 		"id": 157215,
 		"role": "SUPPORTING",
@@ -315,7 +617,18 @@
 			"userPreferred": "Mei Mei"
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b157215-I3TQJu8nkDwD.jpg",
-		"voiceActors": []
+		"voiceActors": [{
+			"id": 95009,
+			"language": "Japanese",
+			"name": {
+				"first": "Kotono",
+				"last": "Mitsuishi",
+				"full": "Kotono Mitsuishi",
+				"native": "三石琴乃",
+				"userPreferred": "Kotono Mitsuishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95009-d01Dg8mMwcg6.png"
+		}]
 	}, {
 		"id": 281725,
 		"role": "SUPPORTING",
@@ -327,7 +640,18 @@
 			"userPreferred": "Yuu Haibara"
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b281725-aImxCs2acsfj.png",
-		"voiceActors": []
+		"voiceActors": [{
+			"id": 123286,
+			"language": "Japanese",
+			"name": {
+				"first": "Gakuto",
+				"last": "Kajiwara",
+				"full": "Gakuto Kajiwara",
+				"native": "梶原岳人",
+				"userPreferred": "Gakuto Kajiwara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123286-TfHayiK4hqbk.png"
+		}]
 	}, {
 		"id": 133704,
 		"role": "SUPPORTING",
@@ -339,7 +663,18 @@
 			"userPreferred": "Kento Nanami"
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png",
-		"voiceActors": []
+		"voiceActors": [{
+			"id": 95591,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenjirou",
+				"last": "Tsuda",
+				"full": "Kenjirou Tsuda",
+				"native": "津田健次郎",
+				"userPreferred": "Kenjirou Tsuda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+		}]
 	}, {
 		"id": 303313,
 		"role": "SUPPORTING",
@@ -350,8 +685,111 @@
 			"native": "孔時雨",
 			"userPreferred": "Shiu Kong"
 		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b303313-StKHWc01Bewp.jpg",
-		"voiceActors": []
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b303313-5ELI3hDVjNwP.jpg",
+		"voiceActors": [{
+			"id": 95025,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroki",
+				"last": "Yasumoto",
+				"full": "Hiroki Yasumoto",
+				"native": "安元洋貴",
+				"userPreferred": "Hiroki Yasumoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg"
+		}]
+	}, {
+		"id": 310096,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Kyoutei-ba Announcer",
+			"last": null,
+			"full": "Kyoutei-ba Announcer",
+			"native": "競艇場アナウンス",
+			"userPreferred": "Kyoutei-ba Announcer"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+		"voiceActors": [{
+			"id": 184624,
+			"language": "Japanese",
+			"name": {
+				"first": "Yuuji",
+				"last": "Murai",
+				"full": "Yuuji Murai",
+				"native": "村井雄治",
+				"userPreferred": "Yuuji Murai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184624-uVkK5jlcPgpH.png"
+		}]
+	}, {
+		"id": 310646,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Shinja A",
+			"last": null,
+			"full": "Shinja A",
+			"native": "信者",
+			"userPreferred": "Shinja A"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+		"voiceActors": [{
+			"id": 175300,
+			"language": "Japanese",
+			"name": {
+				"first": "Taisuke",
+				"last": "Nakano",
+				"full": "Taisuke Nakano",
+				"native": "中野泰佑",
+				"userPreferred": "Taisuke Nakano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175300-oYIgY6iAcpmp.png"
+		}]
+	}, {
+		"id": 310097,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "TV Announcer B",
+			"last": null,
+			"full": "TV Announcer B",
+			"native": "TVアナウンス",
+			"userPreferred": "TV Announcer B"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+		"voiceActors": [{
+			"id": 131120,
+			"language": "Japanese",
+			"name": {
+				"first": "Tomohiro",
+				"last": "Yamaguchi",
+				"full": "Tomohiro Yamaguchi",
+				"native": "山口智広",
+				"userPreferred": "Tomohiro Yamaguchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131120-4vzA4l1E3KOo.png"
+		}]
+	}, {
+		"id": 310647,
+		"role": "BACKGROUND",
+		"name": {
+			"first": "Shinja B",
+			"last": null,
+			"full": "Shinja B",
+			"native": "信者",
+			"userPreferred": "Shinja B"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+		"voiceActors": [{
+			"id": 296152,
+			"language": "Japanese",
+			"name": {
+				"first": "Tsubasa",
+				"last": "Miyoshi",
+				"full": "Tsubasa Miyoshi",
+				"native": "三好翼",
+				"userPreferred": "Tsubasa Miyoshi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n296152-q1A6pWlqHSgm.png"
+		}]
 	}],
 	"relations": [{
 		"id": 113415,
@@ -386,7 +824,7 @@
 		"color": "#e4a15d",
 		"type": "MANGA",
 		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/101517-FrJtb3Th3HtF.jpg",
-		"rating": 85
+		"rating": 84
 	}],
 	"mappings": {
 		"mal": 51009,
@@ -397,7 +835,7 @@
 		"anisearch": 17085,
 		"livechart": 11083,
 		"notify.moe": "zFlagCa7g",
-		"anime-planet": "jujutsu-kaisen-2nd-season"
+		"anime-planet": "jujutsu-kaisen-season-2"
 	},
 	"episodes": [{
 		"id": "jujutsu-kaisen-season-2-episode-1",
@@ -409,16 +847,16 @@
 	}, {
 		"id": "jujutsu-kaisen-season-2-episode-2",
 		"title": "Hidden Inventory 2",
-		"description": null,
+		"description": "Gojo and Geto's true mission begins, to protect Riko from all possible threats, but she has a will of her own. While several curse magicians want to take her life for the 30 million reward. Riko decides that she wants to go to school like a normal day, but will the Hostess be safe there?",
 		"number": 2,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/9816818/screencap/64ae6f358799e.jpg",
 		"airDate": "2023-07-13T00:00:00.000Z"
 	}, {
 		"id": "jujutsu-kaisen-season-2-episode-3",
-		"title": "",
-		"description": null,
+		"title": "Hidden Inventory 3",
+		"description": "Gojo and Geto beat back the curse users after the bounty placed on Amanai's head when her cell phone rings. A captured Kuroi is displayed on her phone. Gojo tries to bring Amanai back to Jujutsu High, but she insists on going to the negotiations herself.",
 		"number": 3,
-		"image": "",
-		"airDate": "2023-07-13T00:00:00.000Z"
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9816819/screencap/64b7bf5f8b1e4.jpg",
+		"airDate": "2023-07-20T00:00:00.000Z"
 	}]
 }
