@@ -16,11 +16,11 @@
 		"thumbnail": "https://i.ytimg.com/vi/53_QT4NSB48/hqdefault.jpg"
 	},
 	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
-	"popularity": 33264,
+	"popularity": 43492,
 	"color": "#4386e4",
 	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159322-biJjvtNkhkxR.jpg",
 	"description": "The second part of <i>BLEACH: Sennen Kessen-hen</i>. <br><br>\n",
-	"status": "Currently Airing",
+	"status": "Ongoing",
 	"releaseDate": 2023,
 	"startDate": {
 		"year": 2023,
@@ -28,19 +28,19 @@
 		"day": 8
 	},
 	"endDate": {
-		"year": null,
-		"month": null,
-		"day": null
+		"year": 2023,
+		"month": 9,
+		"day": 30
 	},
 	"nextAiringEpisode": {
-		"airingTime": 1688824800,
-		"timeUntilAiring": 37343,
-		"episode": 1
+		"airingTime": 1690639200,
+		"timeUntilAiring": 449350,
+		"episode": 4
 	},
-	"totalEpisodes": 3,
+	"totalEpisodes": 13,
 	"currentEpisode": 3,
-	"rating": null,
-	"duration": null,
+	"rating": 87,
+	"duration": 24,
 	"genres": ["Action", "Adventure", "Supernatural"],
 	"season": "SUMMER",
 	"studios": ["Studio Pierrot"],
@@ -683,7 +683,12 @@
 		"number": 2,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/9865594/screencap/64ad77e0af316.jpg",
 		"airDate": "2023-07-15T00:00:00.000Z"
-	},
-{"id":"bleach-thousand-year-blood-war-the-separation-episode-3","title":"The Fundamental Virulence","description":"Mayuri receives a call from Urahara, who had stayed behind in Hueco Mundo to search for a way to reclaim everyone’s stolen Bankai. Urahara claims that he was able to come up with a solution based on the data gained from his earlier battle with Quilge.","number":3,"image":"https://artworks.thetvdb.com/banners/v4/episode/9865595/screencap/64b7d4efb1bc0.jpg","airDate":"2023-07-22T00:00:00.000Z"}
-]
+	}, {
+		"id": "bleach-thousand-year-blood-war-the-separation-episode-3",
+		"title": "The Fundamental Virulence",
+		"description": "Mayuri receives a call from Urahara, who had stayed behind in Hueco Mundo to search for a way to reclaim everyone’s stolen Bankai. Urahara claims that he was able to come up with a solution based on the data gained from his earlier battle with Quilge.",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9865595/screencap/64b7d4efb1bc0.jpg",
+		"airDate": "2023-07-22T00:00:00.000Z"
+	}]
 }
