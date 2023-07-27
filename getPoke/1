@@ -3,7 +3,7 @@
 		"episodeId": "pokemon-horizons-the-series-episode-1",
 		"name": "Pokémon Horizons: The Series",
 		"sub": "13",
-		"imgUrl": "../cover/pokemon-horizons-the-series.jpg",
+		"imgUrl": "cover/pokemon-horizons-the-series.jpg",
 		"episodeUrl": "../anime/pokemon-horizons-the-series"
 	},
 	{
@@ -11,7 +11,7 @@
 		"episodeId": "pokemon-ultimate-journeys-episode-1",
 		"name": "Pokémon Ultimate Journeys: The Series",
 		"dub": 52,
-		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
+		"imgUrl": "cover/pokemon-ultimate-journeys.jpg",
 		"episodeUrl": "../anime/pokemon-ultimate-journeys"
 	},
 	{
@@ -19,7 +19,7 @@
 		"episodeId": "pokemon-master-journeys-the-series-episode-1",
 		"name": "Pokémon Master Journeys: The Series",
 		"dub": "42",
-		"imgUrl": "../cover/pokemon-master-journeys-the-series.jpg",
+		"imgUrl": "cover/pokemon-master-journeys-the-series.jpg",
 		"episodeUrl": "../anime/pokemon-master-journeys-the-series"
 	},
 	{
@@ -27,7 +27,7 @@
 		"episodeId": "pokemon-journeys-the-series-episode-1",
 		"name": "Pokémon Journeys: The Series",
 		"dub": "48",
-		"imgUrl": "../cover/pokemon-journeys-the-series.jpg",
+		"imgUrl": "cover/pokemon-journeys-the-series.jpg",
 		"episodeUrl": "../anime/pokemon-journeys-the-series"
 	},
 	{
@@ -35,7 +35,7 @@
 		"episodeId": "pokemon-the-series-sun-moon-ultra-legends-episode-1",
 		"name": "Pokémon the Series: Sun & Moon – Ultra Legends",
 		"dub": "54",
-		"imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-legends.jpg",
+		"imgUrl": "cover/pokemon-the-series-sun-moon-ultra-legends.jpg",
 		"episodeUrl": "../anime/pokemon-the-series-sun-moon-ultra-legends"
 	},
 	{
@@ -43,7 +43,7 @@
 		"episodeId": "pokemon-the-series-sun-moon-ultra-adventures-episode-1",
 		"name": "Pokémon the Series: Sun & Moon – Ultra Adventures",
 		"dub": "48",
-		"imgUrl": "../cover/pokemon-the-series-sun-moon-ultra-adventures.jpg",
+		"imgUrl": "cover/pokemon-the-series-sun-moon-ultra-adventures.jpg",
 		"episodeUrl": "../anime/pokemon-the-series-sun-moon-ultra-adventures"
 	},
 	{
@@ -51,7 +51,7 @@
 		"episodeId": "pokemon-the-series-sun-moon-episode-1",
 		"name": "Pokémon the Series: Sun & Moon",
 		"dub": "43",
-		"imgUrl": "../cover/pokemon-the-series-sun-moon.jpg",
+		"imgUrl": "cover/pokemon-the-series-sun-moon.jpg",
 		"episodeUrl": "../anime/pokemon-the-series-sun-moon"
 	},
 	{
@@ -59,7 +59,7 @@
 		"episodeId": "pokemon-the-series-xyz-episode-1",
 		"name": "Pokémon the Series: XYZ",
 		"dub": "48",
-		"imgUrl": "../cover/pokemon-the-series-xyz.jpg",
+		"imgUrl": "cover/pokemon-the-series-xyz.jpg",
 		"episodeUrl": "../anime/pokemon-the-series-xyz"
 	},
 	{
@@ -67,7 +67,7 @@
 		"episodeId": "pokemon-the-series-xy-kalos-quest-episode-1",
 		"name": "Pokémon the Series: XY Kalos Quest",
 		"dub": "45",
-		"imgUrl": "../cover/pokemon-the-series-xy-kalos-quest.jpg",
+		"imgUrl": "cover/pokemon-the-series-xy-kalos-quest.jpg",
 		"episodeUrl": "../anime/pokemon-the-series-xy-kalos-quest"
 	},
 	{
@@ -75,7 +75,7 @@
 		"episodeId": "pokemon-the-series-xy-episode-1",
 		"name": "Pokémon the Series: XY",
 		"dub": "48",
-		"imgUrl": "../cover/pokemon-the-series-xy.jpg",
+		"imgUrl": "cover/pokemon-the-series-xy.jpg",
 		"episodeUrl": "../anime/pokemon-the-series-xy"
 	},
 	{
@@ -83,7 +83,7 @@
 		"episodeId": "pokemon-black-white-adventures-in-unova-and-beyond",
 		"name": "Pokémon: Black & White: Adventures in Unova and Beyond",
 		"dub": "45",
-		"imgUrl": "../cover/pokemon-black-white-adventures-in-unova-and-beyond.jpg",
+		"imgUrl": "cover/pokemon-black-white-adventures-in-unova-and-beyond.jpg",
 		"episodeUrl": "../anime/pokemon-black-white-adventures-in-unova-and-beyond"
 	},
 	{
@@ -91,7 +91,7 @@
 		"episodeId": "pokemon-black-white-rival-destinies-episode-1",
 		"name": "Pokémon: Black & White: Rival Destinies",
 		"dub": "49",
-		"imgUrl": "../cover/pokemon-black-white-rival-destinies.jpg",
+		"imgUrl": "cover/pokemon-black-white-rival-destinies.jpg",
 		"episodeUrl": "../anime/pokemon-black-white-rival-destinies"
 	},
 	{
@@ -99,7 +99,7 @@
 		"episodeId": "pokemon-black-white-episode-1",
 		"name": "Pokémon Black and White",
 		"dub": "48",
-		"imgUrl": "../cover/pokemon-black-white.jpg",
+		"imgUrl": "cover/pokemon-black-white.jpg",
 		"episodeUrl": "../anime/pokemon-black-white"
 	},
 	{
@@ -107,7 +107,7 @@
 		"episodeId": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-1",
 		"name": "Pokémon: Diamond and Pearl: Sinnoh League Victors",
 		"dub": "34",
-		"imgUrl": "../cover/pokemon-diamond-and-pearl-sinnoh-league-victors.jpg",
+		"imgUrl": "cover/pokemon-diamond-and-pearl-sinnoh-league-victors.jpg",
 		"episodeUrl": "../anime/pokemon-diamond-and-pearl-sinnoh-league-victors"
 	},
 	{
@@ -115,7 +115,7 @@
 		"episodeId": "pokemon-diamond-and-pearl-galactic-battles-episode-1",
 		"name": "Pokémon: Diamond and Pearl: Galactic Battles",
 		"dub": "52",
-		"imgUrl": "../cover/pokemon-diamond-and-pearl-galactic-battles.jpg",
+		"imgUrl": "cover/pokemon-diamond-and-pearl-galactic-battles.jpg",
 		"episodeUrl": "../anime/pokemon-diamond-and-pearl-galactic-battles"
 	},
 	{
@@ -123,7 +123,7 @@
 		"episodeId": "pokemon-diamond-and-pearl-battle-dimension-episode-1",
 		"name": "Pokémon: Diamond and Pearl: Battle Dimension",
 		"dub": "52",
-		"imgUrl": "../cover/pokemon-diamond-and-pearl-battle-dimension.jpg",
+		"imgUrl": "cover/pokemon-diamond-and-pearl-battle-dimension.jpg",
 		"episodeUrl": "../anime/pokemon-diamond-and-pearl-battle-dimension"
 	},
 	{
@@ -131,7 +131,7 @@
 		"episodeId": "pokemon-diamond-and-pearl-episode-1",
 		"name": "Pokémon Diamond and Pearl",
 		"dub": "51",
-		"imgUrl": "../cover/pokemon-diamond-and-pearl.jpg",
+		"imgUrl": "cover/pokemon-diamond-and-pearl.jpg",
 		"episodeUrl": "../anime/pokemon-diamond-and-pearl"
 	},
 	{
@@ -139,7 +139,7 @@
 		"episodeId": "pokemon-battle-frontier-episode-1",
 		"name": "Pokémon: Battle Frontier",
 		"dub": "47",
-		"imgUrl": "../cover/pokemon-battle-frontier.jpg",
+		"imgUrl": "cover/pokemon-battle-frontier.jpg",
 		"episodeUrl": "../anime/pokemon-battle-frontier"
 	},
 	{
@@ -147,7 +147,7 @@
 		"episodeId": "pokemon-advanced-battle-episode-1",
 		"name": "Pokémon: Advanced Battle",
 		"dub": "52",
-		"imgUrl": "../cover/pokemon-advanced-battle.jpg",
+		"imgUrl": "cover/pokemon-advanced-battle.jpg",
 		"episodeUrl": "../anime/pokemon-advanced-battle"
 	},
 	{
@@ -155,7 +155,7 @@
 		"episodeId": "pokemon-advanced-challenge-episode-1",
 		"name": "Pokémon: Advanced Challenge",
 		"dub": "52",
-		"imgUrl": "../cover/pokemon-advanced-challenge.jpg",
+		"imgUrl": "cover/pokemon-advanced-challenge.jpg",
 		"episodeUrl": "../anime/pokemon-advanced-challenge"
 	},
 	{
@@ -163,7 +163,7 @@
 		"episodeId": "pokemon-advanced-episode-1",
 		"name": "Pokémon Advanced",
 		"dub": "40",
-		"imgUrl": "../cover/pokemon-advanced.jpg",
+		"imgUrl": "cover/pokemon-advanced.jpg",
 		"episodeUrl": "../anime/pokemon-advanced"
 	},
 	{
@@ -171,7 +171,7 @@
 		"episodeId": "pokemon-master-quest-episode-1",
 		"name": "Pokémon: Master Quest",
 		"dub": "65",
-		"imgUrl": "../cover/pokemon-master-quest.jpg",
+		"imgUrl": "cover/pokemon-master-quest.jpg",
 		"episodeUrl": "../anime/pokemon-master-quest"
 	},
 	{
@@ -179,7 +179,7 @@
 		"episodeId": "pokemon-johto-league-champions-episode-1",
 		"name": "Pokémon Johto League Champions",
 		"dub": "52",
-		"imgUrl": "../cover/pokemon-johto-league-champions.jpg",
+		"imgUrl": "cover/pokemon-johto-league-champions.jpg",
 		"episodeUrl": "../anime/pokemon-johto-league-champions"
 	},
 	{
@@ -187,7 +187,7 @@
 		"episodeId": "pokemon-the-johto-journeys-episode-1",
 		"name": "Pokémon: The Johto Journeys",
 		"dub": "41",
-		"imgUrl": "../cover/pokemon-the-johto-journeys.jpg",
+		"imgUrl": "cover/pokemon-the-johto-journeys.jpg",
 		"episodeUrl": "../anime/pokemon-the-johto-journeys"
 	},
 	{
@@ -195,7 +195,7 @@
 		"episodeId": "pokemon-adventures-in-the-orange-islands-episode-1",
 		"name": "Pokémon: Adventures in the Orange Islands",
 		"dub": "36",
-		"imgUrl": "../cover/pokemon-adventures-in-the-orange-islands.jpg",
+		"imgUrl": "cover/pokemon-adventures-in-the-orange-islands.jpg",
 		"episodeUrl": "../anime/pokemon-adventures-in-the-orange-islands"
 	},
 	{
@@ -203,7 +203,7 @@
 		"episodeId": "pokemon-indigo-league-episode-1",
 		"name": "Pokémon: Indigo League",
 		"dub": "82",
-		"imgUrl": "../cover/pokemon-indigo-league.jpg",
+		"imgUrl": "cover/pokemon-indigo-league.jpg",
 		"episodeUrl": "../anime/pokemon-indigo-league"
 	}
 
