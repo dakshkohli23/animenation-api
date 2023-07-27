@@ -38,7 +38,7 @@
 		"episode": 4
 	},
 	"totalEpisodes": 23,
-	"currentEpisode": 3,
+	"currentEpisode": 4,
 	"rating": 85,
 	"duration": 24,
 	"genres": ["Action", "Drama", "Supernatural"],
@@ -857,6 +857,13 @@
 		"description": "Gojo and Geto beat back the curse users after the bounty placed on Amanai's head when her cell phone rings. A captured Kuroi is displayed on her phone. Gojo tries to bring Amanai back to Jujutsu High, but she insists on going to the negotiations herself.",
 		"number": 3,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/9816819/screencap/64b7bf5f8b1e4.jpg",
+		"airDate": "2023-07-20T00:00:00.000Z"
+	}, {
+		"id": "jujutsu-kaisen-season-2-episode-4",
+		"title": "",
+		"description": "",
+		"number": 4,
+		"image": "",
 		"airDate": "2023-07-20T00:00:00.000Z"
 	}]
 }
