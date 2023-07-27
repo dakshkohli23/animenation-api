@@ -1,4 +1,18 @@
-[{
+[
+	{
+		"animeId": "jujutsu-kaisen-season-2",
+		"episodeId": "jujutsu-kaisen-season-2-episode-4",
+		"name": "Jujutsu Kaisen Season 2",
+		"jname": "Jujutsu Kaisen 2nd Season",
+		"episodeNum": "4",
+		"sub": 4,
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
+		"episodeUrl": "../anime/jujutsu-kaisen-season-2",
+		"isAdult": true
+	},
+{
 		"animeId": "bleach-thousand-year-blood-war-the-separation",
 		"episodeId": "bleach-thousand-year-blood-war-the-separation-episode-3",
 		"name": "BLEACH: Thousand-Year Blood War - The Separation",
@@ -51,19 +65,7 @@
 		"episodeUrl": "../anime/pokemon-ultimate-journeys",
 		"isAdult": false
 	},
-	{
-		"animeId": "jujutsu-kaisen-season-2",
-		"episodeId": "jujutsu-kaisen-season-2-episode-3",
-		"name": "Jujutsu Kaisen Season 2",
-		"jname": "Jujutsu Kaisen 2nd Season",
-		"episodeNum": "3",
-		"sub": 3,
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
-		"episodeUrl": "../anime/jujutsu-kaisen-season-2",
-		"isAdult": true
-	},
+
 
 
 	{
