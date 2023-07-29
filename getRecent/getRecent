@@ -13,6 +13,19 @@
 		"isAdult": false
 	},
 	{
+		"animeId": "pokemon-ultimate-journeys",
+		"episodeId": "pokemon-ultimate-journeys-episode-54",
+		"name": "Pokémon Ultimate Journeys: The Series",
+		"jname": "Pocket Monsters (2019)",
+		"episodeNum": "54",
+		"dub": 54,
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "cover/pokemon-ultimate-journeys.jpg",
+		"episodeUrl": "../anime/pokemon-ultimate-journeys",
+		"isAdult": false
+	},
+	{
 		"animeId": "jujutsu-kaisen-season-2",
 		"episodeId": "jujutsu-kaisen-season-2-episode-4",
 		"name": "Jujutsu Kaisen Season 2",
@@ -53,19 +66,7 @@
 		"isAdult": true
 	},
 
-	{
-		"animeId": "pokemon-ultimate-journeys",
-		"episodeId": "pokemon-ultimate-journeys-episode-52",
-		"name": "Pokémon Ultimate Journeys: The Series",
-		"jname": "Pocket Monsters (2019)",
-		"episodeNum": "52",
-		"dub": 52,
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "cover/pokemon-ultimate-journeys.jpg",
-		"episodeUrl": "../anime/pokemon-ultimate-journeys",
-		"isAdult": false
-	},
+
 
 
 
