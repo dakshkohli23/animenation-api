@@ -1,5 +1,17 @@
 [
 	{
+		"animeId": "pokemon-ultimate-journeys",
+		"episodeId": "pokemon-ultimate-journeys-episode-54",
+		"name": "Pokémon Ultimate Journeys: The Series",
+		"jname": "Pocket Monsters (2019)",
+		"episodeNum": "54",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
+		"episodeUrl": "../anime/pokemon-ultimate-journeys",
+		"isAdult": false
+	},
+	{
 		"animeId": "demon-slayer-swordsmith-village-arc",
 		"episodeId": "demon-slayer-swordsmith-village-arc-episode-9",
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
@@ -11,18 +23,7 @@
 		"episodeUrl": "../anime/demon-slayer-swordsmith-village-arc",
 		"isAdult": true
 	},
-{
-	"animeId": "pokemon-ultimate-journeys",
-		"episodeId": "pokemon-ultimate-journeys-episode-52",
-		"name": "Pokémon Ultimate Journeys: The Series",
-		"jname": "Pocket Monsters (2019)",
-		"episodeNum": "52",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
-		"episodeUrl": "../anime/pokemon-ultimate-journeys",
-		"isAdult": false
-	},
+
 
 	
 	{
