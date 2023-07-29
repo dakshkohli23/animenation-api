@@ -1,5 +1,18 @@
 [
 	{
+		"animeId": "pokemon-horizons-the-series",
+		"episodeId": "pokemon-horizons-the-series-episode-15",
+		"name": "Pokémon Horizons: The Series",
+		"jname": "Pocket Monsters (2023)",
+		"episodeNum": "15",
+		"sub": 15,
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
+		"episodeUrl": "../anime/pokemon-horizons-the-series",
+		"isAdult": false
+	},
+	{
 		"animeId": "jujutsu-kaisen-season-2",
 		"episodeId": "jujutsu-kaisen-season-2-episode-4",
 		"name": "Jujutsu Kaisen Season 2",
@@ -39,19 +52,7 @@
 		"episodeUrl": "../anime/demon-slayer-swordsmith-village-arc",
 		"isAdult": true
 	},
-	{
-		"animeId": "pokemon-horizons-the-series",
-		"episodeId": "pokemon-horizons-the-series-episode-14",
-		"name": "Pokémon Horizons: The Series",
-		"jname": "Pocket Monsters (2023)",
-		"episodeNum": "14",
-		"sub": 14,
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
-		"episodeUrl": "../anime/pokemon-horizons-the-series",
-		"isAdult": false
-	},
+
 	{
 		"animeId": "pokemon-ultimate-journeys",
 		"episodeId": "pokemon-ultimate-journeys-episode-52",
