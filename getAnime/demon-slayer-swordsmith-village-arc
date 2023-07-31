@@ -33,7 +33,7 @@
 		"day": null
 	},
 	"totalEpisodes": 11,
-	"currentEpisode": 9,
+	"currentEpisode": 10,
 	"rating": 84,
 	"duration": 24,
 	"genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
@@ -1178,5 +1178,12 @@
 		"number": 9,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/9704261/screencap/64739e9266ec7.jpg",
 		"airDate": "2023-06-04T00:00:00.000Z"
+	}, {
+		"id": "demon-slayer-swordsmith-village-arc-episode-10",
+		"title": "Love Hashira Mitsuri Kanroji",
+		"description": "Tanjiro, Nezuko, and Genya are struggling through an arduous battle against Zohakuten and his five tree dragons. They are forced to fight defensively against the tree dragons using the four emotion demon's powers, and Tanjiro is swallowed by one of them amidst the fight. Just as Tanjiro is close to meeting his demise, Mitsuri arrives in the nick of time and rescues him. And now, Mitsuri faces off against Zohakuten to rescue the captured Nezuko and Genya...!",
+		"number": 10,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9704262/screencap/647cb291be15d.jpg",
+		"airDate": "2023-06-11T00:00:00.000Z"
 	}]
 }
