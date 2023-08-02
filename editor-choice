@@ -4,9 +4,8 @@
 		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
 		"subOrDub": "sub",
 		"type": "tv",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145139-V01Prh6UzfRk.jpg",
-		"genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
-		"releaseDate": 2023
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
+		"animeUrl": "/anime/kimetsu-no-yaiba-katanakaji-no-satohen"
 	},
 	{
 		"animeId": "oshi-no-ko-episode-1",
