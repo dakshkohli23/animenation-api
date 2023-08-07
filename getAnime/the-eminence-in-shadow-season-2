@@ -1,0 +1,443 @@
+{
+	"id": "161964",
+	"title": {
+		"romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
+		"english": "The Eminence in Shadow Season 2",
+		"native": "陰の実力者になりたくて！ 2nd season"
+	},
+	"malId": 54595,
+	"synonyms": ["To Be a Power in the Shadows! 2", "ชีวิตไม่ต้องเด่น ขอแค่เป็นเทพในเงา 2", "Un giorno sarò l'eminenza grigia 2", "TEIS 2"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "Reux5Cc76po",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/Reux5Cc76po/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161964-chUYBE29hd1y.jpg",
+	"popularity": 31938,
+	"color": "#e4505d",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/161964-GiAaLuucbOoi.jpg",
+	"description": "The second season of <i>Kage no Jitsuryokusha ni Naritakute!</i>.",
+	"status": "Not yet aired",
+	"releaseDate": 2023,
+	"startDate": {
+		"year": 2023,
+		"month": 10,
+		"day": null
+	},
+	"endDate": {
+		"year": null,
+		"month": null,
+		"day": null
+	},
+	"totalEpisodes": 12,
+	"currentEpisode": 12,
+	"rating": null,
+	"duration": null,
+	"genres": ["Action", "Comedy", "Fantasy"],
+	"season": "FALL",
+	"studios": ["Nexus"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 162246,
+		"role": "MAIN",
+		"name": {
+			"first": "Alpha",
+			"last": null,
+			"full": "Alpha",
+			"native": "アルファ",
+			"userPreferred": "Alpha"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162246-IbbxkhNJFDN5.png",
+		"voiceActors": [{
+			"id": 106787,
+			"language": "Japanese",
+			"name": {
+				"first": "Asami",
+				"last": "Seto",
+				"full": "Asami Seto",
+				"native": "瀬戸麻沙美",
+				"userPreferred": "Asami Seto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-pNRFEiywJuEx.png"
+		}, {
+			"id": 129147,
+			"language": "English",
+			"name": {
+				"first": "Christina",
+				"last": "Kelly",
+				"full": "Christina Kelly",
+				"native": null,
+				"userPreferred": "Christina Kelly"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129147-I19GWVyaMPKe.png"
+		}]
+	}, {
+		"id": 136837,
+		"role": "MAIN",
+		"name": {
+			"first": "Cid",
+			"last": "Kagenou",
+			"full": "Cid Kagenou",
+			"native": "シド・カゲノー",
+			"userPreferred": "Cid Kagenou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b136837-3WR22FYet8Hv.jpg",
+		"voiceActors": [{
+			"id": 118249,
+			"language": "Japanese",
+			"name": {
+				"first": "Seiichirou",
+				"last": "Yamashita",
+				"full": "Seiichirou Yamashita",
+				"native": "山下誠一郎",
+				"userPreferred": "Seiichirou Yamashita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118249-aws1DsuN7cUW.png"
+		}, {
+			"id": 112243,
+			"language": "English",
+			"name": {
+				"first": "Adam",
+				"last": "Gibbs",
+				"full": "Adam Gibbs",
+				"native": null,
+				"userPreferred": "Adam Gibbs"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112243-7yJ7mTSB6bDK.png"
+		}]
+	}, {
+		"id": 162247,
+		"role": "MAIN",
+		"name": {
+			"first": "Beta",
+			"last": null,
+			"full": "Beta",
+			"native": "ベータ",
+			"userPreferred": "Beta"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162247-R6OrAuT1FwL4.png",
+		"voiceActors": [{
+			"id": 106297,
+			"language": "Japanese",
+			"name": {
+				"first": "Inori",
+				"last": "Minase",
+				"full": "Inori Minase",
+				"native": "水瀬いのり",
+				"userPreferred": "Inori Minase"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106297-KnzvgfxB1byY.png"
+		}]
+	}, {
+		"id": 162248,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Delta",
+			"last": null,
+			"full": "Delta",
+			"native": "デルタ",
+			"userPreferred": "Delta"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162248-57Xgk6EmwKRQ.png",
+		"voiceActors": [{
+			"id": 133625,
+			"language": "Japanese",
+			"name": {
+				"first": "Fairouz",
+				"last": "Ai",
+				"full": "Fairouz Ai",
+				"native": "ファイルーズあい",
+				"userPreferred": "Fairouz Ai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n133625-YpEgKD7flV2S.jpg"
+		}]
+	}, {
+		"id": 168798,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Claire",
+			"last": "Kagenou",
+			"full": "Claire Kagenou",
+			"native": "クレア・カゲノー",
+			"userPreferred": "Claire Kagenou"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b168798-IrHBKh5xbRsr.png",
+		"voiceActors": [{
+			"id": 100250,
+			"language": "Japanese",
+			"name": {
+				"first": "Rina",
+				"last": "Hidaka",
+				"full": "Rina Hidaka",
+				"native": "日高里菜",
+				"userPreferred": "Rina Hidaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100250-JhNN2vxQ311M.png"
+		}]
+	}, {
+		"id": 289297,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Eta",
+			"last": null,
+			"full": "Eta",
+			"native": "イータ",
+			"userPreferred": "Eta"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b289297-e2DgfeWhVPRa.jpg",
+		"voiceActors": [{
+			"id": 124747,
+			"language": "Japanese",
+			"name": {
+				"first": "Reina",
+				"last": "Kondou",
+				"full": "Reina Kondou",
+				"native": "近藤玲奈",
+				"userPreferred": "Reina Kondou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124747-uWJRlxZ05TaM.png"
+		}]
+	}, {
+		"id": 217045,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Yukime",
+			"last": null,
+			"full": "Yukime",
+			"native": "ユキメ",
+			"userPreferred": "Yukime"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b217045-g7JT2Qvwa00f.png",
+		"voiceActors": [{
+			"id": 95093,
+			"language": "Japanese",
+			"name": {
+				"first": "Shizuka",
+				"last": "Itou",
+				"full": "Shizuka Itou",
+				"native": "伊藤静",
+				"userPreferred": "Shizuka Itou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg"
+		}]
+	}, {
+		"id": 162249,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Epsilon",
+			"last": null,
+			"full": "Epsilon",
+			"native": "イプシロン",
+			"userPreferred": "Epsilon"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162249-eJRpBIC5lAZX.png",
+		"voiceActors": [{
+			"id": 103555,
+			"language": "Japanese",
+			"name": {
+				"first": "Hisako",
+				"last": "Kanemoto",
+				"full": "Hisako Kanemoto",
+				"native": "金元寿子",
+				"userPreferred": "Hisako Kanemoto"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103555-2ZtBwZfy9DTi.jpg"
+		}]
+	}, {
+		"id": 229663,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Juggernaut",
+			"last": null,
+			"full": "Juggernaut",
+			"native": "ジャガノート",
+			"userPreferred": "Juggernaut"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b229663-XqNjegFIGn2s.png",
+		"voiceActors": [{
+			"id": 95285,
+			"language": "Japanese",
+			"name": {
+				"first": "Tsuyoshi",
+				"last": "Koyama",
+				"full": "Tsuyoshi Koyama",
+				"native": "小山剛志",
+				"userPreferred": "Tsuyoshi Koyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95285-SCcRgHqau6Q9.jpg"
+		}]
+	}, {
+		"id": 264565,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Zeta",
+			"last": null,
+			"full": "Zeta",
+			"native": "ゼータ",
+			"userPreferred": "Zeta"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b264565-XcXapBRcXO6V.jpg",
+		"voiceActors": [{
+			"id": 118939,
+			"language": "Japanese",
+			"name": {
+				"first": "Ayaka",
+				"last": "Asai",
+				"full": "Ayaka Asai",
+				"native": "朝井彩加",
+				"userPreferred": "Ayaka Asai"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118939-6W4V2P4JL6QH.png"
+		}]
+	}, {
+		"id": 217044,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Elisabeth",
+			"last": null,
+			"full": "Elisabeth",
+			"native": "エリザベート",
+			"userPreferred": "Elisabeth"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b217044-mgNojqXLQCRo.png",
+		"voiceActors": []
+	}, {
+		"id": 162245,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gamma",
+			"last": null,
+			"full": "Gamma",
+			"native": "ガンマ",
+			"userPreferred": "Gamma"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b162245-x86QMM6nOj75.png",
+		"voiceActors": [{
+			"id": 106359,
+			"language": "Japanese",
+			"name": {
+				"first": "Suzuko",
+				"last": "Mimori",
+				"full": "Suzuko Mimori",
+				"native": "三森すずこ",
+				"userPreferred": "Suzuko Mimori"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106359-G8dROMWpwlM6.png"
+		}]
+	}, {
+		"id": 217043,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mary",
+			"last": null,
+			"full": "Mary",
+			"native": "メアリー",
+			"userPreferred": "Mary"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b217043-VZDrrt1DYl5Q.png",
+		"voiceActors": [{
+			"id": 113511,
+			"language": "Japanese",
+			"name": {
+				"first": "Ai",
+				"last": "Kakuma",
+				"full": "Ai Kakuma",
+				"native": "加隈亜衣",
+				"userPreferred": "Ai Kakuma"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113511-9zlSX9E2ne5G.jpg"
+		}]
+	}, {
+		"id": 229660,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Crimson",
+			"last": null,
+			"full": "Crimson",
+			"native": "クリムゾン",
+			"userPreferred": "Crimson"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b229660-0wrgniZVUfEF.png",
+		"voiceActors": [{
+			"id": 95002,
+			"language": "Japanese",
+			"name": {
+				"first": "Tomokazu",
+				"last": "Sugita",
+				"full": "Tomokazu Sugita",
+				"native": "杉田智和",
+				"userPreferred": "Tomokazu Sugita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png"
+		}]
+	}],
+	"relations": [{
+		"id": 108428,
+		"relationType": "ADAPTATION",
+		"malId": 115922,
+		"title": {
+			"romaji": "Kage no Jitsuryokusha ni Naritakute!",
+			"english": "The Eminence in Shadow",
+			"native": "陰の実力者になりたくて！",
+			"userPreferred": "Kage no Jitsuryokusha ni Naritakute!"
+		},
+		"status": "Ongoing",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx108428-wTg20rSpvkU9.jpg",
+		"color": "#1a1ad6",
+		"type": "NOVEL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/108428-Zm90nTeodNMI.jpg",
+		"rating": 83
+	}, {
+		"id": 130298,
+		"relationType": "PREQUEL",
+		"malId": 48316,
+		"title": {
+			"romaji": "Kage no Jitsuryokusha ni Naritakute!",
+			"english": "The Eminence in Shadow",
+			"native": "陰の実力者になりたくて！",
+			"userPreferred": "Kage no Jitsuryokusha ni Naritakute!"
+		},
+		"status": "Completed",
+		"episodes": 20,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-O7nR1Wrav2dH.jpg",
+		"color": "#d61a1a",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130298-9yxFlFvKMwRk.jpg",
+		"rating": 82
+	}, {
+		"id": 106758,
+		"relationType": "ALTERNATIVE",
+		"malId": 119022,
+		"title": {
+			"romaji": "Kage no Jitsuryokusha ni Naritakute!",
+			"english": "The Eminence in Shadow",
+			"native": "陰の実力者になりたくて！",
+			"userPreferred": "Kage no Jitsuryokusha ni Naritakute!"
+		},
+		"status": "Ongoing",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx106758-jtXpQYQqyNJv.jpg",
+		"color": "#e45d35",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/106758-IWiib0G2AJdg.jpg",
+		"rating": 81
+	}],
+	"mappings": {
+		"mal": 54595,
+		"anidb": 17877,
+		"kitsu": 47099,
+		"anilist": 161964,
+		"thetvdb": 407520,
+		"anisearch": 18236,
+		"livechart": 3450,
+		"notify.moe": "Kl4yl1x4R",
+		"anime-planet": "the-eminence-in-shadow-2nd-season"
+	},
+	"episodes": []
+}
