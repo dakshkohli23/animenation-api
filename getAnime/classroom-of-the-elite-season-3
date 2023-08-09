@@ -1,0 +1,171 @@
+{
+	"id": "146066",
+	"title": {
+		"romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+		"english": null,
+		"native": "ようこそ実力至上主義の教室へ 第3期"
+	},
+	"malId": 51180,
+	"synonyms": ["You-Zitsu", "Youjitsu", "Classroom of the Elite Season 3", "ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 3"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "MLAbHM-ZJs0",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/MLAbHM-ZJs0/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-8aj3m7OA6P6P.png",
+	"popularity": 29045,
+	"color": "#4386e4",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-8aj3m7OA6P6P.png",
+	"description": "The third season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br>\n<br>\nThe third semester kicks off in high gear with a special boot camp deep in the mountains. Forcibly separated into groups along grade and gender lines, the first, second and third years alike must work together to survive the rugged terrain. Even worse? The leader of the group that comes in last will be expelled. Can Class D make it back to campus intact, or is this where they finally say goodbye to one of their own?<br>\n<br>\n(Source: Seven Seas Entertainment)",
+	"status": "Not yet aired",
+	"releaseDate": 2024,
+	"startDate": {
+		"year": 2024,
+		"month": 1,
+		"day": null
+	},
+	"endDate": {
+		"year": null,
+		"month": null,
+		"day": null
+	},
+	"totalEpisodes": null,
+	"currentEpisode": null,
+	"rating": null,
+	"duration": null,
+	"genres": ["Drama", "Mystery", "Psychological"],
+	"season": "WINTER",
+	"studios": ["Lerche"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 123212,
+		"role": "MAIN",
+		"name": {
+			"first": "Kiyotaka",
+			"last": "Ayanokouji",
+			"full": "Kiyotaka Ayanokouji",
+			"native": "綾小路清隆",
+			"userPreferred": "Kiyotaka Ayanokouji"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b123212-ewZgUQr9vvEM.png",
+		"voiceActors": []
+	}, {
+		"id": 124691,
+		"role": "MAIN",
+		"name": {
+			"first": "Arisu",
+			"last": "Sakayanagi",
+			"full": "Arisu Sakayanagi",
+			"native": "坂柳有栖",
+			"userPreferred": "Arisu Sakayanagi"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124691-S9GyfwMAkkJ9.jpg",
+		"voiceActors": []
+	}, {
+		"id": 123213,
+		"role": "MAIN",
+		"name": {
+			"first": "Suzune",
+			"last": "Horikita",
+			"full": "Suzune Horikita",
+			"native": "堀北鈴音",
+			"userPreferred": "Suzune Horikita"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b123213-jUfrGBXfW7BL.png",
+		"voiceActors": []
+	}, {
+		"id": 123216,
+		"role": "MAIN",
+		"name": {
+			"first": "Honami",
+			"last": "Ichinose",
+			"full": "Honami Ichinose",
+			"native": "一之瀬帆波",
+			"userPreferred": "Honami Ichinose"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b123216-N9tQZf2XIKu6.png",
+		"voiceActors": []
+	}, {
+		"id": 141122,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kei",
+			"last": "Karuizawa",
+			"full": "Kei Karuizawa",
+			"native": "軽井沢恵",
+			"userPreferred": "Kei Karuizawa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b141122-6Zk52eU3VK3O.png",
+		"voiceActors": []
+	}, {
+		"id": 159627,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Kakeru",
+			"last": "Ryuuen",
+			"full": "Kakeru Ryuuen",
+			"native": "龍園翔",
+			"userPreferred": "Kakeru Ryuuen"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b159627-kWwSUA1XR1Kx.png",
+		"voiceActors": []
+	}],
+	"relations": [{
+		"id": 94970,
+		"relationType": "ADAPTATION",
+		"malId": 89357,
+		"title": {
+			"romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+			"english": "Classroom of the Elite",
+			"native": "ようこそ実力至上主義の教室へ",
+			"userPreferred": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+		},
+		"status": "Completed",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx94970-q77X5sfRIKvU.jpg",
+		"color": "#e450a1",
+		"type": "NOVEL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/94970-9PvpnfpcaaDc.jpg",
+		"rating": 87
+	}, {
+		"id": 145545,
+		"relationType": "PREQUEL",
+		"malId": 51096,
+		"title": {
+			"romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+			"english": "Classroom of the Elite Season 2",
+			"native": "ようこそ実力至上主義の教室へ 2nd Season",
+			"userPreferred": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season"
+		},
+		"status": "Completed",
+		"episodes": 13,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145545-DGl3LVvFlnHi.png",
+		"color": "#bbe4f1",
+		"type": "TV",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145545-XeHhS7dJJLlj.jpg",
+		"rating": 80
+	}, {
+		"id": 96798,
+		"relationType": "ALTERNATIVE",
+		"malId": 96371,
+		"title": {
+			"romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+			"english": "Classroom of the Elite",
+			"native": "ようこそ実力至上主義の教室へ",
+			"userPreferred": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+		},
+		"status": "Ongoing",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx96798-SIQLQqS8HO9h.jpg",
+		"color": "#e42893",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/96798-XfoFzYL1xof9.jpg",
+		"rating": 70
+	}],
+	"episodes": []
+}
