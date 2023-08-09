@@ -1,98 +1,37 @@
 [
 	{
-		"animeId": "my-hero-academia-world-heroes-mission",
-		"episodeId": "my-hero-academia-world-heroes-mission-episode-1",
-		"name": "My Hero Academia: World Heroes' Mission",
-		"jname": "Boku no Hero Academia THE MOVIE: World Heroes' Mission",
-		"episodeNum": "1",
-		"subOrDub": "dub",
-		"type": "movie",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126659-i6c1PsXHGyke.jpg",
-		"episodeUrl": "../anime/my-hero-academia-world-heroes-mission"
+		"animeId": "one-piece",
+		"name": "ONE PIECE",
+		"jname": "ONE PIECE",
+		"sub": 1071,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg"
 	},
 	{
-		"animeId": "my-hero-academia-heroes-rising",
-		"episodeId": "my-hero-academia-heroes-rising-episode-1",
-		"name": "My Hero Academia: Heroes Rising",
-		"jname": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
-		"episodeNum": "1",
-		"subOrDub": "dub",
-		"type": "movie",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg",
-		"episodeUrl": "../anime/my-hero-academia-heroes-rising"
+		"animeId": "naruto",
+		"name": "Naruto",
+		"jname": "NARUTO",
+		"sub": 220,
+		"dub": 220,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg"
 	},
 	{
-		"animeId": "my-hero-academia-two-heroes",
-		"episodeId": "my-hero-academia-two-heroes-episode-1",
-		"name": "My Hero Academia: Two Heroes",
-		"jname": "Boku no Hero Academia THE MOVIE: Futari no Hero",
-		"episodeNum": "1",
-		"subOrDub": "dub",
-		"type": "movie",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100723-7f5e1BCTCDoB.jpg",
-		"episodeUrl": "../anime/my-hero-academia-two-heroes"
+		"animeId": "attack-on-titan",
+		"name": "Attack on Titan",
+		"jname": "Shingeki no Kyojin",
+		"sub": 25,
+		"dub": 25,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg"
 	},
 	{
-		"animeId": "to-me-the-one-who-loved-you",
-		"episodeId": "to-me-the-one-who-loved-you-episode-1",
-		"name": "To Me, The One Who Loved You",
-		"jname": "Kimi wo Aishita Hitori no Boku e",
-		"episodeNum": "1",
-		"subOrDub": "sub",
-		"type": "movie",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
-		"episodeUrl": "../anime/to-me-the-one-who-loved-you"
-	},
-	{
-		"animeId": "to-every-you-i-ve-loved-before",
-		"episodeId": "to-every-you-i-ve-loved-before-episode-1",
-		"name": "To Every You I’ve Loved Before",
-		"jname": "Boku ga Aishita Subete no Kimi e",
-		"episodeNum": "1",
-		"subOrDub": "sub",
-		"type": "movie",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
-		"episodeUrl": "../anime/to-every-you-i-ve-loved-before"
-	},
-    {
-        "animeId": "pokemon-horizons-the-series",
-        "episodeId": "pokemon-horizons-the-series-episode-1",
-        "name": "Pokémon Horizons: The Series",
-        "jname": "Pocket Monsters (2023)",
-        "episodeNum": "1",
-        "subOrDub": "sub",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
-        "episodeUrl": "anime/pokemon-horizons-the-series"
-    },
-    {
-        "animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
-        "episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-1",
-        "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-        "jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-        "episodeNum": "1",
-        "subOrDub": "sub",
-        "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-        "episodeUrl": "anime/kimetsu-no-yaiba-katanakaji-no-satohen"
-    },
-    {
-        "animeId": "the-powerpuff-girls",
-        "episodeId": "the-powerpuff-girls-episode-1",
-        "name": "The Powerpuff Girls",
-        "jname": "The Powerpuff Girls",
-        "episodeNum": "136",
-        "subOrDub": "dub",
-        "imgUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/468mmhMd21pY4Yx0S0woqeEcxtL.jpg",
-        "episodeUrl": "anime/the-powerpuff-girls"
-    },
-    
-    {
-        "animeId": "the-powerpuff-girls-special",
-        "episodeId": "the-powerpuff-girls-special-episode-1",
-        "name": "The Powerpuff Girls - Special",
-        "jname": "The Powerpuff Girls - Special",
-        "episodeNum": "5",
-        "subOrDub": "dub",
-        "imgUrl": "https://www.themoviedb.org/t/p/original/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
-        "episodeUrl": "anime/the-powerpuff-girls-special"
-    }
+		"animeId": "death-note",
+		"name": "Death Note",
+		"jname": "DEATH NOTE",
+		"sub": 37,
+		"dub": 37,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg"
+	}
 ]
