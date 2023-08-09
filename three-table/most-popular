@@ -33,5 +33,14 @@
 		"dub": 37,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg"
+	},
+	{
+		"animeId": "kimetsu-no-yaiba",
+		"name": "Demon Slayer: Kimetsu no Yaiba",
+		"jname": "Kimetsu no Yaiba",
+		"sub": 26,
+		"dub": 26,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-PEn1CTc93blC.jpg"
 	}
 ]
