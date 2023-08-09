@@ -1,5 +1,5 @@
 [
-{
+	{
 		"animeId": "the-eminence-in-shadow-season-2",
 		"name": "The Eminence in Shadow Season 2",
 		"jname": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
@@ -8,15 +8,16 @@
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161964-chUYBE29hd1y.jpg"
 	},
-{
-		"animeId": "pokemon-horizons-the-series",
-		"name": "Pokémon Horizons: The Series",
-		"jname": "Pocket Monsters (2023)",
-		"episodeNum": "11",
+	{
+		"animeId": "spy-x-family-part-2",
+		"name": "SPY x FAMILY Cour 2",
+		"jname": "SPY×FAMILY Part 2",
+		"episodeNum": "13",
 		"subOrDub": "sub",
 		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-ECZSqfknAqAT.jpg"
 	},
+
     {
         "animeId": "ben-10-omniverse",
         "name": "Ben 10: Omniverse",
