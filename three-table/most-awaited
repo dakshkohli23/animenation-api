@@ -26,25 +26,14 @@
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-8aj3m7OA6P6P.png"
 	},
+	{
+		"animeId": "one-punch-man-season-3",
+		"name": "One Punch Man Season 3",
+		"jname": "One Punch Man 3",
+		"episodeNum": null,
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153800-DoZMzBojzwHz.png"
+	}
 
-    {
-        "animeId": "ben-10-ultimate-alien",
-        "episodeId": "ben-10-ultimate-alien-episode-1",
-        "name": "Ben 10: Ultimate Alien",
-        "jname": "Ben 10: Ultimate Alien",
-        "episodeNum": "52",
-        "subOrDub": "dub",
-        "imgUrl": "https://www.themoviedb.org/t/p/original/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
-        "episodeUrl": "anime/ben-10-ultimate-alien"
-    },
-    {
-        "animeId": "ben-10-alien-force",
-        "episodeId": "ben-10-alien-force-episode-1",
-        "name": "Ben 10: Alien Force",
-        "jname": "Ben 10: Alien Force",
-        "episodeNum": "46",
-        "subOrDub": "dub",
-        "imgUrl": "https://www.themoviedb.org/t/p/original/xzsgaZc9cE3212ihA0c6naZ5zj7.jpg",
-        "episodeUrl": "anime/ben-10-alien-force"
-    }
 ]
