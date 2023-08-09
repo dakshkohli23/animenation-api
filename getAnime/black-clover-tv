@@ -1,0 +1,2927 @@
+{
+	"id": "97940",
+	"title": {
+		"romaji": "Black Clover",
+		"english": "Black Clover",
+		"native": "ブラッククローバー"
+	},
+	"malId": 34572,
+	"synonyms": ["תלתן שחור", "แบล็กโคลเวอร์"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "JP",
+	"trailer": {
+		"id": "vUjAxk1qYzQ",
+		"site": "youtube",
+		"thumbnail": "https://i.ytimg.com/vi/vUjAxk1qYzQ/hqdefault.jpg"
+	},
+	"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg",
+	"popularity": 375611,
+	"color": "#aea135",
+	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97940-1URQdQ4U1a0b.jpg",
+	"description": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!<br>\n<br>\n(Source: Crunchyroll)",
+	"status": "Completed",
+	"releaseDate": 2017,
+	"startDate": {
+		"year": 2017,
+		"month": 10,
+		"day": 3
+	},
+	"endDate": {
+		"year": 2021,
+		"month": 3,
+		"day": 30
+	},
+	"totalEpisodes": 170,
+	"currentEpisode": 170,
+	"rating": 78,
+	"duration": 24,
+	"genres": ["Action", "Adventure", "Comedy", "Fantasy"],
+	"season": "FALL",
+	"studios": ["Studio Pierrot"],
+	"subOrDub": "sub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [{
+		"id": 123283,
+		"role": "MAIN",
+		"name": {
+			"first": "Noelle",
+			"last": "Silva",
+			"full": "Noelle Silva",
+			"native": "ノエル・シルヴァ",
+			"userPreferred": "Noelle Silva"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b123283-7nJHtKha0LSm.png",
+		"voiceActors": [{
+			"id": 118739,
+			"language": "Japanese",
+			"name": {
+				"first": "Kana",
+				"last": "Yuuki",
+				"full": "Kana Yuuki",
+				"native": "優木かな",
+				"userPreferred": "Kana Yuuki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118739-hIVuGI5fgL5e.png"
+		}, {
+			"id": 120733,
+			"language": "English",
+			"name": {
+				"first": "Jill",
+				"last": "Harris",
+				"full": "Jill Harris",
+				"native": null,
+				"userPreferred": "Jill Harris"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/120733-oXxfxrusFmps.jpg"
+		}, {
+			"id": 182193,
+			"language": "Spanish",
+			"name": {
+				"first": "Alicia",
+				"last": "Vélez",
+				"full": "Alicia Vélez",
+				"native": null,
+				"userPreferred": "Alicia Vélez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182193-ccFLirPjaXJi.png"
+		}, {
+			"id": 139004,
+			"language": "Portuguese",
+			"name": {
+				"first": "Ana Elena",
+				"last": "Bittencourt",
+				"full": "Ana Elena Bittencourt",
+				"native": null,
+				"userPreferred": "Ana Elena Bittencourt"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139004-ggZWLgqjvmOa.jpg"
+		}, {
+			"id": 168680,
+			"language": "French",
+			"name": {
+				"first": "Valérie",
+				"last": "Bachère",
+				"full": "Valérie Bachère",
+				"native": null,
+				"userPreferred": "Valérie Bachère"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n168680-TkphOqU7H3Q1.jpg"
+		}, {
+			"id": 140262,
+			"language": "German",
+			"name": {
+				"first": "Jodie",
+				"last": "Blank",
+				"full": "Jodie Blank",
+				"native": null,
+				"userPreferred": "Jodie Blank"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140262-zWOru2zKOTAD.jpg"
+		}]
+	}, {
+		"id": 123284,
+		"role": "MAIN",
+		"name": {
+			"first": "Yuno",
+			"last": null,
+			"full": "Yuno",
+			"native": "ユノ",
+			"userPreferred": "Yuno"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b123284-w6kIFYnTclMd.png",
+		"voiceActors": [{
+			"id": 105989,
+			"language": "Japanese",
+			"name": {
+				"first": "Nobunaga",
+				"last": "Shimazaki",
+				"full": "Nobunaga Shimazaki",
+				"native": "島崎信長",
+				"userPreferred": "Nobunaga Shimazaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg"
+		}, {
+			"id": 125130,
+			"language": "Japanese",
+			"name": {
+				"first": "Arisa",
+				"last": "Sekine",
+				"full": "Arisa Sekine",
+				"native": "関根有咲",
+				"userPreferred": "Arisa Sekine"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/125130-0tQuMPLTpr8V.jpg"
+		}, {
+			"id": 103686,
+			"language": "English",
+			"name": {
+				"first": "Micah",
+				"last": "Solusod",
+				"full": "Micah Solusod",
+				"native": null,
+				"userPreferred": "Micah Solusod"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8686.jpg"
+		}, {
+			"id": 182196,
+			"language": "Spanish",
+			"name": {
+				"first": "Pascual",
+				"last": "Meza",
+				"full": "Pascual Meza",
+				"native": null,
+				"userPreferred": "Pascual Meza"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182196-3ViQAMnccB2T.jpg"
+		}, {
+			"id": 175174,
+			"language": "Portuguese",
+			"name": {
+				"first": "Leonardo",
+				"last": "Santhos",
+				"full": "Leonardo Santhos",
+				"native": null,
+				"userPreferred": "Leonardo Santhos"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175174-U4IuF1DVQ0EB.png"
+		}, {
+			"id": 200033,
+			"language": "Portuguese",
+			"name": {
+				"first": "Luiz Felipe",
+				"last": "Mello",
+				"full": "Luiz Felipe Mello",
+				"native": null,
+				"userPreferred": "Luiz Felipe Mello"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 303896,
+			"language": "Portuguese",
+			"name": {
+				"first": "Isabelle",
+				"last": "Carvalho",
+				"full": "Isabelle Carvalho",
+				"native": null,
+				"userPreferred": "Isabelle Carvalho"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 162288,
+			"language": "French",
+			"name": {
+				"first": "Bastien",
+				"last": "Bourlé",
+				"full": "Bastien Bourlé",
+				"native": null,
+				"userPreferred": "Bastien Bourlé"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n162288-yqr2S6BgqRuZ.jpg"
+		}, {
+			"id": 100999,
+			"language": "French",
+			"name": {
+				"first": "Pascale",
+				"last": "Chemin",
+				"full": "Pascale Chemin",
+				"native": null,
+				"userPreferred": "Pascale Chemin"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/5999.jpg"
+		}, {
+			"id": 102002,
+			"language": "German",
+			"name": {
+				"first": "Jannik",
+				"last": "Endemann",
+				"full": "Jannik Endemann",
+				"native": null,
+				"userPreferred": "Jannik Endemann"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102002-3Xk1bkO1hWkN.png"
+		}]
+	}, {
+		"id": 123285,
+		"role": "MAIN",
+		"name": {
+			"first": "Asta",
+			"last": null,
+			"full": "Asta",
+			"native": "アスタ",
+			"userPreferred": "Asta"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b123285-tKijiuQErDS0.png",
+		"voiceActors": [{
+			"id": 123286,
+			"language": "Japanese",
+			"name": {
+				"first": "Gakuto",
+				"last": "Kajiwara",
+				"full": "Gakuto Kajiwara",
+				"native": "梶原岳人",
+				"userPreferred": "Gakuto Kajiwara"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123286-TfHayiK4hqbk.png"
+		}, {
+			"id": 125129,
+			"language": "Japanese",
+			"name": {
+				"first": "Nao",
+				"last": "Fujita",
+				"full": "Nao Fujita",
+				"native": "藤田奈央",
+				"userPreferred": "Nao Fujita"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/125129-9Oci2U6RhdPm.jpg"
+		}, {
+			"id": 120210,
+			"language": "English",
+			"name": {
+				"first": "Dallas",
+				"last": "Reid",
+				"full": "Dallas Reid",
+				"native": null,
+				"userPreferred": "Dallas Reid"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/25210-PTiFY10eR40X.jpg"
+		}, {
+			"id": 182230,
+			"language": "Spanish",
+			"name": {
+				"first": "Alberto",
+				"last": "Bernal",
+				"full": "Alberto Bernal",
+				"native": "Alberto Bernal García",
+				"userPreferred": "Alberto Bernal"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182230-U2LIlKLHrRQZ.png"
+		}, {
+			"id": 139009,
+			"language": "Portuguese",
+			"name": {
+				"first": "Yan",
+				"last": "Gesteira",
+				"full": "Yan Gesteira",
+				"native": null,
+				"userPreferred": "Yan Gesteira"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139009-RCiNvh0GgNDG.jpg"
+		}, {
+			"id": 184128,
+			"language": "Portuguese",
+			"name": {
+				"first": "Enzo",
+				"last": "Dannemann",
+				"full": "Enzo Dannemann",
+				"native": null,
+				"userPreferred": "Enzo Dannemann"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184128-7eRe6LrrTPAK.jpg"
+		}, {
+			"id": 274702,
+			"language": "French",
+			"name": {
+				"first": "Alan",
+				"last": "Aubert-Carlin",
+				"full": "Alan Aubert-Carlin",
+				"native": null,
+				"userPreferred": "Alan Aubert-Carlin"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 138012,
+			"language": "French",
+			"name": {
+				"first": "Jessie",
+				"last": "Lambotte",
+				"full": "Jessie Lambotte",
+				"native": null,
+				"userPreferred": "Jessie Lambotte"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n138012-kbAk7KJrOZvp.jpg"
+		}, {
+			"id": 126218,
+			"language": "German",
+			"name": {
+				"first": "Maximilian",
+				"last": "Artajo",
+				"full": "Maximilian Artajo",
+				"native": null,
+				"userPreferred": "Maximilian Artajo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/126218-Xmu7THcLlI66.jpg"
+		}, {
+			"id": 195284,
+			"language": "German",
+			"name": {
+				"first": "Jonas",
+				"last": "Frenz",
+				"full": "Jonas Frenz",
+				"native": null,
+				"userPreferred": "Jonas Frenz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 124438,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mimosa",
+			"last": "Vermillion",
+			"full": "Mimosa Vermillion",
+			"native": "ミモザ・ヴァーミリオン",
+			"userPreferred": "Mimosa Vermillion"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124438-nTvKfJaMD4d5.jpg",
+		"voiceActors": [{
+			"id": 105707,
+			"language": "Japanese",
+			"name": {
+				"first": "Asuka",
+				"last": "Nishi",
+				"full": "Asuka Nishi",
+				"native": "西明日香",
+				"userPreferred": "Asuka Nishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105707-FFTBOiKJwGeh.png"
+		}, {
+			"id": 119700,
+			"language": "English",
+			"name": {
+				"first": "Bryn",
+				"last": "Apprill",
+				"full": "Bryn Apprill",
+				"native": null,
+				"userPreferred": "Bryn Apprill"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119700-wRlpXjJevNVi.jpg"
+		}, {
+			"id": 139016,
+			"language": "Spanish",
+			"name": {
+				"first": "Susana",
+				"last": "Moreno",
+				"full": "Susana Moreno",
+				"native": null,
+				"userPreferred": "Susana Moreno"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139016-LGCdBkcRQzWI.png"
+		}, {
+			"id": 139003,
+			"language": "Portuguese",
+			"name": {
+				"first": "Lhays",
+				"last": "Macêdo",
+				"full": "Lhays Macêdo",
+				"native": null,
+				"userPreferred": "Lhays Macêdo"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139003-Y2B8ygTncXgV.png"
+		}, {
+			"id": 116893,
+			"language": "French",
+			"name": {
+				"first": "Marie",
+				"last": "Nonnenmacher",
+				"full": "Marie Nonnenmacher",
+				"native": null,
+				"userPreferred": "Marie Nonnenmacher"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/21893.jpg"
+		}, {
+			"id": 138244,
+			"language": "German",
+			"name": {
+				"first": "Angelina",
+				"last": "Geisler",
+				"full": "Angelina Geisler",
+				"native": null,
+				"userPreferred": "Angelina Geisler"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n138244-9VIgusllvWUv.png"
+		}]
+	}, {
+		"id": 124447,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Charmy",
+			"last": "Pappitson",
+			"full": "Charmy Pappitson",
+			"native": "チャーミー・パピットソン",
+			"userPreferred": "Charmy Pappitson"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124447-2J1PKMgWETNT.png",
+		"voiceActors": [{
+			"id": 107711,
+			"language": "Japanese",
+			"name": {
+				"first": "Kiyono",
+				"last": "Yasuno",
+				"full": "Kiyono Yasuno",
+				"native": "安野希世乃",
+				"userPreferred": "Kiyono Yasuno"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107711-xaS7giEK9UIU.png"
+		}, {
+			"id": 119619,
+			"language": "English",
+			"name": {
+				"first": "Sarah",
+				"last": "Wiedenheft",
+				"full": "Sarah Wiedenheft",
+				"native": null,
+				"userPreferred": "Sarah Wiedenheft"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119619-ozgAK9to6Ijy.jpg"
+		}, {
+			"id": 202437,
+			"language": "Spanish",
+			"name": {
+				"first": "Vanessa",
+				"last": "Olea",
+				"full": "Vanessa Olea",
+				"native": null,
+				"userPreferred": "Vanessa Olea"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n202437-kjSAeMjrnaFP.png"
+		}, {
+			"id": 168030,
+			"language": "Portuguese",
+			"name": {
+				"first": "Isabella ",
+				"last": "Simi",
+				"full": "Isabella  Simi",
+				"native": null,
+				"userPreferred": "Isabella  Simi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n168030-dWXMO1RoqyRV.jpg"
+		}, {
+			"id": 186481,
+			"language": "French",
+			"name": {
+				"first": "Mélanie",
+				"last": "Anne",
+				"full": "Mélanie Anne",
+				"native": null,
+				"userPreferred": "Mélanie Anne"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 138243,
+			"language": "German",
+			"name": {
+				"first": "Peggy",
+				"last": "Pollow",
+				"full": "Peggy Pollow",
+				"native": null,
+				"userPreferred": "Peggy Pollow"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n138243-RKcrEagAmizj.png"
+		}]
+	}, {
+		"id": 124460,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sekke",
+			"last": "Bronzazza",
+			"full": "Sekke Bronzazza",
+			"native": "セッケ・ブロンザッザ",
+			"userPreferred": "Sekke Bronzazza"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124460-EUJVxM0PG7uV.png",
+		"voiceActors": [{
+			"id": 110743,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryouta",
+				"last": "Oosaka",
+				"full": "Ryouta Oosaka",
+				"native": "逢坂良太",
+				"userPreferred": "Ryouta Oosaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110743-k2SgQwU0JD33.png"
+		}, {
+			"id": 129492,
+			"language": "English",
+			"name": {
+				"first": "Garret",
+				"last": "Storms",
+				"full": "Garret Storms",
+				"native": null,
+				"userPreferred": "Garret Storms"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129492-6a6DhGpvF8Uf.jpg"
+		}, {
+			"id": 182235,
+			"language": "Spanish",
+			"name": {
+				"first": "Luis Leonardo",
+				"last": "Suárez",
+				"full": "Luis Leonardo Suárez",
+				"native": null,
+				"userPreferred": "Luis Leonardo Suárez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182235-4nWPBHLcz65x.png"
+		}, {
+			"id": 182673,
+			"language": "Portuguese",
+			"name": {
+				"first": "Philippe",
+				"last": "Maia",
+				"full": "Philippe Maia",
+				"native": null,
+				"userPreferred": "Philippe Maia"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182673-TyU7oTO4Rumw.jpg"
+		}, {
+			"id": 168682,
+			"language": "French",
+			"name": {
+				"first": "Charles",
+				"last": "Mendiant",
+				"full": "Charles Mendiant",
+				"native": null,
+				"userPreferred": "Charles Mendiant"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n168682-Jni4HYkav2ux.jpg"
+		}, {
+			"id": 135846,
+			"language": "German",
+			"name": {
+				"first": "Nick",
+				"last": "Forsberg",
+				"full": "Nick Forsberg",
+				"native": null,
+				"userPreferred": "Nick Forsberg"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135846-2ptkaVYIxdQX.jpg"
+		}]
+	}, {
+		"id": 124521,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Fuegoleon",
+			"last": "Vermillion",
+			"full": "Fuegoleon Vermillion",
+			"native": "フエゴレオン・ヴァーミリオン",
+			"userPreferred": "Fuegoleon Vermillion"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124521-MqX5KT2tGSa8.png",
+		"voiceActors": [{
+			"id": 95020,
+			"language": "Japanese",
+			"name": {
+				"first": "Katsuyuki",
+				"last": "Konishi",
+				"full": "Katsuyuki Konishi",
+				"native": "小西克幸",
+				"userPreferred": "Katsuyuki Konishi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png"
+		}, {
+			"id": 96602,
+			"language": "English",
+			"name": {
+				"first": "J. Michael",
+				"last": "Tatum",
+				"full": "J. Michael Tatum",
+				"native": "John Michael Tatum",
+				"userPreferred": "J. Michael Tatum"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96602-ztTfuo3nzu5t.png"
+		}, {
+			"id": 189429,
+			"language": "Spanish",
+			"name": {
+				"first": "Dafnis",
+				"last": "Fernández",
+				"full": "Dafnis Fernández",
+				"native": "Dafnis Fernández Hernández",
+				"userPreferred": "Dafnis Fernández"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189429-VZlwmEbKeDYt.jpg"
+		}, {
+			"id": 175613,
+			"language": "Portuguese",
+			"name": {
+				"first": "Gutemberg",
+				"last": "Barros",
+				"full": "Gutemberg Barros",
+				"native": null,
+				"userPreferred": "Gutemberg Barros"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175613-M2pRHhB5q1Pi.jpg"
+		}, {
+			"id": 167047,
+			"language": "German",
+			"name": {
+				"first": "Benjamin",
+				"last": "Stöwe",
+				"full": "Benjamin Stöwe",
+				"native": null,
+				"userPreferred": "Benjamin Stöwe"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n167047-xzzZcQ2HkUTl.jpg"
+		}]
+	}, {
+		"id": 124985,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Sol",
+			"last": "Marron",
+			"full": "Sol Marron",
+			"native": "ソル・マロン",
+			"userPreferred": "Sol Marron"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124985-y8DFuDY9iDXX.png",
+		"voiceActors": [{
+			"id": 125049,
+			"language": "Japanese",
+			"name": {
+				"first": "Haruna",
+				"last": "Kakiage",
+				"full": "Haruna Kakiage",
+				"native": "書上春菜",
+				"userPreferred": "Haruna Kakiage"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125049-2AEFg2k6pvDJ.jpg"
+		}, {
+			"id": 113057,
+			"language": "English",
+			"name": {
+				"first": "Morgan",
+				"last": "Lauré",
+				"full": "Morgan Lauré",
+				"native": null,
+				"userPreferred": "Morgan Lauré"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/18057.jpg"
+		}, {
+			"id": 104136,
+			"language": "Spanish",
+			"name": {
+				"first": "Maggie",
+				"last": "Vera",
+				"full": "Maggie Vera",
+				"native": null,
+				"userPreferred": "Maggie Vera"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/9136.jpg"
+		}, {
+			"id": 139010,
+			"language": "Portuguese",
+			"name": {
+				"first": "Mariana",
+				"last": "Torres",
+				"full": "Mariana Torres",
+				"native": null,
+				"userPreferred": "Mariana Torres"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139010-grL8BDp4iNPk.png"
+		}, {
+			"id": 138238,
+			"language": "German",
+			"name": {
+				"first": "Melinda",
+				"last": "Rachfahl",
+				"full": "Melinda Rachfahl",
+				"native": null,
+				"userPreferred": "Melinda Rachfahl"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n138238-91AAoUEBzO2e.png"
+		}]
+	}, {
+		"id": 124477,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Rades",
+			"last": "Spirito",
+			"full": "Rades Spirito",
+			"native": "ラデス・スピーリト",
+			"userPreferred": "Rades Spirito"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124477-wKePCmpoa3e0.png",
+		"voiceActors": [{
+			"id": 124445,
+			"language": "Japanese",
+			"name": {
+				"first": "Masayuki",
+				"last": "Akasaka",
+				"full": "Masayuki Akasaka",
+				"native": "赤坂柾之",
+				"userPreferred": "Masayuki Akasaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124445-hACW3UTz0xTF.jpg"
+		}, {
+			"id": 102151,
+			"language": "English",
+			"name": {
+				"first": "Bryan",
+				"last": "Massey",
+				"full": "Bryan Massey",
+				"native": null,
+				"userPreferred": "Bryan Massey"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7151.jpg"
+		}, {
+			"id": 111673,
+			"language": "Spanish",
+			"name": {
+				"first": "Manuel",
+				"last": "Campuzano",
+				"full": "Manuel Campuzano",
+				"native": "Manuel Campuzano Márquez",
+				"userPreferred": "Manuel Campuzano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111673-WnvtApo3SNny.png"
+		}, {
+			"id": 176918,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcelo",
+				"last": "Garcia",
+				"full": "Marcelo Garcia",
+				"native": null,
+				"userPreferred": "Marcelo Garcia"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176918-ewiRTdh5rclR.jpg"
+		}, {
+			"id": 131021,
+			"language": "French",
+			"name": {
+				"first": "Alexandre",
+				"last": "Coadour",
+				"full": "Alexandre Coadour",
+				"native": null,
+				"userPreferred": "Alexandre Coadour"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131021-CzTBTxYNe5KL.jpg"
+		}, {
+			"id": 103847,
+			"language": "German",
+			"name": {
+				"first": "Asad",
+				"last": "Schwarz-Msesilamba",
+				"full": "Asad Schwarz-Msesilamba",
+				"native": null,
+				"userPreferred": "Asad Schwarz-Msesilamba"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/8847.jpg"
+		}]
+	}, {
+		"id": 126023,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Neige",
+			"last": null,
+			"full": "Neige",
+			"native": "ネージュ",
+			"userPreferred": "Neige"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b126023-Vj6xYNSh0nj3.png",
+		"voiceActors": [{
+			"id": 119871,
+			"language": "Japanese",
+			"name": {
+				"first": "Kouhei",
+				"last": "Amasaki",
+				"full": "Kouhei Amasaki",
+				"native": "天崎滉平",
+				"userPreferred": "Kouhei Amasaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119871-jbrrS09NU0CO.png"
+		}, {
+			"id": 95192,
+			"language": "English",
+			"name": {
+				"first": "Greg",
+				"last": "Ayres",
+				"full": "Greg Ayres",
+				"native": null,
+				"userPreferred": "Greg Ayres"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95192-igLHZjSO4eE0.png"
+		}, {
+			"id": 175519,
+			"language": "Portuguese",
+			"name": {
+				"first": "Mattheus",
+				"last": "Caliano",
+				"full": "Mattheus Caliano",
+				"native": null,
+				"userPreferred": "Mattheus Caliano"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175519-HUYIgGGOb8Rm.jpg"
+		}, {
+			"id": 162286,
+			"language": "French",
+			"name": {
+				"first": "Grégory",
+				"last": "Laisné",
+				"full": "Grégory Laisné",
+				"native": null,
+				"userPreferred": "Grégory Laisné"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n162286-J0c6p9BOBza6.jpg"
+		}, {
+			"id": 132486,
+			"language": "German",
+			"name": {
+				"first": "Tim",
+				"last": "Schwarzmaier",
+				"full": "Tim Schwarzmaier",
+				"native": null,
+				"userPreferred": "Tim Schwarzmaier"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n132486-VQ8o7ToC8ij7.png"
+		}]
+	}, {
+		"id": 124522,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Mereoleona",
+			"last": "Vermillion",
+			"full": "Mereoleona Vermillion",
+			"native": "メレオレオナ・ヴァーミリオン",
+			"userPreferred": "Mereoleona Vermillion"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124522-lJK4Hy6Aokie.png",
+		"voiceActors": [{
+			"id": 95062,
+			"language": "Japanese",
+			"name": {
+				"first": "Junko",
+				"last": "Minagawa",
+				"full": "Junko Minagawa",
+				"native": "皆川純子",
+				"userPreferred": "Junko Minagawa"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95062-YMTfpO89SgQp.jpg"
+		}, {
+			"id": 95159,
+			"language": "English",
+			"name": {
+				"first": "Monica",
+				"last": "Rial",
+				"full": "Monica Rial",
+				"native": null,
+				"userPreferred": "Monica Rial"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95159-iTd65o5LhA62.png"
+		}, {
+			"id": 210205,
+			"language": "Spanish",
+			"name": {
+				"first": "Elena",
+				"last": "Ramírez",
+				"full": "Elena Ramírez",
+				"native": null,
+				"userPreferred": "Elena Ramírez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n210205-6d3eyIsgUuQN.png"
+		}, {
+			"id": 180570,
+			"language": "Portuguese",
+			"name": {
+				"first": "Carla",
+				"last": "Pompilio",
+				"full": "Carla Pompilio",
+				"native": null,
+				"userPreferred": "Carla Pompilio"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n180570-EwyRENl4aiCm.jpg"
+		}]
+	}, {
+		"id": 124997,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Broccos",
+			"last": null,
+			"full": "Broccos",
+			"native": "ブロッコス",
+			"userPreferred": "Broccos"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124997-St4C3QMEk2CI.jpg",
+		"voiceActors": [{
+			"id": 127750,
+			"language": "English",
+			"name": {
+				"first": "Ray",
+				"last": "Hurd",
+				"full": "Ray Hurd",
+				"native": null,
+				"userPreferred": "Ray Hurd"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127750-37xOEnj5wFkK.jpg"
+		}, {
+			"id": 185796,
+			"language": "Portuguese",
+			"name": {
+				"first": "Maurício",
+				"last": "Berger",
+				"full": "Maurício Berger",
+				"native": null,
+				"userPreferred": "Maurício Berger"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185796-otAHBdnonyPZ.jpg"
+		}]
+	}, {
+		"id": 124989,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Witch",
+			"last": "Queen",
+			"full": "Witch Queen",
+			"native": null,
+			"userPreferred": "Witch Queen"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124989-H3Imuf6uMspp.png",
+		"voiceActors": [{
+			"id": 174454,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryouko",
+				"last": "Gi",
+				"full": "Ryouko Gi",
+				"native": "魏涼子",
+				"userPreferred": "Ryouko Gi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n174454-bhyOLaaYr2II.jpg"
+		}, {
+			"id": 95891,
+			"language": "English",
+			"name": {
+				"first": "Jamie",
+				"last": "Marchi",
+				"full": "Jamie Marchi",
+				"native": null,
+				"userPreferred": "Jamie Marchi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95891-QG8dyefPjUIz.jpg"
+		}, {
+			"id": 95540,
+			"language": "Portuguese",
+			"name": {
+				"first": "Miriam",
+				"last": "Ficher",
+				"full": "Miriam Ficher",
+				"native": null,
+				"userPreferred": "Miriam Ficher"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/540.jpg"
+		}]
+	}, {
+		"id": 124976,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Finesse",
+			"last": "Calmreich",
+			"full": "Finesse Calmreich",
+			"native": "フィーネス・カルムルイヒ",
+			"userPreferred": "Finesse Calmreich"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124976-aJx7HHae0K0s.png",
+		"voiceActors": [{
+			"id": 168196,
+			"language": "Japanese",
+			"name": {
+				"first": "Eri",
+				"last": "Akiyama",
+				"full": "Eri Akiyama",
+				"native": "秋山絵理",
+				"userPreferred": "Eri Akiyama"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n168196-Btf3bdtwjAhu.jpg"
+		}, {
+			"id": 112793,
+			"language": "English",
+			"name": {
+				"first": "Amanda",
+				"last": "Lee",
+				"full": "Amanda Lee",
+				"native": null,
+				"userPreferred": "Amanda Lee"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112793-WnHttTnbLSed.png"
+		}, {
+			"id": 184295,
+			"language": "Spanish",
+			"name": {
+				"first": "Jocelyn",
+				"last": "Robles",
+				"full": "Jocelyn Robles",
+				"native": "Jocelyn Robles Guillén",
+				"userPreferred": "Jocelyn Robles"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184295-SGIBinFSleRp.png"
+		}, {
+			"id": 262308,
+			"language": "Portuguese",
+			"name": {
+				"first": "Cláudia",
+				"last": "Ricart",
+				"full": "Cláudia Ricart",
+				"native": null,
+				"userPreferred": "Cláudia Ricart"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 174448,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Damnatio ",
+			"last": "Kira",
+			"full": "Damnatio  Kira",
+			"native": "ダムナティオ・キーラ",
+			"userPreferred": "Damnatio  Kira"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b174448-MRvEHxvJpP5R.jpg",
+		"voiceActors": [{
+			"id": 101214,
+			"language": "Japanese",
+			"name": {
+				"first": "Hiroshi",
+				"last": "Tsuchida",
+				"full": "Hiroshi Tsuchida",
+				"native": "土田大",
+				"userPreferred": "Hiroshi Tsuchida"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101214-kvHCKwu88FcF.png"
+		}, {
+			"id": 108235,
+			"language": "English",
+			"name": {
+				"first": "Alex",
+				"last": "Organ",
+				"full": "Alex Organ",
+				"native": null,
+				"userPreferred": "Alex Organ"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/13235.jpg"
+		}, {
+			"id": 104157,
+			"language": "Portuguese",
+			"name": {
+				"first": "Nestor",
+				"last": "Chiesse",
+				"full": "Nestor Chiesse",
+				"native": null,
+				"userPreferred": "Nestor Chiesse"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104157-w66nccGYhNVI.jpg"
+		}]
+	}, {
+		"id": 186392,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Cob",
+			"last": "Portaport",
+			"full": "Cob Portaport",
+			"native": "コブ・ポルタポルト",
+			"userPreferred": "Cob Portaport"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b186392-plff7jfH56P1.png",
+		"voiceActors": [{
+			"id": 125490,
+			"language": "Japanese",
+			"name": {
+				"first": "Wataru",
+				"last": "Tsuyuzaki",
+				"full": "Wataru Tsuyuzaki",
+				"native": "露崎亘",
+				"userPreferred": "Wataru Tsuyuzaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/125490-EQFhmtXv4Px6.jpg"
+		}, {
+			"id": 102450,
+			"language": "English",
+			"name": {
+				"first": "Anthony",
+				"last": "Bowling",
+				"full": "Anthony Bowling",
+				"native": null,
+				"userPreferred": "Anthony Bowling"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/7450.jpg"
+		}, {
+			"id": 183721,
+			"language": "Portuguese",
+			"name": {
+				"first": "Eduardo",
+				"last": "Borgerth",
+				"full": "Eduardo Borgerth",
+				"native": "Eduardo Borgerth",
+				"userPreferred": "Eduardo Borgerth"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n183721-sZKxypkghYFp.png"
+		}]
+	}, {
+		"id": 180686,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Ruben",
+			"last": "Chagar",
+			"full": "Ruben Chagar",
+			"native": "ルベン・シャガー",
+			"userPreferred": "Ruben Chagar"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b180686-BOkj583tBxlq.png",
+		"voiceActors": [{
+			"id": 125490,
+			"language": "Japanese",
+			"name": {
+				"first": "Wataru",
+				"last": "Tsuyuzaki",
+				"full": "Wataru Tsuyuzaki",
+				"native": "露崎亘",
+				"userPreferred": "Wataru Tsuyuzaki"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/125490-EQFhmtXv4Px6.jpg"
+		}, {
+			"id": 148764,
+			"language": "English",
+			"name": {
+				"first": "Jordan Dash",
+				"last": "Cruz",
+				"full": "Jordan Dash Cruz",
+				"native": null,
+				"userPreferred": "Jordan Dash Cruz"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n148764-jKjUXzYlCikt.jpg"
+		}, {
+			"id": 188228,
+			"language": "Portuguese",
+			"name": {
+				"first": "Filipe",
+				"last": "Albuquerque",
+				"full": "Filipe Albuquerque",
+				"native": null,
+				"userPreferred": "Filipe Albuquerque"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n188228-9CSOMyadCJqv.jpg"
+		}]
+	}, {
+		"id": 190589,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Rick",
+			"last": "Cornell",
+			"full": "Rick Cornell",
+			"native": "リック・コーネル",
+			"userPreferred": "Rick Cornell"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b190589-vBJwsJjh6Ptd.jpg",
+		"voiceActors": [{
+			"id": 124445,
+			"language": "Japanese",
+			"name": {
+				"first": "Masayuki",
+				"last": "Akasaka",
+				"full": "Masayuki Akasaka",
+				"native": "赤坂柾之",
+				"userPreferred": "Masayuki Akasaka"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124445-hACW3UTz0xTF.jpg"
+		}, {
+			"id": 106722,
+			"language": "English",
+			"name": {
+				"first": "Jeff",
+				"last": "Johnson",
+				"full": "Jeff Johnson",
+				"native": null,
+				"userPreferred": "Jeff Johnson"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106722-oBph5DalCgKm.jpg"
+		}]
+	}, {
+		"id": 233397,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Dazuu",
+			"last": "Tayaku",
+			"full": "Dazuu Tayaku",
+			"native": "ダズー・タヤク",
+			"userPreferred": "Dazuu Tayaku"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b233397-smAO6P6prFZg.png",
+		"voiceActors": [{
+			"id": 119203,
+			"language": "Japanese",
+			"name": {
+				"first": "Himika",
+				"last": "Akaneya",
+				"full": "Himika Akaneya",
+				"native": "茜屋日海夏",
+				"userPreferred": "Himika Akaneya"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119203-8aRYa6cFbrjz.png"
+		}, {
+			"id": 123154,
+			"language": "English",
+			"name": {
+				"first": "Steph",
+				"last": "Garrett",
+				"full": "Steph Garrett",
+				"native": null,
+				"userPreferred": "Steph Garrett"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/123154-PhUU4BZwB3f7.jpg"
+		}, {
+			"id": 262309,
+			"language": "Portuguese",
+			"name": {
+				"first": "Tabata",
+				"last": "Portella",
+				"full": "Tabata Portella",
+				"native": null,
+				"userPreferred": "Tabata Portella"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 248333,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Halbet",
+			"last": "Chevour",
+			"full": "Halbet Chevour",
+			"native": "シュヴールハールベート",
+			"userPreferred": "Halbet Chevour"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b248333-rq8snTpZhVxr.png",
+		"voiceActors": [{
+			"id": 108801,
+			"language": "Japanese",
+			"name": {
+				"first": "Miyuki",
+				"last": "Satou",
+				"full": "Miyuki Satou",
+				"native": "佐藤美由希",
+				"userPreferred": "Miyuki Satou"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108801-QiaBTK8czQ2T.png"
+		}, {
+			"id": 182621,
+			"language": "Portuguese",
+			"name": {
+				"first": "Marcela",
+				"last": "Duarte",
+				"full": "Marcela Duarte",
+				"native": null,
+				"userPreferred": "Marcela Duarte"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182621-kvyYRr7eAYIA.jpg"
+		}]
+	}, {
+		"id": 250484,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Smurik",
+			"last": null,
+			"full": "Smurik",
+			"native": "スムリク",
+			"userPreferred": "Smurik"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b250484-MQG4HKCKc95P.png",
+		"voiceActors": []
+	}, {
+		"id": 124439,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Magna",
+			"last": "Swing",
+			"full": "Magna Swing",
+			"native": "マグナ・スウィング",
+			"userPreferred": "Magna Swing"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124439-EqjbyC8GOKW0.jpg",
+		"voiceActors": [{
+			"id": 108055,
+			"language": "Japanese",
+			"name": {
+				"first": "Genki",
+				"last": "Muro",
+				"full": "Genki Muro",
+				"native": "室元気",
+				"userPreferred": "Genki Muro"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108055-xpbp6CAEStk2.jpg"
+		}, {
+			"id": 104087,
+			"language": "English",
+			"name": {
+				"first": "Ian",
+				"last": "Sinclair",
+				"full": "Ian Sinclair",
+				"native": null,
+				"userPreferred": "Ian Sinclair"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104087-3g10GTeSoeuW.jpg"
+		}, {
+			"id": 189479,
+			"language": "Spanish",
+			"name": {
+				"first": "Roberto",
+				"last": "Gutiérrez",
+				"full": "Roberto Gutiérrez",
+				"native": "Roberto Gutiérrez-Teyssier Vázquez",
+				"userPreferred": "Roberto Gutiérrez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n189479-samS2Fw059EB.png"
+		}, {
+			"id": 175191,
+			"language": "Portuguese",
+			"name": {
+				"first": "Renan",
+				"last": "Vidal",
+				"full": "Renan Vidal",
+				"native": null,
+				"userPreferred": "Renan Vidal"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175191-sKN4xBpQtVMG.png"
+		}, {
+			"id": 218897,
+			"language": "French",
+			"name": {
+				"first": "Jérémy",
+				"last": "Zylberberg",
+				"full": "Jérémy Zylberberg",
+				"native": null,
+				"userPreferred": "Jérémy Zylberberg"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}, {
+			"id": 132507,
+			"language": "German",
+			"name": {
+				"first": "Imme",
+				"last": "Aldag",
+				"full": "Imme Aldag",
+				"native": null,
+				"userPreferred": "Imme Aldag"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 124448,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Gordon",
+			"last": "Agrippa",
+			"full": "Gordon Agrippa",
+			"native": "ゴードン・アグリッパ",
+			"userPreferred": "Gordon Agrippa"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124448-YHRpWxJUhNnw.png",
+		"voiceActors": [{
+			"id": 105273,
+			"language": "Japanese",
+			"name": {
+				"first": "Kenichirou",
+				"last": "Matsuda",
+				"full": "Kenichirou Matsuda",
+				"native": "松田健一郎",
+				"userPreferred": "Kenichirou Matsuda"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105273-asextl049B2s.png"
+		}, {
+			"id": 95202,
+			"language": "English",
+			"name": {
+				"first": "Mike",
+				"last": "McFarland",
+				"full": "Mike McFarland",
+				"native": null,
+				"userPreferred": "Mike McFarland"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/202.jpg"
+		}, {
+			"id": 182216,
+			"language": "Spanish",
+			"name": {
+				"first": "Miguel Ángel",
+				"last": "Leal ",
+				"full": "Miguel Ángel Leal ",
+				"native": null,
+				"userPreferred": "Miguel Ángel Leal "
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182216-NYnHyG9gPhEw.png"
+		}, {
+			"id": 185297,
+			"language": "Portuguese",
+			"name": {
+				"first": "Yuri",
+				"last": "Calandrino",
+				"full": "Yuri Calandrino",
+				"native": null,
+				"userPreferred": "Yuri Calandrino"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185297-sR2rvnaSEGkf.png"
+		}, {
+			"id": 168682,
+			"language": "French",
+			"name": {
+				"first": "Charles",
+				"last": "Mendiant",
+				"full": "Charles Mendiant",
+				"native": null,
+				"userPreferred": "Charles Mendiant"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n168682-Jni4HYkav2ux.jpg"
+		}, {
+			"id": 195278,
+			"language": "German",
+			"name": {
+				"first": "Samir",
+				"last": "Fuchs",
+				"full": "Samir Fuchs",
+				"native": null,
+				"userPreferred": "Samir Fuchs"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+		}]
+	}, {
+		"id": 124461,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Heath",
+			"last": "Grice",
+			"full": "Heath Grice",
+			"native": "ヒース・グライス",
+			"userPreferred": "Heath Grice"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b124461-6jkQwE2fREhp.png",
+		"voiceActors": [{
+			"id": 95177,
+			"language": "Japanese",
+			"name": {
+				"first": "Ryoutarou",
+				"last": "Okiayu",
+				"full": "Ryoutarou Okiayu",
+				"native": "置鮎龍太郎",
+				"userPreferred": "Ryoutarou Okiayu"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95177-6SiaUTf3CLkN.png"
+		}, {
+			"id": 119698,
+			"language": "English",
+			"name": {
+				"first": "Marcus D.",
+				"last": "Stimac",
+				"full": "Marcus D. Stimac",
+				"native": null,
+				"userPreferred": "Marcus D. Stimac"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119698-icnqxj5DwX3N.jpg"
+		}, {
+			"id": 182440,
+			"language": "Spanish",
+			"name": {
+				"first": "Gerardo",
+				"last": "Vásquez",
+				"full": "Gerardo Vásquez",
+				"native": "Gerardo Vásquez Martínez",
+				"userPreferred": "Gerardo Vásquez"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182440-JV9ZJtedVFcT.png"
+		}, {
+			"id": 186384,
+			"language": "Portuguese",
+			"name": {
+				"first": "Carlos",
+				"last": "Viegas",
+				"full": "Carlos Viegas",
+				"native": null,
+				"userPreferred": "Carlos Viegas"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n186384-Y5PSPvdIkPOq.jpg"
+		}, {
+			"id": 141075,
+			"language": "German",
+			"name": {
+				"first": "Christoph",
+				"last": "Drobig",
+				"full": "Christoph Drobig",
+				"native": null,
+				"userPreferred": "Christoph Drobig"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141075-NBiP69eo8Wnu.jpg"
+		}]
+	}, {
+		"id": 124479,
+		"role": "SUPPORTING",
+		"name": {
+			"first": "Fana",
+			"last": null,
+			"full": "Fana",
+			"native": "ファナ",
+			"userPreferred": "Fana"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/character/large/124479-sz87ci78ourf.png",
+		"voiceActors": [{
+			"id": 118510,
+			"language": "Japanese",
+			"name": {
+				"first": "Mao",
+				"last": "Ichimichi",
+				"full": "Mao Ichimichi",
+				"native": "市道真央",
+				"userPreferred": "Mao Ichimichi"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png"
+		}, {
+			"id": 119618,
+			"language": "English",
+			"name": {
+				"first": "Jeannie",
+				"last": "Tirado",
+				"full": "Jeannie Tirado",
+				"native": null,
+				"userPreferred": "Jeannie Tirado"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119618-8RlAUY2Te7hw.jpg"
+		}, {
+			"id": 182231,
+			"language": "Spanish",
+			"name": {
+				"first": "Erika",
+				"last": "Ugalde",
+				"full": "Erika Ugalde",
+				"native": "Erika Ugalde Cervantes",
+				"userPreferred": "Erika Ugalde"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182231-AXClncMZZahT.png"
+		}, {
+			"id": 180903,
+			"language": "Portuguese",
+			"name": {
+				"first": "Louise",
+				"last": "Schachter",
+				"full": "Louise Schachter",
+				"native": null,
+				"userPreferred": "Louise Schachter"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n180903-97bo2pe62w78.jpg"
+		}, {
+			"id": 163030,
+			"language": "French",
+			"name": {
+				"first": "Caroline",
+				"last": "Combes",
+				"full": "Caroline Combes",
+				"native": null,
+				"userPreferred": "Caroline Combes"
+			},
+			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163030-PFC47QCuVGBH.jpg"
+		}]
+	}],
+	"relations": [{
+		"id": 86123,
+		"relationType": "ADAPTATION",
+		"malId": 86337,
+		"title": {
+			"romaji": "Black Clover",
+			"english": "Black Clover",
+			"native": "ブラッククローバー",
+			"userPreferred": "Black Clover"
+		},
+		"status": "Ongoing",
+		"episodes": null,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/nx86123-yRZuDFrUEDGu.png",
+		"color": "#e49350",
+		"type": "MANGA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/86123-vPWHXqCLYv86.jpg",
+		"rating": 77
+	}, {
+		"id": 110318,
+		"relationType": "SPIN_OFF",
+		"malId": 40031,
+		"title": {
+			"romaji": "Mugyutto! Black Clover",
+			"english": "Squishy! Black Clover",
+			"native": "むぎゅっと！ブラッククローバー",
+			"userPreferred": "Mugyutto! Black Clover"
+		},
+		"status": "Completed",
+		"episodes": 8,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110318-VU85YyXhCOoU.jpg",
+		"color": "#f1e45d",
+		"type": "ONA",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110318-VU85YyXhCOoU.jpg",
+		"rating": 61
+	}, {
+		"id": 106223,
+		"relationType": "OTHER",
+		"malId": 38768,
+		"title": {
+			"romaji": "Black Clover: All Mahou Kishi Kanshasai",
+			"english": "Black Clover: The All Magic Knights Thanksgiving Festa",
+			"native": "ブラッククローバー オール魔法騎士感謝祭",
+			"userPreferred": "Black Clover: All Mahou Kishi Kanshasai"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106223-TfmLcrFbAPK7.jpg",
+		"color": "#e45d6b",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106223-4mazQluA9HsF.jpg",
+		"rating": 61
+	}, {
+		"id": 87528,
+		"relationType": "ALTERNATIVE",
+		"malId": 33950,
+		"title": {
+			"romaji": "Black Clover: Jump Festa 2016 Special",
+			"english": "Black Clover: Jump Festa 2016 Special",
+			"native": "ブラッククローバー",
+			"userPreferred": "Black Clover: Jump Festa 2016 Special"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87528-parADBBGJOVP.png",
+		"color": "#e4935d",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87528-parADBBGJOVP.png",
+		"rating": 63
+	}, {
+		"id": 155017,
+		"relationType": "OTHER",
+		"malId": 39864,
+		"title": {
+			"romaji": "Petit Clover Advance",
+			"english": null,
+			"native": "プチット・クローバー アドバンス",
+			"userPreferred": "Petit Clover Advance"
+		},
+		"status": "Completed",
+		"episodes": 15,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b155017-bTGlwU7Kcfu0.jpg",
+		"color": "#e4bba1",
+		"type": "SPECIAL",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b155017-bTGlwU7Kcfu0.jpg",
+		"rating": 67
+	}, {
+		"id": 131680,
+		"relationType": "SIDE_STORY",
+		"malId": 48585,
+		"title": {
+			"romaji": "Black Clover: Mahou Tei no Ken",
+			"english": "Black Clover: Sword of the Wizard King",
+			"native": "ブラッククローバー 魔法帝の剣",
+			"userPreferred": "Black Clover: Mahou Tei no Ken"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-gjs8mMQPmkOQ.png",
+		"color": "#50aee4",
+		"type": "MOVIE",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131680-AP8e9mF6NhXr.jpg",
+		"rating": 81
+	}],
+	"mappings": {
+		"mal": 34572,
+		"anidb": 12665,
+		"kitsu": 13209,
+		"anilist": 97940,
+		"thetvdb": 331753,
+		"anisearch": 12131,
+		"livechart": 2478,
+		"notify.moe": "7pEG2KmiR",
+		"anime-planet": "black-clover"
+	},
+	"episodes": [{
+		"id": "black-clover-tv-episode-170",
+		"title": "The Faraway Future",
+		"description": "Nacht summons the devil who had been giving Asta his powers all this time. In order to use his devil powers to their fullest extent, Asta must defeat his devil and bind him, but he also offers an alternative solution that is a bit surprising. Yuno, Noelle, and the others also swear that will get revenge on the Dark Triad and get back Captain Yami and Captain Vangeance. A new battle is about to begin!",
+		"number": 170,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/8234549/screencap/60631919d91c9.jpg",
+		"airDate": "2021-03-30T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-169",
+		"title": "The Devil Binding Ritual",
+		"description": "Noelle and others were involved in the explosions that Vanica caused back in the Heart Kingdom and left unconscious. When they woke up, they found themselves in the new home of the elves that was located in a strong magic region just beyond the Heart Kingdom. There, Noelle has an unexpected reunion. Meanwhile, Asta was learning from Nacht how to control his devil powers, but it was a very dangerous method. But in order to save Yami from the Dark Triad, Asta decides to undergo this trial.",
+		"number": 169,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/8234548/screencap/6059cf649ed45.jpg",
+		"airDate": "2021-03-23T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-168",
+		"title": "Stirrings of the Strongest",
+		"description": "Yami and Vangeance are taken to the Spade Kingdom so that the ritual to open the gate to the underworld can begin. Despite how hurt he is, Asta tries to escape the infirmary to go and save Yami, whoever he is stopped by a mage named Nacht Faust, who also happens to be a devil-possessed. He offers to show Asta how to use his devil powers even better. Meanwhile, the Magic Knight Squad Captains hold an emergency meeting. The Golden Dawn has almost been completely annihilated, and Yuno shows up to the meeting, showing new resolve.",
+		"number": 168,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/8229970/screencap/6050f98934fbf.jpg",
+		"airDate": "2021-03-16T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-167",
+		"title": "Black Oath",
+		"description": "Asta and Yami surpass their limits and begin their counterattack! Despite being covered in injuries, Asta and Yami give Dante a run for his money. Asta tries to bear with his injuries and thinks he needs something more to live up to what Yami expects him to be. In order to become more powerful, he tries to delve deeper into his devil powers, and...",
+		"number": 167,
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/8229967/screencap/604769ff667cf.jpg",
+		"airDate": "2021-03-09T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-166",
+		"title": "Captain Yami Sukehiro",
+		"description": "Vanica and her subordinates continue their attack on the Heart Kingdom. Meanwhile, back at the Black Bulls' hideout, Captain Yami's fight against Dante continued. Despite how overwhelmingly powerful Dante is, Yami continues to fight back, landing another powerful blow onto Dante. However, no matter how much Dante is damaged, he continues to regenerate. What will Yami do?",
+		"number": 166,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/603e3128ed5e8.jpg",
+		"airDate": "2021-03-02T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-165",
+		"title": "Water Crusade",
+		"description": "Vanica appears before Loropechika. Noelle and Mimosa, who had grown far more powerful due to their training, aid Loropechika and fight back against Vanica. However, one of the most powerful devils, Megicula, inhabits Vanica, so fighting against her with normal magic powers proves to be difficult. Will they be successful in defeating Vanica, who takes joy in other people's suffering, and saving their friend as well as the world?",
+		"number": 165,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/60351508a0f29.jpg",
+		"airDate": "2021-02-23T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-164",
+		"title": "Battlefield: Heart Kingdom",
+		"description": "Yami continues to fight Dante from the Dark Triad and finally, he deals a fatal blow! However, Dante has horrifying regeneration powers and manages to heal immediately. He then tells the Black Bulls of the Dark Triad's plan to destroy this world. Meanwhile, in the Heart Kingdom, Leopold, Charmy, and Luck go to help the Spirit Guardians, but are also having a hard time.",
+		"number": 164,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/602bea9149195.jpg",
+		"airDate": "2021-02-16T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-163",
+		"title": "Dante vs. The Captain of the Black Bulls Squad",
+		"description": "Gauche is gravely injured in the fight against Dante which causes Asta's devil powers to go berserk. He completely loses himself and relentlessly attacks Dante! But Dante becomes even stronger and Asta ends up on the ground. Then Captain Yami and Finral show up to the scene shocked and Yami is instantly enraged and joins the fight! Meanwhile, the Heart Kingdom is under attack by Vanica and her subordinates and the Spirit Guardians went to fight them, but Vanica's subordinates who had been given devil powers were far more powerful than expected, and...",
+		"number": 163,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/6022cd31a29d5.jpg",
+		"airDate": "2021-02-09T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-162",
+		"title": "The Great War Breaks Out",
+		"description": "After spending time in the Heart Kingdom, Asta finally goes back to the Black Bulls' hideout. However, they were currently under attack by one of the Dark Triad, Dante. Asta does his best to fight back with his friends, but is having a hard time facing Dante, who is also a devil-possessed, but is far more powerful than him. Meanwhile, around the same time, another member of the Dark Triad who is possessed by the devil Megicula, Vanica, attacks the Heart Kingdom. Loropechika can't help but panic at the sight of the one behind her curse, but...",
+		"number": 162,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/6019457c85456.jpg",
+		"airDate": "2021-02-02T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-161",
+		"title": "Zenon's Power",
+		"description": "After hearing about the Golden Dawn members being in trouble, Yuno hurries back. When he returned, their headquarters had been destroyed and many of the squad members were near death. Yuno's rage explodes. Meanwhile, the members who can still fight are doing their best to hold up against the attackers that includes one of the members of the Dark Triade, Zenon, and his minions.",
+		"number": 161,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/60100d2f7ac3d.jpg",
+		"airDate": "2021-01-26T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-160",
+		"title": "The Messenger from the Spade Kingdom",
+		"description": "The messenger tells Yuno about his past. The Golden Dawn's headquarters is attacked.",
+		"number": 160,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/6006c835ccb9c.jpg",
+		"airDate": "2021-01-19T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-159",
+		"title": "Quiet Lakes and Forest Shadows",
+		"description": "Charmy is trying to eat all of the food in the Heart Kingdom. Yuno is contacted by Sister Lily and heads back to his home village of Hage.",
+		"number": 159,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5ffde01f8338b.jpg",
+		"airDate": "2021-01-12T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-158",
+		"title": "The Beginning of Hope and Despair",
+		"description": "Spade Kingdom troops travel through a nearby strong magic region using a mobile fortress that sucks up the mana of their citizens. Asta and his friends decide to help.",
+		"number": 158,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5ff4a8bca9501.jpg",
+		"airDate": "2021-01-05T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-157",
+		"title": "Five-Leaf Clover",
+		"description": "Asta is working hard to become more powerful by training with the Spirit Guardians. His anti-magic is one of the magic attributes that falls into the \"Arcane Stage\" and will be needed to defeat the devil.",
+		"number": 157,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5fe22a79d5911.jpg",
+		"airDate": "2020-12-22T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-156",
+		"title": "Awakening Power",
+		"description": "While Asta and the others were training in the Heart Kingdom, back in the Clover Kingdom, Yami asked Mereoleona to help him train. Spade Kingdom forces continues to draw nearer as it continues its invasion.",
+		"number": 156,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5fd8ed6fcb5b2.jpg",
+		"airDate": "2020-12-15T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-155",
+		"title": "The 5 Spirit Guardians",
+		"description": "Asta and the other Magic Knights chosen to train in the Heart Kingdom are joined by Magna and they start their training under the Spirit Guardians.",
+		"number": 155,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5fcfdcd99d045.jpg",
+		"airDate": "2020-12-08T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-154",
+		"title": "Vice Captain Langris Vaude",
+		"description": "After Yuno is given the title of 1st Class Magic Knight, Vice Captain Langris decides to competitively spar Yuno with a twist: The loser will leave The Golden Dawn.",
+		"number": 154,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5fc6b3cdd2cdd.jpg",
+		"airDate": "2020-12-01T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-153",
+		"title": "The Chosen Ones",
+		"description": "The Magic Knight Squad Captains gather for a meeting and for an award ceremony with the king later. At the meeting, they decide that Asta, Nero, Noelle, Luck, Finral, Mimosa, Leopold, Charlotte and Rill will be going to the Heart Kingdom to train with the Spirit Guardians. At the award ceremony, Yuno advances very quickly in rank, and...",
+		"number": 153,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5fbd34e96e214.jpg",
+		"airDate": "2020-11-24T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-152",
+		"title": "To Tomorrow!",
+		"description": "Asta and Noelle go to see the Magic Knight Entrance Exams with Yami. The testing site and the anti-birds that gather there are rather nostalgic (?) to Asta and remembers his own experience at the exams last year after seeing the hopefuls from this year.",
+		"number": 152,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5fb40aa2700c7.jpg",
+		"airDate": "2020-11-17T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-151",
+		"title": "Clash! The Battle of the Magic Knights Squad Captains!",
+		"description": "The Magic Knight Squad Captains end up doing a team battle due to Julius's suggestion. Since the citizens are still weary after the attack by the Eye of the Midnight Sun, they want to prove that they still mean to protect the kingdom and its citizens. The Magic Knights watch in anticipation as their captains split up into two teams and go all out in this battle.",
+		"number": 151,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5faabf43cfccc.jpg",
+		"airDate": "2020-11-10T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-150",
+		"title": "The Maidens' Challenge",
+		"description": "To prepare for the upcoming battle against the devil, Grey decides that she needs to get over her shyness and be able to face her friends first before anything else. Meanwhile, Captain Charlotte trains with her squad.",
+		"number": 150,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5fa1625fece4d.jpg",
+		"airDate": "2020-11-03T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-149",
+		"title": "Two Things We Need to Find",
+		"description": "The incident with the Devil Believers had come to a close. This whole incident ends up hurting Nero, who witnessed the pain the Devil Believers felt from having less mana and reminds her of her time with the first Wizard King, Lumiere and the magic item he was trying to create to get rid of discrimination in their kingdom. She then gets summoned by Julius. Meanwhile, Asta and the others receive a message saying that the Heart Kingdom and the Spirit Guardians were ready to train them for their fight against the devil.",
+		"number": 149,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f984dceea3dd.jpg",
+		"airDate": "2020-10-27T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-148",
+		"title": "Becoming the Light That Shines Through the Darkness",
+		"description": "Asta and Noelle are captured along with Nero and they head toward the strong magic region near the border when Captain Yami and Magna arrive. Captain Fuegoleon and Captain Nozel also show up, causing the Devil Believers to panic. The captains try to talk to the Devil Believers, but their distrust for them is just too strong. The Devil Believers try to bring their powers together in order to face the Magic Knight captains.",
+		"number": 148,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f8f222ce4672.jpg",
+		"airDate": "2020-10-20T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-147",
+		"title": "Prepared to Die",
+		"description": "Asta, Noelle, and Magna manage to catch up to the Devil Believers who had taken Nero. But they find that the Devil Believers have now grown in numbers. Magna goes back to tell Yami of the situation. Asta and Noelle are left behind and try to do what they can to save Nero. But it appears that the Devil Believers have made up their minds on achieving their goal, even if it costs them their lives.",
+		"number": 147,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f85dd3f9f8b2.jpg",
+		"airDate": "2020-10-13T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-146",
+		"title": "Those Who Worship the Devil",
+		"description": "Kabue finally realizes he's been fooled by the Devil Believers, but it's too late for him and his friends. The Black Bull is given a new mission: the capture of the Devil Believer in addition to the rescue of Nero.",
+		"number": 146,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f7c90bdcd7ec.jpg",
+		"airDate": "2020-10-06T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-145",
+		"title": "Rescue",
+		"description": "The Devil Banishers announce that they will judge Nero and Marie in public. Julius then orders the Black Bulls and other Magic Knights to go rescue them. The Magic Knights place themselves among a crowd that clearly hates the devil, and then the Devil Banishers appear. They then demand that the devil-possessed Asta show himself.",
+		"number": 145,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f73c28d9a5aa.jpg",
+		"airDate": "2020-09-29T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-144",
+		"title": "Those Who Wish to Destroy Devils",
+		"description": "Julius orders the Black Bulls to save Nero and Marie, so Captain Yami, Noelle, Finral, Gordon and Gauche travel to a certain town along with the captain of the Silver Eagles Nozel, to see if they can find any clues. They try to ask the townspeople for some clues, but it appears that they are less than willing to cooperate because they seem to hold a grudge against the Magic Knights who weren’t able to come to their immediate aid after they were attacked by the elves.",
+		"number": 144,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f6a4a54ec156.jpg",
+		"airDate": "2020-09-22T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-143",
+		"title": "The Tilted Scale",
+		"description": "Kabwe Carillon's team of Devil Banishers returns to Bow Nokude's house in Tiulyu. They report to the other team about their failure to capture Asta. Gordon Agrippa and Noelle Silva take Asta to Owen, who discovers that it was a sleeping potion. Yami drags Marx Francois into the room so they can look into Asta's memories of the attack.\nMeanwhile, Gauche threatens Sister Theresa for allowing Marie to fall into danger a third time.\nThinking it has do with Kira, Gauche and Finral barge into the chairman's office, blasting a hole in the wall. Damnatio then forces Gauche and Finral to their knees, but Yami barges into the office, breaking another wall. \nNozel Silva enters the office and shows that the signal from Asta's monitor bracelet has appeared in Tiulyu. They figure out that Secre removed it from Asta so that she could be tracked. They fly to the town and split up into teams of two: Gauche with Gordon, Nozel with Noelle, and Yami with Finral.",
+		"number": 143,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f60fdb97a6a1.jpg",
+		"airDate": "2020-09-15T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-142",
+		"title": "Those Remaining",
+		"description": "While the Clover Kingdom was trying to get back onto its feet, the citizens learn that the one behind the destruction of their homes is called the devil, and many of them grew to hate the devil. Some of these people had gathered and created a group called the Devil Banishers. Because the Magic Parliament did not immediately punish the supposed servants of the devil, they decide to go after Asta and Nero and take matters into their own hands.",
+		"number": 142,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f577007008e6.jpg",
+		"airDate": "2020-09-08T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-141",
+		"title": "The Golden Family",
+		"description": "The Golden Dawn was hard at work trying to get the kingdom back onto its feet. They were trying to make amends for the trouble they had caused while they were possessed. Captain Vangeance puts Alecdora Sandler in charge of a mission. Alecdora can’t hide his dislike for Yuno so he tries his best to earn more merit than him.",
+		"number": 141,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f4e30e14500e.jpg",
+		"airDate": "2020-09-01T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-140",
+		"title": "A Favor for Julius",
+		"description": "Julius asks Marx to do a favor for him. He wanted him to help with creating new magic items as well as take care of some bandits. Marx is accompanied by the former member of the Eye of the Midnight Sun, Sally, to the Black Bulls’ hideout in order to conduct experiments for magic item research. Next, he travels with Captain Fuegoleon and Captain Nozel to investigate the bandits. Apparently, Julius had visited even that faraway town in disguise before...",
+		"number": 140,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f44f3e370a50.jpg",
+		"airDate": "2020-08-25T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-139",
+		"title": "A Witch's Homecoming",
+		"description": "Vanessa Enoteca returns to the Witches' Forest and requests that the Witch Queen teach her ancient magic. In exchange, the Queen tasks Vanessa with training two witches, Samantha Kravitz and Elvira Aguirre, and resolving an issue with the forest's defenses in case of an attack from the Spade Kingdom.",
+		"number": 139,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f3bc046ba42d.jpg",
+		"airDate": "2020-08-18T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-138",
+		"title": "In Zara's Footsteps",
+		"description": "Zora returns to his hometown to visit his father's grave and there he finds a young commoner training and admiring the one who was the first commoner Magic Knight.",
+		"number": 138,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f327c27ecb9d.jpg",
+		"airDate": "2020-08-11T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-137",
+		"title": "Charmy's Century of Hunger, Gordon's Millennium of Loneliness",
+		"description": "Asta and the other Black Bulls continue their training in order to face off with the devil. Charmy is trying to use her cotton magic and her Sheep Cooks to create food to enhance her friends’ mana, but she realizes she lacks training. She then decides to seek out someone who can help her. Meanwhile, Gordon is also unhappy with his inability to help his friends, so he decides to go off to train on his own.",
+		"number": 137,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f299df1c1f83.jpg",
+		"airDate": "2020-08-04T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-136",
+		"title": "A Black Deep-Sea Story",
+		"description": "Noelle and the other Black Bulls head to Racquey to do some training, when Noelle hears a mysterious voice. Shortly after, the Black Bulls are reunited with Kahono and Kiato. The siblings ask them for help and they head down to the Underwater Temple. There, Gifso explains that a creature called the guardian has gone berserk, so in order to quell its rage, Kahono and Kiato need to present it with their song and dance. Gifso asks the Black Bulls to act as their bodyguards and Yami appoints Noelle and Finral for the job.",
+		"number": 136,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f2060af94998.jpg",
+		"airDate": "2020-07-28T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-135",
+		"title": "The One Who Has My Heart, My Mind, and Soul",
+		"description": "Though their betrothal was decided between their families, Finral tries to become a better man for Finnes’ sake. However, his impulse to instantly hit on any girl he happens to see doesn’t seem to get better, so he asks Asta to help him train... But they end up going to a mixer. Meanwhile, the members of the Blue Rose Knights want to help Charlotte out with her chances at love and invite Yami to a mixer-like setting at the same pub. What will result from both of these mixers?",
+		"number": 135,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f174e41cd6b3.jpg",
+		"airDate": "2020-07-21T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-134",
+		"title": "Those Who Have Been Gathered",
+		"description": "Asta and Noelle return to the Black Bulls’ hideout only to get taken away by Mereoleona again. The place they were brought this time was the Vermillion estate. Waiting for them there was Captain Fuegoleon, Kirsch, Mimosa, and the sister who looked after the children at the church in Nean, Sister Theresa, who was also known as the former Magic Knight, the Crimson She-Leopard. Asta and Noelle wait in anticipation, wondering if they are going to get a new mission, but what Fuegoleon actually tells them is...",
+		"number": 134,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f0df4fa67d39.jpg",
+		"airDate": "2020-07-14T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-133",
+		"title": "The Lion Awakens, Continued",
+		"description": "As Asta and the others were chasing the creature that lived in the cave beneath the Yultim Volcano Trail, they happened upon a dungeon. They were then ordered to explore the dungeon by the royal capital, so they split into groups and went in. They head in with Leopold and Vice Captain Randall, but those two end up running into the creature from earlier. They work together but cannot defeat the monster, which makes Leopold feel useless. At that moment, Leopold remembers the strange feeling he felt when he was fighting the elves, and...",
+		"number": 133,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5f0454e779d1b.jpg",
+		"airDate": "2020-07-07T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-132",
+		"title": "The Lion Awakens",
+		"description": "The Black Bulls get a sudden visit from Mereleona and she drags them to the strong magic region of the Yultim Volcano. There, the Crimson Lion Kings, as well as their captain, Fuegoleon, and his younger brother Leopold, were waiting for them. Asta and Noelle remember the hot springs they had visited on their previous trip there. Finding new resolve, Magna, Luck, Charmy, Gordon, and Nero all decide to train in the fiery underground cave of the volcano!",
+		"number": 132,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5ea80985d2e1f.jpg",
+		"airDate": "2020-04-28T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-131",
+		"title": "A New Resolve",
+		"description": "Asta and Yuno are given permission to go home to Hage for a little while. Asta was being called a devil in the papers, but Father, Sister Lily, everyone at the church, as well as the people who even used to make fun of Asta and Yuno because they were orphans, welcomed them home with open arms. Asta and Yuno see that they had gone down the right path and all their hard work wasn’t for nothing, and then...",
+		"number": 131,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5e9f191a67662.jpg",
+		"airDate": "2020-04-21T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-130",
+		"title": "The New Magic Knight Squad Captains' Meeting",
+		"description": "The Magic Knight Squad Captains decide to have a meeting about the problem with the devils that ended up involving the whole Clover Kingdom. Asta and the others who were in the Heart Kingdom were also summoned and they disclose the information they gathered in front of Julius, Damnatio, and the Captains. After hearing what Asta and the others had to report, Julius tells everyone what they need to do in order to deal with the devil Megicula.",
+		"number": 130,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5e95ab74d552d.jpg",
+		"airDate": "2020-04-14T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-129",
+		"title": "Devil Megicula",
+		"description": "Asta and the others manage to meet with the queen of the Heart Kingdom, Loropechika, who had also been chosen by the water spirit, Undine. They are able to confirm that the devil’s curse that they spotted in the Heart Kingdom was originating from Loropechika herself and that the devil was in the Spade Kingdom. Meanwhile, Vanessa, Magna, and Luck went to investigate the Diamond Kingdom and find it in ruins after a single mage of the Spade Kingdom had annihilated them. In order to defeat this devil, Loropechika asks Asta and the others for their help...",
+		"number": 129,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5e8c9747c64bf.jpg",
+		"airDate": "2020-04-07T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-128",
+		"title": "To the Heart Kingdom!",
+		"description": "Thanks to Gordon’s father, Asta and the others were able to find out that there might be clues surrounding the devils in the Heart Kingdom and manage to get permission to enter the kingdom due to the fact that Mimosa had gone there previously to study overbroad. Asta, Noelle, Finral, Mimosa and Nero head to the Heart Kingdom. Asta and the others initially enjoy their trip there, but something that Langris told Finral had been bugging Finral. Suddenly, Asta and the others are faced with a rather unexpected trial. Will Asta and the other Black Bulls be able to obtain information on the devils?!",
+		"number": 128,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5e836c01f26da.jpg",
+		"airDate": "2020-03-31T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-127",
+		"title": "Clues",
+		"description": "In order to find out more about the forbidden curse, Asta, Gordon, Grey, and Gauche head to Gordon's house, since he comes from a family of famous curse mages. Once they get there, they can't help but show their wariness towards Gordon's family. But in the end, they end up finding out valuable information while they're there. Meanwhile, Noelle goes to talk to the Dorothy Unsworth, the Captain of the Coral Peacocks, after her brother tells her to talk to her to find out the truth behind their mother's death. Dorothy tells her the name of the devil who had killed her mother, and the same name is spoken by Gordon's grandmother. That devil's name is...",
+		"number": 127,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5e7a40585a314.jpg",
+		"airDate": "2020-03-24T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-126",
+		"title": "The Blue Rose's Confession",
+		"description": "The Black Bulls were ordered by the Wizard King to investigate the devils. Yami takes Asta and Nero and goes to talk to Captain Charlotte of the Blue Rose Knights, since she has experience with forbidden magic and curses. But when they get there, Charlotte suddenly runs off somewhere and they’re all in shock. Charlotte had memories of while Charla took over her body and fears that Yami had found out her true feelings and she ended up panicking. But then, she makes a decision.",
+		"number": 126,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/62111869.jpg",
+		"airDate": "2020-03-17T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-125",
+		"title": "Return",
+		"description": "The Black Bulls return to where their base originally was. Henry has to return the Raging Bull back into their hideout, but apparently, that takes some time. Meanwhile, Yami tells the Black Bulls to go find the magical beasts that escaped from the hideout. They had run away when Rades and the others had attacked the hideout and had been wandering around the forest ever since. There was even a chance that they had returned to their feral states. Their fear comes true, as one Black Bull is attacked after another.",
+		"number": 125,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/62104559.jpg",
+		"airDate": "2020-03-10T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-124",
+		"title": "Nero Reminiscences... Part 2",
+		"description": "After using forbidden magic in the fight against the devil, Secré turns into a bird and ends up spending centuries all alone. During that time, she ends up meeting Asta, who ends up with Licht’s grimoire that has a different devil residing in it. Patry ends up reviving due to resurrection magic, and then he becomes the leader of the Eye of the Midnight Sun and vows to get revenge. This was all according to the devil’s plan and Secré uses her sealing magic to free Lumiere and Licht so they can finish off the devil once and for all along with Asta. The battle comes to an end, and Secré now begins her new life as a member of the Black Bulls.",
+		"number": 124,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/62098645.jpg",
+		"airDate": "2020-03-03T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-123",
+		"title": "Nero Reminiscences... Part 1",
+		"description": "Because she used forbidden magic, Nero survived for centuries. In the back of her mind, memories from long ago start to replay in her head. From when Nero was still called Secré and when Secré first met the most powerful and talented mage in the Clover Kingdom, Prince Lumiere. They become friends with Licht and the other elves, but due to the evil plans of a devil, the humans end up killing all of Licht’s comrades. Because of that, Licht ends up turning into a demon and Lumiere finds him in that state. What will he have to do to protect the ones he loves?",
+		"number": 123,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/62090776.jpg",
+		"airDate": "2020-02-25T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-122",
+		"title": "As Pitch Black as It Gets",
+		"description": "Asta, who has the power of the devil, and Secré who used forbidden magic and turned into Nero, were called before the Magical Parliament to be judged. Asta maintains his innocence, but Damnatio Kira will do everything he can to probe that Asta is guilty. In order to save Asta and Secré, Yami shows up with the Black Bulls and they cause a ruckus. While the Black Bulls cause trouble, a few others show up...",
+		"number": 122,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/62085834.jpg",
+		"airDate": "2020-02-18T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-121",
+		"title": "Three Problems",
+		"description": "The battle involving the whole Clover Kingdom is finally over. But because of the battle, the kingdom was heavily damaged, so the Magic Knights were busy trying to repair everything. Meanwhile, someone rather unexpected shows up in front of Asta and the others and states three problems that will come up for the Clover Kingdom. Asta and the others are surprised, but just as they were told, someone showed up to try to judge Asta and his devil power.",
+		"number": 121,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/62078312.jpg",
+		"airDate": "2020-02-11T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-120",
+		"title": "Dawn",
+		"description": "The Shadow Palace begins to shatter, but Asta and the others manage to escape. Meanwhile, the elves continued to attack the kingdom because they still didn’t know the truth. Asta is the only one who can undo the resurrection, but it won’t be easy to save all of them at once. Patry then frees Vangeance, who’s sleeping inside him, so he can use his world tree magic and Licht can use his magic that connects him with all of the elves and Asta is able to undo the resurrection of all the elves at once. Finally, the long battle is coming to an end.",
+		"number": 120,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/62072936.jpg",
+		"airDate": "2020-02-04T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-119",
+		"title": "The Final Attack",
+		"description": "Licht and Lumiere fight against the devil using incredibly powerful magic. But the devil has incredible regeneration powers and quickly heals himself, making him difficult to defeat. Asta witnesses the two powerful mages fighting and tries to figure out if he can use his anti-magic in a more useful way. He’s able to use a new power, but it’s so powerful that he’s having a hard time controlling it. Meanwhile, Yuno also awakens to a new power... Asta and Yuno, who both aspire to be the future Wizard King, pull off an impressive attack in front of the first Wizard King!",
+		"number": 119,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/62065235.jpg",
+		"airDate": "2020-01-28T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-118",
+		"title": "A Reunion Across Time and Space",
+		"description": "To stop the devil from leaving the Shadow Palace Asta, Yuno, and Patry, who had just regained his senses, head to the top floor. Once they get there, they are greeted by the first Wizard King, Lumiere Silvamillion Clover and the one who serves him, Secré Swallowtail。Secré is the true form of the mysterious bird, Nero, and she is a mage that uses a rare magic called sealing magic. She uses her magic to break the seal on Licht, and they are able to witness the true leader of the elves, Licht, and his true powers. An epic battle begins so that Licht and Lumiere can get revenge against the devil.",
+		"number": 118,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/7539181.jpg",
+		"airDate": "2020-01-21T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-117",
+		"title": "Breaking the Seal",
+		"description": "The strange little black bird Nero, who kept following Asta around, suddenly appears before Finral, who had just finished fighting with his brother Langris, and demands that he take them to the Demon’s bones back in Hage Village. Finral is obviously startled that Nero’s suddenly speaking human words but obliges and takes Nero to the bones and witnesses an unbelievable sight. We will finally find out the true events that befell the elves 500 years ago! Meanwhile, back at the Shadow Palace, the devil’s eerie magic fills the room.",
+		"number": 117,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/7528677.jpg",
+		"airDate": "2020-01-14T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-116",
+		"title": "The Ultimate Natural Enemy",
+		"description": "“When the owner of the four-leaf grimoire is filled with despair, the five-leaf clover grimoire will be born.” Patry is filled with despair after learning he had been manipulated by the devil all this time and turns into a dark elf. He then starts attacking Yuno and Asta, fueled by nothing but hatred and malice. Somehow, becoming a dark elf had made Patry even stronger, which gives Yuno and Asta an even harder time fighting him. Then Captain Nozel appears before them. Nozel happens to have the best magical attribute to fight against light magic, mercury magic.",
+		"number": 116,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/7509185.jpg",
+		"airDate": "2020-01-07T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-115",
+		"title": "Mastermind",
+		"description": "Yuno manages to enter the Shadow Palace with his pendant and runs into Patry and the others. However, his pendant is immediately stolen. Now, all of the necessary magic stones have been collected and the elves’ wish was supposed to come true. However, an uninvited guest appears before them: A devil from another world. They find out everything that happened between the elves and humans were actually a part of his plan all along. Yuno can’t hide is astonishment at how powerful the devil is as he tries to fight it, and then Asta and Mimosa also arrive!",
+		"number": 115,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/7499303.jpg",
+		"airDate": "2019-12-24T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-114",
+		"title": "The Final Invaders",
+		"description": "The Black Bulls fight off the elves as Asta and the captains head into the Shadow Palace. However, they start to feel cornered from being so run down from one battle after another. It was then that Yuno had finally arrived to save them, bringing other Magic Knights he found throughout the land with him. Yuno hears the situation from Charmy and decides to head into the Shadow Palace, too. However, the entrance was now closed. But then, his pendant starts to react in a strange way...",
+		"number": 114,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/7491228.jpg",
+		"airDate": "2019-12-17T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-113",
+		"title": "Storming the Shadow Palace",
+		"description": "After their last battle, Asta and some of the others decide to chase after Captain Yami and some others who had already headed into the Shadow Palace. However, the elves get in their way. It was then that Captain Fuegoleon and Captain Mereoleona, both who had just awakened, showed off their true powers. Asta and the others are happy to have their help, but then notice that the door to the Shadow Palace closing. In order to get Asta and his group into the palace, the other Black Bulls hold off the elves outside.",
+		"number": 113,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/7479034.jpg",
+		"airDate": "2019-12-10T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-112",
+		"title": "Humans Who Can Be Trusted",
+		"description": "Vanessa and her team are able to figure out how to leave Captain Dorothy’s Glamour World due to quick thinking on Sally’s part, but it’s easier said than done. But then Luck gets an idea to help them out. Meanwhile, Asta continues to try to undo the reincarnation spell on Gauche and Marie but can’t even get close to them. Henry sees this and decides to make a great sacrifice...",
+		"number": 112,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/7469055.jpg",
+		"airDate": "2019-12-03T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-111",
+		"title": "The Eyes in the Mirror",
+		"description": "Due to Captain Dorothy’s magic, Vanessa, who can use magic to alter fate and Charmy, who can use magic to recover mana had disappeared. Asta and the remaining Black Bulls have lost the bulk of their defense and are now struggling against Gauche and Marie’s combo magic being used against them. Meanwhile, Vanessa and her team try to figure out how to get out of Captain Dorothy’s dream world.",
+		"number": 111,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/7457638.jpg",
+		"airDate": "2019-11-26T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-110",
+		"title": "The Raging Bull Joins the Showdown!!",
+		"description": "As the battle at Clover Castle continues the Shadow Palace appears. Captain Yami and Captain Jack get a bad feeling about this, so they try to infiltrate the palace, but Magic Knights who had reincarnated as elves keep getting in their way. Then Asta and the other Black Bulls as well as Rades, Sally, and Valtos arrive! Asta tries to undo the reincarnation spell that’s been cast on the Magic Knights, but then the Captain of the Coral Peacocks, Dorothy Unsworth, who has also reincarnated as an elf appears before them!",
+		"number": 110,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/7449432.jpg",
+		"airDate": "2019-11-19T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-109",
+		"title": "Spatial Mage Brothers",
+		"description": "While Mimosa, Kirsch, and En were protecting the Vermillion residence from the elves, Langris, who had reincarnated as an elf, had arrived at the castle. He goes after the king’s life but Finral shows up with Captain Yami and Captain Jack. Despite knowing the difference in power between him and his younger brother, Finral continues to support Captain Yami and Captain Jack in this fight against Langris. Finral goes for a risky attack which injures him, and...",
+		"number": 109,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7426369.jpg",
+		"airDate": "2019-11-12T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-108",
+		"title": "Battlefield Dancer",
+		"description": "Noelle, Nozel, and Zora arrive at the Silva residence where Noelle and Nozel grew up and end up fighting the elf Kivn there. However Kivn’s magic interferes with their magic, making it hard to fight her. Even then, Noelle is able to fight back but Captain Nozel is gravely injured. With her pride and confidence as a Magic Knight and her desire to protect her older brother, Noelle is able to awaken to a new power.",
+		"number": 108,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7426362.jpg",
+		"airDate": "2019-11-05T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-107",
+		"title": "The Battle for Clover Castle",
+		"description": "Captain Yami arrives at the royal residence inside the castle along with Finral. Even though Yami was a Magic Knight Squad Captain, dealing with these powerful elves on his own was proving to be difficult. Then suddenly, Captain Jack comes to their aid. Captain Yami and Captain Jack are able to defeat one elf after another with Finral’s support. But then, the floating dungeon carrying the leader of the elves, Licht, arrives...",
+		"number": 107,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7382720.jpg",
+		"airDate": "2019-10-29T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-106",
+		"title": "Path of Revenge, Path of Atonement",
+		"description": "Asta had caught up with Magna and Vanessa with his new sword. Asta tries to work with Magna and Vanessa to save Luck, who had been reincarnated into an elf, but Luck’s body had a lot of pent up magical power that was now surging and they have a hard time getting to him. Despite that, Asta and the others try to bring the normal Luck back. Will their feelings get through to their precious friend?",
+		"number": 106,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7382718.jpg",
+		"airDate": "2019-10-22T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-105",
+		"title": "Smiles, Tears",
+		"description": "Asta had caught up with Magna and Vanessa with his new sword. Asta tries to work with Magna and Vanessa to save Luck, who had been reincarnated into an elf, but Luck’s body had a lot of pent up magical power that was now surging and they have a hard time getting to him. Despite that, Asta and the others try to bring the normal Luck back. Will their feelings get through to their precious friend?",
+		"number": 105,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7382716.jpg",
+		"airDate": "2019-10-15T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-104",
+		"title": "Lightning of Rage vs. Friends",
+		"description": "Magna had been training with Vanessa to become more powerful and during their travels they ended up in a town that was being destroyed by none other than Luck from the Black Bulls who had reincarnated as an elf. Magna and Vanessa do everything they can to try to stop Luck but Luck had turned into someone else and attacks them both. And because Vanessa’s magic protects all the members of the Black Bulls it kept protecting Luck even though he was someone else inside.",
+		"number": 104,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7363178.jpg",
+		"airDate": "2019-10-08T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-103",
+		"title": "Release from Misfortune",
+		"description": "The Father and the other villagers of Hage Village are attacked by a Magic Knight from the Purple Orcas who had reincarnated as an elf who uses poison plant magic. Asta and Yuno try to save the villagers but they can’t seem to find a way to break the spell. During their battle the sword that Licht had taken out of the ground of the floating dungeon suddenly appears out of Asta’s grimoire. Asta takes it in hand and realizes that it’s much more powerful than he can control easily. Though hesitant, Asta puts the sword up to Father and...",
+		"number": 103,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7336731.jpg",
+		"airDate": "2019-10-01T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-102",
+		"title": "Two Miracles",
+		"description": "Asta and Yuno get back to their village after an elf had attacked it. They were heading to the royal capital along with Captain Nozel and Noelle, but they saw that their village was in trouble and were given permission to make a detour. In order to protect the villagers, Asta and Yuno face off with the elf. The father that had raised them was able to see how much Asta and Yuno had grown, but...",
+		"number": 102,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7336730.jpg",
+		"airDate": "2019-09-24T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-101",
+		"title": "The Lives of the Village in the Sticks",
+		"description": "Despite being affected by the reincarnation spell, Yuno was able to regain his consciousness. Asta and Yuno then fight the leader of the elves, Licht. Licht then uses one of Asta’s swords and attacks them both. Asta and Yuno are pushed to the edge but they manage to fight back. Meanwhile, another reincarnated elf shows up in Asta and Yuno’s home village of Hage and attacks the villagers.",
+		"number": 101,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7336729.jpg",
+		"airDate": "2019-09-17T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-100",
+		"title": "We Won't Lose to You",
+		"description": "Asta was taken deep back into the labyrinth by Raia, who had suddenly appeared. There, he found not only Mimosa, but Klaus, Hamon, and Yuno who had reincarnated as elves. Klaus and Hamon have completely different personalities and they attack Asta. However, Yuno doesn’t join the fight yet one way or another. Asta doesn’t want to fight his friends and says that he’s going to survive and become the Wizard King. That somehow brings out a change in Yuno. Meanwhile, there was someone else watching the battle quietly: Another Licht that looked just like “the leader of the Eye of the Midnight Sun Licht.” Apparently, he is the real Licht, the leader of the elves.",
+		"number": 100,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7320500.jpg",
+		"airDate": "2019-09-10T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-99",
+		"title": "The Desperate Path Toward Survival",
+		"description": "After being surrounded by members of the Royal Knights who were affected by the reincarnation spell, Captain Mereoleona had managed to let Asta and Zora escape. She uses her sheer will and the help of the mana zone to fight the elves. Is it actually possible for her to defeat the elves that hate the humans so much? Meanwhile, after being flung away from the battle, Zora tries to find a way for them to escape, but Asta doesn’t like that idea.",
+		"number": 99,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7320499.jpg",
+		"airDate": "2019-09-03T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-98",
+		"title": "The Sleeping Lion",
+		"description": "The Clover Kingdom is thrown into chaos as people calling themselves “elves” attack. These effects were visible at the Crimson Lion Kings’ base, as well. Vice Captain Randall’s personality had completely changed and he attacked his comrades. Because of the sheer difference in power, the other members of the Crimson Lion Kings start to give up, but Leopold refuses to do so. As the younger brother of the captains Fuegoleon and Mereoleona, Leopold refuses to lose!",
+		"number": 98,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7320498.jpg",
+		"airDate": "2019-08-27T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-97",
+		"title": "Overwhelming Disadvantage",
+		"description": "The effects of the reincarnation spell had affected some of the Royal Knights back at the floating dungeon as well. Luck was fighting alongside Noelle when suddenly, he attacks his friends with extremely powerful magic. Meanwhile, Raia’s magic is also enhanced from the spell and suddenly, the captain of the Aqua Deer, Rill, also appears before them. Just like Luck, his personality had changed and he attacks Asta and the others. After being forced to face off with the ones calling themselves elves, Captain Mereoleona...",
+		"number": 97,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7296526.jpg",
+		"airDate": "2019-08-20T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-96",
+		"title": "The Black Bulls Captain vs. the Crimson Wild Rose",
+		"description": "While the Royal Knights were infiltrating the floating dungeon base of the Eye of the Midnight Sun, something strange was happening in the Clover Kingdom. The devil’s skull back in Asta’s home of Hage started to shine, and a number of people throughout the kingdom also started to shine. This was due to the power of the stolen magic stones and Licht activating a reincarnation spell. As Captain Yami was trying to find out more about this phenomenon, Marx and Owen appear in front of him. They then call themselves elves and attack Yami with an incredible amount of power that they’d never shown before. Meanwhile, Captain Charlotte also...",
+		"number": 96,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7296520.jpg",
+		"airDate": "2019-08-13T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-95",
+		"title": "Reincarnation",
+		"description": "Long ago, there were beings with very high magical powers living in the Clover Kingdom called elves. The elf Licht possessed a four-leaf grimoire and he lived peacefully with his brethren, who trusted him greatly. One day, a human named Tetia and her older brother happened to come by their village. Her older brother also had a four-leaf grimoire just like Licht and hoped to bring humans and elves together. The siblings and Licht shared similar ideals, so they became rather close, and eventually, Tetia became pregnant with Licht’s child. But then, a great tragedy fell upon the elves...",
+		"number": 95,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7296516.jpg",
+		"airDate": "2019-08-06T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-94",
+		"title": "New Future",
+		"description": "After receiving an emergency message from Julius’s aide, Marx, Yami hurries to the scene of Julius and Licht’s battle. However, once he gets there, he sees an unbelievable sight. Meanwhile, the Royal Knights continued their battle at the Eye of the Midnight Sun’s hideout. Captain Mereoleona had the final member of the Third Eye, Raia, cornered. Seeing no way out, Raia was about to activate a self-destruct spell when Asta nullifies his spell and then gives him a piece of his mind.",
+		"number": 94,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7284973.jpg",
+		"airDate": "2019-07-30T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-93",
+		"title": "Julius Novachrono",
+		"description": "The battle between the Clover Kingdom’s most powerful wizard, the Wizard King Julius Novachrono, and the leader of the Eye of the Midnight Sun, Licht, had begun. Julius had been chosen by a very unique grimoire and he used time magic. As the Wizard King, he firmly believed in the path he had walked and the future he wanted for everyone, so a very fierce battle begins. Licht uses light magic which is super powerful and fast, but apparently, it’s no match for Julius’s time magic.",
+		"number": 93,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7273051.jpg",
+		"airDate": "2019-07-23T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-92",
+		"title": "The Wizard King vs. The Leader of the Eye of the Midnight Sun",
+		"description": "While the Wizard King Julius was thinking about how the Royal Knights were fairing on their raid of the Eye of the Midnight Sun’s hideout, a person appeared before him. It was someone Julius was very familiar with and they start reminiscing about the past. Meanwhile, Yami had appeared at the Golden Dawn’s headquarters because he had received a message from Vangeance saying that he wanted to apologize for Langris injuring Finral. But no matter how long Yami waited, Vangeance didn’t show up, which was irritating Yami to no end.",
+		"number": 92,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7261790.jpg",
+		"airDate": "2019-07-16T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-91",
+		"title": "Mereoleona vs. Raia the Disloyal",
+		"description": "Mereoleona and Nozel plow their way through the dungeon to get to Licht along with the other Royal Knights. It is then that the final member of the Third Eye, Raia the Disloyal, appears in front of Mereoleona. Asta and Zora are astounded at how powerful Mereoleona is, but then suddenly, there are two Astas. Mereoleona doesn’t even hesitate and decides to attack both of the Astas.",
+		"number": 91,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7251559.jpg",
+		"airDate": "2019-07-09T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-90",
+		"title": "Crazy Magic Battle",
+		"description": "During the battle at the Black Bulls’ hideout, the hideout suddenly changes its shape, and Gauche and the others are surprised by the mysterious figure that emerges from it. This was the identity of the rumored ghost that lived in the hideout. His name was Henry Legolant, and he was the true master of the mansion. Henry is able to change the mansion into any form he chooses and had been watching over the rest of the Black Bulls ever since Yami had given him a cloak. He fights alongside his precious friends to protect their home.",
+		"number": 90,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7241657.jpg",
+		"airDate": "2019-07-02T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-89",
+		"title": "The Black Bulls' Hideout",
+		"description": "Yami is summoned to the Golden Dawn so Captain Vangeance can apologise for Langris injuring Finral. Vanessa leaves to visit Finral, Magna leaves to train alone and Charmy leaves to search for new ingredients. Gauche, Grey and Gordon remain behind. Gauche becomes interested in why all the rooms keep rearranging and recalls stories Charmy and Vanessa told of seeing a ghost. The base is suddenly attacked by zombies summoned by Rades Spirito, along with Sally and Valtos. Gauche destroys the zombies before learning from Sally that Licht has forbidden them from killing him. Sally reinforces one of the zombies, making it more powerful, but it is destroyed by Gordon’s poison magic. She tries to attack with her gel salamander, but Grey uses transformation magic to turn the gel to crystal, which Gauche shatters. Rades summons a new zombie, No. 0 Mikael Caesar, which is made from the corpses of two squad captains and uses both Wind and Plant magic. Zombies swarm into the base, infuriating Grey and Gordon, who consider the base to be their real home, and they both speak loudly and clearly for the first time that they will protect it. An alarm suddenly sounds from the base which violently rearranges itself in response to being invaded, revealing a mage with long, light blue hair concealed inside, who demands to know what is going on.",
+		"number": 89,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7230952.jpg",
+		"airDate": "2019-06-25T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-88",
+		"title": "Storming the Eye of the Midnight Sun's Hideout!!!",
+		"description": "Asta and Noelle visit Leopold in hospital where Fuegoleon is still in a coma. Having both received encouragement from Fuegoleon Asta and Noelle swear to defeat the Midnight Sun on his behalf. Asta shares his confusion with Noelle about something Vetto said about not being able to forgive humans. Klaus warns them to be vigilant against the Midnight Sun's spies, though as they leave a shadow attaches itself to Asta and follows them. Klaus worries that despite being the strongest knights in the kingdom; most of the Royal Knights are also some of the worst troublemakers, such as Luck and Zora. The shadow attempts to spy on Mereoleona but she spots and exposes it as a spy whom she captures and interrogates. She decides they will attack the Midnight Sun in the morning rather than in three days, though Zora suspects she always intended to do so. To infiltrate the Midnight Sun's hideout they split into teams with orders to reach the centre by any means necessary. Mereoleona teams up with Asta and Zora. As the battle begins Rhya decides to join the battle, activating the Third Eye in his forehead while secretly revealing Licht is not in the hideout but is somewhere else entirely.",
+		"number": 88,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7222712.jpg",
+		"airDate": "2019-06-18T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-87",
+		"title": "Formation of the Royal Knights",
+		"description": "Asta, Noelle, and Luck are suddenly taken away by Captain Mereoleona, who suddenly dropped in at the Black Bulls’ base. It just so happened the three of them had passed the Royal Knights Selection Exam. The other Magic Knights who passed had also gathered, including the two Magic Knights who fought a fierce battle in the finals, Yuno and the captain of the Aqua Deer, Rill. They were then informed that there would be one more member of the Black Bulls joining them, and it happened to be... Finally, Captain Nozel from the Silver Eagles also joined them as the captain of the Royal Knights, Mereoleona prepped them for their battle against the Eye of the Midnight Sun.",
+		"number": 87,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7210784.jpg",
+		"airDate": "2019-06-11T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-86",
+		"title": "Yami and Vangeance",
+		"description": "Several years later both Yami and Vangeance were promoted to vice-captain while their former captain became the Wizard King. The Wizard King asked Yami and Vangeance to deal with a bandit group, hoping to identify a traitorous magic knight. Vangeance spread false information, limiting the number of villages the bandits could attack to only two and sent Yami to one while he went to the other. The bandits attacked Yami’s village and Yami found himself facing the bandit leader who escaped years ago, now armed with a powerful magic staff. Yami defeated him regardless but was trapped by two traitorous magic knights, Goht of the Crimson Lions and Mohl of the Silver Eagles. They attempted to kill Yami to cover up their crimes but Yami was rescued by Vangeance and they defeated the traitors. The Wizard King promoted Yami and Vangeance to Squad Captains. Yami decided to only accept hooligans and outcasts and formed the Black Bulls while Yami formed the Golden Dawn and only accepted strong nobles. Asta fails to see the point of Yami’s story, to never quit no matter how many times Yuno beats him, and is punished for being an idiot. Asta regains his former spirit and joins the other Bulls waiting for the exam results, only for the sudden and violent arrival of Mereoleona of the Crimson Lions.",
+		"number": 86,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7198891.jpg",
+		"airDate": "2019-06-04T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-85",
+		"title": "Together in the Bath",
+		"description": "Having failed to face Yuno in a duel Asta becomes depressed and unresponsive to the Bulls efforts to cheer him up. The other Bulls are all nervous about the results of the exam and excited to find out which of them has been chosen as a Royal Knight. To snap them all out of their odd behaviour Yami orders them to participate in a team bath. While in the bath Yami reminisces about his past when he first joined the Grey Deer squad, now known as the Aqua Deer squad, with the Wizard King as his squad captain. He was hired by villagers to protect their harvest from bandits in exchange for food since the villagers had no money. Yami agreed but while fighting the bandits was overwhelmed by their numbers, until he received help from Captain Vangeance, who at that time was only another member of the Grey Deer’s, not yet a captain. Together they captured all the bandits except the leader who escaped. Before going their separate ways Yami and Vangeance decided to become rivals and see who would become a Squad Captain first, and their rivalry continued for many years afterward.",
+		"number": 85,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7184091.jpg",
+		"airDate": "2019-05-28T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-84",
+		"title": "The Victors",
+		"description": "Yuno and Rill prepare to fight. Asta is upset he missed his chance to duel Yuno in the final match. Yuno and Rill begin their duel while Rill's teammates duel Noelle and En. Yuno is unable to get past Rill's defences. As Rill is a squad captain Yuno decides to use a spell he was saving for his duel with Asta. Combining his battle experience with his vast amount of mana Yuno merges himself with Sylph. Using the full power of Sylph Yuno attacks Rill, and though Rill manages to block Yuno's spell his crystal is destroyed. The Wizard King determines that Rill used so much power he accidentally blew up his own crystal, resulting in victory for Yuno, Noelle and En. The Wizard King announces that based on their performance during the exam he will select between 10 and 20 knights to become Royal Knights. The Wizard King determines that Langris was the knight being secretly manipulated by the Midnight Sun but remains suspicious that something else is going on. Despite feeling upset Asta swears to Yuno that he will catch up to him one day. As he is leaving Zora is confronted by the Wizard King who reveals he knew Zora's father, Zara, and that he created the star system to honour Zara, so that magic knights would get recognition for their deeds, whether they are noble or peasant. He further reveals he plans to make Zora a Royal Knight, but suggests that from now on Zora only wear the robes of the magic squad he already belongs to.",
+		"number": 84,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7170747.jpg",
+		"airDate": "2019-05-21T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-83",
+		"title": "Burn It into You",
+		"description": "Langris manages to send several spatial attacks past Zora's trap, but Zora reveals he had inscribed a trap onto his own body and Langris' spells are reflected back at him. Langris survives using even more powerful magic while Zora is left exhausted. Langris boasts of his superiority and attacks the weakened Zora but has his spells nullified by Asta in his demon form. Asta admits he admires Langris' abilities but has no respect for his forgetting that the exam was supposed to be about working together. Langris tries killing Asta but is knocked out, causing his crystal to be destroyed. At the same moment Asta's own crystal falls apart and their match is declared a draw. As always Zora both mocks and gives advice to everyone, including himself for not trusting his teammates. Asta passes out surrounded by all the magic knights who agree they must work together. The next match is Luck's team against Captain Rill's. Luck, Klaus and Puli combine their magic into a super-fast lightning arrow, but Rill redirects it, destroying their crystal instantly. In the next match Yuno beats the opposing team by himself without help from Noelle or En. The Wizard King announces that the final match will be Yuno, Noelle and En versus Captain Rill's team.",
+		"number": 83,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7160351.jpg",
+		"airDate": "2019-05-14T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-82",
+		"title": "Clover Clips: The Nightmarish Charmy Special!",
+		"description": "As Asta and Zora battle Langris. Charmy wanders into the forest, seeking exotic ingredients to cook something tasty for Yuno and the Wizard King. After sampling a toxic mushroom she passes out and she and her sheep chefs begin to experience vivid hallucinations in the form of short 30 second sketches that feature members of the Black Bulls and other Black Clover characters in their Chibi forms. Charmy eventually awakens and, realising she has been dreaming the whole time, resumes her search for exotic ingredients. Back on the battlefield Zora prepares to punish Langris for failing to uphold the ideals of an honourable magic knight.",
+		"number": 82,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7151328.jpg",
+		"airDate": "2019-05-07T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-81",
+		"title": "The Life of a Certain Man",
+		"description": "The Wizard King intervenes while Finral's wounds are treated. Asta insults Langris' behaviour as unworthy of a magic knight. Langris requests the Wizard King allow him to fight the Bulls for their semi-final match, then attacks Asta. The Wizard King intervenes with his Time Magic and decides to allow the fight on condition it is fought by exam rules using their normal teams. Many people notice that Langris is not acting like himself. A flashback shows that the Wizard King suspects a magic knight might be a traitor without even realising it and is using the exam to identify the unwitting knight. Langris abandons his teammates and attacks Asta, demanding that he admit Finral is weak and Langris is a true knight. Asta loses body parts but keeps fighting with help from Mimosa's healing magic. Knowing he cannot use his demon power again Asta manoeuvres Langris into Zora's trap. Zora remembers his father, a magic knight who was murdered by his own squad for being a peasant. Zora then took on the character of a doll his father gave him, a warrior who protected the country in secret, and became a vigilante specialising in punishing magic knights who abused their powers.",
+		"number": 81,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7151325.jpg",
+		"airDate": "2019-04-30T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-80",
+		"title": "Special Little Brother vs. Failed Big Brother",
+		"description": "Langris recalls how his parents doted on him and arranged for him to marry a noble lady named Finnes Calmreich, whereas Finral was neglected. Langris was enraged to find Finnes preferred the weaker Finral instead of him. Langris attacks Finral's crystal, expecting to defeat Finral easily but is shocked when Finral cancels his attack. Finral explains that when two different spatial spells collide the mana currents cancel each other out. Leopold and Hamon attack the enemy crystal and duel with Flagil. Finral teleports Sekke away to the Black Bulls base where he is punished by Yami for disturbing him on the toilet. Enraged that Finral dare stand up to him Langris prepares his most powerful attack spell. Finral, who always regretted not being closer to Langris, begs him to stop. Further enraged at Finral's attempt to act like an older brother Langris attacks and though Finral tries to fight back his crystal is destroyed and parts of his body are violently teleported away. Langris' team are declared the winners. Langris recalls that while his parents loved him for being powerful everyone else loved Finral for being kind. Unable to handle his rage Langris prepares to attack and murder the unconscious Finral, but is stopped when Asta and the Bulls furiously storm onto the battlefield to defend Finral.",
+		"number": 80,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7094990.jpg",
+		"airDate": "2019-04-23T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-79",
+		"title": "Mister Delinquent vs. Muscle Brains",
+		"description": "Sol hides their crystal inside her golem and traps Mimosa. Magna attacks with a new fireball Asta is unable to deflect. Kirsch dreams of a starving peasant child he saw stealing and felt only disgust. Sol remembers when she was almost kidnapped by bandits and a boy who had promised to protect her was too scared to fight, and she was saved by Captain Charlotte instead. Sol berates Kirsch for fighting only for selfish reasons. Asta begins to anticipate Magna's attacks and Zora casts a trap that knocks Magna unconscious. Kirsch tries to unleash his full power on Asta but is caught in another trap and knocked out by Asta again. Sol finds her golem has been infiltrated by Mimosa's plants, allowing Asta to destroy the crystal. Zora points out where Sol, Magna and Kirsch need improvements. Mimosa recalls the starving child being fed by another starving child which made her realise that a peasant's difficult life can sometimes make them the kindest people.",
+		"number": 79,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7094989.jpg",
+		"airDate": "2019-04-16T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-78",
+		"title": "Peasant Trap",
+		"description": "Much to the irritation of both the Clover King and Solid, Asta and Yuno have made it through the first round. For the second round Asta's team face Kirsch's team. Zora looks forward to his chance to humiliate a royal. Asta confronts Zora about his cheating, but Zora points out he has not technically broken any rules. Kirsch covers the entire battlefield in a storm of flower petal illusion magic. Asta uses the Anti-magic demons power to perform a new move, Black Hurricane, which erases the petals, nullifies Kirsch's illusions and even nullifies all Zora's traps. Zora is irritated until Asta tells him he never cared about his tactics; he only wanted them to work as a team. Zora has a flashback to his father and decides to cooperate by revealing how his magic works. Kirsch is furious his beautiful spell was ruined by Asta’s peasant magic, and abandons Magna and Sol to attack alone. Asta tries to draw him into Zora's new traps but Kirsch avoids them with detection magic. He begins to attack Asta but suddenly falls into a pit Zora dug by hand, so as to avoid it being discovered by Kirsch’s detection magic. Asta then knocks the furious Kirsch unconscious and thanks Zora for working as a team.",
+		"number": 78,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7094988.jpg",
+		"airDate": "2019-04-09T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-77",
+		"title": "Bad Blood",
+		"description": "Klaus and Luck demonstrate how their skills have improved and after a short fight they are victorious as Luck defeats Rob with a powerful lightning kick that also destroys the crystal. Noelle is teamed with Yuno and En Ringard from the Green Praying Mantises. The instant the match begins Solid is determined to defeat and mock Noelle. Taking advantage of this Noelle moves to attack Solid's crystal knowing he will be unable to resist chasing her. Yuno faces Alecdora Sandler, a fellow Golden Dawn member who hates Yuno for becoming Vangeance's favourite despite being a peasant. Solid's teammate Dmitri Brint is immobilised by En's Mushroom magic. Noelle faces Solid alone and though Solid scratches her face she realises that his water magic no longer frightens her. Yuno easily defeats Alecdora without any help from Sylph. Meanwhile, Noelle finally destroys Solid's crystal with her Sea Dragon's Roar, knocking him out.",
+		"number": 77,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7094986.jpg",
+		"airDate": "2019-04-02T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-76",
+		"title": "Mage X",
+		"description": "The members of the Black Bulls show off strength that far surpasses their ranks of Junior Magic Knights. Finally, round 5 of stage 1 of the Royal Knights Selection Exam was about to begin. However, they can't seem to find the person called \"X\" on the I team, which is one of the teams that's about to fight. Finally, Mage X shows up, but they're actually...",
+		"number": 76,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7094985.jpg",
+		"airDate": "2019-03-26T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-75",
+		"title": "Fierce Battle",
+		"description": "Asta and the other Black Bulls continue to fight through stage one of the exam, trying to get to stage two. Magna ends up teaming up with the vice-captain of the Coral Peacocks, Kirsch, also happens to be Mimosa's older brother and Sol from the Blue Rose Knights. Kirsch seems to just go on about how beautiful he is and Magna and Sol don't know how to deal with the biggest narcissist they've ever met. Meanwhile, Finral ends up on a team with Leopold and Hamon and Finral was getting fired up, thinking about having to fight his brother Langris soon...",
+		"number": 75,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7050135.jpg",
+		"airDate": "2019-03-19T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-74",
+		"title": "Flower of Resolution",
+		"description": "The first round of the Royal Knights Selection Exam... Asta's team is first up to fight. Asta ends up on a team with Mimosa and a mage named Xerx Lügner. The way to win the battle is to destroy the other team's crystal. However, before the match even starts, Xerx upsets the enemy team by being rude to the Wizard King and they heavily damage Asta's team's crystal. Asta and Mimosa panic. Meanwhile, Xerx doesn't seem like he wants to do this at all and takes a break. Asta and Mimosa must now fight alone... What will they do?",
+		"number": 74,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7050133.jpg",
+		"airDate": "2019-03-12T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-73",
+		"title": "The Royal Knights Selection Test",
+		"description": "The exam to determine the Royal Knights that will fight against the Eye of the Midnight Sun. Asta and Yuno participate along with the Black Bulls, Noelle, Magna, Luck, and Finral, as well as Mimosa and Klaus from the Golden Dawn. Other Magic Knights include Leopold from the Crimson Lion Kings as well as many other notable Magic Knights. The Wizard King then announces the teams that will be participating in the Royal Knights Selection Exam.",
+		"number": 73,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7050132.jpg",
+		"airDate": "2019-03-05T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-72",
+		"title": "St. Elmo’s Fire",
+		"description": "Asta and Yuno end up seeing Mereoleona scolding the members of the Crimson Lion Kings after the Star Festival. Mereoleona is the older sister of their former captain, Fuegoleon, and was unhappy with their performance at the Star Festival. She calls her brother a fool and Leopold and the other squad members defend him. She then says they're going to a volcano for a training camp and also ends up taking Asta, Yuno, Yami, Charlotte and Noelle with them as well...",
+		"number": 72,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7003068.jpg",
+		"airDate": "2019-02-26T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-71",
+		"title": "The Uncrowned, Undefeated Lioness",
+		"description": "Asta and Yuno end up seeing Mereoleona scolding the members of the Crimson Lion Kings after the Star Festival. Mereoleona is the older sister of their former captain, Fuegoleon, and was unhappy with their performance at the Star Festival. She calls her brother a fool and Leopold and the other squad members defend him. She then says they're going to a volcano for a training camp and also ends up taking Asta, Yuno, Yami, Charlotte and Noelle with them as well...",
+		"number": 71,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7003066.jpg",
+		"airDate": "2019-02-19T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-70",
+		"title": "Two New Stars",
+		"description": "The Star Festival finally reaches its climax. The ranking of each Magic Knight squad is about to be announced. As the crowd watches in anticipation, the Golden Dawn is announced as taking first place, but then the Black Bulls get announced as taking second place?! On top of that, Asta and Yuno both get called up to the stage for the excellent work they had done. Both of them had worked hard to achieve everything they could for their respective squads and now, they'll get a chance to achieve something even more!",
+		"number": 70,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7003064.jpg",
+		"airDate": "2019-02-12T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-69",
+		"title": "The Briar Maiden's Melancholy",
+		"description": "Asta ends up passing a group of guys at the Star Festival who all seem to be looking in the direction of a beautiful woman. This beautiful woman happened to be the captain of the Blue Rose Knights, Charlotte, who was forced to wear a dress by one of her squad members, Sol Marron. Charlotte isn't very fond of men, so she was getting frustrated by all the staring, but then she happens to see Yami. Yami teases Charlotte for wearing a dress and she tries to keep her cool. Vanessa then shows up and starts to feel a fierce rivalry against Charlotte...",
+		"number": 69,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7003059.jpg",
+		"airDate": "2019-02-05T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-68",
+		"title": "Battle to the Death?! Yami vs. Jack",
+		"description": "The Star Festival, the biggest festival of the year in the Clover Kingdom was about to take place. Every year the festival, the number of stars each Magic Knight squad had acquired would be announced. Captain Yami and the other Black Bulls prepare to go all out for this festival. Noelle tries to use this chance to enjoy the festival with Asta, but Asta ends up inviting some guests to the festival. The guests happened to be Kahono and Kiato...",
+		"number": 68,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/7003056.jpg",
+		"airDate": "2019-01-29T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-67",
+		"title": "A Fun Festival Double Date",
+		"description": "The Star Festival, the biggest festival of the year in the Clover Kingdom was about to take place. Every year the festival, the number of stars each Magic Knight squad had acquired would be announced. Captain Yami and the other Black Bulls prepare to go all out for this festival. Noelle tries to use this chance to enjoy the festival with Asta, but Asta ends up inviting some guests to the festival. The guests happened to be Kahono and Kiato...",
+		"number": 67,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6993246.jpg",
+		"airDate": "2019-01-22T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-66",
+		"title": "The Secret of the Eye of the Midnight Sun",
+		"description": "Asta and the others safely return to the Black Bulls' base after defeating the Eye of the Midnight Sun and the Diamond Kingdom in the Witches' Forest. Now that Asta's arms have healed, the Black Bulls as well as Yuno, Klaus, and Mimosa are relieved. However, there's no telling when the Eye of the Midnight Sun or the Diamond Kingdom will try to attack the Clover Kingdom again. Klaus then brings up a proposal to Yuno and Mimosa.",
+		"number": 66,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6981798.jpg",
+		"airDate": "2019-01-15T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-65",
+		"title": "I'm Home",
+		"description": "The Queen of Witches had been waiting patiently for Vanessa to awaken to her true powers, but ironically, it was those powers that helped them defeat the queen. The Queen of Witches realizes that she was wrong and heals Asta and the rest of the party, and tells Vanessa that she may do as she pleases now. They ask the queen if she knows why the Eye of the Midnight Sun is after the magic stones and she explains that both the swords Asta has as well as the magic stones all belonged to the legendary elf tribe that no longer exists...",
+		"number": 65,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6954173.jpg",
+		"airDate": "2019-01-08T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-64",
+		"title": "The Red Thread of Fate",
+		"description": "As promised, Asta and the others get rid of the invaders who attacked the Witches' Forest. However, the Queen of Witches was after Asta and his swords to begin with. She uses a spell to make Asta her puppet and tries to get him to kill his own friends. Vanessa begs the queen to stop, but she refuses. But in her helplessness, Vanessa ends up awakening to a new spell...",
+		"number": 64,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6944372.jpg",
+		"airDate": "2018-12-25T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-63",
+		"title": "Not in the Slightest",
+		"description": "Asta loses consciousness after Ladros's attack and the Queen of Witches tries to use this opportunity to awaken Asta's true powers. Meanwhile, Asta ends up waking up in a strange space, and he realizes there's a giant being in front of him. The being offers to lend him strength in exchange for Asta's body, but Asta declines. Asta finally regains consciousness and seems to have powers that Noelle and the others had never seen before...",
+		"number": 63,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6936617.jpg",
+		"airDate": "2018-12-18T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-62",
+		"title": "Bettering One Another",
+		"description": "Working alongside Mars, Asta is able to stop Fana from self-destructing. Fana regains her senses and they ask her what happened. However, Fana doesn't remember the events that happened after she had lost consciousness, other than she felt the strong need to take back the magic stones and that she was being controlled by someone's extreme hatred. Meanwhile, Ladros, who they thought they'd defeated, comes back even stronger and attacks them. The attack was so sudden that everyone didn't have time to react. Asta tries to face Ladros alone, and...",
+		"number": 62,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6927390.jpg",
+		"airDate": "2018-12-11T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-61",
+		"title": "The Promised World",
+		"description": "Fanzell ends up bring Mars and Ladros to where Asta was fighting. In order to defeat Ladros who absorbs the magic of his enemies, Fanzell thinks of a plan to have Asta's anti-magic counter that. Asta doesn't really understand what's going on but does what Fanzell asks him to do. He bats away Fana's spirit magic with his sword. Meanwhile, Mars sees Fana, and...",
+		"number": 61,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6919413.jpg",
+		"airDate": "2018-12-04T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-60",
+		"title": "Defectors' Atonement",
+		"description": "While Asta and the other Black Bulls were fighting with Fana, Fanzell was facing off with the forces of the Diamond Kingdom, which he used to be a part of. The forces happen to be led by two of Fanzell's former students, Ladros and Mars. Fanzell left the Diamond Kingdom because he didn't agree with the kingdom's methods, but before, he would train children on how to use their powers for the Diamond Kingdom. Fanzell tries to reason with his former students, but Ladros attacks regardlessly, forcing Fanzell to fight with them.",
+		"number": 60,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6911635.jpg",
+		"airDate": "2018-11-27T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-59",
+		"title": "Flames of Hatred",
+		"description": "Noelle uses her water magic to try to put out the fires that have sprouted up around the forest while Asta, Finral, and Vanessa confront another member of the Third Eye, Fana. Asta tries to reason with Fana by talking to her, but that quickly gets shut down when Fana attacks with her fire spirit, salamander. They soon find out that Fana not only has fire magic, but other magic using different attributes...",
+		"number": 59,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6903152.jpg",
+		"airDate": "2018-11-20T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-58",
+		"title": "The Battlefield Decision",
+		"description": "While Asta and the others were meeting with the Queen of Witches, the forces of the Diamond Kingdom and the Eye of the Midnight Sun were getting closer to the Witches' Forest. The party asks the Queen of Witches to cure Asta's arms so he can help protect the witches from the incoming forces. The Queen of Witches takes interest in Asta's anti-magic sword and cures Asta's arms. The party splits up into two different teams to go face off with both of the incoming forces.",
+		"number": 58,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6894638.jpg",
+		"airDate": "2018-11-13T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-57",
+		"title": "Infiltration",
+		"description": "Noelle and Finral go to visit Asta's sword instructor, Fanzell, in hopes that he'd know a way to fix Asta's arms. Fanzell's fiancee, Domina, tells them that the Queen of Witches in the Witches' Forest should be able to dispel ancient curses, so they go to visit her. They eventually get Asta as well as Mariella to tag along and Domina leads them to the forest. However an incident occurs and their infiltration soon gets found out. They manage to bust into the Queen of Witches's mansion, but she already had a prior guest. It was Vanessa, who also came from the Witches' Forest just like Domina...",
+		"number": 57,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6840634.jpg",
+		"airDate": "2018-11-06T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-56",
+		"title": "The Man Named Fanzell, Continued",
+		"description": "A few months after being trained by Fanzell, he suddenly shows up at the Black Bulls' base. Fanzell recognized Noelle's staff and wanted to ask her about it. It was created by his fiancee, Domina, and he was thankful to find another clue as to her whereabouts. But then, more assassins who are after Fanzell also appear at the Black Bulls' base...",
+		"number": 56,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6840633.jpg",
+		"airDate": "2018-10-30T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-55",
+		"title": "The Man Named Fanzell",
+		"description": "Asta first met Fanzell Kruger shortly after he received his grimoire. He runs into him while training with his new anti-magic sword.  Fanzell uses wind magic and is able to turn wind into a sword so he helps Asta train. One day while they’re in the forest, someone comes for Fanzell’s life..",
+		"number": 55,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6840629.jpg",
+		"airDate": "2018-10-23T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-54",
+		"title": "Never Again",
+		"description": "After Kiten is successfully protected Yami introduces Asta to a recovery mage named Owen that works directly under the Wizard King so he can get his arms healed. Owen is known as the most powerful recovery mage in the Clover Kingdom, but Asta's arms were in a horrific condition. Finral happens to walk by the room when Owen tells Asta something about his injury, and then he tells the rest of the Black Bulls, who are shocked. The Black Bulls go to check on Asta and see that he's still not discouraged at the bad news, and they all come to a decision...",
+		"number": 54,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6840625.jpg",
+		"airDate": "2018-10-16T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-53",
+		"title": "Behind the Mask",
+		"description": "During the attack on the Clover Kingdom by the Diamond Kingdom, Yami saves the captain of the Golden Dawn, William Vangeance, from Lotus's attack. Yami then asks William a question that's been on his mind for quite some time. Meanwhile, Asta runs into Yuno in Kiten and they are confronted by Finral's younger half-brother, Langris. Langris was always beaming with potential and joined the elite Magic Knight Squad of the Golden Dawn and became the vice-captain. He also despises his older brother Finral and considers him a total failure. Langris mocks his brother as well as the other Black Bulls and Finral finally stands up to him...",
+		"number": 53,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6840619.jpg",
+		"airDate": "2018-10-09T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-52",
+		"title": "Whoever's Strongest Wins",
+		"description": "The Golden Dawn continue fighting the Diamond forces. The Diamonds soon realize they are about to be overpowered when William uses his world tree magic, basically ending the fight.",
+		"number": 52,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6832458.jpg",
+		"airDate": "2018-10-02T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-51",
+		"title": "Proof of Rightness",
+		"description": "After Captain Yami saved the Black Bulls in the Underwater Temple, Yami and Asta return the stone to the Wizard King and report what happened when suddenly a large enemy force arrives at one of the Clover border cities near the Diamond Kingdom... a Great Enemy has appeared, but the Golden Dawn Magical Knights Squad is rushing in.",
+		"number": 51,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616138.jpg",
+		"airDate": "2018-09-25T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-50",
+		"title": "End of the Battle, End of Despair",
+		"description": "The members of the Black Bulls all surpassed their limits and defeated a powerful enemy. They manage to safely get the magic stone and successfully complete their mission, and all the members other than Captain Yami go recuperate.",
+		"number": 50,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616136.jpg",
+		"airDate": "2018-09-18T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-49",
+		"title": "Beyond Limits",
+		"description": "Asta’s sword finally manages to take down Vetto! But that was all a part of Vetto’s plan. He manages to steal Asta’s sword and break his arm. Vetto proudly proclaims victory, but Asta doesn’t give up hope.",
+		"number": 49,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616135.jpg",
+		"airDate": "2018-09-11T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-48",
+		"title": "Despair vs. Hope",
+		"description": "Asta continues his attacks against Vetto with support from Vanessa and Finral. They finally manage to land a blow on Vetto, but it’s not very effective. Vanessa and Finral remember when they were younger and much weaker.",
+		"number": 48,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616132.jpg",
+		"airDate": "2018-09-04T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-47",
+		"title": "The Only Weapon",
+		"description": "Despite being greatly injured in the battle against Vetto, Asta stands up to face him again. Seeing this, Vanessa and Finral come to assist Asta, too.",
+		"number": 47,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616130.jpg",
+		"airDate": "2018-08-28T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-46",
+		"title": "Awakening",
+		"description": "Kahono and Noelle reach Asta and the others. Noelle is astonished at how powerful Vetto is, but Kahono remains confident. She is the granddaughter of Gifso and cherishes everyone at the Underwater Temple, which she is willing to do anything to protect.",
+		"number": 46,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616128.jpg",
+		"airDate": "2018-08-21T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-45",
+		"title": "The Guy Who Doesn't Know When to Quit",
+		"description": "Magna, Luck, and Gio, the most powerful Underwater Temple mage, risk their lives fighting Vetto. Asta and Kahono’s older brother, Kiato, also arrive at the scene.",
+		"number": 45,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616126.jpg",
+		"airDate": "2018-08-14T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-44",
+		"title": "The Pointlessly Direct Fireball and the Wild Lightning",
+		"description": "One of the members of the Third Eye, Vetto, appears at the Underwater Temple along with his underlings.\n",
+		"number": 44,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616125.jpg",
+		"airDate": "2018-08-07T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-43",
+		"title": "Temple Battle Royale",
+		"description": "The black bulls decide to go along with the Game presented within the Underwater Temple complex, 9 Fantastic Temple Priests leap into action against our heroes. Yami decides to drink with the Temple Master during the Event Until uninvited guests arrive.",
+		"number": 43,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616124.jpg",
+		"airDate": "2018-07-31T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-42",
+		"title": "The Underwater Temple",
+		"description": "Because of Noelle’s hard work, the Black Bulls are able to get through the harsh mana currents and safely arrive at the Underwater Temple. Everyone is nervous, since they’ve never been here before, but the underwater people welcome them with open arms.",
+		"number": 42,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616122.jpg",
+		"airDate": "2018-07-24T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-41",
+		"title": "The Water Girl Grows Up",
+		"description": "Asta and Noelle train for their upcoming mission and meet a girl named Kahono, whose dream is to become an idol who can sing, dance, and use magic.",
+		"number": 41,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616121.jpg",
+		"airDate": "2018-07-17T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-40",
+		"title": "A Black Beach Story",
+		"description": "Entrusted with a mission by the Wizard King, Asta and the other Black Bulls head to Raquey, a place that’s surrounded by strong mana. With Captain Yami gone off somewhere, the other members decide to play around on the beach in their swimsuits.",
+		"number": 40,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616120.jpg",
+		"airDate": "2018-07-10T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-39",
+		"title": "Three-Leaf Salute",
+		"description": "Thanks to Asta, Julius and Marx were able to undo the protection spell that was on the captives from the Eye of the Midnight Sun and ask them who the traitor among them was.",
+		"number": 39,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616119.jpg",
+		"airDate": "2018-07-03T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-38",
+		"title": "The Magic Knights Captain Conference",
+		"description": "The Wizard King summons Asta after his work dealing with the Eye of the Midnight Sun. Yami tells Asta he can come with him to the royal capital, since he has to go to a conference of all the Magic Knights Captains.",
+		"number": 38,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616117.jpg",
+		"airDate": "2018-06-26T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-37",
+		"title": "The One With No Magic",
+		"description": "Three of the Magic Knight captains—Jack the Ripper, Charlotte, and Nozel—appear and come to Yami and Asta's aid in fighting the Third Eye. Asta is told that his grimoire and swords belong to Licht's master, and Licht wants them back.",
+		"number": 37,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616116.jpg",
+		"airDate": "2018-06-19T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-36",
+		"title": "Three Eyes",
+		"description": "With the help of Gauche, Yami and Asta are able to defeat Licht. However, their victory is short-lived, as the three who call themselves the Third Eye appear and come to Licht’s aid.",
+		"number": 36,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616115.jpg",
+		"airDate": "2018-06-12T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-35",
+		"title": "The Light of Judgment",
+		"description": "Yami and Licht continue their battle and Asta faces off with Valtos. Meanwhile, Finral manages to get all of the kids and Theresa back to the town and Theresa gets treated for her injuries.",
+		"number": 35,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616114.jpg",
+		"airDate": "2018-06-05T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-34",
+		"title": "Light Magic vs. Dark Magic",
+		"description": "After defeating Sally and Baro, Asta and Gauche suddenly end up having to face Licht, the leader of the Eye of the Midnight Sun. Licht's attacks are too fast for Asta to see, and he gets injured.",
+		"number": 34,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616113.jpg",
+		"airDate": "2018-05-29T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-33",
+		"title": "To Help Somebody Someday",
+		"description": "Sally’s gel magic is extremely incompatible with Gauche’s mirror magic. She uses her dark magic item and turns Baro into a giant mud monster, which makes Gauche take Marie and flee.",
+		"number": 33,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616112.jpg",
+		"airDate": "2018-05-22T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-32",
+		"title": "Three-Leaf Sprouts",
+		"description": "Asta and the others arrive at the dungeon where the children were being held. Seeing that Marie was hurt by the enemy, Gauche loses his mind. Asta is enraged at the fact that the children had their magic stolen, and he and Gauche go after Baro and Neige.",
+		"number": 32,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616111.jpg",
+		"airDate": "2018-05-15T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-31",
+		"title": "Pursuit Over the Snow",
+		"description": "Asta, Gauche, and Theresa go to find the abducted children. Gauche is able to track the faint trace of mana from the magic mirror that Marie always carries with her. On their way there, Asta spots Marco in the snow and goes to him.",
+		"number": 31,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616109.jpg",
+		"airDate": "2018-05-08T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-30",
+		"title": "The Mirror Mage",
+		"description": "The Black Bulls get a day off after getting paid, and Gauche goes to visit his beloved little sister Marie. To his surprise, he finds Asta already there and playing with her.",
+		"number": 30,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616108.jpg",
+		"airDate": "2018-05-01T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-29",
+		"title": "Path",
+		"description": "Months have passed since Asta and Yuno became Magic Knights and took their first steps toward becoming the Wizard King. Father and Sister Lily couldn’t be happier about all of their hard work.",
+		"number": 29,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616107.jpg",
+		"airDate": "2018-04-24T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-28",
+		"title": "The One I've Set My Heart On",
+		"description": "Finral invites Asta and Luck to go to a mixer with him. Noelle hears about this and ends up following them because she’s concerned about Asta. To deepen her cover, she even gets a job at the pub they go to.",
+		"number": 28,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616106.jpg",
+		"airDate": "2018-04-17T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-27",
+		"title": "Light",
+		"description": "The one who saved Asta from the group calling themselves the Eye of the Midnight Sun was the Wizard King, Julius, who was waiting for them at their base. Asta and the members of the Eye of the Midnight Sun are in awe of Julius’s power.",
+		"number": 27,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616105.jpg",
+		"airDate": "2018-04-10T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-26",
+		"title": "Wounded Beasts",
+		"description": "More enemies appear before Asta and the others. Despite being badly wounded, Asta and Leopold haven’t lost their fighting spirit, and they charge at the new enemies. The enemies realize how dangerous they are and try to kill them immediately.",
+		"number": 26,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6616103.jpg",
+		"airDate": "2018-04-03T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-25",
+		"title": "Adversity",
+		"description": "Captain Fuegoleon is swallowed up by spatial magic right in front of Asta and the others. Noelle realizes that the spellcaster must be nearby, since the spell pinpointed Fuegoleon. Asta finds the spellcaster, but something unbelievable happens next.",
+		"number": 25,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6608902.jpg",
+		"airDate": "2018-03-27T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-24",
+		"title": "Blackout",
+		"description": "While the masses were praising the Magic Knights for saving them, most of the Magic Knights present are swallowed up by a spatial magic spell known as Blackout.",
+		"number": 24,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6567515.jpg",
+		"airDate": "2018-03-20T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-23",
+		"title": "The King of the Crimson Lions",
+		"description": "Thanks to Noelle’s help, Asta is now able to concentrate on the battle. However, because of the attack he took earlier, Asta continues to lose stamina and isn’t able to move as well as he’d like.",
+		"number": 23,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6567514.jpg",
+		"airDate": "2018-03-13T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-22",
+		"title": "Wild Magic Dance",
+		"description": "After hearing about the attack on the capital, Asta rushed out, and the rest of the Magic Knights quickly followed. They found that corpses being controlled by Rades’s wraith magic were attacking the citizens.",
+		"number": 22,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6555957.jpg",
+		"airDate": "2018-03-06T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-21",
+		"title": "Capital Riot",
+		"description": "Asta defends Noelle from her siblings at the decoration ceremony, and the other nobles try to put him in his place. Meanwhile, Leopold and Fuegoleon seem to have taken a liking to Asta, which causes an argument between Fuegoleon and Nozel.",
+		"number": 21,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6555956.jpg",
+		"airDate": "2018-02-27T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-20",
+		"title": "Assembly at the Royal Capital",
+		"description": "Asta and Noelle head to the Magic Knights Headquarters in the Noble Realm to report on their mission to capture the dungeon. On their way, they run into Yuno, Klaus, and Mimosa, and they all head to the headquarters together.",
+		"number": 20,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6551309.jpg",
+		"airDate": "2018-02-20T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-19",
+		"title": "Destruction and Salvation",
+		"description": "Asta is gravely injured in the battle against Mars and collapses. Despite his own injuries, something drives Mars onward, and he tries to finish off Asta.",
+		"number": 19,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6397301.jpg",
+		"airDate": "2018-02-13T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-18",
+		"title": "Memories of You",
+		"description": "Asta, Yuno and the others finally get to the treasure chamber, and they’re in awe at the mountain of treasure in front t of them. Yuno finds a strange scroll with strange writing, and then his grimoire does something strange.",
+		"number": 18,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6397300.jpg",
+		"airDate": "2018-02-06T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-17",
+		"title": "Destroyer",
+		"description": "In order to go to the treasure chamber together with his friends, Yuno confronts Mars alongside Klaus, so that the injured Mimosa can heal herself. But they have a hard time harming Mars at all.",
+		"number": 17,
+		"image": "https://artworks.thetvdb.com/banners/series/331753/episodes/5edf9b8dc0884.jpg",
+		"airDate": "2018-01-30T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-16",
+		"title": "Friends",
+		"description": "Yuno, Mimosa, and Klaus get close to the treasure chamber in the dungeon. However, a mage from the Diamond Kingdom named Mars gets in their way.",
+		"number": 16,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6397046.jpg",
+		"airDate": "2018-01-23T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-15",
+		"title": "The Diamond Mage",
+		"description": "Yuno, Klaus, and Mimosa from the Golden Dawn appear in front of Asta and Noelle, apparently sent on the same mission. Klaus mocks the Black Bulls for their awful reputation and gets in an argument with Asta.",
+		"number": 15,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6397044.jpg",
+		"airDate": "2018-01-16T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-14",
+		"title": "Dungeon",
+		"description": "A dungeon appeared near the border of the Clover Kingdom and the Diamond Kingdom. The dungeon is like an ancient ruin. It may contain important treasures, but they're guarded by various magical traps.",
+		"number": 14,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6397042.jpg",
+		"airDate": "2018-01-09T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-13",
+		"title": "The Wizard King Saw, Continued!",
+		"description": "While on an escort mission, Yuno, Klaus and Mimosa are attacked by a mysterious group of men. Klaus senses that they’re in danger and wants to escort Salim as quickly as possible, but Salim insists on visiting Yuno’s hometown, Hage Village.",
+		"number": 13,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6321504.jpg",
+		"airDate": "2017-12-26T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-12",
+		"title": "The Wizard King Saw",
+		"description": "As they were visiting the Black Market, Asta and the others see an old woman get robbed, and Asta goes after the thief.",
+		"number": 12,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6319773.jpg",
+		"airDate": "2017-12-19T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-11",
+		"title": "What Happened on a Certain Day in the Castle Town",
+		"description": "After Asta, Magna, and Noelle saved the villagers of Saussy Village, the Wizard King gives the Black Bulls a star of honor. Asta and Noelle also receive their first pay as Magic Knights, and Asta is filled with happiness.",
+		"number": 11,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6319772.jpg",
+		"airDate": "2017-12-12T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-10",
+		"title": "Guardians",
+		"description": "Asta, Noelle, and Magna are doing their best to protect the villagers of Rayaka from the ice magic user Heath and his underlings, but Asta’s attacks don’t seem to be working, and Magna’s magical powers are running low.",
+		"number": 10,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6319771.jpg",
+		"airDate": "2017-12-05T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-9",
+		"title": "Beasts",
+		"description": "On Yami’s orders, Asta and Noelle go on their first mission with Magna to hunt wild boars. They successfully complete the mission and go to Saussy Village to meet with the mayor, Seyhe.",
+		"number": 9,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6319770.jpg",
+		"airDate": "2017-11-28T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-8",
+		"title": "Go! Go! My First Mission",
+		"description": "The Magic Knights: heroes that everyone in the kingdom looks up to and dreams of becoming one day. But the new recruit, Asta, has yet to do anything that seems like what a Magic Knight should be doing, as he’s stuck doing random chores.",
+		"number": 8,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6319769.jpg",
+		"airDate": "2017-11-21T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-7",
+		"title": "Another New Member",
+		"description": "As a new member of the Black Bulls, Asta is thrilled to receive his very first private room, even though it's tiny. Everything Asta sees as Magna shows him around the squad's base is new and exciting to him.",
+		"number": 7,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6319768.jpg",
+		"airDate": "2017-11-14T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-6",
+		"title": "The Black Bulls",
+		"description": "Asta has arrived at the home of the Black Bulls, which Yami himself called the absolute worst Magic Knights Squad. He is greeted by the squad's unique members.",
+		"number": 6,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6319767.jpg",
+		"airDate": "2017-11-07T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-5",
+		"title": "The Road to the Wizard King",
+		"description": "The entrance exam finally comes to a close. The time has arrives for the captains to decide which candidates they want to join their squads.\n",
+		"number": 5,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6279075.jpg",
+		"airDate": "2017-10-31T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-4",
+		"title": "The Magic Knights Entrance Exam",
+		"description": "Asta and Yuno head toward the colosseum in the royal capital for the Magic Knights Entrance Exam, while looking around and admiring all the things they’ve never seen before.",
+		"number": 4,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6279074.jpg",
+		"airDate": "2017-10-24T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-3",
+		"title": "To the Royal Capital!",
+		"description": "Asta and Yuno spend six months training for the upcoming Magic Knights Entrance Exam. Everyone seems to think Yuno is sure to pass, but worries that Asta is just wasting his time.",
+		"number": 3,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6279073.jpg",
+		"airDate": "2017-10-17T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-2",
+		"title": "A Young Man's Vow",
+		"description": "Yuno's book was stolen by Lebuty. Helpless without it, Asta jumps in to fight despite having no magic of his own to defend himself...or does he?",
+		"number": 2,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6279072.jpg",
+		"airDate": "2017-10-10T00:00:00.000Z"
+	}, {
+		"id": "black-clover-tv-episode-1",
+		"title": "Asta and Yuno",
+		"description": "Asta and Yuno were orphaned boys who grew up together, but one was more fortunate than the other when it came to magic. When the day comes to receive their magical books, a grimoire, Yuno receives an extremely rare one while Asta does not receive one at all...",
+		"number": 1,
+		"image": "https://artworks.thetvdb.com/banners/episodes/331753/6279071.jpg",
+		"airDate": "2017-10-03T00:00:00.000Z"
+	}]
+}
