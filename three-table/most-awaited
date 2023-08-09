@@ -17,15 +17,16 @@
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-ECZSqfknAqAT.jpg"
 	},
+	{
+		"animeId": "classroom-of-the-elite-season-3",
+		"name": "Classroom of the Elite Season 3",
+		"jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+		"episodeNum": null,
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-8aj3m7OA6P6P.png"
+	},
 
-    {
-        "animeId": "ben-10-omniverse",
-        "name": "Ben 10: Omniverse",
-        "jname": "Ben 10: Omniverse",
-        "episodeNum": "80",
-        "subOrDub": "dub",
-        "imgUrl": "https://www.themoviedb.org/t/p/original/Re9I5tauOspaJxYCIqRqavKT4F.jpg"
-    },
     {
         "animeId": "ben-10-ultimate-alien",
         "episodeId": "ben-10-ultimate-alien-episode-1",
