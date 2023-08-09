@@ -1,68 +1,29 @@
 [
 	{
-		"animeId": "death-note",
-		"episodeId": "death-note-episode-1",
-		"name": "Death Note",
-		"jname": "DEATH NOTE",
-		"episodeNum": "37",
-		"subOrDub": "dub",
+		"animeId": "fullmetal-alchemist",
+		"name": "Fullmetal Alchemist",
+		"jname": "Hagane no Renkinjutsushi",
+		"sub": 51,
+		"dub": 51,
 		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg",
-		"episodeUrl": "../anime/death-note"
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png"
 	},
-{
-		"animeId": "worlds-end-harem",
-		"episodeId": "worlds-end-harem-episode-1",
-		"name": "World's End Harem",
-		"jname": "Shuumatsu no Harem",
-		"episodeNum": "11",
-		"subOrDub": "sub",
+	{
+		"animeId": "fullmetal-alchemist",
+		"name": "Fullmetal Alchemist",
+		"jname": "Hagane no Renkinjutsushi",
+		"sub": 51,
+		"dub": 51,
 		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118465-EGB0OajA5rei.jpg",
-		"episodeUrl": "../anime/worlds-end-harem",
-		"isAdult": true
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png"
 	},
-
-        {
-            "animeId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
-            "episodeId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen-episode-1",
-            "name": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
-            "jname": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
-            "episodeNum": "3",
-            "subOrDub": "sub",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154541-uw1iAxNKdUAf.png",
-            "type": "special",
-            "episodeUrl": "anime/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen"
-        },
-        {
-            "animeId": "kimetsu-no-yaiba",
-            "episodeId": "kimetsu-no-yaiba-episode-1",
-            "name": "Demon Slayer: Kimetsu no Yaiba",
-            "jname": "Demon Slayer: Kimetsu no Yaiba",
-            "episodeNum": "26",
-            "subOrDub": "dub",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-PEn1CTc93blC.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/kimetsu-no-yaiba"
-        },
-        {
-            "animeId": "kimetsu-no-yaiba-mugen-ressha-hen",
-            "episodeId": "kimetsu-no-yaiba-mugen-ressha-hen-episode-1",
-            "name": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
-            "jname": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
-            "episodeNum": "7",
-            "subOrDub": "dub",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129874-g6ZKXB94Hui1.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/kimetsu-no-yaiba-mugen-ressha-hen"
-        },        {
-            "animeId": "kimetsu-gakuen-valentinehen",
-            "episodeId": "kimetsu-gakuen-valentinehen-episode-1",
-            "name": "Kimetsu Gakuen: Valentine-hen",
-            "episodeNum": "4",
-            "subOrDub": "sub",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129627-GiVeOqDUAqUC.png",
-            "type": "ona",
-            "episodeUrl": "anime/kimetsu-gakuen-valentinehen"
-        }
+	{
+		"animeId": "jujutsu-kaisen-tv",
+		"name": "Jujutsu Kaisen",
+		"jname": "JUJUTSU KAISEN",
+		"sub": 24,
+		"dub": 24,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg"
+	}
 ]
