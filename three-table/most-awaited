@@ -3,8 +3,7 @@
 		"animeId": "the-eminence-in-shadow-season-2",
 		"name": "The Eminence in Shadow Season 2",
 		"jname": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
-		"episodeNum": "12",
-		"subOrDub": "sub",
+		"sub": 12,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161964-chUYBE29hd1y.jpg"
 	},
@@ -12,8 +11,7 @@
 		"animeId": "spy-x-family-part-2",
 		"name": "SPY x FAMILY Cour 2",
 		"jname": "SPY×FAMILY Part 2",
-		"episodeNum": "13",
-		"subOrDub": "sub",
+		"sub": 13,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-ECZSqfknAqAT.jpg"
 	},
@@ -21,8 +19,7 @@
 		"animeId": "classroom-of-the-elite-season-3",
 		"name": "Classroom of the Elite Season 3",
 		"jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
-		"episodeNum": null,
-		"subOrDub": "sub",
+		"sub": null,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-8aj3m7OA6P6P.png"
 	},
@@ -30,8 +27,7 @@
 		"animeId": "one-punch-man-season-3",
 		"name": "One Punch Man Season 3",
 		"jname": "One Punch Man 3",
-		"episodeNum": null,
-		"subOrDub": "sub",
+		"sub": null,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153800-DoZMzBojzwHz.png"
 	},
@@ -39,8 +35,7 @@
 		"animeId": "tokyo-revengers-season-3",
 		"name": "Tokyo Revengers Season 3",
 		"jname": "Tokyo Revengers: Tenjiku-hen",
-		"episodeNum": null,
-		"subOrDub": "sub",
+		"sub": null,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163329-IwFrtk7HkFQ9.jpg"
 	}
