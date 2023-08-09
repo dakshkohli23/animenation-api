@@ -9,13 +9,13 @@
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png"
 	},
 	{
-		"animeId": "fullmetal-alchemist",
-		"name": "Fullmetal Alchemist",
-		"jname": "Hagane no Renkinjutsushi",
-		"sub": 51,
-		"dub": 51,
+		"animeId": "black-clover-tv",
+		"name": "Black Clover",
+		"jname": "Black Clover",
+		"sub": 170,
+		"dub": 170,
 		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png"
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg"
 	},
 	{
 		"animeId": "jujutsu-kaisen-tv",
@@ -25,5 +25,14 @@
 		"dub": 24,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg"
+	},
+	{
+		"animeId": "bleach",
+		"name": "Bleach",
+		"jname": "BLEACH",
+		"sub": 366,
+		"dub": 366,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxkqTIuQgJ6v.png"
 	}
 ]
