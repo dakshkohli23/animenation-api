@@ -1,14 +1,13 @@
 [
 	{
-		"animeId": "demon-slayer-swordsmith-village-arc",
-		"episodeId": "demon-slayer-swordsmith-village-arc-episode-10",
-		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-		"episodeNum": 10,
-		"dub": 10,
-		"subOrDub": "dub",
+		"animeId": "pokemon-ultimate-journeys",
+		"episodeId": "pokemon-ultimate-journeys-episode-1",
+		"name": "Pokémon Ultimate Journeys: The Series",
+		"jname": "Pocket Monsters (2019)",
+		"episodeNum": 54,
+		"dub": 54,
 		"type": "tv",
-		"imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
+		"imgUrl": "../cover/pokemon-ultimate-journeys.jpg",
 		"isAdult": true
 	}
 ]
