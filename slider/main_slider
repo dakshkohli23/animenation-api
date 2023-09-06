@@ -24,5 +24,27 @@
 		"type": "TV",
 		"animeUrl": "/anime/pokemon-horizons-the-series",
 		"watchUrl": "/watch/pokemon-horizons-the-series-episode-1"
+	},
+{
+		"id": "112153",
+		"malId": 112153,
+		"title": {
+		"romaji": "Pocket Monsters (2019)",
+		"english": "Pokémon Ultimate Journeys: The Series",
+		"native": "ポケットモンスター サン＆ムーン"
+		},
+		"image": "../cover/pokemon-ultimate-journeys.jpg",
+		"trailer": {},
+		"description": "The stakes are higher than ever for Ash, Goh, and Chloe as they advance toward their goals! As the Pokémon World Coronation Series tournament heats up, intensive training is in store for Ash, Pikachu, and their Pokémon friends. Meanwhile, Goh embarks on a series of challenging trial missions to become a member of Project Mew. And as Chloe and Eevee learn about the different evolutionary paths that Eevee can take, will they be able to come to a decision about its future? Get ready for nonstop action, familiar faces from journeys past, and more Pokémon discoveries to be made!",
+		"status": "Completed",
+		"cover": "../cover/pokemon-ultimate-journeys.jpg",
+		"rating": 73,
+		"releaseDate": 2023,
+		"genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
+		"totalEpisodes": 54,
+		"duration": 24,
+		"type": "TV",
+		"animeUrl": "/anime/pokemon-ultimate-journeys",
+		"watchUrl": "/watch/pokemon-ultimate-journeys-episode-1"
 	}
 ]
