@@ -968,229 +968,364 @@
   ],
   "episodes": [
     {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-1",
-      "title": "Pokémon The Series: XY Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-2",
-      "title": "Pokémon The Series: XY Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-3",
-      "title": "Pokémon The Series: XY Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-4",
-      "title": "Pokémon The Series: XY Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-5",
-      "title": "Pokémon The Series: XY Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-6",
-      "title": "Pokémon The Series: XY Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-7",
-      "title": "Pokémon The Series: XY Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-8",
-      "title": "Pokémon The Series: XY Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-9",
-      "title": "Pokémon The Series: XY Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-10",
-      "title": "Pokémon The Series: XY Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-11",
-      "title": "Pokémon The Series: XY Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-12",
-      "title": "Pokémon The Series: XY Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-13",
-      "title": "Pokémon The Series: XY Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-14",
-      "title": "Pokémon The Series: XY Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-15",
-      "title": "Pokémon The Series: XY Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-16",
-      "title": "Pokémon The Series: XY Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-17",
-      "title": "Pokémon The Series: XY Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-18",
-      "title": "Pokémon The Series: XY Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-19",
-      "title": "Pokémon The Series: XY Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-20",
-      "title": "Pokémon The Series: XY Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-21",
-      "title": "Pokémon The Series: XY Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-22",
-      "title": "Pokémon The Series: XY Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-23",
-      "title": "Pokémon The Series: XY Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-24",
-      "title": "Pokémon The Series: XY Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-25",
-      "title": "Pokémon The Series: XY Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-26",
-      "title": "Pokémon The Series: XY Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-27",
-      "title": "Pokémon The Series: XY Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-28",
-      "title": "Pokémon The Series: XY Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-29",
-      "title": "Pokémon The Series: XY Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-30",
-      "title": "Pokémon The Series: XY Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-31",
-      "title": "Pokémon The Series: XY Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-32",
-      "title": "Pokémon The Series: XY Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-33",
-      "title": "Pokémon The Series: XY Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-34",
-      "title": "Pokémon The Series: XY Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-35",
-      "title": "Pokémon The Series: XY Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-36",
-      "title": "Pokémon The Series: XY Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-37",
-      "title": "Pokémon The Series: XY Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-38",
-      "title": "Pokémon The Series: XY Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-39",
-      "title": "Pokémon The Series: XY Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-40",
-      "title": "Pokémon The Series: XY Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-41",
-      "title": "Pokémon The Series: XY Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-42",
-      "title": "Pokémon The Series: XY Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-43",
-      "title": "Pokémon The Series: XY Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-44",
-      "title": "Pokémon The Series: XY Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-the-series-xy-kalos-quest-episode-45",
-      "title": "Pokémon The Series: XY Episode 45",
-      "number": 45
-    }
+            "id": "pokemon-the-series-xy-kalos-quest-episode-1",
+            "title": "Pathways to Performance Partnering!",
+            "description": "After Pancham and Chespin get into a fight, Ash, Serena, Clemont, and Bonnie meet Nini, a Pokémon Performer preparing for the Pokémon Showcase. Serena becomes inspired to add performances to her battle style as well and has to use it quickly when Team Rocket kidnaps Chespin, Fennekin, Pancham, and Nini's Pokémon: Smoochum and Farfetch'd. ",
+            "number": "1",
+            "image": "https://image.tmdb.org/t/p/original/6GeGxXsIZKLcDYGiWFLxaiMo7RY.jpg",
+            "air_date": "2014-11-13"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-2",
+            "title": "An Undersea Place to Call Home!",
+            "description": "The episode begins with Ash and his friends taking an excursion to the Muraille Coast before heading out to the Cyllage City for Ash's Gym battle with Grant. After lunch, Ash decides that they should work on their strategy for countering Grant's Rock Tomb, and Pikachu, Froakie, and Fletchling are all ready to train. However, Serena decides that they should do some fishing since they're at the beach and doing too much training will stress Ash out.",
+            "number": "2",
+            "image": "https://image.tmdb.org/t/p/original/uDWCEKJHGZin1h6WW13mhQoxeLh.jpg",
+            "air_date": "2014-11-20"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-3",
+            "title": "When Light and Dark Collide!",
+            "description": "Ash with the intention of helping a Snubbull disrupts a play rehearsal. This sends its star Gallade out of commission. Ash's Hawlucha and the Pokemon Theatre Director Carl's shiny Hawlucha must work together to get the play back on track while trying to deal with Team Rocket.",
+            "number": "3",
+            "image": "https://image.tmdb.org/t/p/original/gXlVc5Crobw90w7kCyyt9k2ulSe.jpg",
+            "air_date": "2014-11-27"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-4",
+            "title": "A Stealthy Challenge!",
+            "description": "Ash and his friends meet up with Sanpei and his Greninja who comes to them for help in dealing with another Ninja Trainer. They help Sanpei out, but something happens to Ash's Froakie.",
+            "number": "4",
+            "image": "https://image.tmdb.org/t/p/original/eHIx1qyXBknKrQIQIYIfFaoR86K.jpg",
+            "air_date": "2014-12-11"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-5",
+            "title": "A Race for Home!",
+            "description": "When Serena's mother Grace visits the group on their journey and learns of her daughter's new goal of becoming a Pokémon Performer, Grace wonders if her daughter is truly dedicated to her goals and challenges her to a Skiddo race to prove her determination.",
+            "number": "5",
+            "image": "https://image.tmdb.org/t/p/original/lHvIKCmBisY7rr2pPG9Vqlc43CO.jpg",
+            "air_date": "2014-12-18"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-6",
+            "title": "Facing the Grand Design!",
+            "description": "Clemont and James must work together to save their friends from the evil Malamar that they last encountered when it controlled Officer Jenny and made her assume the role of \"Madame X.\"",
+            "number": "6",
+            "image": "https://image.tmdb.org/t/p/original/3Au7SRPfoHVapDz56N6jUSi8UgU.jpg",
+            "air_date": "2014-12-25"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-7",
+            "title": "A Slippery Encounter!",
+            "description": "Ash and his friends encounter an extremely timid but friendly Goomy, which finds itself in a slippery situation when Team Rocket sets their eyes on Pikachu. ",
+            "number": "7",
+            "image": "https://image.tmdb.org/t/p/original/ayZfev6zermUi26qaqv0kLiGBfg.jpg",
+            "air_date": "2015-01-08"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-8",
+            "title": "One for the Goomy!",
+            "description": "Team Rocket kidnaps Goomy, but Dedenne manages to track them down to save its new friend. ",
+            "number": "8",
+            "image": "https://image.tmdb.org/t/p/original/pBrJTxGQTJFR0s8Dcxk9x4iEVPe.jpg",
+            "air_date": "2015-01-15"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-9",
+            "title": "Thawing an Icy Panic!",
+            "description": "Ash and his friends team up with the Coumarine City's Gym Leader to stop Team Rocket from stealing a Vanillite, which incurred the anger of its fellow Pokémon, Vanillish and Vanilluxe. ",
+            "number": "9",
+            "image": "https://image.tmdb.org/t/p/original/kztmdA3VwoqLEjzTIGW6Ng6vEkp.jpg",
+            "air_date": "2015-01-22"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-10",
+            "title": "Green, Green Grass Types of Home!",
+            "description": "Ash challenges Ramos for the Plant Badge and gets backed into a corner by his powerful Grass-type Pokémon. ",
+            "number": "10",
+            "image": "https://image.tmdb.org/t/p/original/djIZuLCUPdft0Yp22jSRDbDHisR.jpg",
+            "air_date": "2015-01-29"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-11",
+            "title": "Under the Pledging Tree!",
+            "description": "Coumarine City holds an annual festival to celebrate the bond between trainer and Pokémon. However, when Ash has trouble deciding on a present for his Pokémon, Serena helps inspire him on their shopping trip.",
+            "number": "11",
+            "image": "https://image.tmdb.org/t/p/original/zVpdli2T9xPjrf3PD3puwQJGm6e.jpg",
+            "air_date": "2015-02-05"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-12",
+            "title": "A Showcase Debut!",
+            "description": "The day of the Coumarine City Showcase arrives, and the group reunites with Shauna. Serena makes a step towards her dream but quickly learns that first times can be tough.",
+            "number": "12",
+            "image": "https://image.tmdb.org/t/p/original/67SbM8Ea86Adek2wUA9oGAWZnFB.jpg",
+            "air_date": "2015-02-12"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-13",
+            "title": "An Oasis of Hope!",
+            "description": "The gang encounters a Grumpig in the badlands, which uses its superior strength to dominate the Spoink in the area's oasis. When they end up getting captured by Team Rocket, Goomy steps up to the plate to defend its friends.",
+            "number": "13",
+            "image": "https://image.tmdb.org/t/p/original/4YUavTBLRhZNFX2ZptkBf1kD8ab.jpg",
+            "air_date": "2015-02-19"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-14",
+            "title": "The Future Is Now, Thanks to Determination!",
+            "description": "Clemont and the others arrive at the Kalos Power Plant and discover Team Rocket is manipulating the Electric Pokémon in the area.",
+            "number": "14",
+            "image": "https://image.tmdb.org/t/p/original/AozhdODqLONtUKcsC1ARIDFTLJ5.jpg",
+            "air_date": "2015-02-26"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-15",
+            "title": "A Fork in the Road! A Parting of the Ways!",
+            "description": "Jessie and Wobbuffet are separated from James and Meowth after being sent flying by Pikachu's Thunderbolt. A doctor named White then saves Jessie from drowning in a river, and she seems to fall in love with him.",
+            "number": "15",
+            "image": "https://image.tmdb.org/t/p/original/aWrHQN1j1eb9C8N0z8aZP5UvnDw.jpg",
+            "air_date": "2015-03-05"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-16",
+            "title": "Battling with Elegance And a Big Smile!",
+            "description": "Pancham and Fennekin start fighting while training with Serena for their next Pokémon Showcase, and she inadvertently yells at them. However, a person calling herself Ariana offers to teach Serena a thing or two about performance battling.",
+            "number": "16",
+            "image": "https://image.tmdb.org/t/p/original/3lHd63V1J6HefUllSrKzBq946Yk.jpg",
+            "air_date": "2015-03-12"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-17",
+            "title": "Good Friends, Great Training!",
+            "description": "Ash reunites with Tierno and decides to prepare for his Lumiose Gym match by challenging his friend to a double battle. When Team Rocket attacks with their new mecha, Sliggoo summons a new power.",
+            "number": "17",
+            "image": "https://image.tmdb.org/t/p/original/uJECv8zcdfmhNwcJooAiK3SgtGs.jpg",
+            "air_date": "2015-03-26"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-18",
+            "title": "Confronting the Darkness!",
+            "description": "Ash and the others arrive in Lumiose City and reunite with Clemont and discover that a mad scientist, Belmondo, had invented a Dark Clembot robot, which he had been using to commit crimes all over the city. Teaming up with Officer Jenny, the gang try to get to the bottom of the occurrence and clear Clembot's name.",
+            "number": "18",
+            "image": "https://image.tmdb.org/t/p/original/wp5TI0qQDh9HWhQZKxkmWuWroOS.jpg",
+            "air_date": "2015-04-02"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-19",
+            "title": "The Moment of Lumiose Truth!",
+            "description": "Ash and Clemont finally begin their promised Gym battle at the Prism Tower and show off their strategies for countering the other's unique battle style.",
+            "number": "19",
+            "image": "https://image.tmdb.org/t/p/original/kuxeSHIAvPE5AaxJKhFQU0eFWrS.jpg",
+            "air_date": "2015-04-09"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-20",
+            "title": "Garchomp's Mega Bond!",
+            "description": "Ash and the others visit Professor Sycamore to observe his experiment with a Key Stone and a Mega Stone. However, when Team Rocket crashes the experiment and gets away with the Mega Stone and Garchomp.",
+            "number": "20",
+            "image": "https://image.tmdb.org/t/p/original/rip2KUXZwMSgHJdyiviHYD1TA7R.jpg",
+            "air_date": "2015-04-16"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-21",
+            "title": "Defending the Homeland!",
+            "description": "Ash and his friends meet a man named Keanan while on their way to Laverre City and they learn about Goodra's history. At the same time, they encounter a Florges and its army of Bug-type Pokémon who had once terrorized Goodra's home in the wetlands.",
+            "number": "21",
+            "image": "https://image.tmdb.org/t/p/original/2ojdOFn4XbzJ4GOkc3yygNgMyEZ.jpg",
+            "air_date": "2015-04-23"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-22",
+            "title": "Beyond the Rainbow!",
+            "description": "Team Rocket deceives Florges into an alliance and then double crosses it when they attempt to drain all of the Spring water of the wetlands.",
+            "number": "22",
+            "image": "https://image.tmdb.org/t/p/original/1knwJ2j0sO4lftQFmAeqycGAdm5.jpg",
+            "air_date": "2015-04-30"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-23",
+            "title": "So You're Having a Bad Day!",
+            "description": "After an ambush by Team Rocket and a group of Pangoro, the gang gets separated from each other and Bonnie finds herself lost in the forest with Meowth.",
+            "number": "23",
+            "image": "https://image.tmdb.org/t/p/original/9SCvUbiks5xFDDRQiMo6bEpd3mL.jpg",
+            "air_date": "2015-05-07"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-24",
+            "title": "Scary Hospitality!",
+            "description": "Ash and his friends find themselves lost in the forest and happen upon a creepy house of folklore. They are invited in by its host Lon and despite his warm welcome, something else lurking in the house intends to give them the scare of their lives.",
+            "number": "24",
+            "image": "https://image.tmdb.org/t/p/original/gQqBrneIw7EXmp1KpgSoQhQvJf1.jpg",
+            "air_date": "2015-05-14"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-25",
+            "title": "A Fashionable Battle!",
+            "description": "Ash and his friends finally arrive in Laverre City and immediately head over to the Gym only to find that it's closed due to its seasonal Fashion Show. They instead meet Sawyer, who had a Gym battle with Clemont recently and gets to challenge the Gym Leader Valerie during the show.",
+            "number": "25",
+            "image": "https://image.tmdb.org/t/p/original/87dmnMssaNgYoJFtut3G0bQKIJL.jpg",
+            "air_date": "2015-05-21"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-26",
+            "title": "Fairy-Type Trickery!",
+            "description": "Ash challenges Valerie to a battle for the Fairy Badge and finds that appearances aren't everything when he faces her Fairy-type Pokémon.",
+            "number": "26",
+            "image": "https://image.tmdb.org/t/p/original/ccZWNSXwcnbQ92pgMuoOWenBlhb.jpg",
+            "air_date": "2015-05-28"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-27",
+            "title": "Rivals: Today and Tomorrow!",
+            "description": "Before parting ways, Ash and Sawyer decide to have a three on three battle where the former helps give the novice trainer gain useful experience.",
+            "number": "27",
+            "image": "https://image.tmdb.org/t/p/original/g2hBj8Y90DnYfYeikd0rpY5UO18.jpg",
+            "air_date": "2015-06-04"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-28",
+            "title": "A Not-So-Flying-Start!",
+            "description": "The gang helps a newly hatched Noibat learn how to fly, but Team Rocket tries to take it for themselves, leaving Hawlucha to keep Noibat safe.",
+            "number": "28",
+            "image": "https://image.tmdb.org/t/p/original/dhhFipu4V8KoAbdTRwN82IWy4zZ.jpg",
+            "air_date": "2015-06-11"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-29",
+            "title": "A Relay in the Sky!",
+            "description": "While training Noibat to fly, Ash and the gang learn about a competition called the Pokémon Sky Relay. Ash decides to compete in it with his three Flying-types in hopes for Noibat to fly properly. Team Rocket has other plans up their sleeve when they enter as well.",
+            "number": "29",
+            "image": "https://image.tmdb.org/t/p/original/Ah2z3tVMHnkw0hD1Y9Fw3GryvkM.jpg",
+            "air_date": "2015-06-18"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-30",
+            "title": "Lights! Camera! Pika!",
+            "description": "Ash and his friends arrive at a village, where they meet a group of Pikachu and their owners, Frank and Jean. Impressed with Ash's Pikachu, Frank wants to cast him in a movie with the Cosplay Pikachu.",
+            "number": "30",
+            "image": "https://image.tmdb.org/t/p/original/wXvLEmJEO2x0e37Oh1ghsdEHbBu.jpg",
+            "air_date": "2015-06-18"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-31",
+            "title": "A Frenzied Factory Fiasco!",
+            "description": "When Ash and his friends arrive at a factory where workers make Poké Balls, Team Rocket appears in another plot to steal all the Poké Balls made in the Poké Ball Factory as well as the gang's Pokémon, including Pikachu.",
+            "number": "31",
+            "image": "https://image.tmdb.org/t/p/original/5wYeT94TswvhiFqHNSiVdkQDa8D.jpg",
+            "air_date": "2015-06-25"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-32",
+            "title": "Performing with Fiery Charm!",
+            "description": "The time has come for Serena's second Pokémon Showcase. Only this time, she faces a tougher competition when a familiar face also appears entering the Showcase to back Serena into a corner.",
+            "number": "32",
+            "image": "https://image.tmdb.org/t/p/original/7Av5J0iQy58Foa8TYq6WpeBu3ZH.jpg",
+            "air_date": "2015-07-02"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-33",
+            "title": "Rotom's Wish!",
+            "description": "Ash and the others spend the night at a run-down hotel and find it under the control of a gang of thugs who wager Pokémon as prizes for battles. However, when they meet a timid Rotom, they learn that the hotel was not always so dark.",
+            "number": "33",
+            "image": "https://image.tmdb.org/t/p/original/gYdiC7EYkgg0Y8cmzJpLguFXQvG.jpg",
+            "air_date": "2015-07-09"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-34",
+            "title": "A Festival Trade! A Festival Farewell?",
+            "description": "Ash, his friends, and Team Rocket arrive at a costume festival to have fun. During the festivities, Jessie witnesses a Pumpkaboo falling in love with her Pumpkaboo and decides to do something to help it.",
+            "number": "34",
+            "image": "https://image.tmdb.org/t/p/original/xaTMUoTpp08glmT65bSGLsXVJei.jpg",
+            "air_date": "2015-07-23"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-35",
+            "title": "Over the Mountain of Snow!",
+            "description": "While continuing on their next adventure, Ash and his friends ride on Mamoswine through the hills as it has heavy snow and come across an Abomasnow, who asked for their help to help his sick Snover.",
+            "number": "35",
+            "image": "https://image.tmdb.org/t/p/original/nKXljeHicezsFd8QaqDyfc2fMl9.jpg",
+            "air_date": "2015-07-30"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-36",
+            "title": "Adventures in Running Errands!",
+            "description": "When a Pokémon Center suddenly loses power, Clemont sends Chespin and Bunnelby on an errand to pick up a part so he can fix the generator.",
+            "number": "36",
+            "image": "https://image.tmdb.org/t/p/original/lQS46lNGwtbMEl6uBY6oNSO2zRF.jpg",
+            "air_date": "2015-08-13"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-37",
+            "title": "Mending a Broken Spirit!",
+            "description": "When Braixen accidentally breaks her branch while practicing for the next Pokémon Showcase, Serena seeks help after seeing that the branch meant so much to her Pokémon.",
+            "number": "37",
+            "image": "https://image.tmdb.org/t/p/original/y7Ptal0JdP05NsMEHzCYWEeyoMR.jpg",
+            "air_date": "2015-08-20"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-38",
+            "title": "A Legendary Photo Op!",
+            "description": "Ash and the gang reunite with Trevor. He explains his interest in snapping a picture of the legendary Moltres rumored to have been spotted nearby on Mt. Molteau.",
+            "number": "38",
+            "image": "https://image.tmdb.org/t/p/original/2XQ9sYOFDWLhr1yIy6xUvAQgJ4k.jpg",
+            "air_date": "2015-08-27"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-39",
+            "title": "The Tiny Caretaker!",
+            "description": "When Team Rocket tries and fails to capture a Tyrunt, Ash and the gang help to protect it.",
+            "number": "39",
+            "image": "https://image.tmdb.org/t/p/original/c5fe9yLeARnsRkWdSzGfOQwdmEJ.jpg",
+            "air_date": "2015-09-10"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-40",
+            "title": "A Trip Down Memory Train!",
+            "description": "After defeating Team Rocket, Clemont and Bonnie tell Ash and Serena a story of how they first met Bunnelby.",
+            "number": "40",
+            "image": "https://image.tmdb.org/t/p/original/k1o0HgkROZn0ncKk0u8wMt2vrgY.jpg",
+            "air_date": "2015-09-17"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-41",
+            "title": "A Frolicking Find in the Flowers!",
+            "description": "Serena finds an Eevee who loves dancing and performing, but it turns out to be shy and afraid of people. Serena sets out to bond with it.",
+            "number": "41",
+            "image": "https://image.tmdb.org/t/p/original/AtFm11l23PbjjWzdV3zKFGzIGL4.jpg",
+            "air_date": "2015-09-24"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-42",
+            "title": "Tag Team Battle Inspiration!",
+            "description": "While Serena helps her newly captured Eevee, Tierno and Shauna, along with their newly evolved Blastoise and Ivysaur, appear and help her to attempt to address Eevee's shyness.",
+            "number": "42",
+            "image": "https://image.tmdb.org/t/p/original/j61pzbNR5Ql2iTwVIStOeoszRDz.jpg",
+            "air_date": "2015-10-01"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-43",
+            "title": "A Performance Pop Quiz!",
+            "description": "The time has come for Serena's third Pokémon Showcase. Serena gets ready to begin her next performance hoping to obtain her second key in the Showcase.",
+            "number": "43",
+            "image": "https://image.tmdb.org/t/p/original/omGvG7O844khjVn3WMiKeCZXZRJ.jpg",
+            "air_date": "2015-10-08"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-44",
+            "title": "Cloudy Fate, Bright Future!",
+            "description": "With the Showcase a success for Serena, Ash and his friends continue their visit to Anistar City for Ash's next gym battle with Olympia. After meeting her and learning about Frogadier's past, the Anistar sundial seems to be in trouble.",
+            "number": "44",
+            "image": "https://image.tmdb.org/t/p/original/6nyz3gI4q9ZKzDB0Y2NWXM6sPnY.jpg",
+            "air_date": "2015-10-15"
+        },
+        {
+            "id": "pokemon-the-series-xy-kalos-quest-episode-45",
+            "title": "All Eyes on the Future!",
+            "description": "The time for Ash's Gym Battle has finally arrived. He gets prepared to win his next Gym Badge.",
+            "number": "45",
+            "image": "https://image.tmdb.org/t/p/original/uCznfxAIVviODmXqKzfZNshhvnE.jpg",
+            "air_date": "2015-10-22"
+        }
   ]
 }
