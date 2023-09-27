@@ -967,245 +967,389 @@
     }
   ],
   "episodes": [
-    {
-      "id": "pokemon-the-series-xy-episode-1",
-      "title": "Pokémon The Series: XY Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-2",
-      "title": "Pokémon The Series: XY Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-3",
-      "title": "Pokémon The Series: XY Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-4",
-      "title": "Pokémon The Series: XY Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-5",
-      "title": "Pokémon The Series: XY Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-6",
-      "title": "Pokémon The Series: XY Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-7",
-      "title": "Pokémon The Series: XY Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-8",
-      "title": "Pokémon The Series: XY Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-9",
-      "title": "Pokémon The Series: XY Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-10",
-      "title": "Pokémon The Series: XY Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-11",
-      "title": "Pokémon The Series: XY Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-12",
-      "title": "Pokémon The Series: XY Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-13",
-      "title": "Pokémon The Series: XY Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-14",
-      "title": "Pokémon The Series: XY Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-15",
-      "title": "Pokémon The Series: XY Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-16",
-      "title": "Pokémon The Series: XY Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-17",
-      "title": "Pokémon The Series: XY Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-18",
-      "title": "Pokémon The Series: XY Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-19",
-      "title": "Pokémon The Series: XY Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-20",
-      "title": "Pokémon The Series: XY Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-21",
-      "title": "Pokémon The Series: XY Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-22",
-      "title": "Pokémon The Series: XY Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-23",
-      "title": "Pokémon The Series: XY Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-24",
-      "title": "Pokémon The Series: XY Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-25",
-      "title": "Pokémon The Series: XY Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-26",
-      "title": "Pokémon The Series: XY Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-27",
-      "title": "Pokémon The Series: XY Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-28",
-      "title": "Pokémon The Series: XY Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-29",
-      "title": "Pokémon The Series: XY Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-30",
-      "title": "Pokémon The Series: XY Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-31",
-      "title": "Pokémon The Series: XY Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-32",
-      "title": "Pokémon The Series: XY Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-33",
-      "title": "Pokémon The Series: XY Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-34",
-      "title": "Pokémon The Series: XY Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-35",
-      "title": "Pokémon The Series: XY Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-36",
-      "title": "Pokémon The Series: XY Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-37",
-      "title": "Pokémon The Series: XY Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-38",
-      "title": "Pokémon The Series: XY Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-39",
-      "title": "Pokémon The Series: XY Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-40",
-      "title": "Pokémon The Series: XY Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-41",
-      "title": "Pokémon The Series: XY Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-42",
-      "title": "Pokémon The Series: XY Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-43",
-      "title": "Pokémon The Series: XY Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-44",
-      "title": "Pokémon The Series: XY Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-45",
-      "title": "Pokémon The Series: XY Episode 45",
-      "number": 45
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-46",
-      "title": "Pokémon The Series: XY Episode 46",
-      "number": 46
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-47",
-      "title": "Pokémon The Series: XY Episode 47",
-      "number": 47
-    },
-    {
-      "id": "pokemon-the-series-xy-episode-48",
-      "title": "Pokémon The Series: XY Episode 48",
-      "number": 48
-    }
+	{
+            "id": "pokemon-the-series-xy-episode-1",
+            "title": "Kalos, Where Dreams and Adventures Begin!",
+            "description": "Ash and Pikachu have arrived in the Kalos region, and they waste no time building excitement and adventure to a fever pitch!",
+            "number": "1",
+            "image": "https://image.tmdb.org/t/p/original/20CAAIEYf2a99l8GwhYym6u3aLr.jpg",
+            "air_date": "10/17/13"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-2",
+            "title": "Lumiose City Pursuit!",
+            "description": "After helping an ailing Pokémon, Ash puts everything he’s got on the line, while an entire city bears witness!",
+            "number": "2",
+            "image": "https://image.tmdb.org/t/p/original/chumb2we6tvyBx9ltxY0AaUn7fJ.jpg",
+            "air_date": "10/17/13"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-3",
+            "title": "A Battle of Aerial Mobility!",
+            "description": "Ash is eager to catch some Kalos Pokémon, and he’s definitely not alone!",
+            "number": "3",
+            "image": "https://image.tmdb.org/t/p/original/yhee1plUXW8RUSWxUfzKbRhLhtM.jpg",
+            "air_date": "10/24/13"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-4",
+            "title": "A Shockingly Cheeky Friendship!",
+            "description": "As our heroes continue their Kalos region journey, exciting new Pokémon friendships are the order of the day!",
+            "number": "4",
+            "image": "https://image.tmdb.org/t/p/original/6Tof5cOiCVZW35PNj4OK7oTwsFt.jpg",
+            "air_date": "10/31/13"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-5",
+            "title": "A Blustery Santalune Gym Battle!",
+            "description": "Ash charges into his first Kalos region Gym battle against a tough and talented opponent. Is he ready to nab his first Gym badge?",
+            "number": "5",
+            "image": "https://image.tmdb.org/t/p/original/hTIRv1LCzEAJC7aw7odBkFb6bR.jpg",
+            "air_date": "11/7/13"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-6",
+            "title": "Battling on Thin Ice!",
+            "description": "Never one to give up, Ash sets his sights on a rematch with Gym Leader Viola in order to win his first Kalos region Gym badge!",
+            "number": "6",
+            "image": "https://image.tmdb.org/t/p/original/fGl5Eys4ooFx4EN7aRHWjjcfgpH.jpg",
+            "air_date": "11/14/13"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-7",
+            "title": "Giving Chase at the Rhyhorn Race!",
+            "description": "There’s an opportunity to be part of an exciting Rhyhorn race, and Ash can’t wait to give it a try!",
+            "number": "7",
+            "image": "https://image.tmdb.org/t/p/original/k5gZ1co2KETCzwOiBNsVTxX43pU.jpg",
+            "air_date": "11/21/13"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-8",
+            "title": "Grooming Furfrou!",
+            "description": "After seeing a superstar Pokémon groomer in their guidebook, our heroes are excited to meet him and his assistant in person!",
+            "number": "8",
+            "image": "https://image.tmdb.org/t/p/original/4Nlc3oHw1LybfHhaMzwrncvWruB.jpg",
+            "air_date": "11/28/13"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-9",
+            "title": "Clemont's Got a Secret!",
+            "description": "As our heroes arrive back in Lumiose City, Clemont and Bonnie reveal a secret that has everyone else in shock!",
+            "number": "9",
+            "image": "https://image.tmdb.org/t/p/original/cdmVB2Brgxc1lW1vfuOgKn2JCjL.jpg",
+            "air_date": "12/5/13"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-10",
+            "title": "Mega-Mega Meowth Madness!",
+            "description": "During a visit with Professor Sycamore while in Lumiose City, our heroes encounter a surprising foe of mega-mega proportions!",
+            "number": "10",
+            "image": "https://image.tmdb.org/t/p/original/vRAlSjfxrzPMwjh3vr3KJfXk2dt.jpg",
+            "air_date": "12/12/13"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-11",
+            "title": "The Bamboozling Forest!",
+            "description": "As our heroes continue their journey to Cyllage City and Ash’s next Gym battle, they must confront a most unsavory character in a most unsavory line of work!",
+            "number": "11",
+            "image": "https://image.tmdb.org/t/p/original/c7v8YhIcy5CUzWTnwVT93DigCFI.jpg",
+            "air_date": "12/19/13"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-12",
+            "title": "To Catch a Pokémon Smuggler!",
+            "description": "As our heroes continue their journey to Cyllage City and Ash’s next Gym battle, they must confront a most unsavory character in a most unsavory line of work!",
+            "number": "12",
+            "image": "https://image.tmdb.org/t/p/original/8DzkC584h6CTlvDvP1lXCRZL3Z5.jpg",
+            "air_date": "1/9/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-13",
+            "title": "Kindergarten Chaos!",
+            "description": "What starts out as a typical battle challenge between two Trainers in the middle of the forest leads to a life-changing experience for one young boy!",
+            "number": "13",
+            "image": "https://image.tmdb.org/t/p/original/1UNfhTqG2sDmPqDXCrwTT3djqbg.jpg",
+            "air_date": "1/16/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-14",
+            "title": "Seeking Shelter from the Storm!",
+            "description": "A powerful rainstorm brings our heroes to a scary mansion seeking shelter, with an unexpected outcome!",
+            "number": "14",
+            "image": "https://image.tmdb.org/t/p/original/sXJpZE6SyiCvSFEVsSWNEg1PDRQ.jpg",
+            "air_date": "1/30/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-15",
+            "title": "An Appetite for Battle!",
+            "description": "A misunderstanding while camping out for the night turns out to be the perfect opportunity for some serious Pokémon-and-Trainer bonding!",
+            "number": "15",
+            "image": "https://image.tmdb.org/t/p/original/udTdOAsZCp3MBDd2QM9x44U76go.jpg",
+            "air_date": "2/6/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-16",
+            "title": "A Jolting Switcheroo!",
+            "description": "A Pokémon mix-up sends our heroes in a mad dash around town!",
+            "number": "16",
+            "image": "https://image.tmdb.org/t/p/original/cmHyPVbepUAxJLewlSzgyVZI0vb.jpg",
+            "air_date": "2/13/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-17",
+            "title": "A Rush of Ninja Wisdom!",
+            "description": "A ninja and his Frogadier agree to help Froakie work on its speed. But will it be enough to slow down Team Rocket?",
+            "number": "17",
+            "image": "https://image.tmdb.org/t/p/original/ja3SjR3xBSeVSNRCCB8SGA2OWxQ.jpg",
+            "air_date": "2/20/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-18",
+            "title": "Awakening the Sleeping Giant!",
+            "description": "Arriving in Camphrier Town, our heroes find themselves in the middle of a dilemma of epic proportions!",
+            "number": "18",
+            "image": "https://image.tmdb.org/t/p/original/z90XGd5G5Pc0mJy7eSbcSRMCZXk.jpg",
+            "air_date": "2/27/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-19",
+            "title": "A Conspiracy to Conquer!",
+            "description": "Team Rocket may still be after Pikachu, but for now, everyone’s got another powerful Pokémon on their minds!",
+            "number": "19",
+            "image": "https://image.tmdb.org/t/p/original/8TLw8NvO1u7iTSEcTmympbNrNiS.jpg",
+            "air_date": "3/13/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-20",
+            "title": "Breaking Titles at the Chateau!",
+            "description": "A visit to an incredible Kalos region battling institution presents our heroes with lasting memories and a surprising revelation!",
+            "number": "20",
+            "image": "https://image.tmdb.org/t/p/original/5beSFHl0RQjhOaXOT0gGomH3bR8.jpg",
+            "air_date": "3/20/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-21",
+            "title": "A PokéVision of Things to Come!",
+            "description": "Ash and friends are exploring the world of Pokévision, and it’s chock-full of epic productions and cinematic surprises!",
+            "number": "21",
+            "image": "https://image.tmdb.org/t/p/original/rav5an5lSdkwJwXKI6quniUtqLQ.jpg",
+            "air_date": "3/27/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-22",
+            "title": "Going for the Gold!",
+            "description": "A visit by our heroes to an amazing aquarium turns out to reveal the stuff of legends!",
+            "number": "22",
+            "image": "https://image.tmdb.org/t/p/original/wVy6T99iteFigHfYA7QHmK1Q0Uj.jpg",
+            "air_date": "4/10/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-23",
+            "title": "Coming Back into the Cold!",
+            "description": "Ash, Serena, Clemont, and Bonnie meet up with Alexa again, who is covering the new fossil exhibit at the Ambrette Town Museum, meeting the revived fossil Pokémon Amaura and Aurorus in the museum's cold storage. However, Team Rocket arrives to steal Amaura, leaving Ash and his friends on a rescue mission. ",
+            "number": "23",
+            "image": "https://image.tmdb.org/t/p/original/lhyQm6xfkdXP0d7f7vRUUD0CYF0.jpg",
+            "air_date": "4/17/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-24",
+            "title": "Climbing the Walls!",
+            "description": "Ash and his friends make it to Cyllage City, where Ash plans on challenging the Gym Leader Grant. Having already seen his strategy with Onix at the Battle Chateau, Ash plans on having Froakie face the Rock Pokémon in battle, and later Pikachu against Tyrunt.",
+            "number": "24",
+            "image": "https://image.tmdb.org/t/p/original/8oUEDtSQTleaMfnbjdIbWyFo239.jpg",
+            "air_date": "4/24/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-25",
+            "title": "A Battle by Any Other Name!",
+            "description": "While on the road, Serena makes some Poké Puffs for Pikachu and Fennekin, but her cooking skills are attacked by Miette, who has the Meringue Pokémon Slurpuff. The two decide to head to the next town and hold a Poké Puffs Contest to see who is the better pastry chef.",
+            "number": "25",
+            "image": "https://image.tmdb.org/t/p/original/1DaDjyR8NRkrMrjyXwJW2nAUD7e.jpg",
+            "air_date": "5/8/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-26",
+            "title": "To Find a Fairy Flower!",
+            "description": "While brushing out her hair, Bonnie tries a new flower accessory, only to discover that a Flabébé is latching onto it because she has lost her Fairy Flower. The gang tries to help Flabébé get a new Fairy Flower, but it appears the season is over.",
+            "number": "26",
+            "image": "https://image.tmdb.org/t/p/original/s8w1kZG5CoKzS56DLOLg3AG0Ah0.jpg",
+            "air_date": "5/15/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-27",
+            "title": "The Bonds of Evolution!",
+            "description": "Upon arriving in the next town, Ash learns that the Kalos Region Champion Diantha will be holding an exhibition match, but he misses out on the sign up deadline. He heads to Professor Sycamore's lab, being tasked to help in his research on Mega Evolution, when he meets Diantha there by chance. She allows him a friendly match, Pikachu against her Gardevoir, and she shows she knows what Mega Evolution is.",
+            "number": "27",
+            "image": "https://image.tmdb.org/t/p/original/9weESeZfXmdNyQqvauIHX3If1cc.jpg",
+            "air_date": "5/22/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-28",
+            "title": "Heroes - Friends and Faux Alike!",
+            "description": "Ash, Serena, and Bonnie must find out who has been impersonating them in the town they have just arrived in.",
+            "number": "28",
+            "image": "https://image.tmdb.org/t/p/original/ixXcIfLoJXlgrnxHFGW6VT0KAVw.jpg",
+            "air_date": "5/29/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-29",
+            "title": "Mega Revelations!",
+            "description": "Ash and friends meet up with Korrina and her Lucario, and soon discover that she is the Shalour City Gym Leader, and she seems to possess a Mega Stone.",
+            "number": "29",
+            "image": "https://image.tmdb.org/t/p/original/fRXjKi5J6XbCB57PTCUrKWq1XWr.jpg",
+            "air_date": "5/29/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-30",
+            "title": "The Cave of Trials!",
+            "description": "Ash, Serena, Clemont, and Bonnie help Korrina and her Lucario find the Mega Stone Lucarionite in Geosenge Town's caves, only to come face to face with a Blaziken protecting the caves.",
+            "number": "30",
+            "image": "https://image.tmdb.org/t/p/original/fwdj9rkWkFlo4PSaRJr5s9EfvvV.jpg",
+            "air_date": "6/5/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-31",
+            "title": "The Aura Storm!",
+            "description": "Korrina finally finds the Lucarionite, but after using it, she loses control of Mega Lucario, who is much too strong for Pikachu to defeat. Her grandfather Gurkinn must step in and take care of matters, with his own Mega Lucario.",
+            "number": "31",
+            "image": "https://image.tmdb.org/t/p/original/lAYsNxWDTjXanlvxt4dS6JPvp6G.jpg",
+            "air_date": "6/12/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-32",
+            "title": "Calling from Beyond the Aura!",
+            "description": "Korrina's grandfather Gurkinn tasks her with more training to rein in Mega Lucario, and Ash and company accompany her as they travel to Pomace Mountain only to fall into a trap laid by Team Rocket.",
+            "number": "32",
+            "image": "https://image.tmdb.org/t/p/original/nYp4IBreTOBPUQRUsQ5vhjCsvU6.jpg",
+            "air_date": "6/19/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-33",
+            "title": "The Bonds of Mega Evolution!",
+            "description": "The group heads into the mountains around Pomace Mountain and meet with Mabel, a flower arranger who has mastered the art of Mega Evolution herself with her Mawile, prompting Korrina to have a friendly match.",
+            "number": "33",
+            "image": "https://image.tmdb.org/t/p/original/wgxgQG6FD2h0mBy0VVfXPMBkdTg.jpg",
+            "air_date": "7/3/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-34",
+            "title": "The Forest Champion!",
+            "description": "Continuing on their journey to Shalour City, Ash and his friends come across the Wrestling Pokémon Hawlucha who is protecting a group of Pokémon in the forest from stronger Pokémon like Machamp, Conkeldurr and a Ursaring.",
+            "number": "34",
+            "image": "https://image.tmdb.org/t/p/original/gACm9D9esZsY2zNppkLuFsdEzPC.jpg",
+            "air_date": "7/10/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-35",
+            "title": "Battles in the Sky!",
+            "description": "At Kalos Canyon, Ash learns of the Sky Battle trend and tries it out with Fletchling and Hawlucha against Sky Trainer Moria and her Talonflame.",
+            "number": "35",
+            "image": "https://image.tmdb.org/t/p/original/bsmqPtTLpCOLrcIbUlWTV3KgWZy.jpg",
+            "air_date": "7/24/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-36",
+            "title": "The Cave of Mirrors!",
+            "description": "While travelling in the Reflection Cave, Ash's reflection takes Pikachu away from him, prompting him to follow into a world within the reflection, leaving Clemont, Serena, and Bonnie to find a way to bring him back. After Ash arrives in the Mirror Dimension, he discovers that his mirror self needs help finding his Pikachu.",
+            "number": "36",
+            "image": "https://image.tmdb.org/t/p/original/kazwBmxkMbv2BSZwHlL63HPDAn3.jpg",
+            "air_date": "7/31/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-37",
+            "title": "Forging Forest Friendships!",
+            "description": "While practicing for his upcoming Gym battle against Korrina with Hawlucha, Froakie, and Clemont, Ash is kidnapped by the Elder Tree Pokémon Trevenant, leaving Froakie and Hawlucha to trust each other in saving Ash, as Trevenant keeps the others at bay with its power over the forest.",
+            "number": "37",
+            "image": "https://image.tmdb.org/t/p/original/bEkrFdmRSZsY7YXh0kXS88PIS6A.jpg",
+            "air_date": "8/7/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-38",
+            "title": "Summer of Discovery!",
+            "description": "Ash, Serena, Clemont, and Bonnie make it to Professor Sycamore's Pokémon Summer Camp, where they meet Shauna, Trevor, and Tierno, who have received Bulbasaur, Charmander, and Squirtle from Professor Sycamore for their first Pokémon, and want to test their skills against Ash and his friends.",
+            "number": "38",
+            "image": "https://image.tmdb.org/t/p/original/jm4oXtxOH2opuwupDlVAo7P67Fe.jpg",
+            "air_date": "8/14/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-39",
+            "title": "Day Three Blockbusters!",
+            "description": "Serena and Shauna decide to have a little PokéVision contest, but while Serena was looking for locations with her friends, she and Ash become trapped at the bottom of a cliff.",
+            "number": "39",
+            "image": "https://image.tmdb.org/t/p/original/ucWcWfLCQVfbsPCD8aTpFtgyDfQ.jpg",
+            "air_date": "8/21/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-40",
+            "title": "Foggy Pokémon Orienteering!",
+            "description": "The summer campers participate in a Pokémon Orienteering stamp rally where they must use their Pokémon to navigate through a course to get stamps at various stations. However, Bonnie and Pikachu get lost in the foggy woods and come across a mysterious Pokémon.",
+            "number": "40",
+            "image": "https://image.tmdb.org/t/p/original/kbaOdLzv4nluGxDggYFBIv2pia0.jpg",
+            "air_date": "8/28/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-41",
+            "title": "Battling Into the Hall of Fame!",
+            "description": "After all of the activities at the Pokémon Summer Camp, Ash's team and Tierno's team have the same amount of points. To settle the tie, all six will participate in a tag team match. But first, they have to save Tierno, Shauna, and Trevor's Pokémon from Team Rocket.",
+            "number": "41",
+            "image": "https://image.tmdb.org/t/p/original/m3JEis7A88nCr3QXqXcMI63vkhX.jpg",
+            "air_date": "9/4/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-42",
+            "title": "Origins of Mega Evolution!",
+            "description": "Before they have their Gym Battle, Ash and Korrina must stop Team Rocket after they have stolen a scroll on Mega Evolution from the Tower of Mastery.",
+            "number": "42",
+            "image": "https://image.tmdb.org/t/p/original/EnbjDKAFQOEkhrGU3UzjRWEbay.jpg",
+            "air_date": "9/18/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-43",
+            "title": "Showdown at the Shalour Gym!",
+            "description": "Ash challenges Korrina for the Shalour Gym's Rumble Badge, with his Hawlucha, Fletchinder, and Pikachu facing off against her Mienfoo, Machoke, and Mega Lucario.",
+            "number": "43",
+            "image": "https://image.tmdb.org/t/p/original/qA8vMF6cZsvHc1RWVzmKvjZo2V3.jpg",
+            "air_date": "9/25/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-44",
+            "title": "Splitting Heirs!",
+            "description": "Bonnie and Clemont get into a fight after Bonnie wondered off to look for Chespin and when they encounter two brothers and their Meowstic having a rivalry, it gives Clemont a chance to teach Bonnie a lesson.",
+            "number": "44",
+            "image": "https://image.tmdb.org/t/p/original/oTVtzWXx0nvyth5hK6wcGDNbljB.jpg",
+            "air_date": "10/2/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-45",
+            "title": "The Clumsy Crier Quiets the Chaos!",
+            "description": "On their way to Coumarine City, the group goes to a Pokémon Center where Nurse Joy is assisted by a Wigglytuff with bad luck. However, they all soon find themselves having to deal with a Salamence that has gone out of control, and Wigglytuff is the only one who can save Joy.",
+            "number": "45",
+            "image": "https://image.tmdb.org/t/p/original/5HKAYVRdqj8PQVKwpv8Xubdr5Ot.jpg",
+            "air_date": "10/9/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-46",
+            "title": "Dreaming a Performer's Dream!",
+            "description": "After a Pancham disrupts a Pokémon Showcase and steals Ash's hat and Clemonts's glasses, Serena battles it with her Fennekin in an attempt to capture it and teach it some manners.",
+            "number": "46",
+            "image": "https://image.tmdb.org/t/p/original/g2aDokbbJtNPeaJGL7cFzL3Vt8F.jpg",
+            "air_date": "10/16/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-47",
+            "title": "A Campus Reunion!",
+            "description": "Clemont returns to his old school where he relives his younger years and reminisces about a Shinx he had befriended, but was forced to leave it behind after his graduation celebration. When he reunites with it, it has evolved into Luxio ever since and Clemont tries to heal the rift that was caused a few years ago.",
+            "number": "47",
+            "image": "https://image.tmdb.org/t/p/original/f6wYKlqRRYCial2pN5rE0VUlXP2.jpg",
+            "air_date": "10/23/14"
+        },
+        {
+            "id": "pokemon-the-series-xy-episode-48",
+            "title": "Bonnie for the Defense!",
+            "description": "While walking by herself, Bonnie comes across a group of children who are protecting an injured Lapras from intruders while it rests up before returning to the sea. Bonnie soon joins them in protecting Lapras from Team Rocket.",
+            "number": "48",
+            "image": "https://image.tmdb.org/t/p/original/rbGpSd3MiiEG7lpoe95iMSy2Gsf.jpg",
+            "air_date": "10/30/14"
+        }
   ]
 }
