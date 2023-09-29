@@ -34,6 +34,7 @@
     "day": 5
   },
   "totalEpisodes": 34,
+  "currentEpisode": 34,
   "rating": 70,
   "duration": 24,
   "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
@@ -963,174 +964,276 @@
   ],
   "episodes": [
     {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-1",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-2",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-3",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-4",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-5",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-6",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-7",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-8",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-9",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-10",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-11",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-12",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-13",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-14",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-15",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-16",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-17",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-18",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-19",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-20",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-21",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-22",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-23",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-24",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-25",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-26",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-27",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-28",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-29",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-30",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-31",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-32",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-33",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-34",
-      "title": "Pokémon: DP Sinnoh League Victors Episode 34",
-      "number": 34
-    }
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-1",
+            "title": "Regaining the Home Advantage!",
+            "description": "The adventurers come across two wild Pokemon, Magnezone and Metagross. The rampaging Pokemon wreak havoc on a nearby town.",
+            "number": "1",
+            "image": "https://image.tmdb.org/t/p/original/mjxd7k15nqOoNXbQAgrf52FmVtd.jpg",
+            "air_date": "2010-01-07"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-2",
+            "title": "Short and to the Punch!",
+            "description": "Ash and company encounter a martial arts Pokemon trainer. He helps Ash and Weezil learn a new attack.",
+            "number": "2",
+            "image": "https://image.tmdb.org/t/p/original/hAZkL5fv5qecqI16FlEKwlCiIxi.jpg",
+            "air_date": "2010-01-14"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-3",
+            "title": "A Marathon Rivalry!",
+            "description": "The adventurers encounter Daniel, a scientific Pokemon trainer. Daniel and Ash compete in a Pokemon Marathon.",
+            "number": "3",
+            "image": "https://image.tmdb.org/t/p/original/kW5YnPR8b21T3deDyyTUoKJXfnf.jpg",
+            "air_date": "2010-01-21"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-4",
+            "title": "Yes, in Dee Dee It's Dawn!",
+            "description": "Dawn enters the Daybreak Town Pokemon contest. A rival's Pokemon reminds Dawn of a painful childhood experience.",
+            "number": "4",
+            "image": "https://image.tmdb.org/t/p/original/c6KyhvmXI0vqKXWq4Wakr7tkUO8.jpg",
+            "air_date": "2010-01-28"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-5",
+            "title": "Playing the Performance Encore!",
+            "description": "Dawn competes in the finals at the Daybreak Town Contest for her fifth ribbon.",
+            "number": "5",
+            "image": "https://image.tmdb.org/t/p/original/uqV37hX3ubrq7NqPL3tKC165F8m.jpg",
+            "air_date": "2010-02-04"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-6",
+            "title": "Fighting Ire with Fire!",
+            "description": "Ash and company encounter Barry and Paul. Barry and Ash have a battle that's interrupted by Team Rocket with a new plan to take their Pokemon.",
+            "number": "6",
+            "image": "https://image.tmdb.org/t/p/original/yntn2vY5e3ZJCNwyQasP4t20Bz1.jpg",
+            "air_date": "2010-02-11"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-7",
+            "title": "Piplup, Up and Away!",
+            "description": "Piplup after getting hit by Drago Meteor one too many times by Ash's Gible, Piplup gets frustrated when the adventurers try to boost Gible's confidence, and decides to run away.",
+            "number": "7",
+            "image": "https://image.tmdb.org/t/p/original/rmZPngvjLggfYAn98130DPnM9iy.jpg",
+            "air_date": "2010-02-18"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-8",
+            "title": "Flint Sparks the Fire!",
+            "description": "Ash and company arrive at the Sunny Shore Gym. Where they find Voltner, the Gym Leader, has given up on battling.",
+            "number": "8",
+            "image": "https://image.tmdb.org/t/p/original/xUHKMqknncvi9J6zpjh1rUzEudV.jpg",
+            "air_date": "2010-02-25"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-9",
+            "title": "The Fleeing Tower of Sunyshore!",
+            "description": "Ash's gym battle with Volkner is interrupted when Team Rocket steals Sunnyshore Tower.",
+            "number": "9",
+            "image": "https://image.tmdb.org/t/p/original/iVFejAAF70Vkk9eVfRS9puqPFTt.jpg",
+            "air_date": "2010-03-04"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-10",
+            "title": "Teaching the Student Teacher!",
+            "description": "Dawn's mother is supposed to teach a beginner's Pokemon Coordinator class, but gets called away to judge a nearby contest. The young adventurers teach her class.",
+            "number": "10",
+            "image": "https://image.tmdb.org/t/p/original/ronnePBruVBwzpzcRutLSJTcHr2.jpg",
+            "air_date": "2010-03-11"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-11",
+            "title": "Keeping in Top Forme!",
+            "description": "As our heroes prepare for Dawn's entry into the Grand Festival and Ash's rematch with Gym Leader Volkner, they meet a mysterious girl with a sick Shaymin who needs help!",
+            "number": "11",
+            "image": "https://image.tmdb.org/t/p/original/gpz39zPRhyGCznK4agePtC69v8X.jpg",
+            "air_date": "2010-03-18"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-12",
+            "title": "Pokémon Ranger: Heatran Rescue!",
+            "description": "As our heroes continue their Sinnoh region journey, they come across a determined, upbeat Pokémon Ranger on a mission to capture a rare Heatran!",
+            "number": "12",
+            "image": "https://image.tmdb.org/t/p/original/dwElRJyab0w0aenIEbMs2CqNAjV.jpg",
+            "air_date": "2010-03-18"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-13",
+            "title": "An Elite Coverup!",
+            "description": "The adventurers meet Roland a young trainer who falls victim to Team Rocket's latest ploy. They also meet Bertha, one of the Elite Four.",
+            "number": "13",
+            "image": "https://image.tmdb.org/t/p/original/kJFDH75L55fDIvjLfLLafsksUkh.jpg",
+            "air_date": "2010-04-01"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-14",
+            "title": "Dawn of a Royal Day!",
+            "description": "A princess asks Dawn to trade places for a day, so that the princess may compete in a Pokemon contest.",
+            "number": "14",
+            "image": "https://image.tmdb.org/t/p/original/1EKmIKcwIB9VlJguEMQ3KShSUs7.jpg",
+            "air_date": "2010-04-01"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-15",
+            "title": "With the Easiest of Grace!",
+            "description": "Dawn begins training her new acquired Togekiss.",
+            "number": "15",
+            "image": "https://image.tmdb.org/t/p/original/dRjkJvz88cL42k3QgqhmPVlCJHw.jpg",
+            "air_date": "2010-04-15"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-16",
+            "title": "Dealing With a Fierce Double Ditto Drama!",
+            "description": "The adventurers meet Narissa. A trainer who has a lot to learn about Pokemon.",
+            "number": "16",
+            "image": "https://image.tmdb.org/t/p/original/xW9HHf8SlXdJz1mQ07Jb89jLxw0.jpg",
+            "air_date": "2010-04-22"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-17",
+            "title": "Last Call, First Round!",
+            "description": "Contestants arrive for the Grand Festival. Rivals and friends gather for the competition. One competitor makes an unexpected early exit.",
+            "number": "17",
+            "image": "https://image.tmdb.org/t/p/original/8DmtjnSllZn8LdQNqoxjhB6V71u.jpg",
+            "air_date": "2010-04-29"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-18",
+            "title": "Opposites Interact!",
+            "description": "Day 2 of the Grand Festival. Dawn faces off against Ursala.",
+            "number": "18",
+            "image": "https://image.tmdb.org/t/p/original/eL6I4M4bcmeaGTjtzAWlTsQYZBJ.jpg",
+            "air_date": "2010-05-06"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-19",
+            "title": "Coming Full Festival Circle!",
+            "description": "Semi-final battles at the Grand Festival. With Nando vs Zoey. Then Dawn vs Jessilina.",
+            "number": "19",
+            "image": "https://image.tmdb.org/t/p/original/koxllljEPHUQcVlJXZ8Nl3mFdMG.jpg",
+            "air_date": "2010-05-13"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-20",
+            "title": "A Grand Fight for Winning!",
+            "description": "The Grand Festival finals. Dawn vs Zooey in the for title of Top Coordinator.",
+            "number": "20",
+            "image": "https://image.tmdb.org/t/p/original/HkJSlovAbJxHZgOZeCOyz6wG7Y.jpg",
+            "air_date": "2010-05-20"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-21",
+            "title": "For the Love of Meowth!",
+            "description": "Meowth meets and falls for a Glameowth. He ready to quit Team Rocket to be with her.",
+            "number": "21",
+            "image": "https://image.tmdb.org/t/p/original/23Vtu56Ikf832QaD7iwAnQtg3On.jpg",
+            "air_date": "2010-05-27"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-22",
+            "title": "The Eighth Wonder of the Sinnoh World!",
+            "description": "Ash battles Voltner for his eighth and final badge.",
+            "number": "22",
+            "image": "https://image.tmdb.org/t/p/original/Am1G6hu8JCXC7gfaK1uc1Fjf5uv.jpg",
+            "air_date": "2010-06-03"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-23",
+            "title": "Four Roads Diverged in a Pokémon Port!",
+            "description": "The adventurers miss their ship and have to wait a day before continuing their journey. They meet up with old friends. Dawn receives and unexpected invitation, and all of them start to contemplate the next part of their journey.",
+            "number": "23",
+            "image": "https://image.tmdb.org/t/p/original/q9oMhfJ1ruEcteop9fDBJy1eJWL.jpg",
+            "air_date": "2010-06-10"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-24",
+            "title": "Bucking the Treasure Trend!",
+            "description": "The adventurers meet Buck, a treasure hunter, and help him on his latest venture.",
+            "number": "24",
+            "image": "https://image.tmdb.org/t/p/original/qRpU1s29CShdPfDyYVIusa460ok.jpg",
+            "air_date": "2010-06-17"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-25",
+            "title": "An Old Family Blend!",
+            "description": "Ash asks Professor Oak to send him some of his old Pokemon for the upcoming competition. Team Rocket intercepts the Pokemon, now Ash must find and recover his Pokemon.",
+            "number": "25",
+            "image": "https://image.tmdb.org/t/p/original/wHN2pwPKqQ2VhSAU18yLubPGs9g.jpg",
+            "air_date": "2010-06-24"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-26",
+            "title": "League Unleashed!",
+            "description": "Round one of the Sinnoh League Championship. Ash vs Nando.",
+            "number": "26",
+            "image": "https://image.tmdb.org/t/p/original/aKCA5cRTINssI0CLnKiJV0VjzNx.jpg",
+            "air_date": "2010-07-01"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-27",
+            "title": "Casting a Paul on Barry!",
+            "description": "Paul vs Barry in round 3.",
+            "number": "27",
+            "image": "https://image.tmdb.org/t/p/original/nWRo3eW4xc6nFiSlNI4zIlF2I5x.jpg",
+            "air_date": "2010-07-15"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-28",
+            "title": "Working on a Right Move!",
+            "description": "Ash vs Conway in Round 3.",
+            "number": "28",
+            "image": "https://image.tmdb.org/t/p/original/yw1aRJfkqJWG5g7hxeW6bOG6aVT.jpg",
+            "air_date": "2010-07-22"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-29",
+            "title": "Familiarity Breeds Strategy!",
+            "description": "Quarter finals begin. Ash vs Paul, part 1.",
+            "number": "29",
+            "image": "https://image.tmdb.org/t/p/original/tS5RqFHvXmjid2KWUszNJcKPqob.jpg",
+            "air_date": "2010-08-05"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-30",
+            "title": "A Real Rival Rouser!",
+            "description": "After Ash's early lead, Paul begins his counter attack.",
+            "number": "30",
+            "image": "https://image.tmdb.org/t/p/original/b5eUcg83OX55wVYIJ4ok2jZhEpI.jpg",
+            "air_date": "2010-08-12"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-31",
+            "title": "Battling a Thaw in Relations!",
+            "description": "Ash vs Paul part 3. The battle of these arch-rivals concludes with the winner advancing to the semi-finals.",
+            "number": "31",
+            "image": "https://image.tmdb.org/t/p/original/8gY5ZyZSxYr94lxf5oiuARYEYti.jpg",
+            "air_date": "2010-08-19"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-32",
+            "title": "The Semi-Final Frontier!",
+            "description": "Ash battles Tobias in the semi-finals. Tobia has only used his Darkrai in all his previous matches. Can Ash find a way to defeat Darkrai and what of the rest of Tobias's Pokemon?",
+            "number": "32",
+            "image": "https://image.tmdb.org/t/p/original/8vC6DgYPL4Hy8sgORmH3ynxr0AX.jpg",
+            "air_date": "2010-08-26"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-33",
+            "title": "The Brockster Is In!",
+            "description": "On the way back to Twin Leaf Town, several Pokemon are injured. With no Pokemon Doctor on board, Brock does everything he can to help the Pokemon until support arrives.",
+            "number": "33",
+            "image": "https://image.tmdb.org/t/p/original/t2GW4oOtgRYtL79UW1Eoo2OIEcr.jpg",
+            "air_date": "2010-09-02"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-sinnoh-league-victors-episode-34",
+            "title": "Memories are Made of Bliss!",
+            "description": "Ash and Brock spend the night at Dawn's house as they prepare for their return to their respective homes. It's a time of farewell. Brock makes a surprise announcement. The three friends part to pursue their own individual dreams.",
+            "number": "34",
+            "image": "https://image.tmdb.org/t/p/original/bWS3GR3g5inM2v8RVNryxMVPrkG.jpg",
+            "air_date": "2010-09-09"
+        }
   ]
 }
