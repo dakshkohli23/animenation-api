@@ -34,6 +34,7 @@
     "day": 15
   },
   "totalEpisodes": 52,
+  "currentEpisode": 52,
   "rating": 70,
   "duration": 24,
   "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
@@ -963,264 +964,420 @@
   ],
   "episodes": [
     {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-1",
-      "title": "Pokémon: DP Galactic Battles Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-2",
-      "title": "Pokémon: DP Galactic Battles Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-3",
-      "title": "Pokémon: DP Galactic Battles Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-4",
-      "title": "Pokémon: DP Galactic Battles Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-5",
-      "title": "Pokémon: DP Galactic Battles Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-6",
-      "title": "Pokémon: DP Galactic Battles Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-7",
-      "title": "Pokémon: DP Galactic Battles Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-8",
-      "title": "Pokémon: DP Galactic Battles Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-9",
-      "title": "Pokémon: DP Galactic Battles Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-10",
-      "title": "Pokémon: DP Galactic Battles Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-11",
-      "title": "Pokémon: DP Galactic Battles Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-12",
-      "title": "Pokémon: DP Galactic Battles Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-13",
-      "title": "Pokémon: DP Galactic Battles Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-14",
-      "title": "Pokémon: DP Galactic Battles Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-15",
-      "title": "Pokémon: DP Galactic Battles Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-16",
-      "title": "Pokémon: DP Galactic Battles Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-17",
-      "title": "Pokémon: DP Galactic Battles Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-18",
-      "title": "Pokémon: DP Galactic Battles Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-19",
-      "title": "Pokémon: DP Galactic Battles Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-20",
-      "title": "Pokémon: DP Galactic Battles Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-21",
-      "title": "Pokémon: DP Galactic Battles Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-22",
-      "title": "Pokémon: DP Galactic Battles Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-23",
-      "title": "Pokémon: DP Galactic Battles Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-24",
-      "title": "Pokémon: DP Galactic Battles Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-25",
-      "title": "Pokémon: DP Galactic Battles Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-26",
-      "title": "Pokémon: DP Galactic Battles Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-27",
-      "title": "Pokémon: DP Galactic Battles Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-28",
-      "title": "Pokémon: DP Galactic Battles Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-29",
-      "title": "Pokémon: DP Galactic Battles Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-30",
-      "title": "Pokémon: DP Galactic Battles Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-31",
-      "title": "Pokémon: DP Galactic Battles Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-32",
-      "title": "Pokémon: DP Galactic Battles Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-33",
-      "title": "Pokémon: DP Galactic Battles Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-34",
-      "title": "Pokémon: DP Galactic Battles Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-35",
-      "title": "Pokémon: DP Galactic Battles Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-36",
-      "title": "Pokémon: DP Galactic Battles Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-37",
-      "title": "Pokémon: DP Galactic Battles Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-38",
-      "title": "Pokémon: DP Galactic Battles Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-39",
-      "title": "Pokémon: DP Galactic Battles Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-40",
-      "title": "Pokémon: DP Galactic Battles Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-41",
-      "title": "Pokémon: DP Galactic Battles Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-42",
-      "title": "Pokémon: DP Galactic Battles Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-43",
-      "title": "Pokémon: DP Galactic Battles Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-44",
-      "title": "Pokémon: DP Galactic Battles Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-45",
-      "title": "Pokémon: DP Galactic Battles Episode 45",
-      "number": 45
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-46",
-      "title": "Pokémon: DP Galactic Battles Episode 46",
-      "number": 46
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-47",
-      "title": "Pokémon: DP Galactic Battles Episode 47",
-      "number": 47
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-48",
-      "title": "Pokémon: DP Galactic Battles Episode 48",
-      "number": 48
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-49",
-      "title": "Pokémon: DP Galactic Battles Episode 49",
-      "number": 49
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-50",
-      "title": "Pokémon: DP Galactic Battles Episode 50",
-      "number": 50
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-51",
-      "title": "Pokémon: DP Galactic Battles Episode 51",
-      "number": 51
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-galactic-battles-episode-52",
-      "title": "Pokémon: DP Galactic Battles Episode 52",
-      "number": 52
-    }
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-1",
+            "title": "Get Your Rotom Running!",
+            "description": "Ash and company arrive at the gym, but the gym leader is out training on Iron Island. In the meantime, the town is suffering from nightmares and no one is getting any sleep.",
+            "number": "1",
+            "image": "https://image.tmdb.org/t/p/original/uh16lzAa7V3wr2KfkdEC1aS2h2B.jpg",
+            "air_date": "2008-12-04"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-2",
+            "title": "A Breed Stampede!",
+            "description": "As Ash continues training for his gym battle. Dawn tries to train with her newly evolved Piloswine, and learns that her Pokemon isn't as receptive as its non-evolved form.",
+            "number": "2",
+            "image": "https://image.tmdb.org/t/p/original/sjhzG7KIJDa3NZ8uMkdvpbpU836.jpg",
+            "air_date": "2008-12-11"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-3",
+            "title": "Ancient Family Matters!",
+            "description": "Ash gets word that the gym leader has returned. Roark, the gym leader from Oreburg City has come to challenge his father, Byron the Canalave City gym leader. With Roark using Rampardos and Byron using Bastiodon, who will win the battle?",
+            "number": "3",
+            "image": "https://image.tmdb.org/t/p/original/vqXoOOZtVLD1X0EqfBOxkiIKUV6.jpg",
+            "air_date": "2008-12-18"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-4",
+            "title": "Dealing With Defensive Types!",
+            "description": "With Oreburgh Gym Leader Roark as referee, Ash starts his 3-on-3 Gym battle against Byron, Canalave's fossil-loving Gym Leader. Byron's first Pokémon is the Steel-and-Psychic Bronzor, so Ash sends out Chimchar, a Fire-type Pokémon. But Bronzor's Ability, Heatproof, helps protect it against Chimchar's Fire attacks, and then it uses Rain Dance to rain on Chimchar's parade! Chimchar refuses to give up, and uses Flame Wheel in a head-on charge against Bronzor's Gyro Ball—the hit knocks out Bronzor, but Chimchar barely manages to stay on its feet!",
+            "number": "4",
+            "image": "https://image.tmdb.org/t/p/original/jFJzA6n6f81bJPZlEpBcdca4swI.jpg",
+            "air_date": "2008-12-25"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-5",
+            "title": "Leading a Stray!",
+            "description": "A Wailord blockage has trapped the boats in Canalave's harbor, and that means Dawn can't take a ferry to her next Contest. There's nothing to do but sit down for lunch, but a wild Luxio and its Pokémon accomplices steal the food! Pikachu and Piplup give chase, but run straight into Team Rocket. As always, Team Rocket tries to grab Pikachu, but Ash catches up with them and escapes into the sewer with his buddy. Piplup uses Whirlpool to toss Team Rocket, and now it's up to Ash to find his way back to his friends. As he wanders the sewers, he comes across the Luxio and its pals. They stole the food to feed a stranded Wailmer that somehow ended up in the sewer!",
+            "number": "5",
+            "image": "https://image.tmdb.org/t/p/original/vJdqyfHL44Uhu0cqyDY5eUbwWe4.jpg",
+            "air_date": "2009-01-08"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-6",
+            "title": "Steeling Peace of Mind!",
+            "description": "On Iron Island, Ash's rival Barry is training with his Empoleon and Heracross when Empoleon suddenly turns on its Trainer. Barry calls Ash and Dawn, who are still in Canalave Town, to tell them what happened—other Pokémon on Iron Island are acting strangely, too! Ash and his friends catch the next ferry to Iron Island, with Team Rocket following them in secret, but Barry has already gone out to explore the island. Whatever is happening, only Steel-type Pokémon are affected, but why?",
+            "number": "6",
+            "image": "https://image.tmdb.org/t/p/original/iW3CPeMEpLC2epB4Brnv5zOl4QG.jpg",
+            "air_date": "2009-01-15"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-7",
+            "title": "Saving the World from Ruins!",
+            "description": "Ash and company continue their struggle to stop Team Galactic's latest scheme, which is somehow affecting steel type Pokemon. They learn this is just part of Team Galactic's overall plan.",
+            "number": "7",
+            "image": "https://image.tmdb.org/t/p/original/5hMsmhcbpxiaoL85moFLCH69Ib7.jpg",
+            "air_date": "2009-01-22"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-8",
+            "title": "Cheers on Castaways Isle!",
+            "description": "Pikachu and Piplup get themselves stranded on an island where they discover a Corphish and several Mantykes taking care to a mysterious egg.",
+            "number": "8",
+            "image": "https://image.tmdb.org/t/p/original/g0v8XZV9JkGKquDQEWCeBs4ixxX.jpg",
+            "air_date": "2009-01-29"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-9",
+            "title": "Hold the Phione!",
+            "description": "As Dawn prepares for the next contest, the adventurers try to spot a rare Phione. One Phione becomes attracted to one of Dawn's Pokemon.",
+            "number": "9",
+            "image": "https://image.tmdb.org/t/p/original/wO6tfOi53QFGdWkKYHvr4iXZITk.jpg",
+            "air_date": "2009-02-05"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-10",
+            "title": "Another One Gabites the Dust!",
+            "description": "Dawn enters the Chocovine town Pokemon contest and meets a tough trainer named Ursula. Will she win her 4th ribbon?",
+            "number": "10",
+            "image": "https://image.tmdb.org/t/p/original/daMP46t6dfs9lz7yaLFq588BcZZ.jpg",
+            "air_date": "2009-02-12"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-11",
+            "title": "Stealing the Conversation!",
+            "description": "Team Rocket steals Officer Jenny's Chatot.",
+            "number": "11",
+            "image": "https://image.tmdb.org/t/p/original/qgkrlV6OzqiCzMUAuCOihO8yJrz.jpg",
+            "air_date": "2009-02-19"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-12",
+            "title": "The Drifting Snorunt!",
+            "description": "A Froslass holds Meowth and Piplup captive and will only release them when her friend, a Snowrunt is returned.",
+            "number": "12",
+            "image": "https://image.tmdb.org/t/p/original/7qOAHtzVYqzcNnGwTajYZWtUeiX.jpg",
+            "air_date": "2009-02-26"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-13",
+            "title": "Noodles! Roamin' Off!",
+            "description": "Meowth decides to leave Team Rocket to become a Noodle Chef, which prompts the other members to pursue their own goals.",
+            "number": "13",
+            "image": "https://image.tmdb.org/t/p/original/sUtAQoL5l9SlVCDZGHB7FP3uvGL.jpg",
+            "air_date": "2009-03-05"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-14",
+            "title": "Pursuing a Lofty Goal!",
+            "description": "Ash enters a Poke Ringer contest with Staravia. Paul also enters the competition.",
+            "number": "14",
+            "image": "https://image.tmdb.org/t/p/original/3ateP1u9Sri2FfEeXVBHMfI9Aak.jpg",
+            "air_date": "2009-03-12"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-15",
+            "title": "Trials and Adulations!",
+            "description": "Dawn encounters an Agron and become separated from Ash and Brock. When one of her Pokemon is injured fighting the Agron, she must use everything she's learned to heal her Pokemon",
+            "number": "15",
+            "image": "https://image.tmdb.org/t/p/original/4wxkrXOJSfwsW8V40fiV3pg5Wgr.jpg",
+            "air_date": "2009-03-26"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-16",
+            "title": "The Lonely Snover!",
+            "description": "Ash and company encounter a Snover who longs for companionship.",
+            "number": "16",
+            "image": "https://image.tmdb.org/t/p/original/pv3OH7ONQYlEFuvTiW65NLoBX0v.jpg",
+            "air_date": "2009-04-02"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-17",
+            "title": "Stopped in the Name of Love!",
+            "description": "Piplup seems to be worn out lately. They notice Piplup starts to glow. Everyone is excited by the prospect of Piplup evolving, except for Piplup.",
+            "number": "17",
+            "image": "https://image.tmdb.org/t/p/original/h6RZUinrtVioEFyjVQJpnZPZfOZ.jpg",
+            "air_date": "2009-04-02"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-18",
+            "title": "Old Rivals, New Tricks!",
+            "description": "Dawn enters the Sandlestraw contest.",
+            "number": "18",
+            "image": "https://image.tmdb.org/t/p/original/1UaTdmLvY5d2U6e3UUAAKb4jaOM.jpg",
+            "air_date": "2009-04-16"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-19",
+            "title": "To Thine Own Pokémon Be True!",
+            "description": "Ash and Dawn enter a Pokemon Ping Pong Contest. After the contest, a trainer approaches Dawn and asks if he can train Ambipom for Ping Pong Contests.",
+            "number": "19",
+            "image": "https://image.tmdb.org/t/p/original/1WoPFImCFBZ0CHzEU3AGBlel95C.jpg",
+            "air_date": "2009-04-23"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-20",
+            "title": "Battling a Cute Drama!",
+            "description": "The group encounters a Pokemon Trainer who doesn't appear to realize what Pokemon battles are about, and try to teach her what's really important.",
+            "number": "20",
+            "image": "https://image.tmdb.org/t/p/original/5EDBIbmZMHvbFMccNgIoG012FRl.jpg",
+            "air_date": "2009-04-30"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-21",
+            "title": "Classroom Training!",
+            "description": "Ash and company meet up with Zoey in Snowpoint City. The Gym Leader convinces Ash to teach a Pokemon class before their battle.",
+            "number": "21",
+            "image": "https://image.tmdb.org/t/p/original/wRfD5leEttYvrqyZOHgShX6bzP.jpg",
+            "air_date": "2009-05-07"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-22",
+            "title": "Sliding Into Seventh!",
+            "description": "Ash finally arrives at Snowpoint Gym for his battle with Candice. This gym will be different from his previous gym challenges, with each trainer using 4 Pokémon each. Can Ash defeat Candice and win his seventh badge?",
+            "number": "22",
+            "image": "https://image.tmdb.org/t/p/original/7L4RLAujCl5LZv7fQzoKlejpklQ.jpg",
+            "air_date": "2009-05-14"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-23",
+            "title": "A Pyramiding Rage!",
+            "description": "Following Ash's victory at the Snowpoint City Gym against the Gym Leader Candice, who should appear out of nowhere but Ash's rival Paul! Asking for a Battle with Candice as well, Paul is told he'll have to wait until the following day. But suddenly Paul's brother Reggie appears, and also - none other than the Kanto Frontier Brain from the Battle Pyramid, Brandon! Knowing that the only challenge Reggie ever made in his career as a Trainer that wasn't successful was when he challenged Brandon, Paul immediately challenges Brandon on the spot, vowing to beat him and ...",
+            "number": "23",
+            "image": "https://image.tmdb.org/t/p/original/3zR4SwtKGFnpuKHqiiSJ6rghmRG.jpg",
+            "air_date": "2009-05-21"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-24",
+            "title": "Pillars of Friendship!",
+            "description": "Some Pokemon hunters attack a Temple and awaken a legendary Pokemon. The Pokemon goes on a rampage. Ash helps Brandon effort to calm the enraged Pokemon.",
+            "number": "24",
+            "image": "https://image.tmdb.org/t/p/original/pKnfKt8UjYnciaVZwUuH2doOH1g.jpg",
+            "air_date": "2009-05-28"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-25",
+            "title": "Frozen on Their Tracks!",
+            "description": "The group takes a train to their next destination. The train takes an unexpected stop. Team Rocket tries to take advantage of the situation.",
+            "number": "25",
+            "image": "https://image.tmdb.org/t/p/original/chnX95rh9mTVFsrMgFdd8YStEs3.jpg",
+            "air_date": "2009-06-04"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-26",
+            "title": "Pedal to the Mettle!",
+            "description": "Ash and friends arrive at Lake Acuity, the site where Ash and Paul will have their full 6-vs-6 battle. After healing his Pokémon, Ash meets up with Paul and the two begin their long awaited battle. Who will ultimately be victorious?",
+            "number": "26",
+            "image": "https://image.tmdb.org/t/p/original/9WdbRdBLUDvwll1FbrHTlLwkLT7.jpg",
+            "air_date": "2009-06-11"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-27",
+            "title": "Evolving Strategies!",
+            "description": "Ash and Paul continue their 6-on-6 battle. With both teams fighting extremely hard it could be anyone's match, so Paul calls out his newly evolved Magmortar, hoping it will secure him victory.",
+            "number": "27",
+            "image": "https://image.tmdb.org/t/p/original/afL91fDFQZUkJg6V9WuC3XsRWL1.jpg",
+            "air_date": "2009-06-18"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-28",
+            "title": "Uncrushing Defeat!",
+            "description": "With all of his Pokémon weak and injured from the battle with Paul, Ash rushes to the Pokémon Center in order to get them healed. Nurse Joy does not, however, have the berry needed to properly heal Monferno. Brock decides to help and heads to Lake Acuity to find it. While at the lake, something strange happens.",
+            "number": "28",
+            "image": "https://image.tmdb.org/t/p/original/7m2UhQb7wEyii1fGl867hpIH4V2.jpg",
+            "air_date": "2009-06-25"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-29",
+            "title": "Promoting Healthy Tangrowth!",
+            "description": "Dawn decides to start training for the next Pokemon Contest with Mamoswine. However, despite overcoming its disobedience, Mamoswine still won't battle. Things turn bad when Mamoswine runs into a forest and Dawn chases after it.",
+            "number": "29",
+            "image": "https://image.tmdb.org/t/p/original/okujqGvWLVfgOut4lsMrEeKpDlm.jpg",
+            "air_date": "2009-07-02"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-30",
+            "title": "Beating the Bustle and Hustle!",
+            "description": "Dawn's favorite television program Pokémon Hustle was employing actors near the group's location, and, naturally, Dawn was eager for the chance to take part and therefore she, Ash and Brock decided to check the program out.",
+            "number": "30",
+            "image": "https://image.tmdb.org/t/p/original/w1NN4k3fa2dTIThUviSz2ihl7WD.jpg",
+            "air_date": "2009-07-09"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-31",
+            "title": "Gateway to Ruin!",
+            "description": "While returning a wild Shellos to its herd, the adventurers encounter Team Galactic as they're trying to unearth some ruins.",
+            "number": "31",
+            "image": "https://image.tmdb.org/t/p/original/kpv79UPK91VfdkrTPei2LJWSkPh.jpg",
+            "air_date": "2009-07-23"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-32",
+            "title": "Three Sides to Every Story",
+            "description": "Piplup and a wild Elekid compete over the affections of a Maril.",
+            "number": "32",
+            "image": "https://image.tmdb.org/t/p/original/m8rqP7vgrZOu7TfJwescwgLzExS.jpg",
+            "air_date": "2009-08-06"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-33",
+            "title": "Strategy Begins at Home!",
+            "description": "The adventurers stay with Dawn's mother as Dawn prepares for the next Pokemon contest. Dawn challenges her mother to a battle.",
+            "number": "33",
+            "image": "https://image.tmdb.org/t/p/original/wXym8jhoQzaQZ2uvuPdkw5N67kJ.jpg",
+            "air_date": "2009-08-13"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-34",
+            "title": "A Faux Oak Finish!",
+            "description": "Professor Oak arrives in Twin Leaf Town to give a lecture. But he gets distracted by some Pokemon, who need his assistance. Team Rocket attempts to take advantage of the situation.",
+            "number": "34",
+            "image": "https://image.tmdb.org/t/p/original/q2hnPx988a83zIvuFGG3TT3IPuj.jpg",
+            "air_date": "2009-08-20"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-35",
+            "title": "Historical Mystery Tour",
+            "description": "As the Twin Leaf festival draws to a close, Ash, Dawn and Barry encounter a Xatu and wind up miniaturized and trying to find a way to return to normal.",
+            "number": "35",
+            "image": "https://image.tmdb.org/t/p/original/oHyYRJwJwhbsGLT9KbTpPATrYuW.jpg",
+            "air_date": "2009-08-27"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-36",
+            "title": "Challenging a Towering Figure",
+            "description": "The Twin Leaf Town festival draws to a close. Only one person can challenge Palmer, Barry's father, and one of the Battle Frontier Brains from Sinou.",
+            "number": "36",
+            "image": "https://image.tmdb.org/t/p/original/gOFD7xZEV6jvscmPttddofsf8dY.jpg",
+            "air_date": "2009-09-03"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-37",
+            "title": "Where No Togepi Has Gone Before!",
+            "description": "The young adventurers and Team Rocket encounter a mischievous Togepi.",
+            "number": "37",
+            "image": "https://image.tmdb.org/t/p/original/ysLkacs7O0FdwQl2va7NoX7q1yf.jpg",
+            "air_date": "2009-09-10"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-38",
+            "title": "An Egg Scramble!",
+            "description": "While they are traveling, Ash and friends meet Lyra and Khoury, who are from the Johto region. Dawn and Lyra have a battle in which Dawn wins and gets an egg, which hatches into a Cyndaquil.",
+            "number": "38",
+            "image": "https://image.tmdb.org/t/p/original/pI6sHkhnJ42eiLBrbYauFZ37vjS.jpg",
+            "air_date": "2009-09-17"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-39",
+            "title": "Gone With the Windworks!",
+            "description": "Lyra and Khoury have joined Ash, Dawn and Brock on their journey across the Sinnoh region. However, while Dawn trains for the Lilypad Town Pokémon contest with her Cyndaquil battling Ash's Grotle (with Piplup stealing Cyndaquil's poffin and getting into a fight), Lyra loses her Marill, which seems to have gone to the Valley Windworks. The group make for the Windworks immediately, but Magnemite appears out of nowhere and attacks. Then, they find Marill in the basement storage room only to get locked in. After a few unsuccessful attempts to open the locked door, Ash and his friends are finally free after Pikachu cancels the lockdown by using Thunderbolt on Team Rocket and restoring power to the Windworks. Having found Lyra's Marill, Ash and his friends are confronted by Team Rocket and their giant Magcargo Cannon, but Pikachu saves the day by using Thunderbolt. (Piplup pushes Cyndaquil to the side an gets into another fight)",
+            "number": "39",
+            "image": "https://image.tmdb.org/t/p/original/jZK1Tw9GFWbVPbLw4teEAZIWmV.jpg",
+            "air_date": "2009-09-17"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-40",
+            "title": "A Rivalry to Gible On!",
+            "description": "Ash and Khoury compete for a wild Gible, who likes to play tricks on everyone, so Ash with his Buizel and Khoury with Totodile, try to compete to capture the wild Gible. At the end, Khoury catches the Gible as his first Sinnoh Pokémon.",
+            "number": "40",
+            "image": "https://image.tmdb.org/t/p/original/3juLj2GJZ42BaxoRWgsSui3cp6A.jpg",
+            "air_date": "2009-10-01"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-41",
+            "title": "Dressed for Jess Success!",
+            "description": "As the Lilypad Town Contest begins, Jessie gets sick and James takes her place in the contest. Dawn uses Piplup in the first round and James uses Meowth. Dawn and James both make it to the Semi-Final Round and compete for the Suiren Ribbon. Dawn uses Mamoswine for the battle round and James uses Carnivine. Dawn's Mamoswine uses a new strategy with Ice Shard as Grotle swallows energy ball a few episodes ago '(Episode 609)', but still she loses to James. In the final round, James wins the contest and gives the ribbon to Jessie.",
+            "number": "41",
+            "image": "https://image.tmdb.org/t/p/original/dATAFyjK7uQaBeGfWLTYGuzUfse.jpg",
+            "air_date": "2009-10-01"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-42",
+            "title": "Bagged Then Tagged!",
+            "description": "Ash and Dawn have a tag battle against Lyra and Khoury. Ash sends out Monferno and Dawn sends out Cyndaquil. Lyra sends out Chikorita and Khoury sends out Totodile. During the battle, Totodile evolves into Croconaw. Ash's Monferno finishes up with Mach Punch and defeats Croconaw and Monferno teams up with Cyndaquil using Flamethrower and Flame Wheel. Ash and Dawn eventually win the battle, and Lyra and Khoury leave the group and go back to Johto, but not before Khoury's father gives Brock the Pokégear as a thanking present to them by showing Lyra and Khoury a little bit of Sinnoh.",
+            "number": "42",
+            "image": "https://image.tmdb.org/t/p/original/wqe69oTgncmh7IBegmDE3aALeiP.jpg",
+            "air_date": "2009-10-15"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-43",
+            "title": "Try for the Family Stone!",
+            "description": "A young boy with a Murkrow and a young girl with a Misdreavus compete for a Dusk Stone to evolve their respective Pokémon into either Honchkrow or Mismagius.",
+            "number": "43",
+            "image": "https://image.tmdb.org/t/p/original/MVBkt4M2ZvJE5qjekvouH0DQ0E.jpg",
+            "air_date": "2009-10-22"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-44",
+            "title": "Sticking with Who You Know!",
+            "description": "A Pokémon scientist creates a love machine which will create a friendship between his water and electric Pokémon (Quagasire and Magnemite) but a flaw in it creates the friendship between the water and electric Pokémon all over that area. Unfortunately, Ash's Pikachu and Dawn's Piplup also comes under this area, thus becoming literally inseparable. The team somehow finds about this machine and helps the scientist to achieve his goal without the machine, thus helping their Pokémon to be free from their trance becoming normal again.",
+            "number": "44",
+            "image": "https://image.tmdb.org/t/p/original/ebwyDYAo607abQu6sdClb2mydEB.jpg",
+            "air_date": "2009-10-29"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-45",
+            "title": "Unlocking the Red Chain of Events!",
+            "description": "Team Galactic reappears to begin their Red Chain project to achieve Cyrus's goal in capturing the legendary Pokémon of Time and Space, Dialga and Palkia. Their plan was intervened by Looker of the International Police and Team Rocket, thus capturing them. But Meowth of Team Rocket blasts off alone and was saved by Ash, Dawn and Brock. Through Meowth, they came to know about Team Galactic's theme and rescues Looker, James and Jessie, but Team Galactic completes their final plan.",
+            "number": "45",
+            "image": "https://image.tmdb.org/t/p/original/kByG8FaikZAZ2c7Q36dsDvyoC54.jpg",
+            "air_date": "2009-11-05"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-46",
+            "title": "The Needs of the Three!",
+            "description": "Team Galactic's plans at capturing the Lake Trio triumph with the help of Pokémon Hunter J and upon being transported to Team Galactic's HQ, Ash, Brock and Dawn find themselves in a tense stand-off with members of Team Galactic while learning that Cyrus, the businessman they met in the past is the leader and founder of Team Galactic. Meanwhile, Hunter J falls to her demise as her ship crashes in Lake Valor when she fails to realise that Future Sight was targeted on her.",
+            "number": "46",
+            "image": "https://image.tmdb.org/t/p/original/AuxIMXHHNsZXoBYkMfCKu0T9YXW.jpg",
+            "air_date": "2009-11-12"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-47",
+            "title": "The Battle Finale of Legend!",
+            "description": "As Team Galactic's plan reaches its final stages, Ash, Brock and Dawn along with Cynthia, the Sinnoh Champion race against time to stop Cyrus from carrying out his plan of creating a new world. Will they succeed or will the Sinnoh region as well as the entire Pokémon world fall victim to Cyrus's mad plans?",
+            "number": "47",
+            "image": "https://image.tmdb.org/t/p/original/5qqVTyAfhFbbduXpX9R8Rmf3D4s.jpg",
+            "air_date": "2009-11-12"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-48",
+            "title": "The Treasure Is All Mine!",
+            "description": "Ash and his friends continue their way to Asatsuki Town for Dawn's next contest when Ash happens to find a treasure chest. However its contents prove surprising to James as he is forced to face his privileged past, his faithful childhood companion and his fiancée!",
+            "number": "48",
+            "image": "https://image.tmdb.org/t/p/original/m3XwGNmWV4NednMhmfsAIflWDuw.jpg",
+            "air_date": "2009-11-26"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-49",
+            "title": "Mastering Current Events!",
+            "description": "While on the way to Sunyshore City, Ash and his friends meet a gentleman who claims to be the master of air battles. Hoping to improve his Gliscor's flying, Ash decides to have a battle with him and his Scizor, and the results may be more than he expected... In the end, Gliscor learns Giga Impact, but Ash decides to leave it with the air battle master to train.",
+            "number": "49",
+            "image": "https://image.tmdb.org/t/p/original/lMca6ScyH6XVP1YDX6WgRnb15k5.jpg",
+            "air_date": "2009-12-03"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-50",
+            "title": "Double-Time Battle Training!",
+            "description": "Ash, Dawn and Brock meet Zoey and Candice after Zoey's contest win and Dawn is trying to make new sequence and Zoey asks Dawn to battle her in a double battle and Zoey choose her newly captured Kirlia and Leafeon and Dawn chooses Cyndaquil and Mamoswine and makes her new move called 'Flame Ice'. On TV, Paul is revealed to have obtained the Mine Badge, also meaning he had obtained all the 8 badges necessary in order to compete in the Sinnoh League.",
+            "number": "50",
+            "image": "https://image.tmdb.org/t/p/original/7pun6uvPMTl2CaHyLVMmzdXdJDS.jpg",
+            "air_date": "2009-12-10"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-51",
+            "title": "A Meteoric Rise to Excellence!",
+            "description": "As our heroes continue toward Daybreak Town and Dawn's next Pokémon Contest, they lose their sense of direction in a large forest. Peering into the sky, all of a sudden they see what turns out to be a move called Draco Meteor. The move comes from an Altaria, a Pokémon under the tutelage of an elderly woman who calls herself Grandma Wilma. The team asks if they can watch Grandma Wilma's coaching session with Altaria. Then the whole group is approached by a feisty Gible, which Grandma Wilma says lives in the forest. Gible wants to be able to use Draco Meteor, too, but can't seem to pull it off!",
+            "number": "51",
+            "image": "https://image.tmdb.org/t/p/original/hngzgXpIC7T1lwacQUyaIQvDhuk.jpg",
+            "air_date": "2009-12-17"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-galactic-battles-episode-52",
+            "title": "Gotta Get a Gible!",
+            "description": "Ash and friends continue on their way to the next town when they notice that the Gible they helped has been following them. Ash decides to try and catch it, but Barry shows up and wants to catch it too.",
+            "number": "52",
+            "image": "https://image.tmdb.org/t/p/original/oUxcBw95d8wOj0B7rnSNvDBymXW.jpg",
+            "air_date": "2009-12-24"
+        }
   ]
 }
