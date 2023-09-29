@@ -963,245 +963,389 @@
     }
   ],
   "episodes": [
-    {
-      "id": "pokemon-black-white-episode-1",
-      "title": "Pokémon: Black & White Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-black-white-episode-2",
-      "title": "Pokémon: Black & White Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-black-white-episode-3",
-      "title": "Pokémon: Black & White Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-black-white-episode-4",
-      "title": "Pokémon: Black & White Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-black-white-episode-5",
-      "title": "Pokémon: Black & White Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-black-white-episode-6",
-      "title": "Pokémon: Black & White Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-black-white-episode-7",
-      "title": "Pokémon: Black & White Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-black-white-episode-8",
-      "title": "Pokémon: Black & White Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-black-white-episode-9",
-      "title": "Pokémon: Black & White Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-black-white-episode-10",
-      "title": "Pokémon: Black & White Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-black-white-episode-11",
-      "title": "Pokémon: Black & White Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-black-white-episode-12",
-      "title": "Pokémon: Black & White Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-black-white-episode-13",
-      "title": "Pokémon: Black & White Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-black-white-episode-14",
-      "title": "Pokémon: Black & White Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-black-white-episode-15",
-      "title": "Pokémon: Black & White Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-black-white-episode-16",
-      "title": "Pokémon: Black & White Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-black-white-episode-17",
-      "title": "Pokémon: Black & White Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-black-white-episode-18",
-      "title": "Pokémon: Black & White Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-black-white-episode-19",
-      "title": "Pokémon: Black & White Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-black-white-episode-20",
-      "title": "Pokémon: Black & White Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-black-white-episode-21",
-      "title": "Pokémon: Black & White Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-black-white-episode-22",
-      "title": "Pokémon: Black & White Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-black-white-episode-23",
-      "title": "Pokémon: Black & White Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-black-white-episode-24",
-      "title": "Pokémon: Black & White Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-black-white-episode-25",
-      "title": "Pokémon: Black & White Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-black-white-episode-26",
-      "title": "Pokémon: Black & White Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-black-white-episode-27",
-      "title": "Pokémon: Black & White Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-black-white-episode-28",
-      "title": "Pokémon: Black & White Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-black-white-episode-29",
-      "title": "Pokémon: Black & White Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-black-white-episode-30",
-      "title": "Pokémon: Black & White Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-black-white-episode-31",
-      "title": "Pokémon: Black & White Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-black-white-episode-32",
-      "title": "Pokémon: Black & White Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-black-white-episode-33",
-      "title": "Pokémon: Black & White Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-black-white-episode-34",
-      "title": "Pokémon: Black & White Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-black-white-episode-35",
-      "title": "Pokémon: Black & White Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-black-white-episode-36",
-      "title": "Pokémon: Black & White Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-black-white-episode-37",
-      "title": "Pokémon: Black & White Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-black-white-episode-38",
-      "title": "Pokémon: Black & White Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-black-white-episode-39",
-      "title": "Pokémon: Black & White Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-black-white-episode-40",
-      "title": "Pokémon: Black & White Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-black-white-episode-41",
-      "title": "Pokémon: Black & White Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-black-white-episode-42",
-      "title": "Pokémon: Black & White Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-black-white-episode-43",
-      "title": "Pokémon: Black & White Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-black-white-episode-44",
-      "title": "Pokémon: Black & White Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-black-white-episode-45",
-      "title": "Pokémon: Black & White Episode 45",
-      "number": 45
-    },
-    {
-      "id": "pokemon-black-white-episode-46",
-      "title": "Pokémon: Black & White Episode 46",
-      "number": 46
-    },
-    {
-      "id": "pokemon-black-white-episode-47",
-      "title": "Pokémon: Black & White Episode 47",
-      "number": 47
-    },
-    {
-      "id": "pokemon-black-white-episode-48",
-      "title": "Pokémon: Black & White Episode 48",
-      "number": 48
-    }
+            {
+            "id": "pokemon-black-white-episode-1",
+            "title": "Enter Elesa, Electrifying Gym Leader!",
+            "description": "After meeting the Nimbasa City Gym Leader, Elesa, our heroes encounter an old friend with a surprise guest!",
+            "number": "1",
+            "image": "https://image.tmdb.org/t/p/original/rWyxneqJ5shC0zfATAh5qHNjvXM.jpg",
+            "air_date": "2011-09-22"
+        },
+        {
+            "id": "pokemon-black-white-episode-2",
+            "title": "Dazzling the Nimbasa Gym!",
+            "description": "The stakes are high for Ash winning his fourth Unova Gym Badge at the Nimbasa Gym, and our hero's taking no chances!",
+            "number": "2",
+            "image": "https://image.tmdb.org/t/p/original/wjpNxSyr6q6yYM8SU1WI25asq2Y.jpg",
+            "air_date": "2011-09-29"
+        },
+        {
+            "id": "pokemon-black-white-episode-3",
+            "title": "Lost at the Stamp Rally!",
+            "description": "Spending the day in Nimbasa City after Ash's fourth Unova Gym Badge win, Cilan has a special challenge in mind, while our heroes discover a fellow Trainer in need!",
+            "number": "3",
+            "image": "https://image.tmdb.org/t/p/original/i9gHHaUn9BXanUPlpcjdpSId0gp.jpg",
+            "air_date": "2011-10-06"
+        },
+        {
+            "id": "pokemon-black-white-episode-4",
+            "title": "Ash Versus the Champion!",
+            "description": "As our heroes prepare to leave Nimbasa City, they bump into Ash's rival Trip, who introduces them to someone they had only dreamed of meeting!",
+            "number": "4",
+            "image": "https://image.tmdb.org/t/p/original/8i9IvQsJZ7RzSPjM5N9zCwMnHAs.jpg",
+            "air_date": "2011-10-13"
+        },
+        {
+            "id": "pokemon-black-white-episode-5",
+            "title": "A Maractus Musical!",
+            "description": "On their way to Driftveil City, our heroes meet an enterprising young man with three dedicated friends and a dream!",
+            "number": "5",
+            "image": "https://image.tmdb.org/t/p/original/5YWH4F3BFjeMI6pfwI7TWFSpxZK.jpg",
+            "air_date": "2011-10-27"
+        },
+        {
+            "id": "pokemon-black-white-episode-6",
+            "title": "The Four Seasons of Sawsbuck!",
+            "description": "Stopping at a Pokémon Center on their way to Driftveil City, out heroes meet a young Pokémon photographer on the mission of a lifetime!",
+            "number": "6",
+            "image": "https://image.tmdb.org/t/p/original/1JwsryMNLM6c6uznlvT7CVnLHvZ.jpg",
+            "air_date": "2011-11-03"
+        },
+        {
+            "id": "pokemon-black-white-episode-7",
+            "title": "Scraggy and the Demanding Gothita!",
+            "description": "On their way to Driftveil City and Ash's next Gym Battle, our heroes meet a demanding Gothita with a crush on Scraggy!",
+            "number": "7",
+            "image": "https://image.tmdb.org/t/p/original/1ZlBi4dGxbTq8M2mjsylmXSbhnl.jpg",
+            "air_date": "2011-11-10"
+        },
+        {
+            "id": "pokemon-black-white-episode-8",
+            "title": "The Lonely Deino!",
+            "description": "On their way to Driftveil City and Ash's next Gym Battle, our heroes come across some very special Pokémon in a very special place!",
+            "number": "8",
+            "image": "https://image.tmdb.org/t/p/original/ihn0iRzEqTQcuYqubOwsFLP4bVR.jpg",
+            "air_date": "2011-11-24"
+        },
+        {
+            "id": "pokemon-black-white-episode-9",
+            "title": "The Mighty Accelguard to the Rescue!",
+            "description": "Arriving in Driftveil City, our heroes meet a fascinating hometown resident with a secret!",
+            "number": "9",
+            "image": "https://image.tmdb.org/t/p/original/aXPMX9GhnTCJaggjMhDTcfvA8bS.jpg",
+            "air_date": "2011-12-01"
+        },
+        {
+            "id": "pokemon-black-white-episode-10",
+            "title": "A Call for Brotherly Love!",
+            "description": "While Ash prepares for his upcoming Gym Battle with Clay, a surprise visitor with a dilemma offers both Ash and Cilan the opportunity to help!",
+            "number": "10",
+            "image": "https://image.tmdb.org/t/p/original/kQWHMME8QJleHVGTW9vv16ULsHe.jpg",
+            "air_date": "2011-12-08"
+        },
+        {
+            "id": "pokemon-black-white-episode-11",
+            "title": "Stopping the Rage of Legends! (Part 1)",
+            "description": "What started as a trip to Milos Island to find Revival Herbs has turned into a cataclysmic battle of legendary proportions!",
+            "number": "11",
+            "image": "https://image.tmdb.org/t/p/original/5OBJXj82OyxMlnppaMtjSCpiHPb.jpg",
+            "air_date": "2011-12-15"
+        },
+        {
+            "id": "pokemon-black-white-episode-12",
+            "title": "Stopping the Rage of Legends! (Part 2)",
+            "description": "In search of scarce Revival Herbs, our heroes are now faced with the potential destruction of Milos Island!",
+            "number": "12",
+            "image": "https://image.tmdb.org/t/p/original/qX8I1W5giZmddgNb1PqnDfBwrcS.jpg",
+            "air_date": "2011-12-22"
+        },
+        {
+            "id": "pokemon-black-white-episode-13",
+            "title": "Battling the King of the Mines!",
+            "description": "With a bag full of revival herbs, our heroes have returned to Driftveil City and Ash is raring to battle Gym Leader Clay!",
+            "number": "13",
+            "image": "https://image.tmdb.org/t/p/original/1I8ebleiFpdl8TKggzaOpbxutMD.jpg",
+            "air_date": "2012-01-05"
+        },
+        {
+            "id": "pokemon-black-white-episode-14",
+            "title": "Crisis at Chargestone Cave!",
+            "description": "Continuing their journey to Mistralton City, our heroes encounter Chargestone Cave and a dilemma for its occupants!",
+            "number": "14",
+            "image": "https://image.tmdb.org/t/p/original/iFC4Gzd2zoyqL98HlOINuIWVoVg.jpg",
+            "air_date": "2012-01-12"
+        },
+        {
+            "id": "pokemon-black-white-episode-15",
+            "title": "Evolution Exchange Excitement!",
+            "description": "After witnessing a dramatic Pokémon trade and evolution, Ash and his friends' excitement has just begun!",
+            "number": "15",
+            "image": "https://image.tmdb.org/t/p/original/eBa09L7IBLDvLKEdmMnu5UkUvwf.jpg",
+            "air_date": "2012-01-19"
+        },
+        {
+            "id": "pokemon-black-white-episode-16",
+            "title": "Explorers of the Hero's Ruin!",
+            "description": "The elder Professor Juniper has invited our heroes to join him in what he promises will be an exciting adventure...and he keeps his promise!",
+            "number": "16",
+            "image": "https://image.tmdb.org/t/p/original/oyOZt0l1XHMIG9LxyluuY3dDLUg.jpg",
+            "air_date": "2012-01-26"
+        },
+        {
+            "id": "pokemon-black-white-episode-17",
+            "title": "Battling the Bully!",
+            "description": "An encounter with Pikachu's rival from the past puts our heroes in the middle of a bullying confrontation!",
+            "number": "17",
+            "image": "https://image.tmdb.org/t/p/original/8Rw6eFCuHGt3cPhvtpuT4PZNVg6.jpg",
+            "air_date": "2012-02-02"
+        },
+        {
+            "id": "pokemon-black-white-episode-18",
+            "title": "Baffling the Bouffalant!",
+            "description": "Ash and friends continue their journey to Mistralton City as they head through a forest. They stop for a lunch break when suddenly they get attacked by a Bouffalant. After running away, the gang gets separated.",
+            "number": "18",
+            "image": "https://image.tmdb.org/t/p/original/jN7nJdBA4GybL7jXWYJffYcqPbJ.jpg",
+            "air_date": "2012-02-16"
+        },
+        {
+            "id": "pokemon-black-white-episode-19",
+            "title": "Cilan Takes Flight!",
+            "description": "Ash is surprised to see a long line of Trainers waiting to challenge Skyla, the Mistralton City Gym Leader, and is even more surprised when he’s told he has to make an appointment for their battle!",
+            "number": "19",
+            "image": "https://image.tmdb.org/t/p/original/yrtZfEgMCFPacQsHojhgFC3VQsa.jpg",
+            "air_date": "2012-02-23"
+        },
+        {
+            "id": "pokemon-black-white-episode-20",
+            "title": "An Amazing Aerial Battle!",
+            "description": "After some convincing by a group of young challengers and Skyla’s grandfather, Skyla takes Ash up on his Gym Battle challenge.",
+            "number": "20",
+            "image": "https://image.tmdb.org/t/p/original/lKH2P86wwo6UpOPkXexHAt8Ev9f.jpg",
+            "air_date": "2012-03-01"
+        },
+        {
+            "id": "pokemon-black-white-episode-21",
+            "title": "Climbing the Tower of Success!",
+            "description": "After winning his sixth badge, Ash and friends bump into Stephan. He is in town to compete in the Bell of Wishes Festival that is being held that day. Ash, Iris, and Cilan, after finding out that the winner gets to ring the bell atop Mistralton Tower and get a wish granted, decide to compete in the festival.",
+            "number": "21",
+            "image": "https://image.tmdb.org/t/p/original/6OsL0Pda5OM4LRD4pjZcpaoVi0m.jpg",
+            "air_date": "2012-03-08"
+        },
+        {
+            "id": "pokemon-black-white-episode-22",
+            "title": "The Clubsplosion Begins!",
+            "description": "At Ambiga Town, the local Don George holds a tournament called \"Clubsplosion\" to showcase Fighting-Type Pokémon, but all are welcome. Ash, Stephan, Bianca, Trip, and Georgia all enter the tournament, with Ash using his Scraggy. Ash and Scraggy's first opponent is Angus and his Simisage.",
+            "number": "22",
+            "image": "https://image.tmdb.org/t/p/original/mzoWhxFEuVxT8nF7TdcAhUTgRL7.jpg",
+            "air_date": "2012-03-15"
+        },
+        {
+            "id": "pokemon-black-white-episode-23",
+            "title": "Search for the Clubultimate!",
+            "description": "The Clubsplosion tournament continues. Iris and Excadrill face off against Burgundy and Dewott. Bianca and Emboar face off against Trip and Conkeldurr. And Dragon Buster Georgia and Bisharp face off against newcomer Gale and her Druddigon.",
+            "number": "23",
+            "image": "https://image.tmdb.org/t/p/original/wl9X4iMIYZ0k1nWsMZirbP4VJzW.jpg",
+            "air_date": "2012-03-22"
+        },
+        {
+            "id": "pokemon-black-white-episode-24",
+            "title": "A Clubsplosion of Excitement!",
+            "description": "The first round of the Clubsplosion tournament ends with Bianca's and Trip's battle. As the second round gets underway, the remaining contestants battle for the chance to enter the Top 4 in the Clubsplosion semi-finals.",
+            "number": "24",
+            "image": "https://image.tmdb.org/t/p/original/ujlgQPuL12Vs24M0ZNm7Ku70C9I.jpg",
+            "air_date": "2012-03-29"
+        },
+        {
+            "id": "pokemon-black-white-episode-25",
+            "title": "Commanding the Clubsplosion Crown!",
+            "description": "The Clubsplosion semifinals rage on. Bianca and Emboar battle Stephan and Sawk, while Ash and Scraggy battle Montgomery and his Throh. In the finals, Stephan and Sawk face Montgomery and Throh. Who will win the Clubsplosion Tournament?",
+            "number": "25",
+            "image": "https://image.tmdb.org/t/p/original/coUVJxniu5PAqhPsBqpTzpHc42c.jpg",
+            "air_date": "2012-04-05"
+        },
+        {
+            "id": "pokemon-black-white-episode-26",
+            "title": "Battling the Leaf Thieves!",
+            "description": "During a practice match against Iris' Emolga, Ash's Swadloon evolves into Leavanny. Leavanny's leaf-sewing process causes it to make costumes for the other Pokémon, but this causes Axew to be accidentally kidnapped by a pair of Durant who are building a den. They stop to think about how they are going to enter the Durant's den, and to be able to rescue Axew.",
+            "number": "26",
+            "image": "https://image.tmdb.org/t/p/original/l31MF0BUj1BwJmqNsTkLCEteDJ7.jpg",
+            "air_date": "2012-04-12"
+        },
+        {
+            "id": "pokemon-black-white-episode-27",
+            "title": "A Restoration Confrontation! (1)",
+            "description": "Ash, Cilan, and Iris make their way to Twist Mountain where they come across a fossil dig that has discovered a fossil Tirtouga. However, Team Rocket arrives and steals the fossil.",
+            "number": "27",
+            "image": "https://image.tmdb.org/t/p/original/zjpjUGGlIdxLR8lfCfnZdPCCPa9.jpg",
+            "air_date": "2012-04-19"
+        },
+        {
+            "id": "pokemon-black-white-episode-28",
+            "title": "A Restoration Confrontation! (2)",
+            "description": "The adventure with Mount Twist, Tirtouga, and Carracosta continues.",
+            "number": "28",
+            "image": "https://image.tmdb.org/t/p/original/4fCoWaM7PU4Nv2iJer5TGPcpscB.jpg",
+            "air_date": "2012-04-26"
+        },
+        {
+            "id": "pokemon-black-white-episode-29",
+            "title": "Evolution by Fire!",
+            "description": "Stopping at Abtilbe Town's Battle Club, Ash meets his Tepig's former trainer Shamus who abandoned Tepig because he felt he was too weak. Angry, Ash challenges Shamus to a double battle with Snivy and Tepig going up against Shamus's Emboar and Heatmor.",
+            "number": "29",
+            "image": "https://image.tmdb.org/t/p/original/87ShhYhTQBV7yMqkO7l1FU0ml8V.jpg",
+            "air_date": "2012-05-03"
+        },
+        {
+            "id": "pokemon-black-white-episode-30",
+            "title": "Guarding the Guardian of the Mountain!",
+            "description": "Ash, Iris, and Cilan finally arrive in Icirus City. But before Ash can challenge movie star Brycen and his Beartic for his next Gym Badge, they must help Brycen save Volcarona from the Pokémon Hunter Rizzo and his two Jellicent.",
+            "number": "30",
+            "image": "https://image.tmdb.org/t/p/original/tZTrOxNHkX8HIpQfRdGgyAKwz6C.jpg",
+            "air_date": "2012-05-10"
+        },
+        {
+            "id": "pokemon-black-white-episode-31",
+            "title": "Caution: Icy Battle Conditions!",
+            "description": "Ash challenges Brycen for the Icicle Badge, putting Scraggy, Krokorok, and Pignite up against Vanillish, Cryogonal, and Beartic.",
+            "number": "31",
+            "image": "https://image.tmdb.org/t/p/original/gHVXQIoPrD0sL9R7n8U6Zyj41VJ.jpg",
+            "air_date": "2012-05-17"
+        },
+        {
+            "id": "pokemon-black-white-episode-32",
+            "title": "Clash of the Connoisseurs!",
+            "description": "With only one more badge left, the group heads to Opelucid City so Ash can challenge the Gym Leader. Unfortunately for Ash, the Gym in Opelucid City is closed. When the group stops in Stonesthrow Town, Cilan meets little Marigold who is picking out her first Pokémon today. Cilan offers his skills as a Pokémon Connoisseur, but another A-Class Connoisseur named Ricard Nouveau offers up his services instead of Cilan's, and they have a battle to determine who is the better Connoisseur. All while the S-Class Connoisseur Fauxgundy watches, but they believe they have seen her somewhere before.",
+            "number": "32",
+            "image": "https://image.tmdb.org/t/p/original/ltRPb87Ezu0YLiBy8kUA7JvgjyC.jpg",
+            "air_date": "2012-05-24"
+        },
+        {
+            "id": "pokemon-black-white-episode-33",
+            "title": "Crisis at Ferroseed Research!",
+            "description": "The group meets up with Dragon Buster Georgia who has a Vanilluxe now. They travel to the Ferroseed Institute to see the Moss Pokémon Ferroseed being studied, but when an accident forces an evacuation, Iris, her Axew, Ash's Oshawott, and Georgia's Vanilluxe are trapped inside. Iris has not yet overcome her crippling phobia of Ice-Types, and she must figure out a way out with Vanilluxe at her side.",
+            "number": "33",
+            "image": "https://image.tmdb.org/t/p/original/wBZIKZc3ONSP5jYd3Pp4Cvebusp.jpg",
+            "air_date": "2012-05-31"
+        },
+        {
+            "id": "pokemon-black-white-episode-34",
+            "title": "An Epic Defense Force!",
+            "description": "After Ash and the gang arrive in Virbank City and Cilan gives them a rundown of the area’s history, they run into their filmmaking friend Luke and his Zorua! Thanks to winning a film festival with the movie our heroes helped him make (The Legend of the Pokémon Knight), Luke is there to attend a preview event for Pokéstar Studios, a theme park opening soon within the film studio lots.",
+            "number": "34",
+            "image": "https://image.tmdb.org/t/p/original/6rF5xUaMQSCaIaU0Aw0XQP5SrZj.jpg",
+            "air_date": "2012-06-07"
+        },
+        {
+            "id": "pokemon-black-white-episode-35",
+            "title": "Rocking the Virbank Gym! (Part 1)",
+            "description": "Ash heads to Virbank City to face off against its Gym Leader, punk rocker Roxie from the band Koffing and the Toxics, in order to obtain his eighth Unova League Gym Badge.",
+            "number": "35",
+            "image": "https://image.tmdb.org/t/p/original/4wwLE70ysmHHrN7Qyxnxz9kQi56.jpg",
+            "air_date": "2012-06-14"
+        },
+        {
+            "id": "pokemon-black-white-episode-36",
+            "title": "Rocking the Virbank Gym! (Part 2)",
+            "description": "Ash's battle against Roxie for the Toxic Badge continues.",
+            "number": "36",
+            "image": "https://image.tmdb.org/t/p/original/vrrFwi648pKVWyiV2dPlZpUySJc.jpg",
+            "air_date": "2012-06-14"
+        },
+        {
+            "id": "pokemon-black-white-episode-37",
+            "title": "All for the Love of Meloetta!",
+            "description": "After learning the Unova League conference will not be held for three more months, Ash, Iris, and Clian meet up with Cynthia, the Sinnoh Region Champion. She says she has come to Unova to participate in an exhibition match at the Pokémon World Tournament Junior Cup, held in Lacunosa Town, and Ash learns that the prize of the tournament is a battle with Alder, Unova's reigning Champion. As the four head out of Virbank City for Undella Town, they come across the legendary Melody Pokémon, Meloetta who seems to have fallen ill.",
+            "number": "37",
+            "image": "https://image.tmdb.org/t/p/original/70NWkaoV4VGS12qcKtpF5maZEf.jpg",
+            "air_date": "2012-06-21"
+        },
+        {
+            "id": "pokemon-black-white-episode-38",
+            "title": "Piplup, Pansage, and a Meeting of the Times!",
+            "description": "Upon arriving in Undella Town, Cynthia leads the gang to her villa where Dawn and Piplup are waiting for them. Dawn has come to Unova to perfect her Coordinator skills, and Cilan decides to have a Tasting Battle to see exactly what she can do.",
+            "number": "38",
+            "image": "https://image.tmdb.org/t/p/original/2T2maEriCBIzf7hgInzF2xJufka.jpg",
+            "air_date": "2012-06-28"
+        },
+        {
+            "id": "pokemon-black-white-episode-39",
+            "title": "Expedition to Onix Island!",
+            "description": "While Cynthia is preparing for the Junior Cup, Ash, Cilan, Iris, and Dawn take a trip to an uninhabited island for some relaxation. However, they soon discover the island is home to several Onix that begin to attack them.",
+            "number": "39",
+            "image": "https://image.tmdb.org/t/p/original/bXAe4bC9FJdMYnvJeCMK6A41BAw.jpg",
+            "air_date": "2012-07-05"
+        },
+        {
+            "id": "pokemon-black-white-episode-40",
+            "title": "The Mystery of the Missing Cubchoo!",
+            "description": "While in Undella Town, Cilan helps a boy named Chris track down his missing Cubchoo. However, they instead find a roaming Beartic that might have once been Chris's Cubchoo.",
+            "number": "40",
+            "image": "https://image.tmdb.org/t/p/original/bDN51vy12BGnjmD0afOfOvbRF3u.jpg",
+            "air_date": "2012-07-19"
+        },
+        {
+            "id": "pokemon-black-white-episode-41",
+            "title": "Iris and the Rogue Dragonite!",
+            "description": "When the power goes out in Undella Town, the gang tries to help out when they discover a rampaging Dragonite may be to blame. When Iris discovers the Dragonite, she believes it is truly not bad but she is soon trapped in the room with the Dragonite along with Ash's Oshawott and Dawn's Piplup.",
+            "number": "41",
+            "image": "https://image.tmdb.org/t/p/original/y3e8FvkKkXEkbBNkRHDKsa7of6s.jpg",
+            "air_date": "2012-07-26"
+        },
+        {
+            "id": "pokemon-black-white-episode-42",
+            "title": "Jostling for the Junior Cup!",
+            "description": "The Pokémon World Tournament Junior Cup begins, with rivals such as Trip, Georgia, and Burgundy showing up to take part in the tournament. After an exhibition match between Sinnoh Champion Cynthia's Garchomp and Unova Elite Four member Caitlin's Gothitelle ends in a no official winner, the first round begins. Iris is up first against Georgia, with Iris's newly captured Dragonite being pitted up against Georgia's Beartic.",
+            "number": "42",
+            "image": "https://image.tmdb.org/t/p/original/bRw67ZSESquabUYhv53BJtHlrVJ.jpg",
+            "air_date": "2012-08-02"
+        },
+        {
+            "id": "pokemon-black-white-episode-43",
+            "title": "Battling Authority, Once Again!!",
+            "description": "The quarter-final matches of the Pokémon World Tournament Junior Cup take place, and Iris must go up against Dawn, pitting Dragonite against Mammoswine. In another match, Cilan and Crustle take on Trip and Serperior.",
+            "number": "43",
+            "image": "https://image.tmdb.org/t/p/original/yZ2jcRLzqnpSdfaFcS91dH3Ye7p.jpg",
+            "air_date": "2012-08-23"
+        },
+        {
+            "id": "pokemon-black-white-episode-44",
+            "title": "Ash, Iris, and Trip: Then There Were Three!!",
+            "description": "With the semi-finals of the Pokémon World Tournament Junior Cup underway, and with the grand prize of having a battle with Alder on the line, Ash, Iris, and Trip go all out.",
+            "number": "44",
+            "image": "https://image.tmdb.org/t/p/original/oIsMFqcw5ZcDOK12dsjV0m62DFg.jpg",
+            "air_date": "2012-08-30"
+        },
+        {
+            "id": "pokemon-black-white-episode-45",
+            "title": "Goodbye, Junior Cup - Hello Adventure!",
+            "description": "After Trip's match against Alder, the Junior Cup draws to a close and the contestants bid each other farewell. Ash, Iris, and Cilan meet Cameron, a young naive trainer who wants to travel with them. Dawn bids farewell as well, but not before having a practice match against Ash.",
+            "number": "45",
+            "image": "https://image.tmdb.org/t/p/original/n75igKkJWsYiiE57wbj8NXVNwFC.jpg",
+            "air_date": "2012-09-06"
+        },
+        {
+            "id": "pokemon-black-white-episode-46",
+            "title": "The Road to Humilau",
+            "description": "Ash, Iris, and Cilan help Cameron get to Humilau City where he wants to challenge Marlon for his own eighth Unova League Gym Badge. On the way, Ash and Cameron are separated from the group. Ash almost falls off a cliff, but then Cameron saves his life. Cameron has a \"great idea\" and he gets out what seems to be a \"map\", which was a table cloth. As they continue heading down a road, it starts to rain and then they take shelter in a nearby cave. Realizing that they didn't have any food, Ash, Cameron and their Pokémon are hungry as Meloetta leaves only to come back with an apple. Meloetta leads them to an apple tree where they harvest the apples to bring them back to the cave to munch on them. After they ate the apples (and Cameron's Riolu hiccups adorably), they decide to stay the night in the cave until the rain stops. Ash and Cameron exchange their goals in life. Ash wanting to a Pokémon Master while Cameron wanting to be the best Pokémon Champion in the world.",
+            "number": "46",
+            "image": "https://image.tmdb.org/t/p/original/c91iibjooMj4J5KJXaFveyaWKuQ.jpg",
+            "air_date": "2012-09-13"
+        },
+        {
+            "id": "pokemon-black-white-episode-47",
+            "title": "Unrest at the Nursery",
+            "description": "While still staying at Cynthia's villa and training for the Unova League conference, Ash and the gang come across a fighting pair of Rufflet and Vullaby. It turns out they have both escaped the inexperienced Day Care Nurse, Layla. Whilst the manager is away, Ash, Iris and Cilan help Layla in the Nursery, but the ongoing conflict between the two Pokémon both craving Layla's attention continues.",
+            "number": "47",
+            "image": "https://image.tmdb.org/t/p/original/fqzehya3h0TdsHmqM77IWxhVpmR.jpg",
+            "air_date": "2012-09-20"
+        },
+        {
+            "id": "pokemon-black-white-episode-48",
+            "title": "Meloetta and the Undersea Temple",
+            "description": "Ash continues to train at Cynthia's villa until Ridley (a member of an ancient civilisation dedicated to protecting Meloetta) and his Golurk hear Meloetta's song and come to take Meloetta back. At first, Ridley assumes Ash is associated with the thieves, but this turns out not to be the case. Before Ridley can take Meloetta home, Team Rocket assaults the group and capture Meloetta and summon up the ancient Abyssal Temple through its power and song. The heroes try to fend off Team Rocket, but with Giovanni himself present they are too strong.",
+            "number": "48",
+            "image": "https://image.tmdb.org/t/p/original/lDRCRmMgniOY6JXa3rKvEJ5VAI1.jpg",
+            "air_date": "2012-09-27"
+        }
   ]
 }
