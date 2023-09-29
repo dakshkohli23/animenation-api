@@ -34,6 +34,7 @@
     "day": 25
   },
   "totalEpisodes": 51,
+  "currentEpisode": 51,
   "rating": 68,
   "duration": 24,
   "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
@@ -963,239 +964,412 @@
   ],
   "episodes": [
     {
-      "id": "pokemon-diamond-and-pearl-episode-1",
-      "title": "Pokémon: Diamond and Pearl Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-2",
-      "title": "Pokémon: Diamond and Pearl Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-3",
-      "title": "Pokémon: Diamond and Pearl Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-4",
-      "title": "Pokémon: Diamond and Pearl Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-5",
-      "title": "Pokémon: Diamond and Pearl Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-6",
-      "title": "Pokémon: Diamond and Pearl Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-7",
-      "title": "Pokémon: Diamond and Pearl Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-8",
-      "title": "Pokémon: Diamond and Pearl Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-9",
-      "title": "Pokémon: Diamond and Pearl Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-10",
-      "title": "Pokémon: Diamond and Pearl Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-11",
-      "title": "Pokémon: Diamond and Pearl Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-12",
-      "title": "Pokémon: Diamond and Pearl Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-13",
-      "title": "Pokémon: Diamond and Pearl Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-14",
-      "title": "Pokémon: Diamond and Pearl Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-15",
-      "title": "Pokémon: Diamond and Pearl Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-16",
-      "title": "Pokémon: Diamond and Pearl Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-17",
-      "title": "Pokémon: Diamond and Pearl Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-18",
-      "title": "Pokémon: Diamond and Pearl Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-19",
-      "title": "Pokémon: Diamond and Pearl Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-20",
-      "title": "Pokémon: Diamond and Pearl Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-21",
-      "title": "Pokémon: Diamond and Pearl Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-22",
-      "title": "Pokémon: Diamond and Pearl Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-23",
-      "title": "Pokémon: Diamond and Pearl Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-24",
-      "title": "Pokémon: Diamond and Pearl Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-25",
-      "title": "Pokémon: Diamond and Pearl Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-26",
-      "title": "Pokémon: Diamond and Pearl Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-27",
-      "title": "Pokémon: Diamond and Pearl Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-28",
-      "title": "Pokémon: Diamond and Pearl Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-29",
-      "title": "Pokémon: Diamond and Pearl Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-30",
-      "title": "Pokémon: Diamond and Pearl Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-31",
-      "title": "Pokémon: Diamond and Pearl Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-32",
-      "title": "Pokémon: Diamond and Pearl Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-33",
-      "title": "Pokémon: Diamond and Pearl Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-34",
-      "title": "Pokémon: Diamond and Pearl Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-35",
-      "title": "Pokémon: Diamond and Pearl Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-36",
-      "title": "Pokémon: Diamond and Pearl Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-37",
-      "title": "Pokémon: Diamond and Pearl Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-38",
-      "title": "Pokémon: Diamond and Pearl Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-39",
-      "title": "Pokémon: Diamond and Pearl Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-40",
-      "title": "Pokémon: Diamond and Pearl Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-41",
-      "title": "Pokémon: Diamond and Pearl Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-42",
-      "title": "Pokémon: Diamond and Pearl Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-43",
-      "title": "Pokémon: Diamond and Pearl Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-44",
-      "title": "Pokémon: Diamond and Pearl Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-45",
-      "title": "Pokémon: Diamond and Pearl Episode 45",
-      "number": 45
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-46",
-      "title": "Pokémon: Diamond and Pearl Episode 46",
-      "number": 46
-    },
-    {
-      "id": "pokemon-diamond-and-pearl-episode-47",
-      "title": "Pokémon: Diamond and Pearl Episode 47",
-      "number": 47
-    }
+            "id": "pokemon-diamond-and-pearl-episode-1",
+            "title": "Following A Maiden's Voyage!",
+            "description": "It's always exciting when new Pokémon Trainers receives their first Pokémon, but for a girl named Dawn, things will be far more exciting than she'd ever imagined! Here in the Sinnoh region, Trainers receive their Pokémon from Professor Rowan, whose lab is near Sandgem Town—but soon after Dawn leaves her home in Twinleaf Town and heads for the lab, she's hopelessly lost. Fortunately, she runs into Professor Rowan on the street and follows him to the lab. But while the Professor was out, his assistants accidentally let two of the starter Pokémon, Chimchar and Pilplup, break out of the lab.",
+            "number": "1",
+            "image": "https://image.tmdb.org/t/p/original/xe1B19QZrQLTWsOdXpQa0dG8HNw.jpg",
+            "air_date": "2006-09-28"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-2",
+            "title": "Two Degrees of Separation!",
+            "description": "Dawn and Piplup begin their journey, and enter their first attempts to catch some Pokémon. Although, during those attempts, Dawn and Piplup run into Ash's Pikachu, and Team Rocket. Meanwhile, Ash continues looking for Pikachu and meets back up with Brock, and together they go catch up with Dawn.",
+            "number": "2",
+            "image": "https://image.tmdb.org/t/p/original/4zAr1DVBa15Kzd3mRBVHmjuKFnK.jpg",
+            "air_date": "2006-09-28"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-3",
+            "title": "When Pokémon Worlds Collide!",
+            "description": "While searching for Pikachu, Ash and Brock run into a new rival named Paul, who challenges Ash to a battle, but Ash can't compete without Pikachu; Dawn and Piplup meet Ash and Brock, and together they try to rescue Pikachu from Team Rocket.",
+            "number": "3",
+            "image": "https://image.tmdb.org/t/p/original/5Q9MIXwiKZfYDkouyYaZ2d7LSge.jpg",
+            "air_date": "2006-09-28"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-4",
+            "title": "Dawn of a New Era!",
+            "description": "\"The journey of a thousand miles begins with a single step.\"\r\n\r\nThis cannot be more true for Dawn as she now has Ash, a Trainer with many victories, 28 badges and a winner's trophy under his belt and Brock, the Pewter Gym Leader traveling with her now. As she is about to capture a Buneary, she makes mistakes which Ash points out and suddenly she smacks Ash with her Poké Ball. Soon they get into a big fight about it (Doesn't this sound familiar) and (as usual) Brock is in the middle of it. They soon notice the sun being extremely bright and find the cause: A Budew that belongs to a wandering minstrel named Nando, who just started his own journey. As a token of good will he offers Dawn a chance to battle him. How will she fair for her first battle and will she ever get along with Ash?",
+            "number": "4",
+            "image": "https://image.tmdb.org/t/p/original/z8ztSU8mZmDR4MFupPtEZgy9uUv.jpg",
+            "air_date": "2006-10-05"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-5",
+            "title": "Gettin' Twiggy with It!",
+            "description": "While heading to the first stop on their journey, Pikachu is captured by Team Rocket and Ash and co. are not far behind. After their balloon popped Team Rocket found Pikachu protected by a Turtwig. When Ash and co. find Pikachu with Turtwig its caretaker, a kindly old lady by the name of Clara, invited them over for lunch. Turns out she's a Pokémon Caretaker and Turtwig (like Bulbasaur before it) is her bodyguard but it really likes Ash. Will Ash accept Turtwig?",
+            "number": "5",
+            "image": "https://image.tmdb.org/t/p/original/rVr1rhkdNDQPef2Wn7eboaFxaqy.jpg",
+            "air_date": "2006-10-19"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-6",
+            "title": "Different Strokes for Different Blokes!",
+            "description": "While en route to Jubilife City, Ash and co. encounter Paul again. He declares a Battle with Ash to see if Ash has gotten stronger since their last battle. Will this battle end differently for Ash, or will Paul have the advantage the second time around?",
+            "number": "6",
+            "image": "https://image.tmdb.org/t/p/original/pme1H6nVWBAoqFsht9fmYOyUGiT.jpg",
+            "air_date": "2006-10-26"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-7",
+            "title": "Like it or Lup It!",
+            "description": "The roar of the crowd and the excitement in the air as Dawn prepares to start off her contest debut. Just kidding: it's just Dawn practicing (and failing) her appeals training. Elsewhere, Team Rocket stole some berries that belonged to a Golduck, Wooper, Quagsire and Poliwag. Soon after this group finds Piplup and it agrees to solve the problem. Can this plucky Pokémon settle this dispute diplomatically?",
+            "number": "7",
+            "image": "https://image.tmdb.org/t/p/original/aboQ92C0GInskovGByUcUoVVAYD.jpg",
+            "air_date": "2006-11-02"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-8",
+            "title": "Gymbaliar!",
+            "description": "Still en route to Jubilife City, Ash and co. meet a girl named Minnie who tells the gang about a Gym called the Powerzone Gym. As usual Ash wants in on the Gym Battles so he, Dawn, Brock and Minnie check it out. What kind of Gym is this, and is it authorized by the Sinnoh League?",
+            "number": "8",
+            "image": "https://image.tmdb.org/t/p/original/a5ZyYcnWaD4guNplI6cnIV0ynSY.jpg",
+            "air_date": "2006-11-09"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-9",
+            "title": "Setting the World on its Buneary!",
+            "description": "Early one morning, Ash is awoken by Dawn who is having a \"Bad Hair Morning\". And anyone who dares see her with bedhead will never see another sunrise again! After a Bubble Beam attack Dawn comes out with her hair silky smooth. Later Dawn spots a Buneary, a Pokémon she has tried so hard to capture, but this one seems to be infatuated by Ash's Pikachu. So she freezes everyone but Pikachu with an Ice Beam attack, but Pikachu did not like this and told her off, which broke her little heart. Can Pikachu be able to mend it, and will this Buneary be a part of Dawn's small Pokémon family?",
+            "number": "9",
+            "image": "https://image.tmdb.org/t/p/original/tdma3AJmWLxcNPv9J3alGB1g0Ka.jpg",
+            "air_date": "2006-11-16"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-10",
+            "title": "Not on MY Watch Ya Don't!",
+            "description": "Ash and co. finally arrive at Jubilife City, the first stop in Dawn's quest to be a great coordinator. It is there that she learns of a new fad. It's hip, it's hot, it's happenin' it's the Pokétch and, like all girls, Dawn has to have one. She gets one from three clowns only to find out from a smart little boy named Landis that it is a fake. Will she be able to get a real Pokétch, or will she be a trend loser?",
+            "number": "10",
+            "image": "https://image.tmdb.org/t/p/original/ccVGwYi1N3fVVCCmWOWGH2nzQt1.jpg",
+            "air_date": "2006-11-30"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-11",
+            "title": "Mounting a Coordinator Assault!",
+            "description": "The first of anything can be quite stressful. Dawn has made it to the Jubilife Contest hoping to win her very first ribbon. She meets a girl by the name of Zoey, who has a Glameow just like her mom. She also meet the fabulous Jessilina (Who unbeknownst to her is really Jessie). All eyes focus on newcomer Dawn. Will she have what it takes to make it to the top?",
+            "number": "11",
+            "image": "https://image.tmdb.org/t/p/original/rV4GuPqDHhsXO7rs6Jg3FNpOXXx.jpg",
+            "air_date": "2006-12-07"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-12",
+            "title": "Arrival of a Rival!",
+            "description": "As the Jubilife contest continues, Ash, Dawn, Zoey and Jessilina (aka Jessie) pass with flying colors. But the tension mounds and pressure is really put on Dawn. Will she manage to win her very first contest, or will Zoey manage to win it all?",
+            "number": "12",
+            "image": "https://image.tmdb.org/t/p/original/fxZGit3B6635N76FzqSBkgfuRNw.jpg",
+            "air_date": "2006-12-14"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-13",
+            "title": "A Staravia Is Born!",
+            "description": "Ash and the gang find a Pokémon bird-watcher named Rosebay who wonders why the bird Pokémon have been recently disappearing. They decide to investigate at a nearby canyon where they spot Team Rocket capturing multiple bird Pokémon, including Ash's Starly. The gang works together to try and free the bird Pokémon, but will they be able to successfully save Starly from Team Rocket?",
+            "number": "13",
+            "image": "https://image.tmdb.org/t/p/original/aW6mvEcuSN8dxDqFqrSLRpdzaxi.jpg",
+            "air_date": "2006-12-21"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-14",
+            "title": "Leave it to Brocko!",
+            "description": "When Ash and his friends discover an injured and displaced Nuzleaf in a forest. Seeing that Nuzleaf is lost, they decided to return it to its home. Unfortunately, Team Rocket captures Nuzleaf and takes Brock along with he tries to stop them. However, Brock's quick thinking and culinary skills thwart their plans and helps Nuzleaf get home safe to its friends.",
+            "number": "14",
+            "image": "https://image.tmdb.org/t/p/original/gvrNlqGbmvtwfjgNndL2cdEbKnW.jpg",
+            "air_date": "2006-12-21"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-15",
+            "title": "Shapes of Things to Come!",
+            "description": "Ash, Dawn and Brock arrive at Oreburgh City, where Ash is stoked about getting his first Gym Badge. However, not only did Paul get there first but the Gym Leader isn't there. Apparently Roark, the Gym Leader, went to the mines to dig for coal. When they run to meet him he said that he totally forgot his duties as a Gym Leader. When they go back, Roark decides to challenge Paul first. Will Paul be able to beat Roark?",
+            "number": "15",
+            "image": "https://image.tmdb.org/t/p/original/lPyq9wYs12kBECbhWOVy2JLqTkP.jpg",
+            "air_date": "2007-01-11"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-16",
+            "title": "A Gruff Act to Follow!",
+            "description": "After Paul dominated the Oreburgh Gym, Ash had to think about what Pokémon he could use. Naturally he chose Turtwig, Aipom and Pikachu to go up against Roark's Rock-type Pokémon. Will this strategy work, or will history for Ash repeat itself?",
+            "number": "16",
+            "image": "https://image.tmdb.org/t/p/original/vvq6XyIGTdnCHHR1JYj8fTXFmSl.jpg",
+            "air_date": "2007-01-18"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-17",
+            "title": "Wild in the Streets!",
+            "description": "After Ash suffered a defeat last time, he doesn't let it bother him as he trains with his Pokémon for his rematch with Roark. Meanwhile, Team Rocket resurrects an Aerodactyl that goes nuts and nearly destroys the city. Can Ash be able to face this ancient Pokémon again? And will Dawn be ready for her next contest?",
+            "number": "17",
+            "image": "https://image.tmdb.org/t/p/original/cVssnAu1nhlK3xZindthkzjn12E.jpg",
+            "air_date": "2007-01-25"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-18",
+            "title": "O'er the Rampardos We Watched!",
+            "description": "Ash returns to Oreburgh Gym, ready to challenge Roark again. As the battle starts, Ash quickly surprises everyone when Pikachu manages to take down Onix. As the second battle begins, Ash pits Aipom against Geodude. After a long struggle, Ash manages to beat Geodude, and loses Pikachu and Aipom before the real test begins, defeating Roark's newly evolved Rampardos.",
+            "number": "18",
+            "image": "https://image.tmdb.org/t/p/original/5MuTrHgt7aGFoiQX9VZulebjXln.jpg",
+            "air_date": "2007-02-01"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-19",
+            "title": "Twice Smitten, Once Shy!",
+            "description": "Dawn catches a Pachirisu but quickly discovers the cute Pokémon may be too feisty to control. Seeing this, Dawn questions her competence as a trainer. Meanwhile, Team Rocket also wants Pachirisu as they try to lure it with food in order to capture it.",
+            "number": "19",
+            "image": "https://image.tmdb.org/t/p/original/leCK0XPJqwjJoCBcRADWsjC4Hxv.jpg",
+            "air_date": "2007-02-08"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-20",
+            "title": "Mutiny in the Bounty!",
+            "description": "On the way to Floaroma Town, Ash and the others hear some screaming nearby. At a house, a Pokémon hunter named J has just captured a girl named Melodi and kidnapped her Gardevoir and she quickly flees the scene. Ash gives chase to her, and tries to battle her, only to have Pikachu frozen in stone and stolen just like Gardevoir. They decide to help Officer Jenny and try to help capture J, but eventually she also gets Meowth as well! Before she can take off, Ash, Jessie, and James sneak under her vehicle and follow her to her secret flying base. Now, the reluctant allies must work together to get back their Pokémon from J's clutches.",
+            "number": "20",
+            "image": "https://image.tmdb.org/t/p/original/5VrbShvJAwvYr83xCDMjT7zKs8A.jpg",
+            "air_date": "2007-02-22"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-21",
+            "title": "Ya See We Want an Evolution!",
+            "description": "While they were walking tiredly, Team Rocket once again encounter the Magikarp salesman, not having forgotten how he tricked James into buy several Magikarp. James tries to take his money back until Magikarp salesman convinces Team Rocket to buy an Evolution Machine. Meanwhile, Ash and co. visit Oralie and Haley, two coordinators that claim to have the strongest Magikarp and Feebas ever. After both Ash and Dawn's defeat by Oralie's Magikarp, Team Rocket steals Magikarp, Feebas and Pikachu and tries to evolve them. Will they succeed?",
+            "number": "21",
+            "image": "https://image.tmdb.org/t/p/original/3fpuf3PgHnoo7mJFTecy4trrjie.jpg",
+            "air_date": "2007-03-01"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-22",
+            "title": "Borrowing on Bad Faith!",
+            "description": "Aipom takes Ash's hat and playfully runs away, but then finds itself in trouble. However, Aipom is saved by Jessie and then convinces Ash to let her use his Pokémon in an upcoming contest. Although, Ash worries that he may lose his Aipom to Team Rocket.",
+            "number": "22",
+            "image": "https://image.tmdb.org/t/p/original/rtOupBmHEpo7iDaIitYShsMGoQJ.jpg",
+            "air_date": "2007-03-08"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-23",
+            "title": "Faced with Steelix Determination!",
+            "description": "When Team Rocket was planning their next pitfall trap, their shovels suddenly got stuck in the ground. When they try to pull them out, a Steelix pops out of the ground with the shovels stuck in its head. It grows angry and begins to chase them. Meanwhile, Ash and his friends discover an injured Bidoof. After healing its injuries, they decide to help it go back to its village. However, Team Rocket and the rampaging Steelix come by, forcing them to run into Bidoof's Village. Lucky for them, the Bidoof Village is surrounded by a huge rock wall, but Steelix will be able to break through. Now Ash and the others must find a way to stop Steelix before it destroys the Bidoof Village.",
+            "number": "23",
+            "image": "https://image.tmdb.org/t/p/original/bofkLLmEZhyBpDutq2uUYAJyb1v.jpg",
+            "air_date": "2007-03-15"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-24",
+            "title": "Cooking Up a Sweet Story!",
+            "description": "When a girl named Theresa asks Ash to let Pikachu stand in for her aunt Abigail's lost Pikachu, Sugar, to help her win a baking competition, the ruse seems to work, until Abigail challenges Ash to a Pokémon battle against Pikachu. Will Ash be able to battle his own partner and best friend.",
+            "number": "24",
+            "image": "https://image.tmdb.org/t/p/original/unYhGcVbW1RbMFjjJO3Ozyor49S.jpg",
+            "air_date": "2007-03-29"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-25",
+            "title": "Oh Do You Know the Poffin Plan!",
+            "description": "Arriving in Floaroma Town, Dawn drags Ash and Brock to a cooking class to learn how to make a special Pokémon snack food called poffins. Meanwhile, Team Rocket hatches a scheme to get rich selling their own poffins, but a shy Roserade upends their plans.",
+            "number": "25",
+            "image": "https://image.tmdb.org/t/p/original/rhMtfsEjCEQh7qP7mOOOUK4nl9T.jpg",
+            "air_date": "2007-03-29"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-26",
+            "title": "Getting the Pre-Contest Titters!",
+            "description": "While practicing for the Floaroma Town Pokémon Contest, Dawn reunites with her childhood friend, Kenny, who plans to compete against her. Meanwhile, Jessie sends James and Meowth on a mission to steal a strong Pokémon for her contest appearance.",
+            "number": "26",
+            "image": "https://image.tmdb.org/t/p/original/p1iRzoGlV9vLgshL5rnpRzsvukh.jpg",
+            "air_date": "2007-04-05"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-27",
+            "title": "Settling a Not-So-Old Score!",
+            "description": "The day of the Floaroma Pokémon Contest has arrived as Dawn, her childhood friend Kenny, and a disguised Jessie are among the Coordinators vying for the prestigious Floaroma ribbon.",
+            "number": "27",
+            "image": "https://image.tmdb.org/t/p/original/jMn3TdtA9izFc3jGtQp32JbOedx.jpg",
+            "air_date": "2007-04-05"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-28",
+            "title": "Drifloon on the Wind!",
+            "description": "Ash, Dawn and Brock stop at a Pokémon Center run by a Nurse Joy with two young daughters. When Nurse Joy's younger daughter takes off on a Drifloon to find her sister, Ash sets out to save them before a brewing storm causes tragedy.",
+            "number": "28",
+            "image": "https://image.tmdb.org/t/p/original/53YiH7aTYaHxAOdfSm4v65icWyU.jpg",
+            "air_date": "2007-04-12"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-29",
+            "title": "The Champ Twins!",
+            "description": "Ash and Dawn suffer defeat in a tag battle against two gifted Pokémon trainers dubbed \"The Champ Twins\". However, Team Rocket steals the twins' Croconaw and Quilava before they can get a rematch.",
+            "number": "29",
+            "image": "https://image.tmdb.org/t/p/original/y7JHN5vO5zYnsYgFnK8y8Zrcdtd.jpg",
+            "air_date": "2007-04-12"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-30",
+            "title": "Some Enchanted Sweetening!",
+            "description": "On their way through Eterna Forest, Ash & Co. meet up with a trainer called Cheryl. She is looking for Sweet Honey so she can get some really rare Pokémon. Having found some Burmy, she learned that it has many different evolved forms. Having obtained three of them, Cheryl is trying to evolve her final Burmy to see what it will become. Team Rocket however have their eyes set on this Worm Family. Will they be stopped?",
+            "number": "30",
+            "image": "https://image.tmdb.org/t/p/original/slS1I88vVZSFUSMStYhv7fPVJag.jpg",
+            "air_date": "2007-04-19"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-31",
+            "title": "The Grass-Type is Always Greener!",
+            "description": "After Burmy evolved into Mothim, Ash and co continue through the Eterna Forest where, along the way, they meet Gardenia, an overenthusiastic fan of Grass-type Pokémon. Ash declares a battle with her and she accepts. Will Ash win against this Grass Geek, and could she be the only one?",
+            "number": "31",
+            "image": "https://image.tmdb.org/t/p/original/41sMC6Bt6SAAW9sXnNoG7WWh55N.jpg",
+            "air_date": "2007-04-26"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-32",
+            "title": "An Angry Combeenation!",
+            "description": "The quest for the Enchanted Honey concludes when the gang arrives at Amber Castle, which is the home to a hive of Combee and their leader, Queen Vespiquen.",
+            "number": "32",
+            "image": "https://image.tmdb.org/t/p/original/5n6hdmBdefq1d7FjUNGgQplQBn8.jpg",
+            "air_date": "2007-05-03"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-33",
+            "title": "All Dressed Up with Somewhere to Go!",
+            "description": "Ash, Dawn, Brock and Team Rocket enter one of the most popular contest events in the Sinnoh region, the annual Pokémon Dress-Up Contest, a costume competition. The winner of the Dress-Up contest gets a Pokémon Egg as the grand prize.",
+            "number": "33",
+            "image": "https://image.tmdb.org/t/p/original/ztEZE7iQCSPKMINzc7t2XJHDtmm.jpg",
+            "air_date": "2007-05-10"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-34",
+            "title": "Buizel Your Way Out of This!",
+            "description": "After hearing about a powerful Buizel thwarting trainers' attempts at capture, Ash, Dawn and Brock decides to do a round of fishing in hopes of finding it. During their fishing round, Ash and friends are joined by Dawn's contest rival, Zoey.",
+            "number": "34",
+            "image": "https://image.tmdb.org/t/p/original/1OSp4Hh34X4O024Jbqp6dtDYea5.jpg",
+            "air_date": "2007-05-17"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-35",
+            "title": "An Elite Meet and Greet!",
+            "description": "As our Heroes continue to Eterna City and Ash's second Sinnoh Gym battle challenge, they meet up with Lucian, a member of the Sinnoh Elite 4, who helps Dawn develop her training relationship with her newly caught Buizel.",
+            "number": "35",
+            "image": "https://image.tmdb.org/t/p/original/60CLFSn9ZzQAdhVZnMEeTyjboh7.jpg",
+            "air_date": "2007-05-24"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-36",
+            "title": "A Secret Sphere of Influence!",
+            "description": "Ash and co. finally arrive in Eterna City, where Ash hopes to earn his second badge. However, they are delayed by a trip to the museum where Ash meets not only the Eterna city Officer Jenny, but is reacquainted with the Viridian City Jenny. They also run into Nando and Gardenia, who is Eterna's Gym Leader. They learn that Team Rocket plans to steal the Adamant Orb. Can our heroes stop them, and who is really behind this theft?",
+            "number": "36",
+            "image": "https://image.tmdb.org/t/p/original/aJOSXsD20bCzHEzVv9TtqBAjy3I.jpg",
+            "air_date": "2007-05-31"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-37",
+            "title": "The Grass Menagerie!",
+            "description": "The time has come again. Ash is now ready for his Gym Battle with Gardenia, and this time, it's official. Knowing what to expect from her after their last battle, will Ash be able to prune Gardenia's team, or will his team be pushing up daisies?",
+            "number": "37",
+            "image": "https://image.tmdb.org/t/p/original/slNQhMEPHQxrkEawa7f49dxBwW6.jpg",
+            "air_date": "2007-06-07"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-38",
+            "title": "One Big Happiny Family!",
+            "description": "Enroute from Eterna City, Brock's egg starts to glow. Finding a nearby Nurse Joy and await the egg to hatch. Happiny hatches from the egg and immediately takes a shine to Brock. Lacking a White Rock however, Brock goes out to find one. However, Team Rocket have their eyes set on Brock's new Pink Pokémon. Can the new Pokémon be protected?",
+            "number": "38",
+            "image": "https://image.tmdb.org/t/p/original/tSGvLsbwSutplfkWcclnxxxb0JT.jpg",
+            "air_date": "2007-06-21"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-39",
+            "title": "Steamboat Willies!",
+            "description": "On their way to Hearthome City for Dawn's next Pokémon Contest and Ash's next Gym battle, they let their Pokémon play in a steamboat while they go shopping. However, the steamboat ends up running away with only Ash, Brock and Dawn's Pokémon still on board, which presents everyone with a real crisis.",
+            "number": "39",
+            "image": "https://image.tmdb.org/t/p/original/l6m4P5UK6doGRbDBmaIZBy6zNts.jpg",
+            "air_date": "2007-07-05"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-40",
+            "title": "Top-Down Training!",
+            "description": "While Ash and co. are at a Pokémon Center and watch a battle between Cynthia the Sinnoh League Champion and Lucian, member of the Sinnoh's Elite Four, they hear that Cynthia is nearby. When they finally meet her, Paul appears and challenges her to a six-on-six full battle. Cynthia agrees and the battle starts. Will Paul be able to win against Cynthia and her strongest Pokémon, Garchomp?",
+            "number": "40",
+            "image": "https://image.tmdb.org/t/p/original/waXywsmC6pbagCJhLS6UUskwKuE.jpg",
+            "air_date": "2007-07-19"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-41",
+            "title": "A Stand-Up Sit-Down!",
+            "description": "The gang comes to the aid of Dawn's friend and rival, Zoey, who injured her leg while training. After hearing that the next contest in Hearthome city is gonna be a double performance, where the coordinators must perform with two Pokémon at the same time, Zoey helps Dawn train for the Pokémon Contest.",
+            "number": "41",
+            "image": "https://image.tmdb.org/t/p/original/8T5xg7ATcZTaRGukTAMe5H47AwW.jpg",
+            "air_date": "2007-07-26"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-42",
+            "title": "The Electrike Company!",
+            "description": "When the gang comes across a breeder having difficulty training a struggling but gifted Electrike, Brock decides to teach him how to handle electric-type Pokémon. Meanwhile, Jessie wants to steal Electrike, but faces unusual resistance from James and Meowth.",
+            "number": "42",
+            "image": "https://image.tmdb.org/t/p/original/gl7qbut8LkeH5Y3iHTxyYERzWNu.jpg",
+            "air_date": "2007-08-09"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-43",
+            "title": "Malice in Wonderland!",
+            "description": "What appears to be a Pokémon Center turns out to be a mysterious gate to a world where the gang's dreams all come true. However, they begin to realize that a Pokémon has them in a hypnotic trance.",
+            "number": "43",
+            "image": "https://image.tmdb.org/t/p/original/m7O0FERYkVQX7Yv5Q3LxSAnoSsy.jpg",
+            "air_date": "2007-08-16"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-44",
+            "title": "Mass Hip-po-sis!",
+            "description": "Ash, Dawn and Brock discover a lost Hippopotas and set off to return it to its herd. However, they have to fend off Team Rocket's attacks and the Hippopotas' sleep-inducing ability to succeed in their quest.",
+            "number": "44",
+            "image": "https://image.tmdb.org/t/p/original/cyp2i3p6SNrG3yrgcDZUgNYs77r.jpg",
+            "air_date": "2007-08-23"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-45",
+            "title": "Ill-Will Hunting!",
+            "description": "As our Heroes continue towards Hearthome City, Ash reunites with his old friend and rival, Gary Oak. However, they have to work together in order to save a rare Shieldon from the evil clutches of Pokémon Hunter J.",
+            "number": "45",
+            "image": "https://image.tmdb.org/t/p/original/reheLWdjmPRruMy1Ah8S44VP8Tu.jpg",
+            "air_date": "2007-08-30"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-46",
+            "title": "A Maze-ing Race!",
+            "description": "Continuing on their way to Hearthome City, Ash and his friends take a side trip to get an upgrade for Dawn's Poketch. Unfortunately, they ended up getting trapped in a dangerous maze, courtesy of Team Rocket.",
+            "number": "46",
+            "image": "https://image.tmdb.org/t/p/original/jZN58maOxV8OGfC6UoK4S521AKL.jpg",
+            "air_date": "2007-09-13"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-47",
+            "title": "Sandshrew's Locker!",
+            "description": "A girl named Mira offers to use her Abra to teleport Ash, Dawn and Brock to Hearthome City, but it takes them to a lake instead. Mira explains that she needs their help to retrieve her submerged Sandshrew, which an ornery Gyarados fiercely guards.",
+            "number": "47",
+            "image": "https://image.tmdb.org/t/p/original/id4XYyhCxp6ZtcnnvpXlXazwhBF.jpg",
+            "air_date": "2007-09-27"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-48",
+            "title": "Dawn's Early Night!",
+            "description": "Arriving in Hearthome City, Ash and Brock enter a tag battle, after the latter finds out that the Gym Leader isn't there to challenge Trainers to a battle. Meanwhile, Dawn competes against Nando, Zoey and Jessilina in the Hearthome City Pokémon Contest. However, Dawn finds herself in a discouraging situation.",
+            "number": "48",
+            "image": "https://image.tmdb.org/t/p/original/nR0y1QlYhF3s2LkKwqHjdGGK2Rf.jpg",
+            "air_date": "2007-10-04"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-49",
+            "title": "Tag! We're It...!",
+            "description": "Through a suggestion from Zoey in order to help her recover from her early exist at the Hearthome contest, Dawn participate in the Hearthome City Tag Battle Competition with Ash and Brock. During opening day of the Hearthome City Tag Battle Competition, Ash, Dawn and Brock learn who they will partner with. However, Ash discovers his teammate is his rival Paul.",
+            "number": "49",
+            "image": "https://image.tmdb.org/t/p/original/stadkt9UyUBivQ8cEKEShivd8jc.jpg",
+            "air_date": "2007-10-04"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-50",
+            "title": "Glory Blaze!",
+            "description": "Paul's abuse on Chimchar becomes dangerous to its health and causes it to collapse from exhausted during training. However, despite everyone's protest and waring to let Chimchar rest, Pauls enters it into the second day of the Hearthome City Tag Battle anyway. The harrowing battle leads to a fateful decision for Chimchar.",
+            "number": "50",
+            "image": "https://image.tmdb.org/t/p/original/uPaLYKwX0VpdpJMAI3IFiKsVMRv.jpg",
+            "air_date": "2007-10-18"
+        },
+        {
+            "id": "pokemon-diamond-and-pearl-episode-51",
+            "title": "Smells Like Team Spirit!",
+            "description": "After Paul abandoned Chimchar, Ash offers it a new chance, join his team. Chimchar accepts Ash's invitation to join his team. Ash battles alongside Paul in the tournament semifinals against Brock and Holly. They make it to the finals, where they are matched up against Dawn and Conway.",
+            "number": "51",
+            "image": "https://image.tmdb.org/t/p/original/wCeLuo85v1ddAn9jHbvOP9AhvBB.jpg",
+            "air_date": "2007-10-25"
+        }
   ]
 }
