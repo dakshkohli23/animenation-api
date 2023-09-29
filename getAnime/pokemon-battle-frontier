@@ -34,6 +34,7 @@
     "day": 3
   },
   "totalEpisodes": 47,
+  "currentEpisode": 47,
   "rating": 68,
   "duration": 24,
   "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
@@ -963,239 +964,380 @@
   ],
   "episodes": [
     {
-      "id": "pokemon-battle-frontier-episode-1",
-      "title": "Pokémon: Battle Frontier Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-2",
-      "title": "Pokémon: Battle Frontier Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-3",
-      "title": "Pokémon: Battle Frontier Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-4",
-      "title": "Pokémon: Battle Frontier Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-5",
-      "title": "Pokémon: Battle Frontier Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-6",
-      "title": "Pokémon: Battle Frontier Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-7",
-      "title": "Pokémon: Battle Frontier Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-8",
-      "title": "Pokémon: Battle Frontier Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-9",
-      "title": "Pokémon: Battle Frontier Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-10",
-      "title": "Pokémon: Battle Frontier Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-11",
-      "title": "Pokémon: Battle Frontier Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-12",
-      "title": "Pokémon: Battle Frontier Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-13",
-      "title": "Pokémon: Battle Frontier Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-14",
-      "title": "Pokémon: Battle Frontier Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-15",
-      "title": "Pokémon: Battle Frontier Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-16",
-      "title": "Pokémon: Battle Frontier Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-17",
-      "title": "Pokémon: Battle Frontier Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-18",
-      "title": "Pokémon: Battle Frontier Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-19",
-      "title": "Pokémon: Battle Frontier Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-20",
-      "title": "Pokémon: Battle Frontier Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-21",
-      "title": "Pokémon: Battle Frontier Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-22",
-      "title": "Pokémon: Battle Frontier Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-23",
-      "title": "Pokémon: Battle Frontier Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-24",
-      "title": "Pokémon: Battle Frontier Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-25",
-      "title": "Pokémon: Battle Frontier Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-26",
-      "title": "Pokémon: Battle Frontier Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-27",
-      "title": "Pokémon: Battle Frontier Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-28",
-      "title": "Pokémon: Battle Frontier Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-29",
-      "title": "Pokémon: Battle Frontier Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-30",
-      "title": "Pokémon: Battle Frontier Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-31",
-      "title": "Pokémon: Battle Frontier Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-32",
-      "title": "Pokémon: Battle Frontier Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-33",
-      "title": "Pokémon: Battle Frontier Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-34",
-      "title": "Pokémon: Battle Frontier Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-35",
-      "title": "Pokémon: Battle Frontier Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-36",
-      "title": "Pokémon: Battle Frontier Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-37",
-      "title": "Pokémon: Battle Frontier Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-38",
-      "title": "Pokémon: Battle Frontier Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-39",
-      "title": "Pokémon: Battle Frontier Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-40",
-      "title": "Pokémon: Battle Frontier Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-41",
-      "title": "Pokémon: Battle Frontier Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-42",
-      "title": "Pokémon: Battle Frontier Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-43",
-      "title": "Pokémon: Battle Frontier Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-44",
-      "title": "Pokémon: Battle Frontier Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-45",
-      "title": "Pokémon: Battle Frontier Episode 45",
-      "number": 45
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-46",
-      "title": "Pokémon: Battle Frontier Episode 46",
-      "number": 46
-    },
-    {
-      "id": "pokemon-battle-frontier-episode-47",
-      "title": "Pokémon: Battle Frontier Episode 47",
-      "number": 47
-    }
+            "id": "pokemon-battle-frontier-episode-1",
+            "title": "Fear Factor Phony",
+            "description": "On the way to the next Battle Frontier facility, Ash and co. are lost. They soon come across a ghost town which is haunted by Ghost Pokémon. They are soon befriended by some friendly Psychic Pokémon who dance the night away. Will Ash and co. stop the ghosts from ruining the town, and does Ash and the rest of the crew sound different to anyone?",
+            "number": "1",
+            "image": "https://image.tmdb.org/t/p/original/uS9PAn6NnyBTHs6r42twu95QbOn.jpg",
+            "air_date": "2005-10-06"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-2",
+            "title": "Sweet Baby James",
+            "description": "When May's Munchlax and James' Chimecho both have fallen ill, they seek the Pokémon healing skills of an elderly couple named Nanny and Pop-Pop, who happens to be James grandparents. Team Rocket and the gang call a temporary truce until their Pokémon get better. Meanwhile, James tries to impress Nanny and Pop-Pop by pretending to be a business owner while also hiding his status as a member of Team Rocket.",
+            "number": "2",
+            "image": "https://image.tmdb.org/t/p/original/nkPOkp5SFbqxPGJlH3kXFKm7ead.jpg",
+            "air_date": "2005-10-13"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-3",
+            "title": "A Chip Off the Old Brock",
+            "description": "During a training battle against Ash's Grovyle, Brock's Mudkip evolves into a Marshtomp. However, Brock's new evolved Pokémon accidentally hits a girls Flaaffy but is able to heal her Pokémon through a drug store. While there, Brock and Marshtomp both want to date the girl alongside her Flaaffy. However, little do Brock and Marshtomp know, the girl and her Flaaffy have feelings for someone else.",
+            "number": "3",
+            "image": "https://image.tmdb.org/t/p/original/5ZUrTP0Y3dPy3FPR06QLYwBRlww.jpg",
+            "air_date": "2005-10-20"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-4",
+            "title": "Wheel of Frontier",
+            "description": "Ash finally arrives at the second Battle Frontier venue where he challenges the Battle Arena Brain Greta to a match. Will Ash be able to defeat Greta and get his second Battle Frontier symbol.",
+            "number": "4",
+            "image": "https://image.tmdb.org/t/p/original/sOLKPNIiWyhwZhegZX4zOFPgrIq.jpg",
+            "air_date": "2005-10-27"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-5",
+            "title": "May's Egg-Cellent Adventure!",
+            "description": "After winning the Guts Symbol at the Battle Arena, Ash's next challenge is the Battle Dome. However, before the continue their journey to their next destination, Ash and his friends come across a Pokémon Egg Shop. During their stay, May offers advice to the owner's daughter about Pokémon contest and how to be a coordinator.",
+            "number": "5",
+            "image": "https://image.tmdb.org/t/p/original/yYq9krWLqBByZrAUSLxQ8FJYe6V.jpg",
+            "air_date": "2005-11-03"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-6",
+            "title": "Weekend Warrior",
+            "description": "May enters the Silver Town Pokémon Contest and battles Jeremy, an unusual contestant. However, Jeremy shocks May when he appears playing electric guitar and wearing leather.",
+            "number": "6",
+            "image": "https://image.tmdb.org/t/p/original/lxwEsaVE6BkPPlg746eBACNKRvD.jpg",
+            "air_date": "2005-11-10"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-7",
+            "title": "On Olden Pond",
+            "description": "On the way to the Battle Dome, Ash and the others decide to stop at a famous fishing spot but the lake is deserted. Tiffany, the owner of a fishing house tells them that a company wants to buy the lake and turn the land into a resort. In order to scare people away from the land so Tiffany and her Grandma get no business, the head of the company uses his Crawdaunt to terrorise the lake. Can Ash and his friends help them stop the company from getting the land or will he succeeded.",
+            "number": "7",
+            "image": "https://image.tmdb.org/t/p/original/uBYqP0Hf8odWu20HEtpTr4YDa5e.jpg",
+            "air_date": "2005-11-17"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-8",
+            "title": "Tactics Theatrics!!",
+            "description": "Ash finally arrives at the third Battle Frontier location where he challenges the Battle Dome Brain Tucker to a match. The battle begins with Ash using his Swellow and Corphish against Tucker's Arcanine and Swampert. During the battle, Ash learns how to combine his Pokémon's attacks and uses their power to defeat Tucker.",
+            "number": "8",
+            "image": "https://image.tmdb.org/t/p/original/whTkqohNiPrV7vFIVTOZ0xuOGez.jpg",
+            "air_date": "2005-11-24"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-9",
+            "title": "Reversing the Charges",
+            "description": "After Ash wins his third Battle Frontier Symbol, the Tactics Symbol, he and his go to their next Battle Frontier location, the Battle Pike. However, during an encounter with a wild Elekid, May's egg becomes stuck in the Electric Pokémon antenna and runs off. Now Ash and the others must find Elekid and get May's egg back.",
+            "number": "9",
+            "image": "https://image.tmdb.org/t/p/original/ojBjaF2j9yU7Kg7YnSfeABFOBDs.jpg",
+            "air_date": "2005-12-01"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-10",
+            "title": "The Green Guardian",
+            "description": "On their way to the Battle Pike, Ash and his friends decide to ride along the Cycling Road. However, it is closed and they must go through the forest. After hearing a noise, Pikachu wanders off and finds an wild injured Celebi under some thick vines. Ash and the others then meet a Pokémon Ranger named Solana who agrees to help them find Pikachu. When they finally find Pikachu and Celebi, the reunion is cut short as Team Rocket shows up to steal Celebi.",
+            "number": "10",
+            "image": "https://image.tmdb.org/t/p/original/s9uTLRAW1rKtohjeH8QCETHBOdl.jpg",
+            "air_date": "2005-12-08"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-11",
+            "title": "From Cradle to Save!",
+            "description": "Ash and friends arrive at a Ninja School. There they meet a wild Bonsly who cries a lot and does not get along with the other Pokémon at the school. However, Team Rocket appear and decide to capture all of the Pokémon in the school, including Ash and his friends.",
+            "number": "11",
+            "image": "https://image.tmdb.org/t/p/original/lDiIxMUnSpO0Y3WEXo93xwpZ8Ix.jpg",
+            "air_date": "2005-12-15"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-12",
+            "title": "Time Warp Heals All Wounds",
+            "description": "After May's Squirtle runs away, May goes searching for her Pokémon. Once she finds Squirtle, May finds an elderly woman, Edna, waiting for a train. After hearing the sad story about Edna's past, Meowth and May go back in time in order to change history.",
+            "number": "12",
+            "image": "https://image.tmdb.org/t/p/original/kJ44RsufxCVgRADJA5kSP3Yr2Ro.jpg",
+            "air_date": "2005-12-22"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-13",
+            "title": "Queen of the Serpentine!",
+            "description": "Ash finally arrives at the location of the Battle Pike, ready to battle. Team Rocket tricks him into coming into their own fake Battle Pike where they capture Pikachu. With the help of the real Frontier Brain—Pike Queen Lucy—they save Pikachu. Ash challenges Lucy to a battle, and even though it is her day off, she accepts as she has a crush on Brock. As the two begin their battle, Ash realizes Lucy is no pushover. Can Ash win? And who will Brock cheer for?",
+            "number": "13",
+            "image": "https://image.tmdb.org/t/p/original/us8Z7hkPjLxK8ovPOqKdWXJ2ykK.jpg",
+            "air_date": "2006-01-05"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-14",
+            "title": "Off the Unbeaten Path!",
+            "description": "On their way to the Battle Palace, Ash and friends stop at Potpourri Island where they learn about the Pokémon Orienteering Contest. The contest is a race around the island where a trainer and one Pokémon must go to five different locations and get the special stamps at those locations. The winner will receive a special medal along with a ton of fruit. As the contest begins, Ash goes with Pikachu, May goes with her new Eevee, Brock goes with Bonsly, Max goes with Munchlax (lent to him by May), James with Mime Jr, and Jessie with Meowth. Who will win the contest and win all that fruit? That is if Jessie and Meowth don't succeed in stealing it along with Ash, May and Brock's Pokémon!",
+            "number": "14",
+            "image": "https://image.tmdb.org/t/p/original/67jzY9rBI2R2N7k8G65np5vF28x.jpg",
+            "air_date": "2006-01-12"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-15",
+            "title": "Harley Rides Again",
+            "description": "Ash and friends finally arrive in Wisteria Town where May prepares for her next contest. However, Harley shows up and this time he is not so friendly with everyone. Harley declares that he will win this contest and his Fourth Ribbon against May. Meanwhile, Team Rocket try to convince Harley to work with them as they'll help him beat May while he helps them get Ash's Pikachu. Will Harley accept Team Rocket's offer for their help or decides to beat May fair and square.",
+            "number": "15",
+            "image": "https://image.tmdb.org/t/p/original/qPBMPZAwtPclrx7dQV0XdPoVwJt.jpg",
+            "air_date": "2006-01-19"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-16",
+            "title": "Odd Pokémon Out!",
+            "description": "While on the way to May's next Pokémon Contest, Ash and friends must stop at a nearby island to switch to ferry to the next island. They let their Pokémon out to play and Donphan, still as playful as ever, tries to play with some Rhyhorn, only to be chased by their parents. After being saved by Nurse Joy and her Meganium, Grovyle gets into a conflict with a wild Tropius and is beaten badly. Meganium heals Grovyle and Grovyle falls in love with the Herb Pokémon. However, it is later revealed that Tropius also has feelings for Meganium. Grovyle decides to have a rematch against Tropius to see who will come out on top.",
+            "number": "16",
+            "image": "https://image.tmdb.org/t/p/original/ps0npbd6bBKxNcDSMpejkJx1gwD.jpg",
+            "air_date": "2006-01-26"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-17",
+            "title": "Spontaneous Combusken!",
+            "description": "After losing a ribbon to Harley, May arrives on Chrysanthemum Island, ready to win her third ribbon. Ash is also working hard trying to help Sceptile regain its ability to use Grass-type attacks after breaking its heart. When Drew shows up, May finds out he didn't send her the letter. Later, while training on the beach, she meets a girl named Brianna who reveals that she sent the letter and rose to May. When Brianna finds out May knows Drew, she grows embarrassed as she has a crush on Drew and intended the letter and Rose to be sent to him. When she finally meets Drew, Brianna claims that she will beat May in the contest and win Drew's respect and love! Meanwhile, Jessie also enters the contest with James' Mime Jr.",
+            "number": "17",
+            "image": "https://image.tmdb.org/t/p/original/wYH2ODRUyiX5yMabTWPluzY0Kqz.jpg",
+            "air_date": "2006-02-02"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-18",
+            "title": "Cutting the Ties that Bind!",
+            "description": "Ash & co have arrived on the island of the Battle Palace which happens to be a massive Jungle. Ash, eager to make his upcoming battle with the Brain as good as it can be, decides to put extra emphasis on helping his recently evolved Sceptile to be able to use it's attacks. However in the process, Ash & Sceptile get seperated from the group and meet with the Frontier Brain, Spenser. Will Ash & Spenser get Sceptile to be able to use attacks again?",
+            "number": "18",
+            "image": "https://image.tmdb.org/t/p/original/49CgpmO3a5vWexWfVr2XUdSRRH3.jpg",
+            "air_date": "2006-02-09"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-19",
+            "title": "Ka Boom with a View!",
+            "description": "Ash finally arrives at the Battle Palace, ready to take on Spenser for the Spirit Symbol. As they head out to the battlefield, Ash learns that he has the entire surrounding jungle to battle in! As the battle begins, May, Brock and Max head up in a balloon with Scott to watch the battle. As the battle begins, Ash pits his newly \"revived\" Sceptile against Spenser's Shiftry and the battle quickly takes into the forest. Will Ash be able to beat Spenser while battling in a forest? And does he have a secret weapon waiting in the wings?",
+            "number": "19",
+            "image": "https://image.tmdb.org/t/p/original/lSbsFqGodwHwJn6LlSFeWqd3pe.jpg",
+            "air_date": "2006-02-16"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-20",
+            "title": "King and Queen for a Day!",
+            "description": "After a battle with Team Rocket, Pikachu, Meowth, Bonsly & Manene are seperated from their respective trainers. Lost in a town, the four Pokémon decide to team up to find their trainers...however three strange men have their eyes set on Bonsly & Manene. Will the Pokémon get back to their trainers?",
+            "number": "20",
+            "image": "https://image.tmdb.org/t/p/original/hhZA1kAMrZA83pc8Kk205erjo7e.jpg",
+            "air_date": "2006-02-23"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-21",
+            "title": "Curbing the Crimson Tide!",
+            "description": "There's big trouble in the big city when Ash and his friends pay a visit—a mysterious talking Pokémon in a crimson cloak known as Red Lighting has been battling all the Trainers in town, and it acts like a real supervillain when it wins! May's plans for a nice day out are ruined when Red Lightning humiliates her and her Squirtle, so now the heroes are out to uncover who or what is behind its activities.",
+            "number": "21",
+            "image": "https://image.tmdb.org/t/p/original/tlLIYigKL1FITeglBGtLjssITMH.jpg",
+            "air_date": "2006-03-02"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-22",
+            "title": "What I Did for Love!",
+            "description": "May finally arrives in Gardenia Town ready to win her fourth ribbon. She gains a nice surprise when she finds out that her Eevee has learned Dig. While May prepares for the contest, Brock meets another Pokémon Breeder named Yuma. After seeing his Pokémon skills, she convinces him to enter the Gardenia Contest. After amazing appeals by Squirtle and Bonsly, both May and Brock make it to the battle rounds. Will May be able to beat her friend to win her fourth Kanto Ribbon?",
+            "number": "22",
+            "image": "https://image.tmdb.org/t/p/original/azojZ90ll6sqW8mhWxNkqUbZkiq.jpg",
+            "air_date": "2006-03-09"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-23",
+            "title": "Three Jynx and a Baby!",
+            "description": "On their way to the Battle Tower, May finds a Smoochum behind a bush. She tries to pick it up, only to be attacked by three Jynx, Smoochum's sisters. After a short battle, Ash and the others leave and head for town. Soon after, Team Rocket take Smoochum and plan to make her a star. The Jynx then begin to attack the town and Ash and May hold them back before luring them to where Smoochum is. However, when they get there, Jessie has no intentions to give Smoochum back to her sisters!",
+            "number": "23",
+            "image": "https://image.tmdb.org/t/p/original/42JL3PB2NNZIagrscTGpli1fBrx.jpg",
+            "air_date": "2006-03-16"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-24",
+            "title": "Talking a Good Game!",
+            "description": "As Ash and the others finally arrive at the Battle Tower, Ash does some last minute training with Pikachu. He is suddenly attacked by a Beedrill and a girl comes to his rescue. After sending Beedrill away, they are attacked by a Gyarados and she once again talks to it and helps it calm down. Soon, Team Rocket attacks wanting Pikachu and this human who can talk to Pokémon. After fending Team Rocket off, she introduces herself as Anabel. Before Anabel can properly introduce herself, Ash runs off to the Battle Tower only to find out Anabel is the Frontier Brain. As the battle begins, Ash quickly falls behind as Anabel can speak with Pokémon through telepathy. Can Ash manage to get past her special ability and win his sixth Frontier Symbol?",
+            "number": "24",
+            "image": "https://image.tmdb.org/t/p/original/tx10XY4xOBe2HGOQ3kaZrzireG9.jpg",
+            "air_date": "2006-03-23"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-25",
+            "title": "Second Time's the Charm!",
+            "description": "After a devastating defeat at the hands of Anabel, Ash is eager to challenge her again, except this time he plans to think with his Pokémon like Anabel instead of rushing in. While training for the rematch, Ash is once again attacked by Beedrill and then Team Rocket after eating their lunch. After sending Team Rocket away, Ash and May try to learn how to talk to their Pokémon just like Anabel, however Corphish and Combusken just look on with blank looks. After finishing his little \"lesson\", Ash begins his battle with Anabel. Just like the last time, Anabel uses her telepathy ability to fight. Even though Ash is at disadvantage, he surprisingly does better than last time, even managing to win in the first round! Will Anabel prove to be too powerful with her telepathy or will Ash overcome it to win his sixth Frontier Symbol?",
+            "number": "25",
+            "image": "https://image.tmdb.org/t/p/original/4M7L8KZpDLk8NzT74SXeqbmrZNH.jpg",
+            "air_date": "2006-03-30"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-26",
+            "title": "Pokémon Ranger - Deoxys' Crisis (Part 1)",
+            "description": "On their way to Pewter City, Ash and friends run into Pokémon Ranger Solana again. Solana thinks that a Deoxys is causing geo-magnetic problems, interfering with Pikachu, other Pokémon and anything electronic. Ash and the others go with her into a cave caused by a meteorite, and Team Rocket follows them wanting Deoxys for the boss. Deoxys possesses Meowth to communicate, and tells everyone that it is scared. After Max offers to help it, Deoxys runs off with both of them.",
+            "number": "26",
+            "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep26_ss01.jpg",
+            "air_date": "4/13/06"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-27",
+            "title": "Pokémon Ranger - Deoxys' Crisis (Part 2)",
+            "description": "Ash and the others call a temporary truce with Jessie and James to get Max and Meowth back from Deoxys. Will they solve geo-magnetic problems and help Deoxys?",
+            "number": "27",
+            "image": "https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep27_ss01.jpg",
+            "air_date": "4/13/06"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-28",
+            "title": "All That Glitters is Not Golden!",
+            "description": "Ash and May spot an amazing golden Sudowoodo at the edge of a lake, but it knocks Ash's Poké Ball away when he tries to catch it. Brock and the others don't believe it, until they reach the next town and find a saloon full of locals looking for the golden Sudowoodo. They also meet Keenan, the golden Sudowoodo's Trainer, who can't explain why it's golden or why it ran away from him. Our heroes happily decide to help Keenan find Sudowoodo, yet Keenan doesn't seem to want the help.",
+            "number": "28",
+            "image": "https://image.tmdb.org/t/p/original/vUs66MID1dbCv1x4yT8ekJ9Qrab.jpg",
+            "air_date": "2006-04-20"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-29",
+            "title": "New Plot, Odd Lot!",
+            "description": "May is feeling the pressure at the Mulberry City Pokémon Contest, her last chance to get a fifth ribbon before the Grand Festival. To make things worse, Harley shows up! He has his ribbons already so he doesn't have to compete. But Jessie plans to enter in her Jessebella disguise, so when Harley spots Team Rocket, he offers to loan them his Cacturne and Banette to use against May in the Contest.",
+            "number": "29",
+            "image": "https://image.tmdb.org/t/p/original/jSC9xuasMLyrgzzj2EIbrur6o7J.jpg",
+            "air_date": "2006-04-27"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-30",
+            "title": "Going for Choke!",
+            "description": "The competition is underway at the Mulberry Town Pokémon Contest, where Harley has teamed up with Team Rocket to plot May's downfall. While May is getting ready for her first opponent, Team Rocket lures her friends into a sealed transport container and sends them up, up and away with a Meowth balloon! But they didn't count on Drew being there to save the day. He frees Ash and the others, only for all them to then fall into one of Team Rocket's old-fashioned pit traps. While James and Meowth gloat, our heroes realize Team Rocket is working with Harley, and they have to get back to the Contest to help May.",
+            "number": "30",
+            "image": "https://image.tmdb.org/t/p/original/dnINGcq1sYEJwadJdcn3Y5wSMQ.jpg",
+            "air_date": "2006-05-04"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-31",
+            "title": "The Ole' Berate and Switch!",
+            "description": "Team Rocket decides to go their separate ways after yet another foiled Pikachu kidnap attempt. Elsewhere, our heroes come across a one-day Pokémon Battle Tournament secretly run by Butch and Cassidy, who are having their own problems getting along. Ash signs up, unaware that while he's battling, Cassidy is preparing to swipe the competitors' Pokémon! Cassidy runs into Jessie and James, and decides to make James her new team. As for Jessie, she fast-talks her way into a partnership with Butch.",
+            "number": "31",
+            "image": "https://image.tmdb.org/t/p/original/cXv5ENFuzNjV0ddLt7suKc7BSvs.jpg",
+            "air_date": "2006-05-11"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-32",
+            "title": "Grating Spaces!",
+            "description": "Our heroes have finally made it back to Pewter City, where Brock once again comes home to find the Pewter Gym looking stranger than ever. When he gets in the door, he discovers that his mom and dad are headed off on a free prize vacation, leaving the Gym in the care of three suspicious Gym remodelers who promised to make the Pewter Gym fashionable. His parents even took his Ludicolo to carry suitcases! Of course, it's all another Team Rocket scheme in disguise.",
+            "number": "32",
+            "image": "https://image.tmdb.org/t/p/original/sljZWXMGYXgOVro3CLQ5Pfzk1Ut.jpg",
+            "air_date": "2006-05-18"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-33",
+            "title": "Battling the Enemy Within!",
+            "description": "Ash is really excited to get to the Battle Pyramid, but he falls down a hole into a strange ruin. When Team Rocket goes to check it out, they end up falling in as well. As Ash and his friends explore, they set off a trap! They're saved by a man and his Regirock—the man's name is Brandon, and he tells Ash off for messing with the ruins. The ruins, he explains, are where the King of Pokelantis sealed a Ho-Oh. But instead of being careful, Ash gets excited and runs off in search of Ho-Oh. He finds something much more sinister when he awakens the spirit of the King, who possesses him and demands everyone's Pokémon as part of plan to rule the world!",
+            "number": "33",
+            "image": "https://image.tmdb.org/t/p/original/1SVgusuLSJG7vGcpMeh8qnFZZtC.jpg",
+            "air_date": "2006-05-25"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-34",
+            "title": "Slaking Kong!",
+            "description": "On the way to the Grand Festival, our heroes are swarmed by a group of Aipom who swipe Ash's hat and May's ribbon case! That's not all—the Aipom also cleaned out an orchard belonging to a farmer, Taylor. He says the local Pokémon have started acting strangely, and it might have something to do with a strange monster recently seen in the mountains. Everyone sets out to investigate and get May's ribbons back.",
+            "number": "34",
+            "image": "https://image.tmdb.org/t/p/original/gEF4uN0t5EcMUUZ9M6pSefk9kWs.jpg",
+            "air_date": "2006-06-08"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-35",
+            "title": "May, We Harley Drew'd Ya!",
+            "description": "May has arrived at the Indigo Plateau Grand Festival, where there are many familiar faces in town. Team Rocket is turning over a new leaf as Contest commentators. And Aipom has followed Ash all the way there, but its latest hat-snatching spree is halted by Drew and another Coordinator, Solidad. Solidad is an experienced Coordinator and an old acquaintance of Drew, so it's no wonder that with all this competition, May is feeling a few butterflies.",
+            "number": "35",
+            "image": "https://image.tmdb.org/t/p/original/zFCbickScEr6vk4ygTRF2vzkVfX.jpg",
+            "air_date": "2006-06-15"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-36",
+            "title": "Thinning the Hoard!",
+            "description": "May, Drew, Harley, and Solidad are all competing in the Grand Festival, and it's time for their Pokémon to show off their best moves. Only 16 Coordinators will advance to the next round, so the pressure is on! Although Drew and Absol do a great job, he's not at all happy with Absol's performance. May is shocked to see him angry at his Pokémon, and she's even more hurt when he takes some of his frustration out on her. Drew later calms down, but his tension showed how seriously he's taking his rivalry with May.",
+            "number": "36",
+            "image": "https://image.tmdb.org/t/p/original/rdUDd9wqoMJdH3Au5RA6r155R25.jpg",
+            "air_date": "2006-06-22"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-37",
+            "title": "Channeling the Battle Zone!",
+            "description": "May and Drew are in a battle to reach the final four of the Grand Festival, and both Coordinators have some powerful combinations up their sleeve. May even picked up a few tricks from watching Ash's Battle Dome match against Tucker! Her Combusken and Squirtle give it their all against Drew's Flygon and Absol, and nobody in the arena can even predict which way things are going to go.",
+            "number": "37",
+            "image": "https://image.tmdb.org/t/p/original/A3DDB352Vgj1j669WnNddJiMMWh.jpg",
+            "air_date": "2006-06-29"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-38",
+            "title": "Aipom and Circumstance!",
+            "description": "When Ash's new Aipom plays another prank on him, it leads them both to a village that's preparing to select this year's King. Whoever manages to hang onto the ritual crown until sunset will be King of the village for a year! Ash and Brock meet Hank, who wants to be King, and Brock wants to be King too—King of the village's lovely girls. But as Brock and the villagers race for the crown, Aipom runs away with it and tries it on for size. Once it puts on the crown, it can't get it off again!",
+            "number": "38",
+            "image": "https://image.tmdb.org/t/p/original/7sKzh9lwZN1SnPNEqEYDx4RANi1.jpg",
+            "air_date": "2006-07-06"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-39",
+            "title": "Strategy Tomorrow - Comedy Tonight!",
+            "description": "On the way to Fennel Valley and Ash's rematch with Brandon, our heroes meet Chatot, a Pokémon that can imitate anything it hears. However, this Chatot keeps running away from its Trainer, Audrey! After Ash and his friends help Audrey get Chatot back, Audrey explains that she and Chatot are a stand-up comedy duo. The only problem is that Audrey can't travel to perform her act because Chatot keeps flying away.",
+            "number": "39",
+            "image": "https://image.tmdb.org/t/p/original/9mxDXPiDkVJyQWiAMhpYzkIJdPm.jpg",
+            "air_date": "2006-07-20"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-40",
+            "title": "Duels of the Jungle!",
+            "description": "On the way to Fennel Valley, Ash's Aipom scampers away and runs into a Weavile with an attitude. Aipom's up for a battle, but Weavile deals it a harsh defeat! Luckily, Ash and his friends meet a passing wilderness guardian named Kerrigan, who lets Aipom rest at his home. Kerrigan explains that the Weavile belonged to a local group of Weavile and Sneasel, but now it's alone and challenges any Trainer's Pokémon it sees. Ash resolves to help Kerrigan find the stray Weavile before anyone else is hurt.",
+            "number": "40",
+            "image": "https://image.tmdb.org/t/p/original/qZemaYsMGjRMKU5SC7qBRf8IpVr.jpg",
+            "air_date": "2006-07-27"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-41",
+            "title": "Overjoyed!",
+            "description": "Ash has reached Fennel Valley at last, where he plans to challenge Brandon to an official battle—but Brandon won't be back until tomorrow! Instead, our hero is welcomed by an enthusiastic Nurse Joy. This Nurse Joy loves Pokémon battles and Contests, and she even offers to help Ash train. Her Chansey may look sweet, but once its nurse's hat comes off, so do the gloves! Chansey quickly outpowers Ash's Corphish, teaching Ash a lesson about battle strategy that doesn't make him too happy.",
+            "number": "41",
+            "image": "https://image.tmdb.org/t/p/original/kaQChf3LyPKTGVdrnjGePj461nZ.jpg",
+            "air_date": "2006-08-03"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-42",
+            "title": "The Unbeatable Lightness of Seeing!",
+            "description": "Ash is still recovering from his defeat at the Battle Pyramid, while May is also melancholy about her own defeat at the Grand Festival. Professor Oak shows up at the Pokémon Center in Fennel Valley, with a special care package meant to cheer Ash up. It contains a poster with the prints of his Pokémon, a fishing lure from Misty, and food from his mother. There's even a postcard from Gary in Sinnoh, which gets Ash thinking about their rivalry and actually pulls him out of his funk.",
+            "number": "42",
+            "image": "https://image.tmdb.org/t/p/original/dDU7vDBgjywVXFgbxE43BY0la5l.jpg",
+            "air_date": "2006-08-10"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-43",
+            "title": "Pinch Healing!",
+            "description": "At the Fennel Valley Pokémon Center, Ash is practicing attacks with his Pokémon while Brock is excited to be cooking with Nurse Joy. His excitement quickly disappears when he finds Nurse Joy unconscious on the floor. They put her in bed, and Professor Oak says she needs rest. Meanwhile, Team Rocket is incredibly lost from when Harley sent them blasting off, and to choose their path, Jessie throws a stick that hits several Pokémon and damages a small bus passing on the road below.",
+            "number": "43",
+            "image": "https://image.tmdb.org/t/p/original/fhzLKqj1ulRjn1nuBC9UqqYwAbQ.jpg",
+            "air_date": "2006-08-17"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-44",
+            "title": "Gathering the Gang of Four!",
+            "description": "At the Fennel Valley Pokémon Center, Ash gets a special delivery from Oak's Lab—his Bulbasaur. Officer Jenny soon arrives with his Squirtle, and his Charizard flies in too. Ash is going on a retreat with these three Pokémon and Pikachu to train for his upcoming rematch with Brandon. Out in the forest, the four Pokémon work together to build a bed to sleep on, but Charizard hogs it at first and starts a fight. Eventually they calm down and rebuild the bed, get some food, and even practice their moves. That night Charizard lights a campfire, and Ash remembers how he met Pikachu, Charizard, Squirtle, and Bulbasaur.",
+            "number": "44",
+            "image": "https://image.tmdb.org/t/p/original/2GKcaR6UHsRZwMsfDyTf93uGjFi.jpg",
+            "air_date": "2006-08-24"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-45",
+            "title": "Pace - The Final Frontier!",
+            "description": "With Charizard out of the battle for his rematch against Pyramid King Brandon, Ash calls out Bulbasaur. Dusclops performs Mean Look again, while Bulbasaur wraps the Ghost-type with Leech Seed. The two Pokémon are evenly matched, but Bulbasaur takes a beating from the Fire-type move Will-O-Wisp and is affected by Confuse Ray, which causes it to use Vine Whip on itself. Because Leech Seed is taking energy from Dusclops and giving it to Bulbasaur, the Grass-type manages to stay in the fight, using SolarBeam to knock Dusclops out.",
+            "number": "45",
+            "image": "https://image.tmdb.org/t/p/original/eha2BDhcoQ5D4qyQIdonBcoOnQi.jpg",
+            "air_date": "2006-08-31"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-46",
+            "title": "Once More With Reeling!",
+            "description": "The kids are at Terracotta Town, where May and Max will catch a boat back home to Hoenn. The town happens to be hosting a festival, complete with its very own Pokémon Contest. Ash figures it's unofficial, so he wants to compete. Both Ash and May sign up, with Ash using Pikachu and Sceptile, and May using her Eevee and Combusken.\r\n\r\nNurse Joy is the MC, doing her best Lillian impersonation. May goes first, impressing the crowd by having Eevee use Dig and Shadow Ball to create a fireworks display. Ash is equally impressive when Pikachu uses Quick Attack, Thunderbolt, and Iron Tail to create electric rings that buzz around the arena. At the end of the first round, May is in first place with Ash a close second, both of them advancing to the finals against each other.",
+            "number": "46",
+            "image": "https://image.tmdb.org/t/p/original/dTvZoiNE7i8GLvy6sPCBi4PHYdc.jpg",
+            "air_date": "2006-09-07"
+        },
+        {
+            "id": "pokemon-battle-frontier-episode-47",
+            "title": "Home is Where the Start Is!",
+            "description": "The smoke finally clears at the Terracotta Town Pokémon Contest, and the winner is revealed—it is a tie between May and Ash! Both are declared the winner with only one prize medal between the two, so Sceptile cuts it neatly in half. That night, during dinner, May announces her intention to go to Johto and compete in Pokémon Contests. She doesn't want Max to come, though, because she'd depend on her brother too much. Max is sad, but Ash cheers him up by promising to battle some day.",
+            "number": "47",
+            "image": "https://image.tmdb.org/t/p/original/e2pTQljABzv38WSecFiwEeHgwCd.jpg",
+            "air_date": "2006-09-14"
+        }
   ]
 }
