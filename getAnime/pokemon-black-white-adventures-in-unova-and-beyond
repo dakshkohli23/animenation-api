@@ -963,230 +963,365 @@
     }
   ],
   "episodes": [
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-1",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 1",
-      "number": 1
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-2",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 2",
-      "number": 2
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-3",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 3",
-      "number": 3
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-4",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 4",
-      "number": 4
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-5",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 5",
-      "number": 5
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-6",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 6",
-      "number": 6
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-7",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 7",
-      "number": 7
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-8",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 8",
-      "number": 8
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-9",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 9",
-      "number": 9
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-10",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 10",
-      "number": 10
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-11",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 11",
-      "number": 11
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-12",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 12",
-      "number": 12
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-13",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 13",
-      "number": 13
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-14",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 14",
-      "number": 14
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-15",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 15",
-      "number": 15
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-16",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 16",
-      "number": 16
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-17",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 17",
-      "number": 17
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-18",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 18",
-      "number": 18
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-19",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 19",
-      "number": 19
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-20",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 20",
-      "number": 20
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-21",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 21",
-      "number": 21
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-22",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 22",
-      "number": 22
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-23",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 23",
-      "number": 23
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-24",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 24",
-      "number": 24
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-25",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 25",
-      "number": 25
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-26",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 26",
-      "number": 26
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-27",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 27",
-      "number": 27
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-28",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 28",
-      "number": 28
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-29",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 29",
-      "number": 29
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-30",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 30",
-      "number": 30
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-31",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 31",
-      "number": 31
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-32",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 32",
-      "number": 32
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-33",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 33",
-      "number": 33
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-34",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 34",
-      "number": 34
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-35",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 35",
-      "number": 35
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-36",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 36",
-      "number": 36
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-37",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 37",
-      "number": 37
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-38",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 38",
-      "number": 38
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-39",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 39",
-      "number": 39
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-40",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 40",
-      "number": 40
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-41",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 41",
-      "number": 41
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-42",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 42",
-      "number": 42
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-43",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 43",
-      "number": 43
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-44",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 44",
-      "number": 44
-    },
-    {
-      "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-45",
-      "title": "Pokémon: BW Adventures in Unova and Beyond Episode 45",
-      "number": 45
-    }
+            {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-1",
+            "title": "Beauties Battling for Pride and Prestige!",
+            "description": "Learning that the Unova League will be held at Vertress City, Ash and his friends prepare for the tournament, but not before making a detour towards Iris' hometown, the Village of Dragons. But along the way, Iris drags the boys and their Pokémon into competing against a group of women who believe that their Pokémon are not only powerful but more beautiful than anyone else's. ",
+            "number": "1",
+            "image": "https://image.tmdb.org/t/p/original/u20dVsazxG0DWUOcwwVqyErS0Ia.jpg",
+            "air_date": "10/11/12"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-2",
+            "title": "A Surface to Air Tag Battle Team!",
+            "description": "On the way to the Unova League, Ash and Cilan get challenged to a Tag Battle against the brothers Soren and Rocko who have trained their Braviary (Soldier of the skies) and Drilbur (Warrior of the land) to perform amazing combination attacks. ",
+            "number": "2",
+            "image": "https://image.tmdb.org/t/p/original/lh1R17kuB1YDpRIfy2XM8O7BTpi.jpg",
+            "air_date": "10/18/12"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-3",
+            "title": "A Village Homecoming!",
+            "description": "On the way to Vertress City, Ash, Cilan, and Iris find their way to Iris's hometown: the Village of Dragons. While there, Iris shows Axew to her elder and helps her childhood friend Shannon when one of her Zweilous suddenly evolves into Hydreigon and goes out of control. ",
+            "number": "3",
+            "image": "https://image.tmdb.org/t/p/original/6iRPO6LIxuMPcimiowLTXiQ2E6G.jpg",
+            "air_date": "10/25/12"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-4",
+            "title": "Drayden Versus Iris: Past, Present, and Future!",
+            "description": "The gang arrives in Opelucid City for Iris' scheduled rematch against the Dragon Master and Gym Leader Drayden, who handed her and Excadrill their first-ever defeat years ago. Upon arrival, Iris remembers her difficult time in going to school there and trying to adjust to urban life. She and the others then travel to the Opelucid Gym for her rematch with Drayden, where she puts her Excadrill and Dragonite to the test, respectively, against Drayden's Haxorus and Druddigon in order for him to evaluate her training and skills.",
+            "number": "4",
+            "image": "https://image.tmdb.org/t/p/original/yF1A8mqysyBnyngOWpyZXKTEOlM.jpg",
+            "air_date": "11/8/12"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-5",
+            "title": "Team Eevee and the Pokémon Rescue Squad!",
+            "description": "Near Vertress City, the gang meets the Pokémon Rescue Squad's Virgil - trainer of Team Eevee - and his brother Davey, whom they decide to assist in helping a group of troubled Cryoganal. ",
+            "number": "5",
+            "image": "https://image.tmdb.org/t/p/original/nu8XBZaEqwJZGupHUKf23DLt6gU.jpg",
+            "air_date": "11/15/12"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-6",
+            "title": "Curtain Up, Unova League!",
+            "description": "The Unova League begins, and as the preliminary round matches get underway, Ash finds himself up against Trip. ",
+            "number": "6",
+            "image": "https://image.tmdb.org/t/p/original/5Wlo2feLHpLSzQ1slg6zBljb64z.jpg",
+            "air_date": "11/22/12"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-7",
+            "title": "Mission: Defeat Your Rival!",
+            "description": "Ash's battle against Trip continues, with Pikachu facing Serperior. As the preliminaries end and the first round begins, Bianca pits her Escavalier and Emboar against Cameron's Samurott and Riolu. ",
+            "number": "7",
+            "image": "https://image.tmdb.org/t/p/original/oCI0f3tMEAMPaImYNRPJLDM5nbe.jpg",
+            "air_date": "11/29/12"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-8",
+            "title": "Lost at the League!",
+            "description": "During a break in the competition, Iris's Axew follows a balloon and gets lost in Vertress City. Pikachu manages to track him down, but they are cornered by a group of Trubbish and their Garbodor leader. ",
+            "number": "8",
+            "image": "https://image.tmdb.org/t/p/original/zjcUqETxvhmtFwQpek4hhv1Eyzh.jpg",
+            "air_date": "12/6/12"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-9",
+            "title": "Strong Strategy Steals the Show!",
+            "description": "The third round of battles at the Unova League begins and Ash finds himself up against Stephan, putting Krookodile, Palpitoad, and Leavanny up against Stephan's Liepard, Zebstrika, and Sawk. ",
+            "number": "9",
+            "image": "https://image.tmdb.org/t/p/original/fwRiuChm9ncT1nIR5BkQavtOLLe.jpg",
+            "air_date": "12/13/12"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-10",
+            "title": "Cameron's Secret Weapon!",
+            "description": "In the fourth round of matches, Ash battles against Cameron - who begins the match by revealing his secret weapon, Hydreigon. ",
+            "number": "10",
+            "image": "https://image.tmdb.org/t/p/original/66E87p9R51rIuQvozUbgeR352uR.jpg",
+            "air_date": "12/20/12"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-11",
+            "title": "A Unova League Evolution!",
+            "description": "Ash's Snivy and Pikachu must face off against Cameron and his newly evolved Lucario. ",
+            "number": "11",
+            "image": "https://image.tmdb.org/t/p/original/qL8m5W6kPig0g9rYGbExR4GJ5my.jpg",
+            "air_date": "1/10/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-12",
+            "title": "New Places... Familiar Faces!",
+            "description": "With the Unova League tournament over, Ash and company return to Nuvema Town to meet up with Professor Juniper and to tell Professor Oak about his results. Along the way, they meet Nanette who is going to see Juniper for her first Pokémon, and eventually chooses Tepig and asks to have her first battle with Ash. However, during the battle, a robot appears and it is piloted by a very familiar trio. Later, Professor Juniper gets a call from her father, who invites Ash and friends to visit him at the White Ruins, located north of Icirrus City. ",
+            "number": "12",
+            "image": "https://image.tmdb.org/t/p/original/xaB0UoRFHtG6QZbEycFyNg3Za7D.jpg",
+            "air_date": "1/17/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-13",
+            "title": "The Name's N!",
+            "description": "On a boat heading to see ruins dedicated to Reshiram, Ash, Iris, and Cilan meet the mysterious boy calling himself N, who quickly befriends their Pokémon. However, when Team Rocket attacks the group once more and James's Amoonguss paralyzes Pikachu with Stun Spore, N's timely intervention helps turn the tide of the fight. ",
+            "number": "13",
+            "image": "https://image.tmdb.org/t/p/original/mtRRBP513RZFSNtrognLUqZalLd.jpg",
+            "air_date": "1/24/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-14",
+            "title": "There's a New Gym Leader in Town!",
+            "description": "The group's boat arrives in Aspertia City, and they arrange to meet Cheren, Professor Juniper's acquaintance and the city's new Gym Leader. A teacher at the local Pokémon School, Cheren is lacking in confidence regarding his worth for the title, something Cilan - as a former Gym Leader himself - connects with him over. After misadventures in the Pokémon House on the school grounds - including a series of mishaps between Cilan, Pansage, and a flock of Ducklett - Ash has an unofficial Gym match against Cheren, Oshawott facing off against Herdier. ",
+            "number": "14",
+            "image": "https://image.tmdb.org/t/p/original/pXmYWfz89bWlrNQ0NvGeP8YIC6q.jpg",
+            "air_date": "1/31/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-15",
+            "title": "Team Plasma's Pokémon Power Plot!",
+            "description": "When Team Plasma scientist Colress uses his machine to draw out Pokémon strength, the controlled wild Pokémon attack the residents of nearby Floccesy Town. Ash, Iris, and Cilan get caught in the middle of the mayhem when Pikachu and Axew also fall under his control, but when they are saved by Looker, they agree to aid him in his investigation of Team Plasma and Colress's scheme. ",
+            "number": "15",
+            "image": "https://image.tmdb.org/t/p/original/yPSaRBaWmBHZqQP3ReeUFAoZ8c4.jpg",
+            "air_date": "2/7/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-16",
+            "title": "The Light of Floccesy Ranch!",
+            "description": "While stopped at Floccesy Ranch, Iris's Dragonite helps rancher Elly's Ampharos get into the fighting spirit. ",
+            "number": "16",
+            "image": "https://image.tmdb.org/t/p/original/wbRg0EFbT0Q1ubaMSomvW8lG1vT.jpg",
+            "air_date": "2/14/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-17",
+            "title": "Saving Braviary",
+            "description": "Ash and friends once again run into N, who has freed a Braviary held captive by Team Plasma. They help him bring it to a Pokémon Center, but when Braviary is tracked by a pair of Team Plasma Grunts - Nero and Bianco, who respectively use a Seviper and Zangoose in battle - N puts his life on the line. Successfully freeing Braviary, N joins the group on their journey to the White Ruins. ",
+            "number": "17",
+            "image": "https://image.tmdb.org/t/p/original/1G5P1DRy6wbtOlKTr6n8V0ophu5.jpg",
+            "air_date": "2/21/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-18",
+            "title": "The Pokémon Harbor Patrol!",
+            "description": "Upon returning to Virbank City, Ash and friends meet Halsey who runs a rescue team consisting of his two Frillish, his Dewott, and his Watchog. Making his personal feelings on the idea of Pokémon putting themselves at risk for the sake of humans known, N's belief that Watchog (who seems ill-suited for the Team's risky endeavours) is being used as a tool causes an ideological clash between Halsey and N, but the two young men must put their enmities aside when a fire breaks out in Virbank City's Industrial Complex. ",
+            "number": "18",
+            "image": "https://image.tmdb.org/t/p/original/kok0c7LHH5wpMrQg495YLCfXYFC.jpg",
+            "air_date": "2/28/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-19",
+            "title": "The Fires of a Red-Hot Reunion!",
+            "description": "Ash and his friends come across the Kanto Fair, and seeing a Charmander perform on stage reminds him of his old friend Charizard. He tells Iris, Cilan and N about his and Charizard's history, with Misty and Brock making cameos during the tale. Professor Oak sends Charizard over, and after he meets Iris' Dragonite, the two trainers agree to have a friendly match. Ash's offer to let Charizard rejoin his team is met with approval from all parties involved. ",
+            "number": "19",
+            "image": "https://image.tmdb.org/t/p/original/amosrWmnIRdqEQHsn2toTAX5Flf.jpg",
+            "air_date": "3/7/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-20",
+            "title": "Team Plasma's Pokémon Manipulation!",
+            "description": "Colress appears and tests his newly-advanced machine on Dragon-type Pokémon - first taking over a young trainer's Haxorus, and later Iris's Dragonite. As Ash and Charizard try to stop them, N puts himself in the crossfire, knowing the Pokémon should be friends and not fight. ",
+            "number": "20",
+            "image": "https://image.tmdb.org/t/p/original/6KtykWMo9K3IoK3vTGmbUD8B7Yn.jpg",
+            "air_date": "3/14/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-21",
+            "title": "Secrets From Out of the Fog!",
+            "description": "After N is hurt by Colress's machine, two young women, Anthea and Concordia, come to save him. It is from these two girls that Ash and the others learn the truth about N's life, including his link to the evil Ghetsis. ",
+            "number": "21",
+            "image": "https://image.tmdb.org/t/p/original/2wWKNgXx13QEDJqWkyuw5uL1pzq.jpg",
+            "air_date": "3/21/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-22",
+            "title": "Meowth, Colress and Team Rivalry!",
+            "description": "Team Plasma's Colress convinces Team Rocket's Jessie and James to use his technology on Meowth to make him stronger, but it is all part of Colress's plans to test his Pokémon controlling device. ",
+            "number": "22",
+            "image": "https://image.tmdb.org/t/p/original/xqxlcle9jY3CtJVvdckGHXxSWwb.jpg",
+            "air_date": "3/28/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-23",
+            "title": "Ash and N: A Clash of Ideals!",
+            "description": "At the ruins dedicated to the Pokémon Reshiram, N steals the Light Stone from Cedric Juniper, and Ash's attempt to stop him ends with them separated from the others. Team Plasma move to attack the White Ruins while Team Rocket watch on in anticipation, and Iris, Cilan and Looker attempt to fight off the enemy forces. ",
+            "number": "23",
+            "image": "https://image.tmdb.org/t/p/original/lzMuVDFgv93WZGe14u7xP0FeoLq.jpg",
+            "air_date": "4/4/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-24",
+            "title": "Team Plasma and the Awakening Ceremony!",
+            "description": "Ash and N prepare to save Iris, Cilan, and Professor Juniper's father from the clutches of Team Plasma before Ghetsis can revive Reshiram, but their attempts to fight back are hampered by Colress's Pokémon controlling machine, forcing them all to call back their Pokémon. Pikachu gets hit by the machine's beam, which sways N into surrendering the Light Stone in exchange for its freedom just as Ghetsis arrives, ready to begin the ritual. ",
+            "number": "24",
+            "image": "https://image.tmdb.org/t/p/original/f22JZs1H9O0HvmyII594FAw9onR.jpg",
+            "air_date": "4/11/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-25",
+            "title": "What Lies Beyond Truth and Ideals!",
+            "description": "As the revived Reshiram quickly falls under Ghetsis' control, Ash and friends try to develop a strategy to stop Team Plasma. Looker convinces Team Rocket to help in the fight against the villains, while Ash and Pikachu aim to destroy the controlling machine, and N hopes to pacify the enraged Reshiram before it destroys the world in a righteous fury - akin to when it burned down Team Plasma's castle in the past. ",
+            "number": "25",
+            "image": "https://image.tmdb.org/t/p/original/3sRrU53UlAYFJ6X1xJcrAMarQFw.jpg",
+            "air_date": "4/18/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-26",
+            "title": "Farewell, Unova! Setting Sail for New Adventures!",
+            "description": "With Team Plasma defeated once and for all, Ash decides it is time to go back to Kanto. Iris and Cilan decide to go with him to further their skills, and Professor Juniper charters all of them a cruise through the Decolore Islands on a boat with a mysterious crew. Once settled in their cabins, however, Ash finds that they are locked in and their Pokémon are not with them. ",
+            "number": "26",
+            "image": "https://image.tmdb.org/t/p/original/4e3q2MYrcMSEHREcDxjGjlcbfV6.jpg",
+            "air_date": "4/25/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-27",
+            "title": "Danger, Sweet as Honey!",
+            "description": "The cruise makes a stop on Honey Island, known for its colonies of the Honeycomb Pokémon Combee, Pupa Pokémon Kakuna, Stinger Pokémon Beedrill, and its honey-flavored cuisine. ",
+            "number": "27",
+            "image": "https://image.tmdb.org/t/p/original/m3tcc0dA1BjQ1JQthiGGfDloS06.jpg",
+            "air_date": "5/2/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-28",
+            "title": "Cilan and the Case of the Purrloin Witness!",
+            "description": "As Ash and his friends prepare for the upcoming Marine Cup Tournament on board their new cruise ship, the group learns that Mrs. Ripple, a jewel collector, will display her collection after the tournament, but upon the tournament's conclusion she discovers that her rare Eye of Liepard has been stolen. She suspects Mr. Shaw - a businessman and jewel collector who has been asking to buy the Eye of Liepard from her - even though it was watched over by her Watchog all night. Cilan takes on his detective role once more to discover the thief of the Eye of Liepard. ",
+            "number": "28",
+            "image": "https://image.tmdb.org/t/p/original/2pUm3B0zZHjBU3tLZpWfoHFVCT4.jpg",
+            "air_date": "5/9/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-29",
+            "title": "Crowning the Scalchop King!",
+            "description": "On Scalchop Island, Ash's Oshawott goes up against the Dewott named Caesar to see who will win the battle at the Scalchop King Competition. ",
+            "number": "29",
+            "image": "https://image.tmdb.org/t/p/original/9eX7sOgfbaDmCpDnIiXlZBvoHa1.jpg",
+            "air_date": "5/16/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-30",
+            "title": "The Island of Illusions!",
+            "description": "On the way to Mahora Island, the gang's boat passes through fog and they believe they see a familiar shape in it. After avoiding a giant Heatmor when Pikachu's attacks do not work against it, Axew gets poisoned by a Foongus's Mushroom Spore attack, forcing the gang to take him to an old Pokémon Center which they soon discover is operating illegally. ",
+            "number": "30",
+            "image": "https://image.tmdb.org/t/p/original/hSM6PliSTDT4an8ehYmbtp76oQq.jpg",
+            "air_date": "5/23/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-31",
+            "title": "To Catch a Rotom!",
+            "description": "Ash, Iris, and Cilan catch up with Professor Oak who has come to one of the Decolore Islands to investigate the Plasma Pokémon Rotom and its Forme Change capabilities. However, the Rotom native to the island are more interested in Pikachu, Emolga, and Stunfisk. ",
+            "number": "31",
+            "image": "https://image.tmdb.org/t/p/original/4ZjnvMfCZbkB6VQFb3UHpjDIhTg.jpg",
+            "air_date": "5/30/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-32",
+            "title": "The Pirates of Decolore!",
+            "description": "When Team Rocket tries to ransack the group's cruise ship's food store, they are thwarted by a group of self-styled pirate Pokémon group made up of a Croconaw, an Octillery, an Azumarill, and a Ducklett, leaving Ash to try to get the food back. ",
+            "number": "32",
+            "image": "https://image.tmdb.org/t/p/original/5HjfVF1sJJIDbhh8BmATeAm9NIj.jpg",
+            "air_date": "6/6/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-33",
+            "title": "Butterfree and Me!",
+            "description": "On Wayfarer Island, Ash and his friends see the native Metapod and Butterfree, and when they find a Caterpie who has not yet evolved, Ash takes it upon himself to help the very lazy Pokémon join the rest of its friends, remembering the times he had raising his own Butterfree years ago. ",
+            "number": "33",
+            "image": "https://image.tmdb.org/t/p/original/upO3YF6U7bWBdujnGT6YDt0ulb8.jpg",
+            "air_date": "6/13/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-34",
+            "title": "The Path That Leads to Goodbye!",
+            "description": "On Capacia Island, after a Dunsparce Ash fails to capture and hurts Axew, Iris gets so mad at him that she says she will no longer be Ash's friend and leaves. ",
+            "number": "34",
+            "image": "https://image.tmdb.org/t/p/original/7a5w2uIyn5Jlj0qDznH644TDC6L.jpg",
+            "air_date": "6/20/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-35",
+            "title": "Searching for a Wish!",
+            "description": "Ash, Iris, and Cilan take a break on Capacia Island only to discover they have arrived on the one week once every 1000 years when Jirachi awakens and grants a wish. Gemma, a young girl who lives on the island, wants to ask Jirachi to bring prosperity back to the island, but Team Rocket has other plans. ",
+            "number": "35",
+            "image": "https://image.tmdb.org/t/p/original/aHrgD1PbL2c8D0oQLo0JwxyeW8Q.jpg",
+            "air_date": "6/27/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-36",
+            "title": "Capacia Island UFO!",
+            "description": "Ash must find a way to stop Beheeyem from taking over a town on Capacia Island after the townspeople, Iris, Cilan, and even Pikachu are placed under the strange Pokémons' control. ",
+            "number": "36",
+            "image": "https://image.tmdb.org/t/p/original/gCptA2CZtonNDbIAaytqokjIg4R.jpg",
+            "air_date": "7/4/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-37",
+            "title": "The Journalist from Another Region!",
+            "description": "While on Harvest Island, Ash and his friends meet the Pokémon Reporter Alexa, who has come all the way from the Kalos Region with her Gogoat and Helioptile. She has come to investigate Harvest Island's fruit harvest festival, which the others realize has a Pokémon Sumo tournament. Ash, Iris, and Cilan enter Pignite, Pansage, and Dragonite in the tournament to win the grand prize Focus Band. ",
+            "number": "37",
+            "image": "https://image.tmdb.org/t/p/original/vQWn8NrJYxzksllAjN0EFgXmsx5.jpg",
+            "air_date": "7/18/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-38",
+            "title": "Mystery on a Deserted Island!",
+            "description": "Alexa tells Ash, Iris, and Cilan about Yashi Island, a desert island where a pirate ship crashed years ago, and the ship's treasure has never been found. The group decides to investigate, and Team Rocket follows to get the treasure for themselves. ",
+            "number": "38",
+            "image": "https://image.tmdb.org/t/p/original/2dQ2gqi3M9QNyAOomZPRgZq3fD8.jpg",
+            "air_date": "7/25/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-39",
+            "title": "A Pokémon of a Different Color!",
+            "description": "On Cave Island, Ash and his friends meet up with Clair, Gym Leader of Johto's Blackthorn City, who has come to the island to capture a different-colored Druddigon, but her Dragonite left without her. When they find her Dragonite, Iris's Dragonite takes an instant dislike to it and the two fight, hampering Clair's plans to find the different-colored Druddigon on the other side of the island from the port. ",
+            "number": "39",
+            "image": "https://image.tmdb.org/t/p/original/yY5lZgZdQfkEdUWA1X6ZGmV5ta.jpg",
+            "air_date": "8/1/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-40",
+            "title": "Celebrating the Hero's Comet!",
+            "description": "The appearance of Woodate Comet approaches, so Ash, Iris, Cilan, and Alexa go stake out the ruins where the legendary hero it is named after first spotted it. However, they must deal with several Ghost Pokémon and Team Rocket who are once again trying to capture Pikachu. ",
+            "number": "40",
+            "image": "https://image.tmdb.org/t/p/original/1aFdwibiHadVt43nNU54cM42FmZ.jpg",
+            "air_date": "8/15/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-41",
+            "title": "Go, Go Gogoat!",
+            "description": "On another island, Ash, Iris, Cilan, and Alexa meet a boy named Tony who touches Alexa's Gogoat's horns, causing it to temporarily bond with him. They all help Tony meet his father on the other side of the island. ",
+            "number": "41",
+            "image": "https://image.tmdb.org/t/p/original/1QfiXZD09hyPN7V6edoc1MmU5Dx.jpg",
+            "air_date": "8/22/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-42",
+            "title": "Team Rocket's Shocking Recruit!",
+            "description": "After being scolded by Iris, an ambush by Team Rocket starts to make Emolga wish she did not have to be with such strict trainers and fights on Team Rocket's side. ",
+            "number": "42",
+            "image": "https://image.tmdb.org/t/p/original/qy3rgSDlCfxSHztQWxEy8SPe0Fq.jpg",
+            "air_date": "9/5/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-43",
+            "title": "Survival of the Striaton Gym!",
+            "description": "Chili and Cress meet up with Cilan on Paladin Island as they have both been beaten by a challenger at the Striaton Gym named Morana who exclusively uses Ice-type Pokémon such as Mamoswine and Glalie. It is up to Cilan and Pansage to face off against Morana and her Abomasnow for the honor of the Striaton City Gym. ",
+            "number": "43",
+            "image": "https://image.tmdb.org/t/p/original/w058cgthpu7qkIFRj2PVSP0Y6fd.jpg",
+            "air_date": "9/12/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-44",
+            "title": "Best Wishes! Until We Meet Again!",
+            "description": "The group finally reaches the waters off of Kanto, just as Team Rocket once again tries to do their best to take Ash's Pikachu. ",
+            "number": "44",
+            "image": "https://image.tmdb.org/t/p/original/etSoIF0yggGafR7RpFKuUOndPaq.jpg",
+            "air_date": "9/19/13"
+        },
+        {
+            "id": "pokemon-black-white-adventures-in-unova-and-beyond-episode-45",
+            "title": "The Dream Continues!",
+            "description": "With Iris and Cilan heading off on their own adventures in Johto, Ash is restless and still wishes to become a Pokémon Master. To that end, Alexa suggests that he travel with her back to her home in the Kalos region just as Team Rocket hatches another plan to steal Pikachu. ",
+            "number": "45",
+            "image": "https://image.tmdb.org/t/p/original/pmSfN2ryayzGWpkDQAVADNeM8Xh.jpg",
+            "air_date": "9/26/13"
+        }
   ]
 }
