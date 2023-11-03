@@ -1,303 +1,220 @@
-[
-
+{
+    "Sheet1": [
         {
-            "server1": "axura4wyzfz6",
-            "animeNameWithEP": "Tokyo Revengers Episode 0 Dubbed",
-            "ep_num": "0",
-            "anime_info": "tokyo-revengers",
-            "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 1 >>",
-            "nextEpLink": "/tokyo-revengers-episode-1",
-            "prevEpText": "",
-            "prevEpLink": ""
-        },
-        {
-            "server1": "9vtbmx2dv72c",
-            "animeNameWithEP": "Tokyo Revengers Episode 1 Dubbed",
+            "server1": "wzelmyi1p9ye",
+            "server2": "52znvcc3b8zt",
+            "animeNameWithEP": "Tokyo Revengers Episode 1",
             "ep_num": "1",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 2 >>",
-            "nextEpLink": "/tokyo-revengers-episode-2",
-            "prevEpText": "<< Tokyo Revengers Episode 0",
-            "prevEpLink": "/tokyo-revengers-episode-0"
+            "subOrDub": "dual"
         },
         {
-            "server1": "dqx3gvqji56g",
-            "animeNameWithEP": "Tokyo Revengers Episode 2 Dubbed",
+            "server1": "4qu66ln1m0gf",
+            "server2": "iad4928ymk95",
+            "animeNameWithEP": "Tokyo Revengers Episode 2",
             "ep_num": "2",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 3 >>",
-            "nextEpLink": "/tokyo-revengers-episode-3",
-            "prevEpText": "<< Tokyo Revengers Episode 1",
-            "prevEpLink": "/tokyo-revengers-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "y99m9m4b1p2h",
-            "animeNameWithEP": "Tokyo Revengers Episode 3 Dubbed",
+            "server1": "009itb3fgtq9",
+            "server2": "naio75clleor",
+            "animeNameWithEP": "Tokyo Revengers Episode 3",
             "ep_num": "3",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 4 >>",
-            "nextEpLink": "/tokyo-revengers-episode-4",
-            "prevEpText": "<< Tokyo Revengers Episode 2",
-            "prevEpLink": "/tokyo-revengers-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ct8rv5ghcpq7",
-            "animeNameWithEP": "Tokyo Revengers Episode 4 Dubbed",
+            "server1": "si64ksue3q0o",
+            "server2": "1tr83itsfen5",
+            "animeNameWithEP": "Tokyo Revengers Episode 4",
             "ep_num": "4",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 5 >>",
-            "nextEpLink": "/tokyo-revengers-episode-5",
-            "prevEpText": "<< Tokyo Revengers Episode 3",
-            "prevEpLink": "/tokyo-revengers-episode-3"
+            "subOrDub": "dual"
         },
         {
-            "server1": "balf2c4us0j4",
-            "animeNameWithEP": "Tokyo Revengers Episode 5 Dubbed",
+            "server1": "ezcui5f4k4q9",
+            "server2": "pptxcxv3qsij",
+            "animeNameWithEP": "Tokyo Revengers Episode 5",
             "ep_num": "5",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 6 >>",
-            "nextEpLink": "/tokyo-revengers-episode-6",
-            "prevEpText": "<< Tokyo Revengers Episode 4",
-            "prevEpLink": "/tokyo-revengers-episode-4"
+            "subOrDub": "dual"
         },
         {
-            "server1": "kj2q59n58kgv",
-            "animeNameWithEP": "Tokyo Revengers Episode 6 Dubbed",
+            "server1": "i79hs5l44xrg",
+            "server2": "s19r9hfj8ppz",
+            "animeNameWithEP": "Tokyo Revengers Episode 6",
             "ep_num": "6",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 7 >>",
-            "nextEpLink": "/tokyo-revengers-episode-7",
-            "prevEpText": "<< Tokyo Revengers Episode 5",
-            "prevEpLink": "/tokyo-revengers-episode-5"
+            "subOrDub": "dual"
         },
         {
-            "server1": "yq2gmtkqxorx",
-            "animeNameWithEP": "Tokyo Revengers Episode 7 Dubbed",
+            "server1": "s0pbdiavya8o",
+            "server2": "f2kuok7h0xvr",
+            "animeNameWithEP": "Tokyo Revengers Episode 7",
             "ep_num": "7",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 8 >>",
-            "nextEpLink": "/tokyo-revengers-episode-8",
-            "prevEpText": "<< Tokyo Revengers Episode 6",
-            "prevEpLink": "/tokyo-revengers-episode-6"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ds3az3y9ye16",
-            "animeNameWithEP": "Tokyo Revengers Episode 8 Dubbed",
+            "server1": "nrns1hd4txux",
+            "server2": "k6dr572wpgo9",
+            "animeNameWithEP": "Tokyo Revengers Episode 8",
             "ep_num": "8",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 9 >>",
-            "nextEpLink": "/tokyo-revengers-episode-9",
-            "prevEpText": "<< Tokyo Revengers Episode 7",
-            "prevEpLink": "/tokyo-revengers-episode-7"
+            "subOrDub": "dual"
         },
         {
-            "server1": "hh4uajv458qy",
-            "animeNameWithEP": "Tokyo Revengers Episode 9 Dubbed",
+            "server1": "51zm61ds5s2x",
+            "server2": "20sdssnzc2n4",
+            "animeNameWithEP": "Tokyo Revengers Episode 9",
             "ep_num": "9",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 10 >>",
-            "nextEpLink": "/tokyo-revengers-episode-10",
-            "prevEpText": "<< Tokyo Revengers Episode 8",
-            "prevEpLink": "/tokyo-revengers-episode-8"
+            "subOrDub": "dual"
         },
         {
-            "server1": "9yvpec2lum7e",
-            "animeNameWithEP": "Tokyo Revengers Episode 10 Dubbed",
+            "server1": "pzak8hfqihag",
+            "server2": "c3r7aqax5nko",
+            "animeNameWithEP": "Tokyo Revengers Episode 10",
             "ep_num": "10",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 11 >>",
-            "nextEpLink": "/tokyo-revengers-episode-11",
-            "prevEpText": "<< Tokyo Revengers Episode 9",
-            "prevEpLink": "/tokyo-revengers-episode-9"
+            "subOrDub": "dual"
         },
         {
-            "server1": "o1lj1pmd66rn",
-            "animeNameWithEP": "Tokyo Revengers Episode 11 Dubbed",
+            "server1": "f6kab06atuiq",
+            "server2": "cuw3z1nusn8m",
+            "animeNameWithEP": "Tokyo Revengers Episode 11",
             "ep_num": "11",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 12 >>",
-            "nextEpLink": "/tokyo-revengers-episode-12",
-            "prevEpText": "<< Tokyo Revengers Episode 10",
-            "prevEpLink": "/tokyo-revengers-episode-10"
+            "subOrDub": "dual"
         },
         {
-            "server1": "g3mt9hyl17u9",
-            "animeNameWithEP": "Tokyo Revengers Episode 12 Dubbed",
+            "server1": "x0nxjhicuxtx",
+            "server2": "nx3i07uicg8z",
+            "animeNameWithEP": "Tokyo Revengers Episode 12",
             "ep_num": "12",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 13 >>",
-            "nextEpLink": "/tokyo-revengers-episode-13",
-            "prevEpText": "<< Tokyo Revengers Episode 11",
-            "prevEpLink": "/tokyo-revengers-episode-11"
+            "subOrDub": "dual"
         },
         {
-            "server1": "p4ukm007693k",
-            "animeNameWithEP": "Tokyo Revengers Episode 13 Dubbed",
+            "server1": "ehaqvrpzi85b",
+            "server2": "3mr9ehyb68bs",
+            "animeNameWithEP": "Tokyo Revengers Episode 13",
             "ep_num": "13",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 14 >>",
-            "nextEpLink": "/tokyo-revengers-episode-14",
-            "prevEpText": "<< Tokyo Revengers Episode 12",
-            "prevEpLink": "/tokyo-revengers-episode-12"
+            "subOrDub": "dual"
         },
         {
-            "server1": "esxxqymc3frg",
-            "animeNameWithEP": "Tokyo Revengers Episode 14 Dubbed",
+            "server1": "wrfnml9khlbq",
+            "server2": "arkeey8rbskm",
+            "animeNameWithEP": "Tokyo Revengers Episode 14",
             "ep_num": "14",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 15 >>",
-            "nextEpLink": "/tokyo-revengers-episode-15",
-            "prevEpText": "<< Tokyo Revengers Episode 13",
-            "prevEpLink": "/tokyo-revengers-episode-13"
+            "subOrDub": "dual"
         },
         {
-            "server1": "f45ptcihxxi7",
-            "animeNameWithEP": "Tokyo Revengers Episode 15 Dubbed",
+            "server1": "5yxiidone5aq",
+            "server2": "jpvxuxzv2jhv",
+            "animeNameWithEP": "Tokyo Revengers Episode 15",
             "ep_num": "15",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 16 >>",
-            "nextEpLink": "/tokyo-revengers-episode-16",
-            "prevEpText": "<< Tokyo Revengers Episode 14",
-            "prevEpLink": "/tokyo-revengers-episode-14"
+            "subOrDub": "dual"
         },
         {
-            "server1": "nsn9ii33p5ok",
-            "animeNameWithEP": "Tokyo Revengers Episode 16 Dubbed",
+            "server1": "yoeczttozqfi",
+            "server2": "7chkhmywfyw6",
+            "animeNameWithEP": "Tokyo Revengers Episode 16",
             "ep_num": "16",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 17 >>",
-            "nextEpLink": "/tokyo-revengers-episode-17",
-            "prevEpText": "<< Tokyo Revengers Episode 15",
-            "prevEpLink": "/tokyo-revengers-episode-15"
+            "subOrDub": "dual"
         },
         {
-            "server1": "bz0rn07bgm1n",
-            "animeNameWithEP": "Tokyo Revengers Episode 17 Dubbed",
+            "server1": "pz4hy0a5mxgg",
+            "server2": "ew5e03kc4s95",
+            "animeNameWithEP": "Tokyo Revengers Episode 17",
             "ep_num": "17",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 18 >>",
-            "nextEpLink": "/tokyo-revengers-episode-18",
-            "prevEpText": "<< Tokyo Revengers Episode 16",
-            "prevEpLink": "/tokyo-revengers-episode-16"
+            "subOrDub": "dual"
         },
         {
-            "server1": "bxwlfziul7s2",
-            "animeNameWithEP": "Tokyo Revengers Episode 18 Dubbed",
+            "server1": "tsitdhzu7duv",
+            "server2": "nesbzb0z56bj",
+            "animeNameWithEP": "Tokyo Revengers Episode 18",
             "ep_num": "18",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 19 >>",
-            "nextEpLink": "/tokyo-revengers-episode-19",
-            "prevEpText": "<< Tokyo Revengers Episode 17",
-            "prevEpLink": "/tokyo-revengers-episode-17"
+            "subOrDub": "dual"
         },
         {
-            "server1": "pop8i7ccf7k5",
-            "animeNameWithEP": "Tokyo Revengers Episode 19 Dubbed",
+            "server1": "u8ynl3sktyy3",
+            "server2": "1yu3w5bx0eft",
+            "animeNameWithEP": "Tokyo Revengers Episode 19",
             "ep_num": "19",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 20 >>",
-            "nextEpLink": "/tokyo-revengers-episode-20",
-            "prevEpText": "<< Tokyo Revengers Episode 18",
-            "prevEpLink": "/tokyo-revengers-episode-18"
+            "subOrDub": "dual"
         },
         {
-            "server1": "g6071hf1ekbi",
-            "animeNameWithEP": "Tokyo Revengers Episode 20 Dubbed",
+            "server1": "epazopcqmg2z",
+            "server2": "23fygndel8fh",
+            "animeNameWithEP": "Tokyo Revengers Episode 20",
             "ep_num": "20",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 21 >>",
-            "nextEpLink": "/tokyo-revengers-episode-21",
-            "prevEpText": "<< Tokyo Revengers Episode 19",
-            "prevEpLink": "/tokyo-revengers-episode-19"
+            "subOrDub": "dual"
         },
         {
-            "server1": "hcrqwi2dlxct",
-            "animeNameWithEP": "Tokyo Revengers Episode 21 Dubbed",
+            "server1": "9kcbmpivd4gz",
+            "server2": "a2py092j84jq",
+            "animeNameWithEP": "Tokyo Revengers Episode 21",
             "ep_num": "21",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 22 >>",
-            "nextEpLink": "/tokyo-revengers-episode-22",
-            "prevEpText": "<< Tokyo Revengers Episode 20",
-            "prevEpLink": "/tokyo-revengers-episode-20"
+            "subOrDub": "dual"
         },
         {
-            "server1": "xwgpfypj7kzy",
-            "animeNameWithEP": "Tokyo Revengers Episode 22 Dubbed",
+            "server1": "t8c70xaijoup",
+            "server2": "t2z5zkvbzxp9",
+            "animeNameWithEP": "Tokyo Revengers Episode 22",
             "ep_num": "22",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 23 >>",
-            "nextEpLink": "/tokyo-revengers-episode-23",
-            "prevEpText": "<< Tokyo Revengers Episode 21",
-            "prevEpLink": "/tokyo-revengers-episode-21"
+            "subOrDub": "dual"
         },
         {
-            "server1": "k7m32mu9bvm4",
-            "animeNameWithEP": "Tokyo Revengers Episode 23 Dubbed",
+            "server1": "zs1fvi6qzt2n",
+            "server2": "w7ux2xkrg3eh",
+            "animeNameWithEP": "Tokyo Revengers Episode 23",
             "ep_num": "23",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "Tokyo Revengers Episode 24 >>",
-            "nextEpLink": "/tokyo-revengers-episode-24",
-            "prevEpText": "<< Tokyo Revengers Episode 22",
-            "prevEpLink": "/tokyo-revengers-episode-22"
+            "subOrDub": "dual"
         },
         {
-            "server1": "k5vonlezahnp",
-            "animeNameWithEP": "Tokyo Revengers Episode 24 Dubbed",
+            "server1": "88poznpe851y",
+            "server2": "gewc5t9ca2i6",
+            "animeNameWithEP": "Tokyo Revengers Episode 24",
             "ep_num": "24",
             "anime_info": "tokyo-revengers",
             "movie_id": "120120",
-            "alias": "tokyo-revengers",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Tokyo Revengers Episode 23",
-            "prevEpLink": "/tokyo-revengers-episode-23"
+            "subOrDub": "dual"
         }
     ]
+}
