@@ -1,14 +1,11 @@
 [
         {
-            "server1": "q94bheqks8gq",
+            "server1": "wv66w06izrve",
+            "server2": "0td63m8skvv9",
             "animeNameWithEP": "My Hero Academia: World Heroes' Mission",
             "ep_num": "1",
             "anime_info": "my-hero-academia-world-heroes-mission",
             "movie_id": "126659",
-            "alias": "my-hero-academia-world-heroes-mission",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
-    ]
+]
