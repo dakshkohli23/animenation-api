@@ -1,14 +1,11 @@
 [
         {
-            "server1": "glv6hcbtb2xl",
+            "server1": "0z1qdnug0su6",
+            "server2": "cgnwsnyq3qxs",
             "animeNameWithEP": "My Hero Academia: Two Heroes",
             "ep_num": "1",
             "anime_info": "my-hero-academia-two-heroes",
             "movie_id": "100723",
-            "alias": "my-hero-academia-two-heroes",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
