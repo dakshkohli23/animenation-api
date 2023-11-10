@@ -1,14 +1,11 @@
 [
         {
-            "server1": "5zh3p2it9ra9",
+            "server1": "0adj8dq9ugwj",
+            "server2": "521pr5fbvihg",
             "animeNameWithEP": "My Hero Academia: Heroes Rising",
             "ep_num": "1",
             "anime_info": "my-hero-academia-heroes-rising",
             "movie_id": "108553",
-            "alias": "my-hero-academia-heroes-rising",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
-    ]
+]
