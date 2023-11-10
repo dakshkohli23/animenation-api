@@ -29,5 +29,16 @@
 		"sub": 24,
 		"type": "ONA",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png"
+	},
+	{
+		"animeId": "my-hero-academia-heroes-rising",
+		"episodeId": "my-hero-academia-heroes-rising-episode-1",
+		"name": "My Hero Academia: Heroes Rising",
+		"jname": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+		"episodeNum": 1,
+		"sub": 1,
+		"dub": 1,
+		"type": "MOVIE",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg"
 	}
 ]
