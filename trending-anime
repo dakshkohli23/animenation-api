@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "jujutsu-kaisen-tv",
+		"episodeId": "jujutsu-kaisen-tv-episode-1",
+		"name": "JUJUTSU KAISEN",
+		"jname": "Jujutsu Kaisen",
+		"episodeNum": "24",
+		"subOrDub": "dub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
+		"episodeUrl": "anime/jujutsu-kaisen-tv"
+	},
+	{
 		"animeId": "pokemon-ultimate-journeys",
 		"episodeId": "pokemon-ultimate-journeys-episode-1",
 		"name": "Pokémon Ultimate Journeys: The Series",
