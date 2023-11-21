@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "jujutsu-kaisen-tv",
+		"episodeId": "jujutsu-kaisen-tv-episode-1",
+		"name": "JUJUTSU KAISEN",
+		"jname": "Jujutsu Kaisen",
+		"episodeNum": 24,
+		"dub": 24,
+		"sub": 24,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg"
+	},
+	{
 		"animeId": "tokyo-revengers-season-2",
 		"episodeId": "tokyo-revengers-season-2-episode-1",
 		"name": "Tokyo Revengers Season 2",
@@ -7,7 +18,7 @@
 		"episodeNum": 13,
 		"dub": 13,
 		"sub": 13,
-		"type": "t0v",
+		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142853-nxEZDE9oDRLG.png"
 	},
 	{
