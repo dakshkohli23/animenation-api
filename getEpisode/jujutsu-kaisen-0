@@ -1,14 +1,11 @@
-[
+{
         {
-            "server1": "0a9kvs47lrje",
-            "animeNameWithEP": "JUJUTSU KAISEN 0 Episode 1 Dubbed",
+            "server1": "ikm7mpsqwb7f",
+            "server2": "ollur5mvfy7l",
+            "animeNameWithEP": "JUJUTSU KAISEN 0",
             "ep_num": "1",
             "anime_info": "jujutsu-kaisen-0",
             "movie_id": "131573",
-            "alias": "jujutsu-kaisen-0",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
