@@ -1,134 +1,101 @@
 [
         {
-            "server1": "j5bpjow72p7u",
+            "server1": "m1rhbm4q9x19",
+            "server2": "g4yaz94a2751",
             "animeNameWithEP": "Dr. STONE: STONE WARS Episode 1",
             "ep_num": "1",
             "anime_info": "dr-stone-stone-wars",
             "movie_id": "113936",
-            "alias": "dr-stone-stone-wars",
-            "nextEpText": "Dr. STONE: STONE WARS Episode 2 >>",
-            "nextEpLink": "/dr-stone-stone-wars-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "3ye3iekwlmp7",
+            "server1": "tsjhbw7wvd0l",
+            "server2": "lkg1c0wgr8j7",
             "animeNameWithEP": "Dr. STONE: STONE WARS Episode 2",
             "ep_num": "2",
             "anime_info": "dr-stone-stone-wars",
             "movie_id": "113936",
-            "alias": "dr-stone-stone-wars",
-            "nextEpText": "Dr. STONE: STONE WARS Episode 3 >>",
-            "nextEpLink": "/dr-stone-stone-wars-episode-3",
-            "prevEpText": "<< Dr. STONE: STONE WARS Episode 1",
-            "prevEpLink": "/dr-stone-stone-wars-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "r32r01m48bwe",
+            "server1": "d2ba2murqa1d",
+            "server2": "fpgts20d8p85",
             "animeNameWithEP": "Dr. STONE: STONE WARS Episode 3",
             "ep_num": "3",
             "anime_info": "dr-stone-stone-wars",
             "movie_id": "113936",
-            "alias": "dr-stone-stone-wars",
-            "nextEpText": "Dr. STONE: STONE WARS Episode 4 >>",
-            "nextEpLink": "/dr-stone-stone-wars-episode-4",
-            "prevEpText": "<< Dr. STONE: STONE WARS Episode 2",
-            "prevEpLink": "/dr-stone-stone-wars-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "fal36twogijv",
+            "server1": "qmu75a0l8u3g",
+            "server2": "ugbhhl4m5npj",
             "animeNameWithEP": "Dr. STONE: STONE WARS Episode 4",
             "ep_num": "4",
             "anime_info": "dr-stone-stone-wars",
             "movie_id": "113936",
-            "alias": "dr-stone-stone-wars",
-            "nextEpText": "Dr. STONE: STONE WARS Episode 5 >>",
-            "nextEpLink": "/dr-stone-stone-wars-episode-5",
-            "prevEpText": "<< Dr. STONE: STONE WARS Episode 3",
-            "prevEpLink": "/dr-stone-stone-wars-episode-3"
+            "subOrDub": "dual"
         },
         {
-            "server1": "kt2iagbjq7x9",
+            "server1": "z2j0lkwbso4y",
+            "server2": "7odw75nfmz90",
             "animeNameWithEP": "Dr. STONE: STONE WARS Episode 5",
             "ep_num": "5",
             "anime_info": "dr-stone-stone-wars",
             "movie_id": "113936",
-            "alias": "dr-stone-stone-wars",
-            "nextEpText": "Dr. STONE: STONE WARS Episode 6 >>",
-            "nextEpLink": "/dr-stone-stone-wars-episode-6",
-            "prevEpText": "<< Dr. STONE: STONE WARS Episode 4",
-            "prevEpLink": "/dr-stone-stone-wars-episode-4"
+            "subOrDub": "dual"
         },
         {
-            "server1": "wfncdfh6xxjy",
+            "server1": "kypk9wxf5111",
+            "server2": "sjzbkqjbo721",
             "animeNameWithEP": "Dr. STONE: STONE WARS Episode 6",
             "ep_num": "6",
             "anime_info": "dr-stone-stone-wars",
             "movie_id": "113936",
-            "alias": "dr-stone-stone-wars",
-            "nextEpText": "Dr. STONE: STONE WARS Episode 7 >>",
-            "nextEpLink": "/dr-stone-stone-wars-episode-7",
-            "prevEpText": "<< Dr. STONE: STONE WARS Episode 5",
-            "prevEpLink": "/dr-stone-stone-wars-episode-5"
+            "subOrDub": "dual"
         },
         {
-            "server1": "piikomcxs5a2",
+            "server1": "4qty7j57kr07",
+            "server2": "sefu01s7nmtq",
             "animeNameWithEP": "Dr. STONE: STONE WARS Episode 7",
             "ep_num": "7",
             "anime_info": "dr-stone-stone-wars",
             "movie_id": "113936",
-            "alias": "dr-stone-stone-wars",
-            "nextEpText": "Dr. STONE: STONE WARS Episode 8 >>",
-            "nextEpLink": "/dr-stone-stone-wars-episode-8",
-            "prevEpText": "<< Dr. STONE: STONE WARS Episode 6",
-            "prevEpLink": "/dr-stone-stone-wars-episode-6"
+            "subOrDub": "dual"
         },
         {
-            "server1": "fx435o5kv3j0",
+            "server1": "d8p3fsu4mntg",
+            "server2": "aezs0qg48ycx",
             "animeNameWithEP": "Dr. STONE: STONE WARS Episode 8",
             "ep_num": "8",
             "anime_info": "dr-stone-stone-wars",
             "movie_id": "113936",
-            "alias": "dr-stone-stone-wars",
-            "nextEpText": "Dr. STONE: STONE WARS Episode 9 >>",
-            "nextEpLink": "/dr-stone-stone-wars-episode-9",
-            "prevEpText": "<< Dr. STONE: STONE WARS Episode 7",
-            "prevEpLink": "/dr-stone-stone-wars-episode-7"
+            "subOrDub": "dual"
         },
         {
-            "server1": "qbxsqng15jqz",
+            "server1": "ynswz9jfmik1",
+            "server2": "qpfx15c6d174",
             "animeNameWithEP": "Dr. STONE: STONE WARS Episode 9",
             "ep_num": "9",
             "anime_info": "dr-stone-stone-wars",
             "movie_id": "113936",
-            "alias": "dr-stone-stone-wars",
-            "nextEpText": "Dr. STONE: STONE WARS Episode 10 >>",
-            "nextEpLink": "/dr-stone-stone-wars-episode-10",
-            "prevEpText": "<< Dr. STONE: STONE WARS Episode 8",
-            "prevEpLink": "/dr-stone-stone-wars-episode-8"
+            "subOrDub": "dual"
         },
         {
-            "server1": "f6vlkbutfcnw",
+            "server1": "m0s5hj0t57m6",
+            "server2": "9rwqojchcne5",
             "animeNameWithEP": "Dr. STONE: STONE WARS Episode 10",
             "ep_num": "10",
             "anime_info": "dr-stone-stone-wars",
             "movie_id": "113936",
-            "alias": "dr-stone-stone-wars",
-            "nextEpText": "Dr. STONE: STONE WARS Episode 11 >>",
-            "nextEpLink": "/dr-stone-stone-wars-episode-11",
-            "prevEpText": "<< Dr. STONE: STONE WARS Episode 9",
-            "prevEpLink": "/dr-stone-stone-wars-episode-9"
+            "subOrDub": "dual"
         },
         {
-            "server1": "4ahnduc8xn8d",
+            "server1": "ouxhuh7wwnax",
+            "server2": "j0duyu0fea2y",
             "animeNameWithEP": "Dr. STONE: STONE WARS Episode 11",
             "ep_num": "11",
             "anime_info": "dr-stone-stone-wars",
             "movie_id": "113936",
-            "alias": "dr-stone-stone-wars",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Dr. STONE: STONE WARS Episode 10",
-            "prevEpLink": "/dr-stone-stone-wars-episode-10"
+            "subOrDub": "dual"
         }
     ]
