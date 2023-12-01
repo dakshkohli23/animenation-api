@@ -1,47 +1,171 @@
 [
         {
-            "server1": "2pk3bieft2n6",
-            "animeNameWithEP": "Jujutsu Kaisen Season 2",
+            "server1": "xei48q9t5ukv",
+            "server2": "ommiofx8nrx4",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 1",
             "ep_num": "1",
             "anime_info": "jujutsu-kaisen-season-2",
             "movie_id": "145064",
-            "nextEpText": "JUJUTSU KAISEN Season 2 Episode 2 >>",
-            "nextEpLink": "/jujutsu-kaisen-season-2-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "fkmrt267mca9",
-            "animeNameWithEP": "Jujutsu Kaisen Season 2",
+            "server1": "64k3h3ni70lk",
+            "server2": "42934s054up4",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 2",
             "ep_num": "2",
             "anime_info": "jujutsu-kaisen-season-2",
             "movie_id": "145064",
-            "nextEpText": "JUJUTSU KAISEN Season 2 Episode 3 >>",
-            "nextEpLink": "/jujutsu-kaisen-season-2-episode-3",
-            "prevEpText": "<< Jujutsu Kaisen Season 2 Episode 1",
-            "prevEpLink": "/jujutsu-kaisen-season-2-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "tj8whb7s68lz",
-            "animeNameWithEP": "Jujutsu Kaisen Season 2",
+            "server1": "gn2dyso238v2",
+            "server2": "6030sgt0ikpt",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 3",
             "ep_num": "3",
             "anime_info": "jujutsu-kaisen-season-2",
             "movie_id": "145064",
-            "nextEpText": "JUJUTSU KAISEN Season 2 Episode 4 >>",
-            "nextEpLink": "/jujutsu-kaisen-season-2-episode-4",
-            "prevEpText": "<< Jujutsu Kaisen Season 2 Episode 2",
-            "prevEpLink": "/jujutsu-kaisen-season-2-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "bwge4bdqsi9f",
-            "animeNameWithEP": "Jujutsu Kaisen Season 2",
+            "server1": "tsai9lcn1gyt",
+            "server2": "t4ar2qfaofwb",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 4",
             "ep_num": "4",
             "anime_info": "jujutsu-kaisen-season-2",
             "movie_id": "145064",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Jujutsu Kaisen Season 2 Episode 3",
-            "prevEpLink": "/jujutsu-kaisen-season-2-episode-3"
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "kx0twywai1ub",
+            "server2": "dqdexu0pxfpa",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 5",
+            "ep_num": "5",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "tgqn8r0hkjqm",
+            "server2": "9qpho7kkpxmk",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 6",
+            "ep_num": "6",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "u6tmm37ieyb9",
+            "server2": "12we77nc5glg",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 7",
+            "ep_num": "7",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "acjyf87w3lix",
+            "server2": "oojzfbvk7oz7",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 8",
+            "ep_num": "8",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "4usu99lntmxm",
+            "server2": "p4qp3bqai9hy",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 9",
+            "ep_num": "9",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "tf00ggrymhuo",
+            "server2": "5n3bojc0stq8",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 10",
+            "ep_num": "10",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "2gw3zst2almt",
+            "server2": "jurljrwwd5nl",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 11",
+            "ep_num": "11",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "f09e8jhbk06e",
+            "server2": "sy5rkjbff757",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 12",
+            "ep_num": "12",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "bs8r7c19tywd",
+            "server2": "dhonb2bee29h",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 13",
+            "ep_num": "13",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "blec3s79l2s7",
+            "server2": "hn3gluwfoh39",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 14",
+            "ep_num": "14",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "mcqpow2qaeh2",
+            "server2": "0gtu7xvr47n9",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 15",
+            "ep_num": "15",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "83t0g72k4xp4",
+            "server2": "h5piddcf14qz",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 16",
+            "ep_num": "16",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "zjrsaduj8cnr",
+            "server2": "5uulqnea5kl4",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 17",
+            "ep_num": "17",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "g1z580nloudt",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 18",
+            "ep_num": "18",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "5lo97ld66ucs",
+            "animeNameWithEP": "JUJUTSU KAISEN Season 2 Episode 19",
+            "ep_num": "19",
+            "anime_info": "jujutsu-kaisen-season-2",
+            "movie_id": "145064",
+            "subOrDub": "sub"
         }
-
     ]
