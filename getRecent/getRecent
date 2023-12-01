@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "jujutsu-kaisen-season-2",
+		"episodeId": "jujutsu-kaisen-season-2-episode-1",
+		"name": "JUJUTSU KAISEN Season 2",
+		"jname": "Jujutsu Kaisen 2nd Season",
+		"episodeNum": 19,
+		"dub": 17,
+		"sub": 19,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
+	},
+	{
 		"animeId": "dr-stone-ryuusui",
 		"episodeId": "dr-stone-ryuusui-episode-1",
 		"name": "Dr. STONE Special Episode – RYUSUI",
