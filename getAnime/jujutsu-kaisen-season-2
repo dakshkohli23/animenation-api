@@ -838,32 +838,98 @@
 		"anime-planet": "jujutsu-kaisen-season-2"
 	},
 	"episodes": [{
-		"id": "jujutsu-kaisen-season-2-episode-1",
-		"title": "Hidden Inventory",
-		"description": "It's said that people have been disappearing repeatedly. Jujutsu sorcerers Utahime and Meimei are sent to investigate a mysterious mansion. The two sneak into the mansion and take action to break a cursed spirit's barrier. However, as the building starts to collapse and they are thrown into mid-air, what appears before them is... 2006. The strongest duo's past days are about to be unveiled.",
-		"number": 1,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9000784/screencap/64a424d8a45e7.jpg",
-		"airDate": "2023-07-06T00:00:00.000Z"
-	}, {
-		"id": "jujutsu-kaisen-season-2-episode-2",
-		"title": "Hidden Inventory 2",
-		"description": "Gojo and Geto's true mission begins, to protect Riko from all possible threats, but she has a will of her own. While several curse magicians want to take her life for the 30 million reward. Riko decides that she wants to go to school like a normal day, but will the Hostess be safe there?",
-		"number": 2,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9816818/screencap/64ae6f358799e.jpg",
-		"airDate": "2023-07-13T00:00:00.000Z"
-	}, {
-		"id": "jujutsu-kaisen-season-2-episode-3",
-		"title": "Hidden Inventory 3",
-		"description": "Gojo and Geto beat back the curse users after the bounty placed on Amanai's head when her cell phone rings. A captured Kuroi is displayed on her phone. Gojo tries to bring Amanai back to Jujutsu High, but she insists on going to the negotiations herself.",
-		"number": 3,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9816819/screencap/64b7bf5f8b1e4.jpg",
-		"airDate": "2023-07-20T00:00:00.000Z"
-	}, {
-		"id": "jujutsu-kaisen-season-2-episode-4",
-		"title": "",
-		"description": "",
-		"number": 4,
-		"image": "",
-		"airDate": "2023-07-20T00:00:00.000Z"
-	}]
+    "id": "jujutsu-kaisen-season-2-episode-1",
+    "title": "S02E01",
+    "number": "1"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-2",
+    "title": "S02E02",
+    "number": "2"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-3",
+    "title": "S02E03",
+    "number": "3"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-4",
+    "title": "S02E04",
+    "number": "4"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-5",
+    "title": "S02E05",
+    "number": "5"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-6",
+    "title": "S02E06",
+    "number": "6"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-7",
+    "title": "S02E07",
+    "number": "7"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-8",
+    "title": "S02E08",
+    "number": "8"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-9",
+    "title": "S02E09",
+    "number": "9"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-10",
+    "title": "S02E10",
+    "number": "10"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-11",
+    "title": "S02E11",
+    "number": "11"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-12",
+    "title": "S02E12",
+    "number": "12"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-13",
+    "title": "S02E13",
+    "number": "13"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-14",
+    "title": "S02E14",
+    "number": "14"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-15",
+    "title": "S02E15",
+    "number": "15"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-16",
+    "title": "S02E16",
+    "number": "16"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-17",
+    "title": "S02E17",
+    "number": "17"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-18",
+    "title": "S02E18",
+    "number": "18"
+},
+{
+    "id": "jujutsu-kaisen-season-2-episode-19",
+    "title": "S02E19",
+    "number": "19"
+}]
 }
