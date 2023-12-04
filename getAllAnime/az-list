@@ -1,723 +1,16 @@
 [
         {
-            "animeId": "attack-on-titan",
-            "episodeId": "attack-on-titan-episode-1",
-            "name": "Attack on Titan",
-            "jname": "Shingeki no Kyojin",
-            "dub": "25",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/attack-on-titan",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-chronicle",
-            "episodeId": "attack-on-titan-chronicle-episode-1",
-            "name": "Attack on Titan ~Chronicle~",
-            "jname": "Shingeki no Kyojin: Chronicle",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119113-IzVI5oZ0og8O.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/attack-on-titan-chronicle",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-final-season",
-            "episodeId": "attack-on-titan-final-season-episode-1",
-            "name": "Attack on Titan Final Season",
-            "jname": "Shingeki no Kyojin: The Final Season",
-            "dub": "16",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-qDRIhu50PXzz.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/attack-on-titan-final-season",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-final-season-part-2",
-            "episodeId": "attack-on-titan-final-season-part-2-episode-1",
-            "name": "Attack on Titan Final Season Part 2",
-            "jname": "Shingeki no Kyojin: The Final Season Part 2",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-ODIRpBIbR5Eu.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/attack-on-titan-final-season-part-2",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery", "Psychological"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-the-final-season-part-3",
-            "episodeId": "attack-on-titan-the-final-season-part-3-episode-1",
-            "name": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
-            "jname": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
-            "type": "special",
-            "episodeUrl": "anime/attack-on-titan-the-final-season-part-3",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery", "Psychological"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-ova",
-            "episodeId": "attack-on-titan-ova-episode-1",
-            "name": "Attack on Titan OVA",
-            "jname": "Shingeki no Kyojin OVA",
-            "dub": "3",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18397-AnpwhLkSjYL1.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/attack-on-titan-ova",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-part-i-crimson-bow-and-arrow",
-            "episodeId": "attack-on-titan-part-i-crimson-bow-and-arrow-episode-1",
-            "name": "Attack on Titan Part I: Crimson Bow and Arrow",
-            "jname": "Shingeki no Kyojin Zenpen: Guren no Yumiya",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20691-dnv0rkpbgBDJ.png",
-            "type": "movie",
-            "episodeUrl": "anime/attack-on-titan-part-i-crimson-bow-and-arrow",
-            "genres": ["Action", "Drama", "Fantasy"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-part-ii-wings-of-freedom",
-            "episodeId": "attack-on-titan-part-ii-wings-of-freedom-episode-1",
-            "name": "Attack on Titan Part II: Wings of Freedom",
-            "jname": "Shingeki no Kyojin Kouhen: Jiyuu no Tsubasa",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20692-fSDEpfDtDg9u.png",
-            "type": "movie",
-            "episodeUrl": "anime/attack-on-titan-part-ii-wings-of-freedom",
-            "genres": ["Action", "Drama", "Fantasy"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-picture-drama",
-            "episodeId": "attack-on-titan-picture-drama-episode-1",
-            "name": "Attack on Titan Picture Drama",
-            "jname": "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan",
-            "sub": "9",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19391.jpg",
-            "type": "special",
-            "episodeUrl": "anime/attack-on-titan-picture-drama",
-            "genres": ["Action", "Comedy", "Drama", "Fantasy"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-season-2",
-            "episodeId": "attack-on-titan-season-2-episode-1",
-            "name": "Attack on Titan Season 2",
-            "jname": "Shingeki no Kyojin 2",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/attack-on-titan-season-2",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-season-3",
-            "episodeId": "attack-on-titan-season-3-episode-1",
-            "name": "Attack on Titan Season 3",
-            "jname": "Shingeki no Kyojin 3",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-5RXELRvwjFl6.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/attack-on-titan-season-3",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-season-3-part-2",
-            "episodeId": "attack-on-titan-season-3-part-2-episode-1",
-            "name": "Attack on Titan Season 3 Part 2",
-            "jname": "Shingeki no Kyojin 3 Part 2",
-            "dub": "10",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-LaZYFkmhinfB.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/attack-on-titan-season-3-part-2",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-survey-corps-levi-squad",
-            "episodeId": "attack-on-titan-survey-corps-levi-squad-episode-1",
-            "name": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad!",
-            "jname": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han",
-            "sub": "7",
-            "imgUrl": "https://static.bunnycdn.ru/i/cache/images/a/a6/a66765b28010576a940c830ee048aee3.jpg",
-            "type": "special",
-            "episodeUrl": "anime/attack-on-titan-survey-corps-levi-squad",
-            "genres": ["Comedy", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "attack-on-titan-survey-corps-the-final",
-            "episodeId": "attack-on-titan-survey-corps-the-final-episode-1",
-            "name": "Attack on Titan: Chibi Theater - Survey Corps, The Final",
-            "jname": "Shingeki no Kyojin: Chimi Kyara Gekijou - Final",
-            "sub": "7",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139754-tws6cBmwEWPF.jpg",
-            "type": "special",
-            "episodeUrl": "anime/attack-on-titan-survey-corps-the-final",
-            "genres": ["Comedy", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "attack-on-titan-junior-high",
-            "episodeId": "attack-on-titan-junior-high-episode-1",
-            "name": "Attack on Titan: Junior High",
-            "jname": "Shingeki! Kyojin Chuugakkou",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21281-GwCKcZii6fVf.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/attack-on-titan-junior-high",
-            "genres": ["Comedy", "Fantasy", "Slice of Life"],
-            "isAdult": false
-        },
-        {
-            "animeId": "attack-on-titan-lost-girls",
-            "episodeId": "attack-on-titan-lost-girls-episode-1",
-            "name": "Attack on Titan: Lost Girls",
-            "jname": "Shingeki no Kyojin: LOST GIRLS",
-            "dub": "3",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99634-9u4hdvWwmC2s.png",
-            "type": "ova",
-            "episodeUrl": "anime/attack-on-titan-lost-girls",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-no-regrets",
-            "episodeId": "attack-on-titan-no-regrets-episode-1",
-            "name": "Attack on Titan: No Regrets",
-            "jname": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
-            "dub": "2",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20811-IvXLdxZkYNcP.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/attack-on-titan-no-regrets",
-            "genres": ["Action", "Fantasy"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-since-that-day",
-            "episodeId": "attack-on-titan-since-that-day-episode-1",
-            "name": "Attack on Titan: Since That Day",
-            "jname": "Shingeki no Kyojin: Ano Hi Kara",
-            "sub": "1",
-            "imgUrl": "https://static.bunnycdn.ru/i/cache/images/2018/04/a0802fcc667e1dc1be9c2507f9e2b3a2.jpg",
-            "type": "special",
-            "episodeUrl": "anime/attack-on-titan-since-that-day",
-            "genres": ["Action", "Drama"],
-            "isAdult": true
-        },
-        {
-            "animeId": "attack-on-titan-the-roar-of-awakening",
-            "episodeId": "attack-on-titan-the-roar-of-awakening-episode-1",
-            "name": "Attack on Titan: The Roar of Awakening",
-            "jname": "Shingeki no Kyojin Season 2: Kakusei no Houkou",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100465-ivKS0RqXg5dI.png",
-            "type": "movie",
-            "episodeUrl": "anime/attack-on-titan-the-roar-of-awakening",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
-            "isAdult": true
-        },
-        {
-            "animeId": "ben-10",
-            "episodeId": "ben-10-episode-1",
-            "name": "Ben 10 (2005)",
-            "jname": "Ben 10 (2005)",
-            "dub": "52",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/pT0NlYVIkwM2zAw9oUkePwrOlxW.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/ben-10",
-            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "ben-10-2016",
-            "episodeId": "ben-10-2016-episode-1",
-            "name": "Ben 10 (2016)",
-            "jname": "Ben 10 (2016)",
-            "dub": "166",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/a4H0UR7aUkGZlT6Q9r9grBrjJWR.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/ben-10-2016",
-            "genres": ["Action", "Adventure", "Drama", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "ben-10-alien-swarm",
-            "episodeId": "ben-10-alien-swarm-episode-1",
-            "name": "Ben 10 Alien Swarm",
-            "jname": "Ben 10 Alien Swarm",
-            "dub": "1",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/wROzAzrcSsRTu1fQQu2QdaUER2X.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/ben-10-alien-swarm",
-            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "ben-10-speical-2021",
-            "episodeId": "ben-10-speical-2021-episode-1",
-            "name": "Ben 10 Special (2021)",
-            "jname": "Ben 10 Special (2021)",
-            "dub": "3",
-            "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWZiM2Q1MzYtMDc5Zi00Y2YzLTkxODktNzM0NGM5NzhkMWU3XkEyXkFqcGdeQXVyMTMwNTg5NDc0._V1_FMjpg_UY2355_.jpg",
-            "type": "special",
-            "episodeUrl": "anime/ben-10-speical-2021",
-            "genres": ["Action", "Adventure", "Drama", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "ben-10-verusu-the-universe",
-            "episodeId": "ben-10-verusu-the-universe-episode-1",
-            "name": "Ben 10 Versus the Universe: The Movie",
-            "jname": "Ben 10 Versus the Universe: The Movie",
-            "dub": "1",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/34KSOJVowmkeh6G0HZJMxqdHq6s.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/ben-10-verusu-the-universe",
-            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "ben-10-alien-force",
-            "episodeId": "ben-10-alien-force-episode-1",
-            "name": "Ben 10: Alien Force",
-            "jname": "Ben 10: Alien Force",
-            "dub": "46",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/xzsgaZc9cE3212ihA0c6naZ5zj7.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/ben-10-alien-force",
-            "genres": ["Action", "Adventure", "Drama", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "ben-10-destroy-all-aliens",
-            "episodeId": "ben-10-destroy-all-aliens-episode-1",
-            "name": "Ben 10: Destroy All Aliens",
-            "jname": "Ben 10: Destroy All Aliens",
-            "dub": "1",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/qoILNllyC6YXHyT4V9YOhMJlPuO.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/ben-10-destroy-all-aliens",
-            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "ben-10-omniverse",
-            "episodeId": "ben-10-omniverse-episode-1",
-            "name": "Ben 10: Omniverse",
-            "jname": "Ben 10: Omniverse",
-            "dub": "80",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/Re9I5tauOspaJxYCIqRqavKT4F.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/ben-10-omniverse",
-            "genres": ["Action", "Adventure", "Drama", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "ben-10-race-against-time",
-            "episodeId": "ben-10-race-against-time-episode-1",
-            "name": "Ben 10: Race Against Time",
-            "jname": "Ben 10: Race Against Time",
-            "dub": "1",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/fXGAMKFtm74TICGaSTCLGTvyBk4.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/ben-10-race-against-time",
-            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "secret-of-the-omnitrix",
-            "episodeId": "secret-of-the-omnitrix-episode-1",
-            "name": "Ben 10: Secret of the Omnitrix",
-            "jname": "Ben 10: Secret of the Omnitrix",
-            "dub": "1",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/aFFlwrv6jnj8LnYzxDifB5MOMpT.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/secret-of-the-omnitrix",
-            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "ben-10-ultimate-alien",
-            "episodeId": "ben-10-ultimate-alien-episode-1",
-            "name": "Ben 10: Ultimate Alien",
-            "jname": "Ben 10: Ultimate Alien",
-            "dub": "52",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/n4KwrlUKO9S4GvOdZzmnz4zOxx7.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/ben-10-ultimate-alien",
-            "genres": ["Action", "Adventure", "Drama", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "black-clover-sword-of-the-wizard-king",
-            "episodeId": "black-clover-sword-of-the-wizard-king-episode-1",
-            "name": "Black Clover: Sword of the Wizard King",
-            "jname": "Black Clover: Mahou Tei no Ken",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-r9SxIrm2hDGI.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/black-clover-sword-of-the-wizard-king",
-            "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "black-clover-mahou-tei-no-ken",
-            "episodeId": "black-clover-mahou-tei-no-ken-episode-1",
-            "name": "Black Clover: Sword of the Wizard King",
-            "jname": "Black Clover: Mahou Tei no Ken",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-r9SxIrm2hDGI.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/black-clover-mahou-tei-no-ken",
-            "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "black-clover-sword-of-the-wizard-king-hindi",
-            "episodeId": "black-clover-sword-of-the-wizard-king-hindi-episode-1",
-            "name": "Black Clover: Sword of the Wizard King (Hindi)",
-            "jname": "Black Clover: Mahou Tei no Ken (Hindi)",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-r9SxIrm2hDGI.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/black-clover-sword-of-the-wizard-king-hindi",
-            "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "bleach",
-            "episodeId": "bleach-episode-1",
-            "name": "Bleach",
-            "jname": "BLEACH",
-            "dub": "366",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-KxkqTIuQgJ6v.png",
-            "type": "tv",
-            "episodeUrl": "anime/bleach",
-            "genres": ["Action", "Adventure", "Sci-Fi", "Fantasy", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "bleach-colorful-gotei-juusan-yatai-daisakusen",
-            "episodeId": "bleach-colorful-gotei-juusan-yatai-daisakusen-episode-1",
-            "name": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
-            "jname": "BLEACH Colorful!: Gotei Juusan Yatai Daisakusen!",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100719-PLIlnSxjACLV.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/bleach-colorful-gotei-juusan-yatai-daisakusen",
-            "genres": ["Comedy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "bleach-the-movie-fade-to-black",
-            "episodeId": "bleach-the-movie-fade-to-black-episode-1",
-            "name": "Bleach the Movie: Fade to Black",
-            "jname": "BLEACH: Fade to Black - Kimi no Na wo Yobu",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4835-UqbwERH407BB.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/bleach-the-movie-fade-to-black",
-            "genres": ["Action", "Comedy", "Drama", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "bleach-the-movie-hell-verse",
-            "episodeId": "bleach-the-movie-hell-verse-episode-1",
-            "name": "Bleach the Movie: Hell Verse",
-            "jname": "BLEACH: Jigoku-hen",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8247-VppsQKlgXoXr.png",
-            "type": "movie",
-            "episodeUrl": "anime/bleach-the-movie-hell-verse",
-            "genres": ["Action", "Comedy", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "bleach-the-movie-memories-of-nobody",
-            "episodeId": "bleach-the-movie-memories-of-nobody-episode-1",
-            "name": "Bleach the Movie: Memories of Nobody",
-            "jname": "BLEACH: MEMORIES OF NOBODY",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1686-oZQepxP4SRQ2.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/bleach-the-movie-memories-of-nobody",
-            "genres": ["Action", "Adventure", "Drama", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "bleach-the-movie-the-diamonddust-rebellion",
-            "episodeId": "bleach-the-movie-the-diamonddust-rebellion-episode-1",
-            "name": "Bleach the Movie: The DiamondDust Rebellion",
-            "jname": "BLEACH: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2889-AmnSwChuAuGT.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/bleach-the-movie-the-diamonddust-rebellion",
-            "genres": ["Action", "Adventure", "Drama", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "bleach-13-court-guard-squads-omake",
-            "episodeId": "bleach-13-court-guard-squads-omake-episode-1",
-            "name": "Bleach: 13 Court Guard Squads Omake",
-            "jname": "Bleach: Gotei 13 Omake",
-            "sub": "1",
-            "imgUrl": "https://cdn.myanimelist.net/images/anime/1260/97246.jpg",
-            "type": "special",
-            "episodeUrl": "anime/bleach-13-court-guard-squads-omake",
-            "genres": ["Action", "Drama", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "bleach-memories-in-the-rain",
-            "episodeId": "bleach-memories-in-the-rain-episode-1",
-            "name": "BLEACH: memories in the rain",
-            "jname": "BLEACH: memories in the rain",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154037-7VSs4aDUL2ZG.jpg",
-            "type": "special",
-            "episodeUrl": "anime/bleach-memories-in-the-rain",
-            "genres": ["Action", "Drama", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "bleach-the-sealed-sword-frenzy",
-            "episodeId": "bleach-the-sealed-sword-frenzy-episode-1",
-            "name": "BLEACH: The Sealed Sword Frenzy",
-            "jname": "BLEACH: The Sealed Sword Frenzy",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx834-Wm0msxVlJnkT.png",
-            "type": "special",
-            "episodeUrl": "anime/bleach-the-sealed-sword-frenzy",
-            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "bleach-thousand-year-blood-war",
-            "episodeId": "bleach-thousand-year-blood-war-episode-1",
-            "name": "BLEACH: Thousand-Year Blood War",
-            "jname": "BLEACH: Sennen Kessen-hen",
-            "dub": "13",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116674-p3zK4PUX2Aag.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/bleach-thousand-year-blood-war",
-            "genres": ["Action", "Adventure", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "bleach-thousand-year-blood-war-the-separation",
-            "episodeId": "bleach-thousand-year-blood-war-the-separation-episode-1",
-            "name": "BLEACH: Thousand-Year Blood War - The Separation",
-            "jname": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
-            "sub": "2",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-FK5tyOowXPHE.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/bleach-thousand-year-blood-war-the-separation",
-            "genres": ["Action", "Adventure", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "blue-lock",
-            "episodeId": "blue-lock-episode-1",
-            "name": "BLUELOCK",
-            "jname": "Blue Lock",
-            "dub": "24",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-4dVWMSHLpGf8.png",
-            "type": "tv",
-            "episodeUrl": "anime/blue-lock",
-            "genres": ["Action", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "call-of-the-night",
-            "episodeId": "call-of-the-night-episode-1",
-            "name": "Call of the Night",
-            "jname": "Yofukashi no Uta",
-            "dub": "13",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141391-rEJ1hm9i2PFa.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/call-of-the-night",
-            "genres": ["Comedy", "Psychological", "Romance", "Slice of Life", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "call-of-the-night-mini",
-            "episodeId": "call-of-the-night-mini-episode-1",
-            "name": "Call of the Night Mini",
-            "jname": "Yofukashi no Uta Mini",
-            "sub": "6",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
-            "type": "ona",
-            "episodeUrl": "anime/call-of-the-night-mini",
-            "genres": ["Comedy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "chainsaw-man",
-            "episodeId": "chainsaw-man-episode-1",
-            "name": "Chainsaw Man",
-            "jname": "Chainsaw Man",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png",
-            "type": "tv",
-            "episodeUrl": "anime/chainsaw-man",
-            "genres": ["Action", "Comedy", "Drama", "Horror", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "tokyo-revengers-chibi-reve",
-            "episodeId": "tokyo-revengers-chibi-reve-episode-1",
-            "name": "Chibi Revengers",
-            "jname": "Tokyo Revengers: Chibi Reve",
-            "sub": "24",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132467-KVpD81s5ZvJP.png",
-            "type": "ona",
-            "episodeUrl": "anime/tokyo-revengers-chibi-reve",
-            "genres": ["Comedy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "classroom-of-the-elite",
-            "episodeId": "classroom-of-the-elite-episode-1",
-            "name": "Classroom of the Elite",
-            "jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98659-sH5z5RfMuyMr.png",
-            "type": "tv",
-            "episodeUrl": "anime/classroom-of-the-elite",
-            "genres": ["Drama", "Psychological"],
-            "isAdult": false
-        },
-        {
-            "animeId": "classroom-of-the-elite-season-2",
-            "episodeId": "classroom-of-the-elite-season-2-episode-1",
-            "name": "Classroom of the Elite Season 2",
-            "jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
-            "dub": "13",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145545-DGl3LVvFlnHi.png",
-            "type": "tv",
-            "episodeUrl": "anime/classroom-of-the-elite-season-2",
-            "genres": ["Drama", "Mystery", "Psychological"],
-            "isAdult": false
-        },
-        {
-            "animeId": "death-note",
-            "episodeId": "death-note-episode-1",
-            "name": "Death Note",
-            "jname": "DEATH NOTE",
-            "dub": "37",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/death-note",
-            "genres": ["Mystery", "Psychological", "Supernatural", "Thriller"],
-            "isAdult": true
-        },
-        {
-            "animeId": "death-note-relight",
-            "episodeId": "death-note-relight-episode-1",
-            "name": "Death Note: Relight",
-            "jname": "DEATH NOTE Rewrite",
-            "dub": "2",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2994-mlofkz5GpkIu.jpg",
-            "type": "special",
-            "episodeUrl": "anime/death-note-relight",
-            "genres": ["Mystery", "Psychological", "Supernatural", "Thriller"],
-            "isAdult": true
-        },
-        {
-            "animeId": "kimetsu-no-yaiba-mugen-resshahen",
-            "episodeId": "kimetsu-no-yaiba-mugen-resshahen-episode-1",
-            "name": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-            "jname": "Kimetsu no Yaiba: Mugen Ressha-hen",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
-            "type": "movie",
-            "episodeUrl": "anime/kimetsu-no-yaiba-mugen-resshahen",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Mystery", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "kimetsu-no-yaiba",
-            "episodeId": "kimetsu-no-yaiba-episode-1",
-            "name": "Demon Slayer: Kimetsu no Yaiba",
-            "jname": "Kimetsu no Yaiba",
-            "dub": "26",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-PEn1CTc93blC.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/kimetsu-no-yaiba",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "kimetsu-no-yaiba-yuukaku-hen",
-            "episodeId": "kimetsu-no-yaiba-yuukaku-hen-episode-1",
-            "name": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
-            "jname": "Kimetsu no Yaiba: Yuukaku-hen",
-            "dub": "11",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142329-kET1PIXJv2eW.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/kimetsu-no-yaiba-yuukaku-hen",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "kimetsu-no-yaiba-mugen-ressha-hen",
-            "episodeId": "kimetsu-no-yaiba-mugen-ressha-hen-episode-1",
-            "name": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
-            "jname": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)",
-            "dub": "7",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129874-g6ZKXB94Hui1.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/kimetsu-no-yaiba-mugen-ressha-hen",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Mystery", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
-            "episodeId": "kimetsu-no-yaiba-katanakaji-no-satohen-episode-1",
-            "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-            "jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-            "sub": "11",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-            "type": "tv",
-            "episodeUrl": "anime/kimetsu-no-yaiba-katanakaji-no-satohen",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "demon-slayer-swordsmith-village-arc",
-            "episodeId": "demon-slayer-swordsmith-village-arc-episode-1",
-            "name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-            "jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-            "dub": "8",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/o8DB5825myndApdQQHbf4bv1mzL.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/demon-slayer-swordsmith-village-arc",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
-            "isAdult": true
-        },
-        {
             "animeId": "dr-stone",
             "episodeId": "dr-stone-episode-1",
             "name": "Dr. STONE",
             "jname": "Dr. STONE",
+            "sub": "24",
             "dub": "24",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-BBxkPhen07Zj.jpg",
             "type": "tv",
             "episodeUrl": "anime/dr-stone",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "dr-stone-new-world",
@@ -725,35 +18,38 @@
             "name": "Dr. STONE New World",
             "jname": "Dr. STONE: NEW WORLD",
             "sub": "11",
+            "dub": "11",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131518-RU7RoUmGb2sP.jpg",
             "type": "tv",
             "episodeUrl": "anime/dr-stone-new-world",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "dr-stone-ryuusui",
             "episodeId": "dr-stone-ryuusui-episode-1",
             "name": "Dr. STONE Special Episode – RYUSUI",
             "jname": "Dr. STONE: Ryuusui",
+            "sub": "1",
             "dub": "1",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142876-izO35hPP2DZ9.jpg",
             "type": "special",
             "episodeUrl": "anime/dr-stone-ryuusui",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "dr-stone-stone-wars",
             "episodeId": "dr-stone-stone-wars-episode-1",
             "name": "Dr. STONE: STONE WARS",
             "jname": "Dr. STONE: STONE WARS",
+            "sub": "11",
             "dub": "11",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113936-41Lz6Vtmfh1A.jpg",
             "type": "tv",
             "episodeUrl": "anime/dr-stone-stone-wars",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "dr-stone-stone-wars-eve-of-the-battle-special-feature",
@@ -765,535 +61,137 @@
             "type": "special",
             "episodeUrl": "anime/dr-stone-stone-wars-eve-of-the-battle-special-feature",
             "genres": ["Adventure", "Sci-Fi", "Shounen", "Suspense"],
-            "isAdult": false
-        },
-        {
-            "animeId": "fullmetal-alchemist",
-            "episodeId": "fullmetal-alchemist-episode-1",
-            "name": "Fullmetal Alchemist",
-            "jname": "Hagane no Renkinjutsushi",
-            "dub": "51",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-JUlbsyhTUNkk.png",
-            "type": "tv",
-            "episodeUrl": "anime/fullmetal-alchemist",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "fullmetal-alchemist-brotherhood",
-            "episodeId": "fullmetal-alchemist-brotherhood-episode-1",
-            "name": "Fullmetal Alchemist: Brotherhood",
-            "jname": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
-            "dub": "64",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-KJTQz9AIm6Wk.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/fullmetal-alchemist-brotherhood",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "fullmetal-alchemist-brotherhood-ova-collection",
-            "episodeId": "fullmetal-alchemist-brotherhood-ova-collection-episode-1",
-            "name": "Fullmetal Alchemist: Brotherhood OVA Collection",
-            "jname": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST Mihousou Episode",
-            "dub": "4",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6421.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/fullmetal-alchemist-brotherhood-ova-collection",
-            "genres": ["Adventure", "Drama", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "fullmetal-alchemist-brotherhood-4-koma-theater",
-            "episodeId": "fullmetal-alchemist-brotherhood-4-koma-theater-episode-1",
-            "name": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
-            "jname": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST - Arakawa Hiromu Kaki Oroshi 4-koma Gekijou",
-            "dub": "16",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7902.jpg",
-            "type": "special",
-            "episodeUrl": "anime/fullmetal-alchemist-brotherhood-4-koma-theater",
-            "genres": ["Comedy", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "fullmetal-alchemist-premium-ova-collection",
-            "episodeId": "fullmetal-alchemist-premium-ova-collection-episode-1",
-            "name": "Fullmetal Alchemist: Premium OVA Collection",
-            "jname": "Hagane no Renkinjutsushi: PREMIUM COLLECTION",
-            "dub": "3",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/908.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/fullmetal-alchemist-premium-ova-collection",
-            "genres": ["Comedy", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "fullmetal-alchemist-reflections",
-            "episodeId": "fullmetal-alchemist-reflections-episode-1",
-            "name": "Fullmetal Alchemist: Reflections",
-            "jname": "Hagane no Renkinjutsushi: Reflections",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/664.jpg",
-            "type": "special",
-            "episodeUrl": "anime/fullmetal-alchemist-reflections",
-            "genres": ["Adventure", "Comedy", "Drama", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "fullmetal-alchemist-the-conqueror-of-shamballa",
-            "episodeId": "fullmetal-alchemist-the-conqueror-of-shamballa-episode-1",
-            "name": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
-            "jname": "Hagane no Renkinjutsushi: Shamballa wo Yuku Mono",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx430-Fx7lVxpcwArH.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/fullmetal-alchemist-the-conqueror-of-shamballa",
-            "genres": ["Action", "Comedy", "Drama", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "fullmetal-alchemist-the-sacred-star-of-milos",
-            "episodeId": "fullmetal-alchemist-the-sacred-star-of-milos-episode-1",
-            "name": "Fullmetal Alchemist: The Sacred Star of Milos",
-            "jname": "Hagane no Renkinjutsushi: Milos no Seinaru Hoshi",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9135-nPvbvO7QCx7L.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/fullmetal-alchemist-the-sacred-star-of-milos",
-            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy"],
-            "isAdult": true
-        },
-        {
-            "animeId": "go-saitama",
-            "episodeId": "go-saitama-episode-1",
-            "name": "Go! Saitama",
-            "jname": "Go! Saitama",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139586-Bd6VA8DW1CsY.png",
-            "type": "ona",
-            "episodeUrl": "anime/go-saitama",
-            "genres": ["Action", "Comedy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyuu-to-the-top-2",
-            "episodeId": "haikyuu-to-the-top-2-episode-1",
-            "name": "HAIKYU‼ TO THE TOP Part 2",
-            "jname": "Haikyuu!! TO THE TOP 2",
-            "dub": "23",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113538-tHVE8j5mOPLu.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/haikyuu-to-the-top-2",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyuu",
-            "episodeId": "haikyuu-episode-1",
-            "name": "HAIKYU!!",
-            "jname": "Haikyuu!!",
-            "dub": "25",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png",
-            "type": "tv",
-            "episodeUrl": "anime/haikyuu",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyu-special-feature-the-spring-tournament-of-their-youth",
-            "episodeId": "haikyu-special-feature-the-spring-tournament-of-their-youth-episode-1",
-            "name": "HAIKYU!! - Special Feature! The Spring Tournament of Their Youth",
-            "jname": "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107351-ZKSXmSBU5ENA.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/haikyu-special-feature-the-spring-tournament-of-their-youth",
-            "genres": ["Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyuu-second-season",
-            "episodeId": "haikyuu-second-season-episode-1",
-            "name": "HAIKYU!! 2nd Season",
-            "jname": "Haikyuu!! 2nd Season",
-            "dub": "25",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
-            "type": "tv",
-            "episodeUrl": "anime/haikyuu-second-season",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyu-3rd-season",
-            "episodeId": "haikyu-3rd-season-episode-1",
-            "name": "HAIKYU!! 3rd Season",
-            "jname": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
-            "dub": "10",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
-            "type": "tv",
-            "episodeUrl": "anime/haikyu-3rd-season",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyu-land-vs-air",
-            "episodeId": "haikyu-land-vs-air-episode-1",
-            "name": "HAIKYU!! LAND VS. AIR",
-            "jname": "Haikyuu!! Riku VS Kuu",
-            "dub": "2",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111790-MrEJLRJxjPja.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/haikyu-land-vs-air",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyu-the-movie-battle-of-concepts",
-            "episodeId": "haikyu-the-movie-battle-of-concepts-episode-1",
-            "name": "Haikyu!! The Movie: Battle of Concepts",
-            "jname": "Haikyuu!!: Concept no Tatakai",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98885-xzHYFUr0keBT.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/haikyu-the-movie-battle-of-concepts",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyu-the-movie-talent-and-sense",
-            "episodeId": "haikyu-the-movie-talent-and-sense-episode-1",
-            "name": "Haikyu!! The Movie: Talent and Sense",
-            "jname": "Haikyuu!!: Sainou to Sense",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98884-PCa1CawsXpjB.png",
-            "type": "movie",
-            "episodeUrl": "anime/haikyu-the-movie-talent-and-sense",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyu-the-movie-the-end-and-the-beginning",
-            "episodeId": "haikyu-the-movie-the-end-and-the-beginning-episode-1",
-            "name": "Haikyu!! the Movie: The End and the Beginning",
-            "jname": "Haikyuu!!: Owari to Hajimari",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21120-x1TAu6HfHnyr.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/haikyu-the-movie-the-end-and-the-beginning",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyuu-to-the-top",
-            "episodeId": "haikyuu-to-the-top-episode-1",
-            "name": "HAIKYU!! TO THE TOP",
-            "jname": "Haikyuu!! TO THE TOP",
-            "dub": "13",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106625-UR22wB2NuNVi.png",
-            "type": "tv",
-            "episodeUrl": "anime/haikyuu-to-the-top",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyu-lev-appears",
-            "episodeId": "haikyu-lev-appears-episode-1",
-            "name": "HAIKYU!!: Lev Appears!",
-            "jname": "Haikyuu!!: Lev Kenzan!",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20884-5U9SNWxDJBeT.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/haikyu-lev-appears",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyu-vs-failing-marks",
-            "episodeId": "haikyu-vs-failing-marks-episode-1",
-            "name": "HAIKYU!!: VS Failing Marks",
-            "jname": "Haikyuu!!: VS Akaten",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21348-IZvxjob7nMH1.jpg",
-            "type": "special",
-            "episodeUrl": "anime/haikyu-vs-failing-marks",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyuu-quest-picture-drama",
-            "episodeId": "haikyuu-quest-picture-drama-episode-1",
-            "name": "Haikyuu!! Quest Picture Drama",
-            "jname": "Haikyuu Quest",
-            "sub": "3",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107263-oF8OnpCOHFXd.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/haikyuu-quest-picture-drama",
-            "genres": ["Comedy", "Fantasy", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "haikyu-the-movie-the-winner-and-the-loser",
-            "episodeId": "haikyu-the-movie-the-winner-and-the-loser-episode-1",
-            "name": "Haikyuu!! the Movie: The Winner and the Loser",
-            "jname": "Haikyuu!!: Shousha to Haisha",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21244-xvjWi4fV0qkw.png",
-            "type": "movie",
-            "episodeUrl": "anime/haikyu-the-movie-the-winner-and-the-loser",
-            "genres": ["Comedy", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "how-not-to-summon-a-demon-lord",
-            "episodeId": "how-not-to-summon-a-demon-lord-episode-1",
-            "name": "How NOT to Summon a Demon Lord",
-            "jname": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101004-rJLBIWGypbYK.png",
-            "type": "tv",
-            "episodeUrl": "anime/how-not-to-summon-a-demon-lord",
-            "genres": ["Comedy", "Ecchi", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "how-not-to-summon-a-demon-lord-season-2",
-            "episodeId": "how-not-to-summon-a-demon-lord-season-2-episode-1",
-            "name": "How NOT to Summon a Demon Lord Ω",
-            "jname": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
-            "dub": "10",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117448-bsPgVDD85sjB.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/how-not-to-summon-a-demon-lord-season-2",
-            "genres": ["Comedy", "Ecchi", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "jujutsu-kaisen-tv",
             "episodeId": "jujutsu-kaisen-tv-episode-1",
             "name": "Jujutsu Kaisen",
             "jname": "Jujutsu Kaisen",
+            "sub": "24",
             "dub": "24",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
             "type": "tv",
             "episodeUrl": "anime/jujutsu-kaisen-tv",
             "genres": ["Action", "Drama", "Supernatural"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "jujutsu-kaisen-0",
             "episodeId": "jujutsu-kaisen-0-episode-1",
             "name": "JUJUTSU KAISEN 0",
             "jname": "Jujutsu Kaisen 0",
+            "sub": "1",
             "dub": "1",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131573-rpl82vDEDRm6.jpg",
             "type": "movie",
             "episodeUrl": "anime/jujutsu-kaisen-0",
             "genres": ["Action", "Supernatural"],
-            "isAdult": true
+            "isAdult": "TRUE"
         },
         {
             "animeId": "jujutsu-kaisen-season-2",
             "episodeId": "jujutsu-kaisen-season-2-episode-1",
             "name": "Jujutsu Kaisen Season 2",
             "jname": "Jujutsu Kaisen 2nd Season",
-            "sub": "3",
+            "sub": "19",
+            "dub": "17",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
             "type": "tv",
             "episodeUrl": "anime/jujutsu-kaisen-season-2",
             "genres": ["Action", "Drama", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
-            "episodeId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen-episode-1",
-            "name": "Junior High and High School!! Kimetsu Academy Story",
-            "jname": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
-            "sub": "3",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154541-uw1iAxNKdUAf.png",
-            "type": "special",
-            "episodeUrl": "anime/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "kimetsu-gakuen-valentinehen",
-            "episodeId": "kimetsu-gakuen-valentinehen-episode-1",
-            "name": "Junior High and High School!! Kimetsu Academy Story",
-            "jname": "Kimetsu Gakuen: Valentine-hen",
-            "sub": "4",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129627-GiVeOqDUAqUC.png",
-            "type": "ona",
-            "episodeUrl": "anime/kimetsu-gakuen-valentinehen",
-            "genres": ["Comedy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "kagejitsu",
-            "episodeId": "kagejitsu-episode-1",
-            "name": "KAGE-JITSU!",
-            "jname": "Kage-Jitsu!",
-            "sub": "17",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156001-Sudx5O8jCIQ4.jpg",
-            "type": "ona",
-            "episodeUrl": "anime/kagejitsu",
-            "genres": ["Comedy", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "mob-psycho-100",
-            "episodeId": "mob-psycho-100-episode-1",
-            "name": "Mob Psycho 100",
-            "jname": "Mob Psycho 100",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-BICFCVZY3xQb.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/mob-psycho-100",
-            "genres": ["Action", "Comedy", "Psychological", "Slice of Life", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "mob-psycho-100-ii",
-            "episodeId": "mob-psycho-100-ii-episode-1",
-            "name": "Mob Psycho 100 II",
-            "jname": "Mob Psycho 100 II",
-            "dub": "13",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101338-7qOfIaEKSjgl.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/mob-psycho-100-ii",
-            "genres": ["Action", "Comedy", "Psychological", "Slice of Life", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul",
-            "episodeId": "mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul-episode-1",
-            "name": "Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~",
-            "jname": "Mob Psycho 100: Daiikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109819-71ZeBjJuU3da.png",
-            "type": "ova",
-            "episodeUrl": "anime/mob-psycho-100-ii-the-first-spirits-and-such-company-trip-a-journey-that-mends-the-heart-and-heals-the-soul",
-            "genres": ["Action", "Comedy", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "mob-psycho-100-iii",
-            "episodeId": "mob-psycho-100-iii-episode-1",
-            "name": "Mob Psycho 100 III",
-            "jname": "Mob Psycho 100 III",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140439-qpBzXkvVqSx3.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/mob-psycho-100-iii",
-            "genres": ["Action", "Comedy", "Psychological", "Slice of Life", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "mob-psycho-100-reigen-the-miraculous-unknown-psychic",
-            "episodeId": "mob-psycho-100-reigen-the-miraculous-unknown-psychic-episode-1",
-            "name": "Mob Psycho 100 REIGEN The Miraculous Unknown Psychic",
-            "jname": "Mob Psycho 100 REIGEN: Shirarezaru Kiseki Reinouryokusha",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100353-6dM62JCho2Yg.png",
-            "type": "ova",
-            "episodeUrl": "anime/mob-psycho-100-reigen-the-miraculous-unknown-psychic",
-            "genres": ["Action", "Comedy", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "mob-psycho-mini",
-            "episodeId": "mob-psycho-mini-episode-1",
-            "name": "Mob Psycho mini",
-            "jname": "Mob Psycho mini",
-            "sub": "6",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102449-P13Qyzq9MczC.jpg",
-            "type": "special",
-            "episodeUrl": "anime/mob-psycho-mini",
-            "genres": ["Comedy"],
-            "isAdult": false
+            "isAdult": "TRUE"
         },
         {
             "animeId": "my-hero-academia",
             "episodeId": "my-hero-academia-episode-1",
             "name": "My Hero Academia",
             "jname": "Boku no Hero Academia",
+            "sub": "13",
             "dub": "13",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-DUKLgasrgeNO.jpg",
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-season-2",
             "episodeId": "my-hero-academia-season-2-episode-1",
             "name": "My Hero Academia Season 2",
             "jname": "Boku no Hero Academia 2",
+            "sub": "25",
             "dub": "25",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21856-gutauxhWAwn6.png",
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia-season-2",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-season-3",
             "episodeId": "my-hero-academia-season-3-episode-1",
             "name": "My Hero Academia Season 3",
             "jname": "Boku no Hero Academia 3",
+            "sub": "25",
             "dub": "25",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100166-jUCZYbzn2XLw.jpg",
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia-season-3",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-season-4",
             "episodeId": "my-hero-academia-season-4-episode-1",
             "name": "My Hero Academia Season 4",
             "jname": "Boku no Hero Academia 4",
+            "sub": "25",
             "dub": "25",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104276-SnEowMvesWIE.png",
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia-season-4",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-season-5",
             "episodeId": "my-hero-academia-season-5-episode-1",
             "name": "My Hero Academia Season 5",
             "jname": "Boku no Hero Academia 5",
+            "sub": "25",
             "dub": "25",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117193-E75BlZmDh1aB.jpg",
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia-season-5",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-Hero-academia-season-5-ona",
             "episodeId": "my-Hero-academia-season-5-ona-episode-1",
             "name": "My Hero Academia Season 5 ONA",
             "jname": "Boku no Hero Academia 5 (ONA)",
+            "sub": "2",
             "dub": "2",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149073-ATpEgEZNDheZ.jpg",
             "type": "ona",
             "episodeUrl": "anime/my-Hero-academia-season-5-ona",
             "genres": ["Action", "Comedy", "Sports"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-season-6",
             "episodeId": "my-hero-academia-season-6-episode-1",
             "name": "My Hero Academia Season 6",
             "jname": "Boku no Hero Academia 6",
+            "sub": "25",
             "dub": "25",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139630-2Nvd1vqQ52Ik.jpg",
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia-season-6",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-all-might-rising-the-animation",
@@ -1305,7 +203,7 @@
             "type": "ova",
             "episodeUrl": "anime/my-hero-academia-all-might-rising-the-animation",
             "genres": ["Action", "Drama"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-the-movie-world-heroes-mission-take-off",
@@ -1317,7 +215,7 @@
             "type": "ova",
             "episodeUrl": "anime/my-hero-academia-the-movie-world-heroes-mission-take-off",
             "genres": ["Action", "Comedy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-hero-notebook",
@@ -1329,7 +227,7 @@
             "type": "special",
             "episodeUrl": "anime/my-hero-academia-hero-notebook",
             "genres": ["Action", "Adventure", "Comedy", "Supernatural"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-heroes-rising",
@@ -1341,7 +239,7 @@
             "type": "movie",
             "episodeUrl": "anime/my-hero-academia-heroes-rising",
             "genres": ["Action", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-make-it-doordie-survival-training",
@@ -1353,7 +251,7 @@
             "type": "ona",
             "episodeUrl": "anime/my-hero-academia-make-it-doordie-survival-training",
             "genres": ["Action", "Adventure", "Comedy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "boku-no-hero-academia-sukue-kyuujo-kunren",
@@ -1365,7 +263,7 @@
             "type": "Ova",
             "episodeUrl": "anime/boku-no-hero-academia-sukue-kyuujo-kunren",
             "genres": ["Action", "Adventure", "Comedy", "Supernatural"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-training-of-the-dead",
@@ -1377,7 +275,7 @@
             "type": "ova",
             "episodeUrl": "anime/my-hero-academia-training-of-the-dead",
             "genres": ["Action", "Adventure", "Comedy", "Supernatural"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-training-of-the-dead",
@@ -1389,7 +287,7 @@
             "type": "ova",
             "episodeUrl": "anime/my-hero-academia-training-of-the-dead",
             "genres": ["Action", "Adventure", "Comedy", "Supernatural"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-two-heroes",
@@ -1401,7 +299,7 @@
             "type": "movie",
             "episodeUrl": "anime/my-hero-academia-two-heroes",
             "genres": ["Action", "Comedy", "Drama", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "my-hero-academia-world-heroes-mission",
@@ -1413,331 +311,7 @@
             "type": "movie",
             "episodeUrl": "anime/my-hero-academia-world-heroes-mission",
             "genres": ["Action", "Adventure", "Sci-Fi"],
-            "isAdult": true
-        },
-        {
-            "animeId": "naruto",
-            "episodeId": "naruto-episode-1",
-            "name": "Naruto",
-            "jname": "NARUTO",
-            "dub": "220",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-YJvLbgJQPCoI.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/naruto",
-            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "naruto-shippuden-the-movie",
-            "episodeId": "naruto-shippuden-the-movie-episode-1",
-            "name": "Naruto Shippuden the Movie",
-            "jname": "NARUTO: Shippuuden Movie",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2472-mYApVxceStn5.png",
-            "type": "movie",
-            "episodeUrl": "anime/naruto-shippuden-the-movie",
-            "genres": ["Action", "Adventure", "Comedy", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "naruto-shippuden-the-movie-blood-prison",
-            "episodeId": "naruto-shippuden-the-movie-blood-prison-episode-1",
-            "name": "Naruto Shippuden the Movie: Blood Prison",
-            "jname": "NARUTO: Blood Prison",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10589-VhXWWMm24Dso.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/naruto-shippuden-the-movie-blood-prison",
-            "genres": ["Action", "Adventure", "Mystery"],
-            "isAdult": false
-        },
-        {
-            "animeId": "naruto-shippuden-the-movie-bonds",
-            "episodeId": "naruto-shippuden-the-movie-bonds-episode-1",
-            "name": "Naruto Shippuden the Movie: Bonds",
-            "jname": "NARUTO: Shippuuden - Kizuna",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4437-8LQbBZo4N6yi.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/naruto-shippuden-the-movie-bonds",
-            "genres": ["Action", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "naruto-shippuden-the-movie-the-lost-tower",
-            "episodeId": "naruto-shippuden-the-movie-the-lost-tower-episode-1",
-            "name": "Naruto Shippuden the Movie: The Lost Tower",
-            "jname": "NARUTO: Shippuuden - The Lost Tower",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8246-KAi3bLLdJ4OI.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/naruto-shippuden-the-movie-the-lost-tower",
-            "genres": ["Action", "Comedy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "naruto-shippuden-the-movie-the-will-of-fire",
-            "episodeId": "naruto-shippuden-the-movie-the-will-of-fire-episode-1",
-            "name": "Naruto Shippuden the Movie: The Will of Fire",
-            "jname": "NARUTO: Shippuuden - Hi no Ishi wo Tsugu Mono",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6325-WaJPWmdnzgiI.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/naruto-shippuden-the-movie-the-will-of-fire",
-            "genres": ["Action", "Comedy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "naruto-the-movie-guardians-of-the-crescent-moon-kingdom",
-            "episodeId": "naruto-the-movie-guardians-of-the-crescent-moon-kingdom-episode-1",
-            "name": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
-            "jname": "NARUTO: Dai Koufun! Mikazukijima no Animal Panic Dattebayo!",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2144-9FITEzdGnlWC.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/naruto-the-movie-guardians-of-the-crescent-moon-kingdom",
-            "genres": ["Action", "Adventure"],
-            "isAdult": false
-        },
-        {
-            "animeId": "naruto-the-movie-legend-of-the-stone-of-gelel",
-            "episodeId": "naruto-the-movie-legend-of-the-stone-of-gelel-episode-1",
-            "name": "Naruto the Movie: Legend of the Stone of Gelel",
-            "jname": "NARUTO: Dai Gekitotsu! Maboroshi no Chitei Iseki Dattebayo",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx936-P1ogcIs07UR8.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/naruto-the-movie-legend-of-the-stone-of-gelel",
-            "genres": ["Adventure", "Comedy", "Drama", "Fantasy", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "naruto-the-movie-ninja-clash-in-the-land-of-snow",
-            "episodeId": "naruto-the-movie-ninja-clash-in-the-land-of-snow-episode-1",
-            "name": "Naruto the Movie: Ninja Clash in the Land of Snow",
-            "jname": "NARUTO: Dai Katsugeki! Yuki Hime Ninpouchou Dattebayo!!",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx442-VJbmIVTgmne3.png",
-            "type": "movie",
-            "episodeUrl": "anime/naruto-the-movie-ninja-clash-in-the-land-of-snow",
-            "genres": ["Action", "Adventure", "Comedy", "Drama", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "one-piece",
-            "episodeId": "one-piece-episode-1",
-            "name": "ONE PIECE",
-            "jname": "ONE PIECE",
-            "dub": "574",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/one-piece",
-            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "one-piece-film-red",
-            "episodeId": "one-piece-film-red-episode-1",
-            "name": "One Piece Film: Red",
-            "jname": "ONE PIECE FILM: RED",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141902-fTyoTk8F8qOl.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/one-piece-film-red",
-            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Music"],
-            "isAdult": false
-        },
-        {
-            "animeId": "one-punch-man",
-            "episodeId": "one-punch-man-episode-1",
-            "name": "One-Punch Man",
-            "jname": "One Punch Man",
-            "dub": "13",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-UV2tu6exrfXz.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/one-punch-man",
-            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "one-punch-man-ova",
-            "episodeId": "one-punch-man-ova-episode-1",
-            "name": "One-Punch Man OVA",
-            "jname": "One Punch Man OVA",
-            "dub": "6",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21416-IwCJBh54K3iw.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/one-punch-man-ova",
-            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "one-punch-man-season-2",
-            "episodeId": "one-punch-man-season-2-episode-1",
-            "name": "One-Punch Man Season 2",
-            "jname": "One Punch Man 2",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97668-nC8gQrXVxt7k.png",
-            "type": "tv",
-            "episodeUrl": "anime/one-punch-man-season-2",
-            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "one-punch-man-season-2-ova",
-            "episodeId": "one-punch-man-season-2-ova-episode-1",
-            "name": "One-Punch Man Season 2 OVA",
-            "jname": "One Punch Man 2 OVA",
-            "dub": "6",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108945-snH9n5sN1vrb.png",
-            "type": "ova",
-            "episodeUrl": "anime/one-punch-man-season-2-ova",
-            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "one-punch-man-road-to-hero",
-            "episodeId": "one-punch-man-road-to-hero-episode-1",
-            "name": "One-Punch Man: Road to Hero",
-            "jname": "One Punch Man: Road to Hero",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21386-ZMcREWXeWMow.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/one-punch-man-road-to-hero",
-            "genres": ["Action", "Comedy", "Sci-Fi", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "oshi-no-ko",
-            "episodeId": "oshi-no-ko-episode-1",
-            "name": "Oshi No Ko",
-            "jname": "Oshi no Ko",
-            "sub": "10",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150672-2WWJVXIAOG11.png",
-            "type": "tv",
-            "episodeUrl": "anime/oshi-no-ko",
-            "genres": ["Drama", "Mystery", "Psychological", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "oswald",
-            "episodeId": "oswald-episode-1",
-            "name": "Oswald",
-            "jname": "Oswald",
-            "dub": "26",
-            "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTM3NDkxZjUtNmQ3Ni00MTJiLWIyN2UtZjdmMTlkM2EzMzk4XkEyXkFqcGdeQXVyODk1MjAxNzQ@._V1_FMjpg_UX1000_.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/oswald",
-            "genres": ["Animation", "Family", "Music", "Kids"],
-            "isAdult": false
-        },
-        {
-            "animeId": "pingu-season-01",
-            "episodeId": "pingu-season-01-episode-1",
-            "name": "Pingu",
-            "jname": "Pingu",
-            "dub": "26",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/nLE7NR3EsEbv2NfG0bLIaOEhGfY.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/pingu-season-01",
-            "genres": ["Animation", "Short", "Comedy", "Kids"],
-            "isAdult": false
-        },
-        {
-            "animeId": "pingu-season-02",
-            "episodeId": "pingu-season-02-episode-1",
-            "name": "Pingu Season 02",
-            "jname": "Pingu Season 02",
-            "dub": "26",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/fBnhZLMcJ8WNrZJiN11vpq4FekL.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/pingu-season-02",
-            "genres": ["Animation", "Short", "Comedy", "Kids"],
-            "isAdult": false
-        },
-        {
-            "animeId": "pingu-season-03",
-            "episodeId": "pingu-season-03-episode-1",
-            "name": "Pingu Season 03",
-            "jname": "Pingu Season 03",
-            "dub": "26",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/5znHv2b5EThovRS302NvnCQsyBN.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/pingu-season-03",
-            "genres": ["Animation", "Short", "Comedy", "Kids"],
-            "isAdult": false
-        },
-        {
-            "animeId": "pingu-season-04",
-            "episodeId": "pingu-season-04-episode-1",
-            "name": "Pingu Season 04",
-            "jname": "Pingu Season 04",
-            "dub": "26",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/4f3dSKXoPxsd3sf1WVPMVSX4W8o.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/pingu-season-04",
-            "genres": ["Animation", "Short", "Comedy", "Kids"],
-            "isAdult": false
-        },
-        {
-            "animeId": "pingu-season-05",
-            "episodeId": "pingu-season-05-episode-1",
-            "name": "Pingu Season 05",
-            "jname": "Pingu Season 05",
-            "dub": "26",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/4Og5QawlR5yxO2LP4wVJ2Px1wKs.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/pingu-season-05",
-            "genres": ["Animation", "Short", "Comedy", "Kids"],
-            "isAdult": false
-        },
-        {
-            "animeId": "pingu-season-06",
-            "episodeId": "pingu-season-06-episode-1",
-            "name": "Pingu Season 06",
-            "jname": "Pingu Season 06",
-            "dub": "26",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/9U7J0pwzAatzMRFCGKjnBWzXcRa.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/pingu-season-06",
-            "genres": ["Animation", "Short", "Comedy", "Kids"],
-            "isAdult": false
-        },
-        {
-            "animeId": "pingu-special",
-            "episodeId": "pingu-special-episode-1",
-            "name": "Pingu Special",
-            "jname": "Pingu Special",
-            "dub": "1",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/opU81ywAKQCEzYjsqkRolkzgj3j.jpg",
-            "type": "special",
-            "episodeUrl": "anime/pingu-special",
-            "genres": ["Animation", "Short", "Comedy", "Kids"],
-            "isAdult": false
-        },
-        {
-            "animeId": "pingu-in-the-city",
-            "episodeId": "pingu-in-the-city-episode-1",
-            "name": "Pingu in the City",
-            "jname": "Pingu in the City",
-            "sub": "26",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99994-jApr7drb87Bn.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/pingu-in-the-city",
-            "genres": ["Comedy", "Slice of Life", "Kids"],
-            "isAdult": false
-        },
-        {
-            "animeId": "pingu-in-the-city-2",
-            "episodeId": "pingu-in-the-city-2-episode-1",
-            "name": "Pingu in the City 2",
-            "jname": "Pingu in the City 2",
-            "sub": "26",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99995-lR1k6Q3EeHBP.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/pingu-in-the-city-2",
-            "genres": ["Comedy", "Slice of Life", "Kids"],
-            "isAdult": false
+            "isAdult": "TRUE"
         },
         {
             "animeId": "pokemon-the-movie-spell-of-the-unown",
@@ -1749,7 +323,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-spell-of-the-unown",
             "genres": ["Adventure", "Drama", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-4ever-celebi-voice-of-the-forest",
@@ -1761,7 +335,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-4ever-celebi-voice-of-the-forest",
             "genres": ["Adventure", "Comedy", "Drama"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-generations",
@@ -1773,7 +347,7 @@
             "type": "ona",
             "episodeUrl": "anime/pokemon-generations",
             "genres": ["Action", "Comedy", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-heroes-latios-and-latias",
@@ -1785,7 +359,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-heroes-latios-and-latias",
             "genres": ["Adventure", "Comedy", "Drama"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-horizons-the-series",
@@ -1797,7 +371,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-horizons-the-series",
             "genres": ["Adventure", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-journeys-the-series",
@@ -1809,7 +383,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-journeys-the-series",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-master-journeys-the-series",
@@ -1821,7 +395,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-master-journeys-the-series",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-origins",
@@ -1833,7 +407,7 @@
             "type": "special",
             "episodeUrl": "anime/pokemon-origins",
             "genres": ["Action", "Adventure", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-ranger-and-the-temple-of-the-sea",
@@ -1845,7 +419,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-ranger-and-the-temple-of-the-sea",
             "genres": ["Adventure"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-movie-2000",
@@ -1857,7 +431,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-2000",
             "genres": ["Adventure", "Drama", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-movie-black-victini-and-reshiram",
@@ -1869,7 +443,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-black-victini-and-reshiram",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-movie-diancie-and-the-cocoon-of-destruction",
@@ -1881,7 +455,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-diancie-and-the-cocoon-of-destruction",
             "genres": ["Adventure", "Comedy", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-movie-genesect-and-the-legend-awakened",
@@ -1893,7 +467,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-genesect-and-the-legend-awakened",
             "genres": ["Adventure", "Comedy", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-movie-hoopa-and-the-clash-of-ages",
@@ -1905,7 +479,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-hoopa-and-the-clash-of-ages",
             "genres": ["Adventure", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-movie-i-choose-you",
@@ -1917,7 +491,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-i-choose-you",
             "genres": ["Action", "Adventure"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-movie-kyurem-vs-the-sword-of-justice",
@@ -1929,7 +503,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-kyurem-vs-the-sword-of-justice",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-movie-secrets-of-the-jungle",
@@ -1941,7 +515,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-secrets-of-the-jungle",
             "genres": ["Action", "Adventure"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-movie-the-power-of-us",
@@ -1953,7 +527,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-the-power-of-us",
             "genres": ["Adventure", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-movie-volcanion-and-the-mechanical-marvel",
@@ -1965,7 +539,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-volcanion-and-the-mechanical-marvel",
             "genres": ["Adventure", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-movie-white-victini-and-zekrom",
@@ -1977,7 +551,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-white-victini-and-zekrom",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-series-sun-moon",
@@ -1989,7 +563,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-sun-moon",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-series-sun-moon-ultra-adventures",
@@ -2001,7 +575,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-sun-moon-ultra-adventures",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-series-sun-moon-ultra-legends",
@@ -2013,7 +587,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-sun-moon-ultra-legends",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-series-xy",
@@ -2025,7 +599,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-xy",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-series-xy-kalos-quest",
@@ -2037,7 +611,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-xy-kalos-quest",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-series-xyz",
@@ -2049,7 +623,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-xyz",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-ultimate-journeys",
@@ -2061,7 +635,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-ultimate-journeys",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-advanced",
@@ -2073,7 +647,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-advanced",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-advanced-battle",
@@ -2085,7 +659,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-advanced-battle",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-advanced-challenge",
@@ -2097,7 +671,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-advanced-challenge",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-adventures-in-the-orange-islands",
@@ -2109,7 +683,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-adventures-in-the-orange-islands",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-aim-to-be-a-pokemon-master",
@@ -2121,7 +695,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-aim-to-be-a-pokemon-master",
             "genres": ["Adventure", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-arceus-and-the-jewel-of-life",
@@ -2133,7 +707,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-arceus-and-the-jewel-of-life",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-battle-frontier",
@@ -2145,7 +719,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-battle-frontier",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-black-white-adventures-in-unova-and-beyond",
@@ -2157,7 +731,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-black-white-adventures-in-unova-and-beyond",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-black-white-rival-destinies",
@@ -2169,7 +743,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-black-white-rival-destinies",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-black-white",
@@ -2181,7 +755,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-black-white",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-destiny-deoxys",
@@ -2193,7 +767,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-destiny-deoxys",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-diamond-and-pearl",
@@ -2205,7 +779,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-diamond-and-pearl",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-diamond-and-pearl-battle-dimension",
@@ -2217,7 +791,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-battle-dimension",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-diamond-and-pearl-galactic-battles",
@@ -2229,7 +803,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-galactic-battles",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-diamond-and-pearl-sinnoh-league-victors",
@@ -2241,7 +815,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-sinnoh-league-victors",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-giratina-and-the-sky-warrior",
@@ -2253,7 +827,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-giratina-and-the-sky-warrior",
             "genres": ["Action", "Adventure"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-indigo-league",
@@ -2265,7 +839,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-indigo-league",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-jirachi-wish-maker",
@@ -2277,7 +851,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-jirachi-wish-maker",
             "genres": ["Adventure", "Comedy", "Drama", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-johto-league-champions",
@@ -2289,7 +863,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-johto-league-champions",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-lucario-and-the-mystery-of-mew",
@@ -2301,7 +875,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-lucario-and-the-mystery-of-mew",
             "genres": ["Action", "Adventure", "Drama", "Fantasy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-master-quest",
@@ -2313,7 +887,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-master-quest",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-mewtwo-strikes-back-evolution",
@@ -2325,7 +899,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-mewtwo-strikes-back-evolution",
             "genres": ["Adventure", "Comedy", "Drama", "Fantasy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-first-movie",
@@ -2337,7 +911,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-first-movie",
             "genres": ["Adventure", "Drama", "Fantasy", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-johto-journeys",
@@ -2349,7 +923,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-johto-journeys",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-the-rise-of-darkrai",
@@ -2361,7 +935,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-rise-of-darkrai",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-twilight-wings",
@@ -2373,7 +947,7 @@
             "type": "ona",
             "episodeUrl": "anime/pokemon-twilight-wings",
             "genres": ["Adventure", "Drama", "Fantasy", "Slice of Life"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "pokemon-zoroark-master-of-illusions",
@@ -2385,282 +959,32 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-zoroark-master-of-illusions",
             "genres": ["Action", "Adventure"],
-            "isAdult": false
-        },
-        {
-            "animeId": "record-of-ragnarok",
-            "episodeId": "record-of-ragnarok-episode-1",
-            "name": "Record of Ragnarok",
-            "jname": "Shuumatsu no Valkyrie",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127399-AAH1pevCZLrB.jpg",
-            "type": "ona",
-            "episodeUrl": "anime/record-of-ragnarok",
-            "genres": ["Action", "Drama", "Fantasy", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "record-of-ragnarok-2",
-            "episodeId": "record-of-ragnarok-2-episode-1",
-            "name": "Record of Ragnarok II",
-            "jname": "Shuumatsu no Valkyrie II",
-            "dub": "10",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138056-r6wKvl71ddar.jpg",
-            "type": "ona",
-            "episodeUrl": "anime/record-of-ragnarok-2",
-            "genres": ["Action", "Drama", "Fantasy", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "record-of-ragnarok-2-part-2",
-            "episodeId": "record-of-ragnarok-2-part-2-episode-1",
-            "name": "Record of Ragnarok II Part 2",
-            "jname": "Shuumatsu no Valkyrie II Part 2",
-            "dub": "5",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165356-MnzKLWZOx7av.jpg",
-            "type": "ona",
-            "episodeUrl": "anime/record-of-ragnarok-2-part-2",
-            "genres": ["Action", "Drama", "Fantasy", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "rent-a-girlfriend",
-            "episodeId": "rent-a-girlfriend-episode-1",
-            "name": "Rent a Girlfriend",
-            "jname": "Kanojo, Okarishimasu",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113813-UCgSIGyWvLgl.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/rent-a-girlfriend",
-            "genres": ["Comedy", "Drama", "Romance"],
-            "isAdult": false
-        },
-        {
-            "animeId": "rent-a-girlfriend-season-2",
-            "episodeId": "rent-a-girlfriend-season-2-episode-1",
-            "name": "Rent a Girlfriend Season 2",
-            "jname": "Kanojo, Okarishimasu 2nd Season",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124410-iScdHzzEqdmk.png",
-            "type": "tv",
-            "episodeUrl": "anime/rent-a-girlfriend-season-2",
-            "genres": ["Comedy", "Drama", "Romance"],
-            "isAdult": false
-        },
-        {
-            "animeId": "rent-a-girlfriend-season-3",
-            "episodeId": "rent-a-girlfriend-season-3-episode-1",
-            "name": "Rent a Girlfriend Season 3",
-            "jname": "Kanojo, Okarishimasu 3rd Season",
-            "sub": "3",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154745-xBr65cJsL3uW.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/rent-a-girlfriend-season-3",
-            "genres": ["Comedy", "Drama", "Romance"],
-            "isAdult": false
-        },
-        {
-            "animeId": "kanojo-okarishimasu-petit",
-            "episodeId": "kanojo-okarishimasu-petit-episode-1",
-            "name": "Rent-a-Girlfriend Chibi",
-            "jname": "Kanojo, Okarishimasu Petit",
-            "sub": "15",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b123901-SE2GQngZ22fy.png",
-            "type": "ona",
-            "episodeUrl": "anime/kanojo-okarishimasu-petit",
-            "genres": ["Comedy"],
-            "isAdult": false
-        },
-        {
-            "animeId": "naruto-shippuuden-movie-road-to-ninja",
-            "episodeId": "naruto-shippuuden-movie-road-to-ninja-episode-1",
-            "name": "Road to Ninja: Naruto the Movie",
-            "jname": "ROAD TO NINJA: NARUTO THE MOVIE",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13667-gAKuIXI2avRq.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/naruto-shippuuden-movie-road-to-ninja",
-            "genres": ["Action", "Adventure"],
-            "isAdult": false
-        },
-        {
-            "animeId": "samurai-champloo",
-            "episodeId": "samurai-champloo-episode-1",
-            "name": "Samurai Champloo",
-            "jname": "Samurai Champloo",
-            "dub": "26",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205-xxonQKyJtVcw.png",
-            "type": "tv",
-            "episodeUrl": "anime/samurai-champloo",
-            "genres": ["Action", "Adventure", "Comedy"],
-            "isAdult": true
-        },
-        {
-            "animeId": "spirited-away",
-            "episodeId": "spirited-away-episode-1",
-            "name": "Spirited Away",
-            "jname": "Sen to Chihiro no Kamikakushi",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx199-ehguwq1mPvtN.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/spirited-away",
-            "genres": ["Adventure", "Drama", "Fantasy", "Romance", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "spirited-away-hindi",
-            "episodeId": "spirited-away-hindi-episode-1",
-            "name": "Spirited Away - Hindi",
-            "jname": "Sen to Chihiro no Kamikakushi - Hindi",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx199-ehguwq1mPvtN.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/spirited-away-hindi",
-            "genres": ["Adventure", "Drama", "Fantasy", "Romance", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "spy-x-family",
-            "episodeId": "spy-x-family-episode-1",
-            "name": "SPY x FAMILY",
-            "jname": "SPY×FAMILY",
-            "dub": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/spy-x-family",
-            "genres": ["Action","Comedy", "Slice of Life","Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "spy-x-family-part-2",
-            "episodeId": "spy-x-family-part-2-episode-1",
-            "name": "SPY x FAMILY Cour 2",
-            "jname": "SPY×FAMILY Part 2",
-            "dub": "13",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-ECZSqfknAqAT.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/spy-x-family-part-2",
-            "genres": ["Action","Comedy", "Slice of Life","Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "suzume",
-            "episodeId": "suzume-episode-1",
-            "name": "Suzume",
-            "jname": "Suzume no Tojimari",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142770-sG9FZa5JxlmE.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/suzume",
-            "genres": ["Adventure", "Fantasy", "Mystery", "Supernatural"],
-            "isAdult": false
-        },
-        {
-            "animeId": "the-eminence-in-shadow",
-            "episodeId": "the-eminence-in-shadow-episode-1",
-            "name": "The Eminence in Shadow",
-            "jname": "Kage no Jitsuryokusha ni Naritakute!",
-            "dub": "20",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-O7nR1Wrav2dH.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/the-eminence-in-shadow",
-            "genres": ["Action", "Comedy", "Fantasy"],
-            "isAdult": true
-        },
-        {
-            "animeId": "naruto-shippuuden-movie-the-last",
-            "episodeId": "naruto-shippuuden-movie-the-last-episode-1",
-            "name": "The Last: Naruto the Movie",
-            "jname": "THE LAST: NARUTO THE MOVIE",
-            "dub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16870-Wg0XQKHcwV1r.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/naruto-shippuuden-movie-the-last",
-            "genres": ["Action", "Romance"],
-            "isAdult": false
-        },
-        {
-            "animeId": "the-powerpuff-girls",
-            "episodeId": "the-powerpuff-girls-episode-1",
-            "name": "The Powerpuff Girls",
-            "jname": "The Powerpuff Girls",
-            "dub": "136",
-            "imgUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/468mmhMd21pY4Yx0S0woqeEcxtL.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/the-powerpuff-girls",
-            "genres": ["Action", "Adventure", "Comedy", "Kids", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "the-powerpuff-girls-special",
-            "episodeId": "the-powerpuff-girls-special-episode-1",
-            "name": "The Powerpuff Girls - Special",
-            "jname": "The Powerpuff Girls - Special",
-            "dub": "5",
-            "imgUrl": "https://www.themoviedb.org/t/p/original/4CMPCuP6ihU5UvTStv23aGEEMuC.jpg",
-            "type": "special",
-            "episodeUrl": "anime/the-powerpuff-girls-special",
-            "genres": ["Action", "Adventure", "Comedy", "Kids", "Superhero"],
-            "isAdult": false
-        },
-        {
-            "animeId": "to-every-you-i-ve-loved-before",
-            "episodeId": "to-every-you-i-ve-loved-before-episode-1",
-            "name": "To Every You I’ve Loved Before",
-            "jname": "Boku ga Aishita Subete no Kimi e",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139310-OM1RKpk5YH7g.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/to-every-you-i-ve-loved-before",
-            "genres": ["Romance", "Sci-Fi"],
-            "isAdult": false
-        },
-        {
-            "animeId": "to-me-the-one-who-loved-you",
-            "episodeId": "to-me-the-one-who-loved-you-episode-1",
-            "name": "To Me, The One Who Loved You",
-            "jname": "Kimi wo Aishita Hitori no Boku e",
-            "sub": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139311-5iHY459iwQ46.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/to-me-the-one-who-loved-you",
-            "genres": ["Romance", "Sci-Fi"],
-            "isAdult": false
+            "isAdult": "FALSE"
         },
         {
             "animeId": "tokyo-revengers",
             "episodeId": "tokyo-revengers-episode-1",
             "name": "Tokyo Revengers",
             "jname": "Tokyo Revengers",
+            "sub": "24",
             "dub": "24",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120120-mBmQUtMloszF.jpg",
             "type": "tv",
             "episodeUrl": "anime/tokyo-revengers",
             "genres": ["Action", "Drama", "Romance", "Supernatural"],
-            "isAdult": true
+            "isAdult": "TRUE"
         },
         {
             "animeId": "tokyo-revengers-season-2",
             "episodeId": "tokyo-revengers-season-2-episode-1",
             "name": "Tokyo Revengers Season 2",
             "jname": "Tokyo Revengers: Seiya Kessen-hen",
+            "sub": "13",
             "dub": "13",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142853-nxEZDE9oDRLG.png",
             "type": "tv",
             "episodeUrl": "anime/tokyo-revengers-season-2",
             "genres": ["Action", "Drama", "Romance", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "worlds-end-harem",
-            "episodeId": "worlds-end-harem-episode-1",
-            "name": "World's End Harem",
-            "jname": "Shuumatsu no Harem",
-            "sub": "11",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118465-EGB0OajA5rei.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/worlds-end-harem",
-            "genres": ["Ecchi", "Sci-Fi"],
-            "isAdult": true
+            "isAdult": "TRUE"
         }
     ]
