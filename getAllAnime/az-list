@@ -10,7 +10,7 @@
             "type": "tv",
             "episodeUrl": "anime/dr-stone",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "dr-stone-new-world",
@@ -23,7 +23,7 @@
             "type": "tv",
             "episodeUrl": "anime/dr-stone-new-world",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "dr-stone-ryuusui",
@@ -36,7 +36,7 @@
             "type": "special",
             "episodeUrl": "anime/dr-stone-ryuusui",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "dr-stone-stone-wars",
@@ -49,7 +49,7 @@
             "type": "tv",
             "episodeUrl": "anime/dr-stone-stone-wars",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "dr-stone-stone-wars-eve-of-the-battle-special-feature",
@@ -61,7 +61,7 @@
             "type": "special",
             "episodeUrl": "anime/dr-stone-stone-wars-eve-of-the-battle-special-feature",
             "genres": ["Adventure", "Sci-Fi", "Shounen", "Suspense"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "jujutsu-kaisen-tv",
@@ -74,7 +74,7 @@
             "type": "tv",
             "episodeUrl": "anime/jujutsu-kaisen-tv",
             "genres": ["Action", "Drama", "Supernatural"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "jujutsu-kaisen-0",
@@ -87,7 +87,7 @@
             "type": "movie",
             "episodeUrl": "anime/jujutsu-kaisen-0",
             "genres": ["Action", "Supernatural"],
-            "isAdult": "TRUE"
+            "isAdult": true
         },
         {
             "animeId": "jujutsu-kaisen-season-2",
@@ -100,7 +100,7 @@
             "type": "tv",
             "episodeUrl": "anime/jujutsu-kaisen-season-2",
             "genres": ["Action", "Drama", "Supernatural"],
-            "isAdult": "TRUE"
+            "isAdult": true
         },
         {
             "animeId": "my-hero-academia",
@@ -113,7 +113,7 @@
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-season-2",
@@ -126,7 +126,7 @@
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia-season-2",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-season-3",
@@ -139,7 +139,7 @@
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia-season-3",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-season-4",
@@ -152,7 +152,7 @@
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia-season-4",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-season-5",
@@ -165,7 +165,7 @@
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia-season-5",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-Hero-academia-season-5-ona",
@@ -178,7 +178,7 @@
             "type": "ona",
             "episodeUrl": "anime/my-Hero-academia-season-5-ona",
             "genres": ["Action", "Comedy", "Sports"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-season-6",
@@ -191,7 +191,7 @@
             "type": "tv",
             "episodeUrl": "anime/my-hero-academia-season-6",
             "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-all-might-rising-the-animation",
@@ -203,7 +203,7 @@
             "type": "ova",
             "episodeUrl": "anime/my-hero-academia-all-might-rising-the-animation",
             "genres": ["Action", "Drama"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-the-movie-world-heroes-mission-take-off",
@@ -215,7 +215,7 @@
             "type": "ova",
             "episodeUrl": "anime/my-hero-academia-the-movie-world-heroes-mission-take-off",
             "genres": ["Action", "Comedy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-hero-notebook",
@@ -227,7 +227,7 @@
             "type": "special",
             "episodeUrl": "anime/my-hero-academia-hero-notebook",
             "genres": ["Action", "Adventure", "Comedy", "Supernatural"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-heroes-rising",
@@ -239,7 +239,7 @@
             "type": "movie",
             "episodeUrl": "anime/my-hero-academia-heroes-rising",
             "genres": ["Action", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-make-it-doordie-survival-training",
@@ -251,7 +251,7 @@
             "type": "ona",
             "episodeUrl": "anime/my-hero-academia-make-it-doordie-survival-training",
             "genres": ["Action", "Adventure", "Comedy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "boku-no-hero-academia-sukue-kyuujo-kunren",
@@ -263,7 +263,7 @@
             "type": "Ova",
             "episodeUrl": "anime/boku-no-hero-academia-sukue-kyuujo-kunren",
             "genres": ["Action", "Adventure", "Comedy", "Supernatural"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-training-of-the-dead",
@@ -275,7 +275,7 @@
             "type": "ova",
             "episodeUrl": "anime/my-hero-academia-training-of-the-dead",
             "genres": ["Action", "Adventure", "Comedy", "Supernatural"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-training-of-the-dead",
@@ -287,7 +287,7 @@
             "type": "ova",
             "episodeUrl": "anime/my-hero-academia-training-of-the-dead",
             "genres": ["Action", "Adventure", "Comedy", "Supernatural"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-two-heroes",
@@ -299,7 +299,7 @@
             "type": "movie",
             "episodeUrl": "anime/my-hero-academia-two-heroes",
             "genres": ["Action", "Comedy", "Drama", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "my-hero-academia-world-heroes-mission",
@@ -311,7 +311,7 @@
             "type": "movie",
             "episodeUrl": "anime/my-hero-academia-world-heroes-mission",
             "genres": ["Action", "Adventure", "Sci-Fi"],
-            "isAdult": "TRUE"
+            "isAdult": true
         },
         {
             "animeId": "pokemon-the-movie-spell-of-the-unown",
@@ -323,7 +323,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-spell-of-the-unown",
             "genres": ["Adventure", "Drama", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-4ever-celebi-voice-of-the-forest",
@@ -335,7 +335,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-4ever-celebi-voice-of-the-forest",
             "genres": ["Adventure", "Comedy", "Drama"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-generations",
@@ -347,7 +347,7 @@
             "type": "ona",
             "episodeUrl": "anime/pokemon-generations",
             "genres": ["Action", "Comedy", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-heroes-latios-and-latias",
@@ -359,7 +359,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-heroes-latios-and-latias",
             "genres": ["Adventure", "Comedy", "Drama"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-horizons-the-series",
@@ -371,7 +371,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-horizons-the-series",
             "genres": ["Adventure", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-journeys-the-series",
@@ -383,7 +383,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-journeys-the-series",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-master-journeys-the-series",
@@ -395,7 +395,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-master-journeys-the-series",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-origins",
@@ -407,7 +407,7 @@
             "type": "special",
             "episodeUrl": "anime/pokemon-origins",
             "genres": ["Action", "Adventure", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-ranger-and-the-temple-of-the-sea",
@@ -419,7 +419,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-ranger-and-the-temple-of-the-sea",
             "genres": ["Adventure"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-movie-2000",
@@ -431,7 +431,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-2000",
             "genres": ["Adventure", "Drama", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-movie-black-victini-and-reshiram",
@@ -443,7 +443,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-black-victini-and-reshiram",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-movie-diancie-and-the-cocoon-of-destruction",
@@ -455,7 +455,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-diancie-and-the-cocoon-of-destruction",
             "genres": ["Adventure", "Comedy", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-movie-genesect-and-the-legend-awakened",
@@ -467,7 +467,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-genesect-and-the-legend-awakened",
             "genres": ["Adventure", "Comedy", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-movie-hoopa-and-the-clash-of-ages",
@@ -479,7 +479,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-hoopa-and-the-clash-of-ages",
             "genres": ["Adventure", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-movie-i-choose-you",
@@ -491,7 +491,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-i-choose-you",
             "genres": ["Action", "Adventure"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-movie-kyurem-vs-the-sword-of-justice",
@@ -503,7 +503,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-kyurem-vs-the-sword-of-justice",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-movie-secrets-of-the-jungle",
@@ -515,7 +515,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-secrets-of-the-jungle",
             "genres": ["Action", "Adventure"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-movie-the-power-of-us",
@@ -527,7 +527,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-the-power-of-us",
             "genres": ["Adventure", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-movie-volcanion-and-the-mechanical-marvel",
@@ -539,7 +539,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-volcanion-and-the-mechanical-marvel",
             "genres": ["Adventure", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-movie-white-victini-and-zekrom",
@@ -551,7 +551,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-movie-white-victini-and-zekrom",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-series-sun-moon",
@@ -563,7 +563,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-sun-moon",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-series-sun-moon-ultra-adventures",
@@ -575,7 +575,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-sun-moon-ultra-adventures",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-series-sun-moon-ultra-legends",
@@ -587,7 +587,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-sun-moon-ultra-legends",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-series-xy",
@@ -599,7 +599,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-xy",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-series-xy-kalos-quest",
@@ -611,7 +611,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-xy-kalos-quest",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-series-xyz",
@@ -623,7 +623,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-series-xyz",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-ultimate-journeys",
@@ -635,7 +635,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-ultimate-journeys",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-advanced",
@@ -647,7 +647,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-advanced",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-advanced-battle",
@@ -659,7 +659,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-advanced-battle",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-advanced-challenge",
@@ -671,7 +671,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-advanced-challenge",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-adventures-in-the-orange-islands",
@@ -683,7 +683,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-adventures-in-the-orange-islands",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-aim-to-be-a-pokemon-master",
@@ -695,7 +695,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-aim-to-be-a-pokemon-master",
             "genres": ["Adventure", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-arceus-and-the-jewel-of-life",
@@ -707,7 +707,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-arceus-and-the-jewel-of-life",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-battle-frontier",
@@ -719,7 +719,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-battle-frontier",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-black-white-adventures-in-unova-and-beyond",
@@ -731,7 +731,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-black-white-adventures-in-unova-and-beyond",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-black-white-rival-destinies",
@@ -743,7 +743,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-black-white-rival-destinies",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-black-white",
@@ -755,7 +755,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-black-white",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-destiny-deoxys",
@@ -767,7 +767,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-destiny-deoxys",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-diamond-and-pearl",
@@ -779,7 +779,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-diamond-and-pearl",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-diamond-and-pearl-battle-dimension",
@@ -791,7 +791,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-battle-dimension",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-diamond-and-pearl-galactic-battles",
@@ -803,7 +803,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-galactic-battles",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-diamond-and-pearl-sinnoh-league-victors",
@@ -815,7 +815,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-diamond-and-pearl-sinnoh-league-victors",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-giratina-and-the-sky-warrior",
@@ -827,7 +827,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-giratina-and-the-sky-warrior",
             "genres": ["Action", "Adventure"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-indigo-league",
@@ -839,7 +839,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-indigo-league",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-jirachi-wish-maker",
@@ -851,7 +851,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-jirachi-wish-maker",
             "genres": ["Adventure", "Comedy", "Drama", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-johto-league-champions",
@@ -863,7 +863,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-johto-league-champions",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-lucario-and-the-mystery-of-mew",
@@ -875,7 +875,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-lucario-and-the-mystery-of-mew",
             "genres": ["Action", "Adventure", "Drama", "Fantasy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-master-quest",
@@ -887,7 +887,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-master-quest",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-mewtwo-strikes-back-evolution",
@@ -899,7 +899,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-mewtwo-strikes-back-evolution",
             "genres": ["Adventure", "Comedy", "Drama", "Fantasy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-first-movie",
@@ -911,7 +911,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-first-movie",
             "genres": ["Adventure", "Drama", "Fantasy", "Sci-Fi"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-johto-journeys",
@@ -923,7 +923,7 @@
             "type": "tv",
             "episodeUrl": "anime/pokemon-the-johto-journeys",
             "genres": ["Action", "Adventure", "Comedy", "Fantasy", "Kids"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-the-rise-of-darkrai",
@@ -935,7 +935,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-the-rise-of-darkrai",
             "genres": ["Adventure", "Comedy"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-twilight-wings",
@@ -947,7 +947,7 @@
             "type": "ona",
             "episodeUrl": "anime/pokemon-twilight-wings",
             "genres": ["Adventure", "Drama", "Fantasy", "Slice of Life"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "pokemon-zoroark-master-of-illusions",
@@ -959,7 +959,7 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-zoroark-master-of-illusions",
             "genres": ["Action", "Adventure"],
-            "isAdult": "FALSE"
+            "isAdult": false
         },
         {
             "animeId": "tokyo-revengers",
@@ -972,7 +972,7 @@
             "type": "tv",
             "episodeUrl": "anime/tokyo-revengers",
             "genres": ["Action", "Drama", "Romance", "Supernatural"],
-            "isAdult": "TRUE"
+            "isAdult": true
         },
         {
             "animeId": "tokyo-revengers-season-2",
@@ -985,6 +985,6 @@
             "type": "tv",
             "episodeUrl": "anime/tokyo-revengers-season-2",
             "genres": ["Action", "Drama", "Romance", "Supernatural"],
-            "isAdult": "TRUE"
+            "isAdult": true
         }
     ]
