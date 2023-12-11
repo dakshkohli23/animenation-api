@@ -1,122 +1,92 @@
 [
         {
-            "server1": "8vw65qtl6d0o",
-            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 1 Dubbed",
+            "server1": "bdeceta6pwkf",
+            "server2": "24dhryia5ny7",
+            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 1",
             "ep_num": "1",
             "anime_info": "attack-on-titan-season-3-part-2",
             "movie_id": "104578",
-            "alias": "attack-on-titan-season-3-part-2",
-            "nextEpText": "Attack on Titan Season 3 Part 2 Episode 2 >>",
-            "nextEpLink": "/attack-on-titan-season-3-part-2-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "ou08rwhesmai",
-            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 2 Dubbed",
+            "server1": "4uhvvbfqnesa",
+            "server2": "y211mh5qifvc",
+            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 2",
             "ep_num": "2",
             "anime_info": "attack-on-titan-season-3-part-2",
             "movie_id": "104578",
-            "alias": "attack-on-titan-season-3-part-2",
-            "nextEpText": "Attack on Titan Season 3 Part 2 Episode 3 >>",
-            "nextEpLink": "/attack-on-titan-season-3-part-2-episode-3",
-            "prevEpText": "<< Attack on Titan Season 3 Part 2 Episode 1",
-            "prevEpLink": "/attack-on-titan-season-3-part-2-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "g0ctaxm1b7w9",
-            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 3 Dubbed",
+            "server1": "3wst7jz2h2r3",
+            "server2": "0xjycmm63hul",
+            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 3",
             "ep_num": "3",
             "anime_info": "attack-on-titan-season-3-part-2",
             "movie_id": "104578",
-            "alias": "attack-on-titan-season-3-part-2",
-            "nextEpText": "Attack on Titan Season 3 Part 2 Episode 4 >>",
-            "nextEpLink": "/attack-on-titan-season-3-part-2-episode-4",
-            "prevEpText": "<< Attack on Titan Season 3 Part 2 Episode 2",
-            "prevEpLink": "/attack-on-titan-season-3-part-2-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "74d7jmwfsvex",
-            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 4 Dubbed",
+            "server1": "tjdloz2no7uz",
+            "server2": "6y7bl3141zv5",
+            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 4",
             "ep_num": "4",
             "anime_info": "attack-on-titan-season-3-part-2",
             "movie_id": "104578",
-            "alias": "attack-on-titan-season-3-part-2",
-            "nextEpText": "Attack on Titan Season 3 Part 2 Episode 5 >>",
-            "nextEpLink": "/attack-on-titan-season-3-part-2-episode-5",
-            "prevEpText": "<< Attack on Titan Season 3 Part 2 Episode 3",
-            "prevEpLink": "/attack-on-titan-season-3-part-2-episode-3"
+            "subOrDub": "dual"
         },
         {
-            "server1": "tbv09uubiiaz",
-            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 5 Dubbed",
+            "server1": "odsa2i7tbzax",
+            "server2": "1em0ai6amu4u",
+            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 5",
             "ep_num": "5",
             "anime_info": "attack-on-titan-season-3-part-2",
             "movie_id": "104578",
-            "alias": "attack-on-titan-season-3-part-2",
-            "nextEpText": "Attack on Titan Season 3 Part 2 Episode 6 >>",
-            "nextEpLink": "/attack-on-titan-season-3-part-2-episode-6",
-            "prevEpText": "<< Attack on Titan Season 3 Part 2 Episode 4",
-            "prevEpLink": "/attack-on-titan-season-3-part-2-episode-4"
+            "subOrDub": "dual"
         },
         {
-            "server1": "t28cidrnwmq3",
-            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 6 Dubbed",
+            "server1": "t9i5vthggdjb",
+            "server2": "tfst6a4eiyhp",
+            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 6",
             "ep_num": "6",
             "anime_info": "attack-on-titan-season-3-part-2",
             "movie_id": "104578",
-            "alias": "attack-on-titan-season-3-part-2",
-            "nextEpText": "Attack on Titan Season 3 Part 2 Episode 7 >>",
-            "nextEpLink": "/attack-on-titan-season-3-part-2-episode-7",
-            "prevEpText": "<< Attack on Titan Season 3 Part 2 Episode 5",
-            "prevEpLink": "/attack-on-titan-season-3-part-2-episode-5"
+            "subOrDub": "dual"
         },
         {
-            "server1": "vqxhq583hiza",
-            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 7 Dubbed",
+            "server1": "hxx9h32iwb05",
+            "server2": "kbmkolwhdc88",
+            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 7",
             "ep_num": "7",
             "anime_info": "attack-on-titan-season-3-part-2",
             "movie_id": "104578",
-            "alias": "attack-on-titan-season-3-part-2",
-            "nextEpText": "Attack on Titan Season 3 Part 2 Episode 8 >>",
-            "nextEpLink": "/attack-on-titan-season-3-part-2-episode-8",
-            "prevEpText": "<< Attack on Titan Season 3 Part 2 Episode 6",
-            "prevEpLink": "/attack-on-titan-season-3-part-2-episode-6"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ep06bwdqiu1n",
-            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 8 Dubbed",
+            "server1": "bthc697r3571",
+            "server2": "ilfyiobv66qj",
+            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 8",
             "ep_num": "8",
             "anime_info": "attack-on-titan-season-3-part-2",
             "movie_id": "104578",
-            "alias": "attack-on-titan-season-3-part-2",
-            "nextEpText": "Attack on Titan Season 3 Part 2 Episode 9 >>",
-            "nextEpLink": "/attack-on-titan-season-3-part-2-episode-9",
-            "prevEpText": "<< Attack on Titan Season 3 Part 2 Episode 7",
-            "prevEpLink": "/attack-on-titan-season-3-part-2-episode-7"
+            "subOrDub": "dual"
         },
         {
-            "server1": "7s5du3ewn6a8",
-            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 9 Dubbed",
+            "server1": "q5rywocuizup",
+            "server2": "ro727f4ywbo5",
+            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 9",
             "ep_num": "9",
             "anime_info": "attack-on-titan-season-3-part-2",
             "movie_id": "104578",
-            "alias": "attack-on-titan-season-3-part-2",
-            "nextEpText": "Attack on Titan Season 3 Part 2 Episode 10 >>",
-            "nextEpLink": "/attack-on-titan-season-3-part-2-episode-10",
-            "prevEpText": "<< Attack on Titan Season 3 Part 2 Episode 8",
-            "prevEpLink": "/attack-on-titan-season-3-part-2-episode-8"
+            "subOrDub": "dual"
         },
         {
-            "server1": "g66lpgt2dr3j",
-            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 10 Dubbed",
+            "server1": "7lqjo0akh73z",
+            "server2": "qkwj8ab6vze2",
+            "animeNameWithEP": "Attack on Titan Season 3 Part 2 Episode 10",
             "ep_num": "10",
             "anime_info": "attack-on-titan-season-3-part-2",
             "movie_id": "104578",
-            "alias": "attack-on-titan-season-3-part-2",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Attack on Titan Season 3 Part 2 Episode 9",
-            "prevEpLink": "/attack-on-titan-season-3-part-2-episode-9"
+            "subOrDub": "dual"
         }
     ]
