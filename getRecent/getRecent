@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "attack-on-titan-final-season-part-2",
+		"episodeId": "attack-on-titan-final-season-part-2-episode-1",
+		"jname": "Shingeki no Kyojin: The Final Season Part 2",
+		"name": "Attack on Titan Final Season Part 2",
+		"episodeNum": 12,
+		"dub": 12,
+		"sub": 12,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-ODIRpBIbR5Eu.jpg"
+	},
+	{
 		"animeId": "attack-on-titan-final-season",
 		"episodeId": "attack-on-titan-final-season-episode-1",
 		"jname": "Shingeki no Kyojin: The Final Season",
