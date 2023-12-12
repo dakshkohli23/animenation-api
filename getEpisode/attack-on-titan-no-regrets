@@ -1,26 +1,20 @@
 [
         {
-            "server1": "ygvs6b57w2w3",
-            "animeNameWithEP": "Attack on Titan: No Regrets Episode 1 Dubbed",
+            "server1": "t0n4lsfxuy8e",
+            "server2": "t0n4lsfxuy8e",
+            "animeNameWithEP": "Attack on Titan: No Regrets Episode 1",
             "ep_num": "1",
             "anime_info": "attack-on-titan-no-regrets",
             "movie_id": "20811",
-            "alias": "attack-on-titan-no-regrets",
-            "nextEpText": "Attack on Titan: No Regrets Episode 2 >>",
-            "nextEpLink": "/attack-on-titan-no-regrets-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "sub"
         },
         {
-            "server1": "r0iujpssvib7",
-            "animeNameWithEP": "Attack on Titan: No Regrets Episode 2 Dubbed",
+            "server1": "jatwoozapu2q",
+            "server2": "jatwoozapu2q",
+            "animeNameWithEP": "Attack on Titan: No Regrets Episode 2",
             "ep_num": "2",
             "anime_info": "attack-on-titan-no-regrets",
             "movie_id": "20811",
-            "alias": "attack-on-titan-no-regrets",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Attack on Titan: No Regrets Episode 1",
-            "prevEpLink": "/attack-on-titan-no-regrets-episode-1"
+            "subOrDub": "sub"
         }
     ]
