@@ -13,6 +13,19 @@
             "isAdult": true
         },
         {
+            "animeId": "attack-on-titan-final-season",
+            "episodeId": "attack-on-titan-final-season-episode-1",
+            "name": "Attack on Titan Final Season",
+            "jname": "Shingeki no Kyojin: The Final Season",
+            "sub": "16",
+            "dub": "16",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-qDRIhu50PXzz.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/attack-on-titan-final-season",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
+            "isAdult": true
+        },
+        {
             "animeId": "attack-on-titan-season-2",
             "episodeId": "attack-on-titan-season-2-episode-1",
             "name": "Attack on Titan Season 2",
@@ -49,6 +62,42 @@
             "type": "tv",
             "episodeUrl": "anime/attack-on-titan-season-3-part-2",
             "genres": ["Action", "Drama", "Fantasy", "Mystery"],
+            "isAdult": true
+        },
+        {
+            "animeId": "attack-on-titan-lost-girls",
+            "episodeId": "attack-on-titan-lost-girls-episode-1",
+            "name": "Attack on Titan: Lost Girls",
+            "jname": "Shingeki no Kyojin: LOST GIRLS",
+            "sub": "3",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99634-9u4hdvWwmC2s.png",
+            "type": "ova",
+            "episodeUrl": "anime/attack-on-titan-lost-girls",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
+            "isAdult": true
+        },
+        {
+            "animeId": "attack-on-titan-ova",
+            "episodeId": "attack-on-titan-ova-episode-1",
+            "name": "Attack on Titan OVA",
+            "jname": "Shingeki no Kyojin OVA",
+            "sub": "3",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18397-AnpwhLkSjYL1.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/attack-on-titan-ova",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
+            "isAdult": true
+        },
+        {
+            "animeId": "attack-on-titan-no-regrets",
+            "episodeId": "attack-on-titan-no-regrets-episode-1",
+            "name": "Attack on Titan: No Regrets",
+            "jname": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
+            "sub": "2",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20811-IvXLdxZkYNcP.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/attack-on-titan-no-regrets",
+            "genres": ["Action", "Fantasy"],
             "isAdult": true
         },
         {
