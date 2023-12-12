@@ -1,38 +1,29 @@
 [
         {
-            "server1": "ims2br8oxjf7",
-            "animeNameWithEP": "Attack on Titan OVA Episode 1 Dubbed",
+            "server1": "jbjwewshz6cl",
+            "server2": "jbjwewshz6cl",
+            "animeNameWithEP": "Attack on Titan OVA Episode 1",
             "ep_num": "1",
             "anime_info": "attack-on-titan-ova",
             "movie_id": "18397",
-            "alias": "attack-on-titan-ova",
-            "nextEpText": "Attack on Titan OVA Episode 2 >>",
-            "nextEpLink": "/attack-on-titan-ova-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "sub"
         },
         {
-            "server1": "aynu6seia3mc",
-            "animeNameWithEP": "Attack on Titan OVA Episode 2 Dubbed",
+            "server1": "19hadyt8ssgw",
+            "server2": "19hadyt8ssgw",
+            "animeNameWithEP": "Attack on Titan OVA Episode 2",
             "ep_num": "2",
             "anime_info": "attack-on-titan-ova",
             "movie_id": "18397",
-            "alias": "attack-on-titan-ova",
-            "nextEpText": "Attack on Titan OVA Episode 3 >>",
-            "nextEpLink": "/attack-on-titan-ova-episode-3",
-            "prevEpText": "<< Attack on Titan OVA Episode 1",
-            "prevEpLink": "/attack-on-titan-ova-episode-1"
+            "subOrDub": "sub"
         },
         {
-            "server1": "mn42dncjuin8",
-            "animeNameWithEP": "Attack on Titan OVA Episode 3 Dubbed",
+            "server1": "i6xj8rsvxiwo",
+            "server2": "i6xj8rsvxiwo",
+            "animeNameWithEP": "Attack on Titan OVA Episode 3",
             "ep_num": "3",
             "anime_info": "attack-on-titan-ova",
             "movie_id": "18397",
-            "alias": "attack-on-titan-ova",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Attack on Titan OVA Episode 2",
-            "prevEpLink": "/attack-on-titan-ova-episode-2"
+            "subOrDub": "sub"
         }
     ]
