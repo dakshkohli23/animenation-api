@@ -26,6 +26,44 @@
             "isAdult": true
         },
         {
+            "animeId": "attack-on-titan-final-season-part-2",
+            "episodeId": "attack-on-titan-final-season-part-2-episode-1",
+            "name": "Attack on Titan Final Season Part 2",
+            "jname": "Shingeki no Kyojin: The Final Season Part 2",
+            "sub": "12",
+            "dub": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-ODIRpBIbR5Eu.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/attack-on-titan-final-season-part-2",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery", "Psychological"],
+            "isAdult": true
+        },
+        {
+            "animeId": "attack-on-titan-the-final-season-part-3",
+            "episodeId": "attack-on-titan-the-final-season-part-3-episode-1",
+            "name": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+            "jname": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
+            "sub": "1",
+            "dub": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
+            "type": "special",
+            "episodeUrl": "anime/attack-on-titan-the-final-season-part-3",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery", "Psychological"],
+            "isAdult": true
+        },
+        {
+            "animeId": "attack-on-titan-the-final-season-part-4",
+            "episodeId": "attack-on-titan-the-final-season-part-4-episode-1",
+            "name": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
+            "jname": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+            "sub": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162314-ocaEhYmvznFO.jpg",
+            "type": "special",
+            "episodeUrl": "anime/attack-on-titan-the-final-season-part-4",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery", "Psychological", "Romance"],
+            "isAdult": true
+        },
+        {
             "animeId": "attack-on-titan-season-2",
             "episodeId": "attack-on-titan-season-2-episode-1",
             "name": "Attack on Titan Season 2",
