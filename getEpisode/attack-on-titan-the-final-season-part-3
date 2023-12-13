@@ -1,14 +1,11 @@
 [
         {
-            "server1": "t9q92u84ae84",
-            "animeNameWithEP": "Attack on Titan Final Season Part 3 Episode 1 Dubbed",
+            "server1": "rrbt48amwbbc",
+            "server2": "np6flf18cvit",
+            "animeNameWithEP": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
             "ep_num": "1",
             "anime_info": "attack-on-titan-the-final-season-part-3",
             "movie_id": "146984",
-            "alias": "attack-on-titan-the-final-season-part-3",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
-    ]
+]
