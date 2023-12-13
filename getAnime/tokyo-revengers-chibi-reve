@@ -69,6 +69,22 @@
 		"animeurl": "tokyo-revengers-season-2"
 	},
 	{
+		"id": 163329,
+		"malId": 54918,
+		"title": {
+			"romaji": "Tokyo Revengers: Tenjiku-hen",
+			"english": "Tokyo Revengers Season 3",
+			"native": "東京リベンジャーズ 天竺編"
+		},
+		"status": "Ongoing",
+		"episodes": 13,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163329-lGJRnYV9dcjc.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163329-SLDIMqtukB7B.jpg",
+		"rating": 77,
+		"type": "TV",
+		"animeurl": "tokyo-revengers-season-3"
+	},
+	{
 		"id": 132467,
 		"malId": 48735,
 		"title": {
