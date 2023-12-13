@@ -1,0 +1,1351 @@
+{
+    "id": "162314",
+    "title": {
+        "romaji": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Kouhen",
+        "english": "Attack on Titan Final Season THE FINAL CHAPTERS Special 2",
+        "native": "進撃の巨人 The Final Season完結編 後編"
+    },
+    "synonyms": [
+        "Shingeki no Kyojin: The Final Season Final Edition",
+        "Attack on Titan Final Season Part 3 Final Arc Part 2",
+        "Attack on Titan: The Final Season Part 4",
+        "Shingeki no Kyojin: The Final Season Part 4"
+    ],
+    "isLicensed": true,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "trailer": {
+        "id": "sBLsE-NKEoI",
+        "site": "youtube",
+        "thumbnail": "https://i.ytimg.com/vi/sBLsE-NKEoI/hqdefault.jpg"
+    },
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162314-ocaEhYmvznFO.jpg",
+    "popularity": 81757,
+    "color": "#5daee4",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162314-N5M4XMz6O1j4.jpg",
+    "description": "Eren, as the Founding Titan, advances on Fort Salta with countless other Titans. Appearing before the refugees, who stand on the brink of despair, are Mikasa, Armin, Jean, Conny, Reiner, Pieck, and Levi, who narrowly escaped from the rumbling. The battle between former comrades and childhood friends with Eren concludes here.\n<br><br>\n(Source: Crunchyroll)",
+    "status": "Completed",
+    "releaseDate": 2023,
+    "startDate": {
+        "year": 2023,
+        "month": 11,
+        "day": 5
+    },
+    "endDate": {
+        "year": 2023,
+        "month": 11,
+        "day": 5
+    },
+    "totalEpisodes": 1,
+    "currentEpisode": 1,
+    "rating": 87,
+    "duration": 85,
+    "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Romance"
+    ],
+    "season": "FALL",
+    "studios": [
+        "MAPPA"
+    ],
+    "subOrDub": "sub",
+    "type": "SPECIAL",
+    "recommendations": [{
+		"id": 16498,
+		"malId": 16498,
+		"title": {
+			"romaji": "Shingeki no Kyojin",
+			"english": "Attack on Titan",
+			"native": "進撃の巨人",
+			"userPreferred": "Attack on Titan"
+		},
+		"status": "Completed",
+		"episodes": 25,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/16498-8jpFCOcDmneX.jpg",
+		"rating": 84,
+		"type": "TV",
+		"animeurl": "attack-on-titan"
+	},{
+		"id": 20958,
+		"malId": 25777,
+		"title": {
+			"romaji": "Shingeki no Kyojin 2",
+			"english": "Attack on Titan Season 2",
+			"native": "進撃の巨人２",
+			"userPreferred": "Attack on Titan"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20958-HuFJyr54Mmir.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20958-Y7eQdz9VENBD.jpg",
+		"rating": 84,
+		"type": "TV",
+		"animeurl": "attack-on-titan-season-2"
+	},{
+		"id": 99147,
+		"malId": 35760,
+		"title": {
+			"romaji": "Shingeki no Kyojin 3",
+			"english": "Attack on Titan Season 3",
+			"native": "進撃の巨人３",
+			"userPreferred": "Attack on Titan"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99147-5RXELRvwjFl6.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99147-HACsFVrynFf5.jpg",
+		"rating": 85,
+		"type": "TV",
+		"animeurl": "attack-on-titan-season-3"
+	},{
+		"id": 104578,
+		"malId": 38524,
+		"title": {
+			"romaji": "Shingeki no Kyojin 3 Part 2",
+			"english": "Attack on Titan Season 3 Part 2",
+			"native": "進撃の巨人３ Part.2",
+			"userPreferred": "Attack on Titan"
+		},
+		"status": "Completed",
+		"episodes": 10,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104578-LaZYFkmhinfB.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104578-z7SadpYEuAsy.jpg",
+		"rating": 90,
+		"type": "TV",
+		"animeurl": "attack-on-titan-season-3-part-2"
+	},{
+		"id": 110277,
+		"malId": 40028,
+		"title": {
+			"romaji": "Shingeki no Kyojin: The Final Season",
+			"english": "Attack on Titan Final Season",
+			"native": "進撃の巨人 The Final Season",
+			"userPreferred": "Attack on Titan"
+		},
+		"status": "Completed",
+		"episodes": 16,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110277-qDRIhu50PXzz.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110277-iuGn6F5bK1U1.jpg",
+		"rating": 87,
+		"type": "TV",
+		"animeurl": "attack-on-titan-final-season"
+	},{
+		"id": 131681,
+		"malId": 48583,
+		"title": {
+			"romaji": "Shingeki no Kyojin: The Final Season Part 2",
+			"english": "Attack on Titan Final Season Part 2",
+			"native": "進撃の巨人 The Final Season Part 2",
+			"userPreferred": "Attack on Titan"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131681-ODIRpBIbR5Eu.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131681-vqkjDYQQpAQ9.jpg",
+		"rating": 86,
+		"type": "TV",
+		"animeurl": "attack-on-titan-final-season-part-2"
+	},{
+		"id": 146984,
+		"malId": 51535,
+		"title": {
+			"romaji": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
+			"english": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+			"native": "進撃の巨人 The Final Season完結編 前編",
+			"userPreferred": "Attack on Titan"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146984-yAkTtW2AExVj.jpg",
+		"rating": null,
+		"type": "TV",
+		"animeurl": "attack-on-titan-the-final-season-part-3"
+	},{
+		"id": 20691,
+		"malId": 23775,
+		"title": {
+			"romaji": "Shingeki no Kyojin Zenpen: Guren no Yumiya",
+			"english": "Attack on Titan Part I: Crimson Bow and Arrow",
+			"native": "劇場版「進撃の巨人」前編～紅蓮の弓矢～"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20691-dnv0rkpbgBDJ.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20691-xKJkvnhezBb0.jpg",
+		"rating": 74,
+		"type": "movie",
+		"animeurl": "attack-on-titan-part-i-crimson-bow-and-arrow"
+	},{
+		"id": 20692,
+		"malId": 23777,
+		"title": {
+			"romaji": "Shingeki no Kyojin Kouhen: Jiyuu no Tsubasa",
+			"english": "Attack on Titan Part II: Wings of Freedom",
+			"native": "劇場版「進撃の巨人」後編～自由の翼～"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20692-fSDEpfDtDg9u.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20692.jpg",
+		"rating": 75,
+		"type": "movie",
+		"animeurl": "attack-on-titan-part-ii-wings-of-freedom"
+	},{
+		"id": 20811,
+		"malId": 25781,
+		"title": {
+			"romaji": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
+			"english": "Attack on Titan: No Regrets",
+			"native": "進撃の巨人 外伝 悔いなき選択"
+		},
+		"status": "Completed",
+		"episodes": 2,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20811-IvXLdxZkYNcP.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20811-xIuYL1yGMT5S.jpg",
+		"rating": 82,
+		"type": "OVA",
+		"animeurl": "attack-on-titan-no-regrets"
+	},{
+		"id": 99634,
+		"malId": 36106,
+		"title": {
+			"romaji": "Shingeki no Kyojin: LOST GIRLS",
+			"english": "Attack on Titan: Lost Girls",
+			"native": "進撃の巨人 LOST GIRLS"
+		},
+		"status": "Completed",
+		"episodes": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99634-9u4hdvWwmC2s.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99634-m8hKbCnDL2ue.png",
+		"rating": 77,
+		"type": "OVA",
+		"animeurl": "attack-on-titan-lost-girls"
+	},{
+		"id": 100465,
+		"malId": 36702,
+		"title": {
+			"romaji": "Shingeki no Kyojin Season 2: Kakusei no Houkou",
+			"english": "Attack on Titan: The Roar of Awakening",
+			"native": "劇場版「進撃の巨人」Season 2～覚醒の咆哮～"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100465-ivKS0RqXg5dI.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100465-DKP3jObknheV.jpg",
+		"rating": 76,
+		"type": "movie",
+		"animeurl": "attack-on-titan-the-roar-of-awakening"
+	},{
+		"id": 119113,
+		"malId": 42091,
+		"title": {
+			"romaji": "Shingeki no Kyojin: Chronicle",
+			"english": "Attack on Titan ~Chronicle~",
+			"native": "進撃の巨人 〜クロニクル〜"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119113-IzVI5oZ0og8O.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119113-IzVI5oZ0og8O.jpg",
+		"rating": 76,
+		"type": "movie",
+		"animeurl": "attack-on-titan-chronicle"
+	},{
+		"id": 18397,
+		"malId": 18397,
+		"title": {
+			"romaji": "Shingeki no Kyojin OVA",
+			"english": "Attack on Titan OVA",
+			"native": "進撃の巨人 OVA"
+		},
+		"status": "Completed",
+		"episodes": 3,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18397-AnpwhLkSjYL1.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/18397-rG4Vpg67Kr0j.jpg",
+		"rating": 76,
+		"type": "OVA",
+		"animeurl": "attack-on-titan-ova"
+	},{
+		"id": 21281,
+		"malId": 31374,
+		"title": {
+			"romaji": "Shingeki! Kyojin Chuugakkou",
+			"english": "Attack on Titan: Junior High",
+			"native": "進撃！巨人中学校"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21281-GwCKcZii6fVf.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21281-NJqGktD33FWm.jpg",
+		"rating": 70,
+		"type": "tv",
+		"animeurl": "attack-on-titan-junior-high"
+	},{
+		"id": 19391,
+		"malId": 19391,
+		"title": {
+			"romaji": "Shingeki no Kyojin: Chimi Kyara Gekijou - Tondeke! Kunren Heidan",
+			"english": "Attack on Titan Picture Drama",
+			"native": "「進撃の巨人」ちみキャラ劇場\"とんでけ! 訓練兵団\""
+		},
+		"status": "Completed",
+		"episodes": 9,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19391.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19391.jpg",
+		"rating": 62,
+		"type": "special",
+		"animeurl": "attack-on-titan-picture-drama"
+	},{
+		"id": 108942,
+		"malId": 39477,
+		"title": {
+			"romaji": "Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han",
+			"english": "Attack on Titan: Chibi Theater - Survey Corps, Levi Squad!",
+			"native": "｢進撃の巨人｣ちみキャラ劇場”新生リヴァイ班”"
+		},
+		"status": "Completed",
+		"episodes": 7,
+		"image": "https://static.bunnycdn.ru/i/cache/images/a/a6/a66765b28010576a940c830ee048aee3.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108942-UdPtw4CZUQmC.jpg",
+		"rating": 75,
+		"type": "special",
+		"animeurl": "attack-on-titan-survey-corps-levi-squad"
+	},{
+		"id": 139754,
+		"malId": 49627,
+		"title": {
+			"romaji": "Shingeki no Kyojin: Chimi Kyara Gekijou - Final",
+			"english": "Attack on Titan: Chibi Theater - Survey Corps, The Final",
+			"native": "「進撃の巨人」ちみキャラ劇場 \"ファイナル\""
+		},
+		"status": "Completed",
+		"episodes": 7,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139754-tws6cBmwEWPF.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139754-tws6cBmwEWPF.jpg",
+		"rating": 75,
+		"type": "special",
+		"animeurl": "attack-on-titan-survey-corps-the-final"
+	}],
+    "characters": [
+        {
+            "id": 40882,
+            "role": "MAIN",
+            "name": {
+                "first": "Eren",
+                "last": "Yeager",
+                "full": "Eren Yeager",
+                "native": "エレン・イェーガー",
+                "userPreferred": "Eren Yeager"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40882-dsj7IP943WFF.jpg",
+            "voiceActors": [
+                {
+                    "id": 95672,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Yuuki",
+                        "last": "Kaji",
+                        "full": "Yuuki Kaji",
+                        "native": "梶裕貴",
+                        "userPreferred": "Yuuki Kaji"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-RN4nm0OFwCyU.png"
+                },
+                {
+                    "id": 95732,
+                    "language": "English",
+                    "name": {
+                        "first": "Bryce",
+                        "last": "Papenbrook",
+                        "full": "Bryce Papenbrook",
+                        "native": null,
+                        "userPreferred": "Bryce Papenbrook"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/732.jpg"
+                },
+                {
+                    "id": 153463,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Lucas",
+                        "last": "Almeida",
+                        "full": "Lucas Almeida",
+                        "native": null,
+                        "userPreferred": "Lucas Almeida"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153463-MF7Z63vMJ47o.jpg"
+                }
+            ]
+        },
+        {
+            "id": 46494,
+            "role": "MAIN",
+            "name": {
+                "first": "Armin",
+                "last": "Arlert",
+                "full": "Armin Arlert",
+                "native": "アルミン・アルレルト",
+                "userPreferred": "Armin Arlert"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46494-g7xYYuBtYPnO.png",
+            "voiceActors": [
+                {
+                    "id": 95158,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Marina",
+                        "last": "Inoue",
+                        "full": "Marina Inoue",
+                        "native": "井上麻里奈",
+                        "userPreferred": "Marina Inoue"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg"
+                },
+                {
+                    "id": 96047,
+                    "language": "English",
+                    "name": {
+                        "first": "Jessie James",
+                        "last": "Grelle",
+                        "full": "Jessie James Grelle",
+                        "native": null,
+                        "userPreferred": "Jessie James Grelle"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96047-E9nBWn3YL0Tn.jpg"
+                },
+                {
+                    "id": 197181,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Pedro",
+                        "last": "Volpato",
+                        "full": "Pedro Volpato",
+                        "native": null,
+                        "userPreferred": "Pedro Volpato"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197181-nfs4vEHAahR1.jpg"
+                }
+            ]
+        },
+        {
+            "id": 40881,
+            "role": "MAIN",
+            "name": {
+                "first": "Mikasa",
+                "last": "Ackerman",
+                "full": "Mikasa Ackerman",
+                "native": "ミカサ・アッカーマン",
+                "userPreferred": "Mikasa Ackerman"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40881-F3gr1PkreDvj.png",
+            "voiceActors": [
+                {
+                    "id": 100142,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Yui",
+                        "last": "Ishikawa",
+                        "full": "Yui Ishikawa",
+                        "native": "石川由依",
+                        "userPreferred": "Yui Ishikawa"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100142-k6RP0HzXffUG.png"
+                },
+                {
+                    "id": 96804,
+                    "language": "English",
+                    "name": {
+                        "first": "Trina",
+                        "last": "Nishimura",
+                        "full": "Trina Nishimura",
+                        "native": null,
+                        "userPreferred": "Trina Nishimura"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96804-0OKQgacznkZ4.png"
+                },
+                {
+                    "id": 197179,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Mayara",
+                        "last": "Stefane",
+                        "full": "Mayara Stefane",
+                        "native": null,
+                        "userPreferred": "Mayara Stefane"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197179-8LdIskXBQQJC.jpg"
+                }
+            ]
+        },
+        {
+            "id": 46498,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Jean",
+                "last": "Kirstein",
+                "full": "Jean Kirstein",
+                "native": "ジャン・キルシュタイン",
+                "userPreferred": "Jean Kirstein"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png",
+            "voiceActors": [
+                {
+                    "id": 95196,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kishou",
+                        "last": "Taniyama",
+                        "full": "Kishou Taniyama",
+                        "native": "谷山紀章",
+                        "userPreferred": "Kishou Taniyama"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95196-t2vbxQMee0ci.png"
+                },
+                {
+                    "id": 95202,
+                    "language": "English",
+                    "name": {
+                        "first": "Mike",
+                        "last": "McFarland",
+                        "full": "Mike McFarland",
+                        "native": null,
+                        "userPreferred": "Mike McFarland"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/202.jpg"
+                },
+                {
+                    "id": 197971,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Bernardo",
+                        "last": "Berro",
+                        "full": "Bernardo Berro",
+                        "native": null,
+                        "userPreferred": "Bernardo Berro"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197971-ZYla1AgNR6Xe.jpg"
+                }
+            ]
+        },
+        {
+            "id": 62477,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Grisha",
+                "last": "Yeager",
+                "full": "Grisha Yeager",
+                "native": "グリシャ・イェーガー",
+                "userPreferred": "Grisha Yeager"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62477-3AHBGul9bXK8.jpg",
+            "voiceActors": [
+                {
+                    "id": 101214,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Hiroshi",
+                        "last": "Tsuchida",
+                        "full": "Hiroshi Tsuchida",
+                        "native": "土田大",
+                        "userPreferred": "Hiroshi Tsuchida"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101214-kvHCKwu88FcF.png"
+                },
+                {
+                    "id": 185359,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Sérgio",
+                        "last": "Moreno",
+                        "full": "Sérgio Moreno",
+                        "native": null,
+                        "userPreferred": "Sérgio Moreno"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185359-GQ2sbmQDhSLi.jpg"
+                }
+            ]
+        },
+        {
+            "id": 125660,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Falco",
+                "last": "Grice",
+                "full": "Falco Grice",
+                "native": "ファルコ・グライス",
+                "userPreferred": "Falco Grice"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125660-mrmpOJLjJIkv.jpg",
+            "voiceActors": [
+                {
+                    "id": 111635,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Natsuki",
+                        "last": "Hanae",
+                        "full": "Natsuki Hanae",
+                        "native": "花江夏樹",
+                        "userPreferred": "Natsuki Hanae"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png"
+                },
+                {
+                    "id": 128751,
+                    "language": "English",
+                    "name": {
+                        "first": "Bryson",
+                        "last": "Baugus",
+                        "full": "Bryson Baugus",
+                        "native": null,
+                        "userPreferred": "Bryson Baugus"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128751-F22P5B8FUBh5.jpg"
+                },
+                {
+                    "id": 188229,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Gabriel",
+                        "last": "Martins",
+                        "full": "Gabriel Martins",
+                        "native": "Gabriel Martins Oliveira da Costa",
+                        "userPreferred": "Gabriel Martins"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n188229-Zgt4hxNUOEK7.png"
+                }
+            ]
+        },
+        {
+            "id": 46490,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Annie",
+                "last": "Leonhart",
+                "full": "Annie Leonhart",
+                "native": "アニ・レオンハート",
+                "userPreferred": "Annie Leonhart"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg",
+            "voiceActors": [
+                {
+                    "id": 100295,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Yuu",
+                        "last": "Shimamura",
+                        "full": "Yuu Shimamura",
+                        "native": "嶋村侑",
+                        "userPreferred": "Yuu Shimamura"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100295-d7CPqlz4jGaT.png"
+                },
+                {
+                    "id": 102993,
+                    "language": "English",
+                    "name": {
+                        "first": "Lauren",
+                        "last": "Landa",
+                        "full": "Lauren Landa",
+                        "native": null,
+                        "userPreferred": "Lauren Landa"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102993-gxDKjC1EvJ4S.jpg"
+                },
+                {
+                    "id": 197180,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Maitê",
+                        "last": "Cunha",
+                        "full": "Maitê Cunha",
+                        "native": null,
+                        "userPreferred": "Maitê Cunha"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n197180-Nwhc1jh6wPLo.png"
+                }
+            ]
+        },
+        {
+            "id": 131257,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Annie no Chichi",
+                "last": "",
+                "full": "Annie no Chichi",
+                "native": "アニの父",
+                "userPreferred": "Annie no Chichi"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131257-EywhPQF0aqVU.png",
+            "voiceActors": [
+                {
+                    "id": 95045,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kouji",
+                        "last": "Ishii",
+                        "full": "Kouji Ishii",
+                        "native": "石井康嗣",
+                        "userPreferred": "Kouji Ishii"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95045-xvCXMLXwg44s.jpg"
+                },
+                {
+                    "id": 239504,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Henrique",
+                        "last": "Canales",
+                        "full": "Henrique Canales",
+                        "native": null,
+                        "userPreferred": "Henrique Canales"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n239504-AdtF27599TjO.jpg"
+                }
+            ]
+        },
+        {
+            "id": 46484,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Reiner",
+                "last": "Braun",
+                "full": "Reiner Braun",
+                "native": "ライナー・ブラウン",
+                "userPreferred": "Reiner Braun"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png",
+            "voiceActors": [
+                {
+                    "id": 100626,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Yoshimasa",
+                        "last": "Hosoya",
+                        "full": "Yoshimasa Hosoya",
+                        "native": "細谷佳正",
+                        "userPreferred": "Yoshimasa Hosoya"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg"
+                },
+                {
+                    "id": 95666,
+                    "language": "English",
+                    "name": {
+                        "first": "Robert",
+                        "last": "McCollum",
+                        "full": "Robert McCollum",
+                        "native": null,
+                        "userPreferred": "Robert McCollum"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95666-er3JLtqV1TLy.jpg"
+                },
+                {
+                    "id": 185360,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Dláigelles",
+                        "last": "Silva",
+                        "full": "Dláigelles Silva",
+                        "native": null,
+                        "userPreferred": "Dláigelles Silva"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185360-dhIVYZrnsP6q.jpg"
+                }
+            ]
+        },
+        {
+            "id": 192909,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Onyankopon",
+                "last": null,
+                "full": "Onyankopon",
+                "native": "オニャンコポン",
+                "userPreferred": "Onyankopon"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192909-81EoCndP0uEH.png",
+            "voiceActors": [
+                {
+                    "id": 205637,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kouji",
+                        "last": "Hiwatari",
+                        "full": "Kouji Hiwatari",
+                        "native": "樋渡宏嗣",
+                        "userPreferred": "Kouji Hiwatari"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n205637-TgfpQubU1p5p.png"
+                },
+                {
+                    "id": 153461,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Wallace",
+                        "last": "Raj",
+                        "full": "Wallace Raj",
+                        "native": null,
+                        "userPreferred": "Wallace Raj"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153461-QYEa2DOeXu6p.jpg"
+                }
+            ]
+        },
+        {
+            "id": 299827,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Muller",
+                "last": null,
+                "full": "Muller",
+                "native": "ミュラー",
+                "userPreferred": "Muller"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299827-fNz0IBb3BEoQ.png",
+            "voiceActors": [
+                {
+                    "id": 96538,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Yutaka",
+                        "last": "Aoyama",
+                        "full": "Yutaka Aoyama",
+                        "native": "青山穣",
+                        "userPreferred": "Yutaka Aoyama"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96538-mM7J8gp87gut.jpg"
+                },
+                {
+                    "id": 182481,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Ronaldo",
+                        "last": "Júlio",
+                        "full": "Ronaldo Júlio",
+                        "native": null,
+                        "userPreferred": "Ronaldo Júlio"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182481-6owdSPaiqCp8.jpg"
+                }
+            ]
+        },
+        {
+            "id": 125659,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Gabi",
+                "last": "Braun",
+                "full": "Gabi Braun",
+                "native": "ガビ ブラウン",
+                "userPreferred": "Gabi Braun"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125659-O37MZQWibV7g.png",
+            "voiceActors": [
+                {
+                    "id": 106622,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Ayane",
+                        "last": "Sakura",
+                        "full": "Ayane Sakura",
+                        "native": "佐倉綾音",
+                        "userPreferred": "Ayane Sakura"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png"
+                },
+                {
+                    "id": 105881,
+                    "language": "English",
+                    "name": {
+                        "first": "Lindsay",
+                        "last": "Seidel",
+                        "full": "Lindsay Seidel",
+                        "native": null,
+                        "userPreferred": "Lindsay Seidel"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105881-R2gLLpOtfReq.jpg"
+                },
+                {
+                    "id": 207634,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Stephany",
+                        "last": "Custodi",
+                        "full": "Stephany Custodi",
+                        "native": null,
+                        "userPreferred": "Stephany Custodi"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n207634-Txu2euK9cB85.jpg"
+                }
+            ]
+        },
+        {
+            "id": 199551,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Ymir",
+                "last": "Fritz",
+                "full": "Ymir Fritz",
+                "native": "ユミル・フリッツ",
+                "userPreferred": "Ymir Fritz"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199551-UNzb9vgcbOIx.png",
+            "voiceActors": []
+        },
+        {
+            "id": 199717,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Gabi Chichi",
+                "last": null,
+                "full": "Gabi Chichi",
+                "native": "ガビ父",
+                "userPreferred": "Gabi Chichi"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199717-CwA94ex4HICW.png",
+            "voiceActors": [
+                {
+                    "id": 127684,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Masamichi",
+                        "last": "Kitada",
+                        "full": "Masamichi Kitada",
+                        "native": "北田理道",
+                        "userPreferred": "Masamichi Kitada"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127684-nD8SGYeDXcT8.jpg"
+                }
+            ]
+        },
+        {
+            "id": 46486,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Connie",
+                "last": "Springer",
+                "full": "Connie Springer",
+                "native": "コニー・スプリンガー",
+                "userPreferred": "Connie Springer"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png",
+            "voiceActors": [
+                {
+                    "id": 95356,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Hiro",
+                        "last": "Shimono",
+                        "full": "Hiro Shimono",
+                        "native": "下野紘",
+                        "userPreferred": "Hiro Shimono"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png"
+                },
+                {
+                    "id": 119609,
+                    "language": "English",
+                    "name": {
+                        "first": "Clifford",
+                        "last": "Chapin",
+                        "full": "Clifford Chapin",
+                        "native": null,
+                        "userPreferred": "Clifford Chapin"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119609-0LGmxEBb7PS9.jpg"
+                },
+                {
+                    "id": 198076,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Diego",
+                        "last": "Diniz",
+                        "full": "Diego Diniz",
+                        "native": null,
+                        "userPreferred": "Diego Diniz"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198076-BEdJfx0NcCEp.jpg"
+                }
+            ]
+        },
+        {
+            "id": 62481,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Krista",
+                "last": "Lenz",
+                "full": "Krista Lenz",
+                "native": "クリスタ・レンズ",
+                "userPreferred": "Krista Lenz"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
+            "voiceActors": [
+                {
+                    "id": 106236,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Shiori",
+                        "last": "Mikami",
+                        "full": "Shiori Mikami",
+                        "native": "三上枝織",
+                        "userPreferred": "Shiori Mikami"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106236-aGhlIhHPPtjc.png"
+                },
+                {
+                    "id": 190550,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Giulia",
+                        "last": "de Brito",
+                        "full": "Giulia de Brito",
+                        "native": null,
+                        "userPreferred": "Giulia de Brito"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190550-31fc3LnG3lEk.jpg"
+                }
+            ]
+        },
+        {
+            "id": 199715,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Colt Chichi",
+                "last": null,
+                "full": "Colt Chichi",
+                "native": "コルト父",
+                "userPreferred": "Colt Chichi"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199715-lJcx7TnbuN5Q.png",
+            "voiceActors": [
+                {
+                    "id": 198641,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Motoki",
+                        "last": "Sakuma",
+                        "full": "Motoki Sakuma",
+                        "native": "佐久間元輝",
+                        "userPreferred": "Motoki Sakuma"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198641-asEtMrB8qh84.jpg"
+                }
+            ]
+        },
+        {
+            "id": 71121,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Hange",
+                "last": "Zoe",
+                "full": "Hange Zoe",
+                "native": "ハンジ・ゾエ",
+                "userPreferred": "Hange Zoe"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71121-7R7CnQd3lHgt.png",
+            "voiceActors": [
+                {
+                    "id": 95082,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Romi",
+                        "last": "Park",
+                        "full": "Romi Park",
+                        "native": "朴璐美",
+                        "userPreferred": "Romi Park"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95082-pNGbnYv4cHAK.png"
+                },
+                {
+                    "id": 96048,
+                    "language": "English",
+                    "name": {
+                        "first": "Jessica",
+                        "last": "Calvello",
+                        "full": "Jessica Calvello",
+                        "native": null,
+                        "userPreferred": "Jessica Calvello"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96048-jnCHXjbHtDMh.jpg"
+                },
+                {
+                    "id": 199394,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Paola",
+                        "last": "Molinari",
+                        "full": "Paola Molinari",
+                        "native": null,
+                        "userPreferred": "Paola Molinari"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n199394-woYf7ea0SDcf.jpg"
+                }
+            ]
+        },
+        {
+            "id": 199712,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Karina",
+                "last": "Braun",
+                "full": "Karina Braun",
+                "native": "カリナ・ブラウン",
+                "userPreferred": "Karina Braun"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199712-YOV8LXBcQT1R.png",
+            "voiceActors": [
+                {
+                    "id": 96463,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Atsuko",
+                        "last": "Yuya",
+                        "full": "Atsuko Yuya",
+                        "native": "湯屋敦子",
+                        "userPreferred": "Atsuko Yuya"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96463-FrXKgtjzzqNF.png"
+                },
+                {
+                    "id": 261665,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Suzete",
+                        "last": "Piloto",
+                        "full": "Suzete Piloto",
+                        "native": null,
+                        "userPreferred": "Suzete Piloto"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+                }
+            ]
+        },
+        {
+            "id": 45627,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Levi",
+                "last": "",
+                "full": "Levi",
+                "native": "リヴァイ",
+                "userPreferred": "Levi"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45627-CR68RyZmddGG.png",
+            "voiceActors": [
+                {
+                    "id": 95118,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Hiroshi",
+                        "last": "Kamiya",
+                        "full": "Hiroshi Kamiya",
+                        "native": "神谷浩史",
+                        "userPreferred": "Hiroshi Kamiya"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+                },
+                {
+                    "id": 109213,
+                    "language": "English",
+                    "name": {
+                        "first": "Matthew",
+                        "last": "Mercer",
+                        "full": "Matthew Mercer",
+                        "native": "Matthew Christopher Miller",
+                        "userPreferred": "Matthew Mercer"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109213-mMlmuym6yRHQ.jpg"
+                },
+                {
+                    "id": 190265,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Bruno",
+                        "last": "Sangregório",
+                        "full": "Bruno Sangregório",
+                        "native": null,
+                        "userPreferred": "Bruno Sangregório"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190265-ECLpJul29fUS.png"
+                }
+            ]
+        },
+        {
+            "id": 125603,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Pieck",
+                "last": "Finger",
+                "full": "Pieck Finger",
+                "native": "ピーク・フィンガー",
+                "userPreferred": "Pieck Finger"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125603-Z2rgiHUGbAmY.png",
+            "voiceActors": [
+                {
+                    "id": 104973,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Manami",
+                        "last": "Numakura",
+                        "full": "Manami Numakura",
+                        "native": "沼倉愛美",
+                        "userPreferred": "Manami Numakura"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104973-rymSxCu8uP0Y.png"
+                },
+                {
+                    "id": 128618,
+                    "language": "English",
+                    "name": {
+                        "first": "Amber Lee",
+                        "last": "Connors",
+                        "full": "Amber Lee Connors",
+                        "native": null,
+                        "userPreferred": "Amber Lee Connors"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128618-qtI1N5PFktoR.jpg"
+                },
+                {
+                    "id": 184113,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Patt",
+                        "last": "Souza",
+                        "full": "Patt Souza",
+                        "native": null,
+                        "userPreferred": "Patt Souza"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184113-CtpoOFeDQe5q.jpg"
+                }
+            ]
+        },
+        {
+            "id": 125661,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Zeke",
+                "last": "",
+                "full": "Zeke",
+                "native": "ジーク",
+                "userPreferred": "Zeke"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125661-FiqFvAtNlL0v.png",
+            "voiceActors": [
+                {
+                    "id": 95160,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Takehito",
+                        "last": "Koyasu",
+                        "full": "Takehito Koyasu",
+                        "native": "子安武人",
+                        "userPreferred": "Takehito Koyasu"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+                },
+                {
+                    "id": 95650,
+                    "language": "English",
+                    "name": {
+                        "first": "Jason",
+                        "last": "Liebrecht",
+                        "full": "Jason Liebrecht",
+                        "native": null,
+                        "userPreferred": "Jason Liebrecht"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95650-jLPHOvW60DX3.jpg"
+                },
+                {
+                    "id": 201253,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Pierre",
+                        "last": "Bittencourt",
+                        "full": "Pierre Bittencourt",
+                        "native": null,
+                        "userPreferred": "Pierre Bittencourt"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201253-IhdJqwhx1KPX.jpg"
+                }
+            ]
+        },
+        {
+            "id": 36309,
+            "role": "BACKGROUND",
+            "name": {
+                "first": "Narrator",
+                "last": null,
+                "full": "Narrator",
+                "native": "ナレーター",
+                "userPreferred": "Narrator"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg",
+            "voiceActors": [
+                {
+                    "id": 106236,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Shiori",
+                        "last": "Mikami",
+                        "full": "Shiori Mikami",
+                        "native": "三上枝織",
+                        "userPreferred": "Shiori Mikami"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106236-aGhlIhHPPtjc.png"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "id": 53390,
+            "relationType": "ADAPTATION",
+            "malId": 23390,
+            "title": {
+                "romaji": "Shingeki no Kyojin",
+                "english": "Attack on Titan",
+                "native": "進撃の巨人",
+                "userPreferred": "Shingeki no Kyojin"
+            },
+            "status": "Completed",
+            "episodes": null,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx53390-1RsuABC34P9D.jpg",
+            "color": "#d6431a",
+            "type": "MANGA",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/53390-6Uru5rrjh8zv.jpg",
+            "rating": 84
+        },
+        {
+            "id": 146984,
+            "relationType": "PREQUEL",
+            "malId": 51535,
+            "title": {
+                "romaji": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
+                "english": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1",
+                "native": "進撃の巨人 The Final Season完結編 前編",
+                "userPreferred": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen"
+            },
+            "status": "Completed",
+            "episodes": 1,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146984-EnCsTCpLyIBi.jpg",
+            "color": "#ffae35",
+            "type": "SPECIAL",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146984-yAkTtW2AExVj.jpg",
+            "rating": 88
+        }
+    ],
+    "episodes": [{
+		"id": "attack-on-titan-the-final-season-part-4-episode-1",
+		"title": "The Final Chapters (Part 2)",
+		"description": "",
+		"number": 1,
+		"image": "https://static.wikia.nocookie.net/shingekinokyojin/images/3/32/Attack_on_Titan_-_Episode_SP2_Title_Card.png/revision/latest/scale-to-width-down/200?cb=20231105155147",
+		"airDate": ""
+	}]
+}
