@@ -37,8 +37,8 @@
 		"timeUntilAiring": 600464,
 		"episode": 3
 	},
-	"totalEpisodes": 11,
-	"currentEpisode": 11,
+	"totalEpisodes": 20,
+	"currentEpisode": 20,
 	"rating": 81,
 	"duration": 24,
 	"genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
@@ -666,82 +666,143 @@
 		"notify.moe": "epEQ9yQMg",
 		"anime-planet": "dr-stone-new-world"
 	},
-	"episodes": [{
-		"id": "dr-stone-new-world-episode-1",
-		"title": "New World Map",
-		"description": "With Ryusui in tow, Senku and Kohaku survey the area around the Kingdom of Science from the air in search of resources for their ocean journey.",
-		"number": 1,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9372021/screencap/642ed86e305a9.jpg",
-		"airDate": "2023-04-06T00:00:00.000Z"
-	}, {
-		"id": "dr-stone-new-world-episode-2",
-		"title": "Greed Equals Justice",
-		"description": "Senku succeeds in making bread, but Ryusui demands something better! So they set off after François, who was part of Ryusui's life in the past.",
-		"number": 2,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687329/screencap/643813b0601bb.jpg",
-		"airDate": "2023-04-13T00:00:00.000Z"
-	}, {
-		"id": "dr-stone-new-world-episode-3",
-		"title": "First Contact",
-		"description": "Senku, brings along a team to look for the Sagara Oil Fields. Meanwhile, Suika and Francois go truffle hunting.",
-		"number": 3,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687330/screencap/64412f7ff0156.jpg",
-		"airDate": "2023-04-20T00:00:00.000Z"
-	}, {
-		"id": "dr-stone-new-world-episode-4",
-		"title": "Eyes of Science",
-		"description": "Senku and company discover a message in morse code and must hurry on their trip to the other side of the world. But how can they see an invisible enemy? For that they will need to use the eyes of science.",
-		"number": 4,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687331/screencap/64499d7edc8e3.jpg",
-		"airDate": "2023-04-27T00:00:00.000Z"
-	}, {
-		"id": "dr-stone-new-world-episode-5",
-		"title": "Science Vessel Perseus",
-		"description": "Kaseki's efforts to build the science vessel Perseus hit a roadblock when he realizes that it's impossible to get all the parts to fit in practice.",
-		"number": 5,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687332/screencap/644ec5c4f0178.jpg",
-		"airDate": "2023-05-04T00:00:00.000Z"
-	}, {
-		"id": "dr-stone-new-world-episode-6",
-		"title": "Treasure Box",
-		"description": "Senku and company finally left aboard the Science Ship Perseus! The first objective is to reach the treasure island where the Soyuz spacecraft crashed with important materials to continue the journey. In the midst of this, a mysterious figure comes forward with new information.",
-		"number": 6,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687333/screencap/645907558c18f.jpg",
-		"airDate": "2023-05-11T00:00:00.000Z"
-	}, {
-		"id": "dr-stone-new-world-episode-7",
-		"title": "Ray of Despair, Ray of Hope",
-		"description": "The Perseus arrives at the treasure island. A recon squad consisting of Senku, Soyuz, Kohaku, and Gen set off to locate the platinum and make contact with the islanders. Ukyo later discovers something on the seafloor and send Ginro to investigate.",
-		"number": 7,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687334/screencap/6464242ce49f0.jpg",
-		"airDate": "2023-05-18T00:00:00.000Z"
-	}, {
-		"id": "dr-stone-new-world-episode-8",
-		"title": "The Trump Card Aboard the Science Vessel",
-		"description": "Amaryllis tells the story of how he saw petrification first-hand, and now Senku and company need a plan to uncover the mysteries behind it. However, in order to fulfil their objective, they will need the laboratory... which is inside the ship, along with the enemies that have the power of petrification!",
-		"number": 8,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687335/screencap/646cff709882f.jpg",
-		"airDate": "2023-05-25T00:00:00.000Z"
-	}, {
-		"id": "dr-stone-new-world-episode-9",
-		"title": "Beautiful Science",
-		"description": "Suika and Ginro work together to rescue the mobile lab from the Perseus. Reunited with Senku and the others, the group works on items to help Kohaku with the selection process.",
-		"number": 9,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687336/screencap/647558d36502d.jpg",
-		"airDate": "2023-06-01T00:00:00.000Z"
-	}, {
-		"id": "dr-stone-new-world-episode-10",
-		"title": "Science Wars",
-		"description": "Amaryllis, Ginro and Kohaku are chosen to join the inner palace. The science team will need a way to communicate with them in secret, and, eventually, a way for them with the science team.",
-		"number": 10,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687337/screencap/647e2147549f0.jpg",
-		"airDate": "2023-06-08T00:00:00.000Z"
-	}, {
-		"id": "dr-stone-new-world-episode-11",
-		"title": "With This Fist, a Miracle",
-		"description": "Kohaku has located the treasure left behind by Byakuya and the others, but it's encased in concrete. Senku has to devise a plan to quietly get at the contents inside, so as to not alert the guards.",
-		"number": 11,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9687338/screencap/648766f694af2.jpg",
-		"airDate": "2023-06-15T00:00:00.000Z"
-	}]
+	"episodes": [        {
+            "id": "dr-stone-new-world-episode-1",
+            "title": "New World Map",
+            "description": "With Ryusui in tow, Senku and Kohaku survey the area around the Kingdom of Science from the air in search of resources for their ocean journey.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9372021/screencap/642ed86e305a9.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-2",
+            "title": "Greed Equals Justice",
+            "description": "Senku succeeds in making bread, but Ryusui demands something better! So they set off after François, who was part of Ryusui's life in the past.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9687329/screencap/643813b0601bb.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-3",
+            "title": "First Contact",
+            "description": "Senku, brings along a team to look for the Sagara Oil Fields. Meanwhile, Suika and Francois go truffle hunting.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9687330/screencap/64412f7ff0156.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-4",
+            "title": "Eyes of Science",
+            "description": "Senku and company discover a message in morse code and must hurry on their trip to the other side of the world. But how can they see an invisible enemy? For that they will need to use the eyes of science.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9687331/screencap/64499d7edc8e3.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-5",
+            "title": "Science Vessel Perseus",
+            "description": "Kaseki's efforts to build the science vessel Perseus hit a roadblock when he realizes that it's impossible to get all the parts to fit in practice.",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9687332/screencap/644ec5c4f0178.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-6",
+            "title": "Treasure Box",
+            "description": "Senku and company finally left aboard the Science Ship Perseus! The first objective is to reach the treasure island where the Soyuz spacecraft crashed with important materials to continue the journey. In the midst of this, a mysterious figure comes forward with new information.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9687333/screencap/645907558c18f.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-7",
+            "title": "Ray of Despair, Ray of Hope",
+            "description": "The Perseus arrives at the treasure island. A recon squad consisting of Senku, Soyuz, Kohaku, and Gen set off to locate the platinum and make contact with the islanders. Ukyo later discovers something on the seafloor and send Ginro to investigate.",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9687334/screencap/6464242ce49f0.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-8",
+            "title": "The Trump Card Aboard the Science Vessel",
+            "description": "Amaryllis tells the story of how he saw petrification first-hand, and now Senku and company need a plan to uncover the mysteries behind it. However, in order to fulfil their objective, they will need the laboratory... which is inside the ship, along with the enemies that have the power of petrification!",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9687335/screencap/646cff709882f.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-9",
+            "title": "Beautiful Science",
+            "description": "Suika and Ginro work together to rescue the mobile lab from the Perseus. Reunited with Senku and the others, the group works on items to help Kohaku with the selection process.",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9687336/screencap/647558d36502d.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-10",
+            "title": "Science Wars",
+            "description": "Amaryllis, Ginro and Kohaku are chosen to join the inner palace. The science team will need a way to communicate with them in secret, and, eventually, a way for them with the science team.",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9687337/screencap/647e2147549f0.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-11",
+            "title": "With This Fist, a Miracle",
+            "description": "Kohaku has located the treasure left behind by Byakuya and the others, but it's encased in concrete. Senku has to devise a plan to quietly get at the contents inside, so as to not alert the guards.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9687338/screencap/648766f694af2.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-12",
+            "title": "The Kingdom of Science Strikes Back",
+            "description": "Kohaku is forced to destroy Ryusui's statue to prove that she isn't a spy.",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9687339/screencap/65255ed8115bc.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-13",
+            "title": "The Medusa's True Face",
+            "description": "The team revives Kaseki to work on the drone. Meanwhile, Ginro is called to see the Master.",
+            "number": "13",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9971408/screencap/652ef9ec33932.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-14",
+            "title": "Deal Game, Test of Wit",
+            "description": "More of the Kingdom of Science is brought back from petrification, but they are discovered in the cave by Moz.",
+            "number": "14",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9971409/screencap/65330950eb095.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-15",
+            "title": "Battle in Three Dimensions",
+            "description": "Moz and the Kingdom of Science form a tenuous, temporary alliance against Ibara. How long it will last is a question they can't afford to concern themselves with just yet.",
+            "number": "15",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9971410/screencap/65401bb663889.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-16",
+            "title": "Total War",
+            "description": "The Kingdom of Science attacks and tries to execute their plan to steal the petrification device. Moz convinces Kirisame to use the device, but Ryusui's instincts tell him something is off about the situation.",
+            "number": "16",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9971411/screencap/6548fc63c450f.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-17",
+            "title": "Joker",
+            "description": "The Kingdom of Science members launch an attack on the islanders aboard the Perseus, but Moz isn't far behind and Senku and the others are forced to retreat inside the vessel. Ibara has them cornered, but Senku unleashes his Joker card.",
+            "number": "17",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9971413/screencap/6550f17c8289b.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-18",
+            "title": "Flicker of Doom",
+            "description": "Yo and the Kingdom of Science capture the petrification device, but Ibara isn't going down without a fight.",
+            "number": "18",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9971414/screencap/655aa85d02625.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-19",
+            "title": "Last Man Standing",
+            "description": "Much to Ibara's shock and dismay, Senku devised a plan and managed to escape petrification. Now the two enter into a head-to-head battle for control of the Medusa device.",
+            "number": "19",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9971415/screencap/6562a8970cd04.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-episode-20",
+            "title": "First Dream",
+            "number": "20",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9971416/screencap/656f446f14ad8.jpg"
+        }]
 }
