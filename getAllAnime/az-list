@@ -165,6 +165,18 @@
             "isAdult": false
         },
         {
+            "animeId": "dr-stone-new-world-part-2",
+            "episodeId": "dr-stone-new-world-part-2-episode-1",
+            "name": "Dr. STONE New World Part 2",
+            "jname": "Dr. STONE: NEW WORLD Part 2",
+            "sub": "9",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162670-07XrFq2hreTx.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/dr-stone-new-world-part-2",
+            "genres": ["Action", "Adventure", "Comedy", "Sci-Fi"],
+            "isAdult": false
+        },
+        {
             "animeId": "dr-stone-ryuusui",
             "episodeId": "dr-stone-ryuusui-episode-1",
             "name": "Dr. STONE Special Episode – RYUSUI",
@@ -1150,4 +1162,4 @@
             "genres": ["Action", "Drama", "Romance", "Supernatural"],
             "isAdult": true
         }
-]
+    ]
