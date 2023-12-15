@@ -38,7 +38,7 @@
 		"episode": 4
 	},
 	"totalEpisodes": 23,
-	"currentEpisode": 20,
+	"currentEpisode": 21,
 	"rating": 85,
 	"duration": 24,
 	"genres": ["Action", "Drama", "Supernatural"],
@@ -995,6 +995,14 @@
             "description": "Itadori stands in a daze at the disaster before his eyes, his mind already well past its limit. As a curse, Mahito is elated at seeing his ideal sequence of events play out before him, and he prepares to further finish off Itadori.",
             "number": "20",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/9879040/screencap/657082c6d320d.jpg",
+            "air_date": "December 7, 2023"
+        },
+        {
+            "id": "jujutsu-kaisen-season-2-episode-21",
+            "title": "Metamorphosis",
+            "description": "After rescuing Itadori from his predicament, Todo bolsters his morale and encourages him to stand back up. As Mahito kicks things into higher gear, he begins using Soul Multiplicity and Body Repel to unleash omnidirectional attacks.",
+            "number": "21",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9879041/screencap/6579c8b8bef8b.jpg",
             "air_date": "December 7, 2023"
         }]
 }
