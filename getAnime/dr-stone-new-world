@@ -104,6 +104,22 @@
 		"animeurl": "dr-stone-new-world"
 	},
 	{
+		"id": 162670,
+		"malId": 55644,
+		"title": {
+			"romaji": "Dr. STONE: NEW WORLD Part 2",
+			"english": "Dr. STONE New World Part 2",
+			"native": "Dr.STONE NEW WORLD 第2クール"
+		},
+		"status": "Ongoing",
+		"episodes": 10,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162670-07XrFq2hreTx.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162670-07XrFq2hreTx.jpg",
+		"rating": 82,
+		"type": "TV",
+		"animeurl": "dr-stone-new-world-part-2"
+	},
+	{
 		"id": 43555,
 		"malId": 43555,
 		"title": {
