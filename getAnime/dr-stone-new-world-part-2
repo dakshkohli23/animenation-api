@@ -37,13 +37,8 @@
         "month": 12,
         "day": 21
     },
-    "nextAiringEpisode": {
-        "airingTime": 1702560600,
-        "timeUntilAiring": 5435,
-        "episode": 10
-    },
     "totalEpisodes": 11,
-    "currentEpisode": 9,
+    "currentEpisode": 10,
     "rating": 82,
     "duration": 24,
     "genres": [
@@ -1478,5 +1473,11 @@
             "title": "First Dream",
             "number": "9",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/9971416/screencap/656f446f14ad8.jpg"
+        },
+        {
+            "id": "dr-stone-new-world-part-2-episode-10",
+            "title": "Treasure Island",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9971417/screencap/65731ca973891.jpg"
         }]
 }
