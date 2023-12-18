@@ -642,109 +642,234 @@
 		"anime-planet": "pokemon-horizons-the-series"
 	},
 	"episodes": [{
-		"id": "pokemon-horizons-the-series-episode-1",
-		"title": "The Pendant It All Started With (1)",
-		"description": "Liko, a girl from the Pardea region, enrolls in Sekiei Gakuen, a boarding school in the Kanto region. Liko was happy to receive her first Pokémon Sprigatito, but Sprigatito didn't listen to her at all... Liko struggles to deepen her bond with Sprigatito. Meanwhile, in search of Liko's \"mysterious pendant\", suspicious characters appear to search for her!",
-		"number": 1,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9708907/screencap/6430b37de7d55.jpg",
-		"airDate": "2023-04-14T00:00:00.000Z"
-	}, {
-		"id": "pokemon-horizons-the-series-episode-2",
-		"title": "The Pendant It All Started With (2)",
-		"description": "Liko has been attacked by the mysterious Explorers and Friede and the Rising Volt Tacklers come to her rescue, bringing her on board their airship. However, the Explorers make chase and insist on getting Liko's pendant. Will they succeed?",
-		"number": 2,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9715353/screencap/643980e6a0973.jpg",
-		"airDate": "2023-04-14T00:00:00.000Z"
-	}, {
-		"id": "pokemon-horizons-the-series-episode-3",
-		"title": "As Long as I'm With Sprigatito",
-		"description": "Sprigatito has been kidnapped by the Explorers. Liko decides to take Sprigatito back, and Friede and the others will cooperate. Liko and Friede find the Explorers' hideout, but Amejio is waiting there...! Will Liko be able to get Sprigatito back?!",
-		"number": 3,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9715354/screencap/644096a0ecf53.jpg",
-		"airDate": "2023-04-21T00:00:00.000Z"
-	}, {
-		"id": "pokemon-horizons-the-series-episode-4",
-		"title": "The Treasure That Washed Ashore",
-		"description": "When the Brave Asagi makes an emergency descent on a Kantonian remote island, Fuecoco ends up separated from the others unnoticed. Liko and her partner set off to explore the island to search for the lost Pokémon. Meanwhile, a young native of the island, Roy, witnesses a Pokémon that he hasn't seen before.",
-		"number": 4,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9739897/screencap/644b039f7edd3.jpg",
-		"airDate": "2023-04-28T00:00:00.000Z"
-	}, {
-		"id": "pokemon-horizons-the-series-episode-5",
-		"title": "I Found You, Fuecoco",
-		"description": "Roy has arrived at the Brave Asagi with a desire to see Fuecoco again, however circumstances prevented him from doing so. With the airship set for departure, will Roy be able to see Fuecoco? In addition, a submarine under the ownership of the Explorers closes in on the airship.",
-		"number": 5,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9739898/screencap/64559c4c92a4d.jpg",
-		"airDate": "2023-05-05T00:00:00.000Z"
-	}, {
-		"id": "pokemon-horizons-the-series-episode-6",
-		"title": "The Ancient Poké Ball",
-		"description": "The Explorers depart from the island and confront the Rising Volt Tacklers, pursuing Liko and her pendant. Sprigatito and Fuecoco's team up did their best as Liko and Roy confront their opponent, however Amethio and his Corviknight catches them off guard and closes in on them. Suddenly, Liko's pendant starts to glow once more, in addition, Roy's \"Ancient Poké Ball\" starts to behave strangely as well.",
-		"number": 6,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9771847/screencap/645e962d3aee2.jpg",
-		"airDate": "2023-05-12T00:00:00.000Z"
-	}, {
-		"id": "pokemon-horizons-the-series-episode-7",
-		"title": "Special Training! Captain Pikachu",
-		"description": "As the Rising Volt Tacklers' journey continues through the skies, Liko and Roy decide to train under Captain Pikachu in order to get better at Pokémon battling. Neither Sprigatito nor Fuecoco are even remotely a match for the overwhelmingly strong Cap, but the training makes Liko realize something.",
-		"number": 7,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9775696/screencap/6468485436fa7.jpg",
-		"airDate": "2023-05-19T00:00:00.000Z"
-	}, {
-		"id": "pokemon-horizons-the-series-episode-8",
-		"title": "The Secret of the Door That Can't Be Opened",
-		"description": "The Rising Volt Tacklers' airship is running out of food. Maybe someone is secretly stuffing themselves up. Having no choice, the members decide to spilt up and go shopping for food. On the other hand, given the duty of guarding the ship in everyone's absence, Liko completed her laundry and cleaning duties efficiently and decides to take a peek at the special secret that she had heard about from Roy.",
-		"number": 8,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9776880/screencap/647122aa5a309.jpg",
-		"airDate": "2023-05-26T00:00:00.000Z"
-	}, {
-		"id": "pokemon-horizons-the-series-episode-9",
-		"title": "Arrival in Paldea!",
-		"description": "The Rising Volt Tacklers arrive in the Paldea region, where Liko's home is located. Liko's father, Alex, welcomes her alongside Friede and Roy. As Liko sat back and relaxed at her home after a while, Alex unexpectedly reveals to her his honest thoughts, that he wants her to stay here forever from now on. Will Liko's adventures, having barley just begun, come to an end right here?",
-		"number": 9,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9776881/screencap/6479c6c12b115.jpg",
-		"airDate": "2023-06-02T00:00:00.000Z"
-	}, {
-		"id": "pokemon-horizons-the-series-episode-10",
-		"title": "Nemona and Brassius",
-		"description": "Led by Alex, Liko's father, Liko and Roy visit Artazon's Gym Leader, Brassius. But Brassius' Gym is closed at that time. The two are at a loss with what to do next, having been unable to meet Brassius. However, when a Champion-ranked Trainer shows up, she takes them to Brassius' atelier.",
-		"number": 10,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9776882/screencap/648298b3ef6c3.jpg",
-		"airDate": "2023-06-09T00:00:00.000Z"
-	}, {
-		"id": "pokemon-horizons-the-series-episode-11",
-		"title": "The Arboliva's Forest",
-		"description": null,
-		"number": 11,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9832869/screencap/648bde8e0e504.jpg",
-		"airDate": "2023-06-16T00:00:00.000Z"
-	}, {
-		"id": "pokemon-horizons-the-series-episode-12",
-		"title": "The Future I Choose",
-		"description": null,
-		"number": 12,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9832870/screencap/6495cf824595a.jpg",
-		"airDate": "2023-06-23T00:00:00.000Z"
-	},{
-		"id": "pokemon-horizons-the-series-episode-13",
-		"title": "A Sudden Picnic",
-		"description": null,
-		"number": 13,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9861953/screencap/64b1fd039bc2c.jpg",
-		"airDate": "2023-07-14T00:00:00.000Z"
-	},{
-		"id": "pokemon-horizons-the-series-episode-14",
-		"title": "A Sudden Picnic",
-		"description": null,
-		"number": 14,
-		"image": "https://artworks.thetvdb.com/banners/v4/episode/9861953/screencap/64b1fd039bc2c.jpg",
-		"airDate": "2023-07-14T00:00:00.000Z"
-	},{
-		"id": "pokemon-horizons-the-series-episode-15",
-		"title": null,
-		"description": null,
-		"number": 15,
-		"image": null,
-		"airDate": "2023-07-14T00:00:00.000Z"
-	}]
+            "id": "pokemon-horizons-the-series-episode-1",
+            "title": "The Pendant That Starts It All - Part 1",
+            "description": "Liko arrives at Indigo Academy and meets her partner Pokémon, Sprigatito.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9708907/screencap/6430b37de7d55.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-2",
+            "title": "The Pendant That Starts It All - Part 2",
+            "description": "Friede, Captain Pikachu and the Rising Volt Tacklers step up to help protect Liko.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9715353/screencap/643980e6a0973.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-3",
+            "title": "For Sure! 'Cause Sprigatito's With Me!",
+            "description": "Liko, Friede and the other Rising Volt Tacklers set out to rescue Sprigatito.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9715354/screencap/644b045f45dca.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-4",
+            "title": "The Treasure After the Storm!",
+            "description": "As Liko settles in on the Brave Olivine, the Fuecoco who lives on the ship goes missing!",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9739897/screencap/64559d1010039.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-5",
+            "title": "Found You, Fuecoco!",
+            "description": "After Roy sneaks onto the Brave Olivine, he and Fuecoco get their chance to shine!",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9739898/screencap/64559c4c92a4d.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-6",
+            "title": "The Ancient Poké Ball!",
+            "description": "A Rayquaza suddenly emerges from Roy’s Ancient Poké Ball, leaving everyone with questions!",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9771847/screencap/645e962d3aee2.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-7",
+            "title": "Training! Captain Pikachu",
+            "description": "Liko and Roy learn a thing or two about Pokémon battles from Friede and Captain Pikachu!",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9775696/screencap/6468485436fa7.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-8",
+            "title": "The Secret Behind the Off-Limits Door",
+            "description": "While the rest of the crew goes shopping, Liko ramps up her efforts to befriend Dot.",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9776880/screencap/647122aa5a309.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-9",
+            "title": "Arrival in Paldea!",
+            "description": "Back in Paldea, the time has come for Liko to part ways with the Rising Volt Tacklers.",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9776881/screencap/6479c6c12b115.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-10",
+            "title": "Nemona and Brassius",
+            "description": "Liko and Roy arrive in Artazon, but gym leader Brassius, is in an artistic slump!",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9776882/screencap/648298b3ef6c3.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-11",
+            "title": "The Arboliva's Forest",
+            "description": "Searching for Arboliva, Liko, Roy and Mollie discover a forest devastated by wildfire.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9832869/screencap/648bde8e0e504.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-12",
+            "title": "The Future I Choose!",
+            "description": "After learning the story of the Ancient Adventurer, Liko is faced with a decision.",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9832870/screencap/6495cf824595a.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-13",
+            "title": "A Sudden Picnic",
+            "description": "While the Brave Olivine has its computer system rebooted, it’s picnic time for the crew!",
+            "number": "13",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9861953/screencap/64b1fd039bc2c.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-14",
+            "title": "Fly! Wattrel!!",
+            "description": "As Friede tracks suspicious activity, Roy comes up with some special training for Wattrel.",
+            "number": "14",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9881658/screencap/64ba0cfef0c5d.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-15",
+            "title": "Someone We Can't See! Whosawhatsit?",
+            "description": "Liko has gone missing, so Dot calls on a celebrity connection for help!",
+            "number": "15",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9884233/screencap/64c358a716c58.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-16",
+            "title": "As Long As I'm With Quaxly…",
+            "description": "Officially a trainer, Dot teams up with Quaxly to help take back Liko’s stolen pendant!",
+            "number": "16",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9884234/screencap/64cd4d07b90c7.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-17",
+            "title": "Wattrel & Fuecoco: Secret Training",
+            "description": "Wattrel and Fuecoco are in constant edge with one another, and this bickering is getting on Roy's nerves. He suggests about helping their bond by having the two spar against Captain Pikachu, however things don't go as planned as they bicker during the battle session. Meanwhile, the Brave Asagi would soon encounter turbulence as the Rising Volt Tacklers make their way through the sky.",
+            "number": "17",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9933470/screencap/64d5ce5c7b2d0.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-18",
+            "title": "The Sky Is The Limit For Flying Pikachu!",
+            "description": "Liko and Roy ask Friede about his past in order to get closer to Cap. And so the fateful encounter between Friede and Captain Pikachu is finally revealed…",
+            "number": "18",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9943754/screencap/64e1032a7e70e.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-19",
+            "title": "The Truth About Alcremie",
+            "description": "The group has arrived in the Galar region, where they decide to leave the conspicuous airship behind and travel by land to the old castle Liko's grandmother Diana is supposed to be in. However, since the train is currently out of service, they decide to spend some time in Motostoke, where Liko and Roy head for the Battle Café alongside the Rising Volt Tacklers' cook, Murdock. There, they encounter Mitchell, a patissier and former colleague of Murdock's.",
+            "number": "19",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9943755/screencap/64e831043c951.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-20",
+            "title": "Kabu's Battle Training",
+            "description": "Liko and Roy have met Kabu, the Gym Leader of Motostoke Stadium and a native of the Hoenn region. Figuring that this means he might know something about Rayquaza, the Legendary Pokémon that's likewise from the Hoenn region, they decide to ask him about it. Kabu is so moved by their dedication he decides to train them. It's time for Kabu's fire training to begin!",
+            "number": "20",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9943756/screencap/64f2c0073cd03.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-21",
+            "title": "A Hatenna All Alone",
+            "description": "Liko & Roy have decided to go to the Galar Mine in search of the Black Rayquaza after Kabu told them he spotted it heading that direction. While there, they find a suspicious Hatenna who Mollie says is suffering because it is constantly picking up everyone else's emotions. Liko decides to look after it on her own but this proves to be quite a task. Can Liko help the Hatenna?",
+            "number": "21",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9943757/screencap/64fb79a67b400.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-22",
+            "title": "Clash! The Galar Mine",
+            "description": "The Rising Volt Tacklers have returned to the Galar Mine in search for the Black Rayquaza. However, as they searc, Liko & Roy are separated from Friede and they hear a mysterious cry so go further in. There, they find a group of people and Pokémon who have lost their vigor. Meanwhile, Amethio and the Explorers have also arrived at the mine and intend to get the Rayquaza. Will they be stopped?",
+            "number": "22",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9983261/screencap/65053ea83f7b3.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-23",
+            "title": "Galarian Moltres Blazes Up",
+            "description": "Having found a Galarian Moltres in Galar Mine rather than the Black Rayquaza they were hunting, Liko & Roy had to exit the mine to heal their Pokémon. However, going back in, they need to come up with a plan to calm this Pokémon, once owned by Lucius, but its rage is causing everyone issues even fron a distance. How will Liko, Roy and Friede be able to calm the Moltres?",
+            "number": "23",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10001376/screencap/650e46da5d4af.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-24",
+            "title": "Reunion at the Old Castle",
+            "description": "Liko's pendant has turned into a Pokémon once again, but this time will not change back so Liko and the group head for Liko's grandmother and reunite with her at an old castly. Liko's grandmother tells them of Lucius' adventures and of Terapagos. However, the Explorers have followed Liko there and have their eyes set on Terapagos. Will everyone be able to protect it?",
+            "number": "24",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10001377/screencap/6529b6119b94c.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-25",
+            "title": "Rivals in the Moonless Night",
+            "description": "Liko, Roy and Friede have gone to Liko's grandmother and have started to learn more about Terapagos. However, the Explorers have managed to find their way to the castle and are intent on taking Terapgos for themselves. Now that Liko & Roy have grown since their last encounter, will they be able to stop Explorers from achieving their task, especially as more Explorers admins join the battle?",
+            "number": "25",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10059359/screencap/6532135d218d1.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-26",
+            "title": "Terapagos' Adventure",
+            "description": "Liko's grandmother has joined the Rising Volt Tacklers for a while as they take to the skies to hunt down the rest of Lucius' Pokémon. However, with Terapagos fully awake, it is the first time it is exploring the airship and everything is new so it decides to fully explore with Liko following out of concern. However, Sprigatito doesn't like how Terapagos is Liko's current focus. Will the two be able to make amends?",
+            "number": "26",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10071179/screencap/653be4614bd01.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-27",
+            "title": "As Long As I'm With My Companions",
+            "description": "The Rising Volt Tacklers have head to the Wild Area after Dot received some eyewitness accounts of Lucius' Rayquaza. However, after these sightings turn out to be inaccurate, Dot gets frustrated so Liko decides they all make curry together in the Wild Area, to take a short break. Meanwhile, the Explorers all gather to regroup after failing to catch Terapgos...",
+            "number": "27",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10071180/screencap/6544b799ca292.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-28",
+            "title": "The Stolen Treasure",
+            "description": "Liko, Roy & Friede have gone to an antique shop run by an acquaintance of Diana hoping to learn more about Lucius' ancient Poké Balls. When they learn that the owner of the shop knows nothing, they go to leave but Roy soon finds that the Ancient Poké Ball is missing. Will they be able to find it?",
+            "number": "28",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10107807/screencap/654e65881223a.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-29",
+            "title": "Orla & The Poké Ball Craftsman",
+            "description": "Liko, Roy, Friede & Orla have gone to a Poké Ball Factory in Galar run by a master craftsman who makes some unusual Poké Balls. Orla hits it off well with the craftsman but she soon makes an interesting suggestion. Will they learn more about the mysterious Poké Balls?",
+            "number": "29",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10135498/screencap/65570299a1dc8.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-30",
+            "title": "The Mystery Pokémon Behind the Slipping and Clanging?!",
+            "description": "Deciding to take some time to train, Fuecoco accidentally slips on some mysterious purple liquid on the battlefield. Roy decides to investigate with Fuecoco. Meanwhile, Liko starts hearing a clanging sound on the Brave Olivine so also decides to investigate. Will they be able to find the source of the mysterious noise and liquid?",
+            "number": "30",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10135499/screencap/6560d04983c01.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-31",
+            "title": "The Song in the Mist",
+            "description": "The tale of the Song in the Mist is one about a Pokémon that uses its song to guide and rescue ships lost in the mist. When the Rising Volt Tacklers learn this Pokémon is a Lapras, they head to the waters of the tale. As the Brave Oliving starts sailing on the sea to look for the Lapras that Lucius travels with but the airship is soon covered in mist. Will they find the Lapras?",
+            "number": "31",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10136005/screencap/656a0b76b7228.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-32",
+            "title": "Lapras' Memories of its Companions",
+            "description": "The Rising Volt Tacklers have found the Lapras in the mist and it starts to resonate with Terapagos showing it could be Lucius' Lapras afterall. However, the Lapras and its friends keep attacking the Brave Olivine so the battle rages on. Will the Rising Volt Tacklers be able to calm the Lapras?",
+            "number": "32",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10137617/screencap/6572e71b8d691.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-33",
+            "title": "The Roaring Black Rayquaza",
+            "description": "The Rising Volt Tacklers thought the case was closed after they got their feelings across to the Laplace from the Six Heroes... but then the Black Rayquaza they had been chasing down suddenly appeared high up in the sky! Roy yells a challenge to a battle at it... but then Amethio from the Explorers barges in! Liko and the others are in deep trouble after Rayquaza gets enraged from being attacked... but then Terapagos' body starts shining?!",
+            "number": "33",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10180469/screencap/657bfad0480d7.jpg"
+        }]
 }
