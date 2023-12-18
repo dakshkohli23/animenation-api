@@ -1,182 +1,266 @@
 [
         {
-            "server1": "1qtrn64g6gug",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 1",
+            "server1": "ovf8jo0b436b",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 1",
             "ep_num": "1",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 2 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "y48dpa2v8mbl",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 2",
+            "server1": "qu2g4u3ibces",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 2",
             "ep_num": "2",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 3 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-3",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 1",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-1"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "l6bsojk81rfp",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 3",
+            "server1": "9c8io16a5lbm",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 3",
             "ep_num": "3",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 4 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-4",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 2",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-2"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "7m19tapeinu2",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 4",
+            "server1": "5qa6auq8apeu",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 4",
             "ep_num": "4",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 5 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-5",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 3",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-3"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "gdlczp2em2s2",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 5",
+            "server1": "erwj0vewhkek",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 5",
             "ep_num": "5",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 6 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-6",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 4",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-4"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "it2gmsuqsjb9",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 6",
+            "server1": "h41n97ftag51",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 6",
             "ep_num": "6",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 7 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-7",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 5",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-5"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "efyc8cguyxm1",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 7",
+            "server1": "w15lh51nr0no",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 7",
             "ep_num": "7",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 8 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-8",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 6",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-6"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "aoeoj28dcg2x",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 8",
+            "server1": "20ot9zh3r97j",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 8",
             "ep_num": "8",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 9 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-9",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 7",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-7"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "g6z9q7l8wjly",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 9",
+            "server1": "g3h2dl4pc78y",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 9",
             "ep_num": "9",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 10 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-10",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 8",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-8"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "aalhxqcwso0g",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 10",
+            "server1": "baqp1br8vagc",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 10",
             "ep_num": "10",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 11 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-11",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 9",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-9"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "uz2p4aaj37xs",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 11",
+            "server1": "hloqpnhuk9kc",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 11",
             "ep_num": "11",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 12 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-12",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 10",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-10"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "1fqctn9rdxdr",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 12",
+            "server1": "c3vwmdsuknl8",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 12",
             "ep_num": "12",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 13 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-13",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 11",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-11"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "em3piaj32faj",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 13",
+            "server1": "sxnmbt72kyk2",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 13",
             "ep_num": "13",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 14 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-14",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 12",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-12"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "32v4vspn14o6",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 14",
+            "server1": "c3yxyucgb07p",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 14",
             "ep_num": "14",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "Pokémon Horizons The Series Episode 15 >>",
-            "nextEpLink": "/pokemon-horizons-the-series-episode-15",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 13",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-13"
+            "movie_id": "1564",
+            "subOrDub": "sub"
         },
         {
-            "server1": "335bqqtt1zlf",
-            "animeNameWithEP": "Pokémon Horizons The Series Episode 15",
+            "server1": "gfdiespcm0v8",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 15",
             "ep_num": "15",
             "anime_info": "pokemon-horizons-the-series",
-            "movie_id": "158871",
-            "alias": "pokemon-horizons-the-series",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Pokémon Horizons The Series Episode 14",
-            "prevEpLink": "/pokemon-horizons-the-series-episode-14"
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "evdvzl4hlg0x",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 16",
+            "ep_num": "16",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "ks7bhbhjondg",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 17",
+            "ep_num": "17",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "nq67zfw6fl4q",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 18",
+            "ep_num": "18",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "ck7wiioh88xo",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 19",
+            "ep_num": "19",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "x9bqonjsqis2",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 20",
+            "ep_num": "20",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "36tdnddim6lx",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 21",
+            "ep_num": "21",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "k5ws4oa01x97",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 22",
+            "ep_num": "22",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "z2zrkxpf1a2y",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 23",
+            "ep_num": "23",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "9gikcywg0mse",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 24",
+            "ep_num": "24",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "9lxh8bqnv2ob",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 25",
+            "ep_num": "25",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "pewc0irz00u0",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 26",
+            "ep_num": "26",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "7wj8m44a0o0o",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 27",
+            "ep_num": "27",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "dwz09jq0w41z",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 28",
+            "ep_num": "28",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "chuqdncxeiw7",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 29",
+            "ep_num": "29",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "qfid62f6t35w",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 30",
+            "ep_num": "30",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "d7dkijoilqlx",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 31",
+            "ep_num": "31",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "kwrqndxphn9u",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 32",
+            "ep_num": "32",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "8wux0trgai6z",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 33",
+            "ep_num": "33",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
         }
     ]
