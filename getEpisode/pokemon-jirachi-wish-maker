@@ -1,14 +1,11 @@
 [
         {
-            "server1": "gxlspr1zam1k",
-            "animeNameWithEP": "Pokémon: Jirachi Wish Maker Dubbed",
+            "server1": "32ffw4vv636a",
+            "server2": "9sorhg7aah7h",
+            "animeNameWithEP": "Pokémon: Jirachi Wish Maker",
             "ep_num": "1",
             "anime_info": "pokemon-jirachi-wish-maker",
             "movie_id": "1121",
-            "alias": "pokemon-jirachi-wish-maker",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
