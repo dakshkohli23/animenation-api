@@ -1,14 +1,11 @@
 [
         {
-            "server1": "b15o4yv5uy93",
-            "animeNameWithEP": "Pokémon the Movie: Black-Victini and Reshiram Dubbed",
+            "server1": "2h5ea93hcrwk",
+            "server2": "gjnacwh9ogee",
+            "animeNameWithEP": "Pokémon the Movie: Black—Victini and Reshiram",
             "ep_num": "1",
             "anime_info": "pokemon-the-movie-black-victini-and-reshiram",
             "movie_id": "10740",
-            "alias": "pokemon-the-movie-black-victini-and-reshiram",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
