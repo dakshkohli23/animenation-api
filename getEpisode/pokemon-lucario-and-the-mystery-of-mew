@@ -1,14 +1,11 @@
 [
         {
-            "server1": "4uwoladcwcym",
-            "animeNameWithEP": "Pokémon: Lucario and the Mystery of Mew Dubbed",
+            "server1": "or7nvxxvqp0y",
+            "server2": "oy0pie86d7sz",
+            "animeNameWithEP": "Pokémon: Lucario and the Mystery of Mew",
             "ep_num": "1",
             "anime_info": "pokemon-lucario-and-the-mystery-of-mew",
             "movie_id": "1526",
-            "alias": "pokemon-lucario-and-the-mystery-of-mew",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
