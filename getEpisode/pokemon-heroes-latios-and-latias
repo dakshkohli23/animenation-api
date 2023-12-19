@@ -1,14 +1,11 @@
 [
         {
-            "server1": "fsboeea90qbk",
-            "animeNameWithEP": "Pokémon Heroes: Latios and Latias Dubbed",
+            "server1": "3n1k8arjaju8",
+            "server2": "sbsk330r4mqq",
+            "animeNameWithEP": "Pokémon Heroes",
             "ep_num": "1",
             "anime_info": "pokemon-heroes-latios-and-latias",
             "movie_id": "1120",
-            "alias": "pokemon-heroes-latios-and-latias",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
