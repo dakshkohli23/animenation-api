@@ -1,14 +1,11 @@
 [
         {
-            "server1": "saq4p21eqzfw",
-            "animeNameWithEP": "Pokémon Ranger and the Temple of the Sea Dubbed",
+            "server1": "78hto6u35qeu",
+            "server2": "t5nxlsziyp96",
+            "animeNameWithEP": "Pokémon Ranger and the Temple of the Sea",
             "ep_num": "1",
             "anime_info": "pokemon-ranger-and-the-temple-of-the-sea",
             "movie_id": "2201",
-            "alias": "pokemon-ranger-and-the-temple-of-the-sea",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
