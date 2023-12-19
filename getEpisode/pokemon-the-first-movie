@@ -1,14 +1,11 @@
 [
         {
-            "server1": "u9627d8sj9eq",
-            "animeNameWithEP": "Pokémon: The First Movie Episode 1 Dubbed",
+            "server1": "3oqqbi7hb038",
+            "server2": "3xtwv0unfwag",
+            "animeNameWithEP": "Pokémon: The First Movie",
             "ep_num": "1",
             "anime_info": "pokemon-the-first-movie",
             "movie_id": "528",
-            "alias": "pokemon-the-first-movie",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
