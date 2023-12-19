@@ -1,14 +1,11 @@
 [
         {
-            "server1": "2addyv2qry7h",
-            "animeNameWithEP": "Pokémon: Giratina and the Sky Warrior Dubbed",
+            "server1": "psjww37k0odw",
+            "server2": "jge4jzti1kv2",
+            "animeNameWithEP": "Pokémon: Giratina and the Sky Warrior",
             "ep_num": "1",
             "anime_info": "pokemon-giratina-and-the-sky-warrior",
             "movie_id": "4026",
-            "alias": "pokemon-giratina-and-the-sky-warrior",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
