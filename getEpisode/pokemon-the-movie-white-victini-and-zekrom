@@ -1,14 +1,11 @@
 [
         {
-            "server1": "hozoc4p7zhel",
-            "animeNameWithEP": "Pokémon the Movie: White – Victini and Zekrom Dubbed",
+            "server1": "m3zugqm9uukg",
+            "server2": "n4bug5zca2m0",
+            "animeNameWithEP": "Pokémon the Movie: White—Victini and Zekrom",
             "ep_num": "1",
             "anime_info": "pokemon-the-movie-white-victini-and-zekrom",
             "movie_id": "9917",
-            "alias": "pokemon-the-movie-white-victini-and-zekrom",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
