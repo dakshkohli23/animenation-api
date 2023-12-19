@@ -1,14 +1,11 @@
 [
         {
-            "server1": "jlrg30y4z8rq",
-            "animeNameWithEP": "Pokémon 3: The Movie - Spell of the Unown Episode 1 Dubbed",
+            "server1": "rvt0ykfsljij",
+            "server2": "mdw5fopntk3x",
+            "animeNameWithEP": "Pokémon: Spell Of The Unown",
             "ep_num": "1",
             "anime_info": "pokemon-the-movie-spell-of-the-unown",
             "movie_id": "1118",
-            "alias": "pokemon-the-movie-spell-of-the-unown",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
