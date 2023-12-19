@@ -1,14 +1,11 @@
 [
         {
-            "server1": "tqlz8m46blv8",
-            "animeNameWithEP": "Pokémon: Arceus and the Jewel of Life Dubbed",
+            "server1": "2injk0a5daib",
+            "server2": "yy6g02rfp3q4",
+            "animeNameWithEP": "Pokémon: Arceus and the Jewel of Life",
             "ep_num": "1",
             "anime_info": "pokemon-arceus-and-the-jewel-of-life",
             "movie_id": "6178",
-            "alias": "pokemon-arceus-and-the-jewel-of-life",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
