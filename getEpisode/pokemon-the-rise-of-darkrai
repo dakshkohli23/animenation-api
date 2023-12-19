@@ -1,14 +1,11 @@
 [
         {
-            "server1": "usw873fhvhkv",
-            "animeNameWithEP": "Pokémon: The Rise of Darkrai Dubbed",
+            "server1": "kgnw1u788wl7",
+            "server2": "2753udjszhij",
+            "animeNameWithEP": "Pokémon: The Rise of Darkrai",
             "ep_num": "1",
             "anime_info": "pokemon-the-rise-of-darkrai",
             "movie_id": "2847",
-            "alias": "pokemon-the-rise-of-darkrai",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
