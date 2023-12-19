@@ -1,14 +1,11 @@
 [
         {
-            "server1": "y2pdvkcd5nl8",
-            "animeNameWithEP": "Pokémon: Destiny Deoxys Dubbed",
+            "server1": "zkyf09gsjlco",
+            "server2": "davowhe5k90s",
+            "animeNameWithEP": "Pokémon: Destiny Deoxys",
             "ep_num": "1",
             "anime_info": "pokemon-destiny-deoxys",
             "movie_id": "1122",
-            "alias": "pokemon-destiny-deoxys",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
