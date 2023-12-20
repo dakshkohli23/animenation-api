@@ -1,14 +1,11 @@
 [
         {
-            "server1": "jp38frf8zgeb",
-            "animeNameWithEP": "Pokémon the Movie: Genesect and the Legend Awakened Dubbed",
+            "server1": "wclwjra92ttl",
+            "server2": "tqaw19rua4ip",
+            "animeNameWithEP": "Pokémon the Movie: Genesect and the Legend Awakened",
             "ep_num": "1",
             "anime_info": "pokemon-the-movie-genesect-and-the-legend-awakened",
             "movie_id": "16680",
-            "alias": "pokemon-the-movie-genesect-and-the-legend-awakened",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
