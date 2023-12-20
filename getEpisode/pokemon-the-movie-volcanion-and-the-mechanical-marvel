@@ -1,14 +1,11 @@
 [
         {
-            "server1": "najegfnlk2ne",
-            "animeNameWithEP": "Pokémon: Volcanion and the Mechanical Marvel Dubbed",
+            "server1": "tzsykuasgjvv",
+            "server2": "9j25x9z7ths6",
+            "animeNameWithEP": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
             "ep_num": "1",
             "anime_info": "pokemon-the-movie-volcanion-and-the-mechanical-marvel",
             "movie_id": "21651",
-            "alias": "pokemon-the-movie-volcanion-and-the-mechanical-marvel",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
