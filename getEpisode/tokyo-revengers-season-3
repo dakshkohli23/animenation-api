@@ -1,7 +1,6 @@
 [
         {
             "server1": "dnj6pu1kt47z",
-            "server2": "dnj6pu1kt47z",
             "animeNameWithEP": "Tokyo Revengers Season 3 Episode 1",
             "ep_num": "1",
             "anime_info": "tokyo-revengers-season-3",
@@ -10,7 +9,6 @@
         },
         {
             "server1": "86jxuggjh3so",
-            "server2": "86jxuggjh3so",
             "animeNameWithEP": "Tokyo Revengers Season 3 Episode 2",
             "ep_num": "2",
             "anime_info": "tokyo-revengers-season-3",
@@ -19,7 +17,6 @@
         },
         {
             "server1": "mkm1pewf0agw",
-            "server2": "mkm1pewf0agw",
             "animeNameWithEP": "Tokyo Revengers Season 3 Episode 3",
             "ep_num": "3",
             "anime_info": "tokyo-revengers-season-3",
@@ -28,7 +25,6 @@
         },
         {
             "server1": "6e1h6jk40lbs",
-            "server2": "6e1h6jk40lbs",
             "animeNameWithEP": "Tokyo Revengers Season 3 Episode 4",
             "ep_num": "4",
             "anime_info": "tokyo-revengers-season-3",
@@ -37,7 +33,6 @@
         },
         {
             "server1": "rkbf45f6n0gh",
-            "server2": "rkbf45f6n0gh",
             "animeNameWithEP": "Tokyo Revengers Season 3 Episode 5",
             "ep_num": "5",
             "anime_info": "tokyo-revengers-season-3",
@@ -46,7 +41,6 @@
         },
         {
             "server1": "wff2gyp525yk",
-            "server2": "wff2gyp525yk",
             "animeNameWithEP": "Tokyo Revengers Season 3 Episode 6",
             "ep_num": "6",
             "anime_info": "tokyo-revengers-season-3",
@@ -55,7 +49,6 @@
         },
         {
             "server1": "gil6flj69ee5",
-            "server2": "gil6flj69ee5",
             "animeNameWithEP": "Tokyo Revengers Season 3 Episode 7",
             "ep_num": "7",
             "anime_info": "tokyo-revengers-season-3",
@@ -64,7 +57,6 @@
         },
         {
             "server1": "64b0r1cetlx3",
-            "server2": "64b0r1cetlx3",
             "animeNameWithEP": "Tokyo Revengers Season 3 Episode 8",
             "ep_num": "8",
             "anime_info": "tokyo-revengers-season-3",
@@ -73,7 +65,6 @@
         },
         {
             "server1": "ufa6kdx53m4k",
-            "server2": "ufa6kdx53m4k",
             "animeNameWithEP": "Tokyo Revengers Season 3 Episode 9",
             "ep_num": "9",
             "anime_info": "tokyo-revengers-season-3",
@@ -82,7 +73,6 @@
         },
         {
             "server1": "oxdk5kd39tav",
-            "server2": "oxdk5kd39tav",
             "animeNameWithEP": "Tokyo Revengers Season 3 Episode 10",
             "ep_num": "10",
             "anime_info": "tokyo-revengers-season-3",
@@ -91,9 +81,16 @@
         },
         {
             "server1": "dl3k3lhaptah",
-            "server2": "dl3k3lhaptah",
             "animeNameWithEP": "Tokyo Revengers Season 3 Episode 11",
             "ep_num": "11",
+            "anime_info": "tokyo-revengers-season-3",
+            "movie_id": "163329",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "fjo4djjuck3j",
+            "animeNameWithEP": "Tokyo Revengers Season 3 Episode 12",
+            "ep_num": "12",
             "anime_info": "tokyo-revengers-season-3",
             "movie_id": "163329",
             "subOrDub": "sub"
