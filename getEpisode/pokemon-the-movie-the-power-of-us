@@ -1,14 +1,12 @@
 [
         {
-            "server1": "calx1n6m1uwb",
-            "animeNameWithEP": "Pokémon: The Power of Us Dubbed",
+            "server1": "pysjzfa5e7z6",
+            "server2": "kfy6dh1x7l2w",
+            "animeNameWithEP": "Pokémon the Movie: The Power of Us",
             "ep_num": "1",
             "anime_info": "pokemon-the-movie-the-power-of-us",
             "movie_id": "100744",
-            "alias": "pokemon-the-movie-the-power-of-us",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
+}
