@@ -1,14 +1,11 @@
 [
         {
-            "server1": "dk0xtplw5kao",
-            "animeNameWithEP": "Pokémon: Diancie and the Cocoon of Destruction Dubbed",
+            "server1": "952s23ea5pm8",
+            "server2": "e72b5rozwm0l",
+            "animeNameWithEP": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
             "ep_num": "1",
             "anime_info": "pokemon-the-movie-diancie-and-the-cocoon-of-destruction",
             "movie_id": "20644",
-            "alias": "pokemon-the-movie-diancie-and-the-cocoon-of-destruction",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
