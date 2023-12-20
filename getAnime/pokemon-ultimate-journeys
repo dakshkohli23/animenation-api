@@ -969,331 +969,436 @@
       "rating": 65
     }
   ],
-  "episodes": [
-    {
-      "id": "pokemon-ultimate-journeys-episode-1",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 1",
-      "image": "",
-      "number": 1
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-2",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 2",
-      "image": "",
-      "number": 2
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-3",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 3",
-      "image": "",
-      "number": 3
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-4",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 4",
-      "image": "",
-      "number": 4
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-5",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 5",
-      "image": "",
-      "number": 5
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-6",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 6",
-      "image": "",
-      "number": 6
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-7",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 7",
-      "image": "",
-      "number": 7
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-8",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 8",
-      "image": "",
-      "number": 8
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-9",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 9",
-      "image": "",
-      "number": 9
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-10",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 10",
-      "image": "",
-      "number": 10
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-11",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 11",
-      "image": "",
-      "number": 11
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-12",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 12",
-      "image": "",
-      "number": 12
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-13",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 13",
-      "image": "",
-      "number": 13
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-14",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 14",
-      "image": "",
-      "number": 14
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-15",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 15",
-      "image": "",
-      "number": 15
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-16",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 16",
-      "image": "",
-      "number": 16
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-17",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 17",
-      "image": "",
-      "number": 17
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-18",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 18",
-      "image": "",
-      "number": 18
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-19",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 19",
-      "image": "",
-      "number": 19
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-20",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 20",
-      "image": "",
-      "number": 20
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-21",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 21",
-      "image": "",
-      "number": 21
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-22",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 22",
-      "image": "",
-      "number": 22
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-23",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 23",
-      "image": "",
-      "number": 23
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-24",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 24",
-      "image": "",
-      "number": 24
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-25",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 25",
-      "image": "",
-      "number": 25
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-26",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 26",
-      "image": "",
-      "number": 26
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-27",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 27",
-      "image": "",
-      "number": 27
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-28",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 28",
-      "image": "",
-      "number": 28
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-29",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 29",
-      "image": "",
-      "number": 29
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-30",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 30",
-      "image": "",
-      "number": 30
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-31",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 31",
-      "image": "",
-      "number": 31
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-32",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 32",
-      "image": "",
-      "number": 32
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-33",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 33",
-      "image": "",
-      "number": 33
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-34",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 34",
-      "image": "",
-      "number": 34
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-35",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 35",
-      "image": "",
-      "number": 35
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-36",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 36",
-      "image": "",
-      "number": 36
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-37",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 37",
-      "image": "",
-      "number": 37
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-38",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 38",
-      "image": "",
-      "number": 38
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-39",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 39",
-      "image": "",
-      "number": 39
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-40",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 40",
-      "image": "",
-      "number": 40
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-41",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 41",
-      "image": "",
-      "number": 41
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-42",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 42",
-      "image": "",
-      "number": 42
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-43",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 43",
-      "image": "",
-      "number": 43
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-44",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 44",
-      "image": "",
-      "number": 44
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-45",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 45",
-      "image": "",
-      "number": 45
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-46",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 46",
-      "image": "",
-      "number": 46
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-47",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 47",
-      "image": "",
-      "number": 47
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-48",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 48",
-      "image": "",
-      "number": 48
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-49",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 49",
-      "image": "",
-      "number": 49
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-50",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 50",
-      "image": "",
-      "number": 50
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-51",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 51",
-      "image": "",
-      "number": 51
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-52",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 52",
-      "image": "",
-      "number": 52
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-53",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 53",
-      "image": "",
-      "number": 53
-    },
-    {
-      "id": "pokemon-ultimate-journeys-episode-54",
-      "title": "Pokémon Ultimate Journeys: The Series Episode 54",
-      "image": "",
-      "number": 54
-    }
-    
+  "episodes": [{
+            "id": "pokemon-ultimate-journeys-episode-1",
+            "title": "The Spectral Express!",
+            "description": "On their way to catch a ride to Stow-on-Side, Ash and Goh take a wild trip aboard a mysterious and eerie ghost train.",
+            "number": "1",
+            "image": "https://www.themoviedb.org/t/p/original/3yOWeuGU0J89SsUkxVFltuUb6u1.jpg",
+            "air_date": "2021-12-17"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-2",
+            "title": "The Winding Path to Greatness!",
+            "description": "Hoping to get his Pokémon Gengar to Gigantamax, Ash and Goh look for help from the Ghost-type gym leader, Allister.",
+            "number": "2",
+            "image": "https://www.themoviedb.org/t/p/original/iNtTBR07K2rGPzhxI0fSCJc03FI.jpg",
+            "air_date": "2021-12-24"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-3",
+            "title": "It's All in the Name!",
+            "description": "After unusual magnetic waves affect his Magnemite, Francois, Ren works together with Ash, Goh, Chrysa and Professor Cerise to solve the mystery.",
+            "number": "3",
+            "image": "https://www.themoviedb.org/t/p/original/wsoHpxctC2dwWwPiZb9VmW3AEcK.jpg",
+            "air_date": "2022-01-14"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-4",
+            "title": "Suffering the Flings and Arrows!",
+            "description": "When Lilligant draws the romantic interest of its beloved Heracross, Pinsir is devastated. Could a Pokémon flower arrangement class save the day?",
+            "number": "4",
+            "image": "https://www.themoviedb.org/t/p/original/zLkzsOVxHcWuZ84hkrarVb3Wydi.jpg",
+            "air_date": "2022-01-21"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-5",
+            "title": "The Good, the Bad and the Lucky!",
+            "description": "Tired of their missions always coming up short, Team Rocket decides to follow Pelipper to find out who's in charge of the Prize Master.",
+            "number": "5",
+            "image": "https://www.themoviedb.org/t/p/original/njYOaQ79zO7of9SvtlIZSunnbeK.jpg",
+            "air_date": "2022-01-28"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-6",
+            "title": "Lighting the Way Home!",
+            "description": "The Space Center plans to use Ampharos' light to guide a satellite back home. But after Ampharos loses confidence, it's up to Sophocles to save the day.",
+            "number": "6",
+            "image": "https://www.themoviedb.org/t/p/original/toRathhtpI8FBfQAvdHwR4MzzZs.jpg",
+            "air_date": "2022-02-04"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-7",
+            "title": "An Evolution in Taste!",
+            "description": "Hoping to add to his collection, Goh brings Ash along with him to Slowpoke Island. After meeting different Slowpokes, they try the local cuisine.",
+            "number": "7",
+            "image": "https://www.themoviedb.org/t/p/original/qXDUVTMFD5r6y9RllDRwWPKmRU3.jpg",
+            "air_date": "2022-02-11"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-8",
+            "title": "Out of Their Elements!",
+            "description": "Ash, Goh and Chloe visit a Pokémon Circus, where the closing performers run into a problem after the evolutions of their Eevees don't go as planned.",
+            "number": "8",
+            "image": "https://www.themoviedb.org/t/p/original/sUHflzrcxRw42DWRzZlGT7jT627.jpg",
+            "air_date": "2022-02-18"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-9",
+            "title": "Battling Turned Up to Eleven!",
+            "description": "As the Pokémon World Coronation Series continues, Ash looks to challenge a rising star from the Galar region — but gets wrong directions from Team Yell.",
+            "number": "9",
+            "image": "https://www.themoviedb.org/t/p/original/nuEBJG2g2hW39l7KAfP6pXpYpV4.jpg",
+            "air_date": "2022-02-25"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-10",
+            "title": "Meeting Up with the Monarch!",
+            "description": "While Goh goes to look for Pokémon in the Galar region, Ash ends up training with one of the world's greatest trainers, Leon.",
+            "number": "10",
+            "image": "https://www.themoviedb.org/t/p/original/zSvGUSmHDaoqDtWGliw6mvzOf1d.jpg",
+            "air_date": "2022-03-04"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-11",
+            "title": "A One-Stick Wonder!",
+            "description": "Traveling out to the Wild Area, Ash and Goh encounter a Thwackey with a problem: It only seems to have one stick when it needs two.",
+            "number": "11",
+            "image": "https://www.themoviedb.org/t/p/original/pKnc7fmJUIVyFm6k9mwceNtwLEq.jpg",
+            "air_date": "2022-03-11"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-12",
+            "title": "Battling in the Freezing Raid!",
+            "description": "As he takes on his latest Project Mew trial mission, Goh and a few allies challenge the legendary Pokémon Articuno to a raid battle.",
+            "number": "12",
+            "image": "https://www.themoviedb.org/t/p/original/jzKqU6DI6ZuwVNr4MV0mZ9gGNL7.jpg",
+            "air_date": "2022-03-18"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-13",
+            "title": "The Future Is Now, Thanks to Strategy!",
+            "description": "To master a new attack, Sirfetch'd gets unexpected help from Dracovish. But will the move be enough for Ash to survive his upcoming battles?",
+            "number": "13",
+            "image": "https://www.themoviedb.org/t/p/original/aIWCHsOncGwc44yfeOvlZnK5RNB.jpg",
+            "air_date": "2022-04-01"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-14",
+            "title": "Taking Two for the Team!",
+            "description": "In a battle against Drasna, Ash realizes a strong bond between Pokémon is the most important skill of all.",
+            "number": "14",
+            "image": "https://www.themoviedb.org/t/p/original/9o1TwV2jPZJN4FaI0E3u6wLJMCR.jpg",
+            "air_date": "2022-04-01"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-15",
+            "title": "Reuniting for the First Time!",
+            "description": "While on a visit to Lilycove City to meet a Sylveon, Chloe gets recognized by Lisia, who encourages her to compete in a Pokémon Contest.",
+            "number": "15",
+            "image": "https://www.themoviedb.org/t/p/original/aoc066x00akWW5cnzaMZJQ5c5mp.jpg",
+            "air_date": "2022-04-08"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-16",
+            "title": "Radio Lulled the Mischievous Stars!",
+            "description": "To drum up more support for Team Rocket, Jessie and James take over a radio broadcast and win over some unexpected fans.",
+            "number": "16",
+            "image": "https://www.themoviedb.org/t/p/original/veK1zHoo2GsCgJqyXgE2UHKi0Nm.jpg",
+            "air_date": "2022-04-15"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-17",
+            "title": "Big Brother to the Rescue!",
+            "description": "When the Pokémon in Cerise Park get out of sorts, it's up to a helpful Yamper to set things right again.",
+            "number": "17",
+            "image": "https://www.themoviedb.org/t/p/original/wEGPaa8FhPUMP0OogmhyXAXvOv0.jpg",
+            "air_date": "2022-04-22"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-18",
+            "title": "Catching the Aura of Fate!",
+            "description": "Hoping to help his Lucario grow stronger, Ash heads to the Kalos region to reconnect with Greninja, who teaches its protégé a thing or two.",
+            "number": "18",
+            "image": "https://www.themoviedb.org/t/p/original/96eiUy68F1oLyRih44JSi1ri51H.jpg",
+            "air_date": "2022-04-29"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-19",
+            "title": "Aim for the Eight!",
+            "description": "Ash must survive an entrance battle with a popular trainer to earn a spot in the top eight. But in the arena, all eyes are on the underdog from Kanto.",
+            "number": "19",
+            "image": "https://www.themoviedb.org/t/p/original/r7xbWmV4oXxoyD8Nto5XAa8GhfZ.jpg",
+            "air_date": "2022-05-06"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-20",
+            "title": "Narrowing the Chaser Chase!",
+            "description": "On his next trial mission for Project Mew, Goh must win a survival contest in Sea Mauville or he won't qualify as one of the chosen three Chasers.",
+            "number": "20",
+            "image": "https://www.themoviedb.org/t/p/original/eRbeBx7STwpIbJ72LhtNgxg9RYi.jpg",
+            "air_date": "2022-05-13"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-21",
+            "title": "The Homecoming Crown!",
+            "description": "In a frozen land, Ash, Goh and Chloe search for a rare Pokémon while Lillie and her family hope to reunite with their missing father.",
+            "number": "21",
+            "image": "https://www.themoviedb.org/t/p/original/bHZMEK7roSssPLoaiF9oe2fA8BI.jpg",
+            "air_date": "2022-05-20"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-22",
+            "title": "Helping the Hometown Hero!",
+            "description": "Back in the Alola region, Ash joins a Battle Royal with three other trainers. But when any team can attack any Pokémon, who will survive?",
+            "number": "22",
+            "image": "https://www.themoviedb.org/t/p/original/gKiF1CfsMqycTlf61FwjxB8nlxs.jpg",
+            "air_date": "2022-05-27"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-23",
+            "title": "Chasing to the Finish!",
+            "description": "Goh competes in his final trial mission for Project Mew: capturing a Regieleki and Regidrago. Will he receive enough tokens to earn the title of Chaser?",
+            "number": "23",
+            "image": "https://www.themoviedb.org/t/p/original/1Rl7n4todKhkun0g8aHhdaxcIZu.jpg",
+            "air_date": "2022-06-03"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-24",
+            "title": "Friends, Rivals, Lend Me Your Spirit!",
+            "description": "To prepare for the Masters Eight Tournament, Ash reunites with his many Pokémon partners to battle an old rival and get as strong as possible.",
+            "number": "24",
+            "image": "https://www.themoviedb.org/t/p/original/hnA7ucMvOwiuOOApijYPrJg7fVG.jpg",
+            "air_date": "2022-06-10"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-25",
+            "title": "Curtain Up! Fight the Fights!",
+            "description": "The Pokémon World Coronation Series Masters Eight Tournament is underway! Ash arrives at Wyndon Stadium just in time for a battle between Leon and Alain.",
+            "number": "25",
+            "image": "https://www.themoviedb.org/t/p/original/thZ4nL1Eg7WXscuTiLMxVIWEDio.jpg",
+            "air_date": "2022-06-17"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-26",
+            "title": "Pride of a Champion!",
+            "description": "At the Masters Eight Tournament, Ash, Goh and their new friend Hop watch as Lance goes head to head with Diantha on the stage of dreams.",
+            "number": "26",
+            "image": "https://www.themoviedb.org/t/p/original/5OcpT44OFkMw7LWoKb4yuyEygD9.jpg",
+            "air_date": "2022-07-08"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-27",
+            "title": "The Fiery Road to Mastership!",
+            "description": "Ash and his friends cheer on Cynthia and Iris in the third battle of the Masters Eight Tournament. With only one match left, will Ash's training pay off?",
+            "number": "27",
+            "image": "https://www.themoviedb.org/t/p/original/q3koNjmfE5nFGomxVvOMcZ5uPg8.jpg",
+            "air_date": "2022-07-15"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-28",
+            "title": "Battling as Hard as Stone!",
+            "description": "Ash battles Steven Stone in the Masters Eight Tournament. But can the Alola region champion prove he belongs on the same stage as the toughest trainers?",
+            "number": "28",
+            "image": "https://www.themoviedb.org/t/p/original/8H5xm2v9M7wm6xyhgZQ1H0iUCo4.jpg",
+            "air_date": "2022-07-22"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-29",
+            "title": "Infinite Possibilities!",
+            "description": "On a camping trip with her family, Chloe encounters friends from her father's past who help guide her in her decision whether or not to evolve Eevee.",
+            "number": "29",
+            "image": "https://www.themoviedb.org/t/p/original/pYchFTQVYDMaW6qK7FmMwvUL7YH.jpg",
+            "air_date": "2022-08-05"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-30",
+            "title": "It's... Champion Time!",
+            "description": "In the semifinals, the Sinnoh region champion Cynthia battles the very first Alola region champion Ash for the chance to take on the undefeated Leon.",
+            "number": "30",
+            "image": "https://www.themoviedb.org/t/p/original/mvQVlew0bJoIPzPOv4rUOWEnBPS.jpg",
+            "air_date": "2022-08-26"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-31",
+            "title": "Bewitch, Battle, and Bewilder!",
+            "description": "In the semifinals, the Sinnoh region champion Cynthia battles the very first Alola region champion Ash for the chance to take on the undefeated Leon.",
+            "number": "31",
+            "image": "https://www.themoviedb.org/t/p/original/kchKBy48fz2XNi1K1tYWrMp7IVn.jpg",
+            "air_date": "2022-09-02"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-32",
+            "title": "Valor: A Strategic Part of Battling!",
+            "description": "As the epic battle continues, underdog Ash struggles to keep up with champion Cynthia's aggressive strategy — but he won't go down without a fight.",
+            "number": "32",
+            "image": "https://www.themoviedb.org/t/p/original/698gTNkFpsoSlyq4QPArg5hnxOB.jpg",
+            "air_date": "2022-09-09"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-33",
+            "title": "Whittle While You Work!",
+            "description": "The battle rages on, but Ash is down to his last Pokémon: Lucario. Can the power of their bond see them through to a victory over the Sinnoh champion?",
+            "number": "33",
+            "image": "https://www.themoviedb.org/t/p/original/3lYUTAjc8klsqkIv0fAunfr3xXx.jpg",
+            "air_date": "2022-09-16"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-34",
+            "title": "Just a Scone's Throw from Here!",
+            "description": "On the eve of the finals, Ash and Goh enjoy a day off in town and run into a group of Nickit who've become popular for teaching other Pokémon to behave.",
+            "number": "34",
+            "image": "https://www.themoviedb.org/t/p/original/byQQATo9EhYuAjszoa8oB3oIRDI.jpg",
+            "air_date": "2022-09-30"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-35",
+            "title": "A Flood of Torrential Gains!",
+            "description": "While Goh answers an emergency call from Project Mew, Ash heads into the finals of the Masters Eight Tournament, where Leon requests a full power battle.",
+            "number": "35",
+            "image": "https://www.themoviedb.org/t/p/original/icaKfqmCE0EJfm0KNOIcAjVKfZ7.jpg",
+            "air_date": "2022-10-21"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-36",
+            "title": "Toying with Your Motions!",
+            "description": "With each competitor down to their final five Pokémon, the battle wages. Ash fights to get an advantage over Leon, who effortlessly sets the pace.",
+            "number": "36",
+            "image": "https://www.themoviedb.org/t/p/original/sJXXggKfH7ddNwHH1LcDH88X5Kq.jpg",
+            "air_date": "2022-10-28"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-37",
+            "title": "Paring Pokémon While Parrying!",
+            "description": "The fierce battle to determine who the strongest trainer is continues. Will Ash manage to see himself through to the ultimate victory?",
+            "number": "37",
+            "image": "https://www.themoviedb.org/t/p/original/nrCMT4YZvyd70YK6cOpJfDcHlOO.jpg",
+            "air_date": "2022-11-04"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-38",
+            "title": "Partners in Time!",
+            "description": "The mysterious appearance of a legendary Eternatus above Wyndon Stadium grants Ash and Leon a bonus round, where it comes down to partner versus partner.",
+            "number": "38",
+            "image": "https://www.themoviedb.org/t/p/original/bCgeF3fntzIuCu1hV7eBPSmB7qh.jpg",
+            "air_date": "2022-11-11"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-39",
+            "title": "The Mew from Here!",
+            "description": "After picking up psychic energy signals, the Chasers set out to scale treacherous Table Mountain in search of Mew... but find surprises along the way.",
+            "number": "39",
+            "image": "https://www.themoviedb.org/t/p/original/byT2KYQxnXH2skgLcdoZiJlZXc2.jpg",
+            "air_date": "2022-11-25"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-40",
+            "title": "In the Palms of Our Hands!",
+            "description": "On Faraway Island, the Chasers make a startling discovery and find themselves transported to a mysterious realm, where Goh connects with an old friend.",
+            "number": "40",
+            "image": "https://www.themoviedb.org/t/p/original/hJ2PmUsNjPM9gJAuFu6ICP9hlUz.jpg",
+            "air_date": "2022-12-02"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-41",
+            "title": "Heroes Unite!",
+            "description": "Goh has a new ambition to become a trainer worthy of partnering with Mew — but he's not sure how to broach the topic while camping with Ash and Chloe.",
+            "number": "41",
+            "image": "https://www.themoviedb.org/t/p/original/yjbQ519b4OcG6ZM3drhMV86XKHP.jpg",
+            "air_date": "2022-12-09"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-42",
+            "title": "This Could Be the Start of Something Big!",
+            "description": "An epic battle with a legendary Pokémon reignites the fire in both Ash and Goh's hearts. But before they set out on new journeys, they must say goodbye.",
+            "number": "42",
+            "image": "https://www.themoviedb.org/t/p/original/4h0kPPf4Q7CzXlXQqJ3YkrybR13.jpg",
+            "air_date": "2022-12-16"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-43",
+            "title": "The Road Most Traveled!",
+            "description": "While walking through the woods, Ash takes a random path that leads him to exciting encounters with many different types of Pokémon — and enemies.",
+            "number": "43",
+            "image": "https://www.themoviedb.org/t/p/original/xv7i0rWKbWr1dWx44S6c4dKwadq.jpg",
+            "air_date": "2023-01-13"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-44",
+            "title": "A Fated Face-Off!",
+            "description": "Misty believes she's connected to a wild Clauncher by fate. Ash thinks his Corphish called dibs on it first. The only solution? A fishing battle!",
+            "number": "44",
+            "image": "https://www.themoviedb.org/t/p/original/dWvYZfWwGu4Afcn4fPYAxL4ifag.jpg",
+            "air_date": "2023-01-20"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-45",
+            "title": "Must Be Our Heroes and the Witch!",
+            "description": "To cheer up a heartsick Brock, Ash and his friends take him to a nearby flower field, where he gets lost chasing after a tricky Psychic-type Pokémon.",
+            "number": "45",
+            "image": "https://www.themoviedb.org/t/p/original/1M4hyKtoNpA9sCugMQi7Hqnenth.jpg",
+            "air_date": "2023-01-27"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-46",
+            "title": "Bearing Down Easy!",
+            "description": "On a snowy mountaintop, Ash and the team try to help a gloomy Beartic by encouraging it to regain control of its ice powers.",
+            "number": "46",
+            "image": "https://www.themoviedb.org/t/p/original/hiWcHA5LoKmilNjYPlBSIUY5i59.jpg",
+            "air_date": "2023-02-03"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-47",
+            "title": "A Squad's Worth of Passion!",
+            "description": "Ash and friends decide to cheer on their old pal Squirtle at the Firefighting Squad Show, but the famous Pokémon's managers won't let the group say hi.",
+            "number": "47",
+            "image": "https://www.themoviedb.org/t/p/original/x3ko38f5oZClUkG9HnjTxszzXzO.jpg",
+            "air_date": "2023-02-10"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-48",
+            "title": "The Same Moon, Now and Forever!",
+            "description": "When Team Rocket causes Pikachu to get separated from the rest of his group, Ash relies on their strong connection to track down his best friend.",
+            "number": "48",
+            "image": "https://www.themoviedb.org/t/p/original/yKREB1YobFeViSMahOSkWLJY5x7.jpg",
+            "air_date": "2023-02-17"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-49",
+            "title": "Ride, Lapras, Ride!",
+            "description": "A friendly Lapras takes Ash to a remote island, where a fellow Water-type needs the trainer's help. But Ash can't rescue the trapped Pokémon alone.",
+            "number": "49",
+            "image": "https://www.themoviedb.org/t/p/original/d1JgF1RmZfW7slQUIZYuKHOMh6G.jpg",
+            "air_date": "2023-02-24"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-50",
+            "title": "Getting to the Heart of It All!",
+            "description": "When a supernatural entity starts stealing heart-shaped objects from houses in a small town, Ash, Brock and Misty team up to solve the mystery.",
+            "number": "50",
+            "image": "https://www.themoviedb.org/t/p/original/lKgMj6MX3SRZIyXlYstLlyA2BhA.jpg",
+            "air_date": "2023-03-03"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-51",
+            "title": "Rocket Revengers!",
+            "description": "Team Rocket goes on a revenge mission to capture more Pokémon for their boss. The first step? Sending a Mime Jr. to gain Pikachu's trust.",
+            "number": "51",
+            "image": "https://www.themoviedb.org/t/p/original/8qHnpwWhS3WCntnXfTabVmnOc1h.jpg",
+            "air_date": "2023-03-10"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-52",
+            "title": "Ash and Latios!",
+            "description": "Latias takes Ash on a journey to figure out what happened to Latios. But rescuing the legendary Pokémon becomes a bigger battle than they bargained for.",
+            "number": "52",
+            "image": "https://www.themoviedb.org/t/p/original/6fj02waxrRc3DH5Iqd0tHyoqbWw.jpg",
+            "air_date": "2023-03-17"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-53",
+            "title": "The Rainbow and the Pokémon Master!",
+            "description": "As the group splits up, Ash and Pikachu return to Pallet Town, where they get some much-needed relaxation — before Team Rocket shows up.",
+            "number": "53",
+            "image": "https://www.themoviedb.org/t/p/original/2oIs5wjoFmdDIWlvIwQLlX0ixxq.jpg",
+            "air_date": "2023-03-24"
+        },
+        {
+            "id": "pokemon-ultimate-journeys-episode-54",
+            "title": "Distant Blue Sky!",
+            "description": "Ash travels a mountain pass to a nearby town to meet up with his dad. Along the way, he runs into a mysterious young boy with a keen interest in Pokémon.",
+            "number": "54",
+            "image": "https://www.pokemon.com/static-assets/content-assets/cms2/img/watch-pokemon-tv/seasons/season25/season25_ep54_ss01.jpg"
+        }
   ]
 }
