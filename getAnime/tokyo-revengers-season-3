@@ -41,7 +41,7 @@
         "episode": 12
     },
     "totalEpisodes": 13,
-    "currentEpisode": 11,
+    "currentEpisode": 12,
     "rating": 77,
     "duration": 24,
     "genres": [
@@ -875,5 +875,11 @@
     "title": "Nothing is left",
     "number": "11",
     "image": "https://artworks.thetvdb.com/banners/v4/episode/10004390/screencap/6577a2047436e.jpg"
+},
+{
+    "id": "tokyo-revengers-season-3-episode-12",
+    "title": "Paradise Lost",
+    "number": "12",
+    "image": "https://artworks.thetvdb.com/banners/v4/episode/10004366/screencap/6581dbd702227.jpg"
 }]
 }
