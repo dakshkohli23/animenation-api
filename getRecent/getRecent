@@ -1,5 +1,15 @@
 [
 	{
+		"animeId": "dr-stone-new-world-part-2",
+		"episodeId": "dr-stone-new-world-part-2-episode-11",
+		"jname": "Dr. STONE: NEW WORLD Part 2",
+		"name": "Dr. STONE New World Part 2",
+		"episodeNum": 11,
+		"sub": 11,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162670-07XrFq2hreTx.jpg"
+	},
+	{
 		"animeId": "pingu-season-04",
 		"episodeId": "pingu-season-04-episode-1",
 		"jname": "Pingu Season 04",
@@ -51,16 +61,7 @@
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
 	},
-	{
-		"animeId": "dr-stone-new-world-part-2",
-		"episodeId": "dr-stone-new-world-part-2-episode-10",
-		"jname": "Dr. STONE: NEW WORLD Part 2",
-		"name": "Dr. STONE New World Part 2",
-		"episodeNum": 11,
-		"sub": 10,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162670-07XrFq2hreTx.jpg"
-	},
+
 
 	{
 		"animeId": "attack-on-titan-the-final-season-part-4",
