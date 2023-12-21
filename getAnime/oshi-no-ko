@@ -32,11 +32,6 @@
 		"month": 6,
 		"day": 21
 	},
-	"nextAiringEpisode": {
-		"airingTime": 1683122400,
-		"timeUntilAiring": 380258,
-		"episode": 11
-	},
 	"totalEpisodes": 11,
 	"currentEpisode": 11,
 	"rating": 89,
@@ -44,7 +39,7 @@
 	"genres": ["Drama", "Mystery", "Psychological", "Supernatural"],
 	"season": "SPRING",
 	"studios": ["Doga Kobo"],
-	"subOrDub": "sub",
+	"subOrDub": "dual",
 	"type": "TV",
 	"recommendations": [],
 	"characters": [{
