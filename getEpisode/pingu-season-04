@@ -1,288 +1,236 @@
 [
         {
-            "server1": "1r16v7rrpnuj",
-            "animeNameWithEP": "Pingu Season 04 Episode 1 Dubbed",
+            "server1": "zq1v8amgr3l4",
+            "server2": "zq1v8amgr3l4",
+            "animeNameWithEP": "Pingu Season 04 Episode 1",
             "ep_num": "1",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 2 >>",
-            "nextEpLink": "/pingu-season-04-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dub"
         },
         {
-            "server1": "lh3a54n0q6dj",
-            "animeNameWithEP": "Pingu Season 04 Episode 2 Dubbed",
+            "server1": "5yvn6mt6l20x",
+            "server2": "5yvn6mt6l20x",
+            "animeNameWithEP": "Pingu Season 04 Episode 2",
             "ep_num": "2",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 3 >>",
-            "nextEpLink": "/pingu-season-04-episode-3",
-            "prevEpText": "<< Pingu Season 04 Episode 1",
-            "prevEpLink": "/pingu-season-04-episode-1"
+            "subOrDub": "dub"
         },
         {
-            "server1": "ej28pnpmdqhq",
-            "animeNameWithEP": "Pingu Season 04 Episode 3 Dubbed",
+            "server1": "i3trmf8o5ecl",
+            "server2": "i3trmf8o5ecl",
+            "animeNameWithEP": "Pingu Season 04 Episode 3",
             "ep_num": "3",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 4 >>",
-            "nextEpLink": "/pingu-season-04-episode-4",
-            "prevEpText": "<< Pingu Season 04 Episode 2",
-            "prevEpLink": "/pingu-season-04-episode-2"
+            "subOrDub": "dub"
         },
         {
-            "server1": "9ed871cfs99m",
-            "animeNameWithEP": "Pingu Season 04 Episode 4 Dubbed",
+            "server1": "zumfxxnj8nq4",
+            "server2": "zumfxxnj8nq4",
+            "animeNameWithEP": "Pingu Season 04 Episode 4",
             "ep_num": "4",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 5 >>",
-            "nextEpLink": "/pingu-season-04-episode-5",
-            "prevEpText": "<< Pingu Season 04 Episode 3",
-            "prevEpLink": "/pingu-season-04-episode-3"
+            "subOrDub": "dub"
         },
         {
-            "server1": "1fsgjiyh57oo",
-            "animeNameWithEP": "Pingu Season 04 Episode 5 Dubbed",
+            "server1": "cxmjycaxr8bv",
+            "server2": "cxmjycaxr8bv",
+            "animeNameWithEP": "Pingu Season 04 Episode 5",
             "ep_num": "5",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 6 >>",
-            "nextEpLink": "/pingu-season-04-episode-6",
-            "prevEpText": "<< Pingu Season 04 Episode 4",
-            "prevEpLink": "/pingu-season-04-episode-4"
+            "subOrDub": "dub"
         },
         {
-            "server1": "epl7ec6ow6j1",
-            "animeNameWithEP": "Pingu Season 04 Episode 6 Dubbed",
+            "server1": "grn1hwhdgjy2",
+            "server2": "grn1hwhdgjy2",
+            "animeNameWithEP": "Pingu Season 04 Episode 6",
             "ep_num": "6",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 7 >>",
-            "nextEpLink": "/pingu-season-04-episode-7",
-            "prevEpText": "<< Pingu Season 04 Episode 5",
-            "prevEpLink": "/pingu-season-04-episode-5"
+            "subOrDub": "dub"
         },
         {
-            "server1": "03c2aiaz3mfc",
-            "animeNameWithEP": "Pingu Season 04 Episode 7 Dubbed",
+            "server1": "p75cv042timg",
+            "server2": "p75cv042timg",
+            "animeNameWithEP": "Pingu Season 04 Episode 7",
             "ep_num": "7",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 8 >>",
-            "nextEpLink": "/pingu-season-04-episode-8",
-            "prevEpText": "<< Pingu Season 04 Episode 6",
-            "prevEpLink": "/pingu-season-04-episode-6"
+            "subOrDub": "dub"
         },
         {
-            "server1": "5wyww1vwczqd",
-            "animeNameWithEP": "Pingu Season 04 Episode 8 Dubbed",
+            "server1": "otdi5wtw7fe4",
+            "server2": "otdi5wtw7fe4",
+            "animeNameWithEP": "Pingu Season 04 Episode 8",
             "ep_num": "8",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 9 >>",
-            "nextEpLink": "/pingu-season-04-episode-9",
-            "prevEpText": "<< Pingu Season 04 Episode 7",
-            "prevEpLink": "/pingu-season-04-episode-7"
+            "subOrDub": "dub"
         },
         {
-            "server1": "ocxryj6qihmb",
-            "animeNameWithEP": "Pingu Season 04 Episode 9 Dubbed",
+            "server1": "cycn8atsvga5",
+            "server2": "cycn8atsvga5",
+            "animeNameWithEP": "Pingu Season 04 Episode 9",
             "ep_num": "9",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 10 >>",
-            "nextEpLink": "/pingu-season-04-episode-10",
-            "prevEpText": "<< Pingu Season 04 Episode 8",
-            "prevEpLink": "/pingu-season-04-episode-8"
+            "subOrDub": "dub"
         },
         {
-            "server1": "x1b6lkxwu6q5",
-            "animeNameWithEP": "Pingu Season 04 Episode 10 Dubbed",
+            "server1": "jv0jbvupdvt9",
+            "server2": "jv0jbvupdvt9",
+            "animeNameWithEP": "Pingu Season 04 Episode 10",
             "ep_num": "10",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 11 >>",
-            "nextEpLink": "/pingu-season-04-episode-11",
-            "prevEpText": "<< Pingu Season 04 Episode 9",
-            "prevEpLink": "/pingu-season-04-episode-9"
+            "subOrDub": "dub"
         },
         {
-            "server1": "afg5ksz6y6b8",
-            "animeNameWithEP": "Pingu Season 04 Episode 11 Dubbed",
+            "server1": "3xiit9a6jlb5",
+            "server2": "3xiit9a6jlb5",
+            "animeNameWithEP": "Pingu Season 04 Episode 11",
             "ep_num": "11",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 12 >>",
-            "nextEpLink": "/pingu-season-04-episode-12",
-            "prevEpText": "<< Pingu Season 04 Episode 10",
-            "prevEpLink": "/pingu-season-04-episode-10"
+            "subOrDub": "dub"
         },
         {
-            "server1": "x7nx41tdaptw",
-            "animeNameWithEP": "Pingu Season 04 Episode 12 Dubbed",
+            "server1": "kmqbgg1r02ts",
+            "server2": "kmqbgg1r02ts",
+            "animeNameWithEP": "Pingu Season 04 Episode 12",
             "ep_num": "12",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 13 >>",
-            "nextEpLink": "/pingu-season-04-episode-13",
-            "prevEpText": "<< Pingu Season 04 Episode 11",
-            "prevEpLink": "/pingu-season-04-episode-11"
+            "subOrDub": "dub"
         },
         {
-            "server1": "daiyhfy08rps",
-            "animeNameWithEP": "Pingu Season 04 Episode 13 Dubbed",
+            "server1": "vs59abdb89jt",
+            "server2": "vs59abdb89jt",
+            "animeNameWithEP": "Pingu Season 04 Episode 13",
             "ep_num": "13",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 14 >>",
-            "nextEpLink": "/pingu-season-04-episode-14",
-            "prevEpText": "<< Pingu Season 04 Episode 12",
-            "prevEpLink": "/pingu-season-04-episode-12"
+            "subOrDub": "dub"
         },
         {
-            "server1": "a096x0100wsd",
-            "animeNameWithEP": "Pingu Season 04 Episode 14 Dubbed",
+            "server1": "g1t0by72ncgv",
+            "server2": "g1t0by72ncgv",
+            "animeNameWithEP": "Pingu Season 04 Episode 14",
             "ep_num": "14",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 15 >>",
-            "nextEpLink": "/pingu-season-04-episode-15",
-            "prevEpText": "<< Pingu Season 04 Episode 13",
-            "prevEpLink": "/pingu-season-04-episode-13"
+            "subOrDub": "dub"
         },
         {
-            "server1": "vahgd9el7p9v",
-            "animeNameWithEP": "Pingu Season 04 Episode 15 Dubbed",
+            "server1": "uyjm227kte7t",
+            "server2": "uyjm227kte7t",
+            "animeNameWithEP": "Pingu Season 04 Episode 15",
             "ep_num": "15",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 16 >>",
-            "nextEpLink": "/pingu-season-04-episode-16",
-            "prevEpText": "<< Pingu Season 04 Episode 14",
-            "prevEpLink": "/pingu-season-04-episode-14"
+            "subOrDub": "dub"
         },
         {
-            "server1": "z3t25d2s3ady",
-            "animeNameWithEP": "Pingu Season 04 Episode 16 Dubbed",
+            "server1": "koft6eummgei",
+            "server2": "koft6eummgei",
+            "animeNameWithEP": "Pingu Season 04 Episode 16",
             "ep_num": "16",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 17 >>",
-            "nextEpLink": "/pingu-season-04-episode-17",
-            "prevEpText": "<< Pingu Season 04 Episode 15",
-            "prevEpLink": "/pingu-season-04-episode-15"
+            "subOrDub": "dub"
         },
         {
-            "server1": "1uhw6z4qjwiq",
-            "animeNameWithEP": "Pingu Season 04 Episode 17 Dubbed",
+            "server1": "x6hccbilar96",
+            "server2": "x6hccbilar96",
+            "animeNameWithEP": "Pingu Season 04 Episode 17",
             "ep_num": "17",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 18 >>",
-            "nextEpLink": "/pingu-season-04-episode-18",
-            "prevEpText": "<< Pingu Season 04 Episode 16",
-            "prevEpLink": "/pingu-season-04-episode-16"
+            "subOrDub": "dub"
         },
         {
-            "server1": "cgir0a28lndm",
-            "animeNameWithEP": "Pingu Season 04 Episode 18 Dubbed",
+            "server1": "cmye8udoy4vf",
+            "server2": "cmye8udoy4vf",
+            "animeNameWithEP": "Pingu Season 04 Episode 18",
             "ep_num": "18",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 19 >>",
-            "nextEpLink": "/pingu-season-04-episode-19",
-            "prevEpText": "<< Pingu Season 04 Episode 17",
-            "prevEpLink": "/pingu-season-04-episode-17"
+            "subOrDub": "dub"
         },
         {
-            "server1": "espapg115uyx",
-            "animeNameWithEP": "Pingu Season 04 Episode 19 Dubbed",
+            "server1": "vf7fosfyfk0a",
+            "server2": "vf7fosfyfk0a",
+            "animeNameWithEP": "Pingu Season 04 Episode 19",
             "ep_num": "19",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 20 >>",
-            "nextEpLink": "/pingu-season-04-episode-20",
-            "prevEpText": "<< Pingu Season 04 Episode 18",
-            "prevEpLink": "/pingu-season-04-episode-18"
+            "subOrDub": "dub"
         },
         {
-            "server1": "tkvqo6ri15go",
-            "animeNameWithEP": "Pingu Season 04 Episode 20 Dubbed",
+            "server1": "qudvp251h993",
+            "server2": "qudvp251h993",
+            "animeNameWithEP": "Pingu Season 04 Episode 20",
             "ep_num": "20",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 21 >>",
-            "nextEpLink": "/pingu-season-04-episode-21",
-            "prevEpText": "<< Pingu Season 04 Episode 19",
-            "prevEpLink": "/pingu-season-04-episode-19"
+            "subOrDub": "dub"
         },
         {
-            "server1": "anb9i8jcjbgm",
-            "animeNameWithEP": "Pingu Season 04 Episode 21 Dubbed",
+            "server1": "717btpz2el1l",
+            "server2": "717btpz2el1l",
+            "animeNameWithEP": "Pingu Season 04 Episode 21",
             "ep_num": "21",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 22 >>",
-            "nextEpLink": "/pingu-season-04-episode-22",
-            "prevEpText": "<< Pingu Season 04 Episode 20",
-            "prevEpLink": "/pingu-season-04-episode-20"
+            "subOrDub": "dub"
         },
         {
-            "server1": "i2itohauh9bu",
-            "animeNameWithEP": "Pingu Season 04 Episode 22 Dubbed",
+            "server1": "p45q31f6t0cq",
+            "server2": "p45q31f6t0cq",
+            "animeNameWithEP": "Pingu Season 04 Episode 22",
             "ep_num": "22",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 23 >>",
-            "nextEpLink": "/pingu-season-04-episode-23",
-            "prevEpText": "<< Pingu Season 04 Episode 21",
-            "prevEpLink": "/pingu-season-04-episode-21"
+            "subOrDub": "dub"
         },
         {
-            "server1": "qh7oxd16uwx3",
-            "animeNameWithEP": "Pingu Season 04 Episode 23 Dubbed",
+            "server1": "9tr9offf8x0h",
+            "server2": "9tr9offf8x0h",
+            "animeNameWithEP": "Pingu Season 04 Episode 23",
             "ep_num": "23",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 24 >>",
-            "nextEpLink": "/pingu-season-04-episode-24",
-            "prevEpText": "<< Pingu Season 04 Episode 22",
-            "prevEpLink": "/pingu-season-04-episode-22"
+            "subOrDub": "dub"
         },
         {
-            "server1": "r47pwl3ccbi3",
-            "animeNameWithEP": "Pingu Season 04 Episode 24 Dubbed",
+            "server1": "kq2kcjuec435",
+            "server2": "kq2kcjuec435",
+            "animeNameWithEP": "Pingu Season 04 Episode 24",
             "ep_num": "24",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 25 >>",
-            "nextEpLink": "/pingu-season-04-episode-25",
-            "prevEpText": "<< Pingu Season 04 Episode 23",
-            "prevEpLink": "/pingu-season-04-episode-23"
+            "subOrDub": "dub"
         },
         {
-            "server1": "gq03glhezhkd",
-            "animeNameWithEP": "Pingu Season 04 Episode 25 Dubbed",
+            "server1": "u1z8rnv7jsj3",
+            "server2": "u1z8rnv7jsj3",
+            "animeNameWithEP": "Pingu Season 04 Episode 25",
             "ep_num": "25",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "Pingu Season 04 Episode 26 >>",
-            "nextEpLink": "/pingu-season-04-episode-26",
-            "prevEpText": "<< Pingu Season 04 Episode 24",
-            "prevEpLink": "/pingu-season-04-episode-24"
+            "subOrDub": "dub"
         },
         {
-            "server1": "nx91g5lvbqzl",
-            "animeNameWithEP": "Pingu Season 04 Episode 26 Dubbed",
+            "server1": "yw4332aqbg9w",
+            "server2": "yw4332aqbg9w",
+            "animeNameWithEP": "Pingu Season 04 Episode 26",
             "ep_num": "26",
             "anime_info": "pingu-season-04",
             "movie_id": "9262",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Pingu Season 04 Episode 25",
-            "prevEpLink": "/pingu-season-04-episode-25"
+            "subOrDub": "dub"
         }
     ]
