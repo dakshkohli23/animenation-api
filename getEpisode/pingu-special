@@ -1,13 +1,11 @@
 [
         {
-            "server1": "anc6k6fy8g7p",
-            "animeNameWithEP": "Pingu Special Episode 1 Dubbed",
+            "server1": "on13xtbhby6q",
+            "server2": "on13xtbhby6q",
+            "animeNameWithEP": "Pingu Special",
             "ep_num": "1",
             "anime_info": "pingu-special",
             "movie_id": "9262",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dub"
         }
     ]
