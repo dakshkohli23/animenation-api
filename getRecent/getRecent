@@ -1,5 +1,15 @@
 [
 	{
+		"animeId": "pingu-in-the-city-2",
+		"episodeId": "pingu-in-the-city-2-episode-1",
+		"jname": "Pingu in the City 2",
+		"name": "Pingu in the City 2",
+		"episodeNum": 26,
+		"dub": 26,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99995-lR1k6Q3EeHBP.jpg"
+	},
+	{
 		"animeId": "jujutsu-kaisen-season-2",
 		"episodeId": "jujutsu-kaisen-season-2-episode-22",
 		"name": "JUJUTSU KAISEN Season 2",
@@ -10,16 +20,7 @@
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
 	},
-	{
-		"animeId": "pingu-season-06",
-		"episodeId": "pingu-season-06-episode-1",
-		"jname": "Pingu Season 06",
-		"name": "Pingu Season 06",
-		"episodeNum": 26,
-		"dub": 26,
-		"type": "tv",
-		"imgUrl": "https://www.themoviedb.org/t/p/original/9U7J0pwzAatzMRFCGKjnBWzXcRa.jpg"
-	},
+
 	{
 		"animeId": "dr-stone-new-world-part-2",
 		"episodeId": "dr-stone-new-world-part-2-episode-11",
