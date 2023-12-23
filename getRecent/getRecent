@@ -1,5 +1,15 @@
 [
 	{
+		"animeId": "pokemon-horizons-the-series",
+		"episodeId": "pokemon-horizons-the-series-episode-34",
+		"jname": "Pocket Monsters (2023)",
+		"name": "Pokémon Horizons: The Series",
+		"episodeNum": 34,
+		"sub": 34,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
+	},
+	{
 		"animeId": "pingu-in-the-city-2",
 		"episodeId": "pingu-in-the-city-2-episode-1",
 		"jname": "Pingu in the City 2",
@@ -53,16 +63,7 @@
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163329-IwFrtk7HkFQ9.jpg"
 	},
-	{
-		"animeId": "pokemon-horizons-the-series",
-		"episodeId": "pokemon-horizons-the-series-episode-33",
-		"jname": "Pocket Monsters (2023)",
-		"name": "Pokémon Horizons: The Series",
-		"episodeNum": 33,
-		"sub": 33,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
-	},
+
 
 
 
