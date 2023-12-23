@@ -1,288 +1,236 @@
 [
         {
-            "server1": "zlctf7acw07l",
-            "animeNameWithEP": "Pingu in the City Episode 1 Dubbed",
+            "server1": "nxo7jxymdr48",
+            "server2": "nxo7jxymdr48",
+            "animeNameWithEP": "Pingu in the City Episode 1",
             "ep_num": "1",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 2 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dub"
         },
         {
-            "server1": "qyvr4dvbrxgn",
-            "animeNameWithEP": "Pingu in the City Episode 2 Dubbed",
+            "server1": "ujgkijmzcb2h",
+            "server2": "ujgkijmzcb2h",
+            "animeNameWithEP": "Pingu in the City Episode 2",
             "ep_num": "2",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 3 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-3",
-            "prevEpText": "<< Pingu in the City Episode 1",
-            "prevEpLink": "/pingu-in-the-city-episode-1"
+            "subOrDub": "dub"
         },
         {
-            "server1": "2g34fqcdwfc8",
-            "animeNameWithEP": "Pingu in the City Episode 3 Dubbed",
+            "server1": "hkfnnxpxxonv",
+            "server2": "hkfnnxpxxonv",
+            "animeNameWithEP": "Pingu in the City Episode 3",
             "ep_num": "3",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 4 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-4",
-            "prevEpText": "<< Pingu in the City Episode 2",
-            "prevEpLink": "/pingu-in-the-city-episode-2"
+            "subOrDub": "dub"
         },
         {
-            "server1": "16tcxp6rdda8",
-            "animeNameWithEP": "Pingu in the City Episode 4 Dubbed",
+            "server1": "19an81k9g2d3",
+            "server2": "19an81k9g2d3",
+            "animeNameWithEP": "Pingu in the City Episode 4",
             "ep_num": "4",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 5 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-5",
-            "prevEpText": "<< Pingu in the City Episode 3",
-            "prevEpLink": "/pingu-in-the-city-episode-3"
+            "subOrDub": "dub"
         },
         {
-            "server1": "uq5btw9a6ck2",
-            "animeNameWithEP": "Pingu in the City Episode 5 Dubbed",
+            "server1": "y7lrzz8xffbt",
+            "server2": "y7lrzz8xffbt",
+            "animeNameWithEP": "Pingu in the City Episode 5",
             "ep_num": "5",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 6 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-6",
-            "prevEpText": "<< Pingu in the City Episode 4",
-            "prevEpLink": "/pingu-in-the-city-episode-4"
+            "subOrDub": "dub"
         },
         {
-            "server1": "91xo9cagus1h",
-            "animeNameWithEP": "Pingu in the City Episode 6 Dubbed",
+            "server1": "genzxlqw5sfp",
+            "server2": "genzxlqw5sfp",
+            "animeNameWithEP": "Pingu in the City Episode 6",
             "ep_num": "6",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 7 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-7",
-            "prevEpText": "<< Pingu in the City Episode 5",
-            "prevEpLink": "/pingu-in-the-city-episode-5"
+            "subOrDub": "dub"
         },
         {
-            "server1": "jrud8s67edhx",
-            "animeNameWithEP": "Pingu in the City Episode 7 Dubbed",
+            "server1": "yd4y22iquldw",
+            "server2": "yd4y22iquldw",
+            "animeNameWithEP": "Pingu in the City Episode 7",
             "ep_num": "7",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 8 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-8",
-            "prevEpText": "<< Pingu in the City Episode 6",
-            "prevEpLink": "/pingu-in-the-city-episode-6"
+            "subOrDub": "dub"
         },
         {
-            "server1": "qlj279zgex84",
-            "animeNameWithEP": "Pingu in the City Episode 8 Dubbed",
+            "server1": "0viyd0fr3if7",
+            "server2": "0viyd0fr3if7",
+            "animeNameWithEP": "Pingu in the City Episode 8",
             "ep_num": "8",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 9 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-9",
-            "prevEpText": "<< Pingu in the City Episode 7",
-            "prevEpLink": "/pingu-in-the-city-episode-7"
+            "subOrDub": "dub"
         },
         {
-            "server1": "pzjgecip4zbe",
-            "animeNameWithEP": "Pingu in the City Episode 9 Dubbed",
+            "server1": "cga4s3bkkqzz",
+            "server2": "cga4s3bkkqzz",
+            "animeNameWithEP": "Pingu in the City Episode 9",
             "ep_num": "9",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 10 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-10",
-            "prevEpText": "<< Pingu in the City Episode 8",
-            "prevEpLink": "/pingu-in-the-city-episode-8"
+            "subOrDub": "dub"
         },
         {
-            "server1": "ouhmnf6i1paa",
-            "animeNameWithEP": "Pingu in the City Episode 10 Dubbed",
+            "server1": "t7lhejd9rpt1",
+            "server2": "t7lhejd9rpt1",
+            "animeNameWithEP": "Pingu in the City Episode 10",
             "ep_num": "10",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 11 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-11",
-            "prevEpText": "<< Pingu in the City Episode 9",
-            "prevEpLink": "/pingu-in-the-city-episode-9"
+            "subOrDub": "dub"
         },
         {
-            "server1": "u7phu5o6axdm",
-            "animeNameWithEP": "Pingu in the City Episode 11 Dubbed",
+            "server1": "074fqfhlk99t",
+            "server2": "074fqfhlk99t",
+            "animeNameWithEP": "Pingu in the City Episode 11",
             "ep_num": "11",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 12 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-12",
-            "prevEpText": "<< Pingu in the City Episode 10",
-            "prevEpLink": "/pingu-in-the-city-episode-10"
+            "subOrDub": "dub"
         },
         {
-            "server1": "ebyx8an91mit",
-            "animeNameWithEP": "Pingu in the City Episode 12 Dubbed",
+            "server1": "dwhgfarv8k50",
+            "server2": "dwhgfarv8k50",
+            "animeNameWithEP": "Pingu in the City Episode 12",
             "ep_num": "12",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 13 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-13",
-            "prevEpText": "<< Pingu in the City Episode 11",
-            "prevEpLink": "/pingu-in-the-city-episode-11"
+            "subOrDub": "dub"
         },
         {
-            "server1": "lzz8ui0pgxxj",
-            "animeNameWithEP": "Pingu in the City Episode 13 Dubbed",
+            "server1": "d99q6m94fhja",
+            "server2": "d99q6m94fhja",
+            "animeNameWithEP": "Pingu in the City Episode 13",
             "ep_num": "13",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 14 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-14",
-            "prevEpText": "<< Pingu in the City Episode 12",
-            "prevEpLink": "/pingu-in-the-city-episode-12"
+            "subOrDub": "dub"
         },
         {
-            "server1": "8kvan4zwf8zl",
-            "animeNameWithEP": "Pingu in the City Episode 14 Dubbed",
+            "server1": "it8888m1igcv",
+            "server2": "it8888m1igcv",
+            "animeNameWithEP": "Pingu in the City Episode 14",
             "ep_num": "14",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 15 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-15",
-            "prevEpText": "<< Pingu in the City Episode 13",
-            "prevEpLink": "/pingu-in-the-city-episode-13"
+            "subOrDub": "dub"
         },
         {
-            "server1": "alypwcy8loqc",
-            "animeNameWithEP": "Pingu in the City Episode 15 Dubbed",
+            "server1": "r7ljzo7w3ldh",
+            "server2": "r7ljzo7w3ldh",
+            "animeNameWithEP": "Pingu in the City Episode 15",
             "ep_num": "15",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 16 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-16",
-            "prevEpText": "<< Pingu in the City Episode 14",
-            "prevEpLink": "/pingu-in-the-city-episode-14"
+            "subOrDub": "dub"
         },
         {
-            "server1": "o6pu0tnscyow",
-            "animeNameWithEP": "Pingu in the City Episode 16 Dubbed",
+            "server1": "nfq3oi6r47s1",
+            "server2": "nfq3oi6r47s1",
+            "animeNameWithEP": "Pingu in the City Episode 16",
             "ep_num": "16",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 17 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-17",
-            "prevEpText": "<< Pingu in the City Episode 15",
-            "prevEpLink": "/pingu-in-the-city-episode-15"
+            "subOrDub": "dub"
         },
         {
-            "server1": "vsc3mgg550yi",
-            "animeNameWithEP": "Pingu in the City Episode 17 Dubbed",
+            "server1": "otn2sl2bvap3",
+            "server2": "otn2sl2bvap3",
+            "animeNameWithEP": "Pingu in the City Episode 17",
             "ep_num": "17",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 18 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-18",
-            "prevEpText": "<< Pingu in the City Episode 16",
-            "prevEpLink": "/pingu-in-the-city-episode-16"
+            "subOrDub": "dub"
         },
         {
-            "server1": "mri89z1fpvcy",
-            "animeNameWithEP": "Pingu in the City Episode 18 Dubbed",
+            "server1": "zm480xa0h9ko",
+            "server2": "zm480xa0h9ko",
+            "animeNameWithEP": "Pingu in the City Episode 18",
             "ep_num": "18",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 19 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-19",
-            "prevEpText": "<< Pingu in the City Episode 17",
-            "prevEpLink": "/pingu-in-the-city-episode-17"
+            "subOrDub": "dub"
         },
         {
-            "server1": "izbaqf14p7rj",
-            "animeNameWithEP": "Pingu in the City Episode 19 Dubbed",
+            "server1": "sxilmobqvolv",
+            "server2": "sxilmobqvolv",
+            "animeNameWithEP": "Pingu in the City Episode 19",
             "ep_num": "19",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 20 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-20",
-            "prevEpText": "<< Pingu in the City Episode 18",
-            "prevEpLink": "/pingu-in-the-city-episode-18"
+            "subOrDub": "dub"
         },
         {
-            "server1": "cva0ty73p7li",
-            "animeNameWithEP": "Pingu in the City Episode 20 Dubbed",
+            "server1": "lydn8paq48e1",
+            "server2": "lydn8paq48e1",
+            "animeNameWithEP": "Pingu in the City Episode 20",
             "ep_num": "20",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 21 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-21",
-            "prevEpText": "<< Pingu in the City Episode 19",
-            "prevEpLink": "/pingu-in-the-city-episode-19"
+            "subOrDub": "dub"
         },
         {
-            "server1": "o46pcfkdltcq",
-            "animeNameWithEP": "Pingu in the City Episode 21 Dubbed",
+            "server1": "1pe9ngop0szr",
+            "server2": "1pe9ngop0szr",
+            "animeNameWithEP": "Pingu in the City Episode 21",
             "ep_num": "21",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 22 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-22",
-            "prevEpText": "<< Pingu in the City Episode 20",
-            "prevEpLink": "/pingu-in-the-city-episode-20"
+            "subOrDub": "dub"
         },
         {
-            "server1": "c96aqwx8sswc",
-            "animeNameWithEP": "Pingu in the City Episode 22 Dubbed",
+            "server1": "0qlirja0yghs",
+            "server2": "0qlirja0yghs",
+            "animeNameWithEP": "Pingu in the City Episode 22",
             "ep_num": "22",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 23 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-23",
-            "prevEpText": "<< Pingu in the City Episode 21",
-            "prevEpLink": "/pingu-in-the-city-episode-21"
+            "subOrDub": "dub"
         },
         {
-            "server1": "cyliz1yyo7i9",
-            "animeNameWithEP": "Pingu in the City Episode 23 Dubbed",
+            "server1": "lka7v0yolqg4",
+            "server2": "lka7v0yolqg4",
+            "animeNameWithEP": "Pingu in the City Episode 23",
             "ep_num": "23",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 24 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-24",
-            "prevEpText": "<< Pingu in the City Episode 22",
-            "prevEpLink": "/pingu-in-the-city-episode-22"
+            "subOrDub": "dub"
         },
         {
-            "server1": "7pr8remlni3f",
-            "animeNameWithEP": "Pingu in the City Episode 24 Dubbed",
+            "server1": "sdsyhc9mw5hr",
+            "server2": "sdsyhc9mw5hr",
+            "animeNameWithEP": "Pingu in the City Episode 24",
             "ep_num": "24",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 25 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-25",
-            "prevEpText": "<< Pingu in the City Episode 23",
-            "prevEpLink": "/pingu-in-the-city-episode-23"
+            "subOrDub": "dub"
         },
         {
-            "server1": "ntqfhrn1nt4p",
-            "animeNameWithEP": "Pingu in the City Episode 25 Dubbed",
+            "server1": "6nut1ymvwmgv",
+            "server2": "6nut1ymvwmgv",
+            "animeNameWithEP": "Pingu in the City Episode 25",
             "ep_num": "25",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "Pingu in the City Episode 26 >>",
-            "nextEpLink": "/pingu-in-the-city-episode-26",
-            "prevEpText": "<< Pingu in the City Episode 24",
-            "prevEpLink": "/pingu-in-the-city-episode-24"
+            "subOrDub": "dub"
         },
         {
-            "server1": "82nsidlmcha9",
-            "animeNameWithEP": "Pingu in the City Episode 26 Dubbed",
+            "server1": "p2ebnry76gfe",
+            "server2": "p2ebnry76gfe",
+            "animeNameWithEP": "Pingu in the City Episode 26",
             "ep_num": "26",
             "anime_info": "pingu-in-the-city",
             "movie_id": "99994",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Pingu in the City Episode 25",
-            "prevEpLink": "/pingu-in-the-city-episode-25"
+            "subOrDub": "dub"
         }
     ]
