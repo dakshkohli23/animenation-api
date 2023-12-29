@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "jujutsu-kaisen-season-2",
+		"episodeId": "jujutsu-kaisen-season-2-episode-23",
+		"name": "JUJUTSU KAISEN Season 2",
+		"jname": "Jujutsu Kaisen 2nd Season",
+		"episodeNum": 23,
+		"dub": 20,
+		"sub": 23,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
+	},
+	{
 		"animeId": "pokemon-concierge",
 		"episodeId": "pokemon-concierge-episode-1",
 		"jname": "Pokémon Concierge",
@@ -39,17 +50,6 @@
 		"sub": 26,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99995-lR1k6Q3EeHBP.jpg"
-	},
-	{
-		"animeId": "jujutsu-kaisen-season-2",
-		"episodeId": "jujutsu-kaisen-season-2-episode-22",
-		"name": "JUJUTSU KAISEN Season 2",
-		"jname": "Jujutsu Kaisen 2nd Season",
-		"episodeNum": 24,
-		"dub": 20,
-		"sub": 22,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
 	},
 
 	{
