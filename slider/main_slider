@@ -1,5 +1,26 @@
 [
 {
+		"id": "162147",
+		"malId": 54633,
+		"title": {
+		 "romaji": "Pokémon Concierge",
+  	         "english": "Pokémon Concierge",
+    		 "native": "ポケモンコンシェルジュ"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-90IXqW7pehgw.jpg",
+		"description": "<i>Pack your bags—an all-new Pokémon paradise awaits!</i>\n<br><br>\nIntroducing <i>Pokémon Concierge</i>, a new collaboration between Pokémon and Netflix featuring stop-motion animation by dwarf studio. Follow Haru, a worker at the Pokémon Resort, and Psyduck as they meet Pokémon and Trainers on vacation! <br><br>\n(Source: Official Pokémon YouTube video description) \n<br><br>\n<i>Note: Announced on Pokémon Day 2023.</i>",
+    		"status": "Completed",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162147-fQ1wNM1CQ7gE.jpg",
+		"rating": 70,
+		"releaseDate": 2023,
+		"genres": ["Fantasy", "Slice of Life", "Kids"],
+		"totalEpisodes": 4,
+		"duration": 18,
+		"type": "ONA",
+		"animeUrl": "/anime/pokemon-concierge",
+		"watchUrl": "/watch/pokemon-concierge-episode-1"
+	},
+{
 		"id": "163329",
 		"malId": 54918,
 		"title": {
