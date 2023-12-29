@@ -24,11 +24,7 @@
     "description": "The third season of <i>Jujutsu Kaisen</i>, adapting the Culling Game Arc.",
     "status": "Not yet aired",
     "startDate": "NA",
-    "endDate": {
-        "year": null,
-        "month": null,
-        "day": null
-    },
+    "endDate": "NA",
     "totalEpisodes": null,
     "currentEpisode": null,
     "rating": null,
