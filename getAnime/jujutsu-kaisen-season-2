@@ -20,7 +20,7 @@
 	"color": "#5d86e4",
 	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-kH9vbOEitIhl.jpg",
 	"description": "The second season of <i>Jujutsu Kaisen</i>.<br>\n<br>\nThe past comes to light when second-year students Satoru Gojou and Suguru Getou are tasked with escorting young Riko Amanai to Master Tengen. But when a non-sorcerer user tries to kill them, their mission to protect the Star Plasma Vessel threatens to turn them into bitter enemies and cement their destinies—one as the world’s strongest sorcerer, and the other its most twisted curse user!<br>\n<br>\n(Source: Crunchyroll)",
-	"status": "Ongoing",
+	"status": "Completed",
 	"releaseDate": 2023,
 	"startDate": {
 		"year": 2023,
@@ -32,13 +32,8 @@
 		"month": null,
 		"day": null
 	},
-	"nextAiringEpisode": {
-		"airingTime": 1690469760,
-		"timeUntilAiring": 277095,
-		"episode": 4
-	},
 	"totalEpisodes": 23,
-	"currentEpisode": 22,
+	"currentEpisode": 23,
 	"rating": 85,
 	"duration": 24,
 	"genres": ["Action", "Drama", "Supernatural"],
@@ -1012,5 +1007,13 @@
             "number": "22",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/9879042/screencap/6582e339e546e.jpg",
             "air_date": "December 21, 2023"
+        },
+        {
+            "id": "jujutsu-kaisen-season-2-episode-23",
+            "title": "Shibuya Incident - Gate, Close",
+            "description": "Choso begins to realize the identity of the mastermind parasitizing Geto's corpse as sorcerers gather for the final moments of the Shibuya Incident. The special-grade sorcerer, Yuki Tsukumo, comes to the rescue when they're on the verge of death.",
+            "number": "23",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9879043/screencap/658c1174b40c2.jpg",
+            "air_date": "December 28, 2023"
         }]
 }
