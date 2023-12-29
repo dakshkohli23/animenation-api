@@ -1,0 +1,579 @@
+{
+    "id": "162147",
+    "title": {
+        "romaji": "Pokémon Concierge",
+        "english": "Pokémon Concierge",
+        "native": "ポケモンコンシェルジュ"
+    },
+    "malId": 54633,
+    "synonyms": [
+        "Pocket Monsters Concierge",
+        "Pokémon Portvakt",
+        "Konsjerżka Pokémonów",
+        "La concierge Pokémon"
+    ],
+    "isLicensed": true,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "trailer": {
+        "id": "a1zmhHLVrq0",
+        "site": "youtube",
+        "thumbnail": "https://i.ytimg.com/vi/a1zmhHLVrq0/hqdefault.jpg"
+    },
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-90IXqW7pehgw.jpg",
+    "popularity": 1926,
+    "color": "#f1bb43",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162147-fQ1wNM1CQ7gE.jpg",
+    "description": "<i>Pack your bags—an all-new Pokémon paradise awaits!</i>\n<br><br>\nIntroducing <i>Pokémon Concierge</i>, a new collaboration between Pokémon and Netflix featuring stop-motion animation by dwarf studio. Follow Haru, a worker at the Pokémon Resort, and Psyduck as they meet Pokémon and Trainers on vacation! <br><br>\n(Source: Official Pokémon YouTube video description) \n<br><br>\n<i>Note: Announced on Pokémon Day 2023.</i>",
+    "status": "Completed",
+    "releaseDate": 2023,
+    "startDate": {
+        "year": 2023,
+        "month": 12,
+        "day": 28
+    },
+    "endDate": {
+        "year": 2023,
+        "month": 12,
+        "day": 28
+    },
+    "totalEpisodes": 4,
+    "currentEpisode": 4,
+    "rating": null,
+    "duration": 18,
+    "genres": [
+        "Fantasy",
+        "Slice of Life"
+    ],
+    "season": "FALL",
+    "studios": [
+        "dwarf"
+    ],
+    "subOrDub": "dual",
+    "type": "ONA",
+    "recommendations": [],
+    "characters": [
+        {
+            "id": 136296,
+            "role": "MAIN",
+            "name": {
+                "first": "Koduck",
+                "last": null,
+                "full": "Koduck",
+                "native": "コダック",
+                "userPreferred": "Koduck"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136296-2N0Jp2pV8DeV.png",
+            "voiceActors": [
+                {
+                    "id": 247124,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Hiroshi",
+                        "last": "Kousaka",
+                        "full": "Hiroshi Kousaka",
+                        "native": "高坂宙",
+                        "userPreferred": "Hiroshi Kousaka"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n247124-dkm4RN07FBX2.png"
+                }
+            ]
+        },
+        {
+            "id": 299552,
+            "role": "MAIN",
+            "name": {
+                "first": "Haru",
+                "last": null,
+                "full": "Haru",
+                "native": "ハル",
+                "userPreferred": "Haru"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299552-1h0ye95Jp7r4.png",
+            "voiceActors": [
+                {
+                    "id": 127826,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Rena",
+                        "last": "Nounen",
+                        "full": "Rena Nounen",
+                        "native": "能年玲奈",
+                        "userPreferred": "Rena Nounen"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127826-JD0iRd7FiUZf.png"
+                },
+                {
+                    "id": 260168,
+                    "language": "English",
+                    "name": {
+                        "first": "Karen",
+                        "last": "Fukuhara",
+                        "full": "Karen Fukuhara",
+                        "native": "福原かれん",
+                        "userPreferred": "Karen Fukuhara"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n260168-AiS5oHwJCqer.png"
+                },
+                {
+                    "id": 303895,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Thainá",
+                        "last": "Lana",
+                        "full": "Thainá Lana",
+                        "native": null,
+                        "userPreferred": "Thainá Lana"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+                },
+                {
+                    "id": 262673,
+                    "language": "Polish",
+                    "name": {
+                        "first": "Martyna",
+                        "last": "Kowalik",
+                        "full": "Martyna Kowalik",
+                        "native": null,
+                        "userPreferred": "Martyna Kowalik"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n262673-5Vgw02zsdfRI.png"
+                },
+                {
+                    "id": 322249,
+                    "language": "Norwegian",
+                    "name": {
+                        "first": "Mathilde",
+                        "last": "Storm",
+                        "full": "Mathilde Storm",
+                        "native": null,
+                        "userPreferred": "Mathilde Storm"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+                },
+                {
+                    "id": 322251,
+                    "language": "Swedish",
+                    "name": {
+                        "first": "Malva",
+                        "last": "Goldmann",
+                        "full": "Malva Goldmann",
+                        "native": null,
+                        "userPreferred": "Malva Goldmann"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n322251-WzquBiP5dKKZ.png"
+                }
+            ]
+        },
+        {
+            "id": 319297,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Alisa",
+                "last": null,
+                "full": "Alisa",
+                "native": "アリサ",
+                "userPreferred": "Alisa"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319297-nNMYzGptIgqy.png",
+            "voiceActors": [
+                {
+                    "id": 133625,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Fairouz Ai",
+                        "last": "",
+                        "full": "Fairouz Ai",
+                        "native": "ファイルーズあい",
+                        "userPreferred": "Fairouz Ai"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n133625-YpEgKD7flV2S.jpg"
+                },
+                {
+                    "id": 319301,
+                    "language": "English",
+                    "name": {
+                        "first": "Imani",
+                        "last": "Hakim",
+                        "full": "Imani Hakim",
+                        "native": null,
+                        "userPreferred": "Imani Hakim"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n319301-PH0IYvAch4ro.png"
+                },
+                {
+                    "id": 218388,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Thati",
+                        "last": "Carvalho",
+                        "full": "Thati Carvalho",
+                        "native": null,
+                        "userPreferred": "Thati Carvalho"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n218388-mwzYSECF8SYI.jpg"
+                },
+                {
+                    "id": 279425,
+                    "language": "Polish",
+                    "name": {
+                        "first": "Weronika",
+                        "last": "Łukaszewska",
+                        "full": "Weronika Łukaszewska",
+                        "native": null,
+                        "userPreferred": "Weronika Łukaszewska"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n279425-VUQ1pKlkjUvB.png"
+                },
+                {
+                    "id": 322254,
+                    "language": "Norwegian",
+                    "name": {
+                        "first": "Frida",
+                        "last": "Grjotheim",
+                        "full": "Frida Grjotheim",
+                        "native": null,
+                        "userPreferred": "Frida Farnes Grjotheim"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n322254-G4ea4lJM7du8.png"
+                },
+                {
+                    "id": 322255,
+                    "language": "Swedish",
+                    "name": {
+                        "first": "Sora",
+                        "last": "Elding",
+                        "full": "Sora Elding",
+                        "native": "エルディング空",
+                        "userPreferred": "Sora Elding"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n322255-AjHS5zQFqBQ1.png"
+                }
+            ]
+        },
+        {
+            "id": 319298,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Tyler",
+                "last": null,
+                "full": "Tyler",
+                "native": "タイラ",
+                "userPreferred": "Tyler"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319298-9T3GyqZNkXBx.png",
+            "voiceActors": [
+                {
+                    "id": 319299,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Eita",
+                        "last": "Okuno",
+                        "full": "Eita Okuno",
+                        "native": "奥野瑛太",
+                        "userPreferred": "Eita Okuno"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n319299-GPZQSiDoQFGz.png"
+                },
+                {
+                    "id": 272258,
+                    "language": "English",
+                    "name": {
+                        "first": "Josh",
+                        "last": "Keaton",
+                        "full": "Josh Keaton",
+                        "native": null,
+                        "userPreferred": "Josh Keaton"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n272258-Tq5IbwFrmyCg.jpg"
+                },
+                {
+                    "id": 186399,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Hector",
+                        "last": "Gomes",
+                        "full": "Hector Gomes",
+                        "native": null,
+                        "userPreferred": "Hector Gomes"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n186399-73pWYP4uOmgv.jpg"
+                },
+                {
+                    "id": 319352,
+                    "language": "Polish",
+                    "name": {
+                        "first": "Jan",
+                        "last": "Butruk",
+                        "full": "Jan Butruk",
+                        "native": null,
+                        "userPreferred": "Jan Butruk"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n319352-1QWqap717dqK.png"
+                },
+                {
+                    "id": 322252,
+                    "language": "Norwegian",
+                    "name": {
+                        "first": "Jeppe",
+                        "last": "Westerby",
+                        "full": "Jeppe Westerby",
+                        "native": null,
+                        "userPreferred": "Jeppe Westerby"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n322252-Wvd4PoRH83dj.png"
+                },
+                {
+                    "id": 322250,
+                    "language": "Swedish",
+                    "name": {
+                        "first": "Felix",
+                        "last": "Von Bahder",
+                        "full": "Felix Von Bahder",
+                        "native": null,
+                        "userPreferred": "Felix Von Bahder"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+                }
+            ]
+        },
+        {
+            "id": 319300,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Watanabe",
+                "last": null,
+                "full": "Watanabe",
+                "native": "ワタナベ",
+                "userPreferred": "Watanabe"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319300-0uEftIWpahDT.png",
+            "voiceActors": [
+                {
+                    "id": 105630,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Yoshiko",
+                        "last": "Takemura",
+                        "full": "Yoshiko Takemura",
+                        "native": "竹村叔子",
+                        "userPreferred": "Yoshiko Takemura"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10630.jpg"
+                },
+                {
+                    "id": 319302,
+                    "language": "English",
+                    "name": {
+                        "first": "Lori",
+                        "last": "Alan",
+                        "full": "Lori Alan",
+                        "native": null,
+                        "userPreferred": "Lori Alan"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n319302-5DUnztvQuDB2.png"
+                },
+                {
+                    "id": 292066,
+                    "language": "Polish",
+                    "name": {
+                        "first": "Elżbieta",
+                        "last": "Kijowska-Rozen",
+                        "full": "Elżbieta Kijowska-Rozen",
+                        "native": null,
+                        "userPreferred": "Elżbieta Kijowska-Rozen"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n292066-b9NjWVAPDLgo.png"
+                },
+                {
+                    "id": 266478,
+                    "language": "Norwegian",
+                    "name": {
+                        "first": "Kari-Ann",
+                        "last": "Grønsund",
+                        "full": "Kari-Ann Grønsund",
+                        "native": null,
+                        "userPreferred": "Kari-Ann Grønsund"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n266478-89VAwB0YgmdW.jpg"
+                },
+                {
+                    "id": 322253,
+                    "language": "Swedish",
+                    "name": {
+                        "first": "Annika",
+                        "last": "Borg",
+                        "full": "Annika Borg",
+                        "native": null,
+                        "userPreferred": "Annika From Borg"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n322253-0IHNNxYe3xsb.png"
+                }
+            ]
+        },
+        {
+            "id": 322265,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Nao",
+                "last": null,
+                "full": "Nao",
+                "native": "ナオ",
+                "userPreferred": "Nao"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322265-VHKDaKUrun92.png",
+            "voiceActors": [
+                {
+                    "id": 119960,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Risae",
+                        "last": "Matsuda",
+                        "full": "Risae Matsuda",
+                        "native": "松田利冴",
+                        "userPreferred": "Risae Matsuda"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119960-1b9eah3Af5f2.png"
+                },
+                {
+                    "id": 322285,
+                    "language": "English",
+                    "name": {
+                        "first": "Nick",
+                        "last": "Fisher",
+                        "full": "Nick Fisher",
+                        "native": null,
+                        "userPreferred": "Nick Fisher"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+                },
+                {
+                    "id": 246602,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Nicolas",
+                        "last": "Mattos",
+                        "full": "Nicolas Mattos",
+                        "native": null,
+                        "userPreferred": "Nicolas Mattos"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n246602-rQ3SjWzqNI66.jpg"
+                },
+                {
+                    "id": 322266,
+                    "language": "Polish",
+                    "name": {
+                        "first": "Franciszek",
+                        "last": "Kalinowski",
+                        "full": "Franciszek Kalinowski",
+                        "native": null,
+                        "userPreferred": "Franciszek Kalinowski"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n322266-1nWoOTQEhx6d.png"
+                },
+                {
+                    "id": 322286,
+                    "language": "Norwegian",
+                    "name": {
+                        "first": "Maren",
+                        "last": "Solhaug",
+                        "full": "Maren Solhaug",
+                        "native": null,
+                        "userPreferred": "Maren Hallberg Solhaug"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n322286-CC7ZbM2kugfi.png"
+                },
+                {
+                    "id": 322284,
+                    "language": "Swedish",
+                    "name": {
+                        "first": "Oscar",
+                        "last": "Malmqvist",
+                        "full": "Oscar Malmqvist",
+                        "native": null,
+                        "userPreferred": "Oscar Malmqvist"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3891,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Pikachu",
+                "last": null,
+                "full": "Pikachu",
+                "native": "ピカチュウ",
+                "userPreferred": "Pikachu"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/3891.jpg",
+            "voiceActors": [
+                {
+                    "id": 95128,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Ikue",
+                        "last": "Ootani",
+                        "full": "Ikue Ootani",
+                        "native": "大谷育江",
+                        "userPreferred": "Ikue Ootani"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "id": 158871,
+            "relationType": "PARENT",
+            "malId": 53876,
+            "title": {
+                "romaji": "Pocket Monsters (2023)",
+                "english": "Pokémon Horizons: The Series",
+                "native": "ポケットモンスター (2023)",
+                "userPreferred": "Pocket Monsters (2023)"
+            },
+            "status": "Ongoing",
+            "episodes": null,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
+            "color": "#e4bb28",
+            "type": "TV",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
+            "rating": 73
+        }
+    ],
+    "episodes": [{
+            "id": "pokemon-concierge-episode-1",
+            "title": "I’m Haru, the New Concierge!",
+            "description": "For her first day as a concierge at Pokémon Resort, all Haru has to do is enjoy herself on the island as if she were a guest herself!",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9642488/screencap/658d4ade2506a.jpg",
+            "air_date": "December 28, 2023"
+        },
+        {
+            "id": "pokemon-concierge-episode-2",
+            "title": "What’s on Your Mind, Psyduck?",
+            "description": "Psyduck suffers from chronic headaches that erupt into disruptive psychic powers. Can Haru come up with a way to help?",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10146071/screencap/658d4af1db559.jpg",
+            "air_date": "December 28, 2023"
+        },
+        {
+            "id": "pokemon-concierge-episode-3",
+            "title": "I Hope I Can Evolve Too…",
+            "description": "When a Magikarp who can't swim well loses his floatie to a passing Wingull, Haru and Psyduck fly after it on a Dragonite to try and get it back.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10146072/screencap/658d4e3e12c9b.jpg",
+            "air_date": "December 28, 2023"
+        },
+        {
+            "id": "pokemon-concierge-episode-4",
+            "title": "Welcome to the Pokémon Resort!",
+            "description": "Haru meets a shy little Pikachu who's trainer really wants him to be more outgoing. But here at Pokémon Resort, everyone is encouraged to be themselves.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10146073/screencap/658d520d4cbe6.jpg",
+            "air_date": "December 28, 2023"
+        }]
+}
