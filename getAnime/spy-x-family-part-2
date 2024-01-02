@@ -39,7 +39,7 @@
 	"genres": ["Action", "Comedy", "Slice of Life", "Supernatural"],
 	"season": "FALL",
 	"studios": ["Wit Studio", "CloverWorks"],
-	"subOrDub": "sub",
+	"subOrDub": "dual",
 	"type": "TV",
 	"recommendations": [{
 		"id": 140960,
@@ -73,6 +73,21 @@
 		"rating": 84,
 		"type": "TV",
 		"animeurl": "spy-x-family-part-2"
+	},{
+		"id": 158927,
+		"malId": 53887,
+		"title": {
+			"romaji": "SPY×FAMILY Season 2",
+			"english": "SPY x FAMILY Season 2",
+			"native": "SPY×FAMILY Season 2"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158927-lfO85WVguYgc.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158927-zXtbXUO5iKzX.jpg",
+		"rating": 81,
+		"type": "TV",
+		"animeurl": "spy-x-family-season-2"
 	}],
 	"characters": [{
 		"id": 138101,
