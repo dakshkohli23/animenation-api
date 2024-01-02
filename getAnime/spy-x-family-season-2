@@ -53,7 +53,54 @@
     ],
     "subOrDub": "dual",
     "type": "TV",
-    "recommendations": [],
+    "recommendations": [{
+		"id": 140960,
+		"malId": 50265,
+		"title": {
+			"romaji": "SPY×FAMILY",
+			"english": "SPY×FAMILY",
+			"native": "SPY×FAMILY",
+			"userPreferred": "SPY x FAMILY"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140960-Z7xSvkRxHKfj.jpg",
+		"rating": 86,
+		"type": "TV",
+		"animeurl": "spy-x-family"
+	},{
+		"id": 142838,
+		"malId": 50602,
+		"title": {
+			"romaji": "SPY×FAMILY Part 2",
+			"english": "SPY x FAMILY Cour 2",
+			"native": "SPY×FAMILY 2クール",
+			"userPreferred": "SPY x FAMILY Part 2"
+		},
+		"status": "Completed",
+		"episodes": 13,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-ECZSqfknAqAT.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142838-tynuN00wxmKO.jpg",
+		"rating": 84,
+		"type": "TV",
+		"animeurl": "spy-x-family-part-2"
+	},{
+		"id": 158927,
+		"malId": 53887,
+		"title": {
+			"romaji": "SPY×FAMILY Season 2",
+			"english": "SPY x FAMILY Season 2",
+			"native": "SPY×FAMILY Season 2"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158927-lfO85WVguYgc.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158927-zXtbXUO5iKzX.jpg",
+		"rating": 81,
+		"type": "TV",
+		"animeurl": "spy-x-family-season-2"
+	}],
     "characters": [
         {
             "id": 138101,
