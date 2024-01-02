@@ -1258,6 +1258,45 @@
             "isAdult": false
         },
         {
+            "animeId": "spy-x-family",
+            "episodeId": "spy-x-family-episode-1",
+            "name": "SPY x FAMILY",
+            "jname": "SPY×FAMILY",
+            "sub": "12",
+            "dub": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/spy-x-family",
+            "genres": ["Action", "Comedy", "Slice of Life", "Supernatural"],
+            "isAdult": false
+        },
+        {
+            "animeId": "spy-x-family-part-2",
+            "episodeId": "spy-x-family-part-2-episode-1",
+            "name": "SPY x FAMILY Cour 2",
+            "jname": "SPY×FAMILY Part 2",
+            "sub": "13",
+            "dub": "13",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-ECZSqfknAqAT.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/spy-x-family-part-2",
+            "genres": ["Action", "Comedy", "Slice of Life", "Supernatural"],
+            "isAdult": false
+        },
+        {
+            "animeId": "spy-x-family-season-2",
+            "episodeId": "spy-x-family-season-2-episode-1",
+            "name": "SPY x FAMILY Season 2",
+            "jname": "SPY×FAMILY Season 2",
+            "sub": "12",
+            "dub": "10",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158927-lfO85WVguYgc.png",
+            "type": "tv",
+            "episodeUrl": "anime/spy-x-family-season-2",
+            "genres": ["Action", "Comedy", "Slice of Life", "Supernatural"],
+            "isAdult": false
+        },
+        {
             "animeId": "tokyo-revengers",
             "episodeId": "tokyo-revengers-episode-1",
             "name": "Tokyo Revengers",
