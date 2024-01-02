@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "spy-x-family-season-2",
+		"episodeId": "spy-x-family-season-2-episode-1",
+		"jname": "SPY×FAMILY Season 2",
+		"name": "SPY x FAMILY Season 2",
+		"episodeNum": 12,
+		"dub": 10,
+		"sub": 12,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158927-lfO85WVguYgc.png"
+	},
+	{
 		"animeId": "jujutsu-kaisen-season-2",
 		"episodeId": "jujutsu-kaisen-season-2-episode-23",
 		"name": "JUJUTSU KAISEN Season 2",
