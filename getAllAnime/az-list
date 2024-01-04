@@ -64,6 +64,18 @@
             "isAdult": true
         },
         {
+            "animeId": "attack-on-titan-ova",
+            "episodeId": "attack-on-titan-ova-episode-1",
+            "name": "Attack on Titan OVA",
+            "jname": "Shingeki no Kyojin OVA",
+            "sub": "3",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18397-AnpwhLkSjYL1.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/attack-on-titan-ova",
+            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
+            "isAdult": true
+        },
+        {
             "animeId": "attack-on-titan-season-2",
             "episodeId": "attack-on-titan-season-2-episode-1",
             "name": "Attack on Titan Season 2",
@@ -115,18 +127,6 @@
             "isAdult": true
         },
         {
-            "animeId": "attack-on-titan-ova",
-            "episodeId": "attack-on-titan-ova-episode-1",
-            "name": "Attack on Titan OVA",
-            "jname": "Shingeki no Kyojin OVA",
-            "sub": "3",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18397-AnpwhLkSjYL1.jpg",
-            "type": "ova",
-            "episodeUrl": "anime/attack-on-titan-ova",
-            "genres": ["Action", "Drama", "Fantasy", "Mystery"],
-            "isAdult": true
-        },
-        {
             "animeId": "attack-on-titan-no-regrets",
             "episodeId": "attack-on-titan-no-regrets-episode-1",
             "name": "Attack on Titan: No Regrets",
@@ -137,6 +137,44 @@
             "episodeUrl": "anime/attack-on-titan-no-regrets",
             "genres": ["Action", "Fantasy"],
             "isAdult": true
+        },
+        {
+            "animeId": "classroom-of-the-elite",
+            "episodeId": "classroom-of-the-elite-episode-1",
+            "name": "Classroom of the Elite",
+            "jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+            "sub": "12",
+            "dub": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20811-IvXLdxZkYNcP.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/classroom-of-the-elite",
+            "genres": ["Drama", "Psychological"],
+            "isAdult": false
+        },
+        {
+            "animeId": "classroom-of-the-elite-season-2",
+            "episodeId": "classroom-of-the-elite-season-2-episode-1",
+            "name": "Classroom of the Elite Season 2",
+            "jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+            "sub": "13",
+            "dub": "13",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145545-DGl3LVvFlnHi.png",
+            "type": "tv",
+            "episodeUrl": "anime/classroom-of-the-elite-season-2",
+            "genres": ["Drama", "Psychological"],
+            "isAdult": false
+        },
+        {
+            "animeId": "classroom-of-the-elite-season-3",
+            "episodeId": "classroom-of-the-elite-season-3-episode-1",
+            "name": "Classroom of the Elite Season 3",
+            "jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+            "sub": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-zzKl6P6OeEjy.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/classroom-of-the-elite-season-3",
+            "genres": ["Drama", "Psychological"],
+            "isAdult": false
         },
         {
             "animeId": "dr-stone",
@@ -478,6 +516,30 @@
             "isAdult": false
         },
         {
+            "animeId": "pingu-in-the-city",
+            "episodeId": "pingu-in-the-city-episode-1",
+            "name": "Pingu in the City",
+            "jname": "Pingu in the City",
+            "sub": "26",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99994-jApr7drb87Bn.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/pingu-in-the-city",
+            "genres": ["Comedy", "Slice of Life"],
+            "isAdult": false
+        },
+        {
+            "animeId": "pingu-in-the-city-2",
+            "episodeId": "pingu-in-the-city-2-episode-1",
+            "name": "Pingu in the City 2",
+            "jname": "Pingu in the City 2",
+            "sub": "26",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99995-lR1k6Q3EeHBP.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/pingu-in-the-city-2",
+            "genres": ["Comedy", "Slice of Life"],
+            "isAdult": false
+        },
+        {
             "animeId": "pingu-season-02",
             "episodeId": "pingu-season-02-episode-1",
             "name": "Pingu Season 02",
@@ -550,30 +612,6 @@
             "isAdult": false
         },
         {
-            "animeId": "pingu-in-the-city",
-            "episodeId": "pingu-in-the-city-episode-1",
-            "name": "Pingu in the City",
-            "jname": "Pingu in the City",
-            "sub": "26",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99994-jApr7drb87Bn.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/pingu-in-the-city",
-            "genres": ["Comedy", "Slice of Life"],
-            "isAdult": false
-        },
-        {
-            "animeId": "pingu-in-the-city-2",
-            "episodeId": "pingu-in-the-city-2-episode-1",
-            "name": "Pingu in the City 2",
-            "jname": "Pingu in the City 2",
-            "sub": "26",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99995-lR1k6Q3EeHBP.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/pingu-in-the-city-2",
-            "genres": ["Comedy", "Slice of Life"],
-            "isAdult": false
-        },
-        {
             "animeId": "pokemon-the-movie-spell-of-the-unown",
             "episodeId": "pokemon-the-movie-spell-of-the-unown-episode-1",
             "name": "Pokemon 3: The Movie - Spell of the Unown",
@@ -587,19 +625,6 @@
             "isAdult": false
         },
         {
-            "animeId": "pokemon-concierge",
-            "episodeId": "pokemon-concierge-episode-1",
-            "name": "Pokémon Concierge",
-            "jname": "Pokémon Concierge",
-            "sub": "4",
-            "dub": "4",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-90IXqW7pehgw.jpg",
-            "type": "ona",
-            "episodeUrl": "anime/pokemon-concierge",
-            "genres": ["Fantasy", "Slice of Life", "Kids"],
-            "isAdult": false
-        },
-        {
             "animeId": "pokemon-4ever-celebi-voice-of-the-forest",
             "episodeId": "pokemon-4ever-celebi-voice-of-the-forest-episode-1",
             "name": "Pokemon 4Ever: Celebi - Voice of the Forest",
@@ -610,6 +635,19 @@
             "type": "movie",
             "episodeUrl": "anime/pokemon-4ever-celebi-voice-of-the-forest",
             "genres": ["Adventure", "Comedy", "Drama"],
+            "isAdult": false
+        },
+        {
+            "animeId": "pokemon-concierge",
+            "episodeId": "pokemon-concierge-episode-1",
+            "name": "Pokémon Concierge",
+            "jname": "Pokémon Concierge",
+            "sub": "4",
+            "dub": "4",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-90IXqW7pehgw.jpg",
+            "type": "ona",
+            "episodeUrl": "anime/pokemon-concierge",
+            "genres": ["Fantasy", "Slice of Life", "Kids"],
             "isAdult": false
         },
         {
