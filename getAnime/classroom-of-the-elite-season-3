@@ -58,7 +58,52 @@
     ],
     "subOrDub": "sub",
     "type": "TV",
-    "recommendations": [],
+    "recommendations": [{
+      "id": 98659,
+      "malId": 35507,
+      "title": {
+        "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+		"english": "Classroom of the Elite",
+		"native": "ようこそ実力至上主義の教室へ"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98659-sH5z5RfMuyMr.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98659-u46B5RCNl9il.jpg",
+      "rating": 77,
+      "type": "tv",
+	  "animeurl": "classroom-of-the-elite"
+},{
+      "id": 145545,
+      "malId": 51096,
+      "title": {
+        "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+		"english": "Classroom of the Elite Season 2",
+		"native": "ようこそ実力至上主義の教室へ 2nd Season"
+      },
+      "status": "Completed",
+      "episodes": 13,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145545-DGl3LVvFlnHi.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145545-XeHhS7dJJLlj.jpg",
+      "rating": 80,
+      "type": "tv",
+	  "animeurl": "classroom-of-the-elite-season-2"
+},{
+      "id": 146066,
+      "malId": 51180,
+      "title": {
+        "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+        "english": "Classroom of the Elite Season 3",
+        "native": "ようこそ実力至上主義の教室へ 第3期"
+      },
+      "status": "Completed",
+      "episodes": 13,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-zzKl6P6OeEjy.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146066-gxjPUB1ofAO4.jpg",
+      "rating": 85,
+      "type": "tv",
+	  "animeurl": "classroom-of-the-elite-season-3"
+}],
     "characters": [
         {
             "id": 123212,
