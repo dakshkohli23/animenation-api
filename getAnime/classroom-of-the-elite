@@ -39,7 +39,7 @@
 	"genres": ["Drama", "Psychological"],
 	"season": "SUMMER",
 	"studios": ["Lerche"],
-	"subOrDub": "sub",
+	"subOrDub": "dual",
 	"type": "TV",
 	"recommendations": [{
       "id": 98659,
@@ -71,6 +71,21 @@
       "rating": 80,
       "type": "tv",
 	  "animeurl": "classroom-of-the-elite-season-2"
+},{
+      "id": 146066,
+      "malId": 51180,
+      "title": {
+        "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+        "english": "Classroom of the Elite Season 3",
+        "native": "ようこそ実力至上主義の教室へ 第3期"
+      },
+      "status": "Completed",
+      "episodes": 13,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-zzKl6P6OeEjy.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146066-gxjPUB1ofAO4.jpg",
+      "rating": 85,
+      "type": "tv",
+	  "animeurl": "classroom-of-the-elite-season-3"
 }],
 	"characters": [{
 		"id": 123212,
