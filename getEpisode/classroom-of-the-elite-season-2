@@ -1,158 +1,119 @@
 [
         {
-            "server1": "prnvb8ki7zc4",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 1",
+            "server1": "uqb3hbtairua",
+            "server2": "gm0wt7ltprnn",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 1",
             "ep_num": "1",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 2 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "zeoirqzy37cj",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 2",
+            "server1": "89zivbjii3uj",
+            "server2": "sk9x13ajoiy0",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 2",
             "ep_num": "2",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 3 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-3",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 1",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "nc1bilh9ye2g",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 3",
+            "server1": "bdnd8xtihwgw",
+            "server2": "1tp3gl9vt8zo",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 3",
             "ep_num": "3",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 4 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-4",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 2",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "9rldqr8v3rze",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 4",
+            "server1": "r3jnl0pmgevw",
+            "server2": "na4ygam7bakb",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 4",
             "ep_num": "4",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 5 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-5",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 3",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-3"
+            "subOrDub": "dual"
         },
         {
-            "server1": "6ra082xysfwt",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 5",
+            "server1": "k5wuw1yh5lzt",
+            "server2": "pyr2l8lo9x17",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 5",
             "ep_num": "5",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 6 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-6",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 4",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-4"
+            "subOrDub": "dual"
         },
         {
-            "server1": "b8haxjlzap36",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 6",
+            "server1": "j9i7l6bv1w8t",
+            "server2": "u1iy5n42wqn3",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 6",
             "ep_num": "6",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 7 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-7",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 5",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-5"
+            "subOrDub": "dual"
         },
         {
-            "server1": "f8p4l6d223cw",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 7",
+            "server1": "oo2ef6rvi4es",
+            "server2": "pzq3xobiprv0",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 7",
             "ep_num": "7",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 8 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-8",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 6",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-6"
+            "subOrDub": "dual"
         },
         {
-            "server1": "qkklllfy4v8m",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 8",
+            "server1": "03xrl7syfmk8",
+            "server2": "71aa1sg61s7b",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 8",
             "ep_num": "8",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 9 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-9",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 7",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-7"
+            "subOrDub": "dual"
         },
         {
-            "server1": "v4vpr34z5h9s",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 9",
+            "server1": "3x4wsgt44cs9",
+            "server2": "5iolmy9d5qux",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 9",
             "ep_num": "9",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 10 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-10",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 8",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-8"
+            "subOrDub": "dual"
         },
         {
-            "server1": "kisdtjrvh7k6",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 10",
+            "server1": "1dzs6dc66p39",
+            "server2": "6bvjskqstbnj",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 10",
             "ep_num": "10",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 11 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-11",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 9",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-9"
+            "subOrDub": "dual"
         },
         {
-            "server1": "o2ix80vzt6fw",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 11",
+            "server1": "47u0gyodhdsy",
+            "server2": "1mfxkctu3am5",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 11",
             "ep_num": "11",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 12 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-12",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 10",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-10"
+            "subOrDub": "dual"
         },
         {
-            "server1": "lc9u2pnnvhc0",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 12",
+            "server1": "xqiyogzomj1r",
+            "server2": "zokm88kmimhn",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 12",
             "ep_num": "12",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "Classroom of the Elite Season 02 Episode 13 >>",
-            "nextEpLink": "/classroom-of-the-elite-season-2-episode-13",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 11",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-11"
+            "subOrDub": "dual"
         },
         {
-            "server1": "cmgfub1gbotu",
-            "animeNameWithEP": "Classroom of the Elite Season 02 Episode 13",
+            "server1": "tt310p187fx0",
+            "server2": "t93vhc836tz8",
+            "animeNameWithEP": "Classroom of the Elite Season 2 Episode 13",
             "ep_num": "13",
             "anime_info": "classroom-of-the-elite-season-2",
             "movie_id": "145545",
-            "alias": "classroom-of-the-elite-season-2",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Classroom of the Elite Season 02 Episode 12",
-            "prevEpLink": "/classroom-of-the-elite-season-2-episode-12"
+            "subOrDub": "dual"
         }
     ]
