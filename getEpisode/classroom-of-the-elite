@@ -1,146 +1,110 @@
 [
         {
-            "server1": "61npe1wv3yu1",
+            "server1": "zwks2tktoeud",
+            "server2": "uhwn86e445xf",
             "animeNameWithEP": "Classroom of the Elite Episode 1",
             "ep_num": "1",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "Classroom of the Elite Episode 2 >>",
-            "nextEpLink": "/classroom-of-the-elite-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "j0g0kw59qcvf",
+            "server1": "50et0pfqq0k6",
+            "server2": "1tckwcfd2fhl",
             "animeNameWithEP": "Classroom of the Elite Episode 2",
             "ep_num": "2",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "Classroom of the Elite Episode 3 >>",
-            "nextEpLink": "/classroom-of-the-elite-episode-3",
-            "prevEpText": "<< Classroom of the Elite Episode 1",
-            "prevEpLink": "/classroom-of-the-elite-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "kw0hyqlgw7m6",
+            "server1": "4osrp95v99ir",
+            "server2": "t3anq4zs9ow9",
             "animeNameWithEP": "Classroom of the Elite Episode 3",
             "ep_num": "3",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "Classroom of the Elite Episode 4 >>",
-            "nextEpLink": "/classroom-of-the-elite-episode-4",
-            "prevEpText": "<< Classroom of the Elite Episode 2",
-            "prevEpLink": "/classroom-of-the-elite-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "begnq7bt5omn",
+            "server1": "o1ynovhrmu3j",
+            "server2": "ineodimqykc1",
             "animeNameWithEP": "Classroom of the Elite Episode 4",
             "ep_num": "4",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "Classroom of the Elite Episode 5 >>",
-            "nextEpLink": "/classroom-of-the-elite-episode-5",
-            "prevEpText": "<< Classroom of the Elite Episode 3",
-            "prevEpLink": "/classroom-of-the-elite-episode-3"
+            "subOrDub": "dual"
         },
         {
-            "server1": "2t8dn8tiemer",
+            "server1": "w2noyu30u8wl",
+            "server2": "jzuy6uzzugw2",
             "animeNameWithEP": "Classroom of the Elite Episode 5",
             "ep_num": "5",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "Classroom of the Elite Episode 6 >>",
-            "nextEpLink": "/classroom-of-the-elite-episode-6",
-            "prevEpText": "<< Classroom of the Elite Episode 4",
-            "prevEpLink": "/classroom-of-the-elite-episode-4"
+            "subOrDub": "dual"
         },
         {
-            "server1": "hl4l4dfin9fi",
+            "server1": "mu7olt4de3vy",
+            "server2": "r5j3d1n2j0ro",
             "animeNameWithEP": "Classroom of the Elite Episode 6",
             "ep_num": "6",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "Classroom of the Elite Episode 7 >>",
-            "nextEpLink": "/classroom-of-the-elite-episode-7",
-            "prevEpText": "<< Classroom of the Elite Episode 5",
-            "prevEpLink": "/classroom-of-the-elite-episode-5"
+            "subOrDub": "dual"
         },
         {
-            "server1": "5mf0q48k5ur0",
+            "server1": "oh1gw1qn3m7y",
+            "server2": "lgnsr4lccf40",
             "animeNameWithEP": "Classroom of the Elite Episode 7",
             "ep_num": "7",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "Classroom of the Elite Episode 8 >>",
-            "nextEpLink": "/classroom-of-the-elite-episode-8",
-            "prevEpText": "<< Classroom of the Elite Episode 6",
-            "prevEpLink": "/classroom-of-the-elite-episode-6"
+            "subOrDub": "dual"
         },
         {
-            "server1": "urokbvk5pxb0",
+            "server1": "pab7mvxacn6w",
+            "server2": "b3kfnn3j5mv6",
             "animeNameWithEP": "Classroom of the Elite Episode 8",
             "ep_num": "8",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "Classroom of the Elite Episode 9 >>",
-            "nextEpLink": "/classroom-of-the-elite-episode-9",
-            "prevEpText": "<< Classroom of the Elite Episode 7",
-            "prevEpLink": "/classroom-of-the-elite-episode-7"
+            "subOrDub": "dual"
         },
         {
-            "server1": "z3xfsr4u1sc2",
+            "server1": "eor2119zjwso",
+            "server2": "fepwfe44b75w",
             "animeNameWithEP": "Classroom of the Elite Episode 9",
             "ep_num": "9",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "Classroom of the Elite Episode 10 >>",
-            "nextEpLink": "/classroom-of-the-elite-episode-10",
-            "prevEpText": "<< Classroom of the Elite Episode 8",
-            "prevEpLink": "/classroom-of-the-elite-episode-8"
+            "subOrDub": "dual"
         },
         {
-            "server1": "2edrpe8w7lr4",
+            "server1": "c6dx1e1raso6",
+            "server2": "x45oh1mowgjh",
             "animeNameWithEP": "Classroom of the Elite Episode 10",
             "ep_num": "10",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "Classroom of the Elite Episode 11 >>",
-            "nextEpLink": "/classroom-of-the-elite-episode-11",
-            "prevEpText": "<< Classroom of the Elite Episode 9",
-            "prevEpLink": "/classroom-of-the-elite-episode-9"
+            "subOrDub": "dual"
         },
         {
-            "server1": "nqxqkxjc9ibd",
+            "server1": "4u91tvppdtqr",
+            "server2": "pabdygghzla6",
             "animeNameWithEP": "Classroom of the Elite Episode 11",
             "ep_num": "11",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "Classroom of the Elite Episode 12 >>",
-            "nextEpLink": "/classroom-of-the-elite-episode-12",
-            "prevEpText": "<< Classroom of the Elite Episode 10",
-            "prevEpLink": "/classroom-of-the-elite-episode-10"
+            "subOrDub": "dual"
         },
         {
-            "server1": "m24psvbuy838",
+            "server1": "6k9e0hfpv099",
+            "server2": "94ux9zmur512",
             "animeNameWithEP": "Classroom of the Elite Episode 12",
             "ep_num": "12",
             "anime_info": "classroom-of-the-elite",
             "movie_id": "98659",
-            "alias": "classroom-of-the-elite",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Classroom of the Elite Episode 11",
-            "prevEpLink": "/classroom-of-the-elite-episode-11"
+            "subOrDub": "dual"
         }
     ]
