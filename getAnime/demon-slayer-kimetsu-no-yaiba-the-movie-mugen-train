@@ -56,26 +56,9 @@
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101922-YfZhKBUDDS6L.jpg",
       "rating": 84,
       "type": "TV",
-	  "animeurl": "kimetsu-no-yaiba"
+	  "animeurl": "demon-slayer-kimetsu-no-yaiba"
     },
-    {
-      "id": 112151,
-      "malId": 40456,
-      "title": {
-        "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen",
-        "english": "Demon Slayer The Movie: Mugen Train",
-        "native": "鬼滅の刃 無限列車編",
-        "userPreferred": "Demon Slayer Mugen Train Movie"
-      },
-      "status": "Completed",
-      "episodes": 1,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
-      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
-      "rating": 85,
-      "type": "Movie",
-	  "animeurl": "kimetsu-no-yaiba-mugen-resshahen"
-    },
-    {
+	{
       "id": 129874,
       "malId": 49926,
       "title": {
@@ -90,7 +73,7 @@
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/129874-3ipZzS50i9Ta.jpg",
       "rating": 83,
       "type": "TV",
-	  "animeurl": "kimetsu-no-yaiba-mugen-ressha-hen"
+	  "animeurl": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc"
     },
 	{
       "id": 142329,
@@ -107,9 +90,9 @@
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142329-i413SzLmToZN.jpg",
       "rating": 87,
       "type": "TV",
-	  "animeurl": "kimetsu-no-yaiba-yuukaku-hen"
+	  "animeurl": "demon-slayer-kimetsu-no-yaiba-entertainment-district-arc"
     },
-    {
+	{
       "id": 145139,
       "malId": 51019,
       "title": {
@@ -117,14 +100,31 @@
 		"english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
 		"native": "鬼滅の刃 刀鍛冶の里編"
       },
-      "status": "Ongoing",
-      "episodes": "1",
+      "status": "Completed",
+      "episodes": "11",
       "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
       "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145139-V01Prh6UzfRk.jpg",
       "rating": "84",
       "type": "TV",
-	  "animeurl": "kimetsu-no-yaiba-katanakaji-no-satohen"
+	  "animeurl": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc"
     },
+    {
+      "id": 112151,
+      "malId": 40456,
+      "title": {
+        "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen",
+        "english": "Demon Slayer The Movie: Mugen Train",
+        "native": "鬼滅の刃 無限列車編",
+        "userPreferred": "Demon Slayer Mugen Train Movie"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112151-1qlQwPB1RrJe.png",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112151-eHCBz19nf2yC.jpg",
+      "rating": 85,
+      "type": "Movie",
+	  "animeurl": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
+    },    
     {
       "id": 129627,
       "malId": 47398,
@@ -140,7 +140,7 @@
       "cover": "",
       "rating": 68,
       "type": "ONA",
-	  "animeurl": "kimetsu-gakuen-valentinehen"
+	  "animeurl": "kimetsu-gakuen-valentine-hen"
     },
     {
       "id": 154541,
