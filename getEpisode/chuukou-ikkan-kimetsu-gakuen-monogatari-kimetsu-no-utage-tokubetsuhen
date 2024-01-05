@@ -1,38 +1,29 @@
 [
         {
-            "server1": "ghwqhfqwp3e9",
-            "animeNameWithEP": "Junior High and High School!! Kimetsu Academy Story Episode 1 Dubbed",
+            "server1": "vg3int02run5",
+            "server2": "nx5qtboecldh",
+            "animeNameWithEP": "Junior High and High School!! Kimetsu Academy Story Episode 1",
             "ep_num": "1",
             "anime_info": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
             "movie_id": "154541",
-            "alias": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
-            "nextEpText": "Junior High and High School!! Kimetsu Academy Story Episode 2 >>",
-            "nextEpLink": "/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "eg508nxyraa1",
-            "animeNameWithEP": "Junior High and High School!! Kimetsu Academy Story Episode 2 Dubbed",
+            "server1": "pxfaaqe8eta4",
+            "server2": "etpcei926npa",
+            "animeNameWithEP": "Junior High and High School!! Kimetsu Academy Story Episode 2",
             "ep_num": "2",
             "anime_info": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
             "movie_id": "154541",
-            "alias": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
-            "nextEpText": "Junior High and High School!! Kimetsu Academy Story Episode 3 >>",
-            "nextEpLink": "/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen-episode-3",
-            "prevEpText": "<< Junior High and High School!! Kimetsu Academy Story Episode 1",
-            "prevEpLink": "/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ua46uyzz3fcs",
-            "animeNameWithEP": "Junior High and High School!! Kimetsu Academy Story Episode 3 Dubbed",
+            "server1": "iowtvopnsyff",
+            "server2": "7el3vd0qbra7",
+            "animeNameWithEP": "Junior High and High School!! Kimetsu Academy Story Episode 3",
             "ep_num": "3",
             "anime_info": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
             "movie_id": "154541",
-            "alias": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Junior High and High School!! Kimetsu Academy Story Episode 2",
-            "prevEpLink": "/chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen-episode-2"
+            "subOrDub": "dual"
         }
     ]
