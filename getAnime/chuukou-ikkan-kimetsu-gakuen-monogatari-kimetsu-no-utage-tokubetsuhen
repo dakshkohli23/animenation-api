@@ -28,12 +28,13 @@
 		"day": 26
 	},
 	"totalEpisodes": 3,
+	"currentEpisode": 3,
 	"rating": 60,
 	"duration": 2,
 	"genres": ["Comedy"],
 	"season": "SUMMER",
 	"studios": ["ufotable"],
-	"subOrDub": "sub",
+	"subOrDub": "dual",
 	"type": "SPECIAL",
 	"recommendations": [{
       "id": 101922,
