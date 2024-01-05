@@ -34,7 +34,7 @@
 	"genres": ["Comedy"],
 	"season": "WINTER",
 	"studios": ["ufotable"],
-	"subOrDub": "sub",
+	"subOrDub": "dual",
 	"type": "ONA",
 	"recommendations": [{
       "id": 101922,
@@ -445,28 +445,28 @@
 		"anime-planet": "kimetsu-gakuen-valentine-hen"
 	},
 	"episodes": [{
-		"id": "kimetsu-gakuen-valentinehen-episode-1",
+		"id": "kimetsu-gakuen-valentine-hen-episode-1",
 		"title": "Demon Slayer Academy: Valentine Chapter 1",
 		"description": "School is back in session in this fun post-credit clip after Episode 14 of “Demon Slayer: Kimetsu no Yaiba”",
 		"number": 1,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/8861068/screencap/61ca4e4ff0b53.jpg",
 		"airDate": "2021-02-14T00:00:00.000Z"
 	}, {
-		"id": "kimetsu-gakuen-valentinehen-episode-2",
+		"id": "kimetsu-gakuen-valentine-hen-episode-2",
 		"title": "Demon Slayer Academy: Valentine Chapter 2",
 		"description": "School is back in session in this fun post-credit clip after Episode 17 of “Demon Slayer: Kimetsu no Yaiba”",
 		"number": 2,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/8861069/screencap/61ca4f5c886b8.jpg",
 		"airDate": "2021-02-14T00:00:00.000Z"
 	}, {
-		"id": "kimetsu-gakuen-valentinehen-episode-3",
+		"id": "kimetsu-gakuen-valentine-hen-episode-3",
 		"title": "Demon Slayer Academy: Valentine Chapter 3",
 		"description": "School is back in session in this fun imaginary Kimetsu Academy – an alternate world where Tanjiro and the gang attend school!",
 		"number": 3,
 		"image": "https://artworks.thetvdb.com/banners/v4/episode/8861070/screencap/61ca4f75bbfb1.jpg",
 		"airDate": "2021-02-14T00:00:00.000Z"
 	}, {
-		"id": "kimetsu-gakuen-valentinehen-episode-4",
+		"id": "kimetsu-gakuen-valentine-hen-episode-4",
 		"title": "Demon Slayer Academy: Valentine Chapter 4",
 		"description": "School is back in session in this fun imaginary Kimetsu Academy – an alternate world where Tanjiro and the gang attend school!",
 		"number": 4,
