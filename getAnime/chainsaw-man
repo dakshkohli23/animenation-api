@@ -33,6 +33,7 @@
 		"day": 28
 	},
 	"totalEpisodes": 12,
+	"currentEpisode": 12,
 	"rating": 86,
 	"duration": 25,
 	"genres": ["Action", "Comedy", "Drama", "Horror", "Supernatural"],
