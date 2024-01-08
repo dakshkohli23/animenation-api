@@ -1,14 +1,11 @@
 [
         {
-            "server1": "d1mwlucouz2l",
-            "animeNameWithEP": "Pokémon: Mewtwo Strikes Back: Evolution Dubbed",
+            "server1": "h6etc2szhn1h",
+            "server2": "bcpecbsbvae7",
+            "animeNameWithEP": "Pokémon: Mewtwo Strikes Back—Evolution",
             "ep_num": "1",
             "anime_info": "pokemon-mewtwo-strikes-back-evolution",
             "movie_id": "106287",
-            "alias": "pokemon-mewtwo-strikes-back-evolution",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
