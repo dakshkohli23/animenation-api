@@ -2,13 +2,14 @@
     "id": "172463",
     "title": {
         "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu",
-        "english": "Jujutsu Kaisen Season 3",
+        "english": null,
         "native": "呪術廻戦 死滅回游"
     },
     "malId": 57658,
     "synonyms": [
         "Jujutsu Kaisen: Culling Games",
-        "JJK3"
+        "JJK3",
+        "Jujutsu Kaisen 3rd Season"
     ],
     "isLicensed": true,
     "isAdult": false,
@@ -16,15 +17,26 @@
     "trailer": {
         "id": "ACFg5XX9XQw",
         "site": "youtube",
-        "thumbnail": "https://i.ytimg.com/vi/ACFg5XX9XQw/hqdefault.jpg"
+        "thumbnail": "https://i.ytimg.com/vi/ACFg5XX9XQw/hqdefault.jpg",
+        "thumbnailHash": "hash"
     },
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-MbyLGjnXcpZu.png",
-    "popularity": 8577,
+    "imageHash": "hash",
+    "popularity": 18525,
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-MbyLGjnXcpZu.png",
+    "coverHash": "hash",
     "description": "The third season of <i>Jujutsu Kaisen</i>, adapting the Culling Game Arc.",
     "status": "Not yet aired",
-    "startDate": "-",
-    "endDate": "-",
+    "startDate": {
+        "year": 2025,
+        "month": 0,
+        "day": 0
+    },
+    "endDate": {
+        "year": 2025,
+        "month": 0,
+        "day": 0
+    },
     "totalEpisodes": "-",
     "currentEpisode": "-",
     "rating": "-",
@@ -53,6 +65,7 @@
                 "userPreferred": "Yuuji Itadori"
             },
             "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png",
+            "imageHash": "hash",
             "voiceActors": [
                 {
                     "id": 119319,
@@ -64,7 +77,8 @@
                         "native": "榎木淳弥",
                         "userPreferred": "Junya Enoki"
                     },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png"
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png",
+                    "imageHash": "hash"
                 }
             ]
         },
@@ -79,6 +93,7 @@
                 "userPreferred": "Megumi Fushiguro"
             },
             "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png",
+            "imageHash": "hash",
             "voiceActors": [
                 {
                     "id": 119617,
@@ -90,7 +105,8 @@
                         "native": "内田雄馬",
                         "userPreferred": "Yuuma Uchida"
                     },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png"
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png",
+                    "imageHash": "hash"
                 }
             ]
         },
@@ -105,6 +121,7 @@
                 "userPreferred": "Yuuta Okkotsu"
             },
             "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg",
+            "imageHash": "hash",
             "voiceActors": []
         },
         {
@@ -118,6 +135,7 @@
                 "userPreferred": "Kenjaku"
             },
             "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289584-KndGudJZm5Ik.jpg",
+            "imageHash": "hash",
             "voiceActors": []
         },
         {
@@ -131,6 +149,7 @@
                 "userPreferred": "Chousou"
             },
             "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157116-2jYQf3y8NeTZ.png",
+            "imageHash": "hash",
             "voiceActors": []
         }
     ],
@@ -148,9 +167,11 @@
             "status": "Ongoing",
             "episodes": null,
             "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx101517-H3TdM3g5ZUe9.jpg",
+            "imageHash": "hash",
             "color": "#e4a15d",
             "type": "MANGA",
             "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/101517-FrJtb3Th3HtF.jpg",
+            "coverHash": "hash",
             "rating": 84
         },
         {
@@ -165,10 +186,12 @@
             },
             "status": "Completed",
             "episodes": 23,
-            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
-            "color": "#5d86e4",
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-oNJZtLWdXtvy.jpg",
+            "imageHash": "hash",
+            "color": "#aeaee4",
             "type": "TV",
-            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-S7qAgxf6kMrW.jpg",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-esDtAY2He7sk.jpg",
+            "coverHash": "hash",
             "rating": 88
         }
     ],
