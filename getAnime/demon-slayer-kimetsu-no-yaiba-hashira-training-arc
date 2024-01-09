@@ -1,0 +1,439 @@
+{
+    "id": "166240",
+    "title": {
+        "romaji": "Kimetsu no Yaiba: Hashira Geiko-hen",
+        "english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+        "native": "鬼滅の刃 柱稽古編"
+    },
+    "malId": 55701,
+    "synonyms": [
+        "KnY 4"
+    ],
+    "isLicensed": true,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "trailer": {
+        "id": "Sf4cKpeyAbo",
+        "site": "youtube",
+        "thumbnail": "https://i.ytimg.com/vi/Sf4cKpeyAbo/hqdefault.jpg",
+        "thumbnailHash": "hash"
+    },
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-2XbSZkWX6Dqe.jpg",
+    "imageHash": "hash",
+    "popularity": 32564,
+    "color": "#e4865d",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166240-KpMMoNNMxkG4.jpg",
+    "coverHash": "hash",
+    "description": "Adaptation of the Hashira Training Arc.<br>\n<br>\n<i>Notes:<br>\n• The first episode has a runtime of ~1 hour, and received an early premiere in cinemas as part of a special screening alongside the final episode of Kimetsu no Yaiba: Katanakaji no Sato-hen. </i>",
+    "status": "Not yet aired",
+    "releaseDate": 2024,
+    "startDate": {
+        "year": 2024,
+        "month": null,
+        "day": null
+    },
+    "endDate": {
+        "year": null,
+        "month": null,
+        "day": null
+    },
+    "totalEpisodes": null,
+    "currentEpisode": null,
+    "rating": null,
+    "duration": null,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+    ],
+    "season": "SPRING",
+    "studios": [
+        "ufotable"
+    ],
+    "subOrDub": "sub",
+    "type": "TV",
+    "recommendations": [],
+    "characters": [
+        {
+            "id": 127518,
+            "role": "MAIN",
+            "name": {
+                "first": "Nezuko",
+                "last": "Kamado",
+                "full": "Nezuko Kamado",
+                "native": "竈門禰豆子",
+                "userPreferred": "Nezuko Kamado"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127518-NRlq1CQ1v1ro.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 119722,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Akari",
+                        "last": "Kitou",
+                        "full": "Akari Kitou",
+                        "native": "鬼頭明里",
+                        "userPreferred": "Akari Kitou"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-Ls7ORfBejJEP.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 126071,
+            "role": "MAIN",
+            "name": {
+                "first": "Tanjirou",
+                "last": "Kamado",
+                "full": "Tanjirou Kamado",
+                "native": "竈門炭治郎",
+                "userPreferred": "Tanjirou Kamado"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126071-BTNEc1nRIv68.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 111635,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Natsuki",
+                        "last": "Hanae",
+                        "full": "Natsuki Hanae",
+                        "native": "花江夏樹",
+                        "userPreferred": "Natsuki Hanae"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 129130,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Inosuke",
+                "last": "Hashibira",
+                "full": "Inosuke Hashibira",
+                "native": "嘴平伊之助",
+                "userPreferred": "Inosuke Hashibira"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129130-SJC0Kn1DU39E.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 106817,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Yoshitsugu",
+                        "last": "Matsuoka",
+                        "full": "Yoshitsugu Matsuoka",
+                        "native": "松岡禎丞",
+                        "userPreferred": "Yoshitsugu Matsuoka"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 136072,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Mitsuri",
+                "last": "Kanroji",
+                "full": "Mitsuri Kanroji",
+                "native": "甘露寺蜜璃",
+                "userPreferred": "Mitsuri Kanroji"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136072-xVwyRUKdpybi.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95185,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kana",
+                        "last": "Hanazawa",
+                        "full": "Kana Hanazawa",
+                        "native": "花澤香菜",
+                        "userPreferred": "Kana Hanazawa"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-sYuUnmK72rsb.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 136070,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Shinobu",
+                "last": "Kochou",
+                "full": "Shinobu Kochou",
+                "native": "胡蝶しのぶ",
+                "userPreferred": "Shinobu Kochou"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136070-MC9LLxJsHyHE.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95869,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Saori",
+                        "last": "Hayami",
+                        "full": "Saori Hayami",
+                        "native": "早見沙織",
+                        "userPreferred": "Saori Hayami"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 129131,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Zenitsu",
+                "last": "Agatsuma",
+                "full": "Zenitsu Agatsuma",
+                "native": "我妻善逸",
+                "userPreferred": "Zenitsu Agatsuma"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129131-FZrQ7lSlxmEr.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95356,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Hiro",
+                        "last": "Shimono",
+                        "full": "Hiro Shimono",
+                        "native": "下野紘",
+                        "userPreferred": "Hiro Shimono"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 137777,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Obanai",
+                "last": "Iguro",
+                "full": "Obanai Iguro",
+                "native": "伊黒小芭内",
+                "userPreferred": "Obanai Iguro"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95005,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kenichi",
+                        "last": "Suzumura",
+                        "full": "Kenichi Suzumura",
+                        "native": "鈴村健一",
+                        "userPreferred": "Kenichi Suzumura"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95005-SkoVN02iOglr.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 136071,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Tengen",
+                "last": "Uzui",
+                "full": "Tengen Uzui",
+                "native": "宇髄天元",
+                "userPreferred": "Tengen Uzui"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136071-99Kexnnn2PiV.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95020,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Katsuyuki",
+                        "last": "Konishi",
+                        "full": "Katsuyuki Konishi",
+                        "native": "小西克幸",
+                        "userPreferred": "Katsuyuki Konishi"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 137774,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Sanemi",
+                "last": "Shinazugawa",
+                "full": "Sanemi Shinazugawa",
+                "native": "不死川実弥",
+                "userPreferred": "Sanemi Shinazugawa"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137774-bY0HliXqb19y.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95001,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Tomokazu",
+                        "last": "Seki",
+                        "full": "Tomokazu Seki",
+                        "native": "関智一",
+                        "userPreferred": "Tomokazu Seki"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 137778,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Gyoumei",
+                "last": "Himejima",
+                "full": "Gyoumei Himejima",
+                "native": "悲鳴嶼行冥",
+                "userPreferred": "Gyoumei Himejima"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137778-H4Uzb9cSCvZ6.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95002,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Tomokazu",
+                        "last": "Sugita",
+                        "full": "Tomokazu Sugita",
+                        "native": "杉田智和",
+                        "userPreferred": "Tomokazu Sugita"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 130050,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Giyuu",
+                "last": "Tomioka",
+                "full": "Giyuu Tomioka",
+                "native": "冨岡義勇",
+                "userPreferred": "Giyuu Tomioka"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130050-qsLThJs5VIbz.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95079,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Takahiro",
+                        "last": "Sakurai",
+                        "full": "Takahiro Sakurai",
+                        "native": "櫻井孝宏",
+                        "userPreferred": "Takahiro Sakurai"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 136069,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Muichirou",
+                "last": "Tokitou",
+                "full": "Muichirou Tokitou",
+                "native": "時透無一郎",
+                "userPreferred": "Muichirou Tokitou"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136069-6PLglx4tETUX.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 110877,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kengo",
+                        "last": "Kawanishi",
+                        "full": "Kengo Kawanishi",
+                        "native": "河西健吾",
+                        "userPreferred": "Kengo Kawanishi"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110877-zSEL81OrcDwR.png",
+                    "imageHash": "hash"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "id": 145139,
+            "relationType": "PREQUEL",
+            "malId": 51019,
+            "title": {
+                "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+                "english": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+                "native": "鬼滅の刃 刀鍛冶の里編",
+                "userPreferred": "Kimetsu no Yaiba: Katanakaji no Sato-hen"
+            },
+            "status": "Completed",
+            "episodes": 11,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
+            "imageHash": "hash",
+            "color": "#1aaed6",
+            "type": "TV",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145139-V01Prh6UzfRk.jpg",
+            "coverHash": "hash",
+            "rating": 82
+        },
+        {
+            "id": 87216,
+            "relationType": "ADAPTATION",
+            "malId": 96792,
+            "title": {
+                "romaji": "Kimetsu no Yaiba",
+                "english": "Demon Slayer: Kimetsu no Yaiba",
+                "native": "鬼滅の刃",
+                "userPreferred": "Kimetsu no Yaiba"
+            },
+            "status": "Completed",
+            "episodes": null,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx87216-c9bSNVD10UuD.png",
+            "imageHash": "hash",
+            "color": "#f1d628",
+            "type": "MANGA",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/87216-TVKEGfSxAqKs.jpg",
+            "coverHash": "hash",
+            "rating": 80
+        }
+    ],
+    "episodes": []
+}
