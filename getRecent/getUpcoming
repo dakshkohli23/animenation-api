@@ -1,5 +1,17 @@
 [
 {
+		"animeId": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
+		"jname": "Kimetsu no Yaiba: Hashira Geiko-hen",
+		"name": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+		"episodeNum": 0,
+		"sub": "",
+		"dub": "",
+		"subOrDub": "sub",
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-2XbSZkWX6Dqe.jpg",
+		"episodeUrl": "../anime/demon-slayer-kimetsu-no-yaiba-hashira-training-arc"
+	},
+{
 		"animeId": "jujutsu-kaisen-season-3",
 		"jname": "Jujutsu Kaisen: Shimetsu Kaiyuu",
 		"name": "Jujutsu Kaisen Season 3",
