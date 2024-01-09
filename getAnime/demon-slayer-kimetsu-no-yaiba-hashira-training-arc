@@ -29,13 +29,13 @@
     "releaseDate": 2024,
     "startDate": {
         "year": 2024,
-        "month": "-",
-        "day": "-"
+        "month": 00,
+        "day": 00
     },
     "endDate": {
-        "year": "-",
-        "month": "-",
-        "day": "-"
+        "year": 0000,
+        "month": 00,
+        "day": 00
     },
     "totalEpisodes": "-",
     "currentEpisode": "-",
