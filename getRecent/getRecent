@@ -1,5 +1,26 @@
 [
 	{
+		"animeId": "classroom-of-the-elite-season-3",
+		"episodeId": "classroom-of-the-elite-season-3-episode-2",
+		"jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+		"name": "Classroom of the Elite Season 3",
+		"episodeNum": 13,
+		"sub": 2,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-zzKl6P6OeEjy.jpg"
+	},
+	{
+		"animeId": "jujutsu-kaisen-season-2",
+		"episodeId": "jujutsu-kaisen-season-2-episode-23",
+		"name": "JUJUTSU KAISEN Season 2",
+		"jname": "Jujutsu Kaisen 2nd Season",
+		"episodeNum": 23,
+		"dub": 23,
+		"sub": 23,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
+	},
+	{
 		"animeId": "spy-x-family-season-2",
 		"episodeId": "spy-x-family-season-2-episode-1",
 		"jname": "SPY×FAMILY Season 2",
@@ -20,27 +41,8 @@
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png"
 	},
-{
-		"animeId": "jujutsu-kaisen-season-2",
-		"episodeId": "jujutsu-kaisen-season-2-episode-23",
-		"name": "JUJUTSU KAISEN Season 2",
-		"jname": "Jujutsu Kaisen 2nd Season",
-		"episodeNum": 23,
-		"dub": 21,
-		"sub": 23,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg"
-	},
-	{
-		"animeId": "classroom-of-the-elite-season-3",
-		"episodeId": "classroom-of-the-elite-season-3-episode-1",
-		"jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
-		"name": "Classroom of the Elite Season 3",
-		"episodeNum": 13,
-		"sub": 1,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-zzKl6P6OeEjy.jpg"
-	},
+
+
 
 
 	{
