@@ -1,0 +1,154 @@
+{
+    "id": "167404",
+    "title": {
+        "romaji": "MONSTERS: Ippaku Sanjou Hiryuu Jigoku",
+        "english": "MONSTERS: 103 Mercies Dragon Damnation",
+        "native": "MONSTERS 一百三情飛龍侍極"
+    },
+    "malId": 56055,
+    "synonyms": [],
+    "isLicensed": true,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "trailer": {
+        "id": "hCAHv4qEzmU",
+        "site": "youtube",
+        "thumbnail": "https://i.ytimg.com/vi/hCAHv4qEzmU/hqdefault.jpg",
+        "thumbnailHash": "hash"
+    },
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
+    "imageHash": "hash",
+    "popularity": 5124,
+    "color": "#ff931a",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
+    "coverHash": "hash",
+    "description": "<i>MONSTERS: 103 Mercies Dragon Damnation</i> by Eiichiro Oda tells the tale of Ryuuma, the legendary swordsman that hails from the Land of Wano in <i>One Piece</i>.<br><br>\n\n(Source: Netflix Anime, edited)\n",
+    "status": "Not yet aired",
+    "releaseDate": 2024,
+    "startDate": {
+        "year": 2024,
+        "month": 1,
+        "day": 21
+    },
+    "endDate": {
+        "year": 2024,
+        "month": 1,
+        "day": 21
+    },
+    "totalEpisodes": 1,
+    "currentEpisode": 1,
+    "rating": null,
+    "duration": null,
+    "genres": [
+        "Action",
+        "Comedy"
+    ],
+    "season": "WINTER",
+    "studios": [
+        "E&H Production"
+    ],
+    "subOrDub": "sub",
+    "type": "ONA",
+    "recommendations": [],
+    "characters": [
+        {
+            "id": 17178,
+            "role": "MAIN",
+            "name": {
+                "first": "Ryuuma",
+                "last": "Shimotsuki",
+                "full": "Ryuuma Shimotsuki",
+                "native": "霜月リューマ",
+                "userPreferred": "Ryuuma Shimotsuki"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/17178.jpg",
+            "imageHash": "hash",
+            "voiceActors": []
+        },
+        {
+            "id": 320884,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Flare",
+                "last": null,
+                "full": "Flare",
+                "native": "フレア",
+                "userPreferred": "Flare"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320884-Wj1p4hnHhljs.jpg",
+            "imageHash": "hash",
+            "voiceActors": []
+        },
+        {
+            "id": 320883,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Cyrano",
+                "last": null,
+                "full": "Cyrano",
+                "native": "シラノ",
+                "userPreferred": "Cyrano"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320883-UaYp9D27uyjg.png",
+            "imageHash": "hash",
+            "voiceActors": []
+        },
+        {
+            "id": 320885,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "D.R.",
+                "last": null,
+                "full": "D.R.",
+                "native": "ディーアール",
+                "userPreferred": "D.R."
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320885-8hRuCfLopytS.png",
+            "imageHash": "hash",
+            "voiceActors": []
+        }
+    ],
+    "relations": [
+        {
+            "id": 125826,
+            "relationType": "ADAPTATION",
+            "malId": null,
+            "title": {
+                "romaji": "Monsters",
+                "english": null,
+                "native": "モンスターズ",
+                "userPreferred": "Monsters"
+            },
+            "status": "Completed",
+            "episodes": null,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx125826-4gX5jL7LtaFi.png",
+            "imageHash": "hash",
+            "color": null,
+            "type": "ONE_SHOT",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/125826-sTPjtb8RiV9D.jpg",
+            "coverHash": "hash",
+            "rating": 75
+        },
+        {
+            "id": 21,
+            "relationType": "SEQUEL",
+            "malId": 21,
+            "title": {
+                "romaji": "ONE PIECE",
+                "english": "ONE PIECE",
+                "native": "ONE PIECE",
+                "userPreferred": "ONE PIECE"
+            },
+            "status": "Ongoing",
+            "episodes": null,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg",
+            "imageHash": "hash",
+            "color": "#e4a15d",
+            "type": "TV",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+            "coverHash": "hash",
+            "rating": 88
+        }
+    ],
+    "episodes": []
+}
