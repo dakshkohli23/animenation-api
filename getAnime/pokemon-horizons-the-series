@@ -37,8 +37,8 @@
 		"timeUntilAiring": 178006,
 		"episode": 7
 	},
-	"totalEpisodes": 34,
-	"currentEpisode": 34,
+	"totalEpisodes": 35,
+	"currentEpisode": 35,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -878,5 +878,12 @@
             "description": "",
             "number": "34",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10180470/screencap/65859deef2973.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-35",
+            "title": "Duo in the Wilderness: Friede and Cap",
+            "description": "",
+            "number": "35",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10186547/screencap/65a0efdf35b95.jpg"
         }]
 }
