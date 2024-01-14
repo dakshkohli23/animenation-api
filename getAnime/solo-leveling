@@ -44,7 +44,7 @@
         "episode": 2
     },
     "totalEpisodes": 12,
-    "currentEpisode": 1,
+    "currentEpisode": 2,
     "rating": null,
     "duration": 22,
     "genres": [
@@ -598,8 +598,16 @@
             "imageHash": "hash",
             "number": 1,
             "createdAt": null,
-            "description": null,
-            "url": "https://gogoanime3.net//solo-leveling-episode-1"
+            "description": null
+        },
+{
+            "id": "solo-leveling-episode-2",
+            "title": "If I Had One More Chance",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10190441/screencap/65a035a475474.jpg",
+            "imageHash": "hash",
+            "number": 2,
+            "createdAt": null,
+            "description": null
         }
     ]
 }
