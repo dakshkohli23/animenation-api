@@ -886,7 +886,255 @@
       "type": "movie",
 	  "animeurl": "pokemon-the-movie-secrets-of-the-jungle"
     }],
-  "characters": [
+  "characters": [		{
+            "id": 2473,
+            "role": "MAIN",
+            "name": {
+                "first": "Satoshi",
+                "last": null,
+                "full": "Satoshi",
+                "native": "サトシ",
+                "userPreferred": "Satoshi"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95678,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Rika",
+                        "last": "Matsumoto",
+                        "full": "Rika Matsumoto",
+                        "native": "松本梨香",
+                        "userPreferred": "Rika Matsumoto"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95678-U0iKFbhteND6.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 95905,
+                    "language": "English",
+                    "name": {
+                        "first": "Veronica",
+                        "last": "Taylor",
+                        "full": "Veronica Taylor",
+                        "native": null,
+                        "userPreferred": "Veronica Taylor"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95905-X3mxkcZkmmKN.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 110135,
+                    "language": "Korean",
+                    "name": {
+                        "first": "Do Yeong",
+                        "last": "Song",
+                        "full": "Do Yeong Song",
+                        "native": "도영송",
+                        "userPreferred": "Do Yeong Song"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/15135.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 96160,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Davide",
+                        "last": "Garbolino",
+                        "full": "Davide Garbolino",
+                        "native": null,
+                        "userPreferred": "Davide Garbolino"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96160-f2iHwGVbtmun.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 110559,
+                    "language": "Spanish",
+                    "name": {
+                        "first": "Adolfo",
+                        "last": "Moreno",
+                        "full": "Adolfo Moreno",
+                        "native": null,
+                        "userPreferred": "Adolfo Moreno"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/15559.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 201450,
+                    "language": "Spanish",
+                    "name": {
+                        "first": "Gabriel",
+                        "last": "Ramos",
+                        "full": "Gabriel Ramos",
+                        "native": null,
+                        "userPreferred": "Gabriel Ramos"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201450-QShF5feq64bk.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 96108,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Fábio",
+                        "last": "Lucindo",
+                        "full": "Fábio Lucindo",
+                        "native": null,
+                        "userPreferred": "Fábio Lucindo"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96108-MuX1nYAfR6za.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 104932,
+                    "language": "French",
+                    "name": {
+                        "first": "Aurélien",
+                        "last": "Ringelheim",
+                        "full": "Aurélien Ringelheim",
+                        "native": null,
+                        "userPreferred": "Aurélien Ringelheim"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104932-gdeUfiKy5zHh.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 115550,
+                    "language": "French",
+                    "name": {
+                        "first": "Sebastien",
+                        "last": "Reding",
+                        "full": "Sebastien Reding",
+                        "native": null,
+                        "userPreferred": "Sebastien Reding"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/20550.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 104072,
+                    "language": "German",
+                    "name": {
+                        "first": "Veronika Aryana",
+                        "last": "Neugebauer",
+                        "full": "Veronika Aryana Neugebauer",
+                        "native": null,
+                        "userPreferred": "Veronika Aryana Neugebauer"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/9072.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 105037,
+                    "language": "German",
+                    "name": {
+                        "first": "Caroline",
+                        "last": "Combrinck",
+                        "full": "Caroline Combrinck",
+                        "native": null,
+                        "userPreferred": "Caroline Combrinck"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10037.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 106945,
+                    "language": "Hebrew",
+                    "name": {
+                        "first": "Yehonatan",
+                        "last": "Magon",
+                        "full": "Yehonatan Magon",
+                        "native": " יהונתן מגון",
+                        "userPreferred": "Yehonatan Magon"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106945-vbVfj3EiWdiT.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 106968,
+                    "language": "Hebrew",
+                    "name": {
+                        "first": "Daniel",
+                        "last": "Magon",
+                        "full": "Daniel Magon",
+                        "native": "דניאל מגון  ",
+                        "userPreferred": "Daniel Magon"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106968-5hrA7h8N6sMS.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 102831,
+                    "language": "Hungarian",
+                    "name": {
+                        "first": "Balázs",
+                        "last": "Szvetlov",
+                        "full": "Balázs Szvetlov",
+                        "native": null,
+                        "userPreferred": "Balázs Szvetlov"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/7831.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 102837,
+                    "language": "Hungarian",
+                    "name": {
+                        "first": "Gergő",
+                        "last": "Ungvári",
+                        "full": "Gergő Ungvári",
+                        "native": null,
+                        "userPreferred": "Gergő Ungvári"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 218297,
+                    "language": "Polish",
+                    "name": {
+                        "first": "Hanna",
+                        "last": "Kinder-Kiss",
+                        "full": "Hanna Kinder-Kiss",
+                        "native": null,
+                        "userPreferred": "Hanna Kinder-Kiss"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n218297-bpf2d1a821oe.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 217370,
+                    "language": "Norwegian",
+                    "name": {
+                        "first": "Nils-Martin",
+                        "last": "Crawfurd",
+                        "full": "Nils-Martin Crawfurd",
+                        "native": null,
+                        "userPreferred": "Nils-Martin Crawfurd"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n217370-GDUlc3yK2hpa.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 315909,
+                    "language": "Swedish",
+                    "name": {
+                        "first": "Dick",
+                        "last": "Eriksson",
+                        "full": "Dick Eriksson",
+                        "native": null,
+                        "userPreferred": "Dick Eriksson"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n315909-XeMlyGZ9YSYq.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
         {
             "id": 19852,
             "role": "MAIN",
@@ -2179,255 +2427,6 @@
                         "userPreferred": "Niclas Wahlgren"
                     },
                     "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n281919-kvnVSX04SUoB.png",
-                    "imageHash": "hash"
-                }
-            ]
-        },
-        {
-            "id": 2473,
-            "role": "MAIN",
-            "name": {
-                "first": "Satoshi",
-                "last": null,
-                "full": "Satoshi",
-                "native": "サトシ",
-                "userPreferred": "Satoshi"
-            },
-            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2473-JDoo3I82Km4l.png",
-            "imageHash": "hash",
-            "voiceActors": [
-                {
-                    "id": 95678,
-                    "language": "Japanese",
-                    "name": {
-                        "first": "Rika",
-                        "last": "Matsumoto",
-                        "full": "Rika Matsumoto",
-                        "native": "松本梨香",
-                        "userPreferred": "Rika Matsumoto"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95678-U0iKFbhteND6.png",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 95905,
-                    "language": "English",
-                    "name": {
-                        "first": "Veronica",
-                        "last": "Taylor",
-                        "full": "Veronica Taylor",
-                        "native": null,
-                        "userPreferred": "Veronica Taylor"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95905-X3mxkcZkmmKN.jpg",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 110135,
-                    "language": "Korean",
-                    "name": {
-                        "first": "Do Yeong",
-                        "last": "Song",
-                        "full": "Do Yeong Song",
-                        "native": "도영송",
-                        "userPreferred": "Do Yeong Song"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/15135.jpg",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 96160,
-                    "language": "Italian",
-                    "name": {
-                        "first": "Davide",
-                        "last": "Garbolino",
-                        "full": "Davide Garbolino",
-                        "native": null,
-                        "userPreferred": "Davide Garbolino"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96160-f2iHwGVbtmun.jpg",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 110559,
-                    "language": "Spanish",
-                    "name": {
-                        "first": "Adolfo",
-                        "last": "Moreno",
-                        "full": "Adolfo Moreno",
-                        "native": null,
-                        "userPreferred": "Adolfo Moreno"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/15559.jpg",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 201450,
-                    "language": "Spanish",
-                    "name": {
-                        "first": "Gabriel",
-                        "last": "Ramos",
-                        "full": "Gabriel Ramos",
-                        "native": null,
-                        "userPreferred": "Gabriel Ramos"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n201450-QShF5feq64bk.png",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 96108,
-                    "language": "Portuguese",
-                    "name": {
-                        "first": "Fábio",
-                        "last": "Lucindo",
-                        "full": "Fábio Lucindo",
-                        "native": null,
-                        "userPreferred": "Fábio Lucindo"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96108-MuX1nYAfR6za.png",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 104932,
-                    "language": "French",
-                    "name": {
-                        "first": "Aurélien",
-                        "last": "Ringelheim",
-                        "full": "Aurélien Ringelheim",
-                        "native": null,
-                        "userPreferred": "Aurélien Ringelheim"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104932-gdeUfiKy5zHh.jpg",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 115550,
-                    "language": "French",
-                    "name": {
-                        "first": "Sebastien",
-                        "last": "Reding",
-                        "full": "Sebastien Reding",
-                        "native": null,
-                        "userPreferred": "Sebastien Reding"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/20550.jpg",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 104072,
-                    "language": "German",
-                    "name": {
-                        "first": "Veronika Aryana",
-                        "last": "Neugebauer",
-                        "full": "Veronika Aryana Neugebauer",
-                        "native": null,
-                        "userPreferred": "Veronika Aryana Neugebauer"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/9072.jpg",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 105037,
-                    "language": "German",
-                    "name": {
-                        "first": "Caroline",
-                        "last": "Combrinck",
-                        "full": "Caroline Combrinck",
-                        "native": null,
-                        "userPreferred": "Caroline Combrinck"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10037.jpg",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 106945,
-                    "language": "Hebrew",
-                    "name": {
-                        "first": "Yehonatan",
-                        "last": "Magon",
-                        "full": "Yehonatan Magon",
-                        "native": " יהונתן מגון",
-                        "userPreferred": "Yehonatan Magon"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106945-vbVfj3EiWdiT.jpg",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 106968,
-                    "language": "Hebrew",
-                    "name": {
-                        "first": "Daniel",
-                        "last": "Magon",
-                        "full": "Daniel Magon",
-                        "native": "דניאל מגון  ",
-                        "userPreferred": "Daniel Magon"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106968-5hrA7h8N6sMS.png",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 102831,
-                    "language": "Hungarian",
-                    "name": {
-                        "first": "Balázs",
-                        "last": "Szvetlov",
-                        "full": "Balázs Szvetlov",
-                        "native": null,
-                        "userPreferred": "Balázs Szvetlov"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/7831.jpg",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 102837,
-                    "language": "Hungarian",
-                    "name": {
-                        "first": "Gergő",
-                        "last": "Ungvári",
-                        "full": "Gergő Ungvári",
-                        "native": null,
-                        "userPreferred": "Gergő Ungvári"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 218297,
-                    "language": "Polish",
-                    "name": {
-                        "first": "Hanna",
-                        "last": "Kinder-Kiss",
-                        "full": "Hanna Kinder-Kiss",
-                        "native": null,
-                        "userPreferred": "Hanna Kinder-Kiss"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n218297-bpf2d1a821oe.png",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 217370,
-                    "language": "Norwegian",
-                    "name": {
-                        "first": "Nils-Martin",
-                        "last": "Crawfurd",
-                        "full": "Nils-Martin Crawfurd",
-                        "native": null,
-                        "userPreferred": "Nils-Martin Crawfurd"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n217370-GDUlc3yK2hpa.png",
-                    "imageHash": "hash"
-                },
-                {
-                    "id": 315909,
-                    "language": "Swedish",
-                    "name": {
-                        "first": "Dick",
-                        "last": "Eriksson",
-                        "full": "Dick Eriksson",
-                        "native": null,
-                        "userPreferred": "Dick Eriksson"
-                    },
-                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n315909-XeMlyGZ9YSYq.png",
                     "imageHash": "hash"
                 }
             ]
