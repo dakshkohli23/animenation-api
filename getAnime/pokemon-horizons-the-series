@@ -37,8 +37,8 @@
 		"timeUntilAiring": 178006,
 		"episode": 7
 	},
-	"totalEpisodes": 35,
-	"currentEpisode": 35,
+	"totalEpisodes": 36,
+	"currentEpisode": 36,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -881,9 +881,16 @@
         },
         {
             "id": "pokemon-horizons-the-series-episode-35",
-            "title": "Duo in the Wilderness: Friede and Cap",
+            "title": "A Duo in the Wilderness: Friede and Cap",
             "description": "",
             "number": "35",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10186547/screencap/65a0efdf35b95.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-36",
+            "title": "Operation: Oinkologne Friendship!",
+            "description": "",
+            "number": "36",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10239398/screencap/65aa4c24e7da5.jpg"
         }]
 }
