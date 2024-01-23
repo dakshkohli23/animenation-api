@@ -6,23 +6,25 @@
         "native": "MONSTERS 一百三情飛龍侍極"
     },
     "malId": 56055,
-    "synonyms": [],
+    "synonyms": [
+        "الوحوش: لعنة التنين"
+    ],
     "isLicensed": true,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "trailer": {
-        "id": "hCAHv4qEzmU",
+        "id": "Q6tmyHjEFcE",
         "site": "youtube",
-        "thumbnail": "https://i.ytimg.com/vi/hCAHv4qEzmU/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/Q6tmyHjEFcE/hqdefault.jpg",
         "thumbnailHash": "hash"
     },
     "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
     "imageHash": "hash",
-    "popularity": 5124,
+    "popularity": 8591,
     "color": "#ff931a",
-    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167404-Hhvbg3APdan0.jpg",
     "coverHash": "hash",
-    "description": "<i>MONSTERS: 103 Mercies Dragon Damnation</i> by Eiichiro Oda tells the tale of Ryuuma, the legendary swordsman that hails from the Land of Wano in <i>One Piece</i>.<br><br>\n\n(Source: Netflix Anime, edited)\n",
+    "description": "<i>MONSTERS: 103 Mercies Dragon Damnation</i> by Eiichiro Oda tells the tale of Ryuuma, the legendary swordsman that hails from the Land of Wano in <i>One Piece</i>.<br><br> \n\nA samurai's path leads him to a young waitress whose hometown was destroyed by a dragon. He doesn't want any trouble - but it finds them anyway.<br><br>\n\n(Source: Netflix Anime, edited)",
     "status": "Completed",
     "releaseDate": 2024,
     "startDate": {
@@ -37,8 +39,8 @@
     },
     "totalEpisodes": 1,
     "currentEpisode": 1,
-    "rating": null,
-    "duration": null,
+    "rating": 77,
+    "duration": 25,
     "genres": [
         "Action",
         "Comedy"
@@ -63,35 +65,222 @@
             },
             "image": "https://s4.anilist.co/file/anilistcdn/character/large/17178.jpg",
             "imageHash": "hash",
-            "voiceActors": []
+            "voiceActors": [
+                {
+                    "id": 100626,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Yoshimasa",
+                        "last": "Hosoya",
+                        "full": "Yoshimasa Hosoya",
+                        "native": "細谷佳正",
+                        "userPreferred": "Yoshimasa Hosoya"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 120248,
+                    "language": "English",
+                    "name": {
+                        "first": "Robbie",
+                        "last": "Daymond",
+                        "full": "Robbie Daymond",
+                        "native": null,
+                        "userPreferred": "Robbie Daymond"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120248-Htn17gfEQPHX.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 157475,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Ezio ",
+                        "last": "Vivolo",
+                        "full": "Ezio  Vivolo",
+                        "native": "Ezio Vivolo",
+                        "userPreferred": "Ezio  Vivolo"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157475-tntPpQo6GoWM.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 179917,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Ítalo",
+                        "last": "Luiz",
+                        "full": "Ítalo Luiz",
+                        "native": "Italo Luiz",
+                        "userPreferred": "Ítalo Luiz"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179917-gyxT3bEH6VIx.jpg",
+                    "imageHash": "hash"
+                }
+            ]
         },
         {
             "id": 320884,
             "role": "SUPPORTING",
             "name": {
-                "first": "Flare",
+                "first": "Flair",
                 "last": null,
-                "full": "Flare",
+                "full": "Flair",
                 "native": "フレア",
-                "userPreferred": "Flare"
+                "userPreferred": "Flair"
             },
             "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320884-Wj1p4hnHhljs.jpg",
             "imageHash": "hash",
-            "voiceActors": []
+            "voiceActors": [
+                {
+                    "id": 95185,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kana",
+                        "last": "Hanazawa",
+                        "full": "Kana Hanazawa",
+                        "native": "花澤香菜",
+                        "userPreferred": "Kana Hanazawa"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 120212,
+                    "language": "English",
+                    "name": {
+                        "first": "Brianna",
+                        "last": "Knickerbocker",
+                        "full": "Brianna Knickerbocker",
+                        "native": null,
+                        "userPreferred": "Brianna Knickerbocker"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120212-s8ziqBtQLQWy.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 157477,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Laura ",
+                        "last": "Cherubelli",
+                        "full": "Laura  Cherubelli",
+                        "native": "Laura Cherubelli",
+                        "userPreferred": "Laura  Cherubelli"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157477-pnobMnTNWaQ3.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 180906,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Michelle",
+                        "last": "Giudice",
+                        "full": "Michelle Giudice",
+                        "native": "Michelle Giudice",
+                        "userPreferred": "Michelle Giudice"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n180906-BqZx7c6S31Zl.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 324605,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Ryuu",
+                "last": null,
+                "full": "Ryuu",
+                "native": "竜",
+                "userPreferred": "Ryuu"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324605-YbqoAi6n0pun.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95123,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kazuya",
+                        "last": "Nakai",
+                        "full": "Kazuya Nakai",
+                        "native": "中井和哉",
+                        "userPreferred": "Kazuya Nakai"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95123-qdVFNraYmQ5K.png",
+                    "imageHash": "hash"
+                }
+            ]
         },
         {
             "id": 320883,
             "role": "SUPPORTING",
             "name": {
-                "first": "Cyrano",
+                "first": "Shirano",
                 "last": null,
-                "full": "Cyrano",
+                "full": "Shirano",
                 "native": "シラノ",
-                "userPreferred": "Cyrano"
+                "userPreferred": "Shirano"
             },
             "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320883-UaYp9D27uyjg.png",
             "imageHash": "hash",
-            "voiceActors": []
+            "voiceActors": [
+                {
+                    "id": 95236,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Hiroki",
+                        "last": "Touchi",
+                        "full": "Hiroki Touchi",
+                        "native": "東地宏樹",
+                        "userPreferred": "Hiroki Touchi"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 128717,
+                    "language": "English",
+                    "name": {
+                        "first": "Ray",
+                        "last": "Chase",
+                        "full": "Ray Chase",
+                        "native": null,
+                        "userPreferred": "Ray Chase"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128717-SJqPMbIMSYNo.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 165035,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Diego",
+                        "last": "Baldoin",
+                        "full": "Diego Baldoin",
+                        "native": null,
+                        "userPreferred": "Diego Baldoin"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n165035-IGLmFe0Wzmo9.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 185358,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Orlando",
+                        "last": "Viggiani",
+                        "full": "Orlando Viggiani",
+                        "native": null,
+                        "userPreferred": "Orlando Viggiani"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185358-4244nPbCiLBR.jpg",
+                    "imageHash": "hash"
+                }
+            ]
         },
         {
             "id": 320885,
@@ -105,7 +294,278 @@
             },
             "image": "https://s4.anilist.co/file/anilistcdn/character/large/b320885-8hRuCfLopytS.png",
             "imageHash": "hash",
-            "voiceActors": []
+            "voiceActors": [
+                {
+                    "id": 95394,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Mitsuaki",
+                        "last": "Madono",
+                        "full": "Mitsuaki Madono",
+                        "native": "真殿光昭",
+                        "userPreferred": "Mitsuaki Madono"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95394-BMiqrbgY0gIp.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 128718,
+                    "language": "English",
+                    "name": {
+                        "first": "Kyle",
+                        "last": "McCarley",
+                        "full": "Kyle McCarley",
+                        "native": null,
+                        "userPreferred": "Kyle McCarley"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128718-o67cGq2yTXRR.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 164445,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Luca",
+                        "last": "Ghignone",
+                        "full": "Luca Ghignone",
+                        "native": null,
+                        "userPreferred": "Luca Ghignone"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n164445-CWKeycJ0TJuP.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 106521,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Yuri",
+                        "last": "Chesman",
+                        "full": "Yuri Chesman",
+                        "native": "Yuri Chessman da Costa Bomfim",
+                        "userPreferred": "Yuri Chesman"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106521-GUVA3QJQyx64.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 323820,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Master",
+                "last": null,
+                "full": "Master",
+                "native": "マスター",
+                "userPreferred": "Master"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 100697,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Katsuhito",
+                        "last": "Nomura",
+                        "full": "Katsuhito Nomura",
+                        "native": "野村勝人",
+                        "userPreferred": "Katsuhito Nomura"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5697.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 240255,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Alessandro",
+                        "last": "Fattori",
+                        "full": "Alessandro Fattori",
+                        "native": null,
+                        "userPreferred": "Alessandro Fattori"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n240255-YUlZqPsayoZA.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 185307,
+                    "language": "Portuguese",
+                    "name": {
+                        "first": "Lucas",
+                        "last": "Gama",
+                        "full": "Lucas Gama",
+                        "native": null,
+                        "userPreferred": "Lucas Gama"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185307-72SiMiLUWKSV.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Zoro",
+                "last": "Roronoa",
+                "full": "Zoro Roronoa",
+                "native": "ロロノア・ゾロ",
+                "userPreferred": "Zoro Roronoa"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62-Wixe3kLJGVby.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95123,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kazuya",
+                        "last": "Nakai",
+                        "full": "Kazuya Nakai",
+                        "native": "中井和哉",
+                        "userPreferred": "Kazuya Nakai"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95123-qdVFNraYmQ5K.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 95253,
+                    "language": "English",
+                    "name": {
+                        "first": "Christopher",
+                        "last": "Sabat",
+                        "full": "Christopher Sabat",
+                        "native": null,
+                        "userPreferred": "Christopher Sabat"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95253-Z7Yqog73M7E8.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 96268,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Patrizio",
+                        "last": "Prata",
+                        "full": "Patrizio Prata",
+                        "native": null,
+                        "userPreferred": "Patrizio Prata"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96268-zO83Agjsj8HU.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 324600,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Flair no Chichi",
+                "last": null,
+                "full": "Flair no Chichi",
+                "native": "フレアの父",
+                "userPreferred": "Flair no Chichi"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 129947,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Takahiro",
+                        "last": "Sumi",
+                        "full": "Takahiro Sumi",
+                        "native": "鷲見昂大",
+                        "userPreferred": "Takahiro Sumi"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129947-Ztk8UaIlIQbC.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 324601,
+            "role": "BACKGROUND",
+            "name": {
+                "first": "Tenchou",
+                "last": null,
+                "full": "Tenchou",
+                "native": "店長",
+                "userPreferred": "Tenchou"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 118552,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Masashi",
+                        "last": "Nogawa",
+                        "full": "Masashi Nogawa",
+                        "native": "野川雅史",
+                        "userPreferred": "Masashi Nogawa"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/23552.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 36309,
+            "role": "BACKGROUND",
+            "name": {
+                "first": "Narrator",
+                "last": null,
+                "full": "Narrator",
+                "native": "ナレーター",
+                "userPreferred": "Narrator"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-yRLEQYd2dDI5.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95123,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kazuya",
+                        "last": "Nakai",
+                        "full": "Kazuya Nakai",
+                        "native": "中井和哉",
+                        "userPreferred": "Kazuya Nakai"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95123-qdVFNraYmQ5K.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 95253,
+                    "language": "English",
+                    "name": {
+                        "first": "Christopher",
+                        "last": "Sabat",
+                        "full": "Christopher Sabat",
+                        "native": null,
+                        "userPreferred": "Christopher Sabat"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95253-Z7Yqog73M7E8.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 96268,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Patrizio",
+                        "last": "Prata",
+                        "full": "Patrizio Prata",
+                        "native": null,
+                        "userPreferred": "Patrizio Prata"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96268-zO83Agjsj8HU.png",
+                    "imageHash": "hash"
+                }
+            ]
         }
     ],
     "relations": [
@@ -127,7 +587,7 @@
             "type": "ONE_SHOT",
             "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/125826-sTPjtb8RiV9D.jpg",
             "coverHash": "hash",
-            "rating": 75
+            "rating": 74
         },
         {
             "id": 21,
@@ -150,5 +610,122 @@
             "rating": 88
         }
     ],
-    "episodes": []
+    "mappings": [
+        {
+            "id": "/category/monsters-ippyaku-sanjou-hiryuu-jigoku",
+            "providerId": "gogoanime",
+            "similarity": 0.9538461538461539,
+            "providerType": "ANIME"
+        },
+        {
+            "id": "/series/443488",
+            "providerId": "tvdb",
+            "similarity": 1,
+            "providerType": "META"
+        },
+        {
+            "id": "167404",
+            "providerId": "anilist",
+            "similarity": 1,
+            "providerType": "META"
+        }
+    ],
+    "artwork": [
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167404-QMZJVARntkbv.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://artworks.thetvdb.com/banners/v4/series/443488/backgrounds/65a01430e7b19.jpg",
+            "type": "banner",
+            "providerId": "tvdb"
+        },
+        {
+            "img": "https://artworks.thetvdb.com/banners/v4/series/443488/posters/657ece532ff8e.jpg",
+            "type": "poster",
+            "providerId": "tvdb"
+        },
+        {
+            "img": "https://artworks.thetvdb.com/banners/v4/series/443488/posters/657ece573e8f4.jpg",
+            "type": "poster",
+            "providerId": "tvdb"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167404-QMZJVARntkbv.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://artworks.thetvdb.com/banners/v4/series/443488/backgrounds/65a01430e7b19.jpg",
+            "type": "banner",
+            "providerId": "tvdb"
+        },
+        {
+            "img": "https://artworks.thetvdb.com/banners/v4/series/443488/posters/657ece532ff8e.jpg",
+            "type": "poster",
+            "providerId": "tvdb"
+        },
+        {
+            "img": "https://artworks.thetvdb.com/banners/v4/series/443488/posters/657ece573e8f4.jpg",
+            "type": "poster",
+            "providerId": "tvdb"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167404-QMZJVARntkbv.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167404-QMZJVARntkbv.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx167404-QMZJVARntkbv.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167404-Hhvbg3APdan0.jpg",
+            "type": "banner",
+            "providerId": "anilist"
+        }
+    ],
+    "episodes": [
+        {
+            "id": "monsters-103-mercies-dragon-damnation-episode-1",
+            "title": "Monsters: 103 Mercies Dragon Damnation",
+            "description": null,
+            "number": 1,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
+            "imageHash": "hash",
+            "airDate": null
+        }
+    ]
 }
