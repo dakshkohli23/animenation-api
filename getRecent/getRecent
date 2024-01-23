@@ -1,5 +1,15 @@
 [
 	{
+		"animeId": "pokemon-horizons-the-series",
+		"episodeId": "pokemon-horizons-the-series-episode-35",
+		"jname": "Pocket Monsters (2023)",
+		"name": "Pokémon Horizons: The Series",
+		"episodeNum": 36,
+		"sub": 36,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
+	},
+	{
 		"animeId": "monsters-103-mercies-dragon-damnation",
 		"episodeId": "monsters-103-mercies-dragon-damnation-episode-1",
 		"jname": "MONSTERS: Ippaku Sanjou Hiryuu Jigoku",
@@ -29,16 +39,6 @@
 		"sub": 2,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png"
-	},
-	{
-		"animeId": "pokemon-horizons-the-series",
-		"episodeId": "pokemon-horizons-the-series-episode-35",
-		"jname": "Pocket Monsters (2023)",
-		"name": "Pokémon Horizons: The Series",
-		"episodeNum": 35,
-		"sub": 35,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
 	},
 	{
 		"animeId": "classroom-of-the-elite-season-3",
