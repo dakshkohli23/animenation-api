@@ -643,6 +643,19 @@
             "isAdult": true
         },
         {
+            "animeId": "monsters-103-mercies-dragon-damnation",
+            "episodeId": "monsters-103-mercies-dragon-damnation-episode-1",
+            "name": "MONSTERS: 103 Mercies Dragon Damnation",
+            "jname": "MONSTERS: Ippaku Sanjou Hiryuu Jigoku",
+            "sub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167404-QMZJVARntkbv.jpg",
+            "type": "ona",
+            "episodeUrl": "anime/monsters-103-mercies-dragon-damnation",
+            "genres": ["Action", "Comedy"],
+            "isAdult": false
+        },
+        {
             "animeId": "oshi-no-ko",
             "episodeId": "oshi-no-ko-episode-1",
             "name": "Oshi No Ko (My Star)",
@@ -847,8 +860,8 @@
             "episodeId": "pokemon-horizons-the-series-episode-1",
             "name": "Pokemon Horizons: The Series",
             "jname": "Pocket Monsters (2023)",
-            "sub": "35",
-            "totalEpisodes": "35",
+            "sub": "36",
+            "totalEpisodes": "36",
             "imgUrl": "https://artworks.thetvdb.com/banners/v4/season/2069353/posters/64b404ea03ccd.jpg",
             "type": "tv",
             "episodeUrl": "anime/pokemon-horizons-the-series",
