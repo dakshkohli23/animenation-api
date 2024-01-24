@@ -45,7 +45,7 @@
         "episode": 2
     },
     "totalEpisodes": 13,
-    "currentEpisode": 2,
+    "currentEpisode": 3,
     "rating": 78,
     "duration": 22,
     "genres": [
@@ -546,5 +546,12 @@
             "number": "2",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10160752/screencap/6597d8433b37d.jpg",
             "airDate": "January 10, 2024"
+        },{
+            "id": "classroom-of-the-elite-season-3-episode-3",
+            "title": "We never forget what we endeavor to forget.",
+            "description": "While Class C are discussing Karuizawa and Hirata's break up Yamauchi is approached by Sakayanagi from Class A. Horikita warns that it's a trap, but Yamauchi pays it no heed. Meanwhile, Horikita tells Ayanokoji that rumors are swirling around Ichinose.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10160753/screencap/65a11cf5a2cd1.jpg",
+            "airDate": "January 17, 2024"
         }]
 }
