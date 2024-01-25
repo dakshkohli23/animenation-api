@@ -44,9 +44,9 @@
         "episode": 2
     },
     "totalEpisodes": 12,
-    "currentEpisode": 2,
-    "rating": null,
-    "duration": 22,
+    "currentEpisode": 3,
+    "rating": 82,
+    "duration": 24,
     "genres": [
         "Action",
         "Adventure",
@@ -598,16 +598,25 @@
             "imageHash": "hash",
             "number": 1,
             "createdAt": null,
-            "description": null
+            "description": "Around ten years ago, gates that connected our world to another dimension began to appear, leading to the rise of hunters who would traverse these gates to fight the magic beasts within. Sung Jinwoo, E-Rank hunter, is the weakest of them all."
         },
-{
+        {
             "id": "solo-leveling-episode-2",
             "title": "If I Had One More Chance",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10190441/screencap/65a035a475474.jpg",
             "imageHash": "hash",
             "number": 2,
             "createdAt": null,
-            "description": null
+            "description": "Jinwoo and his party appear to have cleared a low-level dungeon, when a hidden path to an unfamiliar temple is revealed. There they encounter a set of commandments and a group of monsters that cause them absolute despair."
+        },
+        {
+            "id": "solo-leveling-episode-3",
+            "title": "It's Like a Game",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10190442/screencap/65a96e7108c25.jpg",
+            "imageHash": "hash",
+            "number": 2,
+            "createdAt": null,
+            "description": "Jinwoo remains behind in the temple dungeon to save his few surviving party members, and with a swing from the god statue's blade, his life comes to an end—or so it seems, before he wakes up in a hospital bed."
         }
     ]
 }
