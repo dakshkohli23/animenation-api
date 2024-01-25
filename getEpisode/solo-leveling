@@ -1,16 +1,26 @@
 [
         {
             "server1": "fh13ooypnu9u",
+            "server2": "zv4ro6vq9cy7",
             "animeNameWithEP": "Solo Leveling Episode 1",
             "ep_num": "1",
             "anime_info": "solo-leveling",
             "movie_id": "151807",
-            "subOrDub": "sub"
+            "subOrDub": "dual"
         },
         {
             "server1": "0tp3f2p4q5zt",
+            "server2": "https://filemoon.sx/d/qnn063kvdccm/_Anipulse__Solo_Leveling_-_02__Dub_.mkv",
             "animeNameWithEP": "Solo Leveling Episode 2",
             "ep_num": "2",
+            "anime_info": "solo-leveling",
+            "movie_id": "151807",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "bs5ermpn49ty",
+            "animeNameWithEP": "Solo Leveling Episode 3",
+            "ep_num": "3",
             "anime_info": "solo-leveling",
             "movie_id": "151807",
             "subOrDub": "sub"
