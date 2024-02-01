@@ -44,7 +44,7 @@
         "episode": 2
     },
     "totalEpisodes": 12,
-    "currentEpisode": 3,
+    "currentEpisode": 4,
     "rating": 82,
     "duration": 24,
     "genres": [
@@ -617,6 +617,15 @@
             "number": 3,
             "createdAt": null,
             "description": "Jinwoo remains behind in the temple dungeon to save his few surviving party members, and with a swing from the god statue's blade, his life comes to an end—or so it seems, before he wakes up in a hospital bed."
+        },
+        {
+            "id": "solo-leveling-episode-4",
+            "title": "I've Gotta Get Stronger",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10190443/screencap/65b26caf982e0.jpg",
+            "imageHash": "hash",
+            "number": 4,
+            "createdAt": null,
+            "description": "Having entered the instance dungeon located inside the subway, Jinwoo levels up time and time again by fighting waves of magic beasts. As he gradually makes his way forward, he finds a long stairway leading deeper underground."
         }
     ]
 }
