@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "pokemon-horizons-the-series",
+		"episodeId": "pokemon-horizons-the-series-episode-37",
+		"jname": "Pocket Monsters (2023)",
+		"name": "Pokémon Horizons: The Series",
+		"episodeNum": 37,
+		"sub": 37,
+		"dub": 16,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
+	},
+	{
 		"animeId": "classroom-of-the-elite-season-3",
 		"episodeId": "classroom-of-the-elite-season-3-episode-5",
 		"jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
@@ -12,26 +23,14 @@
 	},
 	{
 		"animeId": "solo-leveling",
-		"episodeId": "solo-leveling-episode-3",
+		"episodeId": "solo-leveling-episode-4",
 		"jname": "Ore dake Level Up na Ken",
 		"name": "Solo Leveling",
 		"episodeNum": 12,
-		"sub": 3,
+		"sub": 4,
 		"dub": 2,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png"
-	},
-
-	{
-		"animeId": "pokemon-horizons-the-series",
-		"episodeId": "pokemon-horizons-the-series-episode-36",
-		"jname": "Pocket Monsters (2023)",
-		"name": "Pokémon Horizons: The Series",
-		"episodeNum": 36,
-		"sub": 36,
-		"dub": 16,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
 	},
 	{
 		"animeId": "monsters-103-mercies-dragon-damnation",
