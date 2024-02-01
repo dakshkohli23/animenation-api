@@ -45,7 +45,7 @@
         "episode": 2
     },
     "totalEpisodes": 13,
-    "currentEpisode": 4,
+    "currentEpisode": 5,
     "rating": 78,
     "duration": 22,
     "genres": [
@@ -555,10 +555,17 @@
             "airDate": "January 17, 2024"
         },{
             "id": "classroom-of-the-elite-season-3-episode-4",
-            "title": "Episode 4",
-            "description": "",
+            "title": "To work you have the right, but not to the fruits thereof.",
+            "description": "It's Valentine's Day and the boys of Class C are excited about whether or not they will receive chocolates. Meanwhile, Karuizawa seems uneasy over Ayanokoji's request to meet up and while doing so an unexpected person appears...",
             "number": "4",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10160754/screencap/65afac74920a9.jpg",
             "airDate": "January 24, 2024"
+        },{
+            "id": "classroom-of-the-elite-season-3-episode-5",
+            "title": "Fortune favors the bold.",
+            "description": "Turns out the one spreading the rumors was Hashimoto, who did so at the behest of Sakayanagi. Shortly thereafter, Sakayanagi appears before Class C and she informs them she has evidence regarding the rumors about Ichinose.",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10160755/screencap/65b78b7c013ed.jpg",
+            "airDate": "January 31, 2024"
         }]
 }
