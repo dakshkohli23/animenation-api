@@ -37,8 +37,8 @@
 		"timeUntilAiring": 178006,
 		"episode": 7
 	},
-	"totalEpisodes": 36,
-	"currentEpisode": 36,
+	"totalEpisodes": 37,
+	"currentEpisode": 37,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -892,5 +892,12 @@
             "description": "",
             "number": "36",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10239398/screencap/65aa4c24e7da5.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-37",
+            "title": "Fuecoco Becomes a Bad Boy?!",
+            "description": "",
+            "number": "37",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10239399/screencap/65b563f103b0f.jpg"
         }]
 }
