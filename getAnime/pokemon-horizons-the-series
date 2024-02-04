@@ -37,8 +37,8 @@
 		"timeUntilAiring": 178006,
 		"episode": 7
 	},
-	"totalEpisodes": 37,
-	"currentEpisode": 37,
+	"totalEpisodes": 38,
+	"currentEpisode": 38,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -899,5 +899,12 @@
             "description": "",
             "number": "37",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10239399/screencap/65b563f103b0f.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-38",
+            "title": "The SOS Comes From Tandemaus?",
+            "description": "",
+            "number": "38",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10239400/screencap/65bcaea2b1d28.jpg"
         }]
 }
