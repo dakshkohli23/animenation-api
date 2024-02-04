@@ -44,7 +44,7 @@
         "episode": 2
     },
     "totalEpisodes": 12,
-    "currentEpisode": 4,
+    "currentEpisode": 5,
     "rating": 82,
     "duration": 24,
     "genres": [
@@ -626,6 +626,15 @@
             "number": 4,
             "createdAt": null,
             "description": "Having entered the instance dungeon located inside the subway, Jinwoo levels up time and time again by fighting waves of magic beasts. As he gradually makes his way forward, he finds a long stairway leading deeper underground."
+        },
+        {
+            "id": "solo-leveling-episode-5",
+            "title": "A Pretty Good Deal",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10190444/screencap/65bbacf7dac09.jpg",
+            "imageHash": "hash",
+            "number": 5,
+            "createdAt": null,
+            "description": "Jinwoo joins a party led by Hwang Dongsuk to meet the headcount necessary for a C-Rank dungeon. Joined by another temporary hire, Yoo Jinho, the party defeats beasts without much trouble, but Jinwoo has suspicions about the group's lack of a healer."
         }
     ]
 }
