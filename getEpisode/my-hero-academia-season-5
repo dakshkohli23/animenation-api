@@ -1,302 +1,227 @@
 [
         {
-            "server1": "j970frk94ts0",
+            "server1": "gypy44khjfrr",
+            "server2": "4reidumjidjp",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 1",
             "ep_num": "1",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 2 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "5e3rnvjgle5g",
+            "server1": "sr902fdrpnq3",
+            "server2": "7pr88rnrqmx5",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 2",
             "ep_num": "2",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 3 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-3",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 1",
-            "prevEpLink": "/my-hero-academia-season-5-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "2ollkoqbtwge",
+            "server1": "ahozejtctsc4",
+            "server2": "er56wnnw7af7",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 3",
             "ep_num": "3",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 4 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-4",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 2",
-            "prevEpLink": "/my-hero-academia-season-5-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "xovep21k8ol6",
+            "server1": "hyo1i4ktd749",
+            "server2": "xmxrn4ejbvfr",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 4",
             "ep_num": "4",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 5 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-5",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 3",
-            "prevEpLink": "/my-hero-academia-season-5-episode-3"
+            "subOrDub": "dual"
         },
         {
-            "server1": "vq5wbvgsr8la",
+            "server1": "9qxnf4icnvk5",
+            "server2": "bpuiszvuvmzh",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 5",
             "ep_num": "5",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 6 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-6",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 4",
-            "prevEpLink": "/my-hero-academia-season-5-episode-4"
+            "subOrDub": "dual"
         },
         {
-            "server1": "548e43glen0i",
+            "server1": "mbrprmz4jky8",
+            "server2": "wmhnt0jb5ozm",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 6",
             "ep_num": "6",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 7 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-7",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 5",
-            "prevEpLink": "/my-hero-academia-season-5-episode-5"
+            "subOrDub": "dual"
         },
         {
-            "server1": "kj6ww6z6pgl0",
+            "server1": "sqys4xeski9f",
+            "server2": "h65jxro5od6b",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 7",
             "ep_num": "7",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 8 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-8",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 6",
-            "prevEpLink": "/my-hero-academia-season-5-episode-6"
+            "subOrDub": "dual"
         },
         {
-            "server1": "3s8xeifybign",
+            "server1": "tyakp0kygjln",
+            "server2": "1pj46fms95nx",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 8",
             "ep_num": "8",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 9 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-9",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 7",
-            "prevEpLink": "/my-hero-academia-season-5-episode-7"
+            "subOrDub": "dual"
         },
         {
-            "server1": "frg08ji9d9i3",
+            "server1": "09xhtxwt5xag",
+            "server2": "x8ck4fxnzc2e",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 9",
             "ep_num": "9",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 10 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-10",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 8",
-            "prevEpLink": "/my-hero-academia-season-5-episode-8"
+            "subOrDub": "dual"
         },
         {
-            "server1": "hhv712vw7r1o",
+            "server1": "97gs0ktf7n87",
+            "server2": "ixo6ukq7ny0e",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 10",
             "ep_num": "10",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 11 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-11",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 9",
-            "prevEpLink": "/my-hero-academia-season-5-episode-9"
+            "subOrDub": "dual"
         },
         {
-            "server1": "mm2r6ledhibp",
+            "server1": "8xlq1tl951m8",
+            "server2": "005518h8dcsq",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 11",
             "ep_num": "11",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 12 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-12",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 10",
-            "prevEpLink": "/my-hero-academia-season-5-episode-10"
+            "subOrDub": "dual"
         },
         {
-            "server1": "0i3aklmkgoqy",
+            "server1": "f490hm0fgeth",
+            "server2": "wd1hgrama4ns",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 12",
             "ep_num": "12",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 13 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-13",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 11",
-            "prevEpLink": "/my-hero-academia-season-5-episode-11"
+            "subOrDub": "dual"
         },
         {
-            "server1": "068toos72rgl",
+            "server1": "7i7m7xnb5s5g",
+            "server2": "622rka9uxhyz",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 13",
             "ep_num": "13",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 14 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-14",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 12",
-            "prevEpLink": "/my-hero-academia-season-5-episode-12"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ksoiw9ct848l",
+            "server1": "oca7li6005lm",
+            "server2": "2a0as212w334",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 14",
             "ep_num": "14",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 15 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-15",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 13",
-            "prevEpLink": "/my-hero-academia-season-5-episode-13"
+            "subOrDub": "dual"
         },
         {
-            "server1": "jil0z4tl8e9b",
+            "server1": "p3uybply3j38",
+            "server2": "niydq718f8aw",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 15",
             "ep_num": "15",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 16 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-16",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 14",
-            "prevEpLink": "/my-hero-academia-season-5-episode-14"
+            "subOrDub": "dual"
         },
         {
-            "server1": "51mr5cn7lbxx",
+            "server1": "mqup7zujziry",
+            "server2": "bioq1geu9frn",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 16",
             "ep_num": "16",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 17 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-17",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 15",
-            "prevEpLink": "/my-hero-academia-season-5-episode-15"
+            "subOrDub": "dual"
         },
         {
-            "server1": "nuhb3h77533g",
+            "server1": "ti4mrs2gurxz",
+            "server2": "29e3sh98zmzh",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 17",
             "ep_num": "17",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 18 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-18",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 16",
-            "prevEpLink": "/my-hero-academia-season-5-episode-16"
+            "subOrDub": "dual"
         },
         {
-            "server1": "imc81mu0if3r",
+            "server1": "wxxyj5n6e3wj",
+            "server2": "0xgpinnq4vr5",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 18",
             "ep_num": "18",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 19 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-19",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 17",
-            "prevEpLink": "/my-hero-academia-season-5-episode-17"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ooo8psrxre8z",
+            "server1": "ebc4i10826yk",
+            "server2": "ii42llxztqrz",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 19",
             "ep_num": "19",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 20 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-20",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 18",
-            "prevEpLink": "/my-hero-academia-season-5-episode-18"
+            "subOrDub": "dual"
         },
         {
-            "server1": "q9yhqm5wci97",
+            "server1": "jfs7k4rqbkj6",
+            "server2": "5pf9oce2yvaj",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 20",
             "ep_num": "20",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 21 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-21",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 19",
-            "prevEpLink": "/my-hero-academia-season-5-episode-19"
+            "subOrDub": "dual"
         },
         {
-            "server1": "fj1bpq4mowrk",
+            "server1": "u60193to7sj8",
+            "server2": "zxtdgeg5ebam",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 21",
             "ep_num": "21",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 22 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-22",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 20",
-            "prevEpLink": "/my-hero-academia-season-5-episode-20"
+            "subOrDub": "dual"
         },
         {
-            "server1": "5xfh4ohpxdye",
+            "server1": "t4luuimi7qt2",
+            "server2": "iot1hyb1sr0w",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 22",
             "ep_num": "22",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 23 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-23",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 21",
-            "prevEpLink": "/my-hero-academia-season-5-episode-21"
+            "subOrDub": "dual"
         },
         {
-            "server1": "39v0y6oakgnc",
+            "server1": "se9fszliv0f4",
+            "server2": "dqlw4ie2d7d2",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 23",
             "ep_num": "23",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 24 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-24",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 22",
-            "prevEpLink": "/my-hero-academia-season-5-episode-22"
+            "subOrDub": "dual"
         },
         {
-            "server1": "849yvhg8hmhd",
+            "server1": "7lpcs4hjo0wa",
+            "server2": "9ifg6adi1i8c",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 24",
             "ep_num": "24",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "My Hero Academia Season 5 Episode 25 >>",
-            "nextEpLink": "/my-hero-academia-season-5-episode-25",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 23",
-            "prevEpLink": "/my-hero-academia-season-5-episode-23"
+            "subOrDub": "dual"
         },
         {
-            "server1": "lzplbvkhlsra",
+            "server1": "ubl2gveuvswx",
+            "server2": "n4d908lfy7z1",
             "animeNameWithEP": "My Hero Academia Season 5 Episode 25",
             "ep_num": "25",
             "anime_info": "my-hero-academia-season-5",
             "movie_id": "117193",
-            "alias": "my-hero-academia-season-5",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< My Hero Academia Season 5 Episode 24",
-            "prevEpLink": "/my-hero-academia-season-5-episode-24"
+            "subOrDub": "dual"
         }
     ]
