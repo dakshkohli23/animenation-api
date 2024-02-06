@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "goblin-slayer",
+		"episodeId": "goblin-slayer-episode-1",
+		"jname": "Goblin Slayer",
+		"name": "GOBLIN SLAYER",
+		"episodeNum": 12,
+		"sub": 12,
+		"dub": 12,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101165-dVgOyGhEP4mB.jpg"
+	},
+	{
 		"animeId": "oswald",
 		"episodeId": "oswald-episode-1",
 		"jname": "Oswald",
