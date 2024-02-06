@@ -1,314 +1,236 @@
 [
         {
-            "server1": "cdgt9dnhocur",
+            "server1": "o1joo6b2lraw",
+            "server2": "o1joo6b2lraw",
             "animeNameWithEP": "Oswald Episode 1",
             "ep_num": "1",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 2 >>",
-            "nextEpLink": "/oswald-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dub"
         },
         {
-            "server1": "t423sxs1t2ru",
+            "server1": "y19on674kysf",
+            "server2": "y19on674kysf",
             "animeNameWithEP": "Oswald Episode 2",
             "ep_num": "2",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 3 >>",
-            "nextEpLink": "/oswald-episode-3",
-            "prevEpText": "<< Oswald Episode 1",
-            "prevEpLink": "/oswald-episode-1"
+            "subOrDub": "dub"
         },
         {
-            "server1": "f6o546aft17l",
+            "server1": "jos1rhjnmqx8",
+            "server2": "jos1rhjnmqx8",
             "animeNameWithEP": "Oswald Episode 3",
             "ep_num": "3",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 4 >>",
-            "nextEpLink": "/oswald-episode-4",
-            "prevEpText": "<< Oswald Episode 2",
-            "prevEpLink": "/oswald-episode-2"
+            "subOrDub": "dub"
         },
         {
-            "server1": "3ihbmshkcnx6",
+            "server1": "ilf9iwpr6rnb",
+            "server2": "ilf9iwpr6rnb",
             "animeNameWithEP": "Oswald Episode 4",
             "ep_num": "4",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 5 >>",
-            "nextEpLink": "/oswald-episode-5",
-            "prevEpText": "<< Oswald Episode 3",
-            "prevEpLink": "/oswald-episode-3"
+            "subOrDub": "dub"
         },
         {
-            "server1": "bw11b8iwm0be",
+            "server1": "br3l1emvz1vo",
+            "server2": "br3l1emvz1vo",
             "animeNameWithEP": "Oswald Episode 5",
             "ep_num": "5",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 6 >>",
-            "nextEpLink": "/oswald-episode-6",
-            "prevEpText": "<< Oswald Episode 4",
-            "prevEpLink": "/oswald-episode-4"
+            "subOrDub": "dub"
         },
         {
-            "server1": "7swr2mnefhaz",
+            "server1": "w1rwptvsowf5",
+            "server2": "w1rwptvsowf5",
             "animeNameWithEP": "Oswald Episode 6",
             "ep_num": "6",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 7 >>",
-            "nextEpLink": "/oswald-episode-7",
-            "prevEpText": "<< Oswald Episode 5",
-            "prevEpLink": "/oswald-episode-5"
+            "subOrDub": "dub"
         },
         {
-            "server1": "i8jj3bxmqqza",
+            "server1": "o8lk7ql3kg4y",
+            "server2": "o8lk7ql3kg4y",
             "animeNameWithEP": "Oswald Episode 7",
             "ep_num": "7",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 8 >>",
-            "nextEpLink": "/oswald-episode-8",
-            "prevEpText": "<< Oswald Episode 6",
-            "prevEpLink": "/oswald-episode-6"
+            "subOrDub": "dub"
         },
         {
-            "server1": "d7uiomztg9nv",
+            "server1": "xfzlrzem2lv9",
+            "server2": "xfzlrzem2lv9",
             "animeNameWithEP": "Oswald Episode 8",
             "ep_num": "8",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 9 >>",
-            "nextEpLink": "/oswald-episode-9",
-            "prevEpText": "<< Oswald Episode 7",
-            "prevEpLink": "/oswald-episode-7"
+            "subOrDub": "dub"
         },
         {
-            "server1": "7cwsc41ahwfe",
+            "server1": "aj452j6hqmj1",
+            "server2": "aj452j6hqmj1",
             "animeNameWithEP": "Oswald Episode 9",
             "ep_num": "9",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 10 >>",
-            "nextEpLink": "/oswald-episode-10",
-            "prevEpText": "<< Oswald Episode 8",
-            "prevEpLink": "/oswald-episode-8"
+            "subOrDub": "dub"
         },
         {
-            "server1": "halgrnj9upfv",
+            "server1": "8hbbbedwdux6",
+            "server2": "8hbbbedwdux6",
             "animeNameWithEP": "Oswald Episode 10",
             "ep_num": "10",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 11 >>",
-            "nextEpLink": "/oswald-episode-11",
-            "prevEpText": "<< Oswald Episode 9",
-            "prevEpLink": "/oswald-episode-9"
+            "subOrDub": "dub"
         },
         {
-            "server1": "2yramxjtvg2q",
+            "server1": "ix58c4tk3b8f",
+            "server2": "ix58c4tk3b8f",
             "animeNameWithEP": "Oswald Episode 11",
             "ep_num": "11",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 12 >>",
-            "nextEpLink": "/oswald-episode-12",
-            "prevEpText": "<< Oswald Episode 10",
-            "prevEpLink": "/oswald-episode-10"
+            "subOrDub": "dub"
         },
         {
-            "server1": "rm5chug2u3fy",
+            "server1": "7mua3qoeyirc",
+            "server2": "7mua3qoeyirc",
             "animeNameWithEP": "Oswald Episode 12",
             "ep_num": "12",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 13 >>",
-            "nextEpLink": "/oswald-episode-13",
-            "prevEpText": "<< Oswald Episode 11",
-            "prevEpLink": "/oswald-episode-11"
+            "subOrDub": "dub"
         },
         {
-            "server1": "7won1xvrzgaw",
+            "server1": "zbmhdmflgugo",
+            "server2": "zbmhdmflgugo",
             "animeNameWithEP": "Oswald Episode 13",
             "ep_num": "13",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 14 >>",
-            "nextEpLink": "/oswald-episode-14",
-            "prevEpText": "<< Oswald Episode 12",
-            "prevEpLink": "/oswald-episode-12"
+            "subOrDub": "dub"
         },
         {
-            "server1": "tkel9j5cn7ta",
+            "server1": "jbuo14qyzfud",
+            "server2": "jbuo14qyzfud",
             "animeNameWithEP": "Oswald Episode 14",
             "ep_num": "14",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 15 >>",
-            "nextEpLink": "/oswald-episode-15",
-            "prevEpText": "<< Oswald Episode 13",
-            "prevEpLink": "/oswald-episode-13"
+            "subOrDub": "dub"
         },
         {
-            "server1": "u1ohqx3zvfwy",
+            "server1": "mru53nw1qyob",
+            "server2": "mru53nw1qyob",
             "animeNameWithEP": "Oswald Episode 15",
             "ep_num": "15",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 16 >>",
-            "nextEpLink": "/oswald-episode-16",
-            "prevEpText": "<< Oswald Episode 14",
-            "prevEpLink": "/oswald-episode-14"
+            "subOrDub": "dub"
         },
         {
-            "server1": "o9hhojd6hax1",
+            "server1": "wz4kup5nh9n2",
+            "server2": "wz4kup5nh9n2",
             "animeNameWithEP": "Oswald Episode 16",
             "ep_num": "16",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 17 >>",
-            "nextEpLink": "/oswald-episode-17",
-            "prevEpText": "<< Oswald Episode 15",
-            "prevEpLink": "/oswald-episode-15"
+            "subOrDub": "dub"
         },
         {
-            "server1": "s0x3hy1hb84i",
+            "server1": "u1hhhd8hxcr4",
+            "server2": "u1hhhd8hxcr4",
             "animeNameWithEP": "Oswald Episode 17",
             "ep_num": "17",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 18 >>",
-            "nextEpLink": "/oswald-episode-18",
-            "prevEpText": "<< Oswald Episode 16",
-            "prevEpLink": "/oswald-episode-16"
+            "subOrDub": "dub"
         },
         {
-            "server1": "ijkn0gytslqs",
+            "server1": "a4lhomtyobat",
+            "server2": "a4lhomtyobat",
             "animeNameWithEP": "Oswald Episode 18",
             "ep_num": "18",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 19 >>",
-            "nextEpLink": "/oswald-episode-19",
-            "prevEpText": "<< Oswald Episode 17",
-            "prevEpLink": "/oswald-episode-17"
+            "subOrDub": "dub"
         },
         {
-            "server1": "ayumh5tj06a2",
+            "server1": "9p53brkhq5zf",
+            "server2": "9p53brkhq5zf",
             "animeNameWithEP": "Oswald Episode 19",
             "ep_num": "19",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 20 >>",
-            "nextEpLink": "/oswald-episode-20",
-            "prevEpText": "<< Oswald Episode 18",
-            "prevEpLink": "/oswald-episode-18"
+            "subOrDub": "dub"
         },
         {
-            "server1": "qlju6cszfly7",
+            "server1": "jz8cg9ozzl7j",
+            "server2": "jz8cg9ozzl7j",
             "animeNameWithEP": "Oswald Episode 20",
             "ep_num": "20",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 21 >>",
-            "nextEpLink": "/oswald-episode-21",
-            "prevEpText": "<< Oswald Episode 19",
-            "prevEpLink": "/oswald-episode-19"
+            "subOrDub": "dub"
         },
         {
-            "server1": "9m75gv90k48q",
+            "server1": "fecfy4h9xxqc",
+            "server2": "fecfy4h9xxqc",
             "animeNameWithEP": "Oswald Episode 21",
             "ep_num": "21",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 22 >>",
-            "nextEpLink": "/oswald-episode-22",
-            "prevEpText": "<< Oswald Episode 20",
-            "prevEpLink": "/oswald-episode-20"
+            "subOrDub": "dub"
         },
         {
-            "server1": "8f3kridpmtvf",
+            "server1": "h6uq1rhyr8rn",
+            "server2": "h6uq1rhyr8rn",
             "animeNameWithEP": "Oswald Episode 22",
             "ep_num": "22",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 23 >>",
-            "nextEpLink": "/oswald-episode-23",
-            "prevEpText": "<< Oswald Episode 21",
-            "prevEpLink": "/oswald-episode-21"
+            "subOrDub": "dub"
         },
         {
-            "server1": "zcdmwhivdhht",
+            "server1": "i04dfc07kmhf",
+            "server2": "i04dfc07kmhf",
             "animeNameWithEP": "Oswald Episode 23",
             "ep_num": "23",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 24 >>",
-            "nextEpLink": "/oswald-episode-24",
-            "prevEpText": "<< Oswald Episode 22",
-            "prevEpLink": "/oswald-episode-22"
+            "subOrDub": "dub"
         },
         {
-            "server1": "5rjh5mgm9c0f",
+            "server1": "gl5jf3eh02w0",
+            "server2": "gl5jf3eh02w0",
             "animeNameWithEP": "Oswald Episode 24",
             "ep_num": "24",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 25 >>",
-            "nextEpLink": "/oswald-episode-25",
-            "prevEpText": "<< Oswald Episode 23",
-            "prevEpLink": "/oswald-episode-23"
+            "subOrDub": "dub"
         },
         {
-            "server1": "xidlw20nddyt",
+            "server1": "0tffa3up1zrp",
+            "server2": "0tffa3up1zrp",
             "animeNameWithEP": "Oswald Episode 25",
             "ep_num": "25",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "Oswald Episode 26 >>",
-            "nextEpLink": "/oswald-episode-26",
-            "prevEpText": "<< Oswald Episode 24",
-            "prevEpLink": "/oswald-episode-24"
+            "subOrDub": "dub"
         },
         {
-            "server1": "wqtu42mcw8ya",
+            "server1": "bqdukjs86o7c",
+            "server2": "bqdukjs86o7c",
             "animeNameWithEP": "Oswald Episode 26",
             "ep_num": "26",
             "anime_info": "oswald",
             "movie_id": "13712",
-            "alias": "oswald",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Oswald Episode 25",
-            "prevEpLink": "/oswald-episode-25"
+            "subOrDub": "dub"
         }
     ]
