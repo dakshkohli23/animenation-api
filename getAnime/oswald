@@ -39,7 +39,8 @@
 	"recommendations": [],
 	"characters": [],
 	"relations": [],
-	"episodes": [{
+	"episodes": [
+	{
 		"id": "oswald-episode-1",
 		"title": "Chasing the Ice Cream Truck/Camping Trip",
 		"description": "Oswald and Weenie hear Johnny's Ice Cream Truck from their window.They run downstairs to only to find that the truck has already left.",
