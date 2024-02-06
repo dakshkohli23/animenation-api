@@ -1582,6 +1582,19 @@
             "isAdult": false
         },
         {
+            "animeId": "oswald",
+            "episodeId": "oswald-episode-1",
+            "name": "Oswald",
+            "jname": "Oswald",
+            "dub": "26",
+            "totalEpisodes": "26",
+            "imgUrl": "https://artworks.thetvdb.com/banners/posters/77305-3.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/oswald",
+            "genres": ["Animation", "Family", "Music", "Kids"],
+            "isAdult": false
+        },
+        {
             "animeId": "solo-leveling",
             "episodeId": "solo-leveling-episode-1",
             "name": "Solo Leveling",
