@@ -1,5 +1,15 @@
 [
 	{
+		"animeId": "oswald",
+		"episodeId": "oswald-episode-1",
+		"jname": "Oswald",
+		"name": "Oswald",
+		"episodeNum": 26,
+		"dub": 26,
+		"type": "tv",
+		"imgUrl": "https://artworks.thetvdb.com/banners/posters/77305-3.jpg"
+	},
+	{
 		"animeId": "pokemon-horizons-the-series",
 		"episodeId": "pokemon-horizons-the-series-episode-38",
 		"jname": "Pocket Monsters (2023)",
