@@ -52,7 +52,52 @@
     ],
     "subOrDub": "dual",
     "type": "MOVIE",
-    "recommendations": [],
+    "recommendations": [{
+      "id": 101165,
+      "malId": 37349,
+      "title": {
+        "romaji": "Goblin Slayer",
+        "english": "GOBLIN SLAYER",
+        "native": "ゴブリンスレイヤー"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101165-dVgOyGhEP4mB.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101165-bXPZrNiQGPHd.jpg",
+      "rating": 71,
+      "type": "tv",
+	  "animeurl": "goblin-slayer"
+},{
+      "id": 129188,
+      "malId": 47160,
+      "title": {
+        "romaji": "Goblin Slayer II",
+        "english": "GOBLIN SLAYER II",
+        "native": "ゴブリンスレイヤーⅡ"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129188-zWPBGutZXgjZ.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/129188-JMptckRAFHEr.jpg",
+      "rating": 72,
+      "type": "tv",
+	  "animeurl": "goblin-slayer-2"
+},{
+      "id": 108623,
+      "malId": 39576,
+      "title": {
+        "romaji": "Goblin Slayer: GOBLIN'S CROWN",
+        "english": "GOBLIN SLAYER -GOBLIN’S CROWN-",
+        "native": "ゴブリンスレイヤー -GOBLIN'S CROWN-"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108623-pREPeutedpc2.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108623-9FL63jABa1N9.jpg",
+      "rating": 71,
+      "type": "movie",
+	  "animeurl": "goblin-slayer-goblins-crown"
+}],
     "characters": [
         {
             "id": 126458,
