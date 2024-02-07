@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "goblin-slayer-2",
+		"episodeId": "goblin-slayer-2-episode-1",
+		"jname": "Goblin Slayer II",
+		"name": "GOBLIN SLAYER II",
+		"episodeNum": 12,
+		"sub": 12,
+		"dub": 12,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129188-zWPBGutZXgjZ.jpg"
+	},
+	{
 		"animeId": "goblin-slayer",
 		"episodeId": "goblin-slayer-episode-1",
 		"jname": "Goblin Slayer",
