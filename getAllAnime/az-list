@@ -422,7 +422,35 @@
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101165-dVgOyGhEP4mB.jpg",
             "type": "tv",
             "episodeUrl": "anime/goblin-slayer",
-            "genres": ["Adventure", "Adventure", "Fantasy"],
+            "genres": ["Action", "Adventure", "Fantasy"],
+            "isAdult": false
+        },
+        {
+            "animeId": "goblin-slayer-2",
+            "episodeId": "goblin-slayer-2-episode-1",
+            "name": "GOBLIN SLAYER II",
+            "jname": "Goblin Slayer II",
+            "sub": "12",
+            "dub": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129188-zWPBGutZXgjZ.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/goblin-slayer-2",
+            "genres": ["Action", "Adventure", "Fantasy"],
+            "isAdult": false
+        },
+        {
+            "animeId": "goblin-slayer-goblins-crown",
+            "episodeId": "goblin-slayer-goblins-crown-episode-1",
+            "name": "GOBLIN SLAYER -GOBLIN’S CROWN-",
+            "jname": "Goblin Slayer: GOBLIN'S CROWN",
+            "sub": "1",
+            "dub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108623-pREPeutedpc2.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/goblin-slayer-goblins-crown",
+            "genres": ["Action", "Adventure", "Fantasy"],
             "isAdult": false
         },
         {
