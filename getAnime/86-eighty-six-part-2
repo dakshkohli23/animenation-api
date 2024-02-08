@@ -54,7 +54,37 @@
     ],
     "subOrDub": "dual",
     "type": "TV",
-    "recommendations": [],
+    "recommendations": [{
+		"id": 116589,
+		"malId": 41457,
+		"title": {
+			"romaji": "86: Eighty Six",
+			"english": "86 EIGHTY-SIX",
+			"native": "86－エイティシックス－"
+		},
+		"status": "Completed",
+		"episodes": 11,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-WSpNedJdAH3L.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116589-SqwYWzaZCdD5.jpg",
+		"rating": 82,
+		"type": "TV",
+		"animeurl": "86-eighty-six"
+	},{
+		"id": 131586,
+		"malId": 48569,
+		"title": {
+			"romaji": "86: Eighty Six Part 2",
+			"english": "86 EIGHTY-SIX Part 2",
+			"native": "86－エイティシックス－ 第2クール"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-k0X2kVpUOkqX.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131586-TQED17cUhGnT.jpg",
+		"rating": 86,
+		"type": "TV",
+		"animeurl": "86-eighty-six-part-2"
+	}],
     "characters": [
         {
             "id": 141060,
