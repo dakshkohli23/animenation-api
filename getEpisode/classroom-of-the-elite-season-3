@@ -28,16 +28,25 @@
         },
         {
             "server1": "5kkpugkzjjm9",
+            "server2": "rgwlvfv0c3xh",
             "animeNameWithEP": "Classroom of the Elite Season 3 Episode 4",
             "ep_num": "4",
             "anime_info": "classroom-of-the-elite-season-3",
             "movie_id": "146066",
-            "subOrDub": "sub"
+            "subOrDub": "dual"
         },
         {
             "server1": "orl3ynytnzll",
             "animeNameWithEP": "Classroom of the Elite Season 3 Episode 5",
             "ep_num": "5",
+            "anime_info": "classroom-of-the-elite-season-3",
+            "movie_id": "146066",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "1jtifst04545",
+            "animeNameWithEP": "Classroom of the Elite Season 3 Episode 6",
+            "ep_num": "6",
             "anime_info": "classroom-of-the-elite-season-3",
             "movie_id": "146066",
             "subOrDub": "sub"
