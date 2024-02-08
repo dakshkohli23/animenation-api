@@ -1,5 +1,33 @@
 [
         {
+            "animeId": "86-eighty-six",
+            "episodeId": "86-eighty-six-episode-1",
+            "name": "86 EIGHTY-SIX",
+            "jname": "86: Eighty Six",
+            "sub": "11",
+            "dub": "11",
+            "totalEpisodes": "11",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-WSpNedJdAH3L.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/86-eighty-six",
+            "genres": ["Action", "Drama", "Mecha", "Sci-Fi"],
+            "isAdult": false
+        },
+        {
+            "animeId": "86-eighty-six-part-2",
+            "episodeId": "86-eighty-six-part-2-episode-1",
+            "name": "86 EIGHTY-SIX Part 2",
+            "jname": "86: Eighty Six Part 2",
+            "sub": "12",
+            "dub": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-k0X2kVpUOkqX.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/86-eighty-six-part-2",
+            "genres": ["Action", "Drama", "Mecha", "Sci-Fi"],
+            "isAdult": false
+        },
+        {
             "animeId": "attack-on-titan",
             "episodeId": "attack-on-titan-episode-1",
             "name": "Attack on Titan",
@@ -426,20 +454,6 @@
             "isAdult": false
         },
         {
-            "animeId": "goblin-slayer-2",
-            "episodeId": "goblin-slayer-2-episode-1",
-            "name": "GOBLIN SLAYER II",
-            "jname": "Goblin Slayer II",
-            "sub": "12",
-            "dub": "12",
-            "totalEpisodes": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129188-zWPBGutZXgjZ.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/goblin-slayer-2",
-            "genres": ["Action", "Adventure", "Fantasy"],
-            "isAdult": false
-        },
-        {
             "animeId": "goblin-slayer-goblins-crown",
             "episodeId": "goblin-slayer-goblins-crown-episode-1",
             "name": "GOBLIN SLAYER -GOBLIN’S CROWN-",
@@ -450,6 +464,20 @@
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108623-pREPeutedpc2.jpg",
             "type": "movie",
             "episodeUrl": "anime/goblin-slayer-goblins-crown",
+            "genres": ["Action", "Adventure", "Fantasy"],
+            "isAdult": false
+        },
+        {
+            "animeId": "goblin-slayer-2",
+            "episodeId": "goblin-slayer-2-episode-1",
+            "name": "GOBLIN SLAYER II",
+            "jname": "Goblin Slayer II",
+            "sub": "12",
+            "dub": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129188-zWPBGutZXgjZ.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/goblin-slayer-2",
             "genres": ["Action", "Adventure", "Fantasy"],
             "isAdult": false
         },
