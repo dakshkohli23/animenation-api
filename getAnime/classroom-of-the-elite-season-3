@@ -45,7 +45,7 @@
         "episode": 2
     },
     "totalEpisodes": 13,
-    "currentEpisode": 5,
+    "currentEpisode": 6,
     "rating": 78,
     "duration": 22,
     "genres": [
@@ -567,5 +567,12 @@
             "number": "5",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10160755/screencap/65b78b7c013ed.jpg",
             "airDate": "January 31, 2024"
+        },{
+            "id": "classroom-of-the-elite-season-3-episode-6",
+            "title": "It is better to receive an injury than to inflict one.",
+            "description": "Everyone in Class C has passed their year-end exam. While relief flows through the classroom, Chabashira announces a special exam. It will be a class vote to choose three people worthy of praise and three worthy of censure.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10160756/screencap/65bcf10c233b5.jpg",
+            "airDate": "February 7, 2024"
         }]
 }
