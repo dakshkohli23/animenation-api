@@ -28,6 +28,47 @@
             "isAdult": false
         },
         {
+            "animeId": "91-days",
+            "episodeId": "91-days-episode-1",
+            "name": "91 Days",
+            "jname": "91Days",
+            "sub": "12",
+            "dub": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21711-RVlLD3BOAzzV.png",
+            "type": "tv",
+            "episodeUrl": "anime/91-days",
+            "genres": ["Action", "Drama", "Psychological"],
+            "isAdult": false
+        },
+        {
+            "animeId": "91-days-special",
+            "episodeId": "91-days-special-episode-1",
+            "name": "91 Days: Shoal of Time",
+            "jname": "91Days: Day 13",
+            "sub": "1",
+            "dub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98778-HROZVnLVJ8NX.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/91-days-special",
+            "genres": ["Action", "Drama"],
+            "isAdult": false
+        },
+        {
+            "animeId": "91-daze",
+            "episodeId": "91-daze-episode-1",
+            "name": "91 Daze",
+            "jname": "91 Daze",
+            "sub": "7",
+            "totalEpisodes": "7",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104396-4kwKsF34tkky.jpg",
+            "type": "special",
+            "episodeUrl": "anime/91-daze",
+            "genres": ["Comedy"],
+            "isAdult": false
+        },
+        {
             "animeId": "attack-on-titan",
             "episodeId": "attack-on-titan-episode-1",
             "name": "Attack on Titan",
