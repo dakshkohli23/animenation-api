@@ -1,10 +1,18 @@
 [
-{
-		"animeId": "oswald",
-		"jname": "Oswald",
-		"name": "Oswald",
-		"dub": 26,
-		"type": "tv",
-		"imgUrl": "https://artworks.thetvdb.com/banners/posters/77305-3.jpg"
-	}
+    {
+        "animeId": "oswald",
+        "jname": "Oswald",
+        "name": "Oswald",
+        "dub": 26,
+        "type": "tv",
+        "imgUrl": "https://artworks.thetvdb.com/banners/posters/77305-3.jpg"
+    },
+    {
+        "animeId": "pingu-season-01",
+        "jname": "Pingu",
+        "name": "Pingu",
+        "dub": 26,
+        "type": "tv",
+        "imgUrl": "https://www.themoviedb.org/t/p/original/nLE7NR3EsEbv2NfG0bLIaOEhGfY.jpg"
+    },
 ]
