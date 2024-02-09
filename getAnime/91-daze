@@ -1,0 +1,201 @@
+{
+    "id": "104396",
+    "title": {
+        "romaji": "91 Daze",
+        "english": "91 Daze",
+        "native": "91 Daze"
+    },
+    "malId": 36756,
+    "synonyms": [],
+    "isLicensed": true,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104396-4kwKsF34tkky.jpg",
+    "imageHash": "hash",
+    "popularity": 2084,
+    "color": "#c98635",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104396-4kwKsF34tkky.jpg",
+    "coverHash": "hash",
+    "description": "91 Daze is a series of shorts included in various disk packages. They focus around Angelo, Nero, and sometimes Corteo in various comedic situations.\n<br><br>\n(Source: 91 Days Wikia)",
+    "status": "Completed",
+    "releaseDate": 2016,
+    "startDate": {
+        "year": 2016,
+        "month": 11,
+        "day": 30
+    },
+    "endDate": {
+        "year": 2017,
+        "month": 7,
+        "day": 5
+    },
+    "totalEpisodes": 7,
+    "currentEpisode": 7,
+    "rating": 54,
+    "duration": 2,
+    "genres": [
+        "Comedy"
+    ],
+    "season": "FALL",
+    "studios": [],
+    "subOrDub": "sub",
+    "type": "SPECIAL",
+    "recommendations": [],
+    "characters": [
+        {
+            "id": 89965,
+            "role": "MAIN",
+            "name": {
+                "first": "Angelo",
+                "last": "Lagusa",
+                "full": "Angelo Lagusa",
+                "native": "アヴィリオ",
+                "userPreferred": "Angelo Lagusa"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/89965-dvE5D72YCP5I.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95206,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Takashi",
+                        "last": "Kondou",
+                        "full": "Takashi Kondou",
+                        "native": "近藤隆",
+                        "userPreferred": "Takashi Kondou"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95206-xbnvRIrUO77y.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 89966,
+            "role": "MAIN",
+            "name": {
+                "first": "Nero",
+                "last": "Vanetti",
+                "full": "Nero Vanetti",
+                "native": "ネロ",
+                "userPreferred": "Nero Vanetti"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/89966-p68zAMfm3yrF.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 102695,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Takuya",
+                        "last": "Eguchi",
+                        "full": "Takuya Eguchi",
+                        "native": "江口拓也",
+                        "userPreferred": "Takuya Eguchi"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 89970,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Corteo",
+                "last": null,
+                "full": "Corteo",
+                "native": "コルテオ",
+                "userPreferred": "Corteo"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/89970-SM2ADSkQhAZX.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 113227,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Souma",
+                        "last": "Saitou",
+                        "full": "Souma Saitou",
+                        "native": "斉藤壮馬",
+                        "userPreferred": "Souma Saitou"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png",
+                    "imageHash": "hash"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "id": 21711,
+            "relationType": "PARENT",
+            "malId": 32998,
+            "title": {
+                "romaji": "91Days",
+                "english": "91 Days",
+                "native": "91Days",
+                "userPreferred": "91Days"
+            },
+            "status": "Completed",
+            "episodes": 12,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21711-RVlLD3BOAzzV.png",
+            "imageHash": "hash",
+            "color": null,
+            "type": "TV",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21711-iJuWzyf6U50p.jpg",
+            "coverHash": "hash",
+            "rating": 76
+        }
+    ],
+    "episodes": [{
+            "id": "91-daze-episode-1",
+            "title": "91 Daze: [Episode 01] Thug",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/7805440/screencap/63bdce4f95a7f.jpg",
+            "airDate": "November 30, 2017"
+        },
+        {
+            "id": "91-daze-episode-2",
+            "title": "91 Daze: [Episode 02] Taste",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/7805444/screencap/63bdceb92eeaa.jpg",
+            "airDate": "December 21, 2017"
+        },
+        {
+            "id": "91-daze-episode-3",
+            "title": "91 Daze: [Episode 03] Misunderstanding",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/7805445/screencap/63bdcee44aa92.jpg",
+            "airDate": "January 25, 2018"
+        },
+        {
+            "id": "91-daze-episode-4",
+            "title": "91 Daze: [Episode 04] Anger",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/7805446/screencap/63bdcf1257ff5.jpg",
+            "airDate": "February 22, 2018"
+        },
+        {
+            "id": "91-daze-episode-5",
+            "title": "91 Daze: [Episode 05] Rain",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/7805447/screencap/63bdcf46e8908.jpg",
+            "airDate": "March 29, 2018"
+        },
+        {
+            "id": "91-daze-episode-6",
+            "title": "91 Daze: [Episode 06] Eating",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/7805448/screencap/63bdcf9757242.jpg",
+            "airDate": "July 5, 2018"
+        },
+        {
+            "id": "91-daze-episode-7",
+            "title": "91 Daze: [Episode 07] Sleeptalk",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/7805449/screencap/63bdcfbea2cec.jpg",
+            "airDate": "July 7, 2018"
+        }]
+}
