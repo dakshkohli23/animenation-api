@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "91-days",
+		"episodeId": "91-days-episode-1",
+		"jname": "91Days",
+		"name": "91 Days",
+		"episodeNum": 12,
+		"sub": 12,
+		"dub": 12,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21711-RVlLD3BOAzzV.png"
+	},
+	{
 		"animeId": "86-eighty-six-part-2",
 		"episodeId": "86-eighty-six-part-2-episode-1",
 		"jname": "86: Eighty Six Part 2",
