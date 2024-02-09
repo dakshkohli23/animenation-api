@@ -40,7 +40,52 @@
     "studios": [],
     "subOrDub": "sub",
     "type": "SPECIAL",
-    "recommendations": [],
+    "recommendations": [{
+		"id": 21711,
+		"malId": 32998,
+		"title": {
+			"romaji": "91Days",
+			"english": "91 Days",
+			"native": "91Days"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21711-RVlLD3BOAzzV.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21711-iJuWzyf6U50p.jpg",
+		"rating": 76,
+		"type": "TV",
+		"animeurl": "91-days"
+	},{
+		"id": 98778,
+		"malId": 34777,
+		"title": {
+			"romaji": "91Days: Day 13",
+			"english": "91 Days: Shoal of Time",
+			"native": "91Days Day13"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98778-HROZVnLVJ8NX.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98778-HROZVnLVJ8NX.jpg",
+		"rating": 67,
+		"type": "ova",
+		"animeurl": "91-days-special"
+	},{
+		"id": 104396,
+		"malId": 36756,
+		"title": {
+			"romaji": "91 Daze",
+			"english": "91 Daze",
+			"native": "91 Daze"
+		},
+		"status": "Completed",
+		"episodes": 7,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104396-4kwKsF34tkky.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104396-4kwKsF34tkky.jpg",
+		"rating": 54,
+		"type": "Special",
+		"animeurl": "91-daze"
+	}],
     "characters": [
         {
             "id": 89965,
