@@ -1,0 +1,441 @@
+{
+    "id": "98778",
+    "title": {
+        "romaji": "91Days: Day 13",
+        "english": "91 Days: Shoal of Time",
+        "native": "91Days Day13"
+    },
+    "malId": 34777,
+    "synonyms": [
+        "91Days Episode 13",
+        "91 Days Special"
+    ],
+    "isLicensed": true,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "trailer": {
+        "id": "uq2R9HBpKLI",
+        "site": "youtube",
+        "thumbnail": "https://i.ytimg.com/vi/uq2R9HBpKLI/hqdefault.jpg",
+        "thumbnailHash": "hash"
+    },
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98778-HROZVnLVJ8NX.jpg",
+    "imageHash": "hash",
+    "popularity": 15163,
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98778-HROZVnLVJ8NX.jpg",
+    "coverHash": "hash",
+    "description": "The \"Day 13\" episode will contain three stories. The first story, \"Toki no Asase\" (Shoals of Time), will center on Nero and Vanno persuading Frate to skip mass with them and see the circus.<br><br>\n\nThe second story, \"Subete no Kinou\" (Yesterday Before Everything), will focus on Ganzo, as he meets a young man named Vincente at a bar, and asks Ganzo to do something for him.<br><br>\n\nThe third story, \"Ashita, Mata Ashita\" (Tomorrow, and then Tomorrow), is set after Nero and Avilio defeat Mad Mack and are on the way back to Lawless. Nero suffers from fever dreams, and Avilio nurses him back to health.\n<br><br>\n(Source: Anime News Network)",
+    "status": "Completed",
+    "releaseDate": 2017,
+    "startDate": {
+        "year": 2017,
+        "month": 5,
+        "day": 21
+    },
+    "endDate": {
+        "year": 2017,
+        "month": 5,
+        "day": 21
+    },
+    "totalEpisodes": 1,
+    "currentEpisode": 1,
+    "rating": 67,
+    "duration": 24,
+    "genres": [
+        "Action",
+        "Drama"
+    ],
+    "season": "SPRING",
+    "studios": [
+        "Shuka"
+    ],
+    "subOrDub": "dual",
+    "type": "OVA",
+    "recommendations": [],
+    "characters": [
+        {
+            "id": 89965,
+            "role": "MAIN",
+            "name": {
+                "first": "Angelo",
+                "last": "Lagusa",
+                "full": "Angelo Lagusa",
+                "native": "アヴィリオ",
+                "userPreferred": "Angelo Lagusa"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/89965-dvE5D72YCP5I.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95206,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Takashi",
+                        "last": "Kondou",
+                        "full": "Takashi Kondou",
+                        "native": "近藤隆",
+                        "userPreferred": "Takashi Kondou"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95206-xbnvRIrUO77y.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 89966,
+            "role": "MAIN",
+            "name": {
+                "first": "Nero",
+                "last": "Vanetti",
+                "full": "Nero Vanetti",
+                "native": "ネロ",
+                "userPreferred": "Nero Vanetti"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/89966-p68zAMfm3yrF.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 102695,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Takuya",
+                        "last": "Eguchi",
+                        "full": "Takuya Eguchi",
+                        "native": "江口拓也",
+                        "userPreferred": "Takuya Eguchi"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 130549,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Fio",
+                "last": "Vanetti",
+                "full": "Fio Vanetti",
+                "native": "フィオ・ヴァネッティ",
+                "userPreferred": "Fio Vanetti"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130549-yEzvVrBBGSSh.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 118400,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Hisako",
+                        "last": "Toujou",
+                        "full": "Hisako Toujou",
+                        "native": "東城日沙子",
+                        "userPreferred": "Hisako Toujou"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118400-z4bVC1opOj91.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 130546,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Testa",
+                "last": "Laguza",
+                "full": "Testa Laguza",
+                "native": "テスタ・ラクーザ",
+                "userPreferred": "Testa Laguza"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130546-VpW1eGl5tefT.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 118511,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Satoshi",
+                        "last": "Mikami",
+                        "full": "Satoshi Mikami",
+                        "native": "三上哲",
+                        "userPreferred": "Satoshi Mikami"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118511-htoA4dCjugsd.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 130551,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Ganzo",
+                "last": "Alary",
+                "full": "Ganzo Alary",
+                "native": "ガンゾ・アラリー",
+                "userPreferred": "Ganzo Alary"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130551-vsGtBFCbdSDM.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95397,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Masuo",
+                        "last": "Amada",
+                        "full": "Masuo Amada",
+                        "native": "天田益男",
+                        "userPreferred": "Masuo Amada"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95397-OIImp0s08L8m.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 89970,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Corteo",
+                "last": null,
+                "full": "Corteo",
+                "native": "コルテオ",
+                "userPreferred": "Corteo"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/89970-SM2ADSkQhAZX.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 113227,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Souma",
+                        "last": "Saitou",
+                        "full": "Souma Saitou",
+                        "native": "斉藤壮馬",
+                        "userPreferred": "Souma Saitou"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 89969,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Frate",
+                "last": "Vanetti",
+                "full": "Frate Vanetti",
+                "native": "フラテ・ヴァネッティ",
+                "userPreferred": "Frate Vanetti"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/89969-M1DjwmsdjUh6.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 112075,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Koutarou",
+                        "last": "Nishiyama",
+                        "full": "Koutarou Nishiyama",
+                        "native": "西山宏太朗",
+                        "userPreferred": "Koutarou Nishiyama"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112075-3XkMb12Pl3Mx.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 89967,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Vanno",
+                "last": "Clemente",
+                "full": "Vanno Clemente",
+                "native": "ヴァンノ",
+                "userPreferred": "Vanno Clemente"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/89967-0ue493eHB6EX.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95212,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Daisuke",
+                        "last": "Ono",
+                        "full": "Daisuke Ono",
+                        "native": "小野大輔",
+                        "userPreferred": "Daisuke Ono"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95212-wX1M4LJN96q2.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 89964,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Vincent",
+                "last": "Vanetti",
+                "full": "Vincent Vanetti",
+                "native": "ヴィンセント・ヴァネッティ",
+                "userPreferred": "Vincent Vanetti"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/89964-nNf06nwWzCbd.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 101755,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kazuhiro",
+                        "last": "Yamaji",
+                        "full": "Kazuhiro Yamaji",
+                        "native": "山路和弘",
+                        "userPreferred": "Kazuhiro Yamaji"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101755-LsVbHCwg6Pel.png",
+                    "imageHash": "hash"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "id": 21711,
+            "relationType": "PARENT",
+            "malId": 32998,
+            "title": {
+                "romaji": "91Days",
+                "english": "91 Days",
+                "native": "91Days",
+                "userPreferred": "91Days"
+            },
+            "status": "Completed",
+            "episodes": 12,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21711-RVlLD3BOAzzV.png",
+            "imageHash": "hash",
+            "color": null,
+            "type": "TV",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21711-iJuWzyf6U50p.jpg",
+            "coverHash": "hash",
+            "rating": 76
+        }
+    ],
+    "mappings": [
+        {
+            "id": "/watch/91-days-special.4mok",
+            "providerId": "9anime",
+            "similarity": 1,
+            "providerType": "ANIME"
+        },
+        {
+            "id": "/category/91-days-special",
+            "providerId": "gogoanime",
+            "similarity": 1,
+            "providerType": "ANIME"
+        },
+        {
+            "id": "/91-days-shoal-of-timeall-our-yesterdaystomorrow-and-tomorrow-4065?ref=search",
+            "providerId": "zoro",
+            "similarity": 0.4788732394366197,
+            "providerType": "ANIME"
+        },
+        {
+            "id": "98778",
+            "providerId": "anilist",
+            "similarity": 1,
+            "providerType": "META"
+        },
+        {
+            "id": "13598",
+            "providerId": "kitsu",
+            "similarity": 1,
+            "providerType": "META"
+        }
+    ],
+    "artwork": [
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98778-HROZVnLVJ8NX.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98778-HROZVnLVJ8NX.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://media.kitsu.io/anime/poster_images/13598/original.jpg",
+            "type": "poster",
+            "providerId": "kitsu"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98778-HROZVnLVJ8NX.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98778-HROZVnLVJ8NX.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://media.kitsu.io/anime/poster_images/13598/original.jpg",
+            "type": "poster",
+            "providerId": "kitsu"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98778-HROZVnLVJ8NX.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98778-HROZVnLVJ8NX.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://media.kitsu.io/anime/poster_images/13598/original.jpg",
+            "type": "poster",
+            "providerId": "kitsu"
+        },
+        {
+            "img": "https://media.kitsu.io/anime/poster_images/13598/original.jpg",
+            "type": "poster",
+            "providerId": "kitsu"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98778-HROZVnLVJ8NX.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98778-HROZVnLVJ8NX.jpg",
+            "type": "poster",
+            "providerId": "anilist"
+        },
+        {
+            "img": "https://media.kitsu.io/anime/poster_images/13598/original.jpg",
+            "type": "poster",
+            "providerId": "kitsu"
+        }
+    ],
+    "episodes": [
+        {
+            "id": "91-days-special-episode-1",
+            "title": "Shoal of Time / All Our Yesterdays / Tomorrow, and Tomorrow",
+            "description": "Three short flashback stories featuring Nero as an adolescent, Vincent meeting Ganzo and Testa for the first time, and Avilio tending to a sick Nero while on the run.",
+            "number": 1,
+            "image": "https://artworks.thetvdb.com/banners/episodes/309530/6248740.jpg",
+            "imageHash": "hash",
+            "airDate": "July 5, 2017"
+        }
+    ]
+}
