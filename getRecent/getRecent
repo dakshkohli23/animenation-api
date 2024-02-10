@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "pokemon-horizons-the-series",
+		"episodeId": "pokemon-horizons-the-series-episode-39",
+		"jname": "Pocket Monsters (2023)",
+		"name": "Pokémon Horizons: The Series",
+		"episodeNum": 39,
+		"sub": 39,
+		"dub": 16,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
+	},
+	{
 		"animeId": "91-days",
 		"episodeId": "91-days-episode-1",
 		"jname": "91Days",
@@ -64,17 +75,7 @@
 		"type": "tv",
 		"imgUrl": "https://artworks.thetvdb.com/banners/posters/77305-3.jpg"
 	},
-	{
-		"animeId": "pokemon-horizons-the-series",
-		"episodeId": "pokemon-horizons-the-series-episode-38",
-		"jname": "Pocket Monsters (2023)",
-		"name": "Pokémon Horizons: The Series",
-		"episodeNum": 38,
-		"sub": 38,
-		"dub": 16,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
-	},
+
 	{
 		"animeId": "solo-leveling",
 		"episodeId": "solo-leveling-episode-5",
