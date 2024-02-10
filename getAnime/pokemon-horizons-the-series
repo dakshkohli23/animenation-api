@@ -37,8 +37,8 @@
 		"timeUntilAiring": 178006,
 		"episode": 7
 	},
-	"totalEpisodes": 38,
-	"currentEpisode": 38,
+	"totalEpisodes": 39,
+	"currentEpisode": 39,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -906,5 +906,12 @@
             "description": "",
             "number": "38",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10239400/screencap/65bcaea2b1d28.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-39",
+            "title": "Tinkatink and its Choice Hammer",
+            "description": "",
+            "number": "39",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10239401/screencap/65c5eb90e475c.jpg"
         }]
 }
