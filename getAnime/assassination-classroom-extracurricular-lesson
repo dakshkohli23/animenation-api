@@ -1,0 +1,484 @@
+{
+    "id": "21678",
+    "title": {
+        "romaji": "Ansatsu Kyoushitsu 2: Kagaijugyou-hen",
+        "english": null,
+        "native": "暗殺教室 2 課外授業編"
+    },
+    "malId": 32863,
+    "synonyms": [
+        "Assassination Classroom: Extracurricular Lesson"
+    ],
+    "isLicensed": true,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "trailer": {
+        "id": "9GUB5N2ANEY",
+        "site": "youtube",
+        "thumbnail": "https://i.ytimg.com/vi/9GUB5N2ANEY/hqdefault.jpg",
+        "thumbnailHash": "hash"
+    },
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21678-tr1yaarb2oV3.jpg",
+    "imageHash": "hash",
+    "popularity": 13197,
+    "color": "#bbd61a",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21678-HRhRWI3qctsh.jpg",
+    "coverHash": "hash",
+    "description": "Shorts of Ansatsu Kyoushitsu (TV) 2nd Season which adapt chapters of the manga which are not in the TV series. \n<br><br>\nThe adapted chapters are 78 (\"Takebayashi no Jikan\") and 79 (\"Shihaisha no Jikan, Ni Jikanme\"), which are published in the ninth manga volume.",
+    "status": "Completed",
+    "releaseDate": 2016,
+    "startDate": {
+        "year": 2016,
+        "month": 3,
+        "day": 11
+    },
+    "endDate": {
+        "year": 2016,
+        "month": 5,
+        "day": 20
+    },
+    "totalEpisodes": 8,
+    "currentEpisode": 8,
+    "rating": 73,
+    "duration": 5,
+    "genres": [
+        "Action",
+        "Comedy",
+        "Supernatural"
+    ],
+    "season": "SPRING",
+    "studios": [
+        "Lerche"
+    ],
+    "subOrDub": "sub",
+    "type": "ONA",
+    "recommendations": [],
+    "characters": [
+        {
+            "id": 65645,
+            "role": "MAIN",
+            "name": {
+                "first": "Nagisa",
+                "last": "Shiota",
+                "full": "Nagisa Shiota",
+                "native": "潮田渚",
+                "userPreferred": "Nagisa Shiota"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 104593,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Mai",
+                        "last": "Fuchigami",
+                        "full": "Mai Fuchigami",
+                        "native": "渕上舞",
+                        "userPreferred": "Mai Fuchigami"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104593-yZz5rvm3oIXH.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 167061,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Annalisa",
+                        "last": "Longo",
+                        "full": "Annalisa Longo",
+                        "native": null,
+                        "userPreferred": "Annalisa Longo"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n167061-BE4Zgk6uRIIA.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 88797,
+            "role": "MAIN",
+            "name": {
+                "first": "Hiroto",
+                "last": "Maehara",
+                "full": "Hiroto Maehara",
+                "native": "前原陽斗",
+                "userPreferred": "Hiroto Maehara"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/88797-2VttDgoBtz0X.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95186,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Shintarou",
+                        "last": "Asanuma",
+                        "full": "Shintarou Asanuma",
+                        "native": "浅沼晋太郎",
+                        "userPreferred": "Shintarou Asanuma"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95186-XMdPPqYhMrwN.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 167596,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Simone",
+                        "last": "Lupinacci",
+                        "full": "Simone Lupinacci",
+                        "native": null,
+                        "userPreferred": "Simone Lupinacci"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n167596-xNNQ9uP2qmlg.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 65643,
+            "role": "MAIN",
+            "name": {
+                "first": "Koro-sensei",
+                "last": "",
+                "full": "Koro-sensei",
+                "native": "殺せんせー ",
+                "userPreferred": "Koro-sensei"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-OuY8lZfAfgxp.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95086,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Jun",
+                        "last": "Fukuyama",
+                        "full": "Jun Fukuyama",
+                        "native": "福山潤",
+                        "userPreferred": "Jun Fukuyama"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 96282,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Paolo",
+                        "last": "De Santis",
+                        "full": "Paolo De Santis",
+                        "native": null,
+                        "userPreferred": "Paolo De Santis"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1282.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 88800,
+            "role": "MAIN",
+            "name": {
+                "first": "Koutarou",
+                "last": "Takebayashi",
+                "full": "Koutarou Takebayashi",
+                "native": "竹林考太郎",
+                "userPreferred": "Koutarou Takebayashi"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/88800-4L36Qpe6CeDG.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95279,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Takahiro",
+                        "last": "Mizushima",
+                        "full": "Takahiro Mizushima",
+                        "native": "水島大宙",
+                        "userPreferred": "Takahiro Mizushima"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95279-5fMO4r9szQKL.jpg",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 260690,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Loris",
+                        "last": "Bondesan",
+                        "full": "Loris Bondesan",
+                        "native": null,
+                        "userPreferred": "Loris Bondesan"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n260690-0J4AvWmT9zHO.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 88804,
+            "role": "MAIN",
+            "name": {
+                "first": "Hinata",
+                "last": "Okano",
+                "full": "Hinata Okano",
+                "native": "岡野ひなた",
+                "userPreferred": "Hinata Okano"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/88804-b8GOEB5DcbNU.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 118473,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Minami",
+                        "last": "Tanaka",
+                        "full": "Minami Tanaka",
+                        "native": "田中美海",
+                        "userPreferred": "Minami Tanaka"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118473-VDWNFvFDqodJ.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 226771,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Erica",
+                        "last": "Laiolo",
+                        "full": "Erica Laiolo",
+                        "native": null,
+                        "userPreferred": "Erica Laiolo"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n226771-9g1xHFh4c0CP.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 89352,
+            "role": "MAIN",
+            "name": {
+                "first": "Gakushuu",
+                "last": "Asano",
+                "full": "Gakushuu Asano",
+                "native": "浅野学秀",
+                "userPreferred": "Gakushuu Asano"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/89352-zIHiE6CEKdv3.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95065,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Mamoru",
+                        "last": "Miyano",
+                        "full": "Mamoru Miyano",
+                        "native": "宮野真守",
+                        "userPreferred": "Mamoru Miyano"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 226800,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Gianandrea",
+                        "last": "Muià",
+                        "full": "Gianandrea Muià",
+                        "native": null,
+                        "userPreferred": "Gianandrea Muià"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n226800-to6J8SFHSVka.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 85819,
+            "role": "MAIN",
+            "name": {
+                "first": "Gakuhou",
+                "last": "Asano",
+                "full": "Gakuhou Asano",
+                "native": "浅野学侯",
+                "userPreferred": "Gakuhou Asano"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85819-z1aYwm3mEdAH.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95137,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Shou",
+                        "last": "Hayami",
+                        "full": "Shou Hayami",
+                        "native": "速水奨",
+                        "userPreferred": "Shou Hayami"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95137-2Q5l3Br9G7sk.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 96239,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Lorenzo",
+                        "last": "Scattorin",
+                        "full": "Lorenzo Scattorin",
+                        "native": null,
+                        "userPreferred": "Lorenzo Scattorin"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96239-P3XLQtzk2cGc.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 71933,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Karma",
+                "last": "Akabane",
+                "full": "Karma Akabane",
+                "native": "赤羽カルマ",
+                "userPreferred": "Karma Akabane"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71933-HQ1TSjlrJ8Hv.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95270,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Nobuhiko",
+                        "last": "Okamoto",
+                        "full": "Nobuhiko Okamoto",
+                        "native": "岡本信彦",
+                        "userPreferred": "Nobuhiko Okamoto"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 119594,
+                    "language": "Italian",
+                    "name": {
+                        "first": "Federico",
+                        "last": "Viola",
+                        "full": "Federico Viola",
+                        "native": null,
+                        "userPreferred": "Federico Viola"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119594-5QEcveRvgjbP.png",
+                    "imageHash": "hash"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "id": 21170,
+            "relationType": "PARENT",
+            "malId": 30654,
+            "title": {
+                "romaji": "Ansatsu Kyoushitsu 2",
+                "english": "Assassination Classroom 2",
+                "native": "暗殺教室 2",
+                "userPreferred": "Ansatsu Kyoushitsu 2"
+            },
+            "status": "Completed",
+            "episodes": 25,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-aDHIDkp1L2jC.jpg",
+            "imageHash": "hash",
+            "color": "#30CC22",
+            "type": "TV",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21170-3sLTirZD2J4K.jpg",
+            "coverHash": "hash",
+            "rating": 83
+        },
+        {
+            "id": 69883,
+            "relationType": "ADAPTATION",
+            "malId": 39883,
+            "title": {
+                "romaji": "Ansatsu Kyoushitsu",
+                "english": "Assassination Classroom",
+                "native": "暗殺教室",
+                "userPreferred": "Ansatsu Kyoushitsu"
+            },
+            "status": "Completed",
+            "episodes": null,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx69883-TSwivOf6ACbX.png",
+            "imageHash": "hash",
+            "color": "#f1a135",
+            "type": "MANGA",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/69883-BikwnPOqa0uL.jpg",
+            "coverHash": "hash",
+            "rating": 81
+        }
+    ],
+    "episodes": [{
+            "id": "assassination-classroom-extracurricular-lesson-season-2-episode-1",
+            "title": "Extracurricular Lesson Takebayashi's Time 1",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/6840990/screencap/65310004a1619.jpg",
+            "airDate": "March 11, 2016"
+        },
+        {
+            "id": "assassination-classroom-extracurricular-lesson-season-2-episode-2",
+            "title": "Extracurricular Lesson Takebayashi's Time 2",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/6840993/screencap/653103a575442.jpg",
+            "airDate": "March 18, 2016"
+        },
+        {
+            "id": "assassination-classroom-extracurricular-lesson-season-2-episode-3",
+            "title": "Extracurricular Lesson Sovereign Time, 2nd Period 1",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/6840995/screencap/653104de5a379.jpg",
+            "airDate": "March 25, 2016"
+        },
+        {
+            "id": "assassination-classroom-extracurricular-lesson-season-2-episode-4",
+            "title": "Extracurricular Lesson Sovereign Time, 2nd Period 2",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/6840996/screencap/65310577eb144.jpg",
+            "airDate": "April 1, 2016"
+        },
+        {
+            "id": "assassination-classroom-extracurricular-lesson-season-2-episode-5",
+            "title": "Extracurricular Lesson Everyone's Time 1",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/6841904/screencap/6531062673d28.jpg",
+            "airDate": "November 25, 2016"
+        },
+        {
+            "id": "assassination-classroom-extracurricular-lesson-season-2-episode-6",
+            "title": "Extracurricular Lesson Everyone's Time 2",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/6841905/screencap/653106d303f66.jpg",
+            "airDate": "November 25, 2016"
+        },
+        {
+            "id": "assassination-classroom-extracurricular-lesson-season-2-episode-7",
+            "title": "Extracurricular Lesson Everyone's Time 3",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/6841906/screencap/65310776f04cd.jpg",
+            "airDate": "November 25, 2016"
+        },
+        {
+            "id": "assassination-classroom-extracurricular-lesson-season-2-episode-8",
+            "title": "Extracurricular Lesson Everyone's Time 4",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/6841907/screencap/653107e177ad3.jpg",
+            "airDate": "November 25, 2016"
+        }]
+}
