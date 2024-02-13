@@ -1,0 +1,192 @@
+{
+    "id": "21303",
+    "title": {
+        "romaji": "Ansatsu Kyoushitsu: episode:0 Deai no Jikan",
+        "english": "Assassination Classroom: Meeting Time",
+        "native": "暗殺教室 episode:0 出会いの時間"
+    },
+    "malId": 28405,
+    "synonyms": [],
+    "isLicensed": true,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21303-5CEsFSm56CyH.jpg",
+    "imageHash": "hash",
+    "popularity": 23410,
+    "color": "#e4c91a",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21303-HFHbP9ZwYHgY.jpg",
+    "coverHash": "hash",
+    "description": "Episode 0 of the Ansatsu Kyoushitsu TV series screened at the Jump Festa 2014 events. Later included as an extra in volume 1 of the Blu-ray and DVD release.<br>\n<br>\nKoro-sensei reminisces about his first meeting with Karasuma, where they first butted heads and fought against each other, ultimately coming to respect one another. However, Karasuma eventually points out their actual meeting wasn't nearly as eventful.<br>\n<br>\n(Source: IMDb)",
+    "status": "Completed",
+    "releaseDate": 2014,
+    "startDate": {
+        "year": 2014,
+        "month": 11,
+        "day": 9
+    },
+    "endDate": {
+        "year": 2014,
+        "month": 11,
+        "day": 9
+    },
+    "totalEpisodes": 1,
+    "currentEpisode": 1,
+    "rating": 71,
+    "duration": 10,
+    "genres": [
+        "Action",
+        "Comedy",
+        "Supernatural"
+    ],
+    "season": "FALL",
+    "studios": [
+        "Lerche"
+    ],
+    "subOrDub": "dual",
+    "type": "SPECIAL",
+    "recommendations": [],
+    "characters": [
+        {
+            "id": 73881,
+            "role": "MAIN",
+            "name": {
+                "first": "Tadaomi",
+                "last": "Karasuma",
+                "full": "Tadaomi Karasuma",
+                "native": "烏間惟臣",
+                "userPreferred": "Tadaomi Karasuma"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/73881-Ukr6cBzK8dsi.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95002,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Tomokazu",
+                        "last": "Sugita",
+                        "full": "Tomokazu Sugita",
+                        "native": "杉田智和",
+                        "userPreferred": "Tomokazu Sugita"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 65643,
+            "role": "MAIN",
+            "name": {
+                "first": "Koro-sensei",
+                "last": "",
+                "full": "Koro-sensei",
+                "native": "殺せんせー ",
+                "userPreferred": "Koro-sensei"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65643-OuY8lZfAfgxp.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95086,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Jun",
+                        "last": "Fukuyama",
+                        "full": "Jun Fukuyama",
+                        "native": "福山潤",
+                        "userPreferred": "Jun Fukuyama"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 85291,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Kaede",
+                "last": "Kayano",
+                "full": "Kaede Kayano",
+                "native": "茅野カエデ",
+                "userPreferred": "Kaede Kayano"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/85291-io7X60xBW1LK.jpg",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 114834,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Aya",
+                        "last": "Suzaki",
+                        "full": "Aya Suzaki",
+                        "native": "洲崎綾",
+                        "userPreferred": "Aya Suzaki"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114834-WWHMBVvu2Lzu.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 65645,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Nagisa",
+                "last": "Shiota",
+                "full": "Nagisa Shiota",
+                "native": "潮田渚",
+                "userPreferred": "Nagisa Shiota"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65645-nWH4mBMW5lYw.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 104593,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Mai",
+                        "last": "Fuchigami",
+                        "full": "Mai Fuchigami",
+                        "native": "渕上舞",
+                        "userPreferred": "Mai Fuchigami"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104593-yZz5rvm3oIXH.png",
+                    "imageHash": "hash"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "id": 20755,
+            "relationType": "PARENT",
+            "malId": 24833,
+            "title": {
+                "romaji": "Ansatsu Kyoushitsu",
+                "english": "Assassination Classroom",
+                "native": "暗殺教室",
+                "userPreferred": "Ansatsu Kyoushitsu"
+            },
+            "status": "Completed",
+            "episodes": 22,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-q0b3Ok1cAbPd.jpg",
+            "imageHash": "hash",
+            "color": "#e4d650",
+            "type": "TV",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20755-D4ipww9U8YkC.jpg",
+            "coverHash": "hash",
+            "rating": 79
+        }
+    ],
+    "episodes": [{
+            "id": "assassination-classroom-meeting-time-episode-1",
+            "title": "Episode 0 'Meeting Time'",
+			"description": "Koro-sensei reminisces about his first meeting with Karasuma, where they first butted heads and fought against each other, ultimately coming to respect one another. However, Karasuma eventually points out their actual meeting wasn't nearly as eventful.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/5222869/screencap/653108bc983ba.jpg",
+            "airDate": "November 9, 2014"
+        }]
+}
