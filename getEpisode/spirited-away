@@ -1,14 +1,11 @@
-[
+ [
         {
-            "server1": "xrf492ozjvzj",
+            "server1": "1ti8gsled7mm",
+            "server2": "66yql0r3b8b5",
             "animeNameWithEP": "Spirited Away",
             "ep_num": "1",
             "anime_info": "spirited-away",
             "movie_id": "199",
-            "alias": "spirited-away",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         }
     ]
