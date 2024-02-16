@@ -45,7 +45,7 @@
         "episode": 2
     },
     "totalEpisodes": 13,
-    "currentEpisode": 6,
+    "currentEpisode": 7,
     "rating": 78,
     "duration": 22,
     "genres": [
@@ -574,5 +574,12 @@
             "number": "6",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10160756/screencap/65bcf10c233b5.jpg",
             "airDate": "February 7, 2024"
+        },{
+            "id": "classroom-of-the-elite-season-3-episode-7",
+            "title": "People will do anything, no matter how absurd, in order to avoid facing their own souls",
+            "description": "",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10160757/screencap/65c645fa79f8f.jpg",
+            "airDate": "February 14, 2024"
         }]
 }
