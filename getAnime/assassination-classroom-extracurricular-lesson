@@ -52,7 +52,82 @@
     ],
     "subOrDub": "sub",
     "type": "ONA",
-    "recommendations": [],
+    "recommendations": [{
+		"id": 20755,
+		"malId": 24833,
+		"title": {
+			"romaji": "Ansatsu Kyoushitsu",
+			"english": "Assassination Classroom",
+			"native": "暗殺教室"
+		},
+		"status": "Completed",
+		"episodes": 22,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-q0b3Ok1cAbPd.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20755-D4ipww9U8YkC.jpg",
+		"rating": 79,
+		"type": "TV",
+		"animeurl": "assassination-classroom"
+	},{
+		"id": 21170,
+		"malId": 30654,
+		"title": {
+			"romaji": "Ansatsu Kyoushitsu 2",
+			"english": "Assassination Classroom 2",
+			"native": "暗殺教室 2"
+		},
+		"status": "Completed",
+		"episodes": 25,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-aDHIDkp1L2jC.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21170-3sLTirZD2J4K.jpg",
+		"rating": 83,
+		"type": "TV",
+		"animeurl": "assassination-classroom-season-2"
+	},{
+		"id": 101102,
+		"malId": 33513,
+		"title": {
+			"romaji": "Ansatsu Kyoushitsu Movie: 365-Nichi no Jikan",
+			"english": "Assassination Classroom the Movie: 365 Days‘ Time",
+			"native": "劇場版 暗殺教室 365日の時間"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101102-3J3GRv1D9MGL.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101102-SdbYy8wFQS7g.png",
+		"rating": 71,
+		"type": "MOVIE",
+		"animeurl": "assassination-classroom-the-movie-365-days-time"
+	},{
+		"id": 21303,
+		"malId": 28405,
+		"title": {
+			"romaji": "Ansatsu Kyoushitsu: episode:0 Deai no Jikan",
+			"english": "Assassination Classroom: Meeting Time",
+			"native": "暗殺教室 episode:0 出会いの時間"
+		},
+		"status": "Completed",
+		"episodes": 1,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21303-5CEsFSm56CyH.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21303-HFHbP9ZwYHgY.jpg",
+		"rating": 71,
+		"type": "SPECIAL",
+		"animeurl": "assassination-classroom-meeting-time"
+	},{
+		"id": 21678,
+		"malId": 32863,
+		"title": {
+			"romaji": "Ansatsu Kyoushitsu 2: Kagaijugyou-hen",
+			"english": "Assassination Classroom: Extracurricular Lesson",
+			"native": "暗殺教室 2 課外授業編"
+		},
+		"status": "Completed",
+		"episodes": 8,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21678-tr1yaarb2oV3.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21678-HRhRWI3qctsh.jpg",
+		"rating": 73,
+		"type": "ONA",
+		"animeurl": "assassination-classroom-extracurricular-lesson"
+	}],
     "characters": [
         {
             "id": 65645,
