@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "assassination-classroom-season-2",
+		"episodeId": "assassination-classroom-season-2-episode-1",
+		"jname": "Ansatsu Kyoushitsu 2",
+		"name": "Assassination Classroom 2",
+		"episodeNum": 25,
+		"sub": 25,
+		"dub": 25,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-aDHIDkp1L2jC.jpg"
+	},
+	{
 		"animeId": "solo-leveling",
 		"episodeId": "solo-leveling-episode-6",
 		"jname": "Ore dake Level Up na Ken",
