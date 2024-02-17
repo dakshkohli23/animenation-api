@@ -37,8 +37,8 @@
 		"timeUntilAiring": 178006,
 		"episode": 7
 	},
-	"totalEpisodes": 39,
-	"currentEpisode": 39,
+	"totalEpisodes": 42,
+	"currentEpisode": 40,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -913,5 +913,12 @@
             "description": "",
             "number": "39",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10239401/screencap/65c5eb90e475c.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-40",
+            "title": "Farewell, Sprigatito?",
+            "description": "",
+            "number": "40",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10299917/screencap/65cf12a148442.jpg"
         }]
 }
