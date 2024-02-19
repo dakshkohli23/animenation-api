@@ -1,4 +1,5 @@
-[
+{
+    "Sheet1": [
         {
             "server1": "fh13ooypnu9u",
             "server2": "zv4ro6vq9cy7",
@@ -37,11 +38,12 @@
         },
         {
             "server1": "rbd0iprx13tj",
+            "server2": "veeyodmu9ach",
             "animeNameWithEP": "Solo Leveling Episode 5",
             "ep_num": "5",
             "anime_info": "solo-leveling",
             "movie_id": "151807",
-            "subOrDub": "sub"
+            "subOrDub": "dual"
         },
         {
             "server1": "yh8z5z8rhwae",
@@ -50,5 +52,14 @@
             "anime_info": "solo-leveling",
             "movie_id": "151807",
             "subOrDub": "sub"
+        },
+        {
+            "server1": "8f2dji3xj2zw",
+            "animeNameWithEP": "Solo Leveling Episode 7",
+            "ep_num": "7",
+            "anime_info": "solo-leveling",
+            "movie_id": "151807",
+            "subOrDub": "sub"
         }
     ]
+}
