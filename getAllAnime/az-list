@@ -608,7 +608,7 @@
         {
             "animeId": "jujutsu-kaisen-tv",
             "episodeId": "jujutsu-kaisen-tv-episode-1",
-            "name": "Jujutsu Kaisen",
+            "name": "JUJUTSU KAISEN",
             "jname": "Jujutsu Kaisen",
             "sub": "24",
             "dub": "24",
@@ -616,6 +616,19 @@
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
             "type": "tv",
             "episodeUrl": "anime/jujutsu-kaisen-tv",
+            "genres": ["Action", "Drama", "Supernatural"],
+            "isAdult": false
+        },
+        {
+            "animeId": "jujutsu-kaisen-tv-hindi",
+            "episodeId": "jujutsu-kaisen-tv-hindi-episode-1",
+            "name": "JUJUTSU KAISEN - HINDI",
+            "jname": "Jujutsu Kaisen - Hindi",
+            "hindi": "24",
+            "totalEpisodes": "24",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/jujutsu-kaisen-tv-hindi",
             "genres": ["Action", "Drama", "Supernatural"],
             "isAdult": false
         },
@@ -1800,6 +1813,20 @@
             "type": "tv",
             "episodeUrl": "anime/solo-leveling",
             "genres": ["Action", "Adventure", "Fantasy"],
+            "isAdult": false
+        },
+        {
+            "animeId": "spirited-away",
+            "episodeId": "spirited-away-episode-1",
+            "name": "Spirited Away",
+            "jname": "Sen to Chihiro no Kamikakushi",
+            "sub": "1",
+            "dub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx199-ehguwq1mPvtN.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/spirited-away",
+            "genres": ["Adventure", "Drama", "Fantasy", "Romance", "Supernatural"],
             "isAdult": false
         },
         {
