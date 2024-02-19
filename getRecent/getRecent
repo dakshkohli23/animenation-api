@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "solo-leveling",
+		"episodeId": "solo-leveling-episode-7",
+		"jname": "Ore dake Level Up na Ken",
+		"name": "Solo Leveling",
+		"episodeNum": 12,
+		"sub": 7,
+		"dub": 5,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png"
+	},
+	{
 		"animeId": "pokemon-horizons-the-series",
 		"episodeId": "pokemon-horizons-the-series-episode-40",
 		"jname": "Pocket Monsters (2023)",
@@ -31,17 +42,6 @@
 		"dub": 25,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21170-aDHIDkp1L2jC.jpg"
-	},
-	{
-		"animeId": "solo-leveling",
-		"episodeId": "solo-leveling-episode-6",
-		"jname": "Ore dake Level Up na Ken",
-		"name": "Solo Leveling",
-		"episodeNum": 12,
-		"sub": 6,
-		"dub": 4,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png"
 	},
 	{
 		"animeId": "akame-ga-kill",
