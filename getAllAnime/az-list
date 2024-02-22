@@ -367,7 +367,7 @@
             "type": "tv",
             "episodeUrl": "anime/black-lagoon",
             "genres": ["Action", "Adventure", "Drama", "Thriller"],
-            "isAdult": false
+            "isAdult": true
         },
         {
             "animeId": "black-lagoon-the-second-barrage",
@@ -381,7 +381,21 @@
             "type": "tv",
             "episodeUrl": "anime/black-lagoon-the-second-barrage",
             "genres": ["Action", "Adventure", "Drama", "Thriller"],
-            "isAdult": false
+            "isAdult": true
+        },
+        {
+            "animeId": "black-lagoon-robertas-blood-trail",
+            "episodeId": "black-lagoon-robertas-blood-trail-episode-1",
+            "name": "Black Lagoon: Roberta's Blood Trail",
+            "jname": "BLACK LAGOON: Roberta's Blood Trail",
+            "sub": "5",
+            "dub": "5",
+            "totalEpisodes": "5",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4901-evMxxc1A8pCF.jpg",
+            "type": "ova",
+            "episodeUrl": "anime/black-lagoon-robertas-blood-trail",
+            "genres": ["Action", "Adventure", "Drama", "Thriller"],
+            "isAdult": true
         },
         {
             "animeId": "chainsaw-man",
@@ -430,8 +444,8 @@
             "episodeId": "classroom-of-the-elite-season-3-episode-1",
             "name": "Classroom of the Elite Season 3",
             "jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
-            "sub": "7",
-            "dub": "5",
+            "sub": "8",
+            "dub": "6",
             "totalEpisodes": "13",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-zzKl6P6OeEjy.jpg",
             "type": "tv",
