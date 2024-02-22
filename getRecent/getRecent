@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "black-lagoon",
+		"episodeId": "black-lagoon-episode-1",
+		"jname": "BLACK LAGOON",
+		"name": "Black Lagoon",
+		"episodeNum": 12,
+		"sub": 12,
+		"dub": 12,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx889-Wf4GZRnHv6Dp.png"
+	},
+	{
 		"animeId": "solo-leveling",
 		"episodeId": "solo-leveling-episode-7",
 		"jname": "Ore dake Level Up na Ken",
