@@ -1,0 +1,202 @@
+{
+	"id": "13712",
+	"title": {
+		"romaji": "Avatar: The Last Airbender Season 2",
+		"english": "Avatar: The Last Airbender Season 2",
+		"native": "Book 2: Earth"
+	},
+	"malId": 13712,
+	"synonyms": ["Avatar: The Last Airbender", "Avatar: The Legend of Aang The Last Airbender", "Season 2 - Book 2: Earth"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"image": "https://artworks.thetvdb.com/banners/seasons/74852-2-8.jpg",
+	"popularity": 2354,
+	"color": "#e4a15d",
+	"cover": "https://artworks.thetvdb.com/banners/seasonswide/74852-2.jpg",
+	"description": "Aang, along with Katara, Sokka, and their animal friends Appa and Momo, continues on his quest to fulfill his destiny. According to the Avatar cycle, the group must now enter the Earth Kingdom to search for a master Earthbender to teach Aang.",
+	"status": "Completed",
+	"releaseDate": 2005,
+	"startDate": {
+		"year": 2005,
+		"month": 2,
+		"day": 21
+	},
+	"endDate": {
+		"year": 2010,
+		"month": 4,
+		"day": 22
+	},
+	"totalEpisodes": 20,
+	"currentEpisode": 20,
+	"rating": 93,
+	"duration": 24,
+	"genres": ["Action", "Adventure", "Animation", "Children", "Comedy", "Drama", "Family", "Fantasy", "Martial Arts", "Mystery"],
+	"season": "WINTER",
+	"studios": ["Nickelodeon"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+            "id": "avatar-the-last-airbender-season-2-episode-1",
+            "title": "The Avatar State",
+            "description": "Plagued with nightmares featuring the devastating power of his Avatar State, Aang and the gang meet an Earth Kingdom general who has big plans for defeating the Fire Nation. Meanwhile, Prince Zuko and Uncle Iroh, having survived the failed attack on the North Water Tribe, have a surprise visit from the Prince's sister with seemingly good news.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/306981.jpg",
+            "airDate": "March 17, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-2",
+            "title": "The Cave of Two Lovers",
+            "description": "On their way to Omashu, Aang, Katara, and Sokka meet a group of nomads who show them a shortcut through the \"Cave of Two Lovers.\" But when the group becomes trapped in the cave, it's up to Aang and Katara to save the group by trusting in love ... and possibly questioning their relationship. Meanwhile, Iroh gets a lethal rash so Zuko and Iroh head to a small Earth Kingdom town for help, hoping their real identities will not be discovered.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/306982.jpg",
+            "airDate": "March 24, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-3",
+            "title": "Return to Omashu",
+            "description": "Despite the shocking news the gang have just discovered, Aang insists on trying to find King Bumi within Omashu's borders, even with the dangers that will await him and his friends if his real identity is discovered. Meanwhile Azula goes in search of old friends to help her with her mission.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/306983.jpg",
+            "airDate": "April 7, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-4",
+            "title": "The Swamp",
+            "description": "A mysterious tornado pulls the kids into a supernatural swamp where Katara, Sokka and Aang have mysterious visions. Meanwhile, Momo and Appa are chased by rogue swamp dwellers and only Aang and the gang can save them.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/306984.jpg",
+            "airDate": "April 14, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-5",
+            "title": "Avatar Day",
+            "description": "Aang and the gang discover an Earth town that celebrates something called \"Avatar Day.\" But when they get there and learn the festival is of \"anti-Avatar\" sentiment and Aang is put on trial for a crime a past incarnation allegedly committed. Looking to clear the Avatar's good name, Katara and Sokka venture back to a familiar place to gather evidence and discover the truth.",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/307195.jpg",
+            "airDate": "April 28, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-6",
+            "title": "The Blind Bandit",
+            "description": "In search for an Earthbending teacher for Aang, the kids go to an underground Earthbending tournament called Earth Rumble 6, where they encounter Toph (aka the Blind Bandit), a blind, but powerful Earthbending girl. After seeing her unique style of Earthbending, Aang wants Toph to become his teacher, but there are complications with Toph's family.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/307196.jpg",
+            "airDate": "May 5, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-7",
+            "title": "Zuko Alone",
+            "description": "Zuko travels by himself to an Earth Kingdom town were he meets a local boy. The two almost become friends, meanwhile Zuko suffers from flashbacks of his past.",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/307197.jpg",
+            "airDate": "May 12, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-8",
+            "title": "The Chase",
+            "description": "Tired from trying to escape a machine that shows up every time they try to sleep, Aang and the gang have to escape Azula and her team, but their exhaustion leads to a tight situation. Meanwhile, Zuko must deal with something personal. And Iroh bonds with an unlikely individual.",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/307198.jpg",
+            "airDate": "May 26, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-9",
+            "title": "Bitter Work",
+            "description": "Toph's instructing abilities come into question when Aang cannot seem to overcome a block that keeps him from earthbending. Sokka gets himself in a jam, while befriending what was, moments before, his next meal, and Iroh and Zuko begin training utilizing new philosophies and methods that originate from the other elements.",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/307199.jpg",
+            "airDate": "June 2, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-10",
+            "title": "The Library",
+            "description": "When Aang and his friends find a professor who knows of a library that contains information about the world, Sokka decides to go there to hopefully find some information to use against the Fire Nation. The library is guarded by the knowledge spirit, Wan Shi Tong, who doesn't welcome humans into his library, because he believes they only seek information for evil purposes. When Wan Shi Tong discovers Sokka wasn't being truthful with him, he begins to sink the library, bringing the kids down with it. Will everyone be able to escape the library in time? And who are the strange benders who have kidnapped Appa?",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/310035.jpg",
+            "airDate": "July 14, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-11",
+            "title": "The Desert",
+            "description": "Aang searches for Appa, while Katara struggles to keep everyone together so they can survive in the vast desert while Sokaa supposedly gets \"high\" off Cactus juice in the desert.Meanwhile, Iroh and Zuko seek help from an ancient secret society.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/310036.jpg",
+            "airDate": "July 14, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-12",
+            "title": "The Serpent's Pass",
+            "description": "When Aang and the gang meet up with a group of refugees, they tell the gang where they can get on a ferry to Ba Sing Se. But after a series of events they have to take a deadly route called the serpent's pass with the help of an old friend, Suki. Meanwhile Zuko and Iroh meet up with a boy named Jet and his freedom fighters.",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/310037.jpg",
+            "airDate": "September 15, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-13",
+            "title": "The Drill",
+            "description": "Having made it to the outer wall of Ba Sing Se, the kids confront a Fire Nation army that is driving a massive Fire Nation drill, which poses an imminent threat to the last Earth Kingdom stronghold. Meanwhile, Zuko and Iroh make crucial mistakes which begin to attract Jet's suspicions.",
+            "number": "13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/310038.jpg",
+            "airDate": "September 15, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-14",
+            "title": "City of Walls and Secrets",
+            "description": "Having finally made it into Ba Sing Se, the kids are given a house in the upper ring. The kids are anxious to tell the Earth King their plan but there are complications. Meanwhile, still convinced that Iroh and Zuko may be Fire Nation, Jet decides to take matters into his own hands and do whatever it takes to get the refugees to reveal their true nature.",
+            "number": "14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/310039.jpg",
+            "airDate": "September 22, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-15",
+            "title": "The Tales of Ba Sing Se",
+            "description": "A series of short stories, highlighting different characters and their individual adventures in the city. Tales of Katara and Toph, Iroh, Sokka, Aang, Zuko, and Momo.",
+            "number": "15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/310040.jpg",
+            "airDate": "September 29, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-16",
+            "title": "Appa's Lost Days",
+            "description": "In this special episode, we flash back to the moment Appa was stolen, find out where he has gone, who he has met along the way, and—most importantly—where he is now.",
+            "number": "16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/310041.jpg",
+            "airDate": "October 13, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-17",
+            "title": "Lake Laogai",
+            "description": "Aang and his friends continue to search for Appa and, unbeknownst to them, they aren't the only ones looking for him. During their search, the kids meet up with Jet, whom they are understandably reluctant to trust. The kids soon realize that the Dai Li are doing their best to thwart the kids efforts to find Appa. Meanwhile, Uncle Iroh is offered his own tea shop in the upper ring, and Zuko discovers the avatar is in the city.",
+            "number": "17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/310042.jpg",
+            "airDate": "November 3, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-18",
+            "title": "The Earth King",
+            "description": "The kids battle Long Feng and the Dai Li when they attempt to show the Earth King the vast conspiracy taking place in his city. Zuko becomes seriously ill and has feverish dreams as he faces a spiritual crisis.",
+            "number": "18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/314752.jpg",
+            "airDate": "November 17, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-19",
+            "title": "The Guru",
+            "description": "Aang receives guidance from Guru Pathik at the Eastern Air Temple; Sokka is reunited with his long-lost father; Princess Azula has something diabolical in store for her enemies; Uncle and Zuko run their own tea shop.",
+            "number": "19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/314753.jpg",
+            "airDate": "December 1, 2006"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-2-episode-20",
+            "title": "The Crossroads of Destiny",
+            "description": "Everyone races against time to stop Azula's sinister plan. Zuko finds companionship in an unlikely source. Aang's destiny hangs in the balance - and so does Zuko's, as Iroh tells him \"it is time to choose.\"",
+            "number": "20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/314754.jpg",
+            "airDate": "December 1, 2006"
+        }]
+}
