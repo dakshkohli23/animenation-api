@@ -1,4 +1,5 @@
-[
+{
+    "Sheet1": [
         {
             "server1": "gbo0aj6ljymz",
             "server2": "1os8ndoimpua",
@@ -46,11 +47,12 @@
         },
         {
             "server1": "1jtifst04545",
+            "server2": "nc10d0pee9nw",
             "animeNameWithEP": "Classroom of the Elite Season 3 Episode 6",
             "ep_num": "6",
             "anime_info": "classroom-of-the-elite-season-3",
             "movie_id": "146066",
-            "subOrDub": "sub"
+            "subOrDub": "dual"
         },
         {
             "server1": "hzwymdlkxtut",
@@ -59,5 +61,14 @@
             "anime_info": "classroom-of-the-elite-season-3",
             "movie_id": "146066",
             "subOrDub": "sub"
+        },
+        {
+            "server1": "z2t3m5svwuen",
+            "animeNameWithEP": "Classroom of the Elite Season 3 Episode 8",
+            "ep_num": "8",
+            "anime_info": "classroom-of-the-elite-season-3",
+            "movie_id": "146066",
+            "subOrDub": "sub"
         }
     ]
+}
