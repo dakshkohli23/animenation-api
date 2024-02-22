@@ -1,0 +1,210 @@
+{
+	"id": "13712",
+	"title": {
+		"romaji": "Avatar: The Last Airbender Season 3",
+		"english": "Avatar: The Last Airbender Season 3",
+		"native": "Book 3: Fire"
+	},
+	"malId": 13712,
+	"synonyms": ["Avatar: The Last Airbender", "Avatar: The Legend of Aang The Last Airbender", "Season 3 - Book 3: Fire"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"image": "https://artworks.thetvdb.com/banners/seasons/74852-3-8.jpg",
+	"popularity": 2354,
+	"color": "#e4a15d",
+	"cover": "https://artworks.thetvdb.com/banners/seasonswide/74852-3.jpg",
+	"description": "Aang wakes up from his battle with Azula to discover that Ba Sing Se has fallen and the world thinks he's dead. So he and his friends set off undercover to find Firelord Ozai before the Day of Black Sun.",
+	"status": "Completed",
+	"releaseDate": 2005,
+	"startDate": {
+		"year": 2005,
+		"month": 2,
+		"day": 21
+	},
+	"endDate": {
+		"year": 2010,
+		"month": 4,
+		"day": 22
+	},
+	"totalEpisodes": 21,
+	"currentEpisode": 21,
+	"rating": 93,
+	"duration": 24,
+	"genres": ["Action", "Adventure", "Animation", "Children", "Comedy", "Drama", "Family", "Fantasy", "Martial Arts", "Mystery"],
+	"season": "WINTER",
+	"studios": ["Nickelodeon"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+            "id": "avatar-the-last-airbender-season-3-episode-1",
+            "title": "The Awakening",
+            "description": "Aang awakens to find himself aboard a captured Fire Nation ship with a full head of hair and sustaining serious injuries from the previous battle for Ba Sing Se. At his side are Katara, Sokka, and their father Hakoda who recount the events that led the four to the ship and contemplate their next move. Aang struggles to fight his own desire to face the Fire Lord before he is ready. Meanwhile, the once exiled Prince Zuko deals with his own issues as he makes his long-awaited journey home, with the fear of his father's rejection hanging over his head.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312688.jpg",
+            "airDate": "September 21, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-2",
+            "title": "The Headband",
+            "description": "To better blend in as Fire Nation citizens, Aang enrolls in a Fire Nation school, giving himself an opportunity to learn more about the Nation while at the same enjoy life as a normal kid for the first time since he discovered he was the Avatar. Meanwhile Zuko, growing more and more paranoid about the Avatar's false demise, brings himself to confronts his imprisoned uncle.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312689.jpg",
+            "airDate": "September 28, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-3",
+            "title": "The Painted Lady",
+            "description": "When the gang arrives at a suffering fishing village, a mysterious spirit appears to help the villagers.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312690.jpg",
+            "airDate": "October 5, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-4",
+            "title": "Sokka's Master",
+            "description": "Feeling as though he isn't contributing enough to the group, Sokka seeks out an elusive swordsmaster from whom he can learn the ways of the blade.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312691.jpg",
+            "airDate": "October 12, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-5",
+            "title": "The Beach",
+            "description": "Zuko, Azula, Mai and Ty Lee take a vacation to ember island. In the process, they come to learn more about themselves and each other as well as their desires for the future. Elsewhere, Aang and others face off against a new adversary.",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312692.jpg",
+            "airDate": "October 19, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-6",
+            "title": "The Avatar and the Firelord",
+            "description": "The tale of Avatar Roku and Fire Lord Sozin is revealed to Aang and Zuko by different sources. Both learn about themselves and are shown the origins of the war.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312693.jpg",
+            "airDate": "October 26, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-7",
+            "title": "The Runaway",
+            "description": "When Katara expresses her disapproval to Toph's new way to make quick cash, the group finds her too motherly and tension grows between Katara and Toph. When Katara finally decides to participate in this scam to disprove Toph's accusations, they are left vulnerable and are forced to face the dire consequences.",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312694.jpg",
+            "airDate": "November 2, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-8",
+            "title": "The Puppetmaster",
+            "description": "The gang investigates the bizarre disappearances taking place within an eerie town.",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312695.jpg",
+            "airDate": "November 9, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-9",
+            "title": "Nightmares and Daydreams",
+            "description": "Four days prior the invasion, Aang becomes nervous over his soon-to-come confrontation with the Fire Lord. His anxiety gets the better of him as he begins to suffer from outrageous nightmares and hallucinations. Meanwhile, Zuko becomes upset to learn that he was not informed about a war meeting.",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312696.jpg",
+            "airDate": "November 16, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-10",
+            "title": "The Day of Black Sun: The Invasion (1)",
+            "description": "The day of the eclipse has arrived, and the invasion force gathers together to make last preparations. They infiltrate the island and the battle begins. Meanwhile, Aang searches for the Firelord.",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312697.jpg",
+            "airDate": "November 30, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-11",
+            "title": "The Day of Black Sun: The Eclipse (2)",
+            "description": "As the invasion force fights their way to the Fire Nation capital, the kids help Aang to find the Fire Lord in time for the eclipse. But there are a few surprises. Zuko confronts his father and tells him that he's going to join the Avatar.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312698.jpg",
+            "airDate": "November 30, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-12",
+            "title": "The Western Air Temple",
+            "description": "Aang and the group arrive at the Western Air Temple, with Zuko in pursuit. Zuko only wishes to be accepted, and help the Avatar, but will the group allow him to teach Aang firebending?",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312699.jpg",
+            "airDate": "December 14, 2007"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-13",
+            "title": "The Firebending Masters",
+            "description": "While teaching Aang firebending, Zuko finds that he has lost all his firebending skills. Now to regain his powers, Zuko and Aang must seek the original source of firebending within the ruins of a lost civilization.",
+            "number": "13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312700.jpg",
+            "airDate": "January 4, 2008"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-14",
+            "title": "The Boiling Rock (1)",
+            "description": "Sokka wants to break his father out of jail and askes Zuko for information on Fire nation prisons. Sokka and Zuko go to the \"Boiling Rock\" Prison which is in the middle of a volcano to rescue Sokka's father. When Sokka doesn't find him, he feels like he has failed... again... then his hopes are raised when he finds Suki. Sokka, Zuko, Suki and some unexpected allies attempt to escape the prison, but some unexpected surprises come along the way.",
+            "number": "14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312701.jpg",
+            "airDate": "June 14, 2008"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-15",
+            "title": "The Boiling Rock (2)",
+            "description": "Zuko and Sokka make new plans to break out of the prison with Suki, Sokka's father and some others while a shocking twist leaves Azula none to happy with her two closest friends.",
+            "number": "15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312702.jpg",
+            "airDate": "June 14, 2008"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-16",
+            "title": "The Southern Raiders",
+            "description": "Katara decides to confront the Fire Nation soldier responsible for her mother's death. Aang tries to talk her out of it, and Katara later realizes he was right and learns a lesson about life and herself.",
+            "number": "16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312703.jpg",
+            "airDate": "July 17, 2008"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-17",
+            "title": "The Ember Island Players",
+            "description": "A play recounting the gang's adventures does not sit well with Aang and his friends, except for Toph who enjoys it very much. Meanwhile, Aang confesses his love to Katara, but the response is ambiguous.",
+            "number": "17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312704.jpg",
+            "airDate": "July 18, 2008"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-18",
+            "title": "Sozin's Comet: The Phoenix King (1)",
+            "description": "Aang struggles to decide whether or not he has to kill the Fire Lord and, during the night, is drawn toward an island which disappears before morning. Zuko leads the rest of the group to the Earth Kingdom to meet a tracker whom they hope can find Aang. The Fire Lord crowns himself Phoenix King and Aang awakens on the island not knowing where he is.",
+            "number": "18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312705.jpg",
+            "airDate": "July 19, 2008"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-19",
+            "title": "Sozin's Comet: The Old Masters (2)",
+            "description": "While on the island, Aang seeks guidance from his past lives, but is not pleased with what he is told. The island, in fact, turns out to be a lion turtle from which Aang is given the guidance he had been seeking. After the tracker is unable to track Aang, the rest of the group decide they must find Iroh. Meanwhile, while tracking down Iroh, the group meets up with The Order of the White Lotus, a group that transcends the division of the four nations. After a discussion with Iroh the team decides to split up: Sokka, Suki, and Toph head to stop the Fire Nation's air fleet, the masters head to reclaim Ba Sing Se, and Katara, Zuko, and Appa head to defeat Azula.",
+            "number": "19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312706.jpg",
+            "airDate": "July 19, 2008"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-20",
+            "title": "Sozin's Comet: Into the Inferno (3)",
+            "description": "Sokka, Suki, and Toph try to stop the Fire Nation's air fleet. Meanwhile, Zuko and Azula duel in an Agni Kai and Aang confronts the Fire Lord. On the verge of losing, Aang gets hit in the back of his scar which sends him into the Avatar State.",
+            "number": "20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/312707.jpg",
+            "airDate": "July 19, 2008"
+        },
+        {
+            "id": "avatar-the-last-airbender-season-3-episode-21",
+            "title": "Sozin's Comet: Avatar Aang (4)",
+            "description": "Aang defeats the Fire Lord by bending the elements within the Fire Lord and removing his fire bending abilities. After Zuko is taken down protecting Katara from Azula, Katara fights and manages to restrain Azula. Afterwards, Zuko is crowned Fire Lord and promises a better future for the world. Aang takes his place as the next Avatar, changing his attire in the process. Katara finally shows her love for Aang as they kiss in the last scene.",
+            "number": "21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/74852/376043.jpg",
+            "airDate": "July 19, 2008"
+        }]
+}
