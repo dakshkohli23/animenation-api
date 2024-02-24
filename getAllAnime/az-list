@@ -113,7 +113,7 @@
         {
             "animeId": "assassination-classroom-extracurricular-lesson",
             "episodeId": "assassination-classroom-extracurricular-lesson-episode-1",
-            "name": "Assassination Classroom: Extracurricular Lesson",
+            "name": "Assassination Classroom: Extracurricular Lesson",
             "jname": "Ansatsu Kyoushitsu 2: Kagaijugyou-hen",
             "sub": "8",
             "totalEpisodes": "8",
@@ -354,6 +354,45 @@
             "episodeUrl": "anime/attack-on-titan-the-roar-of-awakening",
             "genres": ["Action", "Drama", "Fantasy", "Mystery"],
             "isAdult": true
+        },
+        {
+            "animeId": "avatar-the-last-airbender-season-1",
+            "episodeId": "avatar-the-last-airbender-season-1-episode-1",
+            "name": "Avatar: The Last Airbender",
+            "jname": "Avatar: The Last Airbender",
+            "dub": "20",
+            "totalEpisodes": "20",
+            "imgUrl": "https://artworks.thetvdb.com/banners/seasons/74852-1-7.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/avatar-the-last-airbender-season-1",
+            "genres": ["Action", "Adventure", "Animation", "Children", "Comedy", "Drama", "Family", "Fantasy", "Martial Arts", "Mystery"],
+            "isAdult": false
+        },
+        {
+            "animeId": "avatar-the-last-airbender-season-2",
+            "episodeId": "avatar-the-last-airbender-season-2-episode-1",
+            "name": "Avatar: The Last Airbender Season 2",
+            "jname": "Avatar: The Last Airbender Season 2",
+            "dub": "20",
+            "totalEpisodes": "20",
+            "imgUrl": "https://artworks.thetvdb.com/banners/seasons/74852-2-8.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/avatar-the-last-airbender-season-2",
+            "genres": ["Action", "Adventure", "Animation", "Children", "Comedy", "Drama", "Family", "Fantasy", "Martial Arts", "Mystery"],
+            "isAdult": false
+        },
+        {
+            "animeId": "avatar-the-last-airbender-season-3",
+            "episodeId": "avatar-the-last-airbender-season-3-episode-1",
+            "name": "Avatar: The Last Airbender Season 3",
+            "jname": "Avatar: The Last Airbender Season 3",
+            "dub": "21",
+            "totalEpisodes": "21",
+            "imgUrl": "https://artworks.thetvdb.com/banners/seasons/74852-3-8.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/avatar-the-last-airbender-season-3",
+            "genres": ["Action", "Adventure", "Animation", "Children", "Comedy", "Drama", "Family", "Fantasy", "Martial Arts", "Mystery"],
+            "isAdult": false
         },
         {
             "animeId": "black-lagoon",
