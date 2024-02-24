@@ -1,5 +1,35 @@
 [
 	{
+		"animeId": "avatar-the-last-airbender-season-3",
+		"episodeId": "avatar-the-last-airbender-season-3-episode-1",
+		"jname": "Avatar: The Last Airbender Season 3",
+		"name": "Avatar: The Last Airbender Season 3",
+		"episodeNum": 21,
+		"dub": 21,
+		"type": "tv",
+		"imgUrl": "https://artworks.thetvdb.com/banners/seasons/74852-3-8.jpg"
+	},
+	{
+		"animeId": "avatar-the-last-airbender-season-2",
+		"episodeId": "avatar-the-last-airbender-season-2-episode-1",
+		"jname": "Avatar: The Last Airbender Season 2",
+		"name": "Avatar: The Last Airbender Season 2",
+		"episodeNum": 20,
+		"dub": 20,
+		"type": "tv",
+		"imgUrl": "https://artworks.thetvdb.com/banners/seasons/74852-2-8.jpg"
+	},
+	{
+		"animeId": "avatar-the-last-airbender-season-1",
+		"episodeId": "avatar-the-last-airbender-season-1-episode-1",
+		"jname": "Avatar: The Last Airbender",
+		"name": "Avatar: The Last Airbender",
+		"episodeNum": 20,
+		"dub": 20,
+		"type": "tv",
+		"imgUrl": "https://artworks.thetvdb.com/banners/seasons/74852-1-7.jpg"
+	},
+	{
 		"animeId": "classroom-of-the-elite-season-3",
 		"episodeId": "classroom-of-the-elite-season-3-episode-8",
 		"jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
