@@ -36,7 +36,52 @@
 	"studios": ["Nickelodeon"],
 	"subOrDub": "dub",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 13712,
+		"malId": 13712,
+		"title": {
+			"romaji": "Book 1: Water",
+			"english": "Book 1: Water",
+			"native": "Book 1: Water"
+		},
+		"status": "Completed",
+		"episodes": 20,
+		"image": "https://artworks.thetvdb.com/banners/seasons/74852-1-7.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/seasonswide/74852-1.jpg",
+		"rating": 93,
+		"type": "TV",
+		"animeurl": "avatar-the-last-airbender-season-1"
+	},{
+		"id": 13712,
+		"malId": 13712,
+		"title": {
+			"romaji": "Book 2: Earth",
+			"english": "Book 2: Earth",
+			"native": "Book 2: Earth"
+		},
+		"status": "Completed",
+		"episodes": 20,
+		"image": "https://artworks.thetvdb.com/banners/seasons/74852-2-8.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/seasonswide/74852-2.jpg",
+		"rating": 93,
+		"type": "TV",
+		"animeurl": "avatar-the-last-airbender-season-2"
+	},{
+		"id": 13712,
+		"malId": 13712,
+		"title": {
+			"romaji": "Book 3: Fire",
+			"english": "Book 3: Fire",
+			"native": "Book 3: Fire"
+		},
+		"status": "Completed",
+		"episodes": 21,
+		"image": "https://artworks.thetvdb.com/banners/seasons/74852-3-8.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/seasonswide/74852-3.jpg",
+		"rating": 93,
+		"type": "TV",
+		"animeurl": "avatar-the-last-airbender-season-3"
+	}],
 	"characters": [],
 	"relations": [],
 	"episodes": [{
