@@ -36,7 +36,37 @@
 	"studios": ["Cartoon Network"],
 	"subOrDub": "dub",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 590,
+		"malId": 590,
+		"title": {
+			"romaji": "Swat Kats: The Radical Squadron",
+		"english": "Swat Kats: The Radical Squadron",
+		"native": "Swat Kats: The Radical Squadron"
+		},
+		"status": "Completed",
+		"episodes": 13,
+		"image": "https://artworks.thetvdb.com/banners/posters/70545-1.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/graphical/70545-g2.jpg",
+		"rating": 84,
+		"type": "TV",
+		"animeurl": "swat-kats-the-radical-squadron"
+	},{
+		"id": 590,
+		"malId": 590,
+		"title": {
+			"romaji": "Swat Kats: The Radical Squadron Season 2",
+		"english": "Swat Kats: The Radical Squadron Season 2",
+		"native": "Swat Kats: The Radical Squadron Season 2"
+		},
+		"status": "Completed",
+		"episodes": 13,
+		"image": "https://artworks.thetvdb.com/banners/series/70545/posters/5e903622cbe71.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/graphical/70545-g.jpg",
+		"rating": 84,
+		"type": "TV",
+		"animeurl": "swat-kats-the-radical-squadron-season-2"
+	}],
 	"characters": [],
 	"relations": [],
 	"episodes": [{
