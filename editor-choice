@@ -1,11 +1,13 @@
-[{
-		"animeId": "kimetsu-no-yaiba-katanakaji-no-satohen",
-		"jname": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-		"name": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
-		"subOrDub": "sub",
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145139-rRimpHGWLhym.png",
-		"animeUrl": "/anime/kimetsu-no-yaiba-katanakaji-no-satohen"
+[
+	{
+		"animeId": "solo-leveling-recap",
+		"episodeId": "solo-leveling-recap-episode-1",
+		"jname": "Ore dake Level Up na Ken - Special",
+		"name": "Solo Leveling: How to Get Stronger",
+		"episodeNum": 1,
+		"sub": 1,
+		"type": "special",
+		"imgUrl": "https://artworks.thetvdb.com/banners/v4/series/389597/posters/6419bffcab0b7.jpg"
 	},
 	{
 		"animeId": "oshi-no-ko-episode-1",
