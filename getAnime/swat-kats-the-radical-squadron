@@ -1,0 +1,146 @@
+{
+	"id": "590",
+	"title": {
+		"romaji": "Swat Kats: The Radical Squadron",
+		"english": "Swat Kats: The Radical Squadron",
+		"native": "Swat Kats: The Radical Squadron"
+	},
+	"malId": 590,
+	"synonyms": ["Swat Kats: The Radical Squadron"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"image": "https://artworks.thetvdb.com/banners/posters/70545-1.jpg",
+	"popularity": 2084,
+	"color": "#e4a15d",
+	"cover": "https://artworks.thetvdb.com/banners/graphical/70545-g2.jpg",
+	"description": "Swat Kats: The Radical Squadron was a short-lived cartoon show produced by Hanna-Barbera that first aired in September 1993. It revolved around the feline characters of Megakat City, and its two main characters were Jake Clawson and Chance Furlong, two pilots who were thrown out of the enforcers due to a mishap and forced to work as junkyard auto mechanics to repay the damages they caused. They decided they had to do more to make amends, and therefore, Jake Clawson designed the Turbokat and became the vigilantes known was the SWAT Kats. Jake, a.k.a Razor, was the weapons system officer and Chance, a.k.a T-bone, was the pilot. Together they protected Megakat City from many foes, such as Dark Kat, Dr. Viper, The Pastmaster, Mac and Molly, a.k.a. The Metallikats, and Hard Drive.",
+	"status": "Completed",
+	"releaseDate": 1993,
+	"startDate": {
+		"year": 1993,
+		"month": 9,
+		"day": 11
+	},
+	"endDate": {
+		"year": 1995,
+		"month": 4,
+		"day": 4
+	},
+	"totalEpisodes": 13,
+	"currentEpisode": 13,
+	"rating": 84,
+	"duration": 23,
+	"genres": ["Action", "Adventure", "Animation", "Children", "Family", "Sci Fi"],
+	"season": "SUMMER",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+            "id": "swat-kats-the-radical-squadron-episode-1",
+            "title": "The Pastmaster Always Rings Twice",
+            "description": "Two grave robbers accidentally release the Pastmaster from his 800-year imprisonment within the Casket of the Ages. Disgusted with the modern era, he steals his spellbook, the Tome of Time, from the Megakat City Museum of History and attempts to magically transform the metropolis back to the medieval state he prefers. He summons dinosaurs through a magical time vortex to act as his bodyguards, one of whom knocks the Swat Kats through the portal and into the prehistoric era. Low on time and fuel, the Swat Kats must figure out a way to get back to the present-day Megakat City to stop the Pastmaster.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11927.jpg",
+            "airDate": "September 11, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-2",
+            "title": "The Giant Bacteria",
+            "description": "The swamp-dwelling Dr. Viper mutates his fellow evildoer Morbulus into a hulking bacteria blob following Morbulus' humiliating defeat by the Swat Kats. The bacteria monster then goes on a rampage through Megakat City, inconveniently dividing into two anytime it's hit. Viper's plan is for the monsters to break into the supposedly impenetrable Megakat Biochemical Labs and steal Katalyst 99, a rare biochemical compound he wants. With normal weapons ineffective against the giant bacteria, the Swat Kats quickly discover that the creatures have one weakness: electricity.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11928.jpg",
+            "airDate": "September 18, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-3",
+            "title": "The Wrath of Dark Kat",
+            "description": "Criminal mastermind Dark Kat breaks into the Megakat Nuclear Plant and steals the components to build his \"\"doomsday device,\"\" a powerful nuclear bomb that he plans to drop on the city. Commander Feral sneaks aboard Dark Kat's ship, the Doomsday Express, in an effort to stop him, but is quickly captured. Lieutenant-Commander Steele, Feral's second in command, assumes control of the Enforcers, but would rather advance his career than rescue his boss. Thus, it's up to the Swat Kats to save both Feral and Megakat City.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11929.jpg",
+            "airDate": "September 25, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-4",
+            "title": "Destructive Nature",
+            "description": "The new, 300-story office building Megakat Towers is open for business, and Mayor Manx is trying to persuade foreign investor Mr. Young to house his corporate headquarters there. But Dr. Viper is back and he ruins Manx's plans as he seizes control of the tower with his army of acid-spitting \"\"plantimals.\"\" He places a huge spore pod on the roof: when it explodes, it will shower Megakat City with spores, turning the metropolis into one big swamp (\"\"Megaswamp City\"\"). Obviously the Swat Kats won't allow this. While T-Bone runs interference in the Turbokat, Razor sneaks inside the building to stop Viper with the help of Callie Briggs, who happened to be inside when the building was taken.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11930.jpg",
+            "airDate": "October 2, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-5",
+            "title": "The Metallikats",
+            "description": "The husband and wife gangster duo Mac and Molly Mange were thought to have died while trying to escape from Alkatraz. Now, for the first time since their \"\"makeover,\"\" courtesy of inventor Professor Hackle, they're back in Megakat City and planning to \"\"tear up this town like a scratchin' post!\"\" But Mac and Molly's first priority is getting revenge on those who had wronged them in the past, and at the top their hit list is Mayor Manx. It's mayhem down at City Hall as the Swat Kats fight to destroy the seemingly unstoppable Metallikats.",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11931.jpg",
+            "airDate": "October 9, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-6",
+            "title": "Bride of the Pastmaster",
+            "description": "While in the middle of a battle against sea monsters who are attacking KatCo oil tankers, the Swat Kats become caught in of the Pastmaster's time portals, which appears out of nowhere and pulls them back into medieval times. There they find the evil wizard in the midst of laying siege to Megalith City, Megakat City's Dark Ages counterpart, with an army of mythological monsters (dragons, cyclopes, etc.) in an effort to force its ruler, Queen Callista, Callie Briggs' lookalike ancestor, to marry him. And that's not the only romantic complication! When Callista sees Razor pull a certain sword from a certain stone, she falls in love with him, causing T-Bone to become jealous.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11932.jpg",
+            "airDate": "October 16, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-7",
+            "title": "Night of the Dark Kat",
+            "description": "Dark Kat enlists the assistance of technology thief and \"\"high-voltage low-life\"\" Hard Drive to destroy both the Swat Kats and their reputation as heroes. After the villains lure the vigilantes into a death trap in Dark Kat's hideout, Hard Drive uses the stolen Turbokat to pose as the Swat Kats and commit various crimes in order to frame them as criminals. Although T-Bone and Razor manage to free themselves, they find themselves pursued by the Enforcers for the crimes committed by Dark Kat and Hard Drive. With Callie's help, they must evade the Enforcers, clear their names, stop Dark Kat, and be back in time to tow a little old lady.",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11933.jpg",
+            "airDate": "October 23, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-8",
+            "title": "Chaos in Crystal",
+            "description": "An accident with an experimental diamond mining machine, the Gemkat 6000, somehow turns brutal convict Rex Shard, into a crystalline giant whose touch turns people and objects to crystal. And that's only the beginning of his new powers. Seeking revenge for his accident, Shard first sets his sights on getting Warden Cyrus Meece, whose greedy exploitation of his prisoners led to the ordeal in the first place, and the Gemkat 6000's inventor, Dr. Greenbox, all the while randomly \"\"crystallizing\"\" every location he comes across. Can the SWAT Kats find a way to reverse Shard's condition before it's too late?",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11934.jpg",
+            "airDate": "October 30, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-9",
+            "title": "The Ghost Pilot",
+            "description": "The vengeful spirit of the Red Lynx, Mega War II air ace and the most evil pilot in aviation history, returns from his watery grave after his sunken biplane is found by dockworker and war veteran Abner Doolittle, intending to hunt down and kill the only living descendant of the flier who put him there, the Blue Manx. Said descendant is, of course, none other than Mayor Manx. Can even the Swat Kats shoot down the Red Lynx? And can Mayor Manx overcome his cowardice even to save his own life? He'll have to, especially once the ever-helpful Dr. Sinian discovers that only a relative of the Blue Manx, such as the Mayor, can destroy the Red Lynx for good.",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11935.jpg",
+            "airDate": "November 6, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-10",
+            "title": "Metal Urgency",
+            "description": "ofessor Hackle intends to reprogram the Metallikats to be good, but Mac and Molly escape from his lab before he can. In search of their armored hovercraft, the Metallikat Express, they wind up in the salvage yard near Jake 'n' Chance's Garage. There, they inadvertently discover the hidden Swat Kats hangar and thus uncover the secret identities of the vigilantes themselves! Chance and Jake, in their civvies, must defend their own base from the murderous, mechanical gangsters. Although their bodies are destroyed, the Metallikats survive as disembodied heads crawling around on spiderlike legs, and eventually take control of two Puma-Dyne Macrobots, giant and powerful space exploration robots, and begin to trash the city. Now, the Swat Kats must stop the Metallikats from revealing their secret and save the city!",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11936.jpg",
+            "airDate": "November 13, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-11",
+            "title": "The Ci-Kat-A",
+            "description": "Hitching a ride aboard the deep space probe Kat Sat 1, cicada-like aliens with pointed, cat-like ears take over the M.A.S.A. Space Center, biting the Kat Sat 1's creator, astronomer Dr. Harley Street, and others, turning them into literally bug-eyed slaves as part of their plan for world conquest. Ann Gora, seeking an interview with Dr. Street regarding the success of the Kat Sat 1, stumbles onto their plans and is quick to alert the authorities. It's up to the SWAT Kats (who else?) to thwart the invasion, with poor T-Bone fighting his fear of bugs every step of the way.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11937.jpg",
+            "airDate": "November 20, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-12",
+            "title": "Enter the Madkat",
+            "description": "Comedian Lenny Ringtail, whose mind snapped after he lost the title of \"\"King of Late Night\"\" to his rival David Litterbin, allows himself to be possessed by the ghost of Madkat, a jester who suffered a similar rejection hundreds of years ago. The result is a wisecracking, shapeshifting harlequin who uses his magical powers to kidnap the \"\"King,\"\" \"\"Queen,\"\" \"\"Knight\"\" and \"\"Jester,\"\" or Mayor Manx, Callie Briggs, Commander Feral and Litterbin, respectively, imprisoning all but Callie within a magic puzzle box and vanishing into thin air before the Swat Kats can stop him. Can they find his weakness in time to save Callie?",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11938.jpg",
+            "airDate": "November 27, 1993"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-episode-13",
+            "title": "Katastrophe",
+            "description": "After being beaten by the Swat Kats because they were too busy fighting each other, Dark Kat and Dr. Viper decide to team up and unite against their common enemies. They recruit the Metallikats to their cause, forming the Invincible Alliance of Evil, whose only purpose is to kill the Swat Kats once and for all. Kidnapping Mayor Manx and Callie, the villains give the Swat Kats an ultimateum - surrender by sunrise or risk the deaths of the hostages. Can the Swat Kats find a way to rescue Manx and Callie without giving themselves up? And will Commander Feral lend a helping hand?",
+            "number": "13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11939.jpg",
+            "airDate": "December 4, 1993"
+        }]
+}
