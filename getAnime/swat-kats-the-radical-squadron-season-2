@@ -1,0 +1,146 @@
+{
+	"id": "590",
+	"title": {
+		"romaji": "Swat Kats: The Radical Squadron Season 2",
+		"english": "Swat Kats: The Radical Squadron Season 2",
+		"native": "Swat Kats: The Radical Squadron Season 2"
+	},
+	"malId": 590,
+	"synonyms": ["Swat Kats: The Radical Squadron", "Swat Kats: The Radical Squadron Season 2"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"image": "https://artworks.thetvdb.com/banners/series/70545/posters/5e903622cbe71.jpg",
+	"popularity": 2084,
+	"color": "#e4a15d",
+	"cover": "https://artworks.thetvdb.com/banners/graphical/70545-g.jpg",
+	"description": "Swat Kats: The Radical Squadron was a short-lived cartoon show produced by Hanna-Barbera that first aired in September 1993. It revolved around the feline characters of Megakat City, and its two main characters were Jake Clawson and Chance Furlong, two pilots who were thrown out of the enforcers due to a mishap and forced to work as junkyard auto mechanics to repay the damages they caused. They decided they had to do more to make amends, and therefore, Jake Clawson designed the Turbokat and became the vigilantes known was the SWAT Kats. Jake, a.k.a Razor, was the weapons system officer and Chance, a.k.a T-bone, was the pilot. Together they protected Megakat City from many foes, such as Dark Kat, Dr. Viper, The Pastmaster, Mac and Molly, a.k.a. The Metallikats, and Hard Drive.",
+	"status": "Completed",
+	"releaseDate": 1993,
+	"startDate": {
+		"year": 1993,
+		"month": 9,
+		"day": 11
+	},
+	"endDate": {
+		"year": 1995,
+		"month": 4,
+		"day": 4
+	},
+	"totalEpisodes": 13,
+	"currentEpisode": 13,
+	"rating": 84,
+	"duration": 23,
+	"genres": ["Action", "Adventure", "Animation", "Children", "Family", "Sci Fi"],
+	"season": "SUMMER",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+            "id": "swat-kats-the-radical-squadron-season-2-episode-1",
+            "title": "Mutation City",
+            "description": "Dr. Viper floods Megakat City with Katalyst X-63, a \"\"hideous mutating ooze\"\" that turns normal animals into giant monsters. With the city submerged in slime and infested by huge, repulsive mutants, the Swat Kats must undertake a perilous mission to Megakat Biochemical Labs, where they must retrieve the antimutagens needed to restore everything to normal. T-Bone, who can't swim, nearly drowns in the slime, and later becomes a mutant himself when one of the creatures bites him. Worse, Dr. Viper eventually uses the katalyst on himself, turning into a skyscraper-sized monstrosity.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11940.jpg",
+            "airDate": "September 10, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-2",
+            "title": "A Bright and Shiny Future",
+            "description": "The Pastmaster returns and sends the Swat Kats through one of his time portals and into Megakat City's future, where Mac and Molly Mange rule a nightmare world of killer robots (called \"\"Metallitack Units\"\"), confining \"\"non-metallic creatures\"\" to slave labor camps, and the vigilantes' friends are rebel freedom-fighters. But the worst part is that the Swat Kats' future selves are dead, killed by the Metallikats when they took over. Now, it's up to the pilots from the past to set things right. But when the older Callie and Mayor Manx are kidnapped by the Metallitack Units, the Swat Kats form an uneasy alliance with the Pastmaster, who wants revenge against Mac and Molly for doublecrossing him. Together with Commander Feral and Felina, they storm Metallikat Headquarters.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11941.jpg",
+            "airDate": "September 17, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-3",
+            "title": "When Strikes Mutilor",
+            "description": "A group of alien space pirates, led by the evil Mutilor, arrive over the skies of Megakat City, planning to drain the planet's water using a ship stolen from a peaceful race of cat-like aliens called the Aquians, to sell to another race of aliens altogether, the Zarhabi. With the Turbokat still in repairs, the Swat Kats must employ other methods of battling against the invaders to defend their world.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11942.jpg",
+            "airDate": "September 24, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-4",
+            "title": "Razor's Edge",
+            "description": "Razor's self-confidence is shattered when he believes he has injured two elderly civilians during the Swat Kats' pursuit of Dark Kat. Discouraged, he quits the team, leaving T-Bone to face Dark Kat's latest evil plot alone. This time around, the criminal mastermind plans to destroy Megakat City with his robotic spider craft, the Black Widow, which grows bigger whenever it absorbs power! Can T-Bone succeed on his own, or will Razor regain his confidence and return to the SwatKats?",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11943.jpg",
+            "airDate": "October 29, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-5",
+            "title": "Cry Turmoil",
+            "description": "A new villain, Turmoil, attempts to seize control of the skies over Megakat City and ransom their use for the \"\"paltry sum\"\" of $2 million in gold each week. Backing her up is the Omega Squadron, her own private air force comprised entirely of female pilots, as well as the Vertigo Beam, a powerful ray cannon that causes pilots to become disoriented and crash. Obviously the Swat Kats are having none of this nonsense. When T-Bone both outflies the Omega Squadron and successfully recovers from the effects of the Vertigo Beam, Turmoil is impressed. She attempts to persuade him to join her side, and, truly remarkably, he accepts; first, though, he must prove his loyalty... by killing Razor!",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11944.jpg",
+            "airDate": "November 5, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-6",
+            "title": "Swat Kats Unplugged",
+            "description": "A hyena-like villain named Chopshop (voiced by Nick Chinlund) is being pursued by the SWAT Kats in his highly advanced helicopter. After a brief but intense aerial dogfight, the SWAT Kats manage to subdue Chopshop and hand him over to the Enforcers. Ann Gora interviews them and Razor comments on having the help of their high-tech gadgetry. Meanwhile, Hard Drive has somehow escaped and steals a recently invented anti-weapons scrambler from Pumadyne scientist Dr. Ohm. With this, Hard Drive prepares to steal the gold being transferred from the Megakat Mint to the City's banks on the newly constructed Megakat Railway. The SWAT Kats come to stop him, but all of their weapons are disabled by the weapons scramber. It is up to T-Bone and Razor to outwit rather than outgun their opponent and retrieve the gold.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/5684268.jpg",
+            "airDate": "November 5, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-7",
+            "title": "The Deadly Pyramid",
+            "description": "An archaeological expedition led by Dr. Abby Sinian in search of the Lost Pyramid of Katchu Pitchu instead encounters the Pastmaster, who unearths the pyramid by himself using the equally long-lost Jeweled Headdress of Katchu Pitchu in order to reanimate the dead monarch's army of giant mummy warriors. He sends them to destroy Megakat City and kill Mayor Manx, but when one of them knocks off Callie Briggs' glasses, he notices her resemblance to to his beloved Queen Callista. He soon abducts her and tries to force her to marry him, and only the Swat Kats can stop him, aided by a friendly robot named Cybertron given to them by Professor Hackle.",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11945.jpg",
+            "airDate": "November 12, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-8",
+            "title": "Caverns of Horror",
+            "description": "The Megakat Metallurgical Company has some problems: several of their miners have gone missing deep in the company's agracite mines. The Enforcers are called in to investigate by Taylor, the company's mining foreman, with Ann Gora tagging along incognito as a miner. When she too disappears, it's up to the Swat Kats, with help from Lt. Felina Feral, to enter the mines and find her. They soon discover the root of the problem, too - a horde of giant scorpions mutated by toxic waste that was illegally dumped by Megakat Metallurgical's president, Tiger Conklin.",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11946.jpg",
+            "airDate": "November 19, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-9",
+            "title": "Volcanus Erupts!",
+            "description": "Mayor Manx and Mr. Young plan to build an industrial park on tropical Anakata Island, but a bulldozer accidentally plows into and breaks breaks the sacred Talisman Stone, which is said to keep the demon Volcanus asleep within the island's central volcano. Naturally, the beast is soon set free and heads towards the mainland with the intent of smashing everything in sight. Only the Swat Kats can stop him, but Volcanus is impervious to almost everything! Can he be stopped before he destroys the Megakat Nuclear Plant?",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11947.jpg",
+            "airDate": "November 26, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-10",
+            "title": "The Origin of Dr. Viper",
+            "description": "Dr. N. Zyme and Dr. Elrod Purvis engineer Viper Mutagen 368, a regenerative growth formula. Zyme imagines the benefits of the mutagen to mankind and tells Purvis he could not have done it without him. Purvis is uncaring, and only wants to sell the mutagen to the highest bidder and become rich. Zyme leaves the lab and Purvis steals the mutagen and its research for himself, only to be discovered by Zyme and pursued into the building's stairwell. Purvis trips down the stairs and becomes covered in the growth formula. He then collapses, supposedly dead and is taken to the morgue. Dr. Zyme discovers that the mutagen is ineffective and mutates its host into an evil monstrosity. Purvis is mutated by the formula and becomes Dr. Viper, taking his name from the mutagen itself. He then proceeds to apply the mutagen to mosquitos and honey bees to attack those responsible for his mutation.",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/5684264.jpg",
+            "airDate": "November 26, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-11",
+            "title": "The Dark Side of the Swat Kats",
+            "description": "A stray lightening bolt hits the Turbokat while the Swat Kats are testing their new dimensional radar system, which results in them being hurled into an alternate dimension where evil versions of themselves are not only wanted for just about every crime in Megakat City, but are also working for Dark Kat. Mistaken for the Dark Swat Kats by Dark Kat, T-Bone and Razor are sent to Puma-Dyne to steal the Mega-Detonator, a key component for an implosion bomb which the criminal mastermind plans to use to destroy Enforcer Headquarters. When Dark Kat realizes he's been had, he sends the real Dark Swat Kats to kill their good counterparts and acquire the Mega-Detonator. Making things even more complicated for the vigilante duo are the fact that Callie Briggs is also evil and in on Dark Kat's plot, but the Enforcers mistake them for the Dark Swat Kats and are after them, too.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11948.jpg",
+            "airDate": "December 10, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-12",
+            "title": "Unlikely Alloys",
+            "description": "The Swat Kats stop the Metallikats from robbing the Megakat City Mint, and in the process the two robot gangsters are severely injured, Molly moreso than Mac. When Mac finds out about Dr. Lieter Greenbox's new invention, the Micro-Brain Repair Unit which can fix anything, he immediately takes himself and Molly to Greenbox's lab and steals the device. The Metallikats use it to repair themselves, but in the process the device becomes contaminated by their criminal programming. Achieving sentience, it names itself Zed and proceeds to go on a citywide rampage, assimilating all manner of metal and machinery (including Mac!) onto itself, constructing an ever-growing armored shell. Naturally, only the Swat Kats can stop Zed, with some help from a vengeful Molly. Unfortunately, Zed's next stop is Puma-Dyne, where it plans to get its hands on the Mega-Beam laser weapon. Worse, Greenbox has become so impressed by what his genius has wrought that he's gone completely looney-tunes and is doing eve",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/70545/11949.jpg",
+            "airDate": "December 24, 1994"
+        },
+        {
+            "id": "swat-kats-the-radical-squadron-season-2-episode-13",
+            "title": "Kat's Eye News Report",
+            "description": "The finale of the Swat Kats series arrives, as Ann Gora, Tiger Shark, and Tom Cat, report on all the historical adventures of the Swat Kats. T-Bone and Razor are highlighted in several instances with the numerous weapons and vehicles they operate, along with certian maneuvers they perform to get away from trouble. During the show, several questions are mentioned in the SKIQ, The Swat Kats Inside Quiz. Subjects include a multiple choice Q and A with a situation pops out, a situation based exam on what you would do if you were the Swat Kats, and then a segement called \"Name That Villan\".",
+            "number": "13",
+            "image": "https://thetvdb.com/images/missing/episode.jpg",
+            "airDate": "January 4, 1995"
+        }]
+}
