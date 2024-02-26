@@ -742,6 +742,19 @@
             "isAdult": true
         },
         {
+            "animeId": "jujutsu-kaisen-season-2-hindi",
+            "episodeId": "jujutsu-kaisen-season-2-hindi-episode-1",
+            "name": "Jujutsu Kaisen 2nd Season - Hindi",
+            "jname": "JUJUTSU KAISEN Season 2 - Hindi",
+            "hindi": "23",
+            "totalEpisodes": "23",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-oNJZtLWdXtvy.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/jujutsu-kaisen-season-2-hindi",
+            "genres": ["Action", "Drama", "Supernatural"],
+            "isAdult": true
+        },
+        {
             "animeId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen",
             "episodeId": "chuukou-ikkan-kimetsu-gakuen-monogatari-kimetsu-no-utage-tokubetsuhen-episode-1",
             "name": "Junior High and High School!! Kimetsu Academy Story",
@@ -1951,6 +1964,19 @@
             "isAdult": false
         },
         {
+            "animeId": "spy-x-family-hindi",
+            "episodeId": "spy-x-family-hindi-episode-1",
+            "name": "SPY x FAMILY - Hindi",
+            "jname": "SPY×FAMILY - Hindi",
+            "hindi": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/spy-x-family-hindi",
+            "genres": ["Action", "Comedy", "Slice of Life", "Supernatural"],
+            "isAdult": false
+        },
+        {
             "animeId": "spy-x-family-part-2",
             "episodeId": "spy-x-family-part-2-episode-1",
             "name": "SPY x FAMILY Cour 2",
@@ -1976,6 +2002,32 @@
             "type": "tv",
             "episodeUrl": "anime/spy-x-family-season-2",
             "genres": ["Action", "Comedy", "Slice of Life", "Supernatural"],
+            "isAdult": false
+        },
+        {
+            "animeId": "swat-kats-the-radical-squadron",
+            "episodeId": "swat-kats-the-radical-squadron-episode-1",
+            "name": "Swat Kats: The Radical Squadron",
+            "jname": "Swat Kats: The Radical Squadron",
+            "dub": "13",
+            "totalEpisodes": "13",
+            "imgUrl": "https://artworks.thetvdb.com/banners/posters/70545-1.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/swat-kats-the-radical-squadron",
+            "genres": ["Action", "Adventure", "Animation", "Children", "Family", "Sci Fi"],
+            "isAdult": false
+        },
+        {
+            "animeId": "swat-kats-the-radical-squadron-season-2",
+            "episodeId": "swat-kats-the-radical-squadron-season-2-episode-1",
+            "name": "Swat Kats: The Radical Squadron Season 2",
+            "jname": "Swat Kats: The Radical Squadron Season 2",
+            "dub": "13",
+            "totalEpisodes": "13",
+            "imgUrl": "https://artworks.thetvdb.com/banners/series/70545/posters/5e903622cbe71.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/swat-kats-the-radical-squadron-season-2",
+            "genres": ["Action", "Adventure", "Animation", "Children", "Family", "Sci Fi"],
             "isAdult": false
         },
         {
