@@ -113,7 +113,7 @@
         {
             "animeId": "assassination-classroom-extracurricular-lesson",
             "episodeId": "assassination-classroom-extracurricular-lesson-episode-1",
-            "name": "Assassination Classroom: Extracurricular Lesson",
+            "name": "Assassination Classroom: Extracurricular Lesson",
             "jname": "Ansatsu Kyoushitsu 2: Kagaijugyou-hen",
             "sub": "8",
             "totalEpisodes": "8",
@@ -1906,6 +1906,19 @@
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png",
             "type": "tv",
             "episodeUrl": "anime/solo-leveling",
+            "genres": ["Action", "Adventure", "Fantasy"],
+            "isAdult": false
+        },
+        {
+            "animeId": "solo-leveling-recap",
+            "episodeId": "solo-leveling-recap-episode-1",
+            "name": "Solo Leveling: How to Get Stronger",
+            "jname": "Ore dake Level Up na Ken - Special",
+            "sub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://artworks.thetvdb.com/banners/v4/series/389597/posters/6419bffcab0b7.jpg",
+            "type": "special",
+            "episodeUrl": "anime/solo-leveling-recap",
             "genres": ["Action", "Adventure", "Fantasy"],
             "isAdult": false
         },
