@@ -60,7 +60,38 @@
     ],
     "subOrDub": "hindi",
     "type": "TV",
-    "recommendations": [],
+    "recommendations": [{
+      "id": 113415,
+      "malId": 40748,
+      "title": {
+        "romaji": "Jujutsu Kaisen - Hindi",
+		"english": "JUJUTSU KAISEN - Hindi",
+		"native": "呪術廻戦"
+      },
+      "status": "Completed",
+      "episodes": 24,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113415-jQBSkxWAAk83.jpg",
+      "rating": 86,
+      "type": "tv",
+	  "animeurl": "jujutsu-kaisen-tv-hindi"
+    },
+	{
+      "id": 145064,
+      "malId": 51009,
+      "title": {
+        "romaji": "Jujutsu Kaisen 2nd Season - Hindi",
+		"english": "Jujutsu Kaisen Season 2 - Hindi",
+		"native": "呪術廻戦 第2期"
+      },
+      "status": "Completed",
+      "episodes": 23,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-kH9vbOEitIhl.jpg",
+      "rating": 88,
+      "type": "TV",
+	  "animeurl": "jujutsu-kaisen-season-2-hindi"
+    }],
     "characters": [
         {
             "id": 127691,
