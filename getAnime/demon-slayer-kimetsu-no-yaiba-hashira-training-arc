@@ -435,5 +435,13 @@
             "rating": 80
         }
     ],
-    "episodes": []
+    "episodes": [{
+            "id": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc-episode-1",
+            "title": "Movie",
+            "image": "https://artworks.thetvdb.com/banners/v4/movie/353771/backgrounds/65db1beebb3fe.jpg",
+            "imageHash": "hash",
+            "number": 1,
+            "createdAt": "February 2, 2024",
+            "description": ""
+        }]
 }
