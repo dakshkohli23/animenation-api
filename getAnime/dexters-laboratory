@@ -1,0 +1,346 @@
+{
+	"id": "4229",
+	"title": {
+		"romaji": "Dexter's Laboratory",
+		"english": "Dexter's Laboratory",
+		"native": "Dexter's Laboratory"
+	},
+	"malId": 4229,
+	"synonyms": ["Dexter's Laboratory"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"image": "https://artworks.thetvdb.com/banners/posters/77305-3.jpg",
+	"popularity": 2084,
+	"color": "#e4a15d",
+	"cover": "https://artworks.thetvdb.com/banners/fanart/original/77305-2.jpg",
+	"description": "Dexter's Laboratory is the story of a young boy prodigy. Born with an extraordinary mind, Dexter has built his very own extremely high tech and expansive laboratory in his room that NASA could only dream of. But Dexter has to keep his lab a secret for fear others will exploit it. Through out the years, Dexter has had to hide his lab from his parents and others but it is no easy task. All Dexter wants is to spend all the time he can inventing new things in his lab, but between his stupid and annoying older sister Dee Dee constantly barging into his lab and tearing up the place and his arch enemy and rival genius Mandark constantly tiring to take over his lab, Dexter's life is anything but easy. Dexter's Laboratory was originally premiered on Cartoon Network as part of the inaugural, Space Ghost hosted, 'World Premiere Toons' before becoming a feature with two full shorts on the regular series, a.k.a. the What a Cartoon Show, it eventually became a series itself. Character",
+	"status": "Completed",
+	"releaseDate": 1996,
+	"startDate": {
+		"year": 1996,
+		"month": 4,
+		"day": 28
+	},
+	"endDate": {
+		"year": 2003,
+		"month": 11,
+		"day": 20
+	},
+	"totalEpisodes": 38,
+	"currentEpisode": 38,
+	"rating": 79,
+	"duration": 7,
+	"genres": ["Adventure", "Animation", "Children", "Comedy", "Family", "Sci Fi"],
+	"season": "SPRING",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+            "id": "dexters-laboratory-episode-1",
+            "title": "DeeDeemensional",
+            "description": "In \"Deedeemensional\", Dee Dee time-travels to save Dexter from a monster. In \"Magmanamus\", Monkey goes up against a lava being that dislikes human-caused noise. In \"Maternal Combat\", when his mother falls, Dexter creates a robot mom to substitute for her.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268717.jpg",
+            "airDate": "April 28, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-2",
+            "title": "Dial M for Monkey: Magmanamus",
+            "description": "Monkey must defend the city from a giant underground lava monster, Magmanamus, who cannot sleep because of the noise created by its residents.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/633751.jpg",
+            "airDate": "April 28, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-3",
+            "title": "Maternal Combat",
+            "description": "When his mother falls ill, Dexter creates a robot to do her chores. Dee Dee gets hold of its remote control and wreaks havoc, forcing Dexter to create a second robot to counter Dee Dee's.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268712.jpg",
+            "airDate": "April 28, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-4",
+            "title": "Dexter Dodgeball",
+            "description": "Dexter is forced to play dodgeball by his P. E. teacher. Constantly failing, Dexter builds a robotic exoskeleton to defend himself.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268724.jpg",
+            "airDate": "May 5, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-5",
+            "title": "Dial M for Monkey: Rasslor",
+            "description": "Intergalactic wrestling champion Rasslor challenges Earth's superheroes, including Monkey, with the planet's fate at stake.",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/633821.jpg",
+            "airDate": "May 5, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-6",
+            "title": "Dexter's Assistant",
+            "description": "In need of an assistant to operate his latest invention, Dexter performs a brain transplant on Dee Dee to make her smart enough to fulfill the role. With her new brain, Dee Dee proves to be more intelligent than Dexter.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/633831.jpg",
+            "airDate": "May 5, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-7",
+            "title": "Dexter's Rival",
+            "description": "Mandark Astronomanov, a new student at Dexter's school, seems to be superior to Dexter academically. Mandark forces Dexter to shut down his lab so that Mandark's lab can gain more power. However, with the help of Dee Dee, Dexter manages to destroy Mandark's lab.",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/443321.jpg",
+            "airDate": "May 12, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-8",
+            "title": "Dial M for Monkey: Simion",
+            "description": "Monkey encounters Simion, an intelligent anthropomorphic chimpanzee who seeks vengeance on humans for turning him into his current state.",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/633811.jpg",
+            "airDate": "May 12, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-9",
+            "title": "Old Man Dexter",
+            "description": "Banned from watching a late-night movie due to his young age, Dexter uses his technology to artificially grow into adulthood, but Dee Dee tampers with his machine, causing Dexter to turn into an old man.",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/633741.jpg",
+            "airDate": "May 12, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-10",
+            "title": "Double Trouble",
+            "description": "Dee Dee and her friends, Lee Lee and Mee Mee, enter Dexter's lab and wreak havoc. Dexter clones himself to stop them, but the girls too make clones of themselves.",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268731.jpg",
+            "airDate": "May 19, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-11",
+            "title": "Dial M for Monkey: Barbequor",
+            "description": "Monkey's birthday party is interrupted by Barbequor an intergalactic villain who plans to eat the planets, and his sidekick, the Silver Spooner.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268737.jpg",
+            "airDate": "May 19, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-12",
+            "title": "Changes",
+            "description": "Rerun of \"Dexter's Laboratory\", the first \"What a Cartoon!\" pilot.",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/633721.jpg",
+            "airDate": "May 19, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-13",
+            "title": "Jurassic Pooch",
+            "description": "To clone a dinosaur with an incomplete DNA sequence, Dexter uses his dog's genetic code to fill in the gaps.",
+            "number": "13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268710.jpg",
+            "airDate": "May 26, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-14",
+            "title": "Dial M For Monkey: Orgon Grindor",
+            "description": "While on a date with Agent Honeydew, Monkey gets hypnotized by the music of the Organ Grindor who commands him to rob Fort Knox.",
+            "number": "14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268721.jpg",
+            "airDate": "May 26, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-15",
+            "title": "Dimwit Dexter",
+            "description": "Due to overworking his brain, Dexter's mind shuts down, making him act idiotic.",
+            "number": "15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268722.jpg",
+            "airDate": "May 26, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-16",
+            "title": "Dee Dee's Room",
+            "description": "After Dee Dee steals his critical invention, Dexter ventures into her room to find it.",
+            "number": "16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268707.jpg",
+            "airDate": "June 2, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-17",
+            "title": "Dial M For Monkey: Huntor",
+            "description": "Monkey encounters an alien hunter named Huntor and must fight him to save Agent Honeydew and Commander Chief.",
+            "number": "17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268711.jpg",
+            "airDate": "June 2, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-18",
+            "title": "The Big Sister",
+            "description": "Rerun of the second \"What a Cartoon!\" pilot.",
+            "number": "18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/633731.jpg",
+            "airDate": "June 2, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-19",
+            "title": "Star Spangled Sidekicks",
+            "description": "Dexter and Dee Dee enter tryouts to become Major Glory's sidekick. When Dee Dee wins, Dexter realizes that fancy costumes are not the only criterion to become a superhero.",
+            "number": "19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268708.jpg",
+            "airDate": "November 20, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-20",
+            "title": "The Justice Friends: TV Super Pals",
+            "description": "With only one television in their apartment, Major Glory, Krunk, and Valhallen disagree on what to watch: Major Glory's televised capture of the Disgruntled Postman, TV Puppet Pals, or the monster truck pull.",
+            "number": "20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268726.jpg",
+            "airDate": "November 20, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-21",
+            "title": "Game Over",
+            "description": "Dexter and Dee Dee's father buys a video game for them to play, but the game sucks Dexter inside when he plugs in the cartridge, and it is up to Dee Dee to bring him out.",
+            "number": "21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268727.jpg",
+            "airDate": "November 20, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-22",
+            "title": "Babysitter Blues",
+            "description": "Dexter has a crush on his teenage babysitter Lisa. When he finds out that she has a boyfriend, he sabotages their relationship and accelerates his age by ten years in an attempt to win her heart.",
+            "number": "22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268709.jpg",
+            "airDate": "November 27, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-23",
+            "title": "The Justice Friends: Valhallen's Room",
+            "description": "Valhallen loses his magic ax and starts turning into a nerd, forcing Major Glory and Krunk to enter his room to find it.",
+            "number": "23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268729.jpg",
+            "airDate": "November 27, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-24",
+            "title": "Dream Machine",
+            "description": "When Dexter's nightmares become frequent and problematic, he invents a machine that allows him to have nice dreams, as long as Dee Dee can operate it properly while she is awake.",
+            "number": "24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268730.jpg",
+            "airDate": "November 27, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-25",
+            "title": "Dollhouse Drama",
+            "description": "Suspicious that Dee Dee has not entered his lab even once on a particular day, Dexter shrinks himself and enters her room to spy on her. He soon becomes an unwilling character in Dee Dee's doll story, but he believes the story to be real.",
+            "number": "25",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268720.jpg",
+            "airDate": "December 4, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-26",
+            "title": "The Justice Friends: Krunk's Date",
+            "description": "While fighting Comrade Red and his gang, Krunk falls in love with his equivalent in their gang, She-Thing.",
+            "number": "26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268732.jpg",
+            "airDate": "December 4, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-27",
+            "title": "The Big Cheese",
+            "description": "Dexter's new device allows him to study for the next day's French test while sleeping. It malfunctions, causing a single phrase -omelette du fromage- to repeat throughout the night, causing Dexter to wake up the next morning speaking nothing else except \"omelette du fromage\".",
+            "number": "27",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268733.jpg",
+            "airDate": "December 4, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-28",
+            "title": "Way of the Dee Dee",
+            "description": "Dee Dee teaches Dexter how to live life her way instead of being lonely and purely focused on science.",
+            "number": "28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268723.jpg",
+            "airDate": "December 11, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-29",
+            "title": "The Justice Friends: Say Uncle Sam",
+            "description": "Major Glory forces Krunk and Valhallen to tidy up their apartment for his Uncle Sam, who is coming over for a visit.",
+            "number": "29",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268735.jpg",
+            "airDate": "December 11, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-30",
+            "title": "Tribe Called Girl",
+            "description": "To learn more about girls, Dexter camouflages himself and enters Dee Dee's room, where she is having a sleepover with her friends Lee Lee and Mee Mee. He gets caught by the girls, who force him to take part in their activities.",
+            "number": "30",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268736.jpg",
+            "airDate": "December 11, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-31",
+            "title": "Spacecase",
+            "description": "To prevent himself from being taken away by aliens for experimentation, Dexter tricks Dee Dee into going instead, but he regrets his decision after realizing how much he cares for her.",
+            "number": "31",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268725.jpg",
+            "airDate": "December 18, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-32",
+            "title": "The Justice Friends: Ratman",
+            "description": "To fix their apartment's plumbing, Krunk and Valhallen go to the basement, where they meet Ratman, a diminutive vigilante raised by rats (a parody of Batman).",
+            "number": "32",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268738.jpg",
+            "airDate": "December 18, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-33",
+            "title": "Dexter's Debt",
+            "description": "Dexter's lab is threatened with repossession unless he can repay his debt to NASA. When Dee Dee wins the same amount in a lottery, he decides to steal her money out of desperation.",
+            "number": "33",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268739.jpg",
+            "airDate": "December 18, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-34",
+            "title": "The Justice Friends: Bee Where?",
+            "description": "Major Glory, Krunk, and Valhallen try to rid their apartment of a bee.",
+            "number": "34",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268740.jpg",
+            "airDate": "December 25, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-35",
+            "title": "Mandarker",
+            "description": "Following the destruction of his lab by Dexter and Dee Dee (in the episode Dexter's Rival), Mandark turns to magic to beat Dexter at the science fair.",
+            "number": "35",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268741.jpg",
+            "airDate": "December 25, 1996"
+        },
+        {
+            "id": "dexters-laboratory-episode-36",
+            "title": "Inflata Dee Dee",
+            "description": "Dee Dee inflates Dexter's hydro-plasmatic suit and constantly floats in the air, prompting Dexter to bring her down.",
+            "number": "36",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268715.jpg",
+            "airDate": "January 1, 1997"
+        },
+        {
+            "id": "dexters-laboratory-episode-37",
+            "title": "The Justice Friends: Can't Nap",
+            "description": "After fellow Justice Friend White Tiger helps Valhallen stop a super-villain, the latter invites him to spend the night in his apartment, forgetting that Major Glory is allergic to cats.",
+            "number": "37",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268743.jpg",
+            "airDate": "January 1, 1997"
+        },
+        {
+            "id": "dexters-laboratory-episode-38",
+            "title": "Monstory",
+            "description": "Not interested in hearing Dee Dee's long-winded story, Dexter gives her a silencing formula to keep her quiet, but it instead turns her into a giant monster still bent on telling her story. When he realizes that nothing can make her quiet, he becomes a giant monster himself.",
+            "number": "38",
+            "image": "https://artworks.thetvdb.com/banners/episodes/77992/268744.jpg",
+            "airDate": "January 1, 1997"
+        }]
+}
