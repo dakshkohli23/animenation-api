@@ -111,15 +111,16 @@
             "isAdult": false
         },
         {
-            "animeId": "assassination-classroom-extracurricular-lesson",
-            "episodeId": "assassination-classroom-extracurricular-lesson-episode-1",
-            "name": "Assassination Classroom: Extracurricular Lesson",
-            "jname": "Ansatsu Kyoushitsu 2: Kagaijugyou-hen",
-            "sub": "8",
-            "totalEpisodes": "8",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21678-tr1yaarb2oV3.jpg",
-            "type": "ona",
-            "episodeUrl": "anime/assassination-classroom-extracurricular-lesson",
+            "animeId": "assassination-classroom-the-movie-365-days-time",
+            "episodeId": "assassination-classroom-the-movie-365-days-time-episode-1",
+            "name": "Assassination Classroom the Movie: 365 Days‘ Time",
+            "jname": "Ansatsu Kyoushitsu Movie: 365-Nichi no Jikan",
+            "sub": "1",
+            "dub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101102-3J3GRv1D9MGL.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/assassination-classroom-the-movie-365-days-time",
             "genres": ["Action", "Comedy", "Supernatural"],
             "isAdult": false
         },
@@ -138,16 +139,15 @@
             "isAdult": false
         },
         {
-            "animeId": "assassination-classroom-the-movie-365-days-time",
-            "episodeId": "assassination-classroom-the-movie-365-days-time-episode-1",
-            "name": "Assassination Classroom the Movie: 365 Days‘ Time",
-            "jname": "Ansatsu Kyoushitsu Movie: 365-Nichi no Jikan",
-            "sub": "1",
-            "dub": "1",
-            "totalEpisodes": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101102-3J3GRv1D9MGL.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/assassination-classroom-the-movie-365-days-time",
+            "animeId": "assassination-classroom-extracurricular-lesson",
+            "episodeId": "assassination-classroom-extracurricular-lesson-episode-1",
+            "name": "Assassination Classroom: Extracurricular Lesson",
+            "jname": "Ansatsu Kyoushitsu 2: Kagaijugyou-hen",
+            "sub": "8",
+            "totalEpisodes": "8",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21678-tr1yaarb2oV3.jpg",
+            "type": "ona",
+            "episodeUrl": "anime/assassination-classroom-extracurricular-lesson",
             "genres": ["Action", "Comedy", "Supernatural"],
             "isAdult": false
         },
@@ -409,20 +409,6 @@
             "isAdult": true
         },
         {
-            "animeId": "black-lagoon-the-second-barrage",
-            "episodeId": "black-lagoon-the-second-barrage-episode-1",
-            "name": "Black Lagoon: The Second Barrage",
-            "jname": "BLACK LAGOON: The Second Barrage",
-            "sub": "12",
-            "dub": "12",
-            "totalEpisodes": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1519-cScqJxQW3LNL.png",
-            "type": "tv",
-            "episodeUrl": "anime/black-lagoon-the-second-barrage",
-            "genres": ["Action", "Adventure", "Drama", "Thriller"],
-            "isAdult": true
-        },
-        {
             "animeId": "black-lagoon-robertas-blood-trail",
             "episodeId": "black-lagoon-robertas-blood-trail-episode-1",
             "name": "Black Lagoon: Roberta's Blood Trail",
@@ -433,6 +419,20 @@
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4901-evMxxc1A8pCF.jpg",
             "type": "ova",
             "episodeUrl": "anime/black-lagoon-robertas-blood-trail",
+            "genres": ["Action", "Adventure", "Drama", "Thriller"],
+            "isAdult": true
+        },
+        {
+            "animeId": "black-lagoon-the-second-barrage",
+            "episodeId": "black-lagoon-the-second-barrage-episode-1",
+            "name": "Black Lagoon: The Second Barrage",
+            "jname": "BLACK LAGOON: The Second Barrage",
+            "sub": "12",
+            "dub": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1519-cScqJxQW3LNL.png",
+            "type": "tv",
+            "episodeUrl": "anime/black-lagoon-the-second-barrage",
             "genres": ["Action", "Adventure", "Drama", "Thriller"],
             "isAdult": true
         },
@@ -535,6 +535,19 @@
             "isAdult": true
         },
         {
+            "animeId": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
+            "episodeId": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc-episode-1",
+            "name": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+            "jname": "Kimetsu no Yaiba: Hashira Geiko-hen",
+            "sub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-2XbSZkWX6Dqe.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
+            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Mystery", "Supernatural"],
+            "isAdult": true
+        },
+        {
             "animeId": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc",
             "episodeId": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc-episode-1",
             "name": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
@@ -563,17 +576,17 @@
             "isAdult": true
         },
         {
-            "animeId": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
-            "episodeId": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc-episode-1",
-            "name": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
-            "jname": "Kimetsu no Yaiba: Hashira Geiko-hen",
-            "sub": "1",
-            "totalEpisodes": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-2XbSZkWX6Dqe.jpg",
+            "animeId": "dexters-laboratory",
+            "episodeId": "dexters-laboratory-episode-1",
+            "name": "Dexter's Laboratory",
+            "jname": "Dexter's Laboratory",
+            "dub": "38",
+            "totalEpisodes": "38",
+            "imgUrl": "https://artworks.thetvdb.com/banners/posters/77992-1.jpg",
             "type": "tv",
-            "episodeUrl": "anime/demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
-            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Mystery", "Supernatural"],
-            "isAdult": true
+            "episodeUrl": "anime/dexters-laboratory",
+            "genres": ["Adventure", "Animation", "Children", "Comedy", "Family", "Sci Fi"],
+            "isAdult": false
         },
         {
             "animeId": "dr-stone",
@@ -741,6 +754,19 @@
             "isAdult": true
         },
         {
+            "animeId": "jujutsu-kaisen-season-2-hindi",
+            "episodeId": "jujutsu-kaisen-season-2-hindi-episode-1",
+            "name": "Jujutsu Kaisen 2nd Season - Hindi",
+            "jname": "JUJUTSU KAISEN Season 2 - Hindi",
+            "hindi": "23",
+            "totalEpisodes": "23",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-oNJZtLWdXtvy.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/jujutsu-kaisen-season-2-hindi",
+            "genres": ["Action", "Drama", "Supernatural"],
+            "isAdult": true
+        },
+        {
             "animeId": "jujutsu-kaisen-season-2",
             "episodeId": "jujutsu-kaisen-season-2-episode-1",
             "name": "Jujutsu Kaisen Season 2",
@@ -751,19 +777,6 @@
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
             "type": "tv",
             "episodeUrl": "anime/jujutsu-kaisen-season-2",
-            "genres": ["Action", "Drama", "Supernatural"],
-            "isAdult": true
-        },
-        {
-            "animeId": "jujutsu-kaisen-season-2-hindi",
-            "episodeId": "jujutsu-kaisen-season-2-hindi-episode-1",
-            "name": "Jujutsu Kaisen 2nd Season - Hindi",
-            "jname": "JUJUTSU KAISEN Season 2 - Hindi",
-            "hindi": "23",
-            "totalEpisodes": "23",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-oNJZtLWdXtvy.jpg",
-            "type": "tv",
-            "episodeUrl": "anime/jujutsu-kaisen-season-2-hindi",
             "genres": ["Action", "Drama", "Supernatural"],
             "isAdult": true
         },
