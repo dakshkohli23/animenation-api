@@ -563,6 +563,19 @@
             "isAdult": true
         },
         {
+            "animeId": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
+            "episodeId": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc-episode-1",
+            "name": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+            "jname": "Kimetsu no Yaiba: Hashira Geiko-hen",
+            "sub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-2XbSZkWX6Dqe.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
+            "genres": ["Action", "Adventure", "Drama", "Fantasy", "Mystery", "Supernatural"],
+            "isAdult": true
+        },
+        {
             "animeId": "dr-stone",
             "episodeId": "dr-stone-episode-1",
             "name": "Dr. STONE",
