@@ -2004,6 +2004,19 @@
             "isAdult": false
         },
         {
+            "animeId": "spy-x-family-part-2-hindi",
+            "episodeId": "spy-x-family-part-2-hindi-episode-1",
+            "name": "SPY x FAMILY Cour 2 - Hindi",
+            "jname": "SPY×FAMILY Part 2 - Hindi",
+            "hindi": "13",
+            "totalEpisodes": "13",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142838-ECZSqfknAqAT.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/spy-x-family-part-2-hindi",
+            "genres": ["Action", "Comedy", "Slice of Life", "Supernatural"],
+            "isAdult": false
+        },
+        {
             "animeId": "spy-x-family-season-2",
             "episodeId": "spy-x-family-season-2-episode-1",
             "name": "SPY x FAMILY Season 2",
