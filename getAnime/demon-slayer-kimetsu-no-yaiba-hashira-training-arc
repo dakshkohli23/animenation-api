@@ -29,18 +29,18 @@
     "releaseDate": 2024,
     "startDate": {
         "year": 2024,
-        "month": 0,
-        "day": 0
+        "month": 2,
+        "day": 2
     },
     "endDate": {
         "year": 2024,
-        "month": 0,
-        "day": 0
+        "month": 2,
+        "day": 2
     },
-    "totalEpisodes": "-",
-    "currentEpisode": "-",
-    "rating": "-",
-    "duration": "-",
+    "totalEpisodes": "1",
+    "currentEpisode": "1",
+    "rating": "68",
+    "duration": "103",
     "genres": [
         "Action",
         "Adventure",
