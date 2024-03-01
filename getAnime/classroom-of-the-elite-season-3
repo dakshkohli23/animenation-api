@@ -45,7 +45,7 @@
         "episode": 2
     },
     "totalEpisodes": 13,
-    "currentEpisode": 8,
+    "currentEpisode": 9,
     "rating": 78,
     "duration": 22,
     "genres": [
@@ -585,8 +585,15 @@
             "id": "classroom-of-the-elite-season-3-episode-8",
             "title": "Those who cannot remember the past are condemned to repeat it.",
             "description": "After conversing with her brother Manabu, Horikita offers Yamauchi name as the one who should be expelled. Not only has he made few contributions to the class, but he also worked with Sakayanagi in Class A to expel Ayanokoji.",
-            "number": "7",
+            "number": "8",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10160758/screencap/65d47e44d732a.jpg",
             "airDate": "February 21, 2024"
+        },{
+            "id": "classroom-of-the-elite-season-3-episode-9",
+            "title": "Extreme justice is extreme injustice.",
+            "description": "The class vote has seen the first student expelled from Class C. Sakayanagi meets up with Ayanokoji and they're approached by a man named Tsukishiro sent by Ayanokoji's father. Afterward Ayanokoji challenges Sakayanagi to compete on their next exam.",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10160759/screencap/65ddcd24ef719.jpg",
+            "airDate": "February 28, 2024"
         }]
 }
