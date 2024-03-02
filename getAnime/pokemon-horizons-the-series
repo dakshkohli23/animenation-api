@@ -38,7 +38,7 @@
 		"episode": 7
 	},
 	"totalEpisodes": 42,
-	"currentEpisode": 40,
+	"currentEpisode": 41,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -920,5 +920,12 @@
             "description": "",
             "number": "40",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10299917/screencap/65cf12a148442.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-41",
+            "title": "Enter the Intense Mom!",
+            "description": "",
+            "number": "41",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10299918/screencap/65e1f1eee05d4.jpg"
         }]
 }
