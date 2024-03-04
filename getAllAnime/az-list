@@ -1935,12 +1935,25 @@
             "isAdult": false
         },
         {
+            "animeId": "the-looney-tunes-show-2011",
+            "episodeId": "the-looney-tunes-show-2011-episode-1",
+            "name": "The Looney Tunes Show",
+            "jname": "The Looney Tunes Show",
+            "hindi": "26",
+            "totalEpisodes": "26",
+            "imgUrl": "https://artworks.thetvdb.com/banners/posters/248368-6.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/the-looney-tunes-show-2011",
+            "genres": ["Adventure", "Animation", "Children", "Comedy", "Family"],
+            "isAdult": false
+        },
+        {
             "animeId": "solo-leveling",
             "episodeId": "solo-leveling-episode-1",
             "name": "Solo Leveling",
             "jname": "Ore dake Level Up na Ken",
-            "sub": "7",
-            "dub": "5",
+            "sub": "8",
+            "dub": "7",
             "totalEpisodes": "12",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png",
             "type": "tv",
@@ -2110,4 +2123,4 @@
             "genres": ["Action", "Drama", "Romance", "Supernatural"],
             "isAdult": true
         }
-    ]
+]
