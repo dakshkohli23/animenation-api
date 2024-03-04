@@ -44,7 +44,7 @@
         "episode": 2
     },
     "totalEpisodes": 12,
-    "currentEpisode": 7,
+    "currentEpisode": 8,
     "rating": 82,
     "duration": 24,
     "genres": [
@@ -653,6 +653,15 @@
             "number": 7,
             "createdAt": null,
             "description": "As Jinwoo continues his training, he completes a daily quest one day by doing more than the quest requires, and a key that leads to a certain item appears in front of him."
+        },
+        {
+            "id": "solo-leveling-episode-8",
+            "title": "This Is Frustrating",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10190447/screencap/65e0a0bd1eb41.jpg",
+            "imageHash": "hash",
+            "number": 8,
+            "createdAt": null,
+            "description": "Jinwoo answers a Hunter's Association request to take part in the raid of a D-Rank dungeon, where he encounters a few familiar faces."
         }
     ]
 }
