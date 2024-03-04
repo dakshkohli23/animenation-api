@@ -2070,15 +2070,15 @@
             "isAdult": false
         },
         {
-            "animeId": "the-looney-tunes-show-2011",
-            "episodeId": "the-looney-tunes-show-2011-episode-1",
+            "animeId": "the-looney-tunes-show-2011-hindi",
+            "episodeId": "the-looney-tunes-show-2011-hindi-episode-1",
             "name": "The Looney Tunes Show - Hindi",
             "jname": "The Looney Tunes Show - Hindi",
             "hindi": "26",
             "totalEpisodes": "26",
             "imgUrl": "https://artworks.thetvdb.com/banners/posters/248368-6.jpg",
             "type": "tv",
-            "episodeUrl": "anime/the-looney-tunes-show-2011",
+            "episodeUrl": "anime/the-looney-tunes-show-2011-hindi",
             "genres": ["Adventure", "Animation", "Children", "Comedy", "Family"],
             "isAdult": false
         },
