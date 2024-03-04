@@ -29,14 +29,44 @@
 	},
 	"totalEpisodes": 26,
 	"currentEpisode": 26,
-	"rating": 76,
+	"rating": 77,
 	"duration": 25,
 	"genres": ["Adventure", "Animation", "Children", "Comedy", "Family"],
 	"season": "SUMMER",
 	"studios": ["Cartoon Network"],
 	"subOrDub": "hindi",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 248368,
+		"malId": 248368,
+		"title": {
+			"romaji": "The Looney Tunes Show - Hindi",
+			"english": "The Looney Tunes Show - Hindi",
+			"native": "The Looney Tunes Show - Hindi"
+		},
+		"status": "Completed",
+		"episodes": 26,
+		"image": "https://artworks.thetvdb.com/banners/posters/248368-6.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/graphical/248368-g2.jpg",
+		"rating": 77,
+		"type": "TV",
+		"animeurl": "the-looney-tunes-show-2011-hindi"
+	},{
+		"id": 248368,
+		"malId": 248368,
+		"title": {
+			"romaji": "The Looney Tunes Show Season 2 - Hindi",
+			"english": "The Looney Tunes Show Season 2 - Hindi",
+			"native": "The Looney Tunes Show Season 2 - Hindi"
+		},
+		"status": "Completed",
+		"episodes": 26,
+		"image": "https://artworks.thetvdb.com/banners/posters/248368-5.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/graphical/248368-g.jpg",
+		"rating": 77,
+		"type": "TV",
+		"animeurl": "the-looney-tunes-show-2011-season-2-hindi"
+	}],
 	"characters": [],
 	"relations": [],
 	"episodes": [{
