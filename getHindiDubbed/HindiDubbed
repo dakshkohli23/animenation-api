@@ -1,5 +1,15 @@
 [
 	{
+		"animeId": "the-looney-tunes-show-2011-hindi",
+		"episodeId": "the-looney-tunes-show-2011-hindi-episode-1",
+		"jname": "The Looney Tunes Show - Hindi",
+		"name": "The Looney Tunes Show - Hindi",
+		"episodeNum": 26,
+		"hindi": 26,
+		"type": "tv",
+		"imgUrl": "https://artworks.thetvdb.com/banners/posters/248368-6.jpg"
+	},
+	{
 		"animeId": "spy-x-family-part-2-hindi",
 		"episodeId": "spy-x-family-part-2-hindi-episode-1",
 		"jname": "SPY×FAMILY Part 2 - Hindi",
