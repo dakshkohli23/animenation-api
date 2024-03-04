@@ -1,0 +1,250 @@
+{
+	"id": "248368",
+	"title": {
+		"romaji": "The Looney Tunes Show Season 2 - Hindi",
+		"english": "The Looney Tunes Show Season 2 - Hindi",
+		"native": "The Looney Tunes Show Season 2 - Hindi"
+	},
+	"malId": 248368,
+	"synonyms": ["The Looney Tunes Show Season 2"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"image": "https://artworks.thetvdb.com/banners/posters/248368-5.jpg",
+	"popularity": 2084,
+	"color": "#e4a15d",
+	"cover": "https://artworks.thetvdb.com/banners/graphical/248368-g.jpg",
+	"description": "An updated iteration of the Looney Tunes characters focusing on their satirical misadventures living in suburbia.",
+	"status": "Completed",
+	"releaseDate": 2011,
+	"startDate": {
+		"year": 2011,
+		"month": 5,
+		"day": 3
+	},
+	"endDate": {
+		"year": 2020,
+		"month": 5,
+		"day": 31
+	},
+	"totalEpisodes": 26,
+	"currentEpisode": 26,
+	"rating": 76,
+	"duration": 25,
+	"genres": ["Adventure", "Animation", "Children", "Comedy", "Family"],
+	"season": "SUMMER",
+	"studios": ["Cartoon Network"],
+	"subOrDub": "hindi",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-1",
+            "title": "Bobcats on Three!",
+            "description": "Daffy coaches Gossamer’s water polo team despite having no experience. Meanwhile, Bugs becomes addicted to Porky’s unhealthy, butter-loaded catering.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4402816.jpg",
+            "airDate": "2012-10-02"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-2",
+            "title": "You've Got Hate Mail",
+            "description": "Daffy accidentally emails a letter to everyone he knows explaining what’s wrong with them and must suffer the consequences. Lola and her parents want Bugs in their family photo.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4402817.jpg",
+            "airDate": "2012-10-09"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-3",
+            "title": "Itsy Bitsy Gopher",
+            "description": "When one of the Gophers is reported missing, Daffy and Lola take the case to look for him. Meanwhile, Bugs nearly destroys his home trying to kill a spider.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4403831.jpg",
+            "airDate": "2012-10-16"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-4",
+            "title": "Rebel Without a Glove",
+            "description": "When Bugs loses his gloves, the motorcycle gloves he gets as a replacement lead him to the life of a rebel. Meanwhile, Daffy is accidentally hired as a college professor.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4403832.jpg",
+            "airDate": "2012-10-23"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-5",
+            "title": "Semper Lie",
+            "description": "When Bugs tells a small lie to Porky, it gathers steam to make everything far worse — it even prompts Daffy to join the U.S. Marines. Plus, Yosemite Sam’s mustache sings to him.",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4403833.jpg",
+            "airDate": "2012-10-30"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-6",
+            "title": "Father Figure",
+            "description": "Volunteering in the Father Figure program, Porky is matched up with the troubled Henry Hawk and Foghorn is paired up with Daffy, who may have lied about his age.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4403834.jpg",
+            "airDate": "2012-11-06"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-7",
+            "title": "Customer Service",
+            "description": "When Cecil Turtle, a customer service representative, intentionally cuts off Bugs’ cable TV, Bugs declares war and gets revenge. Plus, a Merrie Melodies video, “Parade Float.”",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4432805.jpg",
+            "airDate": "2012-11-13"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-8",
+            "title": "The Stud, the Nerd, the Average Joe, and the Saint",
+            "description": "Porky decides to run a marathon, threatening Daffy’s definition of everyone’s roles in their circle of friends. After all, if Porky is the jock and Yosemite Sam tries to get his guns back.",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4436997.jpg",
+            "airDate": "2012-11-20"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-9",
+            "title": "It's a Handbag",
+            "description": "Daffy’s world is turned upside-down when his handbag is stolen at the mall, prompting him to hire Porky as his full-time bodyguard. Lola searches the globe for the anniversary gift for Bugs.",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4443811.jpg",
+            "airDate": "2012-11-27"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-10",
+            "title": "A Christmas Carol",
+            "description": "Lola decides to stage her own version of A Christmas Carol to renew the town’s holiday spirit. Plus, the cast sings about why Christmas is such a wonderful holiday.",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4443812.jpg",
+            "airDate": "2012-12-04"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-11",
+            "title": "We're in Big Truffle",
+            "description": "While babysitting, Lola reads a spell book as a bedtime story to Gossamer and turns him into a frog. Meanwhile, a get-rich-quick scheme gets Daffy and Porky attacked by a giant bear.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4448895.jpg",
+            "airDate": "2013-01-22"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-12",
+            "title": "Dear John",
+            "description": "Lola joins a monastery and Bugs buys a boat to sail around the world when they each mistakenly believe the other has ended their relationship. Daffy runs against Porky for City Council.",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4481756.jpg",
+            "airDate": "2013-01-29"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-13",
+            "title": "Daffy Duck Esquire",
+            "description": "When Tina’s dad comes to town, Daffy decides to pretend he is a lawyer in order to impress him. Bugs must pretend to be Daffy’s slacker roommate.",
+            "number": "13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4493441.jpg",
+            "airDate": "2013-02-05"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-14",
+            "title": "Spread Those Wings and Fly",
+            "description": "Daffy and Porky attend a self-help seminar, which inspires Daffy to want to learn how to fly. When that doesn’t work, he settles for becoming an airline flight attendant.",
+            "number": "14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4495642.jpg",
+            "airDate": "2013-02-12"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-15",
+            "title": "The Black Widow",
+            "description": "Daffy drags Porky along on spring break when nobody else will go with him and the two quickly end up in jail in a small town in Mexico.",
+            "number": "15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4552899.jpg",
+            "airDate": "2013-04-23"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-16",
+            "title": "Mrs. Porkbunny's",
+            "description": "Tensions flare when Bugs and Porky start a business together selling carrot cake. Daffy decides to become an actor in commercials since it is easy, high-paying work.",
+            "number": "16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4557755.jpg",
+            "airDate": "2013-04-30"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-17",
+            "title": "Gribbler's Quest",
+            "description": "Daffy must shake an online shopping addiction when he uses Bugs’ computer to do his online shopping. Daffy is dragged by Yosemite Sam into a group therapy. Bugs is addicted to a video game called Gribbler’s Quest.",
+            "number": "17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4563790.jpg",
+            "airDate": "2013-05-07"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-18",
+            "title": "The Grand Old Duck of York",
+            "description": "Daffy takes piano lessons from Granny. As a result, Bugs gets noise-cancelling earbuds and quickly realizes he can tune out everything.",
+            "number": "18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4563932.jpg",
+            "airDate": "2013-05-14"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-19",
+            "title": "Ridiculous Journey",
+            "description": "After accidentally getting shipped to Alaska, the Tasmanian Devil, Tweety and Sylvester must put aside their differences and make an incredible journey together to return to their happy homes.",
+            "number": "19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4575333.jpg",
+            "airDate": "2013-05-21"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-20",
+            "title": "The Shell Game",
+            "description": "Cecil Turtle returns with a broken shell scam that he uses to con Bugs out of money. Meanwhile, when Daffy’s beloved recliner breaks, he and Lola search for a replacement.",
+            "number": "20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4575723.jpg",
+            "airDate": "2013-06-25"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-21",
+            "title": "Year of the Duck",
+            "description": "Daffy is highly insulted when he discovers that ducks are not included in the Chinese zodiac, and attempt to make ducks more popular.",
+            "number": "21",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4601214.jpg",
+            "airDate": "2013-07-23"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-22",
+            "title": "Here Comes the Pig",
+            "description": "Daffy convinces Porky that they should go on a road trip to Porky’s third grade girlfriend’s wedding in an attempt to win her back after all these years.",
+            "number": "22",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4601215.jpg",
+            "airDate": "2013-08-13"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-23",
+            "title": "Mr. Weiner",
+            "description": "Daffy enters a hot dog eating contest to try and win the title “Mr. Weiner” and Bugs gets roped into helping Yosemite Sam attempt to jump a school bus over a row of motorcycles.",
+            "number": "23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4601218.jpg",
+            "airDate": "2013-08-20"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-24",
+            "title": "Best Friends Redux",
+            "description": "When Bugs meets up with a old friend named Rodney Rabbit, Daffy gets jealous and uses the time vortex at Witch Lezah's to go back in time and ensure Bugs and Rodney never become friends. Meanwhile, Porky Pig wonders about his ranking in Daffy Duck's list of best friends.",
+            "number": "24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4601219.jpg",
+            "airDate": "2013-08-27"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-25",
+            "title": "SuperRabbit",
+            "description": "Bugs tells the story of SuperRabbit, with himself as SuperRabbit, Elmer Fudd as Lex Luthor, and Daffy as Zod, and explains why he gave up the SuperLife.",
+            "number": "25",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4601220.jpg",
+            "airDate": "2014-08-31"
+        },
+        {
+            "id": "the-looney-tunes-show-2011-season-2-hindi-episode-26",
+            "title": "Gossamer Is Awesomer",
+            "description": "Daffy becomes campaign manager for Gossamer’s run for Class President. Porky moves in with Bugs and Daffy after his catering business goes broke, and spends his days reorganizing everything.",
+            "number": "26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/248368/4609673.jpg",
+            "airDate": "2013-07-30"
+        }]
+}
