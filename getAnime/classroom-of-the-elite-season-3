@@ -45,7 +45,7 @@
         "episode": 2
     },
     "totalEpisodes": 13,
-    "currentEpisode": 9,
+    "currentEpisode": 10,
     "rating": 78,
     "duration": 22,
     "genres": [
@@ -595,5 +595,12 @@
             "number": "9",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10160759/screencap/65ddcd24ef719.jpg",
             "airDate": "February 28, 2024"
+        },{
+            "id": "classroom-of-the-elite-season-3-episode-10",
+            "title": "The first cause of absurd conclusions I ascribe to the want of method.",
+            "description": "Class C considers various strategies for the special exam, but they all lack a decisive factor. Hirata remains disappointed in the class vote result. Ayanokoji calls out to Hirata, who acts coldly towards Mii-chan who is worried about him.",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10160760/screencap/65e60579c2faf.jpg",
+            "airDate": "March 6, 2024"
         }]
 }
