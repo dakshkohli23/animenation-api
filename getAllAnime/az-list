@@ -2096,6 +2096,58 @@
             "isAdult": false
         },
         {
+            "animeId": "the-legend-of-korra",
+            "episodeId": "the-legend-of-korra-episode-1",
+            "name": "Avatar: The Legend of Korra",
+            "jname": "Avatar: The Legend of Korra",
+            "dub": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://artworks.thetvdb.com/banners/posters/251085-15.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/the-legend-of-korra",
+            "genres": ["Action", "Adventure", "Animation", "Children", "Comedy", "Drama", "Family", "Fantasy", "Martial Arts", "Sci-Fi", "Suspense"],
+            "isAdult": false
+        },
+        {
+            "animeId": "the-legend-of-korra-season-2",
+            "episodeId": "the-legend-of-korra-season-2-episode-1",
+            "name": "Avatar: The Legend of Korra Season 2",
+            "jname": "Avatar: The Legend of Korra Season 2",
+            "dub": "14",
+            "totalEpisodes": "14",
+            "imgUrl": "https://artworks.thetvdb.com/banners/v4/season/500836/posters/6385b8d4953cb.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/the-legend-of-korra-season-2",
+            "genres": ["Action", "Adventure", "Animation", "Children", "Comedy", "Drama", "Family", "Fantasy", "Martial Arts", "Sci-Fi", "Suspense"],
+            "isAdult": false
+        },
+        {
+            "animeId": "the-legend-of-korra-season-3",
+            "episodeId": "the-legend-of-korra-season-3-episode-1",
+            "name": "Avatar: The Legend of Korra Season 3",
+            "jname": "Avatar: The Legend of Korra Season 3",
+            "dub": "13",
+            "totalEpisodes": "13",
+            "imgUrl": "https://artworks.thetvdb.com/banners/series/251085/seasons/588254/posters/5fac568580cb0.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/the-legend-of-korra-season-3",
+            "genres": ["Action", "Adventure", "Animation", "Children", "Comedy", "Drama", "Family", "Fantasy", "Martial Arts", "Sci-Fi", "Suspense"],
+            "isAdult": false
+        },
+        {
+            "animeId": "the-legend-of-korra-season-4",
+            "episodeId": "the-legend-of-korra-season-4-episode-1",
+            "name": "Avatar: The Legend of Korra Season 4",
+            "jname": "Avatar: The Legend of Korra Season 4",
+            "dub": "13",
+            "totalEpisodes": "13",
+            "imgUrl": "https://artworks.thetvdb.com/banners/series/251085/seasons/597042/posters/5fac5859979d5.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/the-legend-of-korra-season-4",
+            "genres": ["Action", "Adventure", "Animation", "Children", "Comedy", "Drama", "Family", "Fantasy", "Martial Arts", "Sci-Fi", "Suspense"],
+            "isAdult": false
+        },
+        {
             "animeId": "tokyo-revengers",
             "episodeId": "tokyo-revengers-episode-1",
             "name": "Tokyo Revengers",
