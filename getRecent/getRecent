@@ -1,5 +1,15 @@
 [
 	{
+		"animeId": "the-legend-of-korra",
+		"episodeId": "the-legend-of-korra-episode-1",
+		"jname": "Avatar: The Legend of Korra",
+		"name": "Avatar: The Legend of Korra",
+		"episodeNum": 12,
+		"dub": 12,
+		"type": "tv",
+		"imgUrl": "https://artworks.thetvdb.com/banners/posters/251085-15.jpg"
+	},
+	{
 		"animeId": "classroom-of-the-elite-season-3",
 		"episodeId": "classroom-of-the-elite-season-3-episode-10",
 		"jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
