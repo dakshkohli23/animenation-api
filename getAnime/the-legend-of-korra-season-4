@@ -36,7 +36,70 @@
 	"studios": ["Nickelodeon"],
 	"subOrDub": "dub",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 251085,
+		"malId": 251085,
+		"title": {
+			"romaji": "Book 1: Air",
+			"english": "Book 1: Air",
+			"native": "Book 1: Air"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://artworks.thetvdb.com/banners/posters/251085-15.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/fanart/original/251085-1.jpg",
+		"rating": 83,
+		"type": "TV",
+		"animeurl": "the-legend-of-korra"
+	},
+	{
+		"id": 251085,
+		"malId": 251085,
+		"title": {
+			"romaji": "Book 2: Spirits",
+			"english": "Book 2: Spirits",
+			"native": "Book 2: Spirits"
+		},
+		"status": "Completed",
+		"episodes": 14,
+		"image": "https://artworks.thetvdb.com/banners/v4/season/500836/posters/6385b8d4953cb.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/seasonswide/251085-2.jpg",
+		"rating": 83,
+		"type": "TV",
+		"animeurl": "the-legend-of-korra-season-2"
+	},
+	{
+		"id": 251085,
+		"malId": 251085,
+		"title": {
+			"romaji": "Book 3: Change",
+			"english": "Book 3: Change",
+			"native": "Book 3: Change"
+		},
+		"status": "Completed",
+		"episodes": 13,
+		"image": "https://artworks.thetvdb.com/banners/series/251085/seasons/588254/posters/5fac568580cb0.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/seasonswide/251085-3.jpg",
+		"rating": 83,
+		"type": "TV",
+		"animeurl": "the-legend-of-korra-season-3"
+	},
+	{
+		"id": 251085,
+		"malId": 251085,
+		"title": {
+			"romaji": "Book 4: Balance",
+			"english": "Book 4: Balance",
+			"native": "Book 4: Balance"
+		},
+		"status": "Completed",
+		"episodes": 13,
+		"image": "https://artworks.thetvdb.com/banners/series/251085/seasons/597042/posters/5fac5859979d5.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/seasonswide/251085-4.jpg",
+		"rating": 83,
+		"type": "TV",
+		"animeurl": "the-legend-of-korra-season-4"
+	}],
 	"characters": [],
 	"relations": [],
 	"episodes": [{
