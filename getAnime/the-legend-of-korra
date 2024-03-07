@@ -1,0 +1,138 @@
+{
+	"id": "251085",
+	"title": {
+		"romaji": "Avatar: The Legend of Korra",
+		"english": "Avatar: The Legend of Korra",
+		"native": "Avatar: The Legend of Korra"
+	},
+	"malId": 251085,
+	"synonyms": ["The Last Airbender The Legend of Korra", "Avatar: The Legend of Korra", "Legend of Korra", "The Legend of Korra", "Season 1 - Book 1: Air"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"image": "https://artworks.thetvdb.com/banners/posters/251085-15.jpg",
+	"popularity": 108,
+	"color": "#e4a15d",
+	"cover": "https://artworks.thetvdb.com/banners/fanart/original/251085-1.jpg",
+	"description": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on her quest to become a fully realized Avatar. In this story, the Avatar struggles to find balance within herself.",
+	"status": "Completed",
+	"releaseDate": 2012,
+	"startDate": {
+		"year": 2012,
+		"month": 4,
+		"day": 14
+	},
+	"endDate": {
+		"year": 2016,
+		"month": 12,
+		"day": 13
+	},
+	"totalEpisodes": 12,
+	"currentEpisode": 12,
+	"rating": 83,
+	"duration": 23,
+	"genres": ["Action", "Adventure", "Animation", "Children", "Comedy", "Drama", "Family", "Fantasy", "Martial Arts", "Sci-Fi", "Suspense"],
+	"season": "SPRING",
+	"studios": ["Nickelodeon"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+            "id": "the-legend-of-korra-episode-1",
+            "title": "Welcome to Republic City",
+            "description": "After Aang, Zuko, Katara, Sokka, Toph and Suki had defeated Firelord Ozai and stopped the tyranny of the Fire Nation, Aang and Zuko took steps to usher in a new age of equality amongst the nations. In the center of the Fire Nation Colonies, they built Republic City, a place where people of all nations can live without fear of war.\r\r\n\r\r\nNow 70 years have passed since then, and Aang's successor, Korra, is training to be the new Avatar. After passing her firebending test, she meets with Tenzin, Aang's son and the only Air Bending Master, who is supposed to be her Air Bending Teacher. However, due to tense circumstances in Republic City, he tells her that her training must wait, so that he can tend to his duties in the City. Not wanting to wait, Korra sneaks out of the South Pole and heads to Republic City where she finds herself in over her head.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4310447.jpg",
+            "airDate": "2012-04-14"
+        },
+        {
+            "id": "the-legend-of-korra-episode-2",
+            "title": "A Leaf in the Wind",
+            "description": "Korra begins her training with Tenzin. While training, she runs into great difficulties and becomes frustrated with her inability to learn Air Bending quickly. She also becomes more interested in ProBending, a sport where teams consisting of a Fire Bender, Water Bender and Earth Bender attempt to knock each other out of a ring, and sneaks out to see a match, against Tenzin's wishes.\r\r\n\r\r\nWhile there, Korra meets the Fire Ferrets, which consists of Mako, Bolin and Hasuke. When Hasuke fails to turn up for the final match that the Fire Ferrets need to win to enter the Tournament, Korra joins the team in his place.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4310448.jpg",
+            "airDate": "2012-04-14"
+        },
+        {
+            "id": "the-legend-of-korra-episode-3",
+            "title": "The Revelation",
+            "description": "The Fire Ferrets are strapped for cash, as they need to provide funds to enter the upcoming ProBending Tournament. Bolin attempts to help Mako by sourcing some work and ends up in the employ of the Triple Threat Triads. When Mako learns of this, he and Korra attempt to get Bolin out before he gets involved in a gang war. While doing this, they find that Bolin is captured by the Equalists, where he is used in a demonstration to show a terrifying ability that Amon possesses.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4310452.jpg",
+            "airDate": "2012-04-21"
+        },
+        {
+            "id": "the-legend-of-korra-episode-4",
+            "title": "The Voice in the Night",
+            "description": "The threat of Amon and The Equalists has become apparent to the Republic City Council. Councilman Tarrlok puts forward the motion to create a special task force to combat this new threat, and wishes to recruit Korra to help lead it. Initially, Korra declines, but is eventually persuaded into joining, much to Tenzin's dismay. With the young Avatar joining the task force, Tarrlok will create an even larger divide between benders and non-benders.\r\r\n\r\r\nAfter a raid on a Equalist training facility, Korra publicly challenges Amon to a duel, in an attempt to bring him out and bring him to justice.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4311547.jpg",
+            "airDate": "2012-04-28"
+        },
+        {
+            "id": "the-legend-of-korra-episode-5",
+            "title": "The Spirit of Competition",
+            "description": "As the ProBending Tournament begins, emotions fly between the members of the Fire Ferrets. While Korra and Mako have feelings for each other, they have issues displaying it due to Asami being involved. Bolin attempts to make a move on Korra, but this causes conflicts between Mako and the young Avatar, for Mako is defensive of his younger brother. Tension ensues, causing the team to have difficulty playing in the ring. Will they manage to pull through the tournament? Or will emotions tear apart their chances of greatness?",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4315551.jpg",
+            "airDate": "2012-05-05"
+        },
+        {
+            "id": "the-legend-of-korra-episode-6",
+            "title": "And the Winner Is…",
+            "description": "The Fire Ferrets are preparing for the big championship ProBending match, when Amon declares a threat to the city that, if the match was to continue, dire consequences would ensue. Korra, Mako and Bolin convince the council to allow the match to happen, with the help of an unsuspecting individual. What will Amon do to the city when the match happens?",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4315552.jpg",
+            "airDate": "2012-05-12"
+        },
+        {
+            "id": "the-legend-of-korra-episode-7",
+            "title": "The Aftermath",
+            "description": "When the ProBending Arena is shut down after The Equalists attack, Mako and Bolin have to find a new place to live. Korra offers for them to stay on Air Bending Island, but Asami had already offered for them to stay at her father's mansion, and they accepted. While staying there, Korra learns something dire about the people that her teammates live with, and endeavours to keep them safe.",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4315553.jpg",
+            "airDate": "2012-05-19"
+        },
+        {
+            "id": "the-legend-of-korra-episode-8",
+            "title": "When Extremes Meet",
+            "description": "As Asami, Bolin and Mako move into Air Temple Island, the police force inducts Chief Saikhan in to lead them. During the induction, Saikhan announces his direct reporting to Tarrlok when dealing with the Equalist threat. In doing so, it creates mass tension between Korra and Tarrlok, as the young Avatar feels that the councilman will only cause a greater divide between benders and non-benders with the support of the new police chief.\r\r\n\r\r\nThe Avatar and her friends decide to band together to create a vigilante team as a means to help stop the Equalists. While they do this, Tarrlok resorts to extreme measures to control non-benders, in which Korra opposes profusely. How will the young Avatar help combat the tyranny of Councilman Tarrlok?",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4315554.jpg",
+            "airDate": "2012-06-02"
+        },
+        {
+            "id": "the-legend-of-korra-episode-9",
+            "title": "Out of the Past",
+            "description": "After Tarrlok has taken Korra hostage, he fabricates a story, telling everyone that the Equalists took her. When Tenzin and former Police Chief Lin Beifong hear this, they set out to find her, with Lin recruiting the help of Asami, Bolin and Mako.\r\r\n\r\r\nWhile being captured, Korra takes the time to understand the visions that she's been seeing. What is the message that Aang is trying to pass onto her? And will Tenzin and the others find out what really happened to Korra and be able to find her?",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4315555.jpg",
+            "airDate": "2012-06-09"
+        },
+        {
+            "id": "the-legend-of-korra-episode-10",
+            "title": "Turning the Tides",
+            "description": "After Korra is rescued after being taken hostage by Tarrlok, and escaping from Amon and The Equalists, she takes time to recover and tell her friends about the dire news of Tarrlok's heritage. Stunned by this, Tenzin decides to raise it with the other council members and discuss a plan to rectify the issues that Tarrlok created.\r\r\n\r\r\nBut unknown to anyone, The Equalists begin to strike against Republic city in an attempt to take it over, until they begin a full-blown attack on the city, bombarding it with bombs and taking out the strengths of the city, one by one. What will Korra and her friends do to combat the oncoming attack of The Equalists?",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4315556.jpg",
+            "airDate": "2012-06-16"
+        },
+        {
+            "id": "the-legend-of-korra-episode-11",
+            "title": "Skeletons in the Closet",
+            "description": "After Amon and The Equalists have overtaken Republic City, the future seems a lot bleaker for Korra and her friends, having to hide in the underground without being able to do anything but wait for the United Forces to come take back the city.\r\r\n\r\r\nAs the United Forces roll into Republic City by sea, General Iroh is bewildered by the lack of resistance as they come into the harbor. His bewilderment is replaced by shock as he discovers a new weapon that The Equalists have developed, which decimates his fleet.\r\r\n\r\r\nThe General is lucky to have Korra save him, and after recovering, they plot together to hatch a plan to stop Amon in his tracks. As they set out to put this plan into action, the young Avatar learns a unexpected secret about the leader of The Equalists from an old acquaintance.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4315557.jpg",
+            "airDate": "2012-06-23"
+        },
+        {
+            "id": "the-legend-of-korra-episode-12",
+            "title": "Endgame",
+            "description": "After learning who Amon really is, Korra and Mako set out to expose him to the other members of The Equalists, in hopes of shattering Amon's image and bringing his efforts to a halt. In doing so, they learn that Amon had managed to capture Tenzin and his children, and is going to use them in a demonstration of what the world will be like once Amon's plans are complete.\r\r\n\r\r\nKorra and Mako manage to prevent Amon from taking the Air Bending family's powers away and lure Amon away to try to take him down without his disciples helping him. But the young Avatar soon realizes that Amon's secret power is too great, and he takes her bending away. Without her bending abilities, how will Korra stop this tyrant from enacting his evil plans?",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4315558.jpg",
+            "airDate": "2012-06-23"
+        }]
+}
