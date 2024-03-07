@@ -1,0 +1,146 @@
+{
+	"id": "251085",
+	"title": {
+		"romaji": "Avatar: The Legend of Korra Season 3",
+		"english": "Avatar: The Legend of Korra Season 3",
+		"native": "Avatar: The Legend of Korra Season 3"
+	},
+	"malId": 251085,
+	"synonyms": ["The Last Airbender The Legend of Korra", "Avatar: The Legend of Korra", "Legend of Korra", "The Legend of Korra", "Season 3 - Book 3: Change"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"image": "https://artworks.thetvdb.com/banners/series/251085/seasons/588254/posters/5fac568580cb0.jpg",
+	"popularity": 108,
+	"color": "#e4a15d",
+	"cover": "https://artworks.thetvdb.com/banners/seasonswide/251085-3.jpg",
+	"description": "New airbenders are popping up all over the world. Korra has to deal with the power-hungry Earth Queen and the evil Zaheer, who wants to arrest and kill her.",
+	"status": "Completed",
+	"releaseDate": 2012,
+	"startDate": {
+		"year": 2012,
+		"month": 4,
+		"day": 14
+	},
+	"endDate": {
+		"year": 2016,
+		"month": 12,
+		"day": 13
+	},
+	"totalEpisodes": 13,
+	"currentEpisode": 13,
+	"rating": 83,
+	"duration": 23,
+	"genres": ["Action", "Adventure", "Animation", "Children", "Comedy", "Drama", "Family", "Fantasy", "Martial Arts", "Sci-Fi", "Suspense"],
+	"season": "SPRING",
+	"studios": ["Nickelodeon"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+            "id": "the-legend-of-korra-season-3-episode-1",
+            "title": "A Breath of Fresh Air",
+            "description": "After the events of the Harmonic Convergence, Avatar Korra discovers that her decision to leave the spirit portals open have unexpected consequences. Wild spirit vines have overgrown Republic City and Airbenders are suddenly popping up across the four nations.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4907426.jpg",
+            "airDate": "2014-06-27"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-2",
+            "title": "Rebirth",
+            "description": "Korra, Tenzin and Team Avatar search for new Airbenders in an effort to rebuild the Air Nation. Meanwhile, a band of sinister criminals are organizing to hunt down the Avatar themselves.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4907427.jpg",
+            "airDate": "2014-06-27"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-3",
+            "title": "The Earth Queen",
+            "description": "The team look for Airbenders on a trip to Ba Sing Se.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4907428.jpg",
+            "airDate": "2014-06-27"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-4",
+            "title": "In Harm's Way",
+            "description": "Korra finds out that the Earth Queen imprisoned airbenders to create an army. Jinora leads an investigation with her spiritual projection. Lin joins the Avatar Team.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4907429.jpg",
+            "airDate": "2014-07-11"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-5",
+            "title": "The Metal Clan",
+            "description": "Korra, Mako, Bolin and Asami visit Sao Fu, the city of Metal Clan. Lin does not want to meet her past. Su Jin tells her life story. Air Temple Island training camp has a new recruit.",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4907430.jpg",
+            "airDate": "2014-07-11"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-6",
+            "title": "Old Wounds",
+            "description": "Korra practices metal bending. Lin takes an acupuncture session. Zaheer, Ghazan, Ming-Hua and P'Li escape Republic City.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4907431.jpg",
+            "airDate": "2014-07-18"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-7",
+            "title": "Original Airbenders",
+            "description": "Though contending with Bumi's bad attitude, Tenzin tries to train the new members of the Air Nation.",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4923516.jpg",
+            "airDate": "2014-07-18"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-8",
+            "title": "The Terror Within",
+            "description": "Zaheer and his gang try to kidnap Korra.",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4923517.jpg",
+            "airDate": "2014-07-25"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-9",
+            "title": "The Stakeout",
+            "description": "Korra learns the truth about the group that is planning to destroy her.",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4923518.jpg",
+            "airDate": "2014-08-01"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-10",
+            "title": "Long Live the Queen",
+            "description": "Korra and Asami are stranded in the desert. The members of The Red Lotus negotiate with the Earth Queen.",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4923519.jpg",
+            "airDate": "2014-08-08"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-11",
+            "title": "The Ultimatum",
+            "description": "Mako and Bolin deliver an ominous message from Zaheer.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4923520.jpg",
+            "airDate": "2014-08-15"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-12",
+            "title": "Enter the Void",
+            "description": "When other plans fail, Korra suggests a brave idea to take on the Red Lotus and save the Air Nation.",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4923521.jpg",
+            "airDate": "2014-08-22"
+        },
+        {
+            "id": "the-legend-of-korra-season-3-episode-13",
+            "title": "Venom of the Red Lotus",
+            "description": "Korra battles Zaheer, while Bolin and Mako duel Ghazan and Ming-Hua. The captive members of the Air Nation escape and band together to help Korra.",
+            "number": "13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/251085/4923522.jpg",
+            "airDate": "2014-08-22"
+        }]
+}
