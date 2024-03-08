@@ -1,5 +1,15 @@
 [
 	{
+		"animeId": "avatar-the-last-airbender-2024",
+		"episodeId": "avatar-the-last-airbender-2024-episode-1",
+		"jname": "Avatar: The Last Airbender (2024)",
+		"name": "Avatar: The Last Airbender (2024)",
+		"episodeNum": 8,
+		"dub": 8,
+		"type": "tv",
+		"imgUrl": "https://artworks.thetvdb.com/banners/v4/series/385925/posters/65dfd56f88d11.jpg"
+	},
+	{
 		"animeId": "the-legend-of-korra",
 		"episodeId": "the-legend-of-korra-episode-1",
 		"jname": "Avatar: The Legend of Korra",
