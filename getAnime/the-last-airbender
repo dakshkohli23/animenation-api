@@ -1,0 +1,50 @@
+{
+	"id": "2108",
+	"title": {
+		"romaji": "The Last Airbender",
+		"english": "The Last Airbender",
+		"native": "The Last Airbender"
+	},
+	"malId": 2108,
+	"synonyms": ["Avatar: The Last Airbender"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"image": "https://artworks.thetvdb.com/banners/movies/2108/posters/2108.jpg",
+	"popularity": 2354,
+	"color": "#e4a15d",
+	"cover": "https://artworks.thetvdb.com/banners/movies/2108/backgrounds/2108.jpg",
+	"description": "In a world ravaged by the Fire nation's aggression toward the peaceful Air, Water and Earth nations, a young boy holds the key to restoring peace.",
+	"status": "Completed",
+	"releaseDate": 2010,
+	"startDate": {
+		"year": 2010,
+		"month": 7,
+		"day": 1
+	},
+	"endDate": {
+		"year": 2010,
+		"month": 7,
+		"day": 1
+	},
+	"totalEpisodes": 1,
+	"currentEpisode": 1,
+	"rating": 40,
+	"duration": 103,
+	"genres": ["Action", "Adventure", "Family", "Fantasy"],
+	"season": "SUMMER",
+	"studios": ["Paramount Pictures"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+            "id": "the-last-airbender-episode-1",
+            "title": "Full",
+            "description": "",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/movies/2108/backgrounds/2108.jpg",
+            "airDate": "July 1, 2010"
+        }]
+}
