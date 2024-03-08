@@ -1,0 +1,106 @@
+{
+	"id": "385925",
+	"title": {
+		"romaji": "Avatar: The Last Airbender (2024)",
+		"english": "Avatar: The Last Airbender (2024)",
+		"native": "Avatar: The Last Airbender (2024)"
+	},
+	"malId": 385925,
+	"synonyms": ["Avatar: Avatar: The Last Airbender (2024)"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"image": "https://artworks.thetvdb.com/banners/v4/series/385925/posters/65dfd56f88d11.jpg",
+	"popularity": 2354,
+	"color": "#e4a15d",
+	"cover": "https://artworks.thetvdb.com/banners/v4/series/385925/backgrounds/654d8e6579537.jpg",
+	"description": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+	"status": "Completed",
+	"releaseDate": 2024,
+	"startDate": {
+		"year": 2024,
+		"month": 2,
+		"day": 24
+	},
+	"endDate": {
+		"year": 2024,
+		"month": 2,
+		"day": 24
+	},
+	"totalEpisodes": 8,
+	"currentEpisode": 8,
+	"rating": 40,
+	"duration": 103,
+	"genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Mystery"],
+	"season": "WINTER",
+	"studios": ["Netflix"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+            "id": "avatar-the-last-airbender-2024-episode-1",
+            "title": "Aang",
+            "description": "An Airbender comes to grips with his new reality as war erupts. A century later, a pair of Water Tribe siblings make a discovery that changes everything.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/7860486/screencap/65d706ec231b0.jpg",
+            "airDate": "2/22/24"
+        },
+        {
+            "id": "avatar-the-last-airbender-2024-episode-2",
+            "title": "Warriors",
+            "description": "Aang, Katara and Sokka arrive at a small Island, home to elite warriors named after Avatar Kyoshi. The Fire Nation gets wind of the Avatar's whereabouts.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9855200/screencap/65d706ee7ac14.jpg",
+            "airDate": "2/22/24"
+        },
+        {
+            "id": "avatar-the-last-airbender-2024-episode-3",
+            "title": "Omashu",
+            "description": "News of a traitor puts the trio at odds in Omashu, where a mechanist and rebels with a charming leader muddle their plans to protect the Earth Kingdom.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9857789/screencap/65d706f1330cc.jpg",
+            "airDate": "2/22/24"
+        },
+        {
+            "id": "avatar-the-last-airbender-2024-episode-4",
+            "title": "Into the Dark",
+            "description": "In captivity, Aang meets a king with a taste for games. To find their friend, the siblings must navigate a dark tunnel — and put their differences aside.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9857790/screencap/65d706f38e512.jpg",
+            "airDate": "2/22/24"
+        },
+        {
+            "id": "avatar-the-last-airbender-2024-episode-5",
+            "title": "Spirited Away",
+            "description": "When the group lands in the Spirit World for a rescue mission, they come face to face with dangerous threats, painful memories and a mysterious entity.",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9857791/screencap/65d706f646755.jpg",
+            "airDate": "2/22/24"
+        },
+        {
+            "id": "avatar-the-last-airbender-2024-episode-6",
+            "title": "Masks",
+            "description": "A desperate Aang visits Avatar Roku for help on his journey as the Fire Nation closes in on him. At their fortress, a masked intruder breaks Aang out.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9857792/screencap/65d706f9894b0.jpg",
+            "airDate": "2/22/24"
+        },
+        {
+            "id": "avatar-the-last-airbender-2024-episode-7",
+            "title": "The North",
+            "description": "As an attack on the Northern Water Tribe looms, Katara challenges a master Waterbender, Sokka meets a princess, and Aang takes Kuruk's words to heart.",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9857793/screencap/65d706fc1d2fd.jpg",
+            "airDate": "2/22/24"
+        },
+        {
+            "id": "avatar-the-last-airbender-2024-episode-8",
+            "title": "Legends",
+            "description": "Zhao leads the Fire Nation into the North with a bold plan to weaken the Water Tribe. When the battle takes a dark turn, Aang enters a powerful state.",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9857794/screencap/65d706fede9d8.jpg",
+            "airDate": "2/22/24"
+        }]
+}
