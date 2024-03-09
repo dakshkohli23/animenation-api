@@ -38,7 +38,7 @@
 		"episode": 7
 	},
 	"totalEpisodes": 42,
-	"currentEpisode": 41,
+	"currentEpisode": 42,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -927,5 +927,12 @@
             "description": "",
             "number": "41",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10299918/screencap/65e1f1eee05d4.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-42",
+            "title": "Transform! Palafin, the Hero of the Sea",
+            "description": "",
+            "number": "42",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10299919/screencap/65eabeec4794f.jpg"
         }]
 }
