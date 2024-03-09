@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "pokemon-horizons-the-series",
+		"episodeId": "pokemon-horizons-the-series-episode-42",
+		"jname": "Pocket Monsters (2023)",
+		"name": "Pokémon Horizons: The Series",
+		"episodeNum": 42,
+		"sub": 42,
+		"dub": 20,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
+	},
+	{
 		"animeId": "avatar-the-last-airbender-2024",
 		"episodeId": "avatar-the-last-airbender-2024-episode-1",
 		"jname": "Avatar: The Last Airbender (2024)",
@@ -41,17 +52,7 @@
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png"
 	},
-	{
-		"animeId": "pokemon-horizons-the-series",
-		"episodeId": "pokemon-horizons-the-series-episode-41",
-		"jname": "Pocket Monsters (2023)",
-		"name": "Pokémon Horizons: The Series",
-		"episodeNum": 42,
-		"sub": 41,
-		"dub": 20,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
-	},
+
 	{
 		"animeId": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
 		"episodeId": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc-episode-1",
