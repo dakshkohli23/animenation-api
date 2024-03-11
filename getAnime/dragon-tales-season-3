@@ -36,7 +36,52 @@
 	"studios": ["PBS"],
 	"subOrDub": "dub",
 	"type": "TV",
-	"recommendations": [],
+	"recommendations": [{
+		"id": 77194,
+		"malId": 77194,
+		"title": {
+			"romaji": "Season 01",
+			"english": "Season 01",
+			"native": "Season 01"
+		},
+		"status": "Completed",
+		"episodes": 40,
+		"image": "https://artworks.thetvdb.com/banners/posters/77194-2.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg",
+		"rating": 64,
+		"type": "TV",
+		"animeurl": "dragon-tales"
+	},{
+		"id": 77194,
+		"malId": 77194,
+		"title": {
+			"romaji": "Season 02",
+			"english": "Season 02",
+			"native": "Season 02"
+		},
+		"status": "Completed",
+		"episodes": 24,
+		"image": "https://artworks.thetvdb.com/banners/posters/77194-2.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg",
+		"rating": 64,
+		"type": "TV",
+		"animeurl": "dragon-tales-season-2"
+	},{
+		"id": 77194,
+		"malId": 77194,
+		"title": {
+			"romaji": "Season 03",
+			"english": "Season 03",
+			"native": "Season 03"
+		},
+		"status": "Completed",
+		"episodes": 24,
+		"image": "https://artworks.thetvdb.com/banners/posters/77194-2.jpg",
+		"cover": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg",
+		"rating": 64,
+		"type": "TV",
+		"animeurl": "dragon-tales-season-3"
+	}],
 	"characters": [],
 	"relations": [],
 	"episodes": [{
