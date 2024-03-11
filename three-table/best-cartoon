@@ -1,5 +1,13 @@
 [
     {
+        "animeId": "dragon-tales",
+        "jname": "Dragon Tales",
+        "name": "Dragon Tales",
+        "dub": 40,
+        "type": "tv",
+        "imgUrl": "https://artworks.thetvdb.com/banners/posters/77194-2.jpg"
+    },
+    {
         "animeId": "dexters-laboratory",
         "jname": "Dexter's Laboratory",
         "name": "Dexter's Laboratory",
