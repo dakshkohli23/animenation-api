@@ -44,7 +44,7 @@
         "episode": 2
     },
     "totalEpisodes": 12,
-    "currentEpisode": 8,
+    "currentEpisode": 9,
     "rating": 82,
     "duration": 24,
     "genres": [
@@ -662,6 +662,15 @@
             "number": 8,
             "createdAt": null,
             "description": "Jinwoo answers a Hunter's Association request to take part in the raid of a D-Rank dungeon, where he encounters a few familiar faces."
+        },
+        {
+            "id": "solo-leveling-episode-9",
+            "title": "You've Been Hiding Your Skills",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10190448/screencap/65ea4d2b0fca2.jpg",
+            "imageHash": "hash",
+            "number": 9,
+            "createdAt": null,
+            "description": "At the D-Rank raid, Jinwoo is reunited with four of the Cartenon Temple survivors. Together, they explore the dungeon with Kang Taeshik and his men. After splitting up, they hear a scream, and then..."
         }
     ]
 }
