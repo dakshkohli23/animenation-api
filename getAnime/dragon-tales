@@ -1,0 +1,322 @@
+{
+	"id": "77194",
+	"title": {
+		"romaji": "Dragon Tales",
+		"english": "Dragon Tales",
+		"native": "Dragon Tales"
+	},
+	"malId": 77194,
+	"synonyms": ["Dragon Tales"],
+	"isLicensed": true,
+	"isAdult": false,
+	"countryOfOrigin": "US",
+	"image": "https://artworks.thetvdb.com/banners/posters/77194-2.jpg",
+	"popularity": 2084,
+	"color": "#e4a15d",
+	"cover": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg",
+	"description": "Two siblings, Max and Emmy, find an enchanted dragon scale capable of transporting them to a whimsical fantasy land inhabited by colorful anthropomorphic dragons by reciting a rhyme. They befriend four friendly dragons Cassie, Ord, Zak, Wheezie and Quetzal.",
+	"status": "Completed",
+	"releaseDate": 1999,
+	"startDate": {
+		"year": 1999,
+		"month": 9,
+		"day": 6
+	},
+	"endDate": {
+		"year": 2005,
+		"month": 4,
+		"day": 11
+	},
+	"totalEpisodes": 40,
+	"currentEpisode": 40,
+	"rating": 64,
+	"duration": 24,
+	"genres": ["Adventure", "Animation", "Children", "Drama", "Family", "Fantasy"],
+	"season": "SUMMER",
+	"studios": ["PBS"],
+	"subOrDub": "dub",
+	"type": "TV",
+	"recommendations": [],
+	"characters": [],
+	"relations": [],
+	"episodes": [{
+            "id": "dragon-tales-episode-1",
+            "title": "Episode1",
+            "description": "Description1",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-2",
+            "title": "Episode2",
+            "description": "Description2",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-3",
+            "title": "Episode3",
+            "description": "Description3",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-4",
+            "title": "Episode4",
+            "description": "Description4",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-5",
+            "title": "Episode5",
+            "description": "Description5",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-6",
+            "title": "Episode6",
+            "description": "Description6",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-7",
+            "title": "Episode7",
+            "description": "Description7",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-8",
+            "title": "Episode8",
+            "description": "Description8",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-9",
+            "title": "Episode9",
+            "description": "Description9",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-10",
+            "title": "Episode10",
+            "description": "Description10",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-11",
+            "title": "Episode11",
+            "description": "Description11",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-12",
+            "title": "Episode12",
+            "description": "Description12",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-13",
+            "title": "Episode13",
+            "description": "Description13",
+            "number": "13",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-14",
+            "title": "Episode14",
+            "description": "Description14",
+            "number": "14",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-15",
+            "title": "Episode15",
+            "description": "Description15",
+            "number": "15",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-16",
+            "title": "Episode16",
+            "description": "Description16",
+            "number": "16",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-17",
+            "title": "Episode17",
+            "description": "Description17",
+            "number": "17",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-18",
+            "title": "Episode18",
+            "description": "Description18",
+            "number": "18",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-19",
+            "title": "Episode19",
+            "description": "Description19",
+            "number": "19",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-20",
+            "title": "Episode20",
+            "description": "Description20",
+            "number": "20",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-21",
+            "title": "Episode21",
+            "description": "Description21",
+            "number": "21",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-22",
+            "title": "Episode22",
+            "description": "Description22",
+            "number": "22",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-23",
+            "title": "Episode23",
+            "description": "Description23",
+            "number": "23",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-24",
+            "title": "Episode24",
+            "description": "Description24",
+            "number": "24",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-25",
+            "title": "Episode25",
+            "description": "Description25",
+            "number": "25",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-26",
+            "title": "Episode26",
+            "description": "Description26",
+            "number": "26",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-27",
+            "title": "Episode27",
+            "description": "Description27",
+            "number": "27",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-28",
+            "title": "Episode28",
+            "description": "Description28",
+            "number": "28",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-29",
+            "title": "Episode29",
+            "description": "Description29",
+            "number": "29",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-30",
+            "title": "Episode30",
+            "description": "Description30",
+            "number": "30",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-31",
+            "title": "Episode31",
+            "description": "Description31",
+            "number": "31",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-32",
+            "title": "Episode32",
+            "description": "Description32",
+            "number": "32",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-33",
+            "title": "Episode33",
+            "description": "Description33",
+            "number": "33",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-34",
+            "title": "Episode34",
+            "description": "Description34",
+            "number": "34",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-35",
+            "title": "Episode35",
+            "description": "Description35",
+            "number": "35",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-36",
+            "title": "Episode36",
+            "description": "Description36",
+            "number": "36",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-37",
+            "title": "Episode37",
+            "description": "Description37",
+            "number": "37",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-38",
+            "title": "Episode38",
+            "description": "Description38",
+            "number": "38",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-39",
+            "title": "Episode39",
+            "description": "Description39",
+            "number": "39",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        },
+        {
+            "id": "dragon-tales-episode-40",
+            "title": "Episode40",
+            "description": "Description40",
+            "number": "40",
+            "image": "https://artworks.thetvdb.com/banners/fanart/original/77194-2.jpg"
+        }]
+}
