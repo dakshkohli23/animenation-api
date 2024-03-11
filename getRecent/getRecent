@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "mashle",
+		"episodeId": "mashle-episode-1",
+		"jname": "MASHLE",
+		"name": "MASHLE: MAGIC AND MUSCLES",
+		"episodeNum": 12,
+		"sub": 12,
+		"dub": 12,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-wYg28dEaJAw3.png"
+	},
+	{
 		"animeId": "dragon-tales",
 		"episodeId": "dragon-tales-episode-1",
 		"jname": "Dragon Tales",
