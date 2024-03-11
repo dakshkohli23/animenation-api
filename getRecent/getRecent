@@ -1,5 +1,15 @@
 [
 	{
+		"animeId": "dragon-tales",
+		"episodeId": "dragon-tales-episode-1",
+		"jname": "Dragon Tales",
+		"name": "Dragon Tales",
+		"episodeNum": 40,
+		"dub": 40,
+		"type": "tv",
+		"imgUrl": "https://artworks.thetvdb.com/banners/posters/77194-2.jpg"
+	},
+	{
 		"animeId": "solo-leveling",
 		"episodeId": "solo-leveling-episode-9",
 		"jname": "Ore dake Level Up na Ken",
