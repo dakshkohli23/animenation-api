@@ -1,446 +1,335 @@
 [
         {
-            "server1": "8rg3oxuadwsk",
+            "server1": "59c2m35m6dqh",
+            "server2": "16t38r9iuadb",
             "animeNameWithEP": "Death Note Episode 1",
             "ep_num": "1",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 2 >>",
-            "nextEpLink": "/death-note-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "bp8f5ww0a0yi",
+            "server1": "gu3ou5ijo33e",
+            "server2": "csnmw6t2bhth",
             "animeNameWithEP": "Death Note Episode 2",
             "ep_num": "2",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 3 >>",
-            "nextEpLink": "/death-note-episode-3",
-            "prevEpText": "<< Death Note Episode 1",
-            "prevEpLink": "/death-note-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "icb585l11i61",
+            "server1": "wjlp8kh4sm7v",
+            "server2": "5cdw5gioyt1n",
             "animeNameWithEP": "Death Note Episode 3",
             "ep_num": "3",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 4 >>",
-            "nextEpLink": "/death-note-episode-4",
-            "prevEpText": "<< Death Note Episode 2",
-            "prevEpLink": "/death-note-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "i69bywjpnpgn",
+            "server1": "nkvg6jd44nq0",
+            "server2": "h5fvle9uurph",
             "animeNameWithEP": "Death Note Episode 4",
             "ep_num": "4",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 5 >>",
-            "nextEpLink": "/death-note-episode-5",
-            "prevEpText": "<< Death Note Episode 3",
-            "prevEpLink": "/death-note-episode-3"
+            "subOrDub": "dual"
         },
         {
-            "server1": "kufzvfsw65mh",
+            "server1": "wc73m29nxcby",
+            "server2": "p2fbv3zezoii",
             "animeNameWithEP": "Death Note Episode 5",
             "ep_num": "5",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 6 >>",
-            "nextEpLink": "/death-note-episode-6",
-            "prevEpText": "<< Death Note Episode 4",
-            "prevEpLink": "/death-note-episode-4"
+            "subOrDub": "dual"
         },
         {
-            "server1": "1x3b3drh4s6u",
+            "server1": "gbu2as9y7job",
+            "server2": "id9z7gqk4wih",
             "animeNameWithEP": "Death Note Episode 6",
             "ep_num": "6",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 7 >>",
-            "nextEpLink": "/death-note-episode-7",
-            "prevEpText": "<< Death Note Episode 5",
-            "prevEpLink": "/death-note-episode-5"
+            "subOrDub": "dual"
         },
         {
-            "server1": "cxf5esz5rht1",
+            "server1": "6dg11r0rmjho",
+            "server2": "xyql4yf6t5xx",
             "animeNameWithEP": "Death Note Episode 7",
             "ep_num": "7",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 8 >>",
-            "nextEpLink": "/death-note-episode-8",
-            "prevEpText": "<< Death Note Episode 6",
-            "prevEpLink": "/death-note-episode-6"
+            "subOrDub": "dual"
         },
         {
-            "server1": "i3yjtnrkctws",
+            "server1": "8i3lfqjadwv0",
+            "server2": "9bn0njee1340",
             "animeNameWithEP": "Death Note Episode 8",
             "ep_num": "8",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 9 >>",
-            "nextEpLink": "/death-note-episode-9",
-            "prevEpText": "<< Death Note Episode 7",
-            "prevEpLink": "/death-note-episode-7"
+            "subOrDub": "dual"
         },
         {
-            "server1": "vy1o9d4fnrk1",
+            "server1": "oeccg88z23d3",
+            "server2": "26iy0o89474h",
             "animeNameWithEP": "Death Note Episode 9",
             "ep_num": "9",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 10 >>",
-            "nextEpLink": "/death-note-episode-10",
-            "prevEpText": "<< Death Note Episode 8",
-            "prevEpLink": "/death-note-episode-8"
+            "subOrDub": "dual"
         },
         {
-            "server1": "nz8wb3lkkb5d",
+            "server1": "il4hssr5a17u",
+            "server2": "jtzccjf3qczy",
             "animeNameWithEP": "Death Note Episode 10",
             "ep_num": "10",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 11 >>",
-            "nextEpLink": "/death-note-episode-11",
-            "prevEpText": "<< Death Note Episode 9",
-            "prevEpLink": "/death-note-episode-9"
+            "subOrDub": "dual"
         },
         {
-            "server1": "a2m0ldugdhjd",
+            "server1": "x8ipptjyw1ed",
+            "server2": "xfxd8eblqxnl",
             "animeNameWithEP": "Death Note Episode 11",
             "ep_num": "11",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 12 >>",
-            "nextEpLink": "/death-note-episode-12",
-            "prevEpText": "<< Death Note Episode 10",
-            "prevEpLink": "/death-note-episode-10"
+            "subOrDub": "dual"
         },
         {
-            "server1": "4gvjfc3pguya",
+            "server1": "4j8cye6aw92j",
+            "server2": "y5qooh9pj20i",
             "animeNameWithEP": "Death Note Episode 12",
             "ep_num": "12",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 13 >>",
-            "nextEpLink": "/death-note-episode-13",
-            "prevEpText": "<< Death Note Episode 11",
-            "prevEpLink": "/death-note-episode-11"
+            "subOrDub": "dual"
         },
         {
-            "server1": "5pgu6wok391q",
+            "server1": "uda1aqngrs7z",
+            "server2": "u8d4qphriv6r",
             "animeNameWithEP": "Death Note Episode 13",
             "ep_num": "13",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 14 >>",
-            "nextEpLink": "/death-note-episode-14",
-            "prevEpText": "<< Death Note Episode 12",
-            "prevEpLink": "/death-note-episode-12"
+            "subOrDub": "dual"
         },
         {
-            "server1": "c1vvmaok0h8f",
+            "server1": "6r9d49rz831t",
+            "server2": "2tavhguknf9l",
             "animeNameWithEP": "Death Note Episode 14",
             "ep_num": "14",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 15 >>",
-            "nextEpLink": "/death-note-episode-15",
-            "prevEpText": "<< Death Note Episode 13",
-            "prevEpLink": "/death-note-episode-13"
+            "subOrDub": "dual"
         },
         {
-            "server1": "9x8dkonpbpje",
+            "server1": "7jl2egxn1dp6",
+            "server2": "1sxvjd1vhpy8",
             "animeNameWithEP": "Death Note Episode 15",
             "ep_num": "15",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 16 >>",
-            "nextEpLink": "/death-note-episode-16",
-            "prevEpText": "<< Death Note Episode 14",
-            "prevEpLink": "/death-note-episode-14"
+            "subOrDub": "dual"
         },
         {
-            "server1": "j1bugrde71zf",
+            "server1": "5xknu6kl6rrg",
+            "server2": "zhyihru4whuf",
             "animeNameWithEP": "Death Note Episode 16",
             "ep_num": "16",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 17 >>",
-            "nextEpLink": "/death-note-episode-17",
-            "prevEpText": "<< Death Note Episode 15",
-            "prevEpLink": "/death-note-episode-15"
+            "subOrDub": "dual"
         },
         {
-            "server1": "63rumzyydk1j",
+            "server1": "fnksxzup9r43",
+            "server2": "rmtsz2e3d011",
             "animeNameWithEP": "Death Note Episode 17",
             "ep_num": "17",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 18 >>",
-            "nextEpLink": "/death-note-episode-18",
-            "prevEpText": "<< Death Note Episode 16",
-            "prevEpLink": "/death-note-episode-16"
+            "subOrDub": "dual"
         },
         {
-            "server1": "whywq449hf7n",
+            "server1": "j3zccn93e0y5",
+            "server2": "u7am7ri2dray",
             "animeNameWithEP": "Death Note Episode 18",
             "ep_num": "18",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 19 >>",
-            "nextEpLink": "/death-note-episode-19",
-            "prevEpText": "<< Death Note Episode 17",
-            "prevEpLink": "/death-note-episode-17"
+            "subOrDub": "dual"
         },
         {
-            "server1": "jxkgkf5i3klr",
+            "server1": "xoucnxqdf0z7",
+            "server2": "udvdpxccdkvu",
             "animeNameWithEP": "Death Note Episode 19",
             "ep_num": "19",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 20 >>",
-            "nextEpLink": "/death-note-episode-20",
-            "prevEpText": "<< Death Note Episode 18",
-            "prevEpLink": "/death-note-episode-18"
+            "subOrDub": "dual"
         },
         {
-            "server1": "dp2n9t2vqptu",
+            "server1": "3ssxb1kzgkuu",
+            "server2": "wpetu4ydz4pz",
             "animeNameWithEP": "Death Note Episode 20",
             "ep_num": "20",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 21 >>",
-            "nextEpLink": "/death-note-episode-21",
-            "prevEpText": "<< Death Note Episode 19",
-            "prevEpLink": "/death-note-episode-19"
+            "subOrDub": "dual"
         },
         {
-            "server1": "sl6nczo9sitl",
+            "server1": "eycfkrz8a2sy",
+            "server2": "dnigseefopy7",
             "animeNameWithEP": "Death Note Episode 21",
             "ep_num": "21",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 22 >>",
-            "nextEpLink": "/death-note-episode-22",
-            "prevEpText": "<< Death Note Episode 20",
-            "prevEpLink": "/death-note-episode-20"
+            "subOrDub": "dual"
         },
         {
-            "server1": "4rkluib6uluw",
+            "server1": "ahj8prpr4060",
+            "server2": "94eefvx29f3f",
             "animeNameWithEP": "Death Note Episode 22",
             "ep_num": "22",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 23 >>",
-            "nextEpLink": "/death-note-episode-23",
-            "prevEpText": "<< Death Note Episode 21",
-            "prevEpLink": "/death-note-episode-21"
+            "subOrDub": "dual"
         },
         {
-            "server1": "v1jmlnpb4rmm",
+            "server1": "63ia1ruj2dm8",
+            "server2": "we6dyl393vmq",
             "animeNameWithEP": "Death Note Episode 23",
             "ep_num": "23",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 24 >>",
-            "nextEpLink": "/death-note-episode-24",
-            "prevEpText": "<< Death Note Episode 22",
-            "prevEpLink": "/death-note-episode-22"
+            "subOrDub": "dual"
         },
         {
-            "server1": "osuy0e9j2ljo",
+            "server1": "haycvq32ouxw",
+            "server2": "keqej0ez7g8k",
             "animeNameWithEP": "Death Note Episode 24",
             "ep_num": "24",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 25 >>",
-            "nextEpLink": "/death-note-episode-25",
-            "prevEpText": "<< Death Note Episode 23",
-            "prevEpLink": "/death-note-episode-23"
+            "subOrDub": "dual"
         },
         {
-            "server1": "518zc6ateozf",
+            "server1": "hlfxtopof55j",
+            "server2": "6rg6rqy66hq9",
             "animeNameWithEP": "Death Note Episode 25",
             "ep_num": "25",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 26 >>",
-            "nextEpLink": "/death-note-episode-26",
-            "prevEpText": "<< Death Note Episode 24",
-            "prevEpLink": "/death-note-episode-24"
+            "subOrDub": "dual"
         },
         {
-            "server1": "7hfrmbry46k6",
+            "server1": "tb8az4lf4yce",
+            "server2": "wtep5euaoaw8",
             "animeNameWithEP": "Death Note Episode 26",
             "ep_num": "26",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 27 >>",
-            "nextEpLink": "/death-note-episode-27",
-            "prevEpText": "<< Death Note Episode 25",
-            "prevEpLink": "/death-note-episode-25"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ubwe2u9tnsvd",
+            "server1": "abac25e7y2l9",
+            "server2": "nzv7b7031phu",
             "animeNameWithEP": "Death Note Episode 27",
             "ep_num": "27",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 28 >>",
-            "nextEpLink": "/death-note-episode-28",
-            "prevEpText": "<< Death Note Episode 26",
-            "prevEpLink": "/death-note-episode-26"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ngwphqapjw8x",
+            "server1": "2my2dnqe0oyq",
+            "server2": "dhu3udjru5le",
             "animeNameWithEP": "Death Note Episode 28",
             "ep_num": "28",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 29 >>",
-            "nextEpLink": "/death-note-episode-29",
-            "prevEpText": "<< Death Note Episode 27",
-            "prevEpLink": "/death-note-episode-27"
+            "subOrDub": "dual"
         },
         {
-            "server1": "0f4n4hl192xr",
+            "server1": "5xsxaunahd98",
+            "server2": "njn03l3gnnri",
             "animeNameWithEP": "Death Note Episode 29",
             "ep_num": "29",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 30 >>",
-            "nextEpLink": "/death-note-episode-30",
-            "prevEpText": "<< Death Note Episode 28",
-            "prevEpLink": "/death-note-episode-28"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ccqnduajccdo",
+            "server1": "i7lpf9pr5pk5",
+            "server2": "yvp71wdyyvt3",
             "animeNameWithEP": "Death Note Episode 30",
             "ep_num": "30",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 31 >>",
-            "nextEpLink": "/death-note-episode-31",
-            "prevEpText": "<< Death Note Episode 29",
-            "prevEpLink": "/death-note-episode-29"
+            "subOrDub": "dual"
         },
         {
-            "server1": "1w19r0q308l5",
+            "server1": "qaxzbql8xr6d",
+            "server2": "wyqtolb0c8z2",
             "animeNameWithEP": "Death Note Episode 31",
             "ep_num": "31",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 32 >>",
-            "nextEpLink": "/death-note-episode-32",
-            "prevEpText": "<< Death Note Episode 30",
-            "prevEpLink": "/death-note-episode-30"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ip0mxyrj99hc",
+            "server1": "006wtyti3ixc",
+            "server2": "9samwnim0vv5",
             "animeNameWithEP": "Death Note Episode 32",
             "ep_num": "32",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 33 >>",
-            "nextEpLink": "/death-note-episode-33",
-            "prevEpText": "<< Death Note Episode 31",
-            "prevEpLink": "/death-note-episode-31"
+            "subOrDub": "dual"
         },
         {
-            "server1": "gbz0bph1houl",
+            "server1": "v4dahlqsfe63",
+            "server2": "oyikc2iihu5y",
             "animeNameWithEP": "Death Note Episode 33",
             "ep_num": "33",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 34 >>",
-            "nextEpLink": "/death-note-episode-34",
-            "prevEpText": "<< Death Note Episode 32",
-            "prevEpLink": "/death-note-episode-32"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ahgx95ty3j1d",
+            "server1": "p25a75u8mofm",
+            "server2": "19sw6yccyj0n",
             "animeNameWithEP": "Death Note Episode 34",
             "ep_num": "34",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 35 >>",
-            "nextEpLink": "/death-note-episode-35",
-            "prevEpText": "<< Death Note Episode 33",
-            "prevEpLink": "/death-note-episode-33"
+            "subOrDub": "dual"
         },
         {
-            "server1": "wjr9vsjk0o0c",
+            "server1": "5khdt8x4ccoz",
+            "server2": "4px5v1g2wwvr",
             "animeNameWithEP": "Death Note Episode 35",
             "ep_num": "35",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 36 >>",
-            "nextEpLink": "/death-note-episode-36",
-            "prevEpText": "<< Death Note Episode 34",
-            "prevEpLink": "/death-note-episode-34"
+            "subOrDub": "dual"
         },
         {
-            "server1": "dq3mtwqlw81d",
+            "server1": "y6t6eo3smg47",
+            "server2": "70xw5k3tyn71",
             "animeNameWithEP": "Death Note Episode 36",
             "ep_num": "36",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "Death Note Episode 37 >>",
-            "nextEpLink": "/death-note-episode-37",
-            "prevEpText": "<< Death Note Episode 35",
-            "prevEpLink": "/death-note-episode-35"
+            "subOrDub": "dual"
         },
         {
-            "server1": "8xkqq0cjx7o6",
+            "server1": "a0awqpj5qsrp",
+            "server2": "6brynq39vh33",
             "animeNameWithEP": "Death Note Episode 37",
             "ep_num": "37",
             "anime_info": "death-note",
             "movie_id": "1535",
-            "alias": "death-note",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Death Note Episode 36",
-            "prevEpLink": "/death-note-episode-36"
+            "subOrDub": "dual"
         }
     ]
