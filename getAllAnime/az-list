@@ -558,6 +558,20 @@
             "isAdult": false
         },
         {
+            "animeId": "death-note",
+            "episodeId": "death-note-episode-1",
+            "jname": "DEATH NOTE",
+            "name": "Death Note",
+            "sub": "37",
+            "dub": "37",
+            "totalEpisodes": "37",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-lawCwhzhi96X.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/death-note",
+            "genres": ["Mystery", "Psychological", "Supernatural", "Thriller"],
+            "isAdult": false
+        },
+        {
             "animeId": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
             "episodeId": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-episode-1",
             "jname": "Kimetsu no Yaiba: Mugen Ressha-hen",
@@ -813,6 +827,20 @@
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129188-zWPBGutZXgjZ.jpg",
             "type": "tv",
             "episodeUrl": "anime/goblin-slayer-2",
+            "genres": ["Action", "Adventure", "Fantasy"],
+            "isAdult": false
+        },
+        {
+            "animeId": "hunter-x-hunter-2011",
+            "episodeId": "hunter-x-hunter-2011-episode-1",
+            "jname": "HUNTER×HUNTER (2011)",
+            "name": "Hunter x Hunter (2011)",
+            "sub": "148",
+            "dub": "148",
+            "totalEpisodes": "148",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png",
+            "type": "tv",
+            "episodeUrl": "anime/hunter-x-hunter-2011",
             "genres": ["Action", "Adventure", "Fantasy"],
             "isAdult": false
         },
