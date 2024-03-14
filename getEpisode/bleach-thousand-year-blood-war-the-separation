@@ -1,38 +1,119 @@
 [
         {
-            "server1": "i5q04rbp43uj",
-            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation",
+            "server1": "mghnqw2kyw00",
+            "server2": "ayqp2sz6mqaq",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 1",
             "ep_num": "1",
             "anime_info": "bleach-thousand-year-blood-war-the-separation",
             "movie_id": "159322",
-            "alias": "bleach-thousand-year-blood-war-the-separation",
-            "nextEpText": "BLEACH: Thousand-Year Blood War - The Separation Episode 2 >>",
-            "nextEpLink": "/bleach-thousand-year-blood-war-the-separation-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "lvw62ayhetil",
-            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation",
+            "server1": "3njj8xxn2t0h",
+            "server2": "f1haor0x8wuf",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 2",
             "ep_num": "2",
             "anime_info": "bleach-thousand-year-blood-war-the-separation",
             "movie_id": "159322",
-            "alias": "bleach-thousand-year-blood-war-the-separation",
-            "nextEpText": "BLEACH: Thousand-Year Blood War - The Separation Episode 3 >>",
-            "nextEpLink": "/bleach-thousand-year-blood-war-the-separation-episode-3",
-            "prevEpText": "<< BLEACH: Thousand-Year Blood War - The Separation Episode 1",
-            "prevEpLink": "/bleach-thousand-year-blood-war-the-separation-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "bm7ivp4y7ajc",
-            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation",
+            "server1": "pmfso55ohyor",
+            "server2": "4k78pu8dp0lq",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 3",
             "ep_num": "3",
             "anime_info": "bleach-thousand-year-blood-war-the-separation",
             "movie_id": "159322",
-            "alias": "bleach-thousand-year-blood-war-the-separation",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< BLEACH: Thousand-Year Blood War - The Separation Episode 2",
-            "prevEpLink": "/bleach-thousand-year-blood-war-the-separation-episode-2"
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "bvo6t2hnkh0t",
+            "server2": "qeanj7gwl4to",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 4",
+            "ep_num": "4",
+            "anime_info": "bleach-thousand-year-blood-war-the-separation",
+            "movie_id": "159322",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "2yxznmfnvvx0",
+            "server2": "8e97cxjgao1i",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 5",
+            "ep_num": "5",
+            "anime_info": "bleach-thousand-year-blood-war-the-separation",
+            "movie_id": "159322",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "0q0orz6f9g0f",
+            "server2": "85bznfd5weu8",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 6",
+            "ep_num": "6",
+            "anime_info": "bleach-thousand-year-blood-war-the-separation",
+            "movie_id": "159322",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "g2gffgtd6hpn",
+            "server2": "jhacogmct3ym",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 7",
+            "ep_num": "7",
+            "anime_info": "bleach-thousand-year-blood-war-the-separation",
+            "movie_id": "159322",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "yjw7p0kdyq11",
+            "server2": "1ddc1tduhd2j",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 8",
+            "ep_num": "8",
+            "anime_info": "bleach-thousand-year-blood-war-the-separation",
+            "movie_id": "159322",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "cqrsfadrhzmr",
+            "server2": "3ay1pkjljtet",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 9",
+            "ep_num": "9",
+            "anime_info": "bleach-thousand-year-blood-war-the-separation",
+            "movie_id": "159322",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "gseumb81fol0",
+            "server2": "x1h7fm2dun2c",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 10",
+            "ep_num": "10",
+            "anime_info": "bleach-thousand-year-blood-war-the-separation",
+            "movie_id": "159322",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "5gxfu61q8p5c",
+            "server2": "jcdclyf5ckd5",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 11",
+            "ep_num": "11",
+            "anime_info": "bleach-thousand-year-blood-war-the-separation",
+            "movie_id": "159322",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "sqcs9lcjiynd",
+            "server2": "nsn0j3xjxon9",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 12",
+            "ep_num": "12",
+            "anime_info": "bleach-thousand-year-blood-war-the-separation",
+            "movie_id": "159322",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "2uomira9x55k",
+            "server2": "l3ydoo1sedl9",
+            "animeNameWithEP": "BLEACH: Thousand-Year Blood War - The Separation Episode 13",
+            "ep_num": "13",
+            "anime_info": "bleach-thousand-year-blood-war-the-separation",
+            "movie_id": "159322",
+            "subOrDub": "dual"
         }
     ]
