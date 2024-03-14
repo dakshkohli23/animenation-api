@@ -20,7 +20,7 @@
 	"color": "#4386e4",
 	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159322-biJjvtNkhkxR.jpg",
 	"description": "The second part of <i>BLEACH: Sennen Kessen-hen</i>. <br><br>\n",
-	"status": "Ongoing",
+	"status": "Completed",
 	"releaseDate": 2023,
 	"startDate": {
 		"year": 2023,
@@ -32,14 +32,9 @@
 		"month": 9,
 		"day": 30
 	},
-	"nextAiringEpisode": {
-		"airingTime": 1690639200,
-		"timeUntilAiring": 449350,
-		"episode": 4
-	},
 	"totalEpisodes": 13,
-	"currentEpisode": 3,
-	"rating": 87,
+	"currentEpisode": 13,
+	"rating": 88,
 	"duration": 24,
 	"genres": ["Action", "Adventure", "Supernatural"],
 	"season": "SUMMER",
