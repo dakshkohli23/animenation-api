@@ -502,6 +502,20 @@
             "isAdult": true
         },
         {
+            "animeId": "bleach-thousand-year-blood-war-the-separation",
+            "episodeId": "bleach-thousand-year-blood-war-the-separation-episode-1",
+            "jname": "BLEACH: Sennen Kessen-hen - Ketsubetsu-tan",
+            "name": "BLEACH: Thousand-Year Blood War - The Separation",
+            "sub": "13",
+            "dub": "13",
+            "totalEpisodes": "13",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159322-Sp1GflRhE6Po.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/bleach-thousand-year-blood-war-the-separation",
+            "genres": ["Action", "Adventure", "Supernatural"],
+            "isAdult": false
+        },
+        {
             "animeId": "chainsaw-man",
             "episodeId": "chainsaw-man-episode-1",
             "jname": "Chainsaw Man",
