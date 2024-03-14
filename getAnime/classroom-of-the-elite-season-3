@@ -45,7 +45,7 @@
         "episode": 2
     },
     "totalEpisodes": 13,
-    "currentEpisode": 10,
+    "currentEpisode": 11,
     "rating": 78,
     "duration": 22,
     "genres": [
@@ -602,5 +602,12 @@
             "number": "10",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10160760/screencap/65e60579c2faf.jpg",
             "airDate": "March 6, 2024"
+        },{
+            "id": "classroom-of-the-elite-season-3-episode-11",
+            "title": "There Is Only One Rule in Love Bring Happiness to Those You Love.",
+            "description": "As Hirata recovers and the class shows unity, it's finally Ayanokoji vs. Sakayanagi. The final special exam has begun and the first round is basketball. Class C puts up a good fight, but Sakayanagi plans to mentally shake Sudo so he will fall.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10160761/screencap/65f050bc1359f.jpg",
+            "airDate": "March 13, 2024"
         }]
 }
