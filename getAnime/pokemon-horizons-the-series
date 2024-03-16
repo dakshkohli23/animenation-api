@@ -37,8 +37,8 @@
 		"timeUntilAiring": 178006,
 		"episode": 7
 	},
-	"totalEpisodes": 42,
-	"currentEpisode": 42,
+	"totalEpisodes": 43,
+	"currentEpisode": 43,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -934,5 +934,12 @@
             "description": "",
             "number": "42",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10299919/screencap/65eabeec4794f.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-43",
+            "title": "A Letter of Challenge from the Explorers",
+            "description": "",
+            "number": "43",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10344627/screencap/65f3f23275b80.jpg"
         }]
 }
