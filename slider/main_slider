@@ -4,8 +4,8 @@
 		"malId": 55701,
 		"title": {
 		 "romaji": "Kimetsu no Yaiba: Hashira Geiko-hen",
-        "english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
-        "native": "鬼滅の刃 柱稽古編"
+       		 "english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+      		 "native": "鬼滅の刃 柱稽古編"
 		},
 		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-2XbSZkWX6Dqe.jpg",
 		"description": "Adaptation of the Hashira Training Arc.<br>\n<br>\n<i>Notes:<br>\n• The first episode has a runtime of ~1 hour, and received an early premiere in cinemas as part of a special screening alongside the final episode of Kimetsu no Yaiba: Katanakaji no Sato-hen. </i>",
@@ -63,27 +63,6 @@
 		"watchUrl": "/watch/classroom-of-the-elite-season-3-episode-1"
 	},
 {
-		"id": "162147",
-		"malId": 54633,
-		"title": {
-		 "romaji": "Pokémon Concierge",
-  	         "english": "Pokémon Concierge",
-    		 "native": "ポケモンコンシェルジュ"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-90IXqW7pehgw.jpg",
-		"description": "<i>Pack your bags—an all-new Pokémon paradise awaits!</i>",
-    		"status": "Completed",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162147-fQ1wNM1CQ7gE.jpg",
-		"rating": 70,
-		"releaseDate": 2023,
-		"genres": ["Fantasy", "Slice of Life", "Kids"],
-		"totalEpisodes": 4,
-		"duration": 18,
-		"type": "ONA",
-		"animeUrl": "/anime/pokemon-concierge",
-		"watchUrl": "/watch/pokemon-concierge-episode-1"
-	},
-{
 		"id": "163329",
 		"malId": 54918,
 		"title": {
@@ -99,7 +78,7 @@
   		},
 		"description": "Adaptation of the Tenjiku Arc.\n<br><br>\nWith a future where Toman has been destroyed by Mikey's twisted ideas and Takemichi returning to the past, he decides to become stronger in order to stop Kisaki's plans. On one side, a mysterious gang from Yokohama known as Tenjiku begins to overthrow all the Toman divisions, deciding to destroy all the gangs in Japan, becoming the most powerful and unique.\n<br><br>\nKisaki has been planning something for his purposes against Toman, now that he is banned.",
     		"status": "Airing",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163329-SLDIMqtukB7B.jpg",
+		"cover": "https://preview.redd.it/season-3-of-tokyo-revengers-tenjiku-arc-custo-poster-btw-i-v0-vqyqhbzebmoa1.png?width=872&format=png&auto=webp&s=c8f839a21550bc2045a04a2dcf3760c14edca3cf",
 		"rating": 77,
 		"releaseDate": 2023,
 		"genres": ["Action", "Drama", "Romance", "Supernatural"],
@@ -143,7 +122,7 @@
 		"trailer": {},
 		"description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Liko and a boy named Roy.",
 		"status": "Airing",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
+		"cover": "https://static.zerochan.net/Pok%C3%A9mon.Horizons%3A.The.Series.full.3848566.png",
 		"rating": 72,
 		"releaseDate": 2023,
 		"genres": ["Adventure", "Fantasy", "Kids"],
