@@ -64,16 +64,25 @@
         },
         {
             "server1": "d309l7gywfjv",
+            "server2": "22yxh5v0oxhj",
             "animeNameWithEP": "Solo Leveling Episode 8",
             "ep_num": "8",
             "anime_info": "solo-leveling",
             "movie_id": "151807",
-            "subOrDub": "sub"
+            "subOrDub": "dual"
         },
         {
             "server1": "qquddujfrww9",
             "animeNameWithEP": "Solo Leveling Episode 9",
             "ep_num": "9",
+            "anime_info": "solo-leveling",
+            "movie_id": "151807",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "w47k62pejqd9",
+            "animeNameWithEP": "Solo Leveling Episode 10",
+            "ep_num": "10",
             "anime_info": "solo-leveling",
             "movie_id": "151807",
             "subOrDub": "sub"
