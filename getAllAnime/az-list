@@ -572,6 +572,20 @@
             "isAdult": false
         },
         {
+            "animeId": "cowboy-bebop",
+            "episodeId": "cowboy-bebop-episode-1",
+            "jname": "Cowboy Bebop",
+            "name": "Cowboy Bebop",
+            "sub": "26",
+            "dub": "26",
+            "totalEpisodes": "26",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-CXtrrkMpJ8Zq.png",
+            "type": "tv",
+            "episodeUrl": "anime/cowboy-bebop",
+            "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+            "isAdult": false
+        },
+        {
             "animeId": "death-note",
             "episodeId": "death-note-episode-1",
             "jname": "DEATH NOTE",
