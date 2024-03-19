@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "cowboy-bebop",
+		"episodeId": "cowboy-bebop-episode-1",
+		"jname": "Cowboy Bebop",
+		"name": "Cowboy Bebop",
+		"episodeNum": 26,
+		"sub": 26,
+		"dub": 26,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-CXtrrkMpJ8Zq.png"
+	},
+	{
 		"animeId": "solo-leveling",
 		"episodeId": "solo-leveling-episode-10",
 		"jname": "Ore dake Level Up na Ken",
