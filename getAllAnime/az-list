@@ -1250,6 +1250,33 @@
             "isAdult": true
         },
         {
+            "animeId": "naruto-shippuden",
+            "episodeId": "naruto-shippuden-episode-1",
+            "jname": "NARUTO: Shippuuden",
+            "name": "Naruto: Shippuden",
+            "sub": "6",
+            "dub": "6",
+            "totalEpisodes": "500",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png",
+            "type": "tv",
+            "episodeUrl": "anime/naruto-shippuden",
+            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Supernatural"],
+            "isAdult": false
+        },
+        {
+            "animeId": "naruto-shippuden-hindi",
+            "episodeId": "naruto-shippuden-hindi-episode-1",
+            "jname": "NARUTO: Shippuuden",
+            "name": "Naruto: Shippuden",
+            "hindi": "6",
+            "totalEpisodes": "500",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png",
+            "type": "tv",
+            "episodeUrl": "anime/naruto-shippuden-hindi",
+            "genres": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Supernatural"],
+            "isAdult": false
+        },
+        {
             "animeId": "oshi-no-ko",
             "episodeId": "oshi-no-ko-episode-1",
             "jname": "OSHI NO KO",
