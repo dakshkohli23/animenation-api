@@ -24,7 +24,7 @@
     "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1735.jpg",
     "coverHash": "hash",
     "description": "Naruto: Shippuuden is the continuation of the original animated TV series Naruto. The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as he has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki. <br><br>\n(Source: Anime News Network)",
-    "status": "Completed",
+    "status": "Airing",
     "releaseDate": 2007,
     "startDate": {
         "year": 2007,
@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 500,
+    "currentEpisode": 6,
     "rating": 81,
     "duration": 23,
     "genres": [
