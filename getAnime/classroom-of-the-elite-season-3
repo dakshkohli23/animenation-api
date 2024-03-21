@@ -45,7 +45,7 @@
         "episode": 2
     },
     "totalEpisodes": 13,
-    "currentEpisode": 11,
+    "currentEpisode": 12,
     "rating": 78,
     "duration": 22,
     "genres": [
@@ -609,5 +609,12 @@
             "number": "11",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10160761/screencap/65f050bc1359f.jpg",
             "airDate": "March 13, 2024"
+        },{
+            "id": "classroom-of-the-elite-season-3-episode-12",
+            "title": "Change Your Desires Rather Than the Order of the World.",
+            "description": "The class narrowly lost to Class A in the final exam, and were demoted back to Class D. However, the students showed growth throughout the year. Horikita, in particular, having grown as leader requests to dissolve the alliance with Class B.",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10160762/screencap/65f96668e56e0.jpg",
+            "airDate": "March 20, 2024"
         }]
 }
