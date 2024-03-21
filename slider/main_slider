@@ -1,4 +1,32 @@
 [
+	{
+		"id": "1735",
+		"malId": 1735,
+		"title": {
+		 "romaji": "NARUTO: Shippuuden - Hindi",
+        "english": "Naruto: Shippuden - Hindi",
+        "native": "NARUTO -ナルト- 疾風伝"
+		},
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png",
+		"description": "Naruto: Shippuuden is the continuation of the original animated TV series Naruto. The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as he has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki. <br><br>\n(Source: Anime News Network)",
+  		"status": "Airing",
+		"cover": "https://artworks.thetvdb.com/banners/series/79824/backgrounds/5ec2051e98aa0.jpg",
+		"rating": 81,
+		"releaseDate": 2007,
+		"genres":  [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+    ],
+		"totalEpisodes": 500,
+		"duration": 23,
+		"type": "TV",
+		"animeUrl": "/anime/naruto-shippuden-hindi",
+		"watchUrl": "/watch/naruto-shippuden-hindi-episode-1"
+	},
 {
 		"id": "166240",
 		"malId": 55701,
