@@ -1,0 +1,213 @@
+{
+    "id": "4037",
+    "title": {
+        "romaji": "Cowboy Bebop: Yoseatsume Blues",
+        "english": null,
+        "native": "カウボーイビバップ よせあつめブルース"
+    },
+    "malId": 4037,
+    "synonyms": [
+        "Session XX: Mish-Mash Blues",
+        "Cowboy Bebop Session XX",
+        "Cowboy Bebop Episode 27"
+    ],
+    "isLicensed": true,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4037-zpDbjycoZhNI.png",
+    "imageHash": "hash",
+    "popularity": 10007,
+    "color": "#e4d65d",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n4037-1rwmIePHBzB7.jpg",
+    "coverHash": "hash",
+    "description": "Due to the violence portrayed in the Cowboy Bebop world and violence in Japanese schools, the series was briefly cancelled and an extra session was created as a final episode to the first thirteen episodes aired. Called \"Session XX: Mish-Mash Blues,\" a compilation of clips from previous episodes, it aired on June 26, 1998 on TV Tokyo. The episode was never released on DVD. In it, the characters provide a philosophical commentary and end with the words: This Is Not The End. You Will See The Real \"Cowboy Bebop\" Someday!<br>",
+    "status": "Completed",
+    "releaseDate": 1998,
+    "startDate": {
+        "year": 1998,
+        "month": 6,
+        "day": 26
+    },
+    "endDate": {
+        "year": 1998,
+        "month": 6,
+        "day": 26
+    },
+    "totalEpisodes": 1,
+    "currentEpisode": 1,
+    "rating": 70,
+    "duration": 27,
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+    ],
+    "season": "SUMMER",
+    "studios": [
+        "Sunrise"
+    ],
+    "subOrDub": "sub",
+    "type": "SPECIAL",
+    "recommendations": [],
+    "characters": [
+        {
+            "id": 1,
+            "role": "MAIN",
+            "name": {
+                "first": "Spike",
+                "last": "Spiegel",
+                "full": "Spike Spiegel",
+                "native": "スパイク・スピーゲル",
+                "userPreferred": "Spike Spiegel"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1-ChxaldmieFlQ.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95011,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kouichi",
+                        "last": "Yamadera",
+                        "full": "Kouichi Yamadera",
+                        "native": "山寺宏一",
+                        "userPreferred": "Kouichi Yamadera"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "role": "MAIN",
+            "name": {
+                "first": "Faye",
+                "last": "Valentine",
+                "full": "Faye Valentine",
+                "native": "フェイ・バレンタイン",
+                "userPreferred": "Faye Valentine"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2-0Iszg6Izgt4p.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95014,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Megumi",
+                        "last": "Hayashibara",
+                        "full": "Megumi Hayashibara",
+                        "native": "林原めぐみ",
+                        "userPreferred": "Megumi Hayashibara"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-VqxNuufY94V3.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "role": "MAIN",
+            "name": {
+                "first": "Jet",
+                "last": "Black",
+                "full": "Jet Black",
+                "native": "ジェット・ブラック",
+                "userPreferred": "Jet Black"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3-JjH9Si9UM1NZ.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95357,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Unshou",
+                        "last": "Ishizuka",
+                        "full": "Unshou Ishizuka",
+                        "native": "石塚運昇",
+                        "userPreferred": "Unshou Ishizuka"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png",
+                    "imageHash": "hash"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "role": "MAIN",
+            "name": {
+                "first": "Edward",
+                "last": "Wong Hau Pepelu Tivrusky IV",
+                "full": "Edward Wong Hau Pepelu Tivrusky IV",
+                "native": "エドワード・ウォン・ハウ・ペペル・チブルスキー4世",
+                "userPreferred": "Edward Wong Hau Pepelu Tivrusky IV"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16-80wd87nl1Rue.png",
+            "imageHash": "hash",
+            "voiceActors": [
+                {
+                    "id": 95658,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Aoi",
+                        "last": "Tada",
+                        "full": "Aoi Tada",
+                        "native": "多田葵",
+                        "userPreferred": "Aoi Tada"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95658-paHKYOWkhoOd.png",
+                    "imageHash": "hash"
+                },
+                {
+                    "id": 109755,
+                    "language": "Korean",
+                    "name": {
+                        "first": "Jeong-Hwa",
+                        "last": "Yang",
+                        "full": "Jeong-Hwa Yang",
+                        "native": "정화 양",
+                        "userPreferred": "Jeong-Hwa Yang"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/14755.jpg",
+                    "imageHash": "hash"
+                }
+            ]
+        }
+    ],
+    "relations": [
+        {
+            "id": 1,
+            "relationType": "PARENT",
+            "malId": 1,
+            "title": {
+                "romaji": "Cowboy Bebop",
+                "english": "Cowboy Bebop",
+                "native": "カウボーイビバップ",
+                "userPreferred": "Cowboy Bebop"
+            },
+            "status": "Completed",
+            "episodes": 26,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-CXtrrkMpJ8Zq.png",
+            "imageHash": "hash",
+            "color": "#f1785d",
+            "type": "TV",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1-OquNCNB6srGe.jpg",
+            "coverHash": "hash",
+            "rating": 86
+        }
+    ],
+    "episodes": [
+		{
+            "id": "cowboy-bebop-mish-mash-blues-episode-1",
+            "title": "Mish-Mash Blues",
+            "image": "https://thetvdb.com/images/missing/episode.jpg",
+            "imageHash": "hash",
+            "number": 1,
+            "createdAt": "June 26, 1998",
+            "description": "Nothing lasts forever. All things must come to an end. That is the so-called way of Nature. It's rather sudden, but this is the last episode, so I would like to take this opportunity to remember all the things that have happened and think about them."
+        }]
+}
