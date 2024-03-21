@@ -562,8 +562,8 @@
             "episodeId": "classroom-of-the-elite-season-3-episode-1",
             "jname": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
             "name": "Classroom of the Elite Season 3",
-            "sub": "11",
-            "dub": "9",
+            "sub": "12",
+            "dub": "10",
             "totalEpisodes": "13",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-zzKl6P6OeEjy.jpg",
             "type": "tv",
@@ -817,6 +817,19 @@
             "isAdult": false
         },
         {
+            "animeId": "cowboy-bebop-eins-summer-vacation",
+            "episodeId": "cowboy-bebop-eins-summer-vacation-episode-1",
+            "jname": "Cowboy Bebop: Ein no Natsuyasumi",
+            "name": "Ein's Summer Vacation",
+            "sub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17205-Dk5nmaKD7hPM.jpg",
+            "type": "special",
+            "episodeUrl": "anime/cowboy-bebop-eins-summer-vacation",
+            "genres": [ "Adventure"],
+            "isAdult": false
+        },
+        {
             "animeId": "goblin-slayer",
             "episodeId": "goblin-slayer-episode-1",
             "jname": "Goblin Slayer",
@@ -993,6 +1006,19 @@
             "type": "tv",
             "episodeUrl": "anime/mashle-hindi",
             "genres": ["Action", "Comedy", "Fantasy"],
+            "isAdult": false
+        },
+        {
+            "animeId": "cowboy-bebop-mish-mash-blues",
+            "episodeId": "cowboy-bebop-mish-mash-blues-episode-1",
+            "jname": "Cowboy Bebop: Yoseatsume Blues",
+            "name": "Mish-Mash Blues",
+            "sub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4037-zpDbjycoZhNI.png",
+            "type": "special",
+            "episodeUrl": "anime/cowboy-bebop-mish-mash-blues",
+            "genres": ["Action", "Adventure", "Comedy", "Drama", "Sci-Fi"],
             "isAdult": false
         },
         {
