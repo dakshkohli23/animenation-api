@@ -1,0 +1,108 @@
+{
+    "id": "17205",
+    "title": {
+        "romaji": "Cowboy Bebop: Ein no Natsuyasumi",
+        "english": "Ein's Summer Vacation",
+        "native": "アインのなつやすみ"
+    },
+    "malId": 17205,
+    "synonyms": [
+        "Cowboy Bebop Special"
+    ],
+    "isLicensed": true,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17205-Dk5nmaKD7hPM.jpg",
+    "imageHash": "hash",
+    "popularity": 6832,
+    "color": "#35f1a1",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/17205-V924IzRELNKt.jpg",
+    "coverHash": "hash",
+    "description": "Picture drama featuring Ein.",
+    "status": "Completed",
+    "releaseDate": 2012,
+    "startDate": {
+        "year": 2012,
+        "month": 12,
+        "day": 21
+    },
+    "endDate": {
+        "year": 2012,
+        "month": 12,
+        "day": 21
+    },
+    "totalEpisodes": 1,
+    "currentEpisode": 1,
+    "rating": 59,
+    "duration": 1,
+    "genres": [
+        "Adventure"
+    ],
+    "season": "FALL",
+    "studios": [],
+    "subOrDub": "sub",
+    "type": "SPECIAL",
+    "recommendations": [],
+    "characters": [
+        {
+            "id": 4,
+            "role": "MAIN",
+            "name": {
+                "first": "Ein",
+                "last": null,
+                "full": "Ein",
+                "native": "アイン",
+                "userPreferred": "Ein"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/4.jpg",
+            "imageHash": "hash",
+            "voiceActors": []
+        },
+        {
+            "id": 16,
+            "role": "BACKGROUND",
+            "name": {
+                "first": "Edward",
+                "last": "Wong Hau Pepelu Tivrusky IV",
+                "full": "Edward Wong Hau Pepelu Tivrusky IV",
+                "native": "エドワード・ウォン・ハウ・ペペル・チブルスキー4世",
+                "userPreferred": "Edward Wong Hau Pepelu Tivrusky IV"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16-80wd87nl1Rue.png",
+            "imageHash": "hash",
+            "voiceActors": []
+        }
+    ],
+    "relations": [
+        {
+            "id": 1,
+            "relationType": "PARENT",
+            "malId": 1,
+            "title": {
+                "romaji": "Cowboy Bebop",
+                "english": "Cowboy Bebop",
+                "native": "カウボーイビバップ",
+                "userPreferred": "Cowboy Bebop"
+            },
+            "status": "Completed",
+            "episodes": 26,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-CXtrrkMpJ8Zq.png",
+            "imageHash": "hash",
+            "color": "#f1785d",
+            "type": "TV",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1-OquNCNB6srGe.jpg",
+            "coverHash": "hash",
+            "rating": 86
+        }
+    ],
+    "episodes": [
+        {
+            "id": "cowboy-bebop-eins-summer-vacation-episode-1",
+            "title": "Ein's Summer Vacation",
+            "image": "https://artworks.thetvdb.com/banners/episodes/76885/4478966.jpg",
+            "imageHash": "hash",
+            "number": 1,
+            "createdAt": "December 21, 2012",
+            "description": "A newly animated special starring Ein! Included in the new Blu-Ray release."
+        }]
+}
