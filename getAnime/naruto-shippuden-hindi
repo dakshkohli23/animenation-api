@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 6,
+    "currentEpisode": 8,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2318,5 +2318,21 @@
             "number": "6",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/323113.jpg",
             "airDate": "2007-03-29"
+        },
+        {
+            "id": "naruto-shippuden-episode-7",
+            "title": "Run, Kankuro",
+            "description": "With Gaara captured and abducted, Kankuro goes after Deidara to get him back. However, his path is soon blocked by Sasori, whom doesn't plan on letting him pass.",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/323114.jpg",
+            "airDate": "2007-03-29"
+        },
+        {
+            "id": "naruto-shippuden-episode-8",
+            "title": "Team Kakashi, Deployed",
+            "description": "With their leader abducted, the Hidden Sand Village requests assistance from Konoha. Tsunade sends Naruto, Sakura, and Kakashi out to help. Worried about her little brother, Temari tags along as well.",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/327595.jpg",
+            "airDate": "2007-04-12"
         }]
 }
