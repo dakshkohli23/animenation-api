@@ -37,8 +37,8 @@
 		"timeUntilAiring": 178006,
 		"episode": 7
 	},
-	"totalEpisodes": 43,
-	"currentEpisode": 43,
+	"totalEpisodes": 44,
+	"currentEpisode": 44,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -941,5 +941,12 @@
             "description": "",
             "number": "43",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10344627/screencap/65f3f23275b80.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-44",
+            "title": "The Plan for Capturing Rayquaza",
+            "description": "",
+            "number": "44",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10345148/screencap/65fd2d59e47d1.jpg"
         }]
 }
