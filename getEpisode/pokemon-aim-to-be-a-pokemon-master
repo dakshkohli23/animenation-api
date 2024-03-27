@@ -1,134 +1,90 @@
 [
         {
-            "server1": "6zohtwrc97u1",
-            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 1 Dubbed",
+            "server1": "n8zfnusqkmro",
+            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 1",
             "ep_num": "1",
             "anime_info": "pokemon-aim-to-be-a-pokemon-master",
             "movie_id": "158870",
-            "alias": "pokemon-aim-to-be-a-pokemon-master",
-            "nextEpText": "Pokémon: Aim to be a Pokémon Master Episode 2 >>",
-            "nextEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-2",
-            "prevEpText": " ",
-            "prevEpLink": " "
+            "subOrDub": "sub"
         },
         {
-            "server1": "afn5d591czvt",
-            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 2 Dubbed",
+            "server1": "hyeb742hgd7r",
+            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 2",
             "ep_num": "2",
             "anime_info": "pokemon-aim-to-be-a-pokemon-master",
             "movie_id": "158870",
-            "alias": "pokemon-aim-to-be-a-pokemon-master",
-            "nextEpText": "Pokémon: Aim to be a Pokémon Master Episode 3 >>",
-            "nextEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-3",
-            "prevEpText": "<< Pokémon: Aim to be a Pokémon Master Episode 1",
-            "prevEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-1"
+            "subOrDub": "sub"
         },
         {
-            "server1": "2dl7x7uqtjh0",
-            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 3 Dubbed",
+            "server1": "4fchuxjpij0c",
+            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 3",
             "ep_num": "3",
             "anime_info": "pokemon-aim-to-be-a-pokemon-master",
             "movie_id": "158870",
-            "alias": "pokemon-aim-to-be-a-pokemon-master",
-            "nextEpText": "Pokémon: Aim to be a Pokémon Master Episode 4 >>",
-            "nextEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-4",
-            "prevEpText": "<< Pokémon: Aim to be a Pokémon Master Episode 2",
-            "prevEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-2"
+            "subOrDub": "sub"
         },
         {
-            "server1": "5dm4l9bu5lxg",
-            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 4 Dubbed",
+            "server1": "j6ld5k5d7s71",
+            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 4",
             "ep_num": "4",
             "anime_info": "pokemon-aim-to-be-a-pokemon-master",
             "movie_id": "158870",
-            "alias": "pokemon-aim-to-be-a-pokemon-master",
-            "nextEpText": "Pokémon: Aim to be a Pokémon Master Episode 5 >>",
-            "nextEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-5",
-            "prevEpText": "<< Pokémon: Aim to be a Pokémon Master Episode 3",
-            "prevEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-3"
+            "subOrDub": "sub"
         },
         {
-            "server1": "t83dk235o810",
-            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 5 Dubbed",
+            "server1": "b5uoycecwksy",
+            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 5",
             "ep_num": "5",
             "anime_info": "pokemon-aim-to-be-a-pokemon-master",
             "movie_id": "158870",
-            "alias": "pokemon-aim-to-be-a-pokemon-master",
-            "nextEpText": "Pokémon: Aim to be a Pokémon Master Episode 6 >>",
-            "nextEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-6",
-            "prevEpText": "<< Pokémon: Aim to be a Pokémon Master Episode 4",
-            "prevEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-4"
+            "subOrDub": "sub"
         },
         {
-            "server1": "ssxvtxq2to8w",
-            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 6 Dubbed",
+            "server1": "37572p0wg9dh",
+            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 6",
             "ep_num": "6",
             "anime_info": "pokemon-aim-to-be-a-pokemon-master",
             "movie_id": "158870",
-            "alias": "pokemon-aim-to-be-a-pokemon-master",
-            "nextEpText": "Pokémon: Aim to be a Pokémon Master Episode 7 >>",
-            "nextEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-7",
-            "prevEpText": "<< Pokémon: Aim to be a Pokémon Master Episode 5",
-            "prevEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-5"
+            "subOrDub": "sub"
         },
         {
-            "server1": "aowgms7xhjp1",
-            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 7 Dubbed",
+            "server1": "v0sy8sqwqmwh",
+            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 7",
             "ep_num": "7",
             "anime_info": "pokemon-aim-to-be-a-pokemon-master",
             "movie_id": "158870",
-            "alias": "pokemon-aim-to-be-a-pokemon-master",
-            "nextEpText": "Pokémon: Aim to be a Pokémon Master Episode 8 >>",
-            "nextEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-8",
-            "prevEpText": "<< Pokémon: Aim to be a Pokémon Master Episode 6",
-            "prevEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-6"
+            "subOrDub": "sub"
         },
         {
-            "server1": "hfeqwvnpc969",
-            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 8 Dubbed",
+            "server1": "d2077707lvzq",
+            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 8",
             "ep_num": "8",
             "anime_info": "pokemon-aim-to-be-a-pokemon-master",
             "movie_id": "158870",
-            "alias": "pokemon-aim-to-be-a-pokemon-master",
-            "nextEpText": "Pokémon: Aim to be a Pokémon Master Episode 9 >>",
-            "nextEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-9",
-            "prevEpText": "<< Pokémon: Aim to be a Pokémon Master Episode 7",
-            "prevEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-7"
+            "subOrDub": "sub"
         },
         {
-            "server1": "8f8yja4mrrcw",
-            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 9 Dubbed",
+            "server1": "mwg9qp9fyoic",
+            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 9",
             "ep_num": "9",
             "anime_info": "pokemon-aim-to-be-a-pokemon-master",
             "movie_id": "158870",
-            "alias": "pokemon-aim-to-be-a-pokemon-master",
-            "nextEpText": "Pokémon: Aim to be a Pokémon Master Episode 10 >>",
-            "nextEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-10",
-            "prevEpText": "<< Pokémon: Aim to be a Pokémon Master Episode 8",
-            "prevEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-8"
+            "subOrDub": "sub"
         },
         {
-            "server1": "28kwmcmqafmm",
-            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 10 Dubbed",
+            "server1": "p1qgj8fs49gq",
+            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 10",
             "ep_num": "10",
             "anime_info": "pokemon-aim-to-be-a-pokemon-master",
             "movie_id": "158870",
-            "alias": "pokemon-aim-to-be-a-pokemon-master",
-            "nextEpText": "Pokémon: Aim to be a Pokémon Master Episode 11 >>",
-            "nextEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-11",
-            "prevEpText": "<< Pokémon: Aim to be a Pokémon Master Episode 9",
-            "prevEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-9"
+            "subOrDub": "sub"
         },
         {
-            "server1": "7kmlz03v3427",
-            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 11 Dubbed",
+            "server1": "19p9rd3pdof3",
+            "animeNameWithEP": "Pokémon: Aim to be a Pokémon Master Episode 11",
             "ep_num": "11",
             "anime_info": "pokemon-aim-to-be-a-pokemon-master",
             "movie_id": "158870",
-            "alias": "pokemon-aim-to-be-a-pokemon-master",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Pokémon: Aim to be a Pokémon Master Episode 10",
-            "prevEpLink": "/pokemon-aim-to-be-a-pokemon-master-episode-10"
+            "subOrDub": "sub"
         }
     ]
