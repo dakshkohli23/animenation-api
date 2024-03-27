@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "naruto-shippuden-hindi",
+		"episodeId": "naruto-shippuden-hindi-episode-1",
+		"jname": "NARUTO: Shippuuden - Hindi",
+		"name": "Naruto: Shippuden - Hindi",
+		"episodeNum": 500,
+		"sub": 14,
+		"dub": 14
+		"type": "tv",
+		"imgUrl": "https://artworks.thetvdb.com/banners/series/79824/posters/5ec20341cbac5.jpg"
+	},
+	{
 		"animeId": "solo-leveling",
 		"episodeId": "solo-leveling-episode-1",
 		"jname": "Ore dake Level Up na Ken",
