@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 8,
+    "currentEpisode": 14,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2334,5 +2334,53 @@
             "number": "8",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/327595.jpg",
             "airDate": "2007-04-12"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-9",
+            "title": "The Jinchuriki's Tears",
+            "description": "As the group travels to Hidden Sand Village, Naruto realizes that Sakura doesn't know why Akatsuki are after Gaara and himself. Has the time finally come to tell her the truth?",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/327596.jpg",
+            "airDate": "2007-04-12"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-10",
+            "title": "Sealing Jutsu: Nine Phantom Dragons",
+            "description": "With Kankuro injured, Chiyo and Ebizou make an appearance in order to save his life. They try everything, but it's all in vain and Kankuro's condition is progressively getting worse. Meanwhile, Sasori and Deidara arrive at the Akatsuki hideout and begin extracting Shukaku from Gaara using a mysterious technique.",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/327597.jpg",
+            "airDate": "2007-04-19"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-11",
+            "title": "The Medical Ninja's Student",
+            "description": "Upon arriving at the Sand Village's medical center, Kakashi is attacked by an elderly woman. Who is this woman and why is she attacking Kakashi? Meanwhile, Sakura does an examination on Kankuro and figures out that he's in bad shape. Can she use what Tsunade taught her in order to save Kankuro's life?",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/327598.jpg",
+            "airDate": "2007-04-26"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-12",
+            "title": "The Retired Granny's Determination",
+            "description": "When Pakkun discovers the whereabouts of the Akatsuki's hideout, Kakashi orders Pakkun to find Gai and his team and lead them to the position. Meanwhile, Kakashi and his group decide to head out with Temari and other sand ninjas, but Chiyo decides to go in her place. Will this old woman help or hinder the mission?",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/328449.jpg",
+            "airDate": "2007-05-03"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-13",
+            "title": "A Meeting With Destiny",
+            "description": "While Gai's group must fight against Kisame in order to proceed, Kakashi's group is cut off by another familiar face...Itachi Uchiha! Kakashi and Naruto team up and face the legendary ninja, but will even that be enough?",
+            "number": "13",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/328450.jpg",
+            "airDate": "2007-05-10"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-14",
+            "title": "Naruto's Growth",
+            "description": "While Gai, Lee, Tenten and Neji continue their battle against Kisame, Naruto and Kakashi work together to fight Itachi. But when Itachi puts Naruto in a genjutsu spell, can Naruto find a way to break free?",
+            "number": "14",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/328451.jpg",
+            "airDate": "2007-05-17"
         }]
 }
