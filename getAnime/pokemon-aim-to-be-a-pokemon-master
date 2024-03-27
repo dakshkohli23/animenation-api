@@ -27,13 +27,8 @@
 		"month": 1,
 		"day": 13
 	},
-	"endDate": {
-		"year": null,
-		"month": null,
-		"day": null
-	},
 	"totalEpisodes": 11,
-	"currentEpisode": 7,
+	"currentEpisode": 11,
 	"rating": 74,
 	"duration": 20,
 	"genres": ["Adventure", "Fantasy"],
@@ -1314,80 +1309,80 @@
 	},
 	"episodes": [{
 		"id": "pokemon-aim-to-be-a-pokemon-master-episode-1",
-		"title": null,
-		"description": null,
+		"title": "The Road Most Traveled!",
+		"description": "Ash and Pikachu are continuing their journey, meeting wild Pokémon while Team Rocket continue to follow him on this adventure to steal Pikachu. However, one day, Ash & Pikachu go to a forest and find the Legendary Pokémon Latias injured. What happened to Latias and can Ash help it?",
 		"number": 1,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9508973/screencap/63bb71ac4defc.jpg",
 		"airDate": "2023-01-13T10:30:50.334Z"
 	}, {
 		"id": "pokemon-aim-to-be-a-pokemon-master-episode-2",
-		"title": null,
-		"description": null,
+		"title": "A Fated Face-Off!",
+		"description": "Continuing their journey, Ash and Pikachu arrive to the beach, where Ash meets a wild Clauncher and tries to catch it. However, awaiting them there is Misty! Who will catch Clauncher?",
 		"number": 2,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9508974/screencap/63bb7220091e1.jpg",
 		"airDate": "2023-01-20T09:55:00.000Z"
 	}, {
 		"id": "pokemon-aim-to-be-a-pokemon-master-episode-3",
-		"title": null,
-		"description": null,
+		"title": "Must Be Our Heroes and the Witch!",
+		"description": "With Misty having rejoined Ash & Pikachu, they continue their travels where they meet up with Brock and Cilan. However, Brock is feeling down due to a fresh heartbreak only to end up being abducted by a wild Hatterene. Why did this happen and can Ash, Cilan & Misty find a way to get Brock back?",
 		"number": 3,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9508975/screencap/63bb725bd063c.jpg",
 		"airDate": "2023-01-27T09:55:00.000Z"
 	}, {
 		"id": "pokemon-aim-to-be-a-pokemon-master-episode-4",
-		"title": null,
-		"description": null,
+		"title": "Bearing Down Easy!",
+		"description": "Ash & Pikachu have decided to go to a mountain to see the rare Magikarp's Waterfall Climb. However, when they get there, they find a Beartic freezing everything around with its Ice powers. There seems to be something troubling the Beartic. Will Ash be able to help?",
 		"number": 4,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9508976/screencap/63dea70e8d40f.jpg",
 		"airDate": "2023-02-03T09:55:00.000Z"
 	}, {
 		"id": "pokemon-aim-to-be-a-pokemon-master-episode-5",
-		"title": null,
-		"description": null,
+		"title": "A Squad’s Worth of Passion!",
+		"description": "Ash, Pikachu and the others have come to a port town where a large crowd has gathered to witness the show put on by the Squirtle Squad, led by the Squirtle that traveled with Ash in the past. Ash and the others are enjoying the show but on the other hand Team Rocket, who have become their manager of the Squirtle Squad seems to be plotting something?",
 		"number": 5,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9508977/screencap/63dea7d233a88.jpg",
 		"airDate": "2023-02-10T09:55:00.000Z"
 	}, {
 		"id": "pokemon-aim-to-be-a-pokemon-master-episode-6",
-		"title": null,
-		"description": null,
+		"title": "The Same Moon, Now and Forever!",
+		"description": "During their journey, Team Rocket attacks Ash and his friends when they had dozed off. Although Ash manages to thwart them, Pikachu flies away into the sky with Team Rocket! Ash and Pikachu, who are separated, search for each other to reunite but. Even if they are apart, their hearts are one! Will they be able to meet again?",
 		"number": 6,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9508978/screencap/63dea83030100.jpg",
 		"airDate": "2023-02-17T09:55:00.000Z"
 	}, {
 		"id": "pokemon-aim-to-be-a-pokemon-master-episode-7",
-		"title": null,
-		"description": null,
+		"title": "Ride, Lapras, Ride!",
+		"description": "Ash and Pikachu reunite with Lapras, who once traveled with them. Lapras seems to be asking for their help. On the island where Lapras guides them to is a Wailmer stuck in a hole in the cave and unable to get out! Will they be able to rescue the Wailmer?",
 		"number": 7,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9508979/screencap/63dea876872bc.jpg",
 		"airDate": "2023-02-24T09:55:00.000Z"
 	}, {
 		"id": "pokemon-aim-to-be-a-pokemon-master-episode-8",
-		"title": null,
-		"description": null,
+		"title": "Getting to the Heart of it All!",
+		"description": "Ash, Pikachu, and the others have come to a town where strange phenomenon have allegedly been occurring in various houses. In order to solve the mystery, the group searches one of the affected houses themselves, where they spot a Banette. The Banette has been taking all kinds of objects from the houses it's broken into. What could its goal be?",
 		"number": 8,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9508981/screencap/63f96de40656b.jpg",
 		"airDate": "2023-03-03T09:55:00.000Z"
 	}, {
 		"id": "pokemon-aim-to-be-a-pokemon-master-episode-9",
-		"title": null,
-		"description": null,
+		"title": "Rocket Revengers!",
+		"description": "Team Rocket have been coveting Ash's Pikachu ever since they first met him and his Trainer in Viridian City. Wanting to get Pikachu once and for all, they decide to bring in all their Pokémon that were kept in HQ to help them. Can Ash prevent Team Rocket from getting his partner and best friend or will he lose him for good?",
 		"number": 9,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9508982/screencap/63f96e1a2253b.jpg",
 		"airDate": "2023-03-03T09:55:00.000Z"
 	}, {
 		"id": "pokemon-aim-to-be-a-pokemon-master-episode-10",
-		"title": null,
-		"description": null,
+		"title": "Ash and Latios!",
+		"description": "Latias once again appears before Ash and Pikachu, using her 'Dream Projection' to show them Latios being attacked by Pokémon Hunters. Can Ash and his friends help Latias rescue Latios?",
 		"number": 10,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9508984/screencap/63f96e30a97c6.jpg",
 		"airDate": "2023-03-03T09:55:00.000Z"
 	}, {
 		"id": "pokemon-aim-to-be-a-pokemon-master-episode-11",
-		"title": null,
-		"description": null,
+		"title": "The Rainbow and the Pokémon Master!",
+		"description": "When Ash and Pikachu return to Pallet Town and reunite with Gary, he asks Ash the following question: How much closer are you to becoming a Pokémon Master, now that you're a Champion? Becoming a Pokémon Master has been the dream Ash had been gunning for ever since he first set off on his journey with Pikachu. Will Ash be able to find the answer to this question?",
 		"number": 11,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+		"image": "https://artworks.thetvdb.com/banners/v4/episode/9508985/screencap/63f96e7c476c5.jpg",
 		"airDate": "2023-03-03T09:55:00.000Z"
 	}]
 }
