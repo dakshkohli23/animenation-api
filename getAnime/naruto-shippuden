@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 14,
+    "currentEpisode": 16,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2382,5 +2382,21 @@
             "number": "14",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/328451.jpg",
             "airDate": "2007-05-17"
+        },
+        {
+            "id": "naruto-shippuden-episode-15",
+            "title": "The Secret Weapon is Called…",
+            "description": "The fights against Itachi and Kisame finally come to an end, but are these the real Itachi and Kisame?",
+            "number": "15",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/328452.jpg",
+            "airDate": "2007-05-24"
+        },
+        {
+            "id": "naruto-shippuden-episode-16",
+            "title": "The Secret of Jinchuriki",
+            "description": "As the group draws closer to Akatsuki's hideout, Chiyo reveals some startling information about the Jinchuuriki. Naruto becomes more determined than ever to rescue Gaara, but is it too late to save him?",
+            "number": "16",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/328453.jpg",
+            "airDate": "2007-05-31"
         }]
 }
