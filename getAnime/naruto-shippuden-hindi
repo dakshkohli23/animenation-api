@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 16,
+    "currentEpisode": 18,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2398,5 +2398,21 @@
             "number": "16",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/328453.jpg",
             "airDate": "2007-05-31"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-17",
+            "title": "The Death of Gaara!",
+            "description": "The group has finally arrived at the Akatsuki hideout, but is it already too late to save Gaara?",
+            "number": "17",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/329899.jpg",
+            "airDate": "2007-06-07"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-18",
+            "title": "Charge Tactic! Button Hook Entry!!",
+            "description": "Knowing that Akatsuki's lair is protected by a powerful barrier, Kakashi and Gai decide that the teams must work together to dismantle the barrier.",
+            "number": "18",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/330140.jpg",
+            "airDate": "2007-06-21"
         }]
 }
