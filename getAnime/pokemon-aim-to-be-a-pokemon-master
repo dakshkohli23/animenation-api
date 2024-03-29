@@ -27,6 +27,11 @@
 		"month": 1,
 		"day": 13
 	},
+	"endDate": {
+        "year": 2023,
+        "month": 3,
+        "day": 24
+    },
 	"totalEpisodes": 11,
 	"currentEpisode": 11,
 	"rating": 74,
