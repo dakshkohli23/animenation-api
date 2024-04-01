@@ -1,302 +1,227 @@
 [
         {
-            "server1": "imoodr861x8t",
+            "server1": "lpudo7k8b7t5",
+            "server2": "pkhbg2d39gky",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 1",
             "ep_num": "1",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 2 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "6dwao6zdu1eg",
+            "server1": "qcwxzwvoxz2z",
+            "server2": "ur9m9oqic1xl",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 2",
             "ep_num": "2",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 3 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-3",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 1",
-            "prevEpLink": "/my-hero-academia-season-6-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "up9j6wnb3evb",
+            "server1": "y72clmqr0c9v",
+            "server2": "kian0v7fwax1",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 3",
             "ep_num": "3",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 4 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-4",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 2",
-            "prevEpLink": "/my-hero-academia-season-6-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "wtbrnfxlr3g7",
+            "server1": "2xzaner4uvkp",
+            "server2": "u674a4laoacp",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 4",
             "ep_num": "4",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 5 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-5",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 3",
-            "prevEpLink": "/my-hero-academia-season-6-episode-3"
+            "subOrDub": "dual"
         },
         {
-            "server1": "5a396dojzx2u",
+            "server1": "kxuq4gzek3e4",
+            "server2": "mro214i15mj5",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 5",
             "ep_num": "5",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 6 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-6",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 4",
-            "prevEpLink": "/my-hero-academia-season-6-episode-4"
+            "subOrDub": "dual"
         },
         {
-            "server1": "17qif0tgucuh",
+            "server1": "bzs1by7mg1fg",
+            "server2": "opeyr6uw5rok",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 6",
             "ep_num": "6",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 7 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-7",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 5",
-            "prevEpLink": "/my-hero-academia-season-6-episode-5"
+            "subOrDub": "dual"
         },
         {
-            "server1": "2dwxd83q9951",
+            "server1": "ubbkofjtdm8l",
+            "server2": "tuzc2trukus2",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 7",
             "ep_num": "7",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 8 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-8",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 6",
-            "prevEpLink": "/my-hero-academia-season-6-episode-6"
+            "subOrDub": "dual"
         },
         {
-            "server1": "y9dv1rsgudon",
+            "server1": "bvl7zixynh5q",
+            "server2": "smbyrz6et8ky",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 8",
             "ep_num": "8",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 9 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-9",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 7",
-            "prevEpLink": "/my-hero-academia-season-6-episode-7"
+            "subOrDub": "dual"
         },
         {
-            "server1": "l1t6rglfazt2",
+            "server1": "3d28abatzy2m",
+            "server2": "0bt50o2nm47e",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 9",
             "ep_num": "9",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 10 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-10",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 8",
-            "prevEpLink": "/my-hero-academia-season-6-episode-8"
+            "subOrDub": "dual"
         },
         {
-            "server1": "zobefrbuxhhh",
+            "server1": "owoxtd2p3c8q",
+            "server2": "u5isbzw3c7zt",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 10",
             "ep_num": "10",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 11 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-11",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 9",
-            "prevEpLink": "/my-hero-academia-season-6-episode-9"
+            "subOrDub": "dual"
         },
         {
-            "server1": "d2iak0903sd2",
+            "server1": "b8zy5cyfbo6c",
+            "server2": "aurqzvnm7zm4",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 11",
             "ep_num": "11",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 12 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-12",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 10",
-            "prevEpLink": "/my-hero-academia-season-6-episode-10"
+            "subOrDub": "dual"
         },
         {
-            "server1": "wit9thfq4o0d",
+            "server1": "dmo4cshlq1mx",
+            "server2": "42hkkyulm62i",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 12",
             "ep_num": "12",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 13 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-13",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 11",
-            "prevEpLink": "/my-hero-academia-season-6-episode-11"
+            "subOrDub": "dual"
         },
         {
-            "server1": "4qdkv6idy2lb",
+            "server1": "z3yqzw93qq3j",
+            "server2": "ostx19ndwg6p",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 13",
             "ep_num": "13",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 14 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-14",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 12",
-            "prevEpLink": "/my-hero-academia-season-6-episode-12"
+            "subOrDub": "dual"
         },
         {
-            "server1": "vf5wyktfivcr",
+            "server1": "leqif12ma6m0",
+            "server2": "dd1a4nz0yx5y",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 14",
             "ep_num": "14",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 15 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-15",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 13",
-            "prevEpLink": "/my-hero-academia-season-6-episode-13"
+            "subOrDub": "dual"
         },
         {
-            "server1": "aak8hhzds7xk",
+            "server1": "yvik4hk1ckh5",
+            "server2": "3nspnbt1mtcn",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 15",
             "ep_num": "15",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 16 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-16",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 14",
-            "prevEpLink": "/my-hero-academia-season-6-episode-14"
+            "subOrDub": "dual"
         },
         {
-            "server1": "gps0f5spsbxl",
+            "server1": "961fm1yma6sj",
+            "server2": "fs4dpzvreibg",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 16",
             "ep_num": "16",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 17 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-17",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 15",
-            "prevEpLink": "/my-hero-academia-season-6-episode-15"
+            "subOrDub": "dual"
         },
         {
-            "server1": "z7sfxammnlow",
+            "server1": "l2es5gc2ykaq",
+            "server2": "boi11vu8bn8w",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 17",
             "ep_num": "17",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 18 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-18",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 16",
-            "prevEpLink": "/my-hero-academia-season-6-episode-16"
+            "subOrDub": "dual"
         },
         {
-            "server1": "vvmbcrzv8wms",
+            "server1": "6gdywfodwj8q",
+            "server2": "d4vpa7oevewg",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 18",
             "ep_num": "18",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 19 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-19",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 17",
-            "prevEpLink": "/my-hero-academia-season-6-episode-17"
+            "subOrDub": "dual"
         },
         {
-            "server1": "ak34vijed4zv",
+            "server1": "y4c0hjpmkcxf",
+            "server2": "bhpb79ld1r69",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 19",
             "ep_num": "19",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 20 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-20",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 18",
-            "prevEpLink": "/my-hero-academia-season-6-episode-18"
+            "subOrDub": "dual"
         },
         {
-            "server1": "q22311403gnw",
+            "server1": "jj3t9l49dgoj",
+            "server2": "sll50t2ffcyl",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 20",
             "ep_num": "20",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 21 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-21",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 19",
-            "prevEpLink": "/my-hero-academia-season-6-episode-19"
+            "subOrDub": "dual"
         },
         {
-            "server1": "c0kj4y10zm33",
+            "server1": "nl5xcl961lbm",
+            "server2": "dhj0mxfs7m9s",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 21",
             "ep_num": "21",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 22 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-22",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 20",
-            "prevEpLink": "/my-hero-academia-season-6-episode-20"
+            "subOrDub": "dual"
         },
         {
-            "server1": "mdax3lj9jwke",
+            "server1": "n45585e1j76h",
+            "server2": "ys6mm7bc1nzd",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 22",
             "ep_num": "22",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 23 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-23",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 21",
-            "prevEpLink": "/my-hero-academia-season-6-episode-21"
+            "subOrDub": "dual"
         },
         {
-            "server1": "19uf55znondr",
+            "server1": "zkmme4dclzyh",
+            "server2": "jikvt2w0pqgu",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 23",
             "ep_num": "23",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 24 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-24",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 22",
-            "prevEpLink": "/my-hero-academia-season-6-episode-22"
+            "subOrDub": "dual"
         },
         {
-            "server1": "j8qbrxvpttwt",
+            "server1": "nqxqwvpvzos9",
+            "server2": "bjwsxa7d6v0d",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 24",
             "ep_num": "24",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "My Hero Academia Season 6 Episode 25 >>",
-            "nextEpLink": "/my-hero-academia-season-6-episode-25",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 23",
-            "prevEpLink": "/my-hero-academia-season-6-episode-23"
+            "subOrDub": "dual"
         },
         {
-            "server1": "azknd79o6o9o",
+            "server1": "zft3tffdp271",
+            "server2": "t0l9d974t43u",
             "animeNameWithEP": "My Hero Academia Season 6 Episode 25",
             "ep_num": "25",
             "anime_info": "my-hero-academia-season-6",
             "movie_id": "139630",
-            "alias": "my-hero-academia-season-6",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< My Hero Academia Season 6 Episode 24",
-            "prevEpLink": "/my-hero-academia-season-6-episode-24"
+            "subOrDub": "dual"
         }
     ]
