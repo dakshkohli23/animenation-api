@@ -27,18 +27,8 @@
 		"month": 4,
 		"day": 14
 	},
-	"endDate": {
-		"year": null,
-		"month": null,
-		"day": null
-	},
-	"nextAiringEpisode": {
-		"airingTime": 1684490100,
-		"timeUntilAiring": 178006,
-		"episode": 7
-	},
-	"totalEpisodes": 44,
-	"currentEpisode": 44,
+	"totalEpisodes": 45,
+	"currentEpisode": 45,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -948,5 +938,12 @@
             "description": "",
             "number": "44",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10345148/screencap/65fd2d59e47d1.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-45",
+            "title": "To Places Far Far Away",
+            "description": "",
+            "number": "45",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10345149/screencap/660692ce50f99.jpg"
         }]
 }
