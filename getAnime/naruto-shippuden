@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 18,
+    "currentEpisode": 20,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2414,5 +2414,21 @@
             "number": "18",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/330140.jpg",
             "airDate": "2007-06-21"
+        },
+        {
+            "id": "naruto-shippuden-episode-19",
+            "title": "Traps Activate! Team Guy's Enemy",
+            "description": "As Gai's team stays behind to fight a group of mysterious enemies, Kakashi's team enters the Akatsuki hideout, where Naruto makes an unhappy discovery.",
+            "number": "19",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/330141.jpg",
+            "airDate": "2007-07-05"
+        },
+        {
+            "id": "naruto-shippuden-episode-20",
+            "title": "Hiruko vs. Two Kunoichi!",
+            "description": "Chiyo and Sakura team up to fight Sasori, but soon realize that if they get something even as small as scratch, it's all over. Can the two defeat this puppet master?",
+            "number": "20",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/332019.jpg",
+            "airDate": "2007-07-19"
         }]
 }
