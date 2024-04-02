@@ -1,0 +1,698 @@
+{
+  "id": "128390",
+  "title": {
+    "romaji": "Enen no Shouboutai Mini Anime",
+    "english": "Fire Force Mini Anime",
+    "native": "炎炎ノ消防隊ミニアニメ"
+  },
+  "malId": 45999,
+  "synonyms": [
+    "Fire Force Mini Anime"
+  ],
+  "isLicensed": true,
+  "isAdult": false,
+  "countryOfOrigin": "JP",
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+  "imageHash": "hash",
+  "popularity": 2600,
+  "color": "#c98650",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128390-Q2Ce70u3WLNF.jpg",
+  "coverHash": "hash",
+  "description": "Mini animation being released on the Fire Force Twitter account.",
+  "status": "Completed",
+  "releaseDate": 2021,
+  "startDate": {
+    "year": 2021,
+    "month": 1,
+    "day": 8
+  },
+  "endDate": {
+    "year": 2021,
+    "month": 7,
+    "day": 30
+  },
+  "totalEpisodes": 30,
+  "currentEpisode": 30,
+  "rating": 57,
+  "duration": 1,
+  "genres": [
+    "Comedy"
+  ],
+  "season": "WINTER",
+  "studios": [],
+  "subOrDub": "sub",
+  "type": "ONA",
+  "recommendations": [],
+  "characters": [
+    {
+      "id": 120462,
+      "role": "MAIN",
+      "name": {
+        "first": "Shinra",
+        "last": "Kusakabe",
+        "full": "Shinra Kusakabe",
+        "native": "日下部森羅",
+        "userPreferred": "Shinra Kusakabe"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n120462-oSWdz2MhkbDE.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 123286,
+          "language": "Japanese",
+          "name": {
+            "first": "Gakuto",
+            "last": "Kajiwara",
+            "full": "Gakuto Kajiwara",
+            "native": "梶原岳人",
+            "userPreferred": "Gakuto Kajiwara"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123286-TfHayiK4hqbk.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 130862,
+      "role": "MAIN",
+      "name": {
+        "first": "Viktor",
+        "last": "Licht",
+        "full": "Viktor Licht",
+        "native": "ヴィクトル・リヒト",
+        "userPreferred": "Viktor Licht"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130862-jScLEFMkfo27.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95278,
+          "language": "Japanese",
+          "name": {
+            "first": "Daisuke",
+            "last": "Sakaguchi",
+            "full": "Daisuke Sakaguchi",
+            "native": "阪口大助",
+            "userPreferred": "Daisuke Sakaguchi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95278-IrUPhIvJCsF9.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 130715,
+      "role": "MAIN",
+      "name": {
+        "first": "Arthur",
+        "last": "Boyle",
+        "full": "Arthur Boyle",
+        "native": "アーサー・ボイル",
+        "userPreferred": "Arthur Boyle"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130715-IYNBAHBQa14y.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 118407,
+          "language": "Japanese",
+          "name": {
+            "first": "Yuusuke",
+            "last": "Kobayashi",
+            "full": "Yuusuke Kobayashi",
+            "native": "小林裕介",
+            "userPreferred": "Yuusuke Kobayashi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118407-QvEt3bGtuRQM.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 130713,
+      "role": "MAIN",
+      "name": {
+        "first": "Maki",
+        "last": "Oze",
+        "full": "Maki Oze",
+        "native": "尾瀬茉希",
+        "userPreferred": "Maki Oze"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130713-TgLx8rgtGpXV.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 135200,
+          "language": "Japanese",
+          "name": {
+            "first": "Saeko",
+            "last": "Kamijou",
+            "full": "Saeko Kamijou",
+            "native": "上條沙恵子",
+            "userPreferred": "Saeko Kamijou"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135200-puheykQEE9s6.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 130783,
+      "role": "MAIN",
+      "name": {
+        "first": "Princess Hibana",
+        "last": null,
+        "full": "Princess Hibana",
+        "native": "プリンセス火華",
+        "userPreferred": "Princess Hibana"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130783-10kVdsVrwpuO.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 118806,
+          "language": "Japanese",
+          "name": {
+            "first": "Lynn",
+            "last": "",
+            "full": "Lynn",
+            "native": "Lynn",
+            "userPreferred": "Lynn"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118806-AlHvdje5aHje.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 130848,
+      "role": "MAIN",
+      "name": {
+        "first": "Benimaru",
+        "last": "Shinmon",
+        "full": "Benimaru Shinmon",
+        "native": "紅丸新門",
+        "userPreferred": "Benimaru Shinmon"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130848-AuuIm6GR8ody.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95065,
+          "language": "Japanese",
+          "name": {
+            "first": "Mamoru",
+            "last": "Miyano",
+            "full": "Mamoru Miyano",
+            "native": "宮野真守",
+            "userPreferred": "Mamoru Miyano"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 130716,
+      "role": "MAIN",
+      "name": {
+        "first": "Iris",
+        "last": null,
+        "full": "Iris",
+        "native": "アイリス",
+        "userPreferred": "Iris"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130716-5564jUgQxK9a.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 118510,
+          "language": "Japanese",
+          "name": {
+            "first": "Mao",
+            "last": "Ichimichi",
+            "full": "Mao Ichimichi",
+            "native": "市道真央",
+            "userPreferred": "Mao Ichimichi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 135385,
+      "role": "MAIN",
+      "name": {
+        "first": "Joker",
+        "last": null,
+        "full": "Joker",
+        "native": "ジョーカー",
+        "userPreferred": "Joker"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135385-gfcFoxReUVzq.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95591,
+          "language": "Japanese",
+          "name": {
+            "first": "Kenjirou",
+            "last": "Tsuda",
+            "full": "Kenjirou Tsuda",
+            "native": "津田健次郎",
+            "userPreferred": "Kenjirou Tsuda"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 130714,
+      "role": "MAIN",
+      "name": {
+        "first": "Takehisa",
+        "last": "Hinawa",
+        "full": "Takehisa Hinawa",
+        "native": "武久火縄",
+        "userPreferred": "Takehisa Hinawa"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/n130714-pLzE3rXtP1C4.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95005,
+          "language": "Japanese",
+          "name": {
+            "first": "Kenichi",
+            "last": "Suzumura",
+            "full": "Kenichi Suzumura",
+            "native": "鈴村健一",
+            "userPreferred": "Kenichi Suzumura"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95005-SkoVN02iOglr.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 130712,
+      "role": "MAIN",
+      "name": {
+        "first": "Akitaru",
+        "last": "Oubi",
+        "full": "Akitaru Oubi",
+        "native": "秋樽桜備",
+        "userPreferred": "Akitaru Oubi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130712-N38fiCh2y0CX.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95123,
+          "language": "Japanese",
+          "name": {
+            "first": "Kazuya",
+            "last": "Nakai",
+            "full": "Kazuya Nakai",
+            "native": "中井和哉",
+            "userPreferred": "Kazuya Nakai"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95123-qdVFNraYmQ5K.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 130751,
+      "role": "MAIN",
+      "name": {
+        "first": "Tamaki",
+        "last": "Kotatsu",
+        "full": "Tamaki Kotatsu",
+        "native": "環古達",
+        "userPreferred": "Tamaki Kotatsu"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130751-J8rhd4d3TxF4.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 101686,
+          "language": "Japanese",
+          "name": {
+            "first": "Aoi",
+            "last": "Yuuki",
+            "full": "Aoi Yuuki",
+            "native": "悠木碧",
+            "userPreferred": "Aoi Yuuki"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 143289,
+      "role": "MAIN",
+      "name": {
+        "first": "Vulcan",
+        "last": "Joseph",
+        "full": "Vulcan Joseph",
+        "native": "ヴァルカンジョゼフ",
+        "userPreferred": "Vulcan Joseph"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143289-WgHxKJbuheic.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 119833,
+          "language": "Japanese",
+          "name": {
+            "first": "Taku",
+            "last": "Yashiro",
+            "full": "Taku Yashiro",
+            "native": "八代拓",
+            "userPreferred": "Taku Yashiro"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119833-0SP13A92YLm4.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": 105310,
+      "relationType": "PARENT",
+      "malId": 38671,
+      "title": {
+        "romaji": "Enen no Shouboutai",
+        "english": "Fire Force",
+        "native": "炎炎ノ消防隊",
+        "userPreferred": "Enen no Shouboutai"
+      },
+      "status": "Completed",
+      "episodes": 24,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-x4o2xMlfxIwb.jpg",
+      "imageHash": "hash",
+      "color": "#e4bb50",
+      "type": "TV",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/105310-5OEWWnzQOTyW.jpg",
+      "coverHash": "hash",
+      "rating": 76
+    },
+    {
+      "id": 114236,
+      "relationType": "PARENT",
+      "malId": 40956,
+      "title": {
+        "romaji": "Enen no Shouboutai: Ni no Shou",
+        "english": "Fire Force Season 2",
+        "native": "炎炎ノ消防隊 弐ノ章",
+        "userPreferred": "Enen no Shouboutai: Ni no Shou"
+      },
+      "status": "Completed",
+      "episodes": 24,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114236-wfQOWF0Ii3h2.png",
+      "imageHash": "hash",
+      "color": "#f1c935",
+      "type": "TV",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114236-6nbw38bHeXYQ.jpg",
+      "coverHash": "hash",
+      "rating": 78
+    }
+  ],
+  "episodes": [
+    {
+      "id": "fire-force-mini-anime-episode-1",
+      "title": "EP 1",
+      "description": null,
+      "number": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-2",
+      "title": "EP 2",
+      "description": null,
+      "number": 2,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-3",
+      "title": "EP 3",
+      "description": null,
+      "number": 3,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-4",
+      "title": "EP 4",
+      "description": null,
+      "number": 4,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-5",
+      "title": "EP 5",
+      "description": null,
+      "number": 5,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-6",
+      "title": "EP 6",
+      "description": null,
+      "number": 6,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-7",
+      "title": "EP 7",
+      "description": null,
+      "number": 7,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-8",
+      "title": "EP 8",
+      "description": null,
+      "number": 8,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-9",
+      "title": "EP 9",
+      "description": null,
+      "number": 9,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-10",
+      "title": "EP 10",
+      "description": null,
+      "number": 10,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-11",
+      "title": "EP 11",
+      "description": null,
+      "number": 11,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-12",
+      "title": "EP 12",
+      "description": null,
+      "number": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-13",
+      "title": "EP 13",
+      "description": null,
+      "number": 13,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-14",
+      "title": "EP 14",
+      "description": null,
+      "number": 14,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-15",
+      "title": "EP 15",
+      "description": null,
+      "number": 15,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-16",
+      "title": "EP 16",
+      "description": null,
+      "number": 16,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-17",
+      "title": "EP 17",
+      "description": null,
+      "number": 17,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-18",
+      "title": "EP 18",
+      "description": null,
+      "number": 18,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-19",
+      "title": "EP 19",
+      "description": null,
+      "number": 19,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-20",
+      "title": "EP 20",
+      "description": null,
+      "number": 20,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-21",
+      "title": "EP 21",
+      "description": null,
+      "number": 21,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-22",
+      "title": "EP 22",
+      "description": null,
+      "number": 22,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-23",
+      "title": "EP 23",
+      "description": null,
+      "number": 23,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-24",
+      "title": "EP 24",
+      "description": null,
+      "number": 24,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-25",
+      "title": "EP 25",
+      "description": null,
+      "number": 25,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-26",
+      "title": "EP 26",
+      "description": null,
+      "number": 26,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-27",
+      "title": "EP 27",
+      "description": null,
+      "number": 27,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-28",
+      "title": "EP 28",
+      "description": null,
+      "number": 28,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-29",
+      "title": "EP 29",
+      "description": null,
+      "number": 29,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "fire-force-mini-anime-episode-30",
+      "title": "EP 30",
+      "description": null,
+      "number": 30,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+      "imageHash": "hash",
+      "airDate": null
+    }
+  ]
+}
