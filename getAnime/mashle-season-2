@@ -52,7 +52,37 @@
   ],
   "subOrDub": "sub",
   "type": "TV",
-  "recommendations": [],
+  "recommendations": [{
+		"id": 151801,
+		"malId": 52211,
+		"title": {
+			"romaji": "MASHLE",
+			"english": "MASHLE: MAGIC AND MUSCLES",
+			"native": "マッシュル-MASHLE-"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-wYg28dEaJAw3.png",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151801-zBFaJMIJFWfS.jpg",
+		"rating": 76,
+		"type": "TV",
+		"animeurl": "mashle"
+	},{
+		"id": 166610,
+		"malId": 55813,
+		"title": {
+			"romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+			"english": "MASHLE: MAGIC AND MUSCLES Season 2",
+			"native": "マッシュル-MASHLE- 神覚者候補選抜試験編"
+		},
+		"status": "Completed",
+		"episodes": 12,
+		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166610-S5q7V2v5zdDK.jpg",
+		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166610-2gA4Vv20MVhv.jpg",
+		"rating": 79,
+		"type": "TV",
+		"animeurl": "mashle-season-2"
+	}],
   "characters": [
     {
       "id": 158734,
