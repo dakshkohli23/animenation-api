@@ -586,6 +586,20 @@
             "isAdult": false
         },
         {
+            "animeId": "cowboy-bebop-the-movie",
+            "episodeId": "cowboy-bebop-the-movie-episode-1",
+            "jname": "Cowboy Bebop: Tengoku no Tobira",
+            "name": "Cowboy Bebop: The Movie - Knockin' on Heaven's Door",
+            "sub": "1",
+            "dub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5-NozHwXWdNLCz.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/cowboy-bebop-the-movie",
+            "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+            "isAdult": false
+        },
+        {
             "animeId": "death-note",
             "episodeId": "death-note-episode-1",
             "jname": "DEATH NOTE",
@@ -827,6 +841,47 @@
             "type": "special",
             "episodeUrl": "anime/cowboy-bebop-eins-summer-vacation",
             "genres": [ "Adventure"],
+            "isAdult": false
+        },
+        {
+            "animeId": "fire-force",
+            "episodeId": "fire-force-episode-1",
+            "jname": "Enen no Shouboutai",
+            "name": "Fire Force",
+            "sub": "24",
+            "dub": "24",
+            "totalEpisodes": "24",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-x4o2xMlfxIwb.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/fire-force",
+            "genres": ["Action", "Drama", "Sci-Fi", "Supernatural"],
+            "isAdult": false
+        },
+        {
+            "animeId": "fire-force-mini-anime",
+            "episodeId": "fire-force-mini-anime-episode-1",
+            "jname": "Enen no Shouboutai Mini Anime",
+            "name": "Fire Force Mini Anime",
+            "sub": "30",
+            "totalEpisodes": "30",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png",
+            "type": "ona",
+            "episodeUrl": "anime/fire-force-mini-anime",
+            "genres": ["Comedy"],
+            "isAdult": false
+        },
+        {
+            "animeId": "fire-force-season-2",
+            "episodeId": "fire-force-season-2-episode-1",
+            "jname": "Enen no Shouboutai: Ni no Shou",
+            "name": "Fire Force Season 2",
+            "sub": "24",
+            "dub": "24",
+            "totalEpisodes": "24",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114236-wfQOWF0Ii3h2.png",
+            "type": "tv",
+            "episodeUrl": "anime/fire-force-season-2",
+            "genres": ["Action", "Drama", "Sci-Fi", "Supernatural"],
             "isAdult": false
         },
         {
