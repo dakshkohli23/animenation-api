@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "naruto-shippuden",
+		"episodeId": "naruto-shippuden-episode-24",
+		"jname": "NARUTO: Shippuuden",
+		"name": "Naruto: Shippuden",
+		"episodeNum": 500,
+		"sub": 24,
+		"dub": 24,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
+	},
+	{
 		"animeId": "mashle-season-2",
 		"episodeId": "mashle-season-2-episode-1",
 		"jname": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
@@ -41,17 +52,6 @@
 		"dub": 24,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-x4o2xMlfxIwb.jpg"
-	},
-	{
-		"animeId": "naruto-shippuden",
-		"episodeId": "naruto-shippuden-episode-22",
-		"jname": "NARUTO: Shippuuden",
-		"name": "Naruto: Shippuden",
-		"episodeNum": 500,
-		"sub": 22,
-		"dub": 22,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
 	},
 	{
 		"animeId": "pokemon-horizons-the-series",
