@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 22,
+    "currentEpisode": 24,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2446,5 +2446,21 @@
             "number": "22",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/333121.jpg",
             "airDate": "2007-08-02"
+        },
+        {
+            "id": "naruto-shippuden-episode-23",
+            "title": "Father and Mother",
+            "description": "The Iron Sand stops both puppets from moving. Chiyo's right arm (which she had turned into a puppet) gets clogged and broken as well. Chiyo thinks back to the past and remembers how Sasori created and controled his first puppets, Father and Mother. Sakura urges Chiyo to use her again as her puppet. With Chiyo's help, Sakura avoids the columns formed by the Iron Sand to attack her.",
+            "number": "23",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/333122.jpg",
+            "airDate": "2007-08-02"
+        },
+        {
+            "id": "naruto-shippuden-episode-24",
+            "title": "The Third Kazekage",
+            "description": "Chiyo and Sakura must try and defeat Sasori's strongest puppet, the Third Kazekage.",
+            "number": "24",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/333123.jpg",
+            "airDate": "2007-08-09"
         }]
 }
