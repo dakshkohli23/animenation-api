@@ -1,5 +1,38 @@
 [
 	{
+		"animeId": "fire-force-mini-anime",
+		"episodeId": "fire-force-mini-anime-episode-1",
+		"jname": "Enen no Shouboutai Mini Anime",
+		"name": "Fire Force Mini Anime",
+		"episodeNum": 30,
+		"sub": 30,
+		"dub": 30,
+		"type": "ona",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128390-mAZM9djmgPEi.png"
+	},
+	{
+		"animeId": "fire-force-season-2",
+		"episodeId": "fire-force-season-2-episode-1",
+		"jname": "Enen no Shouboutai: Ni no Shou",
+		"name": "Fire Force Season 2",
+		"episodeNum": 24,
+		"sub": 24,
+		"dub": 24,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114236-wfQOWF0Ii3h2.png"
+	},
+	{
+		"animeId": "fire-force",
+		"episodeId": "fire-force-episode-1",
+		"jname": "Enen no Shouboutai",
+		"name": "Fire Force",
+		"episodeNum": 24,
+		"sub": 24,
+		"dub": 24,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-x4o2xMlfxIwb.jpg"
+	},
+	{
 		"animeId": "naruto-shippuden",
 		"episodeId": "naruto-shippuden-episode-22",
 		"jname": "NARUTO: Shippuuden",
