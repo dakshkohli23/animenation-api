@@ -1064,6 +1064,19 @@
             "isAdult": false
         },
         {
+            "animeId": "mashle-season-2",
+            "episodeId": "mashle-season-2-episode-1",
+            "jname": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
+            "name": "MASHLE: MAGIC AND MUSCLES Season 2",
+            "sub": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166610-S5q7V2v5zdDK.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/mashle-season-2",
+            "genres": ["Action", "Comedy", "Fantasy"],
+            "isAdult": false
+        },
+        {
             "animeId": "cowboy-bebop-mish-mash-blues",
             "episodeId": "cowboy-bebop-mish-mash-blues-episode-1",
             "jname": "Cowboy Bebop: Yoseatsume Blues",
