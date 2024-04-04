@@ -1,0 +1,1022 @@
+{
+  "id": "103139",
+  "title": {
+    "romaji": "Domestic na Kanojo",
+    "english": "Domestic Girlfriend",
+    "native": "ドメスティックな彼女"
+  },
+  "malId": 37982,
+  "synonyms": [
+    "DomeKano",
+    "บทเรียนรักเส้นทางหัวใจ"
+  ],
+  "isLicensed": true,
+  "isAdult": false,
+  "countryOfOrigin": "JP",
+  "trailer": {
+    "id": "LLPv26YL4VU",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/LLPv26YL4VU/hqdefault.jpg",
+    "thumbnailHash": "hash"
+  },
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103139-2TfvRyGTE1qp.jpg",
+  "imageHash": "hash",
+  "popularity": 165536,
+  "color": "#e45d28",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n103139-SYU7CHGiubmn.jpg",
+  "coverHash": "hash",
+  "description": "Natsuo Fuji has a serious crush on one of his teachers, Hina Tachibana, but since he knows he has zero chance of ever being in a relationship with her, he lets his friends talk him into going to a party where he meets Rui. One thing leads to another and then, well, neither of them is a virgin anymore. Unfortunately, it wasn't what they expected, but that's fine. They're just ships passing in the night and they'll never have to see each other again, right? Except when Natsuo's father announces that he's getting married again, Natsuo discovers that he's getting two new step-sisters as well. Now there's a problem, because one is his teacher, Hina, and the other is Rui.\u003Cbr\u003E\u003Cbr\u003E\n\n(Source: Sentai Filmworks)",
+  "status": "Completed",
+  "releaseDate": 2019,
+  "startDate": {
+    "year": 2019,
+    "month": 1,
+    "day": 12
+  },
+  "endDate": {
+    "year": 2019,
+    "month": 3,
+    "day": 30
+  },
+  "totalEpisodes": 12,
+  "currentEpisode": 12,
+  "rating": 64,
+  "duration": 25,
+  "genres": [
+    "Drama",
+    "Ecchi",
+    "Romance"
+  ],
+  "season": "WINTER",
+  "studios": [
+    "diomedéa"
+  ],
+  "subOrDub": "dual",
+  "type": "TV",
+  "recommendations": [],
+  "characters": [
+    {
+      "id": 127594,
+      "role": "MAIN",
+      "name": {
+        "first": "Natsuo",
+        "last": "Fujii",
+        "full": "Natsuo Fujii",
+        "native": "藤井夏生",
+        "userPreferred": "Natsuo Fujii"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127594-HhC0gZYT2fkE.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 119833,
+          "language": "Japanese",
+          "name": {
+            "first": "Taku",
+            "last": "Yashiro",
+            "full": "Taku Yashiro",
+            "native": "八代拓",
+            "userPreferred": "Taku Yashiro"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119833-0SP13A92YLm4.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 111641,
+          "language": "English",
+          "name": {
+            "first": "Austin",
+            "last": "Tindle",
+            "full": "Austin Tindle",
+            "native": null,
+            "userPreferred": "Austin Tindle"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111641-DbiOaZhYsNsi.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 188695,
+          "language": "German",
+          "name": {
+            "first": "François",
+            "last": "Goeske",
+            "full": "François Goeske",
+            "native": null,
+            "userPreferred": "François Goeske"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 127596,
+      "role": "MAIN",
+      "name": {
+        "first": "Rui",
+        "last": "Tachibana",
+        "full": "Rui Tachibana",
+        "native": "橘瑠衣",
+        "userPreferred": "Rui Tachibana"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127596-VJjQQk2uWrgM.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 108639,
+          "language": "Japanese",
+          "name": {
+            "first": "Maaya",
+            "last": "Uchida",
+            "full": "Maaya Uchida",
+            "native": "内田真礼",
+            "userPreferred": "Maaya Uchida"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 128753,
+          "language": "English",
+          "name": {
+            "first": "Natalie",
+            "last": "Rial",
+            "full": "Natalie Rial",
+            "native": null,
+            "userPreferred": "Natalie Rial"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128753-RoLG6jjjGvCI.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 156683,
+          "language": "German",
+          "name": {
+            "first": "Alina",
+            "last": "Freund",
+            "full": "Alina Freund",
+            "native": null,
+            "userPreferred": "Alina Freund"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n156683-N3fTP37CUzW6.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 127595,
+      "role": "MAIN",
+      "name": {
+        "first": "Hina",
+        "last": "Tachibana",
+        "full": "Hina Tachibana",
+        "native": "橘陽菜",
+        "userPreferred": "Hina Tachibana"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127595-c4TtXpbmIKoK.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 102263,
+          "language": "Japanese",
+          "name": {
+            "first": "Youko",
+            "last": "Hikasa",
+            "full": "Youko Hikasa",
+            "native": "日笠陽子",
+            "userPreferred": "Youko Hikasa"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 129144,
+          "language": "English",
+          "name": {
+            "first": "Patricia",
+            "last": "Duran",
+            "full": "Patricia Duran",
+            "native": null,
+            "userPreferred": "Patricia Duran"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129144-TsEsYXH5n0va.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 169386,
+          "language": "German",
+          "name": {
+            "first": "Angelina",
+            "last": "Markiefka",
+            "full": "Angelina Markiefka",
+            "native": null,
+            "userPreferred": "Angelina Markiefka"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n169386-yh8y5aCjvqNe.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 135351,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Miu",
+        "last": "Ashihara",
+        "full": "Miu Ashihara",
+        "native": "葦原美雨",
+        "userPreferred": "Miu Ashihara"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135351-BiTe7N8VHIO3.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 121961,
+          "language": "Japanese",
+          "name": {
+            "first": "Konomi",
+            "last": "Kohara",
+            "full": "Konomi Kohara",
+            "native": "小原好美",
+            "userPreferred": "Konomi Kohara"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121961-TaMewK1taQm6.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 95189,
+          "language": "English",
+          "name": {
+            "first": "Luci",
+            "last": "Christian",
+            "full": "Luci Christian",
+            "native": null,
+            "userPreferred": "Luci Christian"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95189-M2IkMNRzHYcF.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 163102,
+          "language": "German",
+          "name": {
+            "first": "Jana Dunja",
+            "last": "Gries",
+            "full": "Jana Dunja Gries",
+            "native": null,
+            "userPreferred": "Jana Dunja Gries"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163102-8N7hufJRXy5R.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 257476,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Youta",
+        "last": null,
+        "full": "Youta",
+        "native": "葉大",
+        "userPreferred": "Youta"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b257476-ncmIM0VnroLo.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 112215,
+          "language": "Japanese",
+          "name": {
+            "first": "Atsumi",
+            "last": "Tanezaki",
+            "full": "Atsumi Tanezaki",
+            "native": "種﨑敦美",
+            "userPreferred": "Atsumi Tanezaki"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 96606,
+          "language": "English",
+          "name": {
+            "first": "Allison",
+            "last": "Sumrall",
+            "full": "Allison Sumrall",
+            "native": null,
+            "userPreferred": "Allison Sumrall"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96606-oaTOj5bbSpDs.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 135352,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Akihito",
+        "last": "Fujii",
+        "full": "Akihito Fujii",
+        "native": "藤井昭人",
+        "userPreferred": "Akihito Fujii"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135352-111kWl5Gqj6N.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95157,
+          "language": "Japanese",
+          "name": {
+            "first": "Nobuo",
+            "last": "Tobita",
+            "full": "Nobuo Tobita",
+            "native": "飛田展男",
+            "userPreferred": "Nobuo Tobita"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95157-td6WhlGehuDJ.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 101917,
+          "language": "English",
+          "name": {
+            "first": "Mark",
+            "last": "Laskowski",
+            "full": "Mark Laskowski",
+            "native": null,
+            "userPreferred": "Mark Laskowski"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101917-bIZf8FRgWTMv.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 132373,
+          "language": "German",
+          "name": {
+            "first": "Gerd",
+            "last": "Meyer",
+            "full": "Gerd Meyer",
+            "native": null,
+            "userPreferred": "Gerd Meyer"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 135462,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Reiji",
+        "last": "Kiriya",
+        "full": "Reiji Kiriya",
+        "native": "桐谷怜士",
+        "userPreferred": "Reiji Kiriya"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135462-C4oYV7PlmXhC.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95112,
+          "language": "Japanese",
+          "name": {
+            "first": "Hikaru",
+            "last": "Midorikawa",
+            "full": "Hikaru Midorikawa",
+            "native": "緑川光",
+            "userPreferred": "Hikaru Midorikawa"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95112-c275OLptkSYO.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 104777,
+          "language": "English",
+          "name": {
+            "first": "David",
+            "last": "Wald",
+            "full": "David Wald",
+            "native": null,
+            "userPreferred": "David Wald"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/9777.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 145845,
+          "language": "German",
+          "name": {
+            "first": "Andreas",
+            "last": "Thiele",
+            "full": "Andreas Thiele",
+            "native": null,
+            "userPreferred": "Andreas Thiele"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 135346,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Shuu",
+        "last": "Hagiwara",
+        "full": "Shuu Hagiwara",
+        "native": "萩原柊",
+        "userPreferred": "Shuu Hagiwara"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135346-OCF0mBCz9w98.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95183,
+          "language": "Japanese",
+          "name": {
+            "first": "Daisuke",
+            "last": "Hirakawa",
+            "full": "Daisuke Hirakawa",
+            "native": "平川大輔",
+            "userPreferred": "Daisuke Hirakawa"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95183-5C42gbrKIP7L.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 112243,
+          "language": "English",
+          "name": {
+            "first": "Adam",
+            "last": "Gibbs",
+            "full": "Adam Gibbs",
+            "native": null,
+            "userPreferred": "Adam Gibbs"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112243-7yJ7mTSB6bDK.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 130898,
+          "language": "German",
+          "name": {
+            "first": "Louis Friedemann",
+            "last": "Thiele",
+            "full": "Louis Friedemann Thiele",
+            "native": null,
+            "userPreferred": "Louis Friedemann Thiele"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n130898-nb25xoHfhCFs.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 135548,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Masaki",
+        "last": "Kobayashi",
+        "full": "Masaki Kobayashi",
+        "native": "小林昌樹",
+        "userPreferred": "Masaki Kobayashi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135548-ThgGfhl0YJ2l.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95591,
+          "language": "Japanese",
+          "name": {
+            "first": "Kenjirou",
+            "last": "Tsuda",
+            "full": "Kenjirou Tsuda",
+            "native": "津田健次郎",
+            "userPreferred": "Kenjirou Tsuda"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 95473,
+          "language": "English",
+          "name": {
+            "first": "John",
+            "last": "Gremillion",
+            "full": "John Gremillion",
+            "native": null,
+            "userPreferred": "John Gremillion"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/473.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 140821,
+          "language": "German",
+          "name": {
+            "first": "Martin",
+            "last": "Bonvicini",
+            "full": "Martin Bonvicini",
+            "native": "Martin Bonvicini",
+            "userPreferred": "Martin Bonvicini"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140821-2R8oNqbNFL2i.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 135347,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Tsukiko",
+        "last": "Tachibana",
+        "full": "Tsukiko Tachibana",
+        "native": "橘都樹子",
+        "userPreferred": "Tsukiko Tachibana"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135347-RnnY7E3yZ0gi.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 102001,
+          "language": "Japanese",
+          "name": {
+            "first": "Yurika",
+            "last": "Hino",
+            "full": "Yurika Hino",
+            "native": "日野由利加",
+            "userPreferred": "Yurika Hino"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102001-T8ryqiXT5Na8.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 101181,
+          "language": "English",
+          "name": {
+            "first": "Carli",
+            "last": "Mosier",
+            "full": "Carli Mosier",
+            "native": "Carlin Cyd Mosier",
+            "userPreferred": "Carli Mosier"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101181-LTc5rfaUef91.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 115374,
+          "language": "German",
+          "name": {
+            "first": "Carin",
+            "last": "Tietze",
+            "full": "Carin Tietze",
+            "native": null,
+            "userPreferred": "Carin Tietze"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/20374.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 203984,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Ayano",
+        "last": null,
+        "full": "Ayano",
+        "native": "綾乃",
+        "userPreferred": "Ayano"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203984-4wFqqPGBwTbn.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95132,
+          "language": "Japanese",
+          "name": {
+            "first": "Mikako",
+            "last": "Takahashi",
+            "full": "Mikako Takahashi",
+            "native": "高橋美佳子",
+            "userPreferred": "Mikako Takahashi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95132-TpIFKL0tJg84.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 129178,
+          "language": "English",
+          "name": {
+            "first": "Avery",
+            "last": "Smithhart",
+            "full": "Avery Smithhart",
+            "native": null,
+            "userPreferred": "Avery Smithhart"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129178-ebHnrADoD0b1.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 107326,
+          "language": "German",
+          "name": {
+            "first": "Katharina",
+            "last": "Iacobescu",
+            "full": "Katharina Iacobescu",
+            "native": null,
+            "userPreferred": "Katharina Iacobescu"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107326-vaSw8yZvh7aq.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 135348,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Momo",
+        "last": "Kashiwabara",
+        "full": "Momo Kashiwabara",
+        "native": "柏原もも",
+        "userPreferred": "Momo Kashiwabara"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135348-IowwV47YPQpL.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 118914,
+          "language": "Japanese",
+          "name": {
+            "first": "Haruka",
+            "last": "Yoshimura",
+            "full": "Haruka Yoshimura",
+            "native": "佳村はるか",
+            "userPreferred": "Haruka Yoshimura"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118914-y5SToHdnK2uZ.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 95151,
+          "language": "English",
+          "name": {
+            "first": "Hilary",
+            "last": "Haag",
+            "full": "Hilary Haag",
+            "native": null,
+            "userPreferred": "Hilary Haag"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/151.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 145846,
+          "language": "German",
+          "name": {
+            "first": "Nina",
+            "last": "Benz",
+            "full": "Nina Benz",
+            "native": null,
+            "userPreferred": "Nina Benz"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 203985,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Jun",
+        "last": "Fujii",
+        "full": "Jun Fujii",
+        "native": "藤井純",
+        "userPreferred": "Jun Fujii"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203985-8pQkDSUBBxco.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95031,
+          "language": "Japanese",
+          "name": {
+            "first": "Mai",
+            "last": "Nakahara",
+            "full": "Mai Nakahara",
+            "native": "中原麻衣",
+            "userPreferred": "Mai Nakahara"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-tipPIz2k0Ncw.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 95162,
+          "language": "English",
+          "name": {
+            "first": "Kira",
+            "last": "Vincent-Davis",
+            "full": "Kira Vincent-Davis",
+            "native": null,
+            "userPreferred": "Kira Vincent-Davis"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/162.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 130891,
+          "language": "German",
+          "name": {
+            "first": "Kerstin",
+            "last": "Dietrich",
+            "full": "Kerstin Dietrich",
+            "native": null,
+            "userPreferred": "Kerstin Dietrich"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n130891-t4hfM5tQ1Hj1.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 135349,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Fumiya",
+        "last": "Kurimoto",
+        "full": "Fumiya Kurimoto",
+        "native": "栗本文哉",
+        "userPreferred": "Fumiya Kurimoto"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135349-E0p9qY1SMQ0P.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 102695,
+          "language": "Japanese",
+          "name": {
+            "first": "Takuya",
+            "last": "Eguchi",
+            "full": "Takuya Eguchi",
+            "native": "江口拓也",
+            "userPreferred": "Takuya Eguchi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 96848,
+          "language": "English",
+          "name": {
+            "first": "Andrew",
+            "last": "Love",
+            "full": "Andrew Love",
+            "native": null,
+            "userPreferred": "Andrew Love"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1848.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 199522,
+          "language": "German",
+          "name": {
+            "first": "Benedikt",
+            "last": "Hahn",
+            "full": "Benedikt Hahn",
+            "native": null,
+            "userPreferred": "Benedikt Hahn"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 203986,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Kiriya no Tantou Josei Henshuu-sha",
+        "last": null,
+        "full": "Kiriya no Tantou Josei Henshuu-sha",
+        "native": "桐谷の担当女性編集者",
+        "userPreferred": "Kiriya no Tantou Josei Henshuu-sha"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203986-YFh24m4hWoS3.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95380,
+          "language": "Japanese",
+          "name": {
+            "first": "Sayuri",
+            "last": "Yahagi",
+            "full": "Sayuri Yahagi",
+            "native": "矢作紗友里",
+            "userPreferred": "Sayuri Yahagi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95380-mOdqKPb6xYnI.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 135350,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Kazuyaki",
+        "last": "Kine",
+        "full": "Kazuyaki Kine",
+        "native": "木根和志",
+        "userPreferred": "Kazuyaki Kine"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135350-EdZKwbBrj6Q6.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 123286,
+          "language": "Japanese",
+          "name": {
+            "first": "Gakuto",
+            "last": "Kajiwara",
+            "full": "Gakuto Kajiwara",
+            "native": "梶原岳人",
+            "userPreferred": "Gakuto Kajiwara"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123286-TfHayiK4hqbk.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 129461,
+          "language": "English",
+          "name": {
+            "first": "Mike",
+            "last": "Haimoto",
+            "full": "Mike Haimoto",
+            "native": "灰本マイク",
+            "userPreferred": "Mike Haimoto"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129461-VK3QtpiYkE3Q.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 203065,
+          "language": "German",
+          "name": {
+            "first": "Mio",
+            "last": "Lechenmayr",
+            "full": "Mio Lechenmayr",
+            "native": null,
+            "userPreferred": "Mio Lechenmayr"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 137186,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Alex",
+        "last": "J. Matsukawa",
+        "full": "Alex J. Matsukawa",
+        "native": "松川 ・J ・ アレックス",
+        "userPreferred": "Alex J. Matsukawa"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137186-3SOaZROG9cWO.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 107018,
+          "language": "Japanese",
+          "name": {
+            "first": "Tasuku",
+            "last": "Hatanaka",
+            "full": "Tasuku Hatanaka",
+            "native": "畠中祐",
+            "userPreferred": "Tasuku Hatanaka"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107018-UwRPnTdllbPT.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 95454,
+          "language": "English",
+          "name": {
+            "first": "Blake",
+            "last": "Shepard",
+            "full": "Blake Shepard",
+            "native": null,
+            "userPreferred": "Blake Shepard"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/454.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    }
+  ],
+  "relations": [],
+  "episodes": [{
+            "id": "domestic-girlfriend-episode-1",
+            "title": "Will You Do It With Me, Here?",
+            "description": "Natsuo’s life suddenly becomes more complicated when his father comes home and announces he has remarried a woman with two daughters whom Natsuo has met before. They’re Hina, his teacher and unrequited crush, and Rui, a girl he previously slept with.\r\r\n\r\r\n",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/6917720.jpg",
+            "airDate": "2019-01-12"
+        },
+        {
+            "id": "domestic-girlfriend-episode-2",
+            "title": "By Any Chance, Did We Do It?",
+            "description": "Natsuo has mixed feelings about a new classmate. Later, Hina receives a mysterious call that leaves her emotional and Natsuo concerned.\r\r\n\r\r\n",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/6987148.jpg",
+            "airDate": "2019-01-19"
+        },
+        {
+            "id": "domestic-girlfriend-episode-3",
+            "title": "Is It True, After All?",
+            "description": "Natsuo learned the truth about Hina's mysterious relationship. Following an intense encounter with her, Natsuo leaves home to cool off and establishes a connection with Rui.\r\r\n\r\r\n",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/6995441.jpg",
+            "airDate": "2019-01-26"
+        },
+        {
+            "id": "domestic-girlfriend-episode-4",
+            "title": "And... What About You?",
+            "description": "Determined to end Hina’s affair, Natsuo and Rui take matters into their own hands. But things don’t go according to plan...\r\r\n\r\r\n",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/6995442.jpg",
+            "airDate": "2019-02-02"
+        },
+        {
+            "id": "domestic-girlfriend-episode-5",
+            "title": "Is It Okay... If I Fall for Him?",
+            "description": "Rui makes a new friend with a notorious reputation — and an uncomfortable attraction to Natsuo.\r\r\n\r\r\n",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/6995443.jpg",
+            "airDate": "2019-02-09"
+        },
+        {
+            "id": "domestic-girlfriend-episode-6",
+            "title": "Right Here And Now, Try To Kiss",
+            "description": "Crime doesn’t pay and the punishment doesn’t always fit the crime — a lesson Natsuo experiences firsthand after ‘borrowing’ a book from the library.\r\r\n\r\r\n",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/6995444.jpg",
+            "airDate": "2019-02-16"
+        },
+        {
+            "id": "domestic-girlfriend-episode-7",
+            "title": "This Is What It Means To Go Out Together, You Know?",
+            "description": "Natsuo’s perception of Hina changes when she reveals how she first met Shuu. Later, Rui comes to Natsuo with a surprising request — one he isn’t sure he should fulfill.\r\r\n\r\r\n",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/7043163.jpg",
+            "airDate": "2019-02-23"
+        },
+        {
+            "id": "domestic-girlfriend-episode-8",
+            "title": "Then I Don't Have To Be An Adult",
+            "description": "You can only lie to yourself for so long. As truths come bubbling to the surface, consequences ripple through Natsuo’s entire household.\r\r\n\r\r\n",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/7048828.jpg",
+            "airDate": "2019-03-02"
+        },
+        {
+            "id": "domestic-girlfriend-episode-9",
+            "title": "Don't Say That, Please?",
+            "description": "Hina puts her plan to move out into motion. Neither Rui nor Natsuo wants her to leave, albeit for different reasons. Will their home feel the same without Hina in it?\r\r\n\r\r\n",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/7054677.jpg",
+            "airDate": "2019-03-09"
+        },
+        {
+            "id": "domestic-girlfriend-episode-10",
+            "title": "Liar...",
+            "description": "Natsuo takes a tumble down a flight of stairs, but a broken leg is the least of his worries when he’s caught in a lie by Rui…\r\r\n\r\r\n",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/7054678.jpg",
+            "airDate": "2019-03-16"
+        },
+        {
+            "id": "domestic-girlfriend-episode-11",
+            "title": "Are You Sure?",
+            "description": "Rui makes a decision after her conversation with Natsuo. Later, Natsuo’s class takes a field trip to Okinawa, where feelings are laid bare beneath the light of fireworks.\r\r\n\r\r\n",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/7054680.jpg",
+            "airDate": "2019-03-23"
+        },
+        {
+            "id": "domestic-girlfriend-episode-12",
+            "title": "I'm Sorry, I Love You.",
+            "description": "When the unthinkable happens, Hina expresses her love for Natsuo the only way she can: by giving him a chance to move on.\r\r\n\r\r\n",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/episodes/354170/7054681.jpg",
+            "airDate": "2019-03-30"
+        }]
+}
