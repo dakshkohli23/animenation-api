@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "naruto-shippuden",
+		"episodeId": "naruto-shippuden-episode-28",
+		"jname": "NARUTO: Shippuuden",
+		"name": "Naruto: Shippuden",
+		"episodeNum": 500,
+		"sub": 28,
+		"dub": 28,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
+	},
+	{
 		"animeId": "domestic-girlfriend",
 		"episodeId": "domestic-girlfriend-episode-1",
 		"jname": "Domestic na Kanojo",
@@ -20,17 +31,6 @@
 		"dub": 26,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
-	},
-	{
-		"animeId": "naruto-shippuden",
-		"episodeId": "naruto-shippuden-episode-24",
-		"jname": "NARUTO: Shippuuden",
-		"name": "Naruto: Shippuden",
-		"episodeNum": 500,
-		"sub": 24,
-		"dub": 24,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
 	},
 	{
 		"animeId": "mashle-season-2",
