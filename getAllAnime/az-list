@@ -710,6 +710,20 @@
             "isAdult": false
         },
         {
+            "animeId": "domestic-girlfriend",
+            "episodeId": "domestic-girlfriend-episode-1",
+            "jname": "Domestic na Kanojo",
+            "name": "Domestic Girlfriend",
+            "sub": "12",
+            "dub": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103139-2TfvRyGTE1qp.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/domestic-girlfriend",
+            "genres": ["Drama", "Ecchi", "Romance"],
+            "isAdult": true
+        },
+        {
             "animeId": "dr-stone",
             "episodeId": "dr-stone-episode-1",
             "jname": "Dr. STONE",
