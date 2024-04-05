@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 24,
+    "currentEpisode": 28,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2462,5 +2462,37 @@
             "number": "24",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/333123.jpg",
             "airDate": "2007-08-09"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-25",
+            "title": "Three Minutes Between Life and Death",
+            "description": "Sakura has managed to destroy Sasori's strongest puppet, but he still has a few tricks up sleeve. And although Sakura's managed to avoid a fatal blow from the poison, she and Chiyo must defeat him in three minutes before the antidote wears off and they are vulnerable to Sasori's attacks. Can they defeat him in time?",
+            "number": "25",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/333124.jpg",
+            "airDate": "2007-08-16"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-26",
+            "title": "Puppet Fight: 10 vs. 100!",
+            "description": "Chiyo uses her abilities as a master puppeteer to allow her to control ten puppets at once against Sasori. However, Sasori has gone a step ahead, and gained the ability to control one hundred puppets at once! Can Chiyo defeat the man who took down an entire country?",
+            "number": "26",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/333125.jpg",
+            "airDate": "2007-08-23"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-27",
+            "title": "Impossible Dream",
+            "description": "It's the final stand against Sasori, and Chiyo reveals the flaw in Sasori's \"immortality\". As Sasori breathes his last breaths, he rewards the two kunoichi for his defeat by providing them some valuable information. In ten days, they will have the opportunity to meet with one of his spies who can provide them with information on Orochimaru, and Sasuke as well.",
+            "number": "27",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/333795.jpg",
+            "airDate": "2007-08-30"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-28",
+            "title": "Beasts: Alive Again!",
+            "description": "As Kakashi and Naruto chase after Deidara, and Sakura and Chiyo rest from their fight with Sasori, Gai and his team continue to fight their doppelgangers. Things aren't looking good for the four as the doppelgangers remain at the same strength while Gai's team grows weaker. Can they finish things up, or will it be the end of the line for them?",
+            "number": "28",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335155.jpg",
+            "airDate": "2007-09-13"
         }]
 }
