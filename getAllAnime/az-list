@@ -1215,6 +1215,18 @@
             "isAdult": false
         },
         {
+            "animeId": "my-hero-academia-season-7",
+            "episodeId": "my-hero-academia-season-7-episode-1",
+            "jname": "Boku no Hero Academia 7",
+            "name": "My Hero Academia Season 7",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163139-JchZhUFlNTWU.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/my-hero-academia-season-7",
+            "genres": ["Action", "Adventure", "Sci-Fi"],
+            "isAdult": false
+        },
+        {
             "animeId": "my-hero-academia-all-might-rising-the-animation",
             "episodeId": "my-hero-academia-all-might-rising-the-animation-episode-1",
             "jname": "Boku no Hero Academia THE MOVIE: Futari no Hero Specials",
