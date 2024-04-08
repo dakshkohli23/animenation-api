@@ -1,0 +1,394 @@
+{
+  "id": "21565",
+  "title": {
+    "romaji": "Prison School: Mad Wax",
+    "english": null,
+    "native": "監獄学園[プリズンスクール] マッドワックス"
+  },
+  "malId": 32485,
+  "synonyms": [
+    "Kangoku Gakuen: Mad Wax",
+    "Kangoku Gakuen OVA",
+    "Prison School OVA"
+  ],
+  "isLicensed": true,
+  "isAdult": false,
+  "countryOfOrigin": "JP",
+  "trailer": {
+    "id": "V979_JMNYIg",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/V979_JMNYIg/hqdefault.jpg",
+    "thumbnailHash": "hash"
+  },
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21565-PsQEFVGXs1fX.jpg",
+  "imageHash": "hash",
+  "popularity": 33166,
+  "color": "#e4d65d",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21565-PsQEFVGXs1fX.jpg",
+  "coverHash": "hash",
+  "description": "Unaired OVA bundled with the 20th volume of the Prison School manga, adapting the \"Mad Wax\" arc.",
+  "status": "Completed",
+  "releaseDate": 2016,
+  "startDate": {
+    "year": 2016,
+    "month": 3,
+    "day": 4
+  },
+  "endDate": {
+    "year": 2016,
+    "month": 3,
+    "day": 4
+  },
+  "totalEpisodes": 1,
+  "currentEpisode": 1,
+  "rating": 71,
+  "duration": 25,
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Romance"
+  ],
+  "season": "WINTER",
+  "studios": [
+    "J.C. Staff"
+  ],
+  "subOrDub": "sub",
+  "type": "OVA",
+  "recommendations": [],
+  "characters": [
+    {
+      "id": 64849,
+      "role": "MAIN",
+      "name": {
+        "first": "Jouji",
+        "last": "Nezu",
+        "full": "Jouji Nezu",
+        "native": "根津譲二",
+        "userPreferred": "Jouji Nezu"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/64849-HCFBwYZbWMxS.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95087,
+          "language": "Japanese",
+          "name": {
+            "first": "Daisuke",
+            "last": "Namikawa",
+            "full": "Daisuke Namikawa",
+            "native": "浪川大輔",
+            "userPreferred": "Daisuke Namikawa"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 64851,
+      "role": "MAIN",
+      "name": {
+        "first": "Takehito",
+        "last": "Morokuzu",
+        "full": "Takehito Morokuzu",
+        "native": "諸葛岳人",
+        "userPreferred": "Takehito Morokuzu"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64851-fFKbCgh89UMK.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95020,
+          "language": "Japanese",
+          "name": {
+            "first": "Katsuyuki",
+            "last": "Konishi",
+            "full": "Katsuyuki Konishi",
+            "native": "小西克幸",
+            "userPreferred": "Katsuyuki Konishi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 64855,
+      "role": "MAIN",
+      "name": {
+        "first": "Reiji",
+        "last": "Andou",
+        "full": "Reiji Andou",
+        "native": "安堂 麗治",
+        "userPreferred": "Reiji Andou"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/64855-dqYSdXomkkBS.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 102288,
+          "language": "Japanese",
+          "name": {
+            "first": "Kazuyuki",
+            "last": "Okitsu",
+            "full": "Kazuyuki Okitsu",
+            "native": "興津和幸",
+            "userPreferred": "Kazuyuki Okitsu"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 64859,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Chiyo",
+        "last": "Kurihara",
+        "full": "Chiyo Kurihara",
+        "native": "栗原 千代",
+        "userPreferred": "Chiyo Kurihara"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64859-qke78aJelo9v.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 120122,
+          "language": "Japanese",
+          "name": {
+            "first": "Chinami",
+            "last": "Hashimoto",
+            "full": "Chinami Hashimoto",
+            "native": "橋本ちなみ",
+            "userPreferred": "Chinami Hashimoto"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120122-Y1zWcqv5AlqT.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 64861,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Mari",
+        "last": "Kurihara",
+        "full": "Mari Kurihara",
+        "native": "栗原 万里",
+        "userPreferred": "Mari Kurihara"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64861-gzmOZka1FnyB.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95092,
+          "language": "Japanese",
+          "name": {
+            "first": "Sayaka",
+            "last": "Oohara",
+            "full": "Sayaka Oohara",
+            "native": "大原さやか",
+            "userPreferred": "Sayaka Oohara"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 175599,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Kate",
+        "last": "Takenomiya",
+        "full": "Kate Takenomiya",
+        "native": "竹ノ宮 ケイト",
+        "userPreferred": "Kate Takenomiya"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175599-Ilsb71wMzYvB.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95070,
+          "language": "Japanese",
+          "name": {
+            "first": "Ami",
+            "last": "Koshimizu",
+            "full": "Ami Koshimizu",
+            "native": "小清水亜美",
+            "userPreferred": "Ami Koshimizu"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 64847,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Hana",
+        "last": "Midorikawa",
+        "full": "Hana Midorikawa",
+        "native": "緑川花",
+        "userPreferred": "Hana Midorikawa"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b64847-02UYthi3I0zh.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95185,
+          "language": "Japanese",
+          "name": {
+            "first": "Kana",
+            "last": "Hanazawa",
+            "full": "Kana Hanazawa",
+            "native": "花澤香菜",
+            "userPreferred": "Kana Hanazawa"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 64853,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Shingo",
+        "last": "Wakamoto",
+        "full": "Shingo Wakamoto",
+        "native": "若本 真吾",
+        "userPreferred": "Shingo Wakamoto"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/64853-na3jSPCPWhLZ.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95005,
+          "language": "Japanese",
+          "name": {
+            "first": "Kenichi",
+            "last": "Suzumura",
+            "full": "Kenichi Suzumura",
+            "native": "鈴村健一",
+            "userPreferred": "Kenichi Suzumura"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95005-SkoVN02iOglr.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 245100,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Mitsuko",
+        "last": "Yokoyama",
+        "full": "Mitsuko Yokoyama",
+        "native": "横山みつ子",
+        "userPreferred": "Mitsuko Yokoyama"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245100-7ZWtIORDiIkF.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95132,
+          "language": "Japanese",
+          "name": {
+            "first": "Mikako",
+            "last": "Takahashi",
+            "full": "Mikako Takahashi",
+            "native": "高橋美佳子",
+            "userPreferred": "Mikako Takahashi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95132-TpIFKL0tJg84.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 47117,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Meiko",
+        "last": "Shiraki",
+        "full": "Meiko Shiraki",
+        "native": "白木芽衣子",
+        "userPreferred": "Meiko Shiraki"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b47117-mAQMfzqe56qJ.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95093,
+          "language": "Japanese",
+          "name": {
+            "first": "Shizuka",
+            "last": "Itou",
+            "full": "Shizuka Itou",
+            "native": "伊藤静",
+            "userPreferred": "Shizuka Itou"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 46557,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Kiyoshi",
+        "last": "Fujino",
+        "full": "Kiyoshi Fujino",
+        "native": "藤野清志",
+        "userPreferred": "Kiyoshi Fujino"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46557-fJ8Va6GtynPM.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95118,
+          "language": "Japanese",
+          "name": {
+            "first": "Hiroshi",
+            "last": "Kamiya",
+            "full": "Hiroshi Kamiya",
+            "native": "神谷浩史",
+            "userPreferred": "Hiroshi Kamiya"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 245101,
+      "role": "BACKGROUND",
+      "name": {
+        "first": "Risa",
+        "last": "Bettou",
+        "full": "Risa Bettou",
+        "native": "別当リサ",
+        "userPreferred": "Risa Bettou"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b245101-1ByPAvCfAmIV.png",
+      "imageHash": "hash",
+      "voiceActors": []
+    }
+  ],
+  "relations": [],
+  "episodes": [
+    {
+      "id": "prison-school-ova-episode-1",
+      "title": "Mad Wax",
+      "description": "Note: Bundled with a limited edition of the manga's 20th volume.\n The OAD featured the previously unanimated 'Mad Wax' arc from the manga.",
+      "number": 1,
+      "image": "https://artworks.thetvdb.com/banners/episodes/293267/5447238.jpg",
+      "imageHash": "hash",
+      "airDate": "2016-03-04"
+    }
+  ]
+}
