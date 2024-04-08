@@ -1,89 +1,74 @@
-[{
-	"server1": "dtu8jkz7poj4",
-	"animeNameWithEP": "Pokémon: Twilight Wings Episode 1 Dubbed",
-	"ep_num": "1",
-	"anime_info": "pokemon-twilight-wings",
-	"movie_id": "113932",
-	"alias": "pokemon-twilight-wings",
-	"nextEpText": "Pokémon: Twilight Wings Episode 2 >>",
-	"nextEpLink": "/pokemon-twilight-wings-episode-2",
-	"prevEpText": "",
-	"prevEpLink": ""
-}, {
-	"server1": "s512szv3jepp",
-	"animeNameWithEP": "Pokémon: Twilight Wings Episode 2 Dubbed",
-	"ep_num": "2",
-	"anime_info": "pokemon-twilight-wings",
-	"movie_id": "113932",
-	"alias": "pokemon-twilight-wings",
-	"nextEpText": "Pokémon: Twilight Wings Episode 3 >>",
-	"nextEpLink": "/pokemon-twilight-wings-episode-3",
-	"prevEpText": "<< Pokémon: Twilight Wings Episode 1",
-	"prevEpLink": "/pokemon-twilight-wings-episode-1"
-}, {
-	"server1": "nablm1985dgi",
-	"animeNameWithEP": "Pokémon: Twilight Wings Episode 3 Dubbed",
-	"ep_num": "3",
-	"anime_info": "pokemon-twilight-wings",
-	"movie_id": "113932",
-	"alias": "pokemon-twilight-wings",
-	"nextEpText": "Pokémon: Twilight Wings Episode 4 >>",
-	"nextEpLink": "/pokemon-twilight-wings-episode-4",
-	"prevEpText": "<< Pokémon: Twilight Wings Episode 2",
-	"prevEpLink": "/pokemon-twilight-wings-episode-2"
-}, {
-	"server1": "td7nlqpp5hct",
-	"animeNameWithEP": "Pokémon: Twilight Wings Episode 4 Dubbed",
-	"ep_num": "4",
-	"anime_info": "pokemon-twilight-wings",
-	"movie_id": "113932",
-	"alias": "pokemon-twilight-wings",
-	"nextEpText": "Pokémon: Twilight Wings Episode 5 >>",
-	"nextEpLink": "/pokemon-twilight-wings-episode-5",
-	"prevEpText": "<< Pokémon: Twilight Wings Episode 3",
-	"prevEpLink": "/pokemon-twilight-wings-episode-3"
-}, {
-	"server1": "82q2dqxy1q3f",
-	"animeNameWithEP": "Pokémon: Twilight Wings Episode 5 Dubbed",
-	"ep_num": "5",
-	"anime_info": "pokemon-twilight-wings",
-	"movie_id": "113932",
-	"alias": "pokemon-twilight-wings",
-	"nextEpText": "Pokémon: Twilight Wings Episode 6 >>",
-	"nextEpLink": "/pokemon-twilight-wings-episode-6",
-	"prevEpText": "<< Pokémon: Twilight Wings Episode 4",
-	"prevEpLink": "/pokemon-twilight-wings-episode-4"
-}, {
-	"server1": "glbj9v7ge2by",
-	"animeNameWithEP": "Pokémon: Twilight Wings Episode 6 Dubbed",
-	"ep_num": "6",
-	"anime_info": "pokemon-twilight-wings",
-	"movie_id": "113932",
-	"alias": "pokemon-twilight-wings",
-	"nextEpText": "Pokémon: Twilight Wings Episode 7 >>",
-	"nextEpLink": "/pokemon-twilight-wings-episode-7",
-	"prevEpText": "<< Pokémon: Twilight Wings Episode 5",
-	"prevEpLink": "/pokemon-twilight-wings-episode-5"
-}, {
-	"server1": "lleq6qo837xf",
-	"animeNameWithEP": "Pokémon: Twilight Wings Episode 7 Dubbed",
-	"ep_num": "7",
-	"anime_info": "pokemon-twilight-wings",
-	"movie_id": "113932",
-	"alias": "pokemon-twilight-wings",
-	"nextEpText": "Pokémon: Twilight Wings Episode 8 >>",
-	"nextEpLink": "/pokemon-twilight-wings-episode-8",
-	"prevEpText": "<< Pokémon: Twilight Wings Episode 6",
-	"prevEpLink": "/pokemon-twilight-wings-episode-6"
-}, {
-	"server1": "klxhy9uvc6gx",
-	"animeNameWithEP": "Pokémon: Twilight Wings Episode 8 Dubbed",
-	"ep_num": "8",
-	"anime_info": "pokemon-twilight-wings",
-	"movie_id": "113932",
-	"alias": "pokemon-twilight-wings",
-	"nextEpText": "",
-	"nextEpLink": "",
-	"prevEpText": "<< Pokémon: Twilight Wings Episode 7",
-	"prevEpLink": "/pokemon-twilight-wings-episode-7"
-}]
+[
+        {
+            "server1": "d0sw0fm8ik3s",
+            "server2": "d0sw0fm8ik3s",
+            "animeNameWithEP": "Pokémon: Twilight Wings Episode 1",
+            "ep_num": "1",
+            "anime_info": "pokemon-twilight-wings",
+            "movie_id": "113932",
+            "subOrDub": "dub"
+        },
+        {
+            "server1": "mmlkc5lfcpx0",
+            "server2": "mmlkc5lfcpx0",
+            "animeNameWithEP": "Pokémon: Twilight Wings Episode 2",
+            "ep_num": "2",
+            "anime_info": "pokemon-twilight-wings",
+            "movie_id": "113932",
+            "subOrDub": "dub"
+        },
+        {
+            "server1": "b4osge3l39td",
+            "server2": "b4osge3l39td",
+            "animeNameWithEP": "Pokémon: Twilight Wings Episode 3",
+            "ep_num": "3",
+            "anime_info": "pokemon-twilight-wings",
+            "movie_id": "113932",
+            "subOrDub": "dub"
+        },
+        {
+            "server1": "g2fsbfkw24g3",
+            "server2": "g2fsbfkw24g3",
+            "animeNameWithEP": "Pokémon: Twilight Wings Episode 4",
+            "ep_num": "4",
+            "anime_info": "pokemon-twilight-wings",
+            "movie_id": "113932",
+            "subOrDub": "dub"
+        },
+        {
+            "server1": "hvyuwiho6hu5",
+            "server2": "hvyuwiho6hu5",
+            "animeNameWithEP": "Pokémon: Twilight Wings Episode 5",
+            "ep_num": "5",
+            "anime_info": "pokemon-twilight-wings",
+            "movie_id": "113932",
+            "subOrDub": "dub"
+        },
+        {
+            "server1": "4tcha5gza6q3",
+            "server2": "4tcha5gza6q3",
+            "animeNameWithEP": "Pokémon: Twilight Wings Episode 6",
+            "ep_num": "6",
+            "anime_info": "pokemon-twilight-wings",
+            "movie_id": "113932",
+            "subOrDub": "dub"
+        },
+        {
+            "server1": "tlxcwg8wijep",
+            "server2": "tlxcwg8wijep",
+            "animeNameWithEP": "Pokémon: Twilight Wings Episode 7",
+            "ep_num": "7",
+            "anime_info": "pokemon-twilight-wings",
+            "movie_id": "113932",
+            "subOrDub": "dub"
+        },
+        {
+            "server1": "ev3nvf08elj8",
+            "server2": "ev3nvf08elj8",
+            "animeNameWithEP": "Pokémon: Twilight Wings Episode 8",
+            "ep_num": "8",
+            "anime_info": "pokemon-twilight-wings",
+            "movie_id": "113932",
+            "subOrDub": "dub"
+        }
+    ]
