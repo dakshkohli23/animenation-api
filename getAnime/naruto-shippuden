@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 28,
+    "currentEpisode": 30,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2494,5 +2494,21 @@
             "number": "28",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/335155.jpg",
             "airDate": "2007-09-13"
+        },
+        {
+            "id": "naruto-shippuden-episode-29",
+            "title": "Kakashi Enlightened!",
+            "description": "Kakashi unleashes his new Mangekyo Sharingan against Deidara, turning the tide of the battle in their favor, but when Naruto begins to act strangely, Kakashi sees him as the bigger threat.",
+            "number": "29",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335156.jpg",
+            "airDate": "2007-09-27"
+        },
+        {
+            "id": "naruto-shippuden-episode-30",
+            "title": "Aesthetics of an Instant",
+            "description": "Kakashi must act quickly to calm Naruto down before he releases too much of Kyubi's power. Meanwhile, Deidara is cornered by Gai's team, and when he realizes that he can't defeat them, he decides that the only way he'll die is he takes everyone else with him!",
+            "number": "30",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335157.jpg",
+            "airDate": "2007-09-27"
         }]
 }
