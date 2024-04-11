@@ -600,6 +600,19 @@
             "isAdult": false
         },
         {
+            "animeId": "date-a-live-v",
+            "episodeId": "date-a-live-v-episode-1",
+            "jname": "Date A Live V",
+            "name": "Date A Live V",
+            "sub": "1",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151380-gvN5PjrybTw2.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/date-a-live-v",
+            "genres": ["Action", "Comedy", "Ecchi", "Fantasy", "Mecha", "Romance", "Sci-Fi"],
+            "isAdult": false
+        },
+        {
             "animeId": "death-note",
             "episodeId": "death-note-episode-1",
             "jname": "DEATH NOTE",
