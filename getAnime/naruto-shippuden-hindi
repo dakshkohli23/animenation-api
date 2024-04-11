@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 32,
+    "currentEpisode": 36,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2512,7 +2512,7 @@
             "airDate": "2007-09-27"
         },
         {
-            "id": "naruto-shippuden-episode-31",
+            "id": "naruto-shippuden-hindi-episode-31",
             "title": "An Unnecessary Addition",
             "description": "Yamato takes temporary leadership of Team Kakashi while Sai insults both Naruto and Sakura. While preparing to set off, Sai receives an envelope from a Root shinobi containing secret orders from Danzo, and Sakura consults with Tsunade. Jiraiya then meets with Tsunade and Yamato in Kakashi's hospital room to brief Yamato on the demon fox within Naruto, detailing the \"demon fox's cloak\", and revealing a scar he got from Naruto when the fourth tail formed. Finally the new Team Kakashi set off on their new mission, to intercept an Akatsuki spy and gather information about Sasuke.",
             "number": "31",
@@ -2520,11 +2520,43 @@
             "airDate": "2007-11-22"
         },
         {
-            "id": "naruto-shippuden-episode-32",
+            "id": "naruto-shippuden-hindi-episode-32",
             "title": "The Fake Smile",
             "description": "The new team Kakashi heads out for the Heaven and Earth bridge. Sai, Sakura, and Naruto come to blows after just 5 minutes on the same team due to Sai making fun of Sasuke. Therefore, Yamato decides they need to improve on teamwork and uses Mokuton to create a wooden cage threatening to lock the team up unless they behave. Given an ultimatum between being locked up or spending the night at a hot springs, the team chooses to visit the springs to improve team cohesion. Naruto still despises Sai despite this effort, and several insulting remarks from Sai worsen team relations.",
             "number": "32",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/335567.jpg",
             "airDate": "2007-11-29"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-33",
+            "title": "Untitled",
+            "description": "Sakura sees Sai drawing by the river and finds out that Sai has artistic talent but has never given titles to anything he ever drew. Naruto and Sakura begin to realize the reason behind Sai's repulsive personality. After the hot springs, the team heads off to the bridge to meet the spy. Yamato is suspicious of traps so they go off the main road into the forest. Camping for the night, Yamato then creates a two story house by again using his Mokuton jutsu. Inside this house, the team formulates their plan.",
+            "number": "33",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335568.jpg",
+            "airDate": "2007-11-29"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-34",
+            "title": "Simulation",
+            "description": "Naruto is paired with Sai for the Buddy team of two, over his and Sakura's objections, while Sakura is assigned to support Yamato. Yamato conducts a simulation of the spy meeting with himself as the spy to gauge Naruto and Sai's abilities and teamwork. After Naruto makes a mistake when attacking Yamato, Sai immobilizes him and goes on to capture Yamato alone. Naruto is angry with Sai for not acting as a comrade would, but resolves to work together with him if doing so will help bring Sasuke back. Sai reveals to Sakura that he has no emotions, and little understanding of them. The group then prepares to head to the bridge.",
+            "number": "34",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335569.jpg",
+            "airDate": "2007-12-06"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-35",
+            "title": "The Tenchi Bridge",
+            "description": "Yamato disguises himself as Sasori after creating a wood replica of Hiruko, and goes to meet the spy. The spy turns out to be Orochimaru's right-hand man, Kabuto Yakushi, who reveals the location of Orochimaru's current hideout to Yamato. Orochimaru interrupts the meeting, appearing to attack Kabuto, and while it initially appears that Orochimaru has come after Kabuto, Kabuto attacks Yamato and reveals that he is truly loyal to Orochimaru. Orochimaru calls out Naruto, Sakura and Sai from where they are hiding and observing the meeting, and prepares to fight the team.",
+            "number": "35",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/340183.jpg",
+            "airDate": "2007-12-13"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-36",
+            "title": "Nine-Tails Unleashed",
+            "description": "Immediately after Yamato signals Naruto and the others out to the bridge where Orochimaru and Kabuto are waiting, Naruto's chakra begins to boil with the chakra of the Nine-Tailed Fox. Slowly, Naruto grows more tails as Orochimaru taunts him and makes him even more angry. Meanwhile, Yamato remembers Jiraiya speaking of how many tails he has seen Naruto grow. Jiraiya explains more about what happened and more about how Naruto acts when he's in his Nine-Tails form.",
+            "number": "36",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/340184.jpg",
+            "airDate": "2007-12-20"
         }]
 }
