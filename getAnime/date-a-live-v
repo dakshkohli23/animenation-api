@@ -1,0 +1,473 @@
+{
+  "id": "151380",
+  "title": {
+    "romaji": "Date A Live V",
+    "english": "Date A Live V",
+    "native": "デート・ア・ライブV"
+  },
+  "malId": 52196,
+  "synonyms": [
+    "Date A Live Season 5",
+    "พิชิตรัก พิทักษ์โลก ภาค 5",
+    "Рандеву с Жизнью 5"
+  ],
+  "isLicensed": true,
+  "isAdult": false,
+  "countryOfOrigin": "JP",
+  "trailer": {
+    "id": "xkbH8v2JFuk",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/xkbH8v2JFuk/hqdefault.jpg",
+    "thumbnailHash": "hash"
+  },
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151380-gvN5PjrybTw2.jpg",
+  "imageHash": "hash",
+  "popularity": 20528,
+  "color": "#e48650",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151380-EWQOtJmxe3JY.jpg",
+  "coverHash": "hash",
+  "description": "The fifth season of \u003Ci\u003EDate A Live\u003C/i\u003E.",
+  "status": "Ongoing",
+  "releaseDate": 2024,
+  "startDate": {
+    "year": 2024,
+    "month": 4,
+    "day": 10
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 6,
+    "day": 26
+  },
+  "nextAiringEpisode": {
+    "airingTime": 1713364200,
+    "timeUntilAiring": 527544,
+    "episode": 2
+  },
+  "totalEpisodes": 12,
+  "currentEpisode": 1,
+  "rating": 76,
+  "duration": null,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Ecchi",
+    "Fantasy",
+    "Mecha",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "season": "SPRING",
+  "studios": [
+    "GEEKTOYS"
+  ],
+  "subOrDub": "sub",
+  "type": "TV",
+  "recommendations": [],
+  "characters": [
+    {
+      "id": 65257,
+      "role": "MAIN",
+      "name": {
+        "first": "Shidou",
+        "last": "Itsuka",
+        "full": "Shidou Itsuka",
+        "native": "五河士道",
+        "userPreferred": "Shidou Itsuka"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65257-oLf85ng65GSj.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 105989,
+          "language": "Japanese",
+          "name": {
+            "first": "Nobunaga",
+            "last": "Shimazaki",
+            "full": "Nobunaga Shimazaki",
+            "native": "島崎信長",
+            "userPreferred": "Nobunaga Shimazaki"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 65259,
+      "role": "MAIN",
+      "name": {
+        "first": "Tooka",
+        "last": "Yatogami",
+        "full": "Tooka Yatogami",
+        "native": "夜刀神十香",
+        "userPreferred": "Tooka Yatogami"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65259-rKR5JNNWyRC0.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95158,
+          "language": "Japanese",
+          "name": {
+            "first": "Marina",
+            "last": "Inoue",
+            "full": "Marina Inoue",
+            "native": "井上麻里奈",
+            "userPreferred": "Marina Inoue"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 72281,
+      "role": "MAIN",
+      "name": {
+        "first": "Reine",
+        "last": "Murasame",
+        "full": "Reine Murasame",
+        "native": "村雨令音",
+        "userPreferred": "Reine Murasame"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72281-HJZMsFy574SO.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95054,
+          "language": "Japanese",
+          "name": {
+            "first": "Aya",
+            "last": "Endou",
+            "full": "Aya Endou",
+            "native": "遠藤綾",
+            "userPreferred": "Aya Endou"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 157108,
+      "role": "MAIN",
+      "name": {
+        "first": "Mio",
+        "last": "",
+        "full": "Mio",
+        "native": "崇宮澪",
+        "userPreferred": "Mio"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157108-di5sIuGgR8Tv.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95054,
+          "language": "Japanese",
+          "name": {
+            "first": "Aya",
+            "last": "Endou",
+            "full": "Aya Endou",
+            "native": "遠藤綾",
+            "userPreferred": "Aya Endou"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 70603,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Yoshino",
+        "last": "",
+        "full": "Yoshino",
+        "native": "四糸乃",
+        "userPreferred": "Yoshino"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70603-7IKQbX4JZBIT.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 103956,
+          "language": "Japanese",
+          "name": {
+            "first": "Iori",
+            "last": "Nomizu",
+            "full": "Iori Nomizu",
+            "native": "野水伊織",
+            "userPreferred": "Iori Nomizu"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103956-SBfEe7v8hV4r.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 86647,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Yuzuru",
+        "last": "Yamai",
+        "full": "Yuzuru Yamai",
+        "native": "八舞夕弦",
+        "userPreferred": "Yuzuru Yamai"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86647-WDP7WlyUoFA6.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 114371,
+          "language": "Japanese",
+          "name": {
+            "first": "Sarah Emi",
+            "last": "Bridcutt",
+            "full": "Sarah Emi Bridcutt",
+            "native": "ブリドカット・セーラ・恵美",
+            "userPreferred": "Sarah Emi Bridcutt"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114371-OEVE30OTFBsk.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 157109,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Mukuro",
+        "last": "Hoshimiya",
+        "full": "Mukuro Hoshimiya",
+        "native": "星宮六喰",
+        "userPreferred": "Mukuro Hoshimiya"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157109-Mmgdhq6XYCKT.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 119282,
+          "language": "Japanese",
+          "name": {
+            "first": "Akari",
+            "last": "Kageyama",
+            "full": "Akari Kageyama",
+            "native": "影山灯",
+            "userPreferred": "Akari Kageyama"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/24282-e1fqdAQ8oCLc.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 133124,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Natsumi",
+        "last": "",
+        "full": "Natsumi",
+        "native": "七罪",
+        "userPreferred": "Natsumi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b133124-qAs0xVWlZ64M.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 125035,
+          "language": "Japanese",
+          "name": {
+            "first": "Ayumi",
+            "last": "Mano",
+            "full": "Ayumi Mano",
+            "native": "真野あゆみ",
+            "userPreferred": "Ayumi Mano"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125035-08CpsDFvGvki.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 70069,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Kurumi",
+        "last": "Tokisaki",
+        "full": "Kurumi Tokisaki",
+        "native": "時崎狂三",
+        "userPreferred": "Kurumi Tokisaki"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70069-DEV7X6o2L7oG.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95126,
+          "language": "Japanese",
+          "name": {
+            "first": "Asami",
+            "last": "Sanada",
+            "full": "Asami Sanada",
+            "native": "真田アサミ",
+            "userPreferred": "Asami Sanada"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95126-5riJAYwazk5K.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 84063,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Miku",
+        "last": "Izayoi",
+        "full": "Miku Izayoi",
+        "native": "誘宵美九",
+        "userPreferred": "Miku Izayoi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84063-lwuOWMuDZOtc.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95053,
+          "language": "Japanese",
+          "name": {
+            "first": "Minori",
+            "last": "Chihara",
+            "full": "Minori Chihara",
+            "native": "茅原実里",
+            "userPreferred": "Minori Chihara"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95053-wN1MdNMSGTMn.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 65261,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Origami",
+        "last": "Tobiichi",
+        "full": "Origami Tobiichi",
+        "native": "鳶一折紙",
+        "userPreferred": "Origami Tobiichi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65261-VebXn2wCS8K8.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 103806,
+          "language": "Japanese",
+          "name": {
+            "first": "Misuzu",
+            "last": "Togashi",
+            "full": "Misuzu Togashi",
+            "native": "富樫美鈴",
+            "userPreferred": "Misuzu Togashi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103806-LwylGxcXA0km.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 140724,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Nia",
+        "last": "Honjou",
+        "full": "Nia Honjou",
+        "native": "本条二亜",
+        "userPreferred": "Nia Honjou"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140724-ScgftsvFdCVZ.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95184,
+          "language": "Japanese",
+          "name": {
+            "first": "Hitomi",
+            "last": "Nabatame",
+            "full": "Hitomi Nabatame",
+            "native": "生天目仁美",
+            "userPreferred": "Hitomi Nabatame"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95184-OpXCWNXhJJpg.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 65263,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Kotori",
+        "last": "Itsuka",
+        "full": "Kotori Itsuka",
+        "native": "五河琴里",
+        "userPreferred": "Kotori Itsuka"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65263-SsnYAtOtAiDK.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 101996,
+          "language": "Japanese",
+          "name": {
+            "first": "Ayana",
+            "last": "Taketatsu",
+            "full": "Ayana Taketatsu",
+            "native": "竹達彩奈",
+            "userPreferred": "Ayana Taketatsu"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101996-W14XnDV34VpO.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 86645,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Kaguya",
+        "last": "Yamai",
+        "full": "Kaguya Yamai",
+        "native": "八舞耶倶矢",
+        "userPreferred": "Kaguya Yamai"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86645-56zr58xGHuCS.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 108639,
+          "language": "Japanese",
+          "name": {
+            "first": "Maaya",
+            "last": "Uchida",
+            "full": "Maaya Uchida",
+            "native": "内田真礼",
+            "userPreferred": "Maaya Uchida"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+          "imageHash": "hash"
+        }
+      ]
+    }
+  ],
+  "relations": [],
+  "episodes": [
+    {
+      "id": "date-a-live-v-episode-1",
+      "title": "Beginnings of War",
+      "description": "Kotori and the others gathered on the bridge of Fraxinus learn that Kurumi has traveled back in time 204 times to try to save Shido. Shido also tries to search his memories to learn who Mio Takamiya is, but...",
+      "number": 1,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9533081/screencap/660c1886f0893.jpg",
+      "imageHash": "hash",
+      "airDate": "April 10, 2024"
+    }
+  ]
+}
