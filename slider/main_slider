@@ -1,163 +1,218 @@
 [
-	{
-		"id": "1735",
-		"malId": 1735,
-		"title": {
-		 "romaji": "NARUTO: Shippuuden - Hindi",
-        "english": "Naruto: Shippuden - Hindi",
-        "native": "NARUTO -ナルト- 疾風伝"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png",
-		"description": "Naruto: Shippuuden is the continuation of the original animated TV series Naruto. The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as he has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki. <br><br>\n(Source: Anime News Network)",
-  		"status": "Airing",
-		"cover": "https://artworks.thetvdb.com/banners/series/79824/backgrounds/5ec2051e98aa0.jpg",
-		"rating": 81,
-		"releaseDate": 2007,
-		"genres":  [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Drama",
-        "Fantasy",
-        "Supernatural"
-    ],
-		"totalEpisodes": 500,
-		"duration": 23,
-		"type": "TV",
-		"animeUrl": "/anime/naruto-shippuden-hindi",
-		"watchUrl": "/watch/naruto-shippuden-hindi-episode-1"
-	},
-{
-		"id": "166240",
-		"malId": 55701,
-		"title": {
-		 "romaji": "Kimetsu no Yaiba: Hashira Geiko-hen",
-       		 "english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
-      		 "native": "鬼滅の刃 柱稽古編"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-2XbSZkWX6Dqe.jpg",
-		"description": "Adaptation of the Hashira Training Arc.<br>\n<br>\n<i>Notes:<br>\n• The first episode has a runtime of ~1 hour, and received an early premiere in cinemas as part of a special screening alongside the final episode of Kimetsu no Yaiba: Katanakaji no Sato-hen. </i>",
-    		"status": "Ongoing",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166240-KpMMoNNMxkG4.jpg",
-		"rating": 68,
-		"releaseDate": 2024,
-		"genres": ["Action", "Adventure", "Drama", "Fantasy", "Supernatural"],
-		"totalEpisodes": 1,
-		"duration": 103,
-		"type": "TV",
-		"animeUrl": "/anime/demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
-		"watchUrl": "/watch/demon-slayer-kimetsu-no-yaiba-hashira-training-arc-episode-1"
-	},
-{
-		"id": "151807",
-		"malId": 52299,
-		"title": {
-		 "romaji": "Ore dake Level Up na Ken",
-		"english": "Solo Leveling",	
-		"native": "俺だけレベルアップな件"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png",
-		"description": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.<br>\n<br>\n(Source: Crunchyroll) <br><br>",
-		"status": "Ongoing",
-		"cover": "https://artworks.thetvdb.com/banners/v4/series/389597/backgrounds/61ed3bc02a309.jpg",
-		"rating": 87,
-		"releaseDate": 2024,
-		"genres": ["Action", "Adventure", "Fantasy"],
-		"totalEpisodes": 12,
-		"duration": 22,
-		"type": "TV",
-		"animeUrl": "/anime/solo-leveling",
-		"watchUrl": "/watch/solo-leveling-episode-1"
-	},
-{
-		"id": "146066",
-		"malId": 51180,
-		"title": {
-		 "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
-        "english": "Classroom of the Elite Season 3",
-        "native": "ようこそ実力至上主義の教室へ 第3期"
-		},
-		 "image": "https://artworks.thetvdb.com/banners/v4/series/431703/backgrounds/63fddc606feb2.jpg",
-		 "description": "The third season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br>\n<br>\nThe third semester kicks off in high gear with a special boot camp deep in the mountains. Forcibly separated into groups along grade and gender lines, the first, second and third years alike must work together to survive the rugged terrain. Even worse? The leader of the group that comes in last will be expelled. Can Class D make it back to campus intact, or is this where they finally say goodbye to one of their own?<br>\n<br>\n(Source: Seven Seas Entertainment)",
-    	"status": "Ongoing",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146066-gxjPUB1ofAO4.jpg",
-		"rating": null,
-		"releaseDate": 2024,
-		"genres": ["Drama", "Psychological"],
-		"totalEpisodes": 13,
-		"duration": 22,
-		"type": "TV",
-		"animeUrl": "/anime/classroom-of-the-elite-season-3",
-		"watchUrl": "/watch/classroom-of-the-elite-season-3-episode-1"
-	},
-{
-		"id": "163329",
-		"malId": 54918,
-		"title": {
-		"romaji": "Tokyo Revengers: Tenjiku-hen",
-		"english": "Tokyo Revengers Season 3",
-		"native": "東京リベンジャーズ 天竺編"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163329-lGJRnYV9dcjc.jpg",
-		"trailer": {
-        	"id": "OTlNyYfkM1s",
-       		 "site": "youtube",
-     		 "thumbnail": "https://i.ytimg.com/vi/OTlNyYfkM1s/hqdefault.jpg"
-  		},
-		"description": "Adaptation of the Tenjiku Arc.\n<br><br>\nWith a future where Toman has been destroyed by Mikey's twisted ideas and Takemichi returning to the past, he decides to become stronger in order to stop Kisaki's plans. On one side, a mysterious gang from Yokohama known as Tenjiku begins to overthrow all the Toman divisions, deciding to destroy all the gangs in Japan, becoming the most powerful and unique.\n<br><br>\nKisaki has been planning something for his purposes against Toman, now that he is banned.",
-    		"status": "Airing",
-		"cover": "https://preview.redd.it/season-3-of-tokyo-revengers-tenjiku-arc-custo-poster-btw-i-v0-vqyqhbzebmoa1.png?width=872&format=png&auto=webp&s=c8f839a21550bc2045a04a2dcf3760c14edca3cf",
-		"rating": 77,
-		"releaseDate": 2023,
-		"genres": ["Action", "Drama", "Romance", "Supernatural"],
-		"totalEpisodes": 13,
-		"duration": 24,
-		"type": "TV",
-		"animeUrl": "/anime/tokyo-revengers-season-3",
-		"watchUrl": "/watch/tokyo-revengers-season-3-episode-1"
-	},
-{
-		"id": "145064",
-		"malId": 51009,
-		"title": {
-		"romaji": "Jujutsu Kaisen 2nd Season",
-		"english": "JUJUTSU KAISEN Season 2",
-		"native": "呪術廻戦 第2期"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
-		"trailer": {},
-		"description": "The second season of <i>Jujutsu Kaisen</i>.<br>\n<br>\nThe past comes to light when second-year students Satoru Gojou and Suguru Getou are tasked with escorting young Riko Amanai to Master Tengen. But when a non-sorcerer user tries to kill them, their mission to protect the Star Plasma Vessel threatens to turn them into bitter enemies and cement their destinies—one as the world’s strongest sorcerer, and the other its most twisted curse user!<br>\n<br>\n(Source: Crunchyroll)",
-		"status": "Airing",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-kH9vbOEitIhl.jpg",
-		"rating": 85,
-		"releaseDate": 2023,
-		"genres": ["Action", "Drama", "Supernatural"],
-		"totalEpisodes": 23,
-		"duration": 24,
-		"type": "TV",
-		"animeUrl": "/anime/jujutsu-kaisen-season-2",
-		"watchUrl": "/watch/jujutsu-kaisen-season-2-episode-1"
-	},
-	{
-		"id": "158871",
-		"malId": 53876,
-		"title": {
-		"romaji": "Pocket Monsters (2023)",
-		"english": "Pokémon Horizons: The Series",
-		"native": "ポケットモンスター (2023)"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
-		"trailer": {},
-		"description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Liko and a boy named Roy.",
-		"status": "Airing",
-		"cover": "https://images8.alphacoders.com/131/1313762.png",
-		"rating": 72,
-		"releaseDate": 2023,
-		"genres": ["Adventure", "Fantasy", "Kids"],
-		"totalEpisodes": 34,
-		"duration": 22,
-		"type": "TV",
-		"animeUrl": "/anime/pokemon-horizons-the-series",
-		"watchUrl": "/watch/pokemon-horizons-the-series-episode-1"
-	}
+    {
+        "id": "151380",
+        "malId": 52196,
+        "title": {
+            "romaji": "Date A Live V",
+            "english": "Date A Live V",
+            "native": "デート・ア・ライブV"
+        },
+        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151380-gvN5PjrybTw2.jpg",
+        "description": "The fifth season of \u003Ci\u003EDate A Live\u003C/i\u003E.",
+        "status": "Airing",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151380-EWQOtJmxe3JY.jpg",
+        "rating": 76,
+        "releaseDate": 2024,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Ecchi",
+            "Fantasy",
+            "Mecha",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "totalEpisodes": 12,
+        "duration": 23,
+        "type": "TV",
+        "animeUrl": "/anime/date-a-live-v",
+        "watchUrl": "/watch/date-a-live-v-episode-1"
+    },
+    {
+        "id": "1735",
+        "malId": 1735,
+        "title": {
+            "romaji": "NARUTO: Shippuuden - Hindi",
+            "english": "Naruto: Shippuden - Hindi",
+            "native": "NARUTO -ナルト- 疾風伝"
+        },
+        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png",
+        "description": "Naruto: Shippuuden is the continuation of the original animated TV series Naruto. The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as he has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki. <br><br>\n(Source: Anime News Network)",
+        "status": "Airing",
+        "cover": "https://artworks.thetvdb.com/banners/series/79824/backgrounds/5ec2051e98aa0.jpg",
+        "rating": 81,
+        "releaseDate": 2007,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+        ],
+        "totalEpisodes": 500,
+        "duration": 23,
+        "type": "TV",
+        "animeUrl": "/anime/naruto-shippuden-hindi",
+        "watchUrl": "/watch/naruto-shippuden-hindi-episode-1"
+    },
+    {
+        "id": "166240",
+        "malId": 55701,
+        "title": {
+            "romaji": "Kimetsu no Yaiba: Hashira Geiko-hen",
+            "english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+            "native": "鬼滅の刃 柱稽古編"
+        },
+        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166240-2XbSZkWX6Dqe.jpg",
+        "description": "Adaptation of the Hashira Training Arc.<br>\n<br>\n<i>Notes:<br>\n• The first episode has a runtime of ~1 hour, and received an early premiere in cinemas as part of a special screening alongside the final episode of Kimetsu no Yaiba: Katanakaji no Sato-hen. </i>",
+        "status": "Ongoing",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166240-KpMMoNNMxkG4.jpg",
+        "rating": 68,
+        "releaseDate": 2024,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Supernatural"
+        ],
+        "totalEpisodes": 1,
+        "duration": 103,
+        "type": "TV",
+        "animeUrl": "/anime/demon-slayer-kimetsu-no-yaiba-hashira-training-arc",
+        "watchUrl": "/watch/demon-slayer-kimetsu-no-yaiba-hashira-training-arc-episode-1"
+    },
+    {
+        "id": "151807",
+        "malId": 52299,
+        "title": {
+            "romaji": "Ore dake Level Up na Ken",
+            "english": "Solo Leveling",
+            "native": "俺だけレベルアップな件"
+        },
+        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png",
+        "description": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.<br>\n<br>\n(Source: Crunchyroll) <br><br>",
+        "status": "Ongoing",
+        "cover": "https://artworks.thetvdb.com/banners/v4/series/389597/backgrounds/61ed3bc02a309.jpg",
+        "rating": 87,
+        "releaseDate": 2024,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "totalEpisodes": 12,
+        "duration": 22,
+        "type": "TV",
+        "animeUrl": "/anime/solo-leveling",
+        "watchUrl": "/watch/solo-leveling-episode-1"
+    },
+    {
+        "id": "146066",
+        "malId": 51180,
+        "title": {
+            "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+            "english": "Classroom of the Elite Season 3",
+            "native": "ようこそ実力至上主義の教室へ 第3期"
+        },
+        "image": "https://artworks.thetvdb.com/banners/v4/series/431703/backgrounds/63fddc606feb2.jpg",
+        "description": "The third season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br>\n<br>\nThe third semester kicks off in high gear with a special boot camp deep in the mountains. Forcibly separated into groups along grade and gender lines, the first, second and third years alike must work together to survive the rugged terrain. Even worse? The leader of the group that comes in last will be expelled. Can Class D make it back to campus intact, or is this where they finally say goodbye to one of their own?<br>\n<br>\n(Source: Seven Seas Entertainment)",
+        "status": "Ongoing",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146066-gxjPUB1ofAO4.jpg",
+        "rating": null,
+        "releaseDate": 2024,
+        "genres": [
+            "Drama",
+            "Psychological"
+        ],
+        "totalEpisodes": 13,
+        "duration": 22,
+        "type": "TV",
+        "animeUrl": "/anime/classroom-of-the-elite-season-3",
+        "watchUrl": "/watch/classroom-of-the-elite-season-3-episode-1"
+    },
+    {
+        "id": "163329",
+        "malId": 54918,
+        "title": {
+            "romaji": "Tokyo Revengers: Tenjiku-hen",
+            "english": "Tokyo Revengers Season 3",
+            "native": "東京リベンジャーズ 天竺編"
+        },
+        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163329-lGJRnYV9dcjc.jpg",
+        "trailer": {
+            "id": "OTlNyYfkM1s",
+            "site": "youtube",
+            "thumbnail": "https://i.ytimg.com/vi/OTlNyYfkM1s/hqdefault.jpg"
+        },
+        "description": "Adaptation of the Tenjiku Arc.\n<br><br>\nWith a future where Toman has been destroyed by Mikey's twisted ideas and Takemichi returning to the past, he decides to become stronger in order to stop Kisaki's plans. On one side, a mysterious gang from Yokohama known as Tenjiku begins to overthrow all the Toman divisions, deciding to destroy all the gangs in Japan, becoming the most powerful and unique.\n<br><br>\nKisaki has been planning something for his purposes against Toman, now that he is banned.",
+        "status": "Airing",
+        "cover": "https://preview.redd.it/season-3-of-tokyo-revengers-tenjiku-arc-custo-poster-btw-i-v0-vqyqhbzebmoa1.png?width=872&format=png&auto=webp&s=c8f839a21550bc2045a04a2dcf3760c14edca3cf",
+        "rating": 77,
+        "releaseDate": 2023,
+        "genres": [
+            "Action",
+            "Drama",
+            "Romance",
+            "Supernatural"
+        ],
+        "totalEpisodes": 13,
+        "duration": 24,
+        "type": "TV",
+        "animeUrl": "/anime/tokyo-revengers-season-3",
+        "watchUrl": "/watch/tokyo-revengers-season-3-episode-1"
+    },
+    {
+        "id": "145064",
+        "malId": 51009,
+        "title": {
+            "romaji": "Jujutsu Kaisen 2nd Season",
+            "english": "JUJUTSU KAISEN Season 2",
+            "native": "呪術廻戦 第2期"
+        },
+        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
+        "trailer": {},
+        "description": "The second season of <i>Jujutsu Kaisen</i>.<br>\n<br>\nThe past comes to light when second-year students Satoru Gojou and Suguru Getou are tasked with escorting young Riko Amanai to Master Tengen. But when a non-sorcerer user tries to kill them, their mission to protect the Star Plasma Vessel threatens to turn them into bitter enemies and cement their destinies—one as the world’s strongest sorcerer, and the other its most twisted curse user!<br>\n<br>\n(Source: Crunchyroll)",
+        "status": "Airing",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-kH9vbOEitIhl.jpg",
+        "rating": 85,
+        "releaseDate": 2023,
+        "genres": [
+            "Action",
+            "Drama",
+            "Supernatural"
+        ],
+        "totalEpisodes": 23,
+        "duration": 24,
+        "type": "TV",
+        "animeUrl": "/anime/jujutsu-kaisen-season-2",
+        "watchUrl": "/watch/jujutsu-kaisen-season-2-episode-1"
+    },
+    {
+        "id": "158871",
+        "malId": 53876,
+        "title": {
+            "romaji": "Pocket Monsters (2023)",
+            "english": "Pokémon Horizons: The Series",
+            "native": "ポケットモンスター (2023)"
+        },
+        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
+        "trailer": {},
+        "description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Liko and a boy named Roy.",
+        "status": "Airing",
+        "cover": "https://images8.alphacoders.com/131/1313762.png",
+        "rating": 72,
+        "releaseDate": 2023,
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Kids"
+        ],
+        "totalEpisodes": 34,
+        "duration": 22,
+        "type": "TV",
+        "animeUrl": "/anime/pokemon-horizons-the-series",
+        "watchUrl": "/watch/pokemon-horizons-the-series-episode-1"
+    }
 ]
