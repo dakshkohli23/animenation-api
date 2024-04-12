@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 36,
+    "currentEpisode": 38,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2558,5 +2558,21 @@
             "number": "36",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/340184.jpg",
             "airDate": "2007-12-20"
+        },
+        {
+            "id": "naruto-shippuden-episode-37",
+            "title": "Return of the Kazekage",
+            "description": "Now that Gaara's been revived, the Hidden Sand Village slowly begins to return to normal. It's time for the ninja of Konoha to take their leave, and Naruto shows Gaara how friends say goodbye. Meanwhile, a mysterious ninja tries to join Akatsuki.",
+            "number": "37",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/340333.jpg",
+            "airDate": "2007-10-25"
+        },
+        {
+            "id": "naruto-shippuden-episode-38",
+            "title": "The Legacy",
+            "description": "Gaara's body has finally been recovered, and Chiyo determines that there is only one way to save him. It's up to her and the entire village to prove to Gaara that he is loved, and Naruto shows Gaara that he does have a friend.",
+            "number": "38",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/342665.jpg",
+            "airDate": "2007-10-18"
         }]
 }
