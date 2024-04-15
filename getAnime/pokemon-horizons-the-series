@@ -27,8 +27,8 @@
 		"month": 4,
 		"day": 14
 	},
-	"totalEpisodes": 45,
-	"currentEpisode": 45,
+	"totalEpisodes": 46,
+	"currentEpisode": 46,
 	"rating": 72,
 	"duration": 22,
 	"genres": ["Adventure", "Fantasy"],
@@ -940,10 +940,10 @@
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10345148/screencap/65fd2d59e47d1.jpg"
         },
         {
-            "id": "pokemon-horizons-the-series-episode-45",
-            "title": "To Places Far Far Away",
+            "id": "pokemon-horizons-the-series-episode-46",
+            "title": "How Thrilling! Naranja Academy",
             "description": "",
-            "number": "45",
-            "image": "https://artworks.thetvdb.com/banners/v4/episode/10345149/screencap/660692ce50f99.jpg"
+            "number": "46",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10379062/screencap/6618f0ed73ba3.jpg"
         }]
 }
