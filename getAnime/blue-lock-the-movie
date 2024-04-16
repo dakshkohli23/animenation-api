@@ -1,0 +1,517 @@
+{
+  "id": "163147",
+  "title": {
+    "romaji": "Blue Lock: EPISODE Nagi",
+    "english": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+    "native": "ブルーロック -EPISODE 凪-"
+  },
+  "malId": 54866,
+  "synonyms": [
+    "劇場版 ブルーロック"
+  ],
+  "isLicensed": true,
+  "isAdult": false,
+  "countryOfOrigin": "JP",
+  "trailer": {
+    "id": "PcPQzks4m3A",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/PcPQzks4m3A/hqdefault.jpg",
+    "thumbnailHash": "hash"
+  },
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163147-yyu5aEoO96Jg.jpg",
+  "imageHash": "hash",
+  "popularity": 23728,
+  "color": "#50a1e4",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163147-V6c9XjfvGE0M.jpg",
+  "coverHash": "hash",
+  "description": "A movie centered about Nagi Seishirou before he enters \u003Ci\u003EBLUE LOCK\u003C/i\u003E. \n\u003Cbr\u003E\u003Cbr\u003E\n\u003Ci\u003EMy life was full of boredom. Until I met him.\u003C/i\u003E\n\u003Cbr\u003E\u003Cbr\u003E\n\u003Ci\u003E“That’s a hassle.” \u003C/i\u003E That was second-year high schooler Nagi Seishirou’s favorite phrase as he lived his dull life. Until Reo Mikage, a classmate who dreamed of winning the World Cup, discovered Nagi’s hidden skill, inspiring him to play soccer and share his outstanding talent. Nagi is pulled into Reo's world of soccer and out of his leisurely lifestyle. What fate awaits this prodigy in BLUE LOCK? A world he’s never known.\n\u003Cbr\u003E\u003Cbr\u003E\n(Source: Crunchyroll, edited)",
+  "status": "Not yet aired",
+  "releaseDate": 2024,
+  "startDate": {
+    "year": 2024,
+    "month": 4,
+    "day": 19
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 4,
+    "day": 19
+  },
+  "nextAiringEpisode": {
+    "airingTime": 1713452400,
+    "timeUntilAiring": 205269,
+    "episode": 1
+  },
+  "totalEpisodes": 1,
+  "currentEpisode": 0,
+  "rating": null,
+  "duration": 91,
+  "genres": [
+    "Action",
+    "Sports"
+  ],
+  "season": "SPRING",
+  "studios": [
+    "8-bit"
+  ],
+  "subOrDub": "sub",
+  "type": "MOVIE",
+  "recommendations": [],
+  "characters": [
+    {
+      "id": 162969,
+      "role": "MAIN",
+      "name": {
+        "first": "Seishirou",
+        "last": "Nagi",
+        "full": "Seishirou Nagi",
+        "native": "凪誠士郎",
+        "userPreferred": "Seishirou Nagi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162969-WGnGyVQrFi0X.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 105989,
+          "language": "Japanese",
+          "name": {
+            "first": "Nobunaga",
+            "last": "Shimazaki",
+            "full": "Nobunaga Shimazaki",
+            "native": "島崎信長",
+            "userPreferred": "Nobunaga Shimazaki"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 169394,
+      "role": "MAIN",
+      "name": {
+        "first": "Reo",
+        "last": "Mikage",
+        "full": "Reo Mikage",
+        "native": "御影玲王",
+        "userPreferred": "Reo Mikage"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169394-8KDqHUN1VyGC.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 119617,
+          "language": "Japanese",
+          "name": {
+            "first": "Yuuma",
+            "last": "Uchida",
+            "full": "Yuuma Uchida",
+            "native": "内田雄馬",
+            "userPreferred": "Yuuma Uchida"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 167444,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Hyoma",
+        "last": "Chigiri",
+        "full": "Hyoma Chigiri",
+        "native": "千切豹馬",
+        "userPreferred": "Hyoma Chigiri"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167444-JTHkkJAX4E3q.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 113227,
+          "language": "Japanese",
+          "name": {
+            "first": "Souma",
+            "last": "Saitou",
+            "full": "Souma Saitou",
+            "native": "斉藤壮馬",
+            "userPreferred": "Souma Saitou"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 169398,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Gurimu",
+        "last": "Igarashi",
+        "full": "Gurimu Igarashi",
+        "native": "五十嵐栗夢",
+        "userPreferred": "Gurimu Igarashi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169398-3NPYMKAVUA8k.jpg",
+      "imageHash": "hash",
+      "voiceActors": []
+    },
+    {
+      "id": 140856,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Yoichi",
+        "last": "Isagi",
+        "full": "Yoichi Isagi",
+        "native": "潔世一",
+        "userPreferred": "Yoichi Isagi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140856-wVzKSyvU7R5B.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 220465,
+          "language": "Japanese",
+          "name": {
+            "first": "Kazuki",
+            "last": "Ura",
+            "full": "Kazuki Ura",
+            "native": "浦和希",
+            "userPreferred": "Kazuki Ura"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n220465-BUFqCWqdHyLo.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 140857,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Jinpachi",
+        "last": "Ego",
+        "full": "Jinpachi Ego",
+        "native": "絵心甚八",
+        "userPreferred": "Jinpachi Ego"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140857-DOTyKBCufon9.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95118,
+          "language": "Japanese",
+          "name": {
+            "first": "Hiroshi",
+            "last": "Kamiya",
+            "full": "Hiroshi Kamiya",
+            "native": "神谷浩史",
+            "userPreferred": "Hiroshi Kamiya"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 329915,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Ryou",
+        "last": "Nameoka",
+        "full": "Ryou Nameoka",
+        "native": "舐岡了",
+        "userPreferred": "Ryou Nameoka"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b329915-Jya1souJqMbl.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 107480,
+          "language": "Japanese",
+          "name": {
+            "first": "Subaru",
+            "last": "Kimura",
+            "full": "Subaru Kimura",
+            "native": "木村昴",
+            "userPreferred": "Subaru Kimura"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107480-h2RgLXNP7hcj.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 162214,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Rensuke",
+        "last": "Kunigami",
+        "full": "Rensuke Kunigami",
+        "native": "國神錬介",
+        "userPreferred": "Rensuke Kunigami"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162214-9x9Q3A9rxpx8.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 96154,
+          "language": "Japanese",
+          "name": {
+            "first": "Yuuki",
+            "last": "Ono",
+            "full": "Yuuki Ono",
+            "native": "小野友樹",
+            "userPreferred": "Yuuki Ono"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96154-B8GAO9wm1Fbd.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 169399,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Okuhito",
+        "last": "Iemon",
+        "full": "Okuhito Iemon",
+        "native": "伊右衛門送人",
+        "userPreferred": "Okuhito Iemon"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169399-Y9TEpu1qhsWK.jpg",
+      "imageHash": "hash",
+      "voiceActors": []
+    },
+    {
+      "id": 169406,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Zantetsu",
+        "last": "Tsurugi",
+        "full": "Zantetsu Tsurugi",
+        "native": "剣城斬鉄",
+        "userPreferred": "Zantetsu Tsurugi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169406-wTagOOkC7fi5.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 102288,
+          "language": "Japanese",
+          "name": {
+            "first": "Kazuyuki",
+            "last": "Okitsu",
+            "full": "Kazuyuki Okitsu",
+            "native": "興津和幸",
+            "userPreferred": "Kazuyuki Okitsu"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 169393,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Yudai",
+        "last": "Imamura",
+        "full": "Yudai Imamura",
+        "native": "今村遊大",
+        "userPreferred": "Yudai Imamura"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169393-v2sZMcol9gtH.jpg",
+      "imageHash": "hash",
+      "voiceActors": []
+    },
+    {
+      "id": 169401,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Shouei",
+        "last": "Barou",
+        "full": "Shouei Barou",
+        "native": "馬狼照英",
+        "userPreferred": "Shouei Barou"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169401-jeepvEsqW4Ns.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95095,
+          "language": "Japanese",
+          "name": {
+            "first": "Junichi",
+            "last": "Suwabe",
+            "full": "Junichi Suwabe",
+            "native": "諏訪部順一",
+            "userPreferred": "Junichi Suwabe"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 179957,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Asahi",
+        "last": "Naruhaya",
+        "full": "Asahi Naruhaya",
+        "native": "成早朝日",
+        "userPreferred": "Asahi Naruhaya"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179957-IjUVBSDq8tWc.png",
+      "imageHash": "hash",
+      "voiceActors": []
+    },
+    {
+      "id": 169395,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Rin",
+        "last": "Itoshi",
+        "full": "Rin Itoshi",
+        "native": "糸師凛",
+        "userPreferred": "Rin Itoshi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169395-7xUFV2mINMZu.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 96764,
+          "language": "Japanese",
+          "name": {
+            "first": "Kouki",
+            "last": "Uchiyama",
+            "full": "Kouki Uchiyama",
+            "native": "内山昂輝",
+            "userPreferred": "Kouki Uchiyama"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96764-yJWGrhjanDJQ.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 169402,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Jingo",
+        "last": "Raichi",
+        "full": "Jingo Raichi",
+        "native": "雷市陣吾",
+        "userPreferred": "Jingo Raichi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169402-JlISsoEunCxH.png",
+      "imageHash": "hash",
+      "voiceActors": []
+    },
+    {
+      "id": 162213,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Meguru",
+        "last": "Bachira",
+        "full": "Meguru Bachira",
+        "native": "蜂楽廻",
+        "userPreferred": "Meguru Bachira"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162213-EYCAKuDmGi3g.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 236528,
+          "language": "Japanese",
+          "name": {
+            "first": "Tasuku",
+            "last": "Kaito",
+            "full": "Tasuku Kaito",
+            "native": "海渡翼",
+            "userPreferred": "Tasuku Kaito"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n236528-8A7MREB5CAdG.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 169404,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Gin",
+        "last": "Gagamaru",
+        "full": "Gin Gagamaru",
+        "native": "我牙丸吟",
+        "userPreferred": "Gin Gagamaru"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169404-90OF8t2ukD9H.jpg",
+      "imageHash": "hash",
+      "voiceActors": []
+    }
+  ],
+  "relations": [
+    {
+      "id": 146203,
+      "relationType": "ADAPTATION",
+      "malId": 144695,
+      "title": {
+        "romaji": "Blue Lock: EPISODE Nagi",
+        "english": "BLUE LOCK -EPISODE NAGI-",
+        "native": "ブルーロック-EPISODE 凪-",
+        "userPreferred": "Blue Lock: EPISODE Nagi"
+      },
+      "status": "Ongoing",
+      "episodes": null,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146203-ICn4SRykJjYn.jpg",
+      "imageHash": "hash",
+      "color": "#1aa1d6",
+      "type": "MANGA",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx146203-ICn4SRykJjYn.jpg",
+      "coverHash": "hash",
+      "rating": 80
+    },
+    {
+      "id": 137822,
+      "relationType": "PARENT",
+      "malId": 49596,
+      "title": {
+        "romaji": "Blue Lock",
+        "english": "BLUELOCK",
+        "native": "ブルーロック",
+        "userPreferred": "Blue Lock"
+      },
+      "status": "Completed",
+      "episodes": 24,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-1JgEIoQ081G8.png",
+      "imageHash": "hash",
+      "color": "#286be4",
+      "type": "TV",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137822-oevspckMGLuY.jpg",
+      "coverHash": "hash",
+      "rating": 82
+    },
+    {
+      "id": 176317,
+      "relationType": "OTHER",
+      "malId": null,
+      "title": {
+        "romaji": "Blue Lock: EPISODE Nagi - Additional Time!",
+        "english": null,
+        "native": "ブルーロック -EPISODE 凪- あでぃしょなる・たいむ！",
+        "userPreferred": "Blue Lock: EPISODE Nagi - Additional Time!"
+      },
+      "status": "Not yet aired",
+      "episodes": 4,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176317-abBCvCWILpiv.png",
+      "imageHash": "hash",
+      "color": "#1aaed6",
+      "type": "SPECIAL",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176317-abBCvCWILpiv.png",
+      "coverHash": "hash",
+      "rating": null
+    }
+  ],
+  "episodes": []
+}
