@@ -1,5 +1,15 @@
 [
 	{
+		"animeId": "remonster",
+		"episodeId": "remonster-episode-3",
+		"jname": "Re:Monster",
+		"name": "Re:Monster",
+		"episodeNum": 12,
+		"sub": 3,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png"
+	},
+	{
 		"animeId": "naruto-shippuden",
 		"episodeId": "naruto-shippuden-episode-42",
 		"jname": "NARUTO: Shippuuden",
