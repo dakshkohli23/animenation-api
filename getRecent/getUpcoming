@@ -1,5 +1,17 @@
 [
 	{
+		"animeId": "blue-lock-the-movie",
+		"jname": "Blue Lock: EPISODE Nagi",
+		"name": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+		"episodeNum": 1,
+		"sub": "",
+		"dub": "",
+		"subOrDub": "sub",
+		"type": "movie",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163147-yyu5aEoO96Jg.jpg",
+		"episodeUrl": "../anime/blue-lock-the-movie"
+	},
+	{
 		"animeId": "my-hero-academia-season-7",
 		"jname": "Boku no Hero Academia 7",
 		"name": "My Hero Academia Season 7",
