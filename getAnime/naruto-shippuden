@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 40,
+    "currentEpisode": 42,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2590,5 +2590,21 @@
             "number": "40",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/342939.jpg",
             "airDate": "2008-01-10"
+        },
+        {
+            "id": "naruto-shippuden-episode-41",
+            "title": "Sakura's Tears",
+            "description": "Kabuto comments that Naruto's state is a consequence of his desperation to bring back Sasuke. Sakura begins to cry and approaches Naruto but is injured when his attention turns to her. Yamato uses the mokuton jutsu to bind Naruto before he does any more harm. Kabuto heals Sakura, reasoning that the Konoha ninja are not Orochimaru's enemies because they are also fighting Akatsuki. Yamato uses the abilities of the 1st Hokage to forcibly return Naruto to his normal state. Meanwhile Sai confronts Orochimaru with a message from Danzo. Orochimaru responds by piercing Sai with Kusanagi.",
+            "number": "41",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/342940.jpg",
+            "airDate": "2008-01-17"
+        },
+        {
+            "id": "naruto-shippuden-episode-42",
+            "title": "The Secret of the Battle!",
+            "description": "Yamato uses the first Hokage's chakra to suppress the demon fox's chakra and Naruto returns to normal, but with severe injuries. Sakura begins to heal him, but notes that medical ninjutsu has little effect on his wounds. Orochimaru's sword is revealed to have only pierced one of Sai's clones. The real Sai emerges, talks to Orochimaru and gives him a letter from Danzo. Sai then leaves with Orochimaru and Kabuto but Yamato's wood clone stays close on their trail. Naruto comes to his senses and wonders what happened but Sakura decides not to tell him the truth. They reach the meeting spot, picking up the picture book Sai left behind. Yamato infers that Danzo seeks to destroy and remake Konoha by collaborating with Orochimaru.",
+            "number": "42",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/343709.jpg",
+            "airDate": "2008-01-24"
         }]
 }
