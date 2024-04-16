@@ -1,5 +1,30 @@
 [
     {
+        "id": "169417",
+        "malId": 56690,
+        "title": {
+            "romaji": "Re:Monster",
+			"english": "Re:Monster",
+			"native": "Re:Monster"
+        },
+        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png",
+        "description": "After meeting an untimely death, Tomokui Kanata is reincarnated as a lowly goblin, but he’s worked up a monstrous appetite. Thanks to his new ability that allows him to grow stronger the more he feeds, his feeble status quickly changes, and he rises to become the goblin leader. With a mix of his past memories, new body, and strong stomach, he’s taking a bite out of this new fantastical world! \u003Cbr\u003E\u003Cbr\u003E\n(Source: Crunchyroll)\u003Cbr\u003E\u003Cbr\u003E\n\u003Ci\u003EThe episodes were streamed several days ahead than the TV broadcast on U-NEXT, Anime Houdai, and Crunchyroll beginning on April 2nd, 2024 at 0:00 JST. The regular TV broadcast begins on April 5th, 2024.",
+		"status": "Airing",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169417-NaD0wR83gTbm.jpg",
+        "rating": 69,
+        "releaseDate": 2024,
+        "genres": [
+		"Action",
+		"Adventure",
+		"Fantasy"
+		]
+        "totalEpisodes": 12,
+        "duration": 24,
+        "type": "TV",
+        "animeUrl": "/anime/remonster",
+        "watchUrl": "/watch/remonster-episode-1"
+    },
+    {
         "id": "151380",
         "malId": 52196,
         "title": {
