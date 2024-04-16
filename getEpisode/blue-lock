@@ -1,266 +1,218 @@
 [
         {
-            "server1": "8h6d1cib0gkl",
+            "server1": "3yveod67xz0u",
+            "server2": "qubyz8kzdizl",
             "animeNameWithEP": "BLUELOCK Episode 1",
             "ep_num": "1",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 2 >>",
-            "nextEpLink": "/blue-lock-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "vwvzs7ljr8dr",
+            "server1": "m2f01mdb4ubu",
+            "server2": "g5adfpx5y2ib",
             "animeNameWithEP": "BLUELOCK Episode 2",
             "ep_num": "2",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 3 >>",
-            "nextEpLink": "/blue-lock-episode-3",
-            "prevEpText": "<< BLUELOCK Episode 1",
-            "prevEpLink": "/blue-lock-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "93k3zowd3yv6",
+            "server1": "hhvri831b049",
+            "server2": "n7m514srsjo1",
             "animeNameWithEP": "BLUELOCK Episode 3",
             "ep_num": "3",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 4 >>",
-            "nextEpLink": "/blue-lock-episode-4",
-            "prevEpText": "<< BLUELOCK Episode 2",
-            "prevEpLink": "/blue-lock-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "il8nf3muozx3",
+            "server1": "wuynkdrwsu7f",
+            "server2": "s94p24dd219w",
             "animeNameWithEP": "BLUELOCK Episode 4",
             "ep_num": "4",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 5 >>",
-            "nextEpLink": "/blue-lock-episode-5",
-            "prevEpText": "<< BLUELOCK Episode 3",
-            "prevEpLink": "/blue-lock-episode-3"
+            "subOrDub": "dual"
         },
         {
-            "server1": "1trxyyj62cld",
+            "server1": "vh8u420kqj04",
+            "server2": "zabkfxfuoq5l",
             "animeNameWithEP": "BLUELOCK Episode 5",
             "ep_num": "5",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 6 >>",
-            "nextEpLink": "/blue-lock-episode-6",
-            "prevEpText": "<< BLUELOCK Episode 4",
-            "prevEpLink": "/blue-lock-episode-4"
+            "subOrDub": "dual"
         },
         {
-            "server1": "dzhg0lrl5pmh",
+            "server1": "spf3si0p1i2s",
+            "server2": "rfcdfydd15q4",
             "animeNameWithEP": "BLUELOCK Episode 6",
             "ep_num": "6",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 7 >>",
-            "nextEpLink": "/blue-lock-episode-7",
-            "prevEpText": "<< BLUELOCK Episode 5",
-            "prevEpLink": "/blue-lock-episode-5"
+            "subOrDub": "dual"
         },
         {
-            "server1": "85htxdecitew",
+            "server1": "prt23kwjr3o3",
+            "server2": "9om4hlw8z2sh",
             "animeNameWithEP": "BLUELOCK Episode 7",
             "ep_num": "7",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 8 >>",
-            "nextEpLink": "/blue-lock-episode-8",
-            "prevEpText": "<< BLUELOCK Episode 6",
-            "prevEpLink": "/blue-lock-episode-6"
+            "subOrDub": "dual"
         },
         {
-            "server1": "s8cj5y3d1xyb",
+            "server1": "i38521l345qa",
+            "server2": "asw4yv86zyq4",
             "animeNameWithEP": "BLUELOCK Episode 8",
             "ep_num": "8",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 9 >>",
-            "nextEpLink": "/blue-lock-episode-9",
-            "prevEpText": "<< BLUELOCK Episode 7",
-            "prevEpLink": "/blue-lock-episode-7"
+            "subOrDub": "dual"
         },
         {
-            "server1": "zj35ypab7xs3",
+            "server1": "k7wcbpy3tdhk",
+            "server2": "ko4deolo4bep",
             "animeNameWithEP": "BLUELOCK Episode 9",
             "ep_num": "9",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 10 >>",
-            "nextEpLink": "/blue-lock-episode-10",
-            "prevEpText": "<< BLUELOCK Episode 8",
-            "prevEpLink": "/blue-lock-episode-8"
+            "subOrDub": "dual"
         },
         {
-            "server1": "5f30vun8sgkm",
+            "server1": "5jek3wxiyzmz",
+            "server2": "4ek8lnl31amp",
             "animeNameWithEP": "BLUELOCK Episode 10",
             "ep_num": "10",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 11 >>",
-            "nextEpLink": "/blue-lock-episode-11",
-            "prevEpText": "<< BLUELOCK Episode 9",
-            "prevEpLink": "/blue-lock-episode-9"
+            "subOrDub": "dual"
         },
         {
-            "server1": "q5emg8sr46a0",
+            "server1": "4yup584p1cc8",
+            "server2": "2yfoiaw9eyhj",
             "animeNameWithEP": "BLUELOCK Episode 11",
             "ep_num": "11",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 12 >>",
-            "nextEpLink": "/blue-lock-episode-12",
-            "prevEpText": "<< BLUELOCK Episode 10",
-            "prevEpLink": "/blue-lock-episode-10"
+            "subOrDub": "dual"
         },
         {
-            "server1": "y2h5fu5k02k7",
+            "server1": "kftahr3rs3h4",
+            "server2": "cd093o1x5ttc",
             "animeNameWithEP": "BLUELOCK Episode 12",
             "ep_num": "12",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 13 >>",
-            "nextEpLink": "/blue-lock-episode-13",
-            "prevEpText": "<< BLUELOCK Episode 11",
-            "prevEpLink": "/blue-lock-episode-11"
+            "subOrDub": "dual"
         },
         {
-            "server1": "zeg2gfo52yxm",
+            "server1": "apvrxpmnrz5t",
+            "server2": "hom0qdoo7gfv",
             "animeNameWithEP": "BLUELOCK Episode 13",
             "ep_num": "13",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 14 >>",
-            "nextEpLink": "/blue-lock-episode-14",
-            "prevEpText": "<< BLUELOCK Episode 12",
-            "prevEpLink": "/blue-lock-episode-12"
+            "subOrDub": "dual"
         },
         {
-            "server1": "z1janx6jiyvd",
+            "server1": "tircjp524hz6",
+            "server2": "otupkox9rx6i",
             "animeNameWithEP": "BLUELOCK Episode 14",
             "ep_num": "14",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 15 >>",
-            "nextEpLink": "/blue-lock-episode-15",
-            "prevEpText": "<< BLUELOCK Episode 13",
-            "prevEpLink": "/blue-lock-episode-13"
+            "subOrDub": "dual"
         },
         {
-            "server1": "5bwyolxoozzb",
+            "server1": "2al2eraucjd1",
+            "server2": "ap6wahs6prie",
             "animeNameWithEP": "BLUELOCK Episode 15",
             "ep_num": "15",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 16 >>",
-            "nextEpLink": "/blue-lock-episode-16",
-            "prevEpText": "<< BLUELOCK Episode 14",
-            "prevEpLink": "/blue-lock-episode-14"
+            "subOrDub": "dual"
         },
         {
-            "server1": "sjv3y7jxp902",
+            "server1": "wvr8w0rguqif",
+            "server2": "o0ms24ot54i4",
             "animeNameWithEP": "BLUELOCK Episode 16",
             "ep_num": "16",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 17 >>",
-            "nextEpLink": "/blue-lock-episode-17",
-            "prevEpText": "<< BLUELOCK Episode 15",
-            "prevEpLink": "/blue-lock-episode-15"
+            "subOrDub": "dual"
         },
         {
-            "server1": "fgi9sk6gwz2a",
+            "server1": "vzjuuwf2zlyx",
+            "server2": "96ewz48alo0k",
             "animeNameWithEP": "BLUELOCK Episode 17",
             "ep_num": "17",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 18 >>",
-            "nextEpLink": "/blue-lock-episode-18",
-            "prevEpText": "<< BLUELOCK Episode 16",
-            "prevEpLink": "/blue-lock-episode-16"
+            "subOrDub": "dual"
         },
         {
-            "server1": "0xiceh7ydvwr",
+            "server1": "lxl97wpytt0d",
+            "server2": "g11i0x980vrl",
             "animeNameWithEP": "BLUELOCK Episode 18",
             "ep_num": "18",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 19 >>",
-            "nextEpLink": "/blue-lock-episode-19",
-            "prevEpText": "<< BLUELOCK Episode 17",
-            "prevEpLink": "/blue-lock-episode-17"
+            "subOrDub": "dual"
         },
         {
-            "server1": "vlaztt2of243",
+            "server1": "o8eo0r2ty8uv",
+            "server2": "4ebfozokerei",
             "animeNameWithEP": "BLUELOCK Episode 19",
             "ep_num": "19",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 20 >>",
-            "nextEpLink": "/blue-lock-episode-20",
-            "prevEpText": "<< BLUELOCK Episode 18",
-            "prevEpLink": "/blue-lock-episode-18"
+            "subOrDub": "dual"
         },
         {
-            "server1": "iteyzel35610",
+            "server1": "wpwcdnlumeu3",
+            "server2": "h86d1w6yyfrb",
             "animeNameWithEP": "BLUELOCK Episode 20",
             "ep_num": "20",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 21 >>",
-            "nextEpLink": "/blue-lock-episode-21",
-            "prevEpText": "<< BLUELOCK Episode 19",
-            "prevEpLink": "/blue-lock-episode-19"
+            "subOrDub": "dual"
         },
         {
-            "server1": "rmrqklzq2owu",
+            "server1": "0mfsg3mi42ry",
+            "server2": "n3zotgiq9gpz",
             "animeNameWithEP": "BLUELOCK Episode 21",
             "ep_num": "21",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 22 >>",
-            "nextEpLink": "/blue-lock-episode-22",
-            "prevEpText": "<< BLUELOCK Episode 20",
-            "prevEpLink": "/blue-lock-episode-20"
+            "subOrDub": "dual"
         },
         {
-            "server1": "b3uidrwhzcvh",
+            "server1": "z1ae65ztphhc",
+            "server2": "h5l6ym8mvi27",
             "animeNameWithEP": "BLUELOCK Episode 22",
             "ep_num": "22",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 23 >>",
-            "nextEpLink": "/blue-lock-episode-23",
-            "prevEpText": "<< BLUELOCK Episode 21",
-            "prevEpLink": "/blue-lock-episode-21"
+            "subOrDub": "dual"
         },
         {
-            "server1": "8olv9y2xim9r",
+            "server1": "dsfdc2j0eg0t",
+            "server2": "2mgvgm05j2l9",
             "animeNameWithEP": "BLUELOCK Episode 23",
             "ep_num": "23",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "BLUELOCK Episode 24 >>",
-            "nextEpLink": "/blue-lock-episode-24",
-            "prevEpText": "<< BLUELOCK Episode 22",
-            "prevEpLink": "/blue-lock-episode-22"
+            "subOrDub": "dual"
         },
         {
-            "server1": "dybm2bctx4g1",
+            "server1": "xpkdzpy3ewup",
+            "server2": "62wuks6r0kqr",
             "animeNameWithEP": "BLUELOCK Episode 24",
             "ep_num": "24",
             "anime_info": "blue-lock",
             "movie_id": "137822",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< BLUELOCK Episode 23",
-            "prevEpLink": "/blue-lock-episode-23"
+            "subOrDub": "dual"
         }
     ]
