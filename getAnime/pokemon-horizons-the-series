@@ -1,637 +1,716 @@
 {
-	"id": "158871",
-	"title": {
-		"romaji": "Pocket Monsters (2023)",
-		"english": "Pokémon Horizons: The Series",
-		"native": "ポケットモンスター (2023)"
-	},
-	"malId": 53876,
-	"synonyms": ["Pokémon (2023)", "Pokémon Horizontes: A Série"],
-	"isLicensed": true,
-	"isAdult": false,
-	"countryOfOrigin": "JP",
-	"trailer": {
-		"id": "_c_hMehCORQ",
-		"site": "youtube",
-		"thumbnail": "https://i.ytimg.com/vi/_c_hMehCORQ/hqdefault.jpg"
-	},
-	"image": "https://artworks.thetvdb.com/banners/v4/season/2069353/posters/64b401e6167d7.jpg",
-	"popularity": 9282,
-	"color": "#e4bb28",
-	"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
-	"description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Liko and a boy named Roy.",
-	"status": "Ongoing",
-	"releaseDate": 2023,
-	"startDate": {
-		"year": 2023,
-		"month": 4,
-		"day": 14
-	},
-	"totalEpisodes": 46,
-	"currentEpisode": 46,
-	"rating": 72,
-	"duration": 22,
-	"genres": ["Adventure", "Fantasy"],
-	"season": "SPRING",
-	"studios": ["OLM"],
-	"subOrDub": "sub",
-	"type": "TV",
-	"recommendations": [],
-	"characters": [{
-		"id": 294409,
-		"role": "MAIN",
-		"name": {
-			"first": "Roy",
-			"last": null,
-			"full": "Roy",
-			"native": "ロイ",
-			"userPreferred": "Roy"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b294409-ur1pQlkGbZDd.png",
-		"voiceActors": [{
-			"id": 95671,
-			"language": "Japanese",
-			"name": {
-				"first": "Yuka",
-				"last": "Terasaki",
-				"full": "Yuka Terasaki",
-				"native": "寺崎裕香",
-				"userPreferred": "Yuka Terasaki"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95671-iXGq2oxE1DlW.png"
-		}]
-	}, {
-		"id": 294410,
-		"role": "MAIN",
-		"name": {
-			"first": "Liko",
-			"last": null,
-			"full": "Liko",
-			"native": "リコ",
-			"userPreferred": "Liko"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b294410-lIZ6eTpStnFk.png",
-		"voiceActors": [{
-			"id": 120134,
-			"language": "Japanese",
-			"name": {
-				"first": "Minori",
-				"last": "Suzuki",
-				"full": "Minori Suzuki",
-				"native": "鈴木みのり",
-				"userPreferred": "Minori Suzuki"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120134-FtHxSz8ntSNJ.jpg"
-		}]
-	}, {
-		"id": 299753,
-		"role": "MAIN",
-		"name": {
-			"first": "Friede",
-			"last": null,
-			"full": "Friede",
-			"native": "フリード",
-			"userPreferred": "Friede"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b299753-y2yJxU3wyt8F.jpg",
-		"voiceActors": [{
-			"id": 119833,
-			"language": "Japanese",
-			"name": {
-				"first": "Taku",
-				"last": "Yashiro",
-				"full": "Taku Yashiro",
-				"native": "八代拓",
-				"userPreferred": "Taku Yashiro"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119833-0SP13A92YLm4.jpg"
-		}]
-	}, {
-		"id": 3891,
-		"role": "MAIN",
-		"name": {
-			"first": "Pikachu",
-			"last": null,
-			"full": "Pikachu",
-			"native": "ピカチュウ",
-			"userPreferred": "Pikachu"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/3891.jpg",
-		"voiceActors": [{
-			"id": 95128,
-			"language": "Japanese",
-			"name": {
-				"first": "Ikue",
-				"last": "Ootani",
-				"full": "Ikue Ootani",
-				"native": "大谷育江",
-				"userPreferred": "Ikue Ootani"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png"
-		}]
-	}, {
-		"id": 302844,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Nyahoja",
-			"last": null,
-			"full": "Nyahoja",
-			"native": "ニャオハ",
-			"userPreferred": "Nyahoja"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b302844-sVX5xGtV5Tia.png",
-		"voiceActors": [{
-			"id": 95014,
-			"language": "Japanese",
-			"name": {
-				"first": "Megumi",
-				"last": "Hayashibara",
-				"full": "Megumi Hayashibara",
-				"native": "林原めぐみ",
-				"userPreferred": "Megumi Hayashibara"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-VqxNuufY94V3.png"
-		}]
-	}, {
-		"id": 305051,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Liko no Sobo",
-			"last": null,
-			"full": "Liko no Sobo",
-			"native": "リコの祖母",
-			"userPreferred": "Liko no Sobo"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b305051-cSe1zzdCTDA3.jpg",
-		"voiceActors": [{
-			"id": 104984,
-			"language": "Japanese",
-			"name": {
-				"first": "Kiri",
-				"last": "Yoshizawa",
-				"full": "Kiri Yoshizawa",
-				"native": "吉沢希梨",
-				"userPreferred": "Kiri Yoshizawa"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104984-EziF4NJ5curA.jpg"
-		}]
-	}, {
-		"id": 304176,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Amethio",
-			"last": null,
-			"full": "Amethio",
-			"native": "アメジオ",
-			"userPreferred": "Amethio"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b304176-vOd2Q1eCnyt7.jpg",
-		"voiceActors": [{
-			"id": 119869,
-			"language": "Japanese",
-			"name": {
-				"first": "Shun",
-				"last": "Horie",
-				"full": "Shun Horie",
-				"native": "堀江瞬",
-				"userPreferred": "Shun Horie"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119869-mUUrORIQBlnB.png"
-		}]
-	}, {
-		"id": 305052,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Roy no Sofu",
-			"last": null,
-			"full": "Roy no Sofu",
-			"native": "ロイの祖父",
-			"userPreferred": "Roy no Sofu"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b305052-zleU7Q1gOVJX.jpg",
-		"voiceActors": [{
-			"id": 107677,
-			"language": "Japanese",
-			"name": {
-				"first": "Jin",
-				"last": "Urayama",
-				"full": "Jin Urayama",
-				"native": "浦山迅",
-				"userPreferred": "Jin Urayama"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107677-4JwhOvVQPItM.png"
-		}]
-	}, {
-		"id": 304177,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Conia",
-			"last": null,
-			"full": "Conia",
-			"native": "コニア",
-			"userPreferred": "Conia"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b304177-Ma6q7Lyg3Isa.jpg",
-		"voiceActors": [{
-			"id": 121004,
-			"language": "Japanese",
-			"name": {
-				"first": "Arisa",
-				"last": "Shida",
-				"full": "Arisa Shida",
-				"native": "志田有彩",
-				"userPreferred": "Arisa Shida"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/121004-YsQaxNjjrjjy.png"
-		}]
-	}, {
-		"id": 305054,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Soublades",
-			"last": null,
-			"full": "Soublades",
-			"native": "ソウブレイズ",
-			"userPreferred": "Soublades"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b305054-pcxp4iRNEAQx.jpg",
-		"voiceActors": []
-	}, {
-		"id": 304178,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Zir",
-			"last": null,
-			"full": "Zir",
-			"native": "ジル",
-			"userPreferred": "Zir"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b304178-5nBlrnTDm7V2.jpg",
-		"voiceActors": [{
-			"id": 198640,
-			"language": "Japanese",
-			"name": {
-				"first": "Kousuke",
-				"last": "Tanabe",
-				"full": "Kousuke Tanabe",
-				"native": "田邊幸輔",
-				"userPreferred": "Kousuke Tanabe"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198640-DPu77nXr4Raj.png"
-		}]
-	}, {
-		"id": 305057,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Kuwassu",
-			"last": null,
-			"full": "Kuwassu",
-			"native": "クワッス",
-			"userPreferred": "Kuwassu"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b305057-cs5Om3CKhY5F.jpg",
-		"voiceActors": [{
-			"id": 95087,
-			"language": "Japanese",
-			"name": {
-				"first": "Daisuke",
-				"last": "Namikawa",
-				"full": "Daisuke Namikawa",
-				"native": "浪川大輔",
-				"userPreferred": "Daisuke Namikawa"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png"
-		}]
-	}, {
-		"id": 300232,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Orio",
-			"last": null,
-			"full": "Orio",
-			"native": "オリオ",
-			"userPreferred": "Orio"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b300232-oc3dLexcbI2T.jpg",
-		"voiceActors": [{
-			"id": 106622,
-			"language": "Japanese",
-			"name": {
-				"first": "Ayane",
-				"last": "Sakura",
-				"full": "Ayane Sakura",
-				"native": "佐倉綾音",
-				"userPreferred": "Ayane Sakura"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png"
-		}]
-	}, {
-		"id": 304179,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Gurumin",
-			"last": null,
-			"full": "Gurumin",
-			"native": "ぐるみん",
-			"userPreferred": "Gurumin"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b304179-NfqNNFcwOILp.jpg",
-		"voiceActors": [{
-			"id": 118475,
-			"language": "Japanese",
-			"name": {
-				"first": "Yoshino",
-				"last": "Aoyama",
-				"full": "Yoshino Aoyama",
-				"native": "青山吉能",
-				"userPreferred": "Yoshino Aoyama"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118475-19IqPJRpa08T.png"
-		}]
-	}, {
-		"id": 305061,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Hogeta",
-			"last": null,
-			"full": "Hogeta",
-			"native": "ホゲータ",
-			"userPreferred": "Hogeta"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b305061-0GDGQLDYa1Dx.jpg",
-		"voiceActors": [{
-			"id": 116971,
-			"language": "Japanese",
-			"name": {
-				"first": "Daiki",
-				"last": "Yamashita",
-				"full": "Daiki Yamashita",
-				"native": "山下大輝",
-				"userPreferred": "Daiki Yamashita"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116971-r6Yn9mDyzBqU.png"
-		}]
-	}, {
-		"id": 300234,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Molly",
-			"last": null,
-			"full": "Molly",
-			"native": "モリー",
-			"userPreferred": "Molly"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b300234-4lyx8Hz83uad.jpg",
-		"voiceActors": [{
-			"id": 95594,
-			"language": "Japanese",
-			"name": {
-				"first": "Kei",
-				"last": "Shindou",
-				"full": "Kei Shindou",
-				"native": "真堂圭",
-				"userPreferred": "Kei Shindou"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95594-uUAU6lh6TMQW.png"
-		}]
-	}, {
-		"id": 304180,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Anne",
-			"last": null,
-			"full": "Anne",
-			"native": "アン",
-			"userPreferred": "Anne"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b304180-VLbNO7wMdm0X.jpg",
-		"voiceActors": [{
-			"id": 190470,
-			"language": "Japanese",
-			"name": {
-				"first": "Yuuna",
-				"last": "Ogata",
-				"full": "Yuuna Ogata",
-				"native": "緒方佑奈",
-				"userPreferred": "Yuuna Ogata"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190470-iOXKrdVT74vo.png"
-		}]
-	}, {
-		"id": 305063,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Roy no Tannin Kyoushi",
-			"last": null,
-			"full": "Roy no Tannin Kyoushi",
-			"native": "ロイの担任教師",
-			"userPreferred": "Roy no Tannin Kyoushi"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b305063-QGN9lA1aH8UU.jpg",
-		"voiceActors": [{
-			"id": 190927,
-			"language": "Japanese",
-			"name": {
-				"first": "Takumu",
-				"last": "Miyazono",
-				"full": "Takumu Miyazono",
-				"native": "宮園拓夢",
-				"userPreferred": "Takumu Miyazono"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190927-al0rO5vIW8wD.jpg"
-		}]
-	}, {
-		"id": 300237,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Landau",
-			"last": null,
-			"full": "Landau",
-			"native": "ランドウ",
-			"userPreferred": "Landau"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b300237-GgkisTcmIdHe.jpg",
-		"voiceActors": [{
-			"id": 105183,
-			"language": "Japanese",
-			"name": {
-				"first": "Ikkyuu",
-				"last": "Juku",
-				"full": "Ikkyuu Juku",
-				"native": "塾一久",
-				"userPreferred": "Ikkyuu Juku"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/10183.jpg"
-		}]
-	}, {
-		"id": 176871,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Mijumaru",
-			"last": null,
-			"full": "Mijumaru",
-			"native": "ミジュマル",
-			"userPreferred": "Mijumaru"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b176871-kTOvY3UZh3cc.png",
-		"voiceActors": []
-	}, {
-		"id": 305064,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Iwanko",
-			"last": null,
-			"full": "Iwanko",
-			"native": "イワンコ",
-			"userPreferred": "Iwanko"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b305064-f6Tnck84Pldp.jpg",
-		"voiceActors": [{
-			"id": 305065,
-			"language": "Japanese",
-			"name": {
-				"first": "Saki",
-				"last": "Kotori",
-				"full": "Saki Kotori",
-				"native": "古都利咲希",
-				"userPreferred": "Saki Kotori"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
-		}]
-	}, {
-		"id": 300238,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Murdock",
-			"last": null,
-			"full": "Murdock",
-			"native": "マードック",
-			"userPreferred": "Murdock"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b300238-x4RqI1mRlgG9.jpg",
-		"voiceActors": [{
-			"id": 95720,
-			"language": "Japanese",
-			"name": {
-				"first": "Kenta",
-				"last": "Miyake",
-				"full": "Kenta Miyake",
-				"native": "三宅健太",
-				"userPreferred": "Kenta Miyake"
-			},
-			"image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
-		}]
-	}, {
-		"id": 180037,
-		"role": "SUPPORTING",
-		"name": {
-			"first": "Lizardon",
-			"last": null,
-			"full": "Lizardon",
-			"native": "リザードン",
-			"userPreferred": "Lizardon"
-		},
-		"image": "https://s4.anilist.co/file/anilistcdn/character/large/b180037-u3b2oiaWdfAm.png",
-		"voiceActors": []
-	}],
-	"relations": [{
-		"id": 158870,
-		"relationType": "OTHER",
-		"malId": 53874,
-		"title": {
-			"romaji": "Pocket Monsters: Mezase Pokémon Master",
-			"english": "Pokémon Ultimate Journeys: The Series Part 4",
-			"native": "ポケットモンスター　めざせポケモンマスター",
-			"userPreferred": "Pocket Monsters: Mezase Pokémon Master"
-		},
-		"status": "Completed",
-		"episodes": 11,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
-		"color": "#e4a128",
-		"type": "TV",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158870-EcM1WiwjV18A.jpg",
-		"rating": 74
-	}, {
-		"id": 162147,
-		"relationType": "OTHER",
-		"malId": 54633,
-		"title": {
-			"romaji": "Pokémon Concierge",
-			"english": "Pokémon Concierge",
-			"native": "ポケモンコンシェルジュ",
-			"userPreferred": "Pokémon Concierge"
-		},
-		"status": "Not yet aired",
-		"episodes": null,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-lWEGDf3YCdfe.jpg",
-		"color": "#f1c900",
-		"type": "ONA",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-lWEGDf3YCdfe.jpg",
-		"rating": null
-	}, {
-		"id": 163619,
-		"relationType": "OTHER",
-		"malId": 54648,
-		"title": {
-			"romaji": "Marujanai Shima no Shikaku na Pokémon!?",
-			"english": "Cube-Shaped Pokémon on Cubie Island?!",
-			"native": "マルジャナイ島のシカクなポケモン!?",
-			"userPreferred": "Marujanai Shima no Shikaku na Pokémon!?"
-		},
-		"status": "Ongoing",
-		"episodes": null,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163619-yHBn6nbnmGLb.png",
-		"color": "#e4bb43",
-		"type": "ONA",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163619-yHBn6nbnmGLb.png",
-		"rating": 61
-	}, {
-		"id": 164498,
-		"relationType": "ADAPTATION",
-		"malId": null,
-		"title": {
-			"romaji": "Pocket Monsters (2023)",
-			"english": null,
-			"native": "ポケットモンスター",
-			"userPreferred": "Pocket Monsters (2023)"
-		},
-		"status": "Completed",
-		"episodes": null,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164498-SKleohzZ6fCn.jpg",
-		"color": "#5dc9e4",
-		"type": "ONE_SHOT",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164498-SKleohzZ6fCn.jpg",
-		"rating": 79
-	}, {
-		"id": 164378,
-		"relationType": "ADAPTATION",
-		"malId": 157491,
-		"title": {
-			"romaji": "Pocket Monsters: Liko no Takaramono",
-			"english": null,
-			"native": "ポケットモンスター～リコの宝物～",
-			"userPreferred": "Pocket Monsters: Liko no Takaramono"
-		},
-		"status": "Ongoing",
-		"episodes": null,
-		"image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164378-AdC0vfxOPCf2.jpg",
-		"color": "#e443a1",
-		"type": "MANGA",
-		"cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164378-AdC0vfxOPCf2.jpg",
-		"rating": 85
-	}],
-	"mappings": {
-		"mal": 53876,
-		"anidb": 17777,
-		"kitsu": 46859,
-		"anilist": 158871,
-		"thetvdb": 76703,
-		"anisearch": 17947,
-		"livechart": 11732,
-		"notify.moe": "eoDgWYcVg",
-		"anime-planet": "pokemon-horizons-the-series"
-	},
-	"episodes": [{
+    "id": "158871",
+    "title": {
+        "romaji": "Pocket Monsters (2023)",
+        "english": "Pokémon Horizons: The Series",
+        "native": "ポケットモンスター (2023)"
+    },
+    "malId": 53876,
+    "synonyms": [
+        "Pokémon (2023)",
+        "Pokémon Horizontes: A Série"
+    ],
+    "isLicensed": true,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "trailer": {
+        "id": "_c_hMehCORQ",
+        "site": "youtube",
+        "thumbnail": "https://i.ytimg.com/vi/_c_hMehCORQ/hqdefault.jpg"
+    },
+    "image": "https://artworks.thetvdb.com/banners/v4/season/2069353/posters/64b401e6167d7.jpg",
+    "popularity": 9282,
+    "color": "#e4bb28",
+    "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
+    "description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Liko and a boy named Roy.",
+    "status": "Ongoing",
+    "releaseDate": 2023,
+    "startDate": {
+        "year": 2023,
+        "month": 4,
+        "day": 14
+    },
+    "totalEpisodes": 46,
+    "currentEpisode": 46,
+    "rating": 72,
+    "duration": 22,
+    "genres": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "season": "SPRING",
+    "studios": [
+        "OLM"
+    ],
+    "subOrDub": "sub",
+    "type": "TV",
+    "recommendations": [],
+    "characters": [
+        {
+            "id": 294409,
+            "role": "MAIN",
+            "name": {
+                "first": "Roy",
+                "last": null,
+                "full": "Roy",
+                "native": "ロイ",
+                "userPreferred": "Roy"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294409-ur1pQlkGbZDd.png",
+            "voiceActors": [
+                {
+                    "id": 95671,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Yuka",
+                        "last": "Terasaki",
+                        "full": "Yuka Terasaki",
+                        "native": "寺崎裕香",
+                        "userPreferred": "Yuka Terasaki"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95671-iXGq2oxE1DlW.png"
+                }
+            ]
+        },
+        {
+            "id": 294410,
+            "role": "MAIN",
+            "name": {
+                "first": "Liko",
+                "last": null,
+                "full": "Liko",
+                "native": "リコ",
+                "userPreferred": "Liko"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294410-lIZ6eTpStnFk.png",
+            "voiceActors": [
+                {
+                    "id": 120134,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Minori",
+                        "last": "Suzuki",
+                        "full": "Minori Suzuki",
+                        "native": "鈴木みのり",
+                        "userPreferred": "Minori Suzuki"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120134-FtHxSz8ntSNJ.jpg"
+                }
+            ]
+        },
+        {
+            "id": 299753,
+            "role": "MAIN",
+            "name": {
+                "first": "Friede",
+                "last": null,
+                "full": "Friede",
+                "native": "フリード",
+                "userPreferred": "Friede"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b299753-y2yJxU3wyt8F.jpg",
+            "voiceActors": [
+                {
+                    "id": 119833,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Taku",
+                        "last": "Yashiro",
+                        "full": "Taku Yashiro",
+                        "native": "八代拓",
+                        "userPreferred": "Taku Yashiro"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119833-0SP13A92YLm4.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3891,
+            "role": "MAIN",
+            "name": {
+                "first": "Pikachu",
+                "last": null,
+                "full": "Pikachu",
+                "native": "ピカチュウ",
+                "userPreferred": "Pikachu"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/3891.jpg",
+            "voiceActors": [
+                {
+                    "id": 95128,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Ikue",
+                        "last": "Ootani",
+                        "full": "Ikue Ootani",
+                        "native": "大谷育江",
+                        "userPreferred": "Ikue Ootani"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95128-9YWpE1d2U8Sj.png"
+                }
+            ]
+        },
+        {
+            "id": 302844,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Nyahoja",
+                "last": null,
+                "full": "Nyahoja",
+                "native": "ニャオハ",
+                "userPreferred": "Nyahoja"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b302844-sVX5xGtV5Tia.png",
+            "voiceActors": [
+                {
+                    "id": 95014,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Megumi",
+                        "last": "Hayashibara",
+                        "full": "Megumi Hayashibara",
+                        "native": "林原めぐみ",
+                        "userPreferred": "Megumi Hayashibara"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95014-VqxNuufY94V3.png"
+                }
+            ]
+        },
+        {
+            "id": 305051,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Liko no Sobo",
+                "last": null,
+                "full": "Liko no Sobo",
+                "native": "リコの祖母",
+                "userPreferred": "Liko no Sobo"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305051-cSe1zzdCTDA3.jpg",
+            "voiceActors": [
+                {
+                    "id": 104984,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kiri",
+                        "last": "Yoshizawa",
+                        "full": "Kiri Yoshizawa",
+                        "native": "吉沢希梨",
+                        "userPreferred": "Kiri Yoshizawa"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104984-EziF4NJ5curA.jpg"
+                }
+            ]
+        },
+        {
+            "id": 304176,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Amethio",
+                "last": null,
+                "full": "Amethio",
+                "native": "アメジオ",
+                "userPreferred": "Amethio"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304176-vOd2Q1eCnyt7.jpg",
+            "voiceActors": [
+                {
+                    "id": 119869,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Shun",
+                        "last": "Horie",
+                        "full": "Shun Horie",
+                        "native": "堀江瞬",
+                        "userPreferred": "Shun Horie"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119869-mUUrORIQBlnB.png"
+                }
+            ]
+        },
+        {
+            "id": 305052,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Roy no Sofu",
+                "last": null,
+                "full": "Roy no Sofu",
+                "native": "ロイの祖父",
+                "userPreferred": "Roy no Sofu"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305052-zleU7Q1gOVJX.jpg",
+            "voiceActors": [
+                {
+                    "id": 107677,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Jin",
+                        "last": "Urayama",
+                        "full": "Jin Urayama",
+                        "native": "浦山迅",
+                        "userPreferred": "Jin Urayama"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107677-4JwhOvVQPItM.png"
+                }
+            ]
+        },
+        {
+            "id": 304177,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Conia",
+                "last": null,
+                "full": "Conia",
+                "native": "コニア",
+                "userPreferred": "Conia"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304177-Ma6q7Lyg3Isa.jpg",
+            "voiceActors": [
+                {
+                    "id": 121004,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Arisa",
+                        "last": "Shida",
+                        "full": "Arisa Shida",
+                        "native": "志田有彩",
+                        "userPreferred": "Arisa Shida"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/121004-YsQaxNjjrjjy.png"
+                }
+            ]
+        },
+        {
+            "id": 305054,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Soublades",
+                "last": null,
+                "full": "Soublades",
+                "native": "ソウブレイズ",
+                "userPreferred": "Soublades"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305054-pcxp4iRNEAQx.jpg",
+            "voiceActors": []
+        },
+        {
+            "id": 304178,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Zir",
+                "last": null,
+                "full": "Zir",
+                "native": "ジル",
+                "userPreferred": "Zir"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304178-5nBlrnTDm7V2.jpg",
+            "voiceActors": [
+                {
+                    "id": 198640,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kousuke",
+                        "last": "Tanabe",
+                        "full": "Kousuke Tanabe",
+                        "native": "田邊幸輔",
+                        "userPreferred": "Kousuke Tanabe"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198640-DPu77nXr4Raj.png"
+                }
+            ]
+        },
+        {
+            "id": 305057,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Kuwassu",
+                "last": null,
+                "full": "Kuwassu",
+                "native": "クワッス",
+                "userPreferred": "Kuwassu"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305057-cs5Om3CKhY5F.jpg",
+            "voiceActors": [
+                {
+                    "id": 95087,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Daisuke",
+                        "last": "Namikawa",
+                        "full": "Daisuke Namikawa",
+                        "native": "浪川大輔",
+                        "userPreferred": "Daisuke Namikawa"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png"
+                }
+            ]
+        },
+        {
+            "id": 300232,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Orio",
+                "last": null,
+                "full": "Orio",
+                "native": "オリオ",
+                "userPreferred": "Orio"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300232-oc3dLexcbI2T.jpg",
+            "voiceActors": [
+                {
+                    "id": 106622,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Ayane",
+                        "last": "Sakura",
+                        "full": "Ayane Sakura",
+                        "native": "佐倉綾音",
+                        "userPreferred": "Ayane Sakura"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png"
+                }
+            ]
+        },
+        {
+            "id": 304179,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Gurumin",
+                "last": null,
+                "full": "Gurumin",
+                "native": "ぐるみん",
+                "userPreferred": "Gurumin"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304179-NfqNNFcwOILp.jpg",
+            "voiceActors": [
+                {
+                    "id": 118475,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Yoshino",
+                        "last": "Aoyama",
+                        "full": "Yoshino Aoyama",
+                        "native": "青山吉能",
+                        "userPreferred": "Yoshino Aoyama"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118475-19IqPJRpa08T.png"
+                }
+            ]
+        },
+        {
+            "id": 305061,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Hogeta",
+                "last": null,
+                "full": "Hogeta",
+                "native": "ホゲータ",
+                "userPreferred": "Hogeta"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305061-0GDGQLDYa1Dx.jpg",
+            "voiceActors": [
+                {
+                    "id": 116971,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Daiki",
+                        "last": "Yamashita",
+                        "full": "Daiki Yamashita",
+                        "native": "山下大輝",
+                        "userPreferred": "Daiki Yamashita"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116971-r6Yn9mDyzBqU.png"
+                }
+            ]
+        },
+        {
+            "id": 300234,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Molly",
+                "last": null,
+                "full": "Molly",
+                "native": "モリー",
+                "userPreferred": "Molly"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300234-4lyx8Hz83uad.jpg",
+            "voiceActors": [
+                {
+                    "id": 95594,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kei",
+                        "last": "Shindou",
+                        "full": "Kei Shindou",
+                        "native": "真堂圭",
+                        "userPreferred": "Kei Shindou"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95594-uUAU6lh6TMQW.png"
+                }
+            ]
+        },
+        {
+            "id": 304180,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Anne",
+                "last": null,
+                "full": "Anne",
+                "native": "アン",
+                "userPreferred": "Anne"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304180-VLbNO7wMdm0X.jpg",
+            "voiceActors": [
+                {
+                    "id": 190470,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Yuuna",
+                        "last": "Ogata",
+                        "full": "Yuuna Ogata",
+                        "native": "緒方佑奈",
+                        "userPreferred": "Yuuna Ogata"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190470-iOXKrdVT74vo.png"
+                }
+            ]
+        },
+        {
+            "id": 305063,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Roy no Tannin Kyoushi",
+                "last": null,
+                "full": "Roy no Tannin Kyoushi",
+                "native": "ロイの担任教師",
+                "userPreferred": "Roy no Tannin Kyoushi"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305063-QGN9lA1aH8UU.jpg",
+            "voiceActors": [
+                {
+                    "id": 190927,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Takumu",
+                        "last": "Miyazono",
+                        "full": "Takumu Miyazono",
+                        "native": "宮園拓夢",
+                        "userPreferred": "Takumu Miyazono"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190927-al0rO5vIW8wD.jpg"
+                }
+            ]
+        },
+        {
+            "id": 300237,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Landau",
+                "last": null,
+                "full": "Landau",
+                "native": "ランドウ",
+                "userPreferred": "Landau"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300237-GgkisTcmIdHe.jpg",
+            "voiceActors": [
+                {
+                    "id": 105183,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Ikkyuu",
+                        "last": "Juku",
+                        "full": "Ikkyuu Juku",
+                        "native": "塾一久",
+                        "userPreferred": "Ikkyuu Juku"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10183.jpg"
+                }
+            ]
+        },
+        {
+            "id": 176871,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Mijumaru",
+                "last": null,
+                "full": "Mijumaru",
+                "native": "ミジュマル",
+                "userPreferred": "Mijumaru"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b176871-kTOvY3UZh3cc.png",
+            "voiceActors": []
+        },
+        {
+            "id": 305064,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Iwanko",
+                "last": null,
+                "full": "Iwanko",
+                "native": "イワンコ",
+                "userPreferred": "Iwanko"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b305064-f6Tnck84Pldp.jpg",
+            "voiceActors": [
+                {
+                    "id": 305065,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Saki",
+                        "last": "Kotori",
+                        "full": "Saki Kotori",
+                        "native": "古都利咲希",
+                        "userPreferred": "Saki Kotori"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+                }
+            ]
+        },
+        {
+            "id": 300238,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Murdock",
+                "last": null,
+                "full": "Murdock",
+                "native": "マードック",
+                "userPreferred": "Murdock"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b300238-x4RqI1mRlgG9.jpg",
+            "voiceActors": [
+                {
+                    "id": 95720,
+                    "language": "Japanese",
+                    "name": {
+                        "first": "Kenta",
+                        "last": "Miyake",
+                        "full": "Kenta Miyake",
+                        "native": "三宅健太",
+                        "userPreferred": "Kenta Miyake"
+                    },
+                    "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+                }
+            ]
+        },
+        {
+            "id": 180037,
+            "role": "SUPPORTING",
+            "name": {
+                "first": "Lizardon",
+                "last": null,
+                "full": "Lizardon",
+                "native": "リザードン",
+                "userPreferred": "Lizardon"
+            },
+            "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180037-u3b2oiaWdfAm.png",
+            "voiceActors": []
+        }
+    ],
+    "relations": [
+        {
+            "id": 158870,
+            "relationType": "OTHER",
+            "malId": 53874,
+            "title": {
+                "romaji": "Pocket Monsters: Mezase Pokémon Master",
+                "english": "Pokémon Ultimate Journeys: The Series Part 4",
+                "native": "ポケットモンスター　めざせポケモンマスター",
+                "userPreferred": "Pocket Monsters: Mezase Pokémon Master"
+            },
+            "status": "Completed",
+            "episodes": 11,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+            "color": "#e4a128",
+            "type": "TV",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158870-EcM1WiwjV18A.jpg",
+            "rating": 74
+        },
+        {
+            "id": 162147,
+            "relationType": "OTHER",
+            "malId": 54633,
+            "title": {
+                "romaji": "Pokémon Concierge",
+                "english": "Pokémon Concierge",
+                "native": "ポケモンコンシェルジュ",
+                "userPreferred": "Pokémon Concierge"
+            },
+            "status": "Not yet aired",
+            "episodes": null,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-lWEGDf3YCdfe.jpg",
+            "color": "#f1c900",
+            "type": "ONA",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-lWEGDf3YCdfe.jpg",
+            "rating": null
+        },
+        {
+            "id": 163619,
+            "relationType": "OTHER",
+            "malId": 54648,
+            "title": {
+                "romaji": "Marujanai Shima no Shikaku na Pokémon!?",
+                "english": "Cube-Shaped Pokémon on Cubie Island?!",
+                "native": "マルジャナイ島のシカクなポケモン!?",
+                "userPreferred": "Marujanai Shima no Shikaku na Pokémon!?"
+            },
+            "status": "Ongoing",
+            "episodes": null,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163619-yHBn6nbnmGLb.png",
+            "color": "#e4bb43",
+            "type": "ONA",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163619-yHBn6nbnmGLb.png",
+            "rating": 61
+        },
+        {
+            "id": 164498,
+            "relationType": "ADAPTATION",
+            "malId": null,
+            "title": {
+                "romaji": "Pocket Monsters (2023)",
+                "english": null,
+                "native": "ポケットモンスター",
+                "userPreferred": "Pocket Monsters (2023)"
+            },
+            "status": "Completed",
+            "episodes": null,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164498-SKleohzZ6fCn.jpg",
+            "color": "#5dc9e4",
+            "type": "ONE_SHOT",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164498-SKleohzZ6fCn.jpg",
+            "rating": 79
+        },
+        {
+            "id": 164378,
+            "relationType": "ADAPTATION",
+            "malId": 157491,
+            "title": {
+                "romaji": "Pocket Monsters: Liko no Takaramono",
+                "english": null,
+                "native": "ポケットモンスター～リコの宝物～",
+                "userPreferred": "Pocket Monsters: Liko no Takaramono"
+            },
+            "status": "Ongoing",
+            "episodes": null,
+            "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164378-AdC0vfxOPCf2.jpg",
+            "color": "#e443a1",
+            "type": "MANGA",
+            "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx164378-AdC0vfxOPCf2.jpg",
+            "rating": 85
+        }
+    ],
+    "mappings": {
+        "mal": 53876,
+        "anidb": 17777,
+        "kitsu": 46859,
+        "anilist": 158871,
+        "thetvdb": 76703,
+        "anisearch": 17947,
+        "livechart": 11732,
+        "notify.moe": "eoDgWYcVg",
+        "anime-planet": "pokemon-horizons-the-series"
+    },
+    "episodes": [
+        {
             "id": "pokemon-horizons-the-series-episode-1",
             "title": "The Pendant That Starts It All - Part 1",
             "description": "Liko arrives at Indigo Academy and meets her partner Pokémon, Sprigatito.",
@@ -945,5 +1024,6 @@
             "description": "",
             "number": "46",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10379062/screencap/6618f0ed73ba3.jpg"
-        }]
+        }
+    ]
 }
