@@ -516,6 +516,19 @@
             "isAdult": false
         },
         {
+            "animeId": "blue-lock-the-movie",
+            "episodeId": "blue-lock-the-movie-episode-1",
+            "jname": "Blue Lock: EPISODE Nagi",
+            "name": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "sub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163147-yyu5aEoO96Jg.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/blue-lock-the-movie",
+            "genres": ["Action", "Sports"],
+            "isAdult": false
+        },
+        {
             "animeId": "chainsaw-man",
             "episodeId": "chainsaw-man-episode-1",
             "jname": "Chainsaw Man",
@@ -1361,8 +1374,8 @@
             "episodeId": "naruto-shippuden-episode-1",
             "jname": "NARUTO: Shippuuden",
             "name": "Naruto: Shippuden",
-            "sub": "40",
-            "dub": "40",
+            "sub": "42",
+            "dub": "42",
             "totalEpisodes": "500",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png",
             "type": "tv",
@@ -1375,7 +1388,7 @@
             "episodeId": "naruto-shippuden-hindi-episode-1",
             "jname": "NARUTO: Shippuuden - Hindi",
             "name": "Naruto: Shippuden - Hindi",
-            "hindi": "40",
+            "hindi": "42",
             "totalEpisodes": "500",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png",
             "type": "tv",
@@ -2307,6 +2320,19 @@
             "episodeUrl": "anime/prison-school-ova",
             "genres": ["Comedy", "Ecchi", "Romance"],
             "isAdult": true
+        },
+        {
+            "animeId": "remonster",
+            "episodeId": "remonster-episode-1",
+            "jname": "Re:Monster",
+            "name": "Re:Monster",
+            "sub": "3",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png",
+            "type": "tv",
+            "episodeUrl": "anime/remonster",
+            "genres": ["Action", "Adventure", "Fantasy"],
+            "isAdult": false
         },
         {
             "animeId": "solo-leveling",
