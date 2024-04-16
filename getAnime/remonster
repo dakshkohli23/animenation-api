@@ -23,7 +23,7 @@
   "popularity": 18874,
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169417-NaD0wR83gTbm.jpg",
   "coverHash": "hash",
-  "description": "After meeting an untimely death, Tomokui Kanata is reincarnated as a lowly goblin, but he’s worked up a monstrous appetite. Thanks to his new ability that allows him to grow stronger the more he feeds, his feeble status quickly changes, and he rises to become the goblin leader. With a mix of his past memories, new body, and strong stomach, he’s taking a bite out of this new fantastical world! \u003Cbr\u003E\u003Cbr\u003E\n(Source: Crunchyroll)\u003Cbr\u003E\u003Cbr\u003E\n\u003Ci\u003EThe episodes were streamed several days ahead than the TV broadcast on U-NEXT, Anime Houdai, and Crunchyroll beginning on April 2nd, 2024 at 0:00 JST. The regular TV broadcast begins on April 5th, 2024.",
+  "description": "After meeting an untimely death, Tomokui Kanata is reincarnated as a lowly goblin, but he’s worked up a monstrous appetite. Thanks to his new ability that allows him to grow stronger the more he feeds, his feeble status quickly changes, and he rises to become the goblin leader. With a mix of his past memories, new body, and strong stomach, he’s taking a bite out of this new fantastical world!",
   "status": "Ongoing",
   "releaseDate": 2024,
   "startDate": {
@@ -630,30 +630,30 @@
   "episodes": [
     {
       "id": "remonster-episode-1",
-      "title": "EP 1",
-      "description": null,
+      "title": "Re:Born",
+      "description": "After being brutally murdered, Tomokui Kanata awakens in the body of a tiny green baby. He now has to begin a new life as a goblin in a brutal world, but fortunately, he has retained his special ability from his previous life.",
       "number": 1,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10031590/screencap/6606b7bf9de5d.jpg",
       "imageHash": "hash",
-      "airDate": null
+      "airDate": "April 5, 2024"
     },
     {
       "id": "remonster-episode-2",
-      "title": "EP 2",
-      "description": null,
+      "title": "Re:D Bear",
+      "description": "While Gobrou organizes and trains the goblins of his generation, the generation that fathered them returns from their raiding. When he sees that they've captured a band of human women, he challenges the existing authority for control of their fates.",
       "number": 2,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405622/screencap/661246c736131.jpg",
       "imageHash": "hash",
-      "airDate": null
+      "airDate": "April 12, 2024"
     },
     {
       "id": "remonster-episode-3",
-      "title": "EP 3",
-      "description": null,
+      "title": "Re:Use",
+      "description": "Gobe brings a small injured creature to Gobrou, who promises a great reward to him and the other goblins if they help reclaim her master's treasury. Afterward, Gobrou gets in trouble with the village women after falling to external temptation.",
       "number": 3,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405623/screencap/661b78372a015.jpg",
       "imageHash": "hash",
-      "airDate": null
+      "airDate": "April 19, 2024"
     }
   ]
 }
