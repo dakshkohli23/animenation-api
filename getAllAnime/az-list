@@ -516,6 +516,20 @@
             "isAdult": false
         },
         {
+            "animeId": "blue-lock",
+            "episodeId": "blue-lock-episode-1",
+            "jname": "Blue Lock",
+            "name": "BLUELOCK",
+            "sub": "24",
+            "dub": "24",
+            "totalEpisodes": "24",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-4dVWMSHLpGf8.png",
+            "type": "tv",
+            "episodeUrl": "anime/blue-lock",
+            "genres": ["Action", "Drama", "Sports"],
+            "isAdult": false
+        },
+        {
             "animeId": "blue-lock-the-movie",
             "episodeId": "blue-lock-the-movie-episode-1",
             "jname": "Blue Lock: EPISODE Nagi",
