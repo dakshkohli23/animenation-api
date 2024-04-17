@@ -1,0 +1,430 @@
+{
+  "id": "163270",
+  "title": {
+    "romaji": "WIND BREAKER",
+    "english": "WIND BREAKER",
+    "native": "WIND BREAKER"
+  },
+  "malId": 54900,
+  "synonyms": [
+    "WB",
+    "ウィンブレ",
+    "WBK",
+    "ウィンドブレイカー"
+  ],
+  "isLicensed": true,
+  "isAdult": false,
+  "countryOfOrigin": "JP",
+  "trailer": {
+    "id": "k5qM1PoLmUc",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/k5qM1PoLmUc/hqdefault.jpg",
+    "thumbnailHash": "hash"
+  },
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg",
+  "imageHash": "hash",
+  "popularity": 41505,
+  "color": "#288643",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163270-QshLCttd04s6.jpg",
+  "coverHash": "hash",
+  "description": "Where the average scores are the lowest, but the fights are the strongest. Furin High School is renowned as a super school of delinquents. Haruka Sakura, a first-year student, came from outside the city to fight to the top. However, Furin High School has become a group that protects the town called the “Chime of the Wind Breaker” – Bofurin. The heroic legend of high school delinquent Sakura begins here!\n\u003Cbr\u003E\u003Cbr\u003E\n(Source: Crunchyroll)",
+  "status": "Ongoing",
+  "releaseDate": 2024,
+  "startDate": {
+    "year": 2024,
+    "month": 4,
+    "day": 5
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 6,
+    "day": 28
+  },
+  "nextAiringEpisode": {
+    "airingTime": 1713453960,
+    "timeUntilAiring": 98685,
+    "episode": 3
+  },
+  "totalEpisodes": 13,
+  "currentEpisode": 2,
+  "rating": 77,
+  "duration": 24,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "season": "SPRING",
+  "studios": [
+    "CloverWorks"
+  ],
+  "subOrDub": "sub",
+  "type": "TV",
+  "recommendations": [],
+  "characters": [
+    {
+      "id": 230204,
+      "role": "MAIN",
+      "name": {
+        "first": "Haruka",
+        "last": "Sakura",
+        "full": "Haruka Sakura",
+        "native": "桜遥",
+        "userPreferred": "Haruka Sakura"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230204-SlBC0j45V1Fl.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 119617,
+          "language": "Japanese",
+          "name": {
+            "first": "Yuuma",
+            "last": "Uchida",
+            "full": "Yuuma Uchida",
+            "native": "内田雄馬",
+            "userPreferred": "Yuuma Uchida"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 329049,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Kotoha",
+        "last": "Tachibana",
+        "full": "Kotoha Tachibana",
+        "native": "橘ことは",
+        "userPreferred": "Kotoha Tachibana"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b329049-vxIyIiCckko5.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 132768,
+          "language": "Japanese",
+          "name": {
+            "first": "Ikumi",
+            "last": "Hasegawa",
+            "full": "Ikumi Hasegawa",
+            "native": "長谷川育美",
+            "userPreferred": "Ikumi Hasegawa"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n132768-eIoq58EHCA4F.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 255628,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Kyoutarou",
+        "last": "Sugishita",
+        "full": "Kyoutarou Sugishita",
+        "native": "杉下京太郎",
+        "userPreferred": "Kyoutarou Sugishita"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b255628-GE1KFrRO4cPK.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 96764,
+          "language": "Japanese",
+          "name": {
+            "first": "Kouki",
+            "last": "Uchiyama",
+            "full": "Kouki Uchiyama",
+            "native": "内山昂輝",
+            "userPreferred": "Kouki Uchiyama"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96764-yJWGrhjanDJQ.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 332259,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Youdai",
+        "last": "Matsumoto",
+        "full": "Youdai Matsumoto",
+        "native": "松本陽大",
+        "userPreferred": "Youdai Matsumoto"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332259-s8QXDQcRV2Fj.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 236518,
+          "language": "Japanese",
+          "name": {
+            "first": "Youhei",
+            "last": "Matsuoka",
+            "full": "Youhei Matsuoka",
+            "native": "松岡洋平",
+            "userPreferred": "Youhei Matsuoka"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n236518-5hLipy1n49zw.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 255629,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Hayato",
+        "last": "Suou",
+        "full": "Hayato Suou",
+        "native": "蘇枋隼飛",
+        "userPreferred": "Hayato Suou"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b255629-cPqlLosU00J8.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 105989,
+          "language": "Japanese",
+          "name": {
+            "first": "Nobunaga",
+            "last": "Shimazaki",
+            "full": "Nobunaga Shimazaki",
+            "native": "島崎信長",
+            "userPreferred": "Nobunaga Shimazaki"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 332260,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Ren",
+        "last": "Kaji",
+        "full": "Ren Kaji",
+        "native": "梶蓮",
+        "userPreferred": "Ren Kaji"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332260-WkAAxMZJ1Yyg.png",
+      "imageHash": "hash",
+      "voiceActors": []
+    },
+    {
+      "id": 255627,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Akihiko",
+        "last": "Nirei",
+        "full": "Akihiko Nirei",
+        "native": "楡井秋彦",
+        "userPreferred": "Akihiko Nirei"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b255627-UG5olFBkfpTO.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 119672,
+          "language": "Japanese",
+          "name": {
+            "first": "Shouya",
+            "last": "Chiba",
+            "full": "Shouya Chiba",
+            "native": "千葉翔也",
+            "userPreferred": "Shouya Chiba"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119672-4RIzYsFUy8EH.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 332261,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Jien",
+        "last": "Yanagita",
+        "full": "Jien Yanagita",
+        "native": "柳田慈円",
+        "userPreferred": "Jien Yanagita"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332261-x5qutRA5Stxh.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 199344,
+          "language": "Japanese",
+          "name": {
+            "first": "Yukiya",
+            "last": "Matsui",
+            "full": "Yukiya Matsui",
+            "native": "眞對友樹也",
+            "userPreferred": "Yukiya Matsui"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n199344-r75w2dVj6b3u.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 255630,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Hajime",
+        "last": "Umemiya",
+        "full": "Hajime Umemiya",
+        "native": "梅宮一",
+        "userPreferred": "Hajime Umemiya"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b255630-lz7qcvEvmj3y.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95513,
+          "language": "Japanese",
+          "name": {
+            "first": "Yuuichi",
+            "last": "Nakamura",
+            "full": "Yuuichi Nakamura",
+            "native": "中村悠一",
+            "userPreferred": "Yuuichi Nakamura"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 318248,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Touma",
+        "last": "Hiragi",
+        "full": "Touma Hiragi",
+        "native": "柊登馬",
+        "userPreferred": "Touma Hiragi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318248-88xhG9Tel1dv.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 123450,
+          "language": "Japanese",
+          "name": {
+            "first": "Ryouta",
+            "last": "Suzuki",
+            "full": "Ryouta Suzuki",
+            "native": "鈴木崚汰",
+            "userPreferred": "Ryouta Suzuki"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123450-Hmi5iu3KDHwc.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 329046,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Tsugeura",
+        "last": "Taiga",
+        "full": "Tsugeura Taiga",
+        "native": "柘浦大河",
+        "userPreferred": "Tsugeura Taiga"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b329046-9rNZ9uCwJ8yd.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 110877,
+          "language": "Japanese",
+          "name": {
+            "first": "Kengo",
+            "last": "Kawanishi",
+            "full": "Kengo Kawanishi",
+            "native": "河西健吾",
+            "userPreferred": "Kengo Kawanishi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110877-8mqVadVTaFl4.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 329047,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Mitsuki",
+        "last": "Kiryu",
+        "full": "Mitsuki Kiryu",
+        "native": "桐生三輝",
+        "userPreferred": "Mitsuki Kiryu"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b329047-oaJEv034sHox.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95600,
+          "language": "Japanese",
+          "name": {
+            "first": "Toshiyuki",
+            "last": "Toyonaga",
+            "full": "Toshiyuki Toyonaga",
+            "native": "豊永利行",
+            "userPreferred": "Toshiyuki Toyonaga"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95600-giNVqkdeWKuF.png",
+          "imageHash": "hash"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": 135083,
+      "relationType": "ADAPTATION",
+      "malId": 133081,
+      "title": {
+        "romaji": "WIND BREAKER",
+        "english": "WIND BREAKER",
+        "native": "WIND BREAKER",
+        "userPreferred": "WIND BREAKER"
+      },
+      "status": "Ongoing",
+      "episodes": null,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx135083-TQbNFWKGJJHW.jpg",
+      "imageHash": "hash",
+      "color": null,
+      "type": "MANGA",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/135083-4A2bObCryblQ.jpg",
+      "coverHash": "hash",
+      "rating": 74
+    }
+  ],
+  "episodes": [
+    {
+      "id": "wind-breaker-episode-1",
+      "title": "EP 1",
+      "description": null,
+      "number": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg",
+      "imageHash": "hash",
+      "airDate": null
+    },
+    {
+      "id": "wind-breaker-episode-2",
+      "title": "EP 2",
+      "description": null,
+      "number": 2,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg",
+      "imageHash": "hash",
+      "airDate": null
+    }
+  ]
+}
