@@ -516,6 +516,19 @@
             "isAdult": false
         },
         {
+            "animeId": "blue-lock-the-movie",
+            "episodeId": "blue-lock-the-movie-episode-1",
+            "jname": "Blue Lock: EPISODE Nagi",
+            "name": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
+            "sub": "1",
+            "totalEpisodes": "1",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163147-yyu5aEoO96Jg.jpg",
+            "type": "movie",
+            "episodeUrl": "anime/blue-lock-the-movie",
+            "genres": ["Action", "Sports"],
+            "isAdult": false
+        },
+        {
             "animeId": "blue-lock",
             "episodeId": "blue-lock-episode-1",
             "jname": "Blue Lock",
@@ -527,19 +540,6 @@
             "type": "tv",
             "episodeUrl": "anime/blue-lock",
             "genres": ["Action", "Drama", "Sports"],
-            "isAdult": false
-        },
-        {
-            "animeId": "blue-lock-the-movie",
-            "episodeId": "blue-lock-the-movie-episode-1",
-            "jname": "Blue Lock: EPISODE Nagi",
-            "name": "BLUE LOCK THE MOVIE -EPISODE NAGI-",
-            "sub": "1",
-            "totalEpisodes": "1",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163147-yyu5aEoO96Jg.jpg",
-            "type": "movie",
-            "episodeUrl": "anime/blue-lock-the-movie",
-            "genres": ["Action", "Sports"],
             "isAdult": false
         },
         {
@@ -1088,6 +1088,19 @@
             "type": "ona",
             "episodeUrl": "anime/kimetsu-gakuen-valentine-hen",
             "genres": ["Comedy"],
+            "isAdult": false
+        },
+        {
+            "animeId": "kaiju-no-8",
+            "episodeId": "kaiju-no-8-episode-1",
+            "jname": "Kaijuu 8-gou",
+            "name": "Kaiju No.8",
+            "sub": "1",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/kaiju-no-8",
+            "genres": ["Action", "Adventure", "Sci-Fi"],
             "isAdult": false
         },
         {
@@ -2575,6 +2588,19 @@
             "episodeUrl": "anime/tokyo-revengers-season-3",
             "genres": ["Action", "Drama", "Romance", "Supernatural"],
             "isAdult": true
+        },
+        {
+            "animeId": "wind-breaker",
+            "episodeId": "wind-breaker-episode-1",
+            "jname": "WIND BREAKER",
+            "name": "WIND BREAKER",
+            "sub": "2",
+            "totalEpisodes": "13",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg",
+            "type": "tv",
+            "episodeUrl": "anime/wind-breaker",
+            "genres": ["Action", "Comedy", "Drama"],
+            "isAdult": false
         },
         {
             "animeId": "zom-100-bucket-list-of-the-dead",
