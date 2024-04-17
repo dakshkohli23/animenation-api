@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 42,
+    "currentEpisode": 44,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2592,7 +2592,7 @@
             "airDate": "2008-01-10"
         },
         {
-            "id": "naruto-shippuden-episode-41",
+            "id": "naruto-shippuden-hindi-episode-41",
             "title": "Sakura's Tears",
             "description": "Kabuto comments that Naruto's state is a consequence of his desperation to bring back Sasuke. Sakura begins to cry and approaches Naruto but is injured when his attention turns to her. Yamato uses the mokuton jutsu to bind Naruto before he does any more harm. Kabuto heals Sakura, reasoning that the Konoha ninja are not Orochimaru's enemies because they are also fighting Akatsuki. Yamato uses the abilities of the 1st Hokage to forcibly return Naruto to his normal state. Meanwhile Sai confronts Orochimaru with a message from Danzo. Orochimaru responds by piercing Sai with Kusanagi.",
             "number": "41",
@@ -2600,11 +2600,27 @@
             "airDate": "2008-01-17"
         },
         {
-            "id": "naruto-shippuden-episode-42",
+            "id": "naruto-shippuden-hindi-episode-42",
             "title": "The Secret of the Battle!",
             "description": "Yamato uses the first Hokage's chakra to suppress the demon fox's chakra and Naruto returns to normal, but with severe injuries. Sakura begins to heal him, but notes that medical ninjutsu has little effect on his wounds. Orochimaru's sword is revealed to have only pierced one of Sai's clones. The real Sai emerges, talks to Orochimaru and gives him a letter from Danzo. Sai then leaves with Orochimaru and Kabuto but Yamato's wood clone stays close on their trail. Naruto comes to his senses and wonders what happened but Sakura decides not to tell him the truth. They reach the meeting spot, picking up the picture book Sai left behind. Yamato infers that Danzo seeks to destroy and remake Konoha by collaborating with Orochimaru.",
             "number": "42",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/343709.jpg",
             "airDate": "2008-01-24"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-43",
+            "title": "The Consequence of Betrayal",
+            "description": "Kabuto creates a fake corpse that resembles Sai, containing hidden traps to slow down Yamato's clone after sensing it. Naruto hasn't completely recovered from using the Demon Fox's chakra, and Yamato says that he will be left behind if he cannot keep up. Naruto is determined to finish his mission and not slow the team down. However Team Kakashi is forced to take a break when it's clear that Sakura has not fully recovered from her own injuries. Yamato then uses this opportunity to talk to Naruto alone and reveals to him that the one who hurt Sakura was Naruto himself. Naruto is shocked by what Yamato says to him.",
+            "number": "43",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/343710.jpg",
+            "airDate": "2008-01-31"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-44",
+            "title": "The Unfinished Page",
+            "description": "Naruto finally makes sense of the destruction he witnessed around him earlier. Yamato tells Naruto not to rely on the demon because Naruto is strong enough to withstand the demon's terrible chakra. Sai discovers the loss of his book while resting. Team Kakashi browse Sai's book, and they notice that the book (which can be read from both ends) contains different paths of two boys who meet in the middle. Each page has the boys fighting someone new, each time collecting the opponent's armor and weapons into the next page. The pages where the two boys would meet are unfinished. Orochimaru's group reach their base, not realizing that Yamato's wood clone trailed them there. Sai gets a glimpse of Sasuke's silhouette and eyes and discovers that he is the man Naruto and Sakura are looking for.",
+            "number": "44",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/347859.jpg",
+            "airDate": "2008-02-07"
         }]
 }
