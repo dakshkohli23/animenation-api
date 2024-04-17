@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 42,
+    "currentEpisode": 44,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2606,5 +2606,21 @@
             "number": "42",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/343709.jpg",
             "airDate": "2008-01-24"
+        },
+        {
+            "id": "naruto-shippuden-episode-43",
+            "title": "The Consequence of Betrayal",
+            "description": "Kabuto creates a fake corpse that resembles Sai, containing hidden traps to slow down Yamato's clone after sensing it. Naruto hasn't completely recovered from using the Demon Fox's chakra, and Yamato says that he will be left behind if he cannot keep up. Naruto is determined to finish his mission and not slow the team down. However Team Kakashi is forced to take a break when it's clear that Sakura has not fully recovered from her own injuries. Yamato then uses this opportunity to talk to Naruto alone and reveals to him that the one who hurt Sakura was Naruto himself. Naruto is shocked by what Yamato says to him.",
+            "number": "43",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/343710.jpg",
+            "airDate": "2008-01-31"
+        },
+        {
+            "id": "naruto-shippuden-episode-44",
+            "title": "The Unfinished Page",
+            "description": "Naruto finally makes sense of the destruction he witnessed around him earlier. Yamato tells Naruto not to rely on the demon because Naruto is strong enough to withstand the demon's terrible chakra. Sai discovers the loss of his book while resting. Team Kakashi browse Sai's book, and they notice that the book (which can be read from both ends) contains different paths of two boys who meet in the middle. Each page has the boys fighting someone new, each time collecting the opponent's armor and weapons into the next page. The pages where the two boys would meet are unfinished. Orochimaru's group reach their base, not realizing that Yamato's wood clone trailed them there. Sai gets a glimpse of Sasuke's silhouette and eyes and discovers that he is the man Naruto and Sakura are looking for.",
+            "number": "44",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/347859.jpg",
+            "airDate": "2008-02-07"
         }]
 }
