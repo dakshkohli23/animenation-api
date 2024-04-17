@@ -1,0 +1,1190 @@
+{
+  "id": "153288",
+  "title": {
+    "romaji": "Kaijuu 8-gou",
+    "english": "Kaiju No.8",
+    "native": "怪獣８号"
+  },
+  "malId": 52588,
+  "synonyms": [
+    "Monster #8",
+    "8Kaijuu",
+    "KAIJU No. EIGHT",
+    "Kaiju N°8"
+  ],
+  "isLicensed": true,
+  "isAdult": false,
+  "countryOfOrigin": "JP",
+  "trailer": {
+    "id": "7n_mFVPeApw",
+    "site": "youtube",
+    "thumbnail": "https://i.ytimg.com/vi/7n_mFVPeApw/hqdefault.jpg",
+    "thumbnailHash": "hash"
+  },
+  "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg",
+  "imageHash": "hash",
+  "popularity": 60222,
+  "color": "#f1e4c9",
+  "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153288-JNsWuMPMAuJL.jpg",
+  "coverHash": "hash",
+  "description": "With the highest kaiju-emergence rates in the world, Japan is no stranger to attack by deadly monsters. Enter the Japan Defense Force, a military organization tasked with the neutralization of kaiju. Kafka Hibino, a kaiju-corpse cleanup man, has always dreamed of joining the force. But when he gets another shot at achieving his childhood dream, he undergoes an unexpected transformation. How can he fight kaiju now that he’s become one himself?!\u003Cbr\u003E\n\u003Cbr\u003E\n(Source: VIZ Media)",
+  "status": "Ongoing",
+  "releaseDate": 2024,
+  "startDate": {
+    "year": 2024,
+    "month": 4,
+    "day": 13
+  },
+  "endDate": {
+    "year": 2024,
+    "month": 6,
+    "day": 29
+  },
+  "nextAiringEpisode": {
+    "airingTime": 1713621600,
+    "timeUntilAiring": 266762,
+    "episode": 2
+  },
+  "totalEpisodes": 12,
+  "currentEpisode": 1,
+  "rating": 78,
+  "duration": 24,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "season": "SPRING",
+  "studios": [
+    "Production I.G"
+  ],
+  "subOrDub": "sub",
+  "type": "TV",
+  "recommendations": [
+    {
+      "id": 99424,
+      "malId": 35847,
+      "title": {
+        "romaji": "SSSS.GRIDMAN",
+        "english": "SSSS.GRIDMAN",
+        "native": "SSSS.GRIDMAN",
+        "userPreferred": "SSSS.GRIDMAN"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99424-9bV9lbUhynar.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99424-siL3zkjLWjUc.jpg",
+      "coverHash": "hash",
+      "rating": 71,
+      "type": "TV"
+    },
+    {
+      "id": 142684,
+      "malId": 50587,
+      "title": {
+        "romaji": "GRIDMAN UNIVERSE",
+        "english": null,
+        "native": "グリッドマン ユニバース",
+        "userPreferred": "GRIDMAN UNIVERSE"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142684-Ce7iZaaqO35y.png",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/142684-bP6AQuVuEDxy.jpg",
+      "coverHash": "hash",
+      "rating": 82,
+      "type": "MOVIE"
+    },
+    {
+      "id": 158990,
+      "malId": 53850,
+      "title": {
+        "romaji": "SSSS.GRIDMAN Movie",
+        "english": null,
+        "native": "SSSS.GRIDMAN Movie",
+        "userPreferred": "SSSS.GRIDMAN Movie"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158990-j7GXHDjIRcdm.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158990-V9SEYaDMPsiM.jpg",
+      "coverHash": "hash",
+      "rating": 69,
+      "type": "MOVIE"
+    },
+    {
+      "id": 113950,
+      "malId": 40870,
+      "title": {
+        "romaji": "SSSS.DYNAZENON",
+        "english": "SSSS.DYNAZENON",
+        "native": "SSSS.DYNAZENON",
+        "userPreferred": "SSSS.DYNAZENON"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113950-XqVhfpSccNuJ.png",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113950-466E1yrRgD0N.jpg",
+      "coverHash": "hash",
+      "rating": 74,
+      "type": "TV"
+    },
+    {
+      "id": 158991,
+      "malId": 53851,
+      "title": {
+        "romaji": "SSSS.DYNAZENON Movie",
+        "english": null,
+        "native": "SSSS.DYNAZENON Movie",
+        "userPreferred": "SSSS.DYNAZENON Movie"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158991-QebHsthir5HU.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158991-X0yPFoBL9PsQ.jpg",
+      "coverHash": "hash",
+      "rating": 65,
+      "type": "MOVIE"
+    },
+    {
+      "id": 30,
+      "malId": 30,
+      "title": {
+        "romaji": "Shin Seiki Evangelion",
+        "english": "Neon Genesis Evangelion",
+        "native": "新世紀エヴァンゲリオン",
+        "userPreferred": "Shin Seiki Evangelion"
+      },
+      "status": "Completed",
+      "episodes": 26,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx30-wmNoX3m2qTzz.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/30-gEMoHHIqxDgN.jpg",
+      "coverHash": "hash",
+      "rating": 83,
+      "type": "TV"
+    },
+    {
+      "id": 2001,
+      "malId": 2001,
+      "title": {
+        "romaji": "Tengen Toppa Gurren Lagann",
+        "english": "Gurren Lagann",
+        "native": "天元突破グレンラガン",
+        "userPreferred": "Tengen Toppa Gurren Lagann"
+      },
+      "status": "Completed",
+      "episodes": 27,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2001-7cvz7Jf8viMT.png",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2001-3eWhvkau8NV3.jpg",
+      "coverHash": "hash",
+      "rating": 85,
+      "type": "TV"
+    },
+    {
+      "id": 4107,
+      "malId": 4107,
+      "title": {
+        "romaji": "Tengen Toppa Gurren Lagann: Gurren-hen",
+        "english": "Gurren Lagann The Movie: Childhood's End",
+        "native": "天元突破グレンラガン 紅蓮篇",
+        "userPreferred": "Tengen Toppa Gurren Lagann: Gurren-hen"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4107-0HoA3JAMzJRU.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4107-AEaJQo7InYJ1.png",
+      "coverHash": "hash",
+      "rating": 79,
+      "type": "MOVIE"
+    },
+    {
+      "id": 4565,
+      "malId": 4565,
+      "title": {
+        "romaji": "Tengen Toppa Gurren Lagann: Lagann-hen",
+        "english": "Gurren Lagann The Movie: The Lights in the Sky are Stars",
+        "native": "天元突破グレンラガン 螺巌篇",
+        "userPreferred": "Tengen Toppa Gurren Lagann: Lagann-hen"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4565-FbFYEBTJSPyr.png",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4565-Ngb9pZ0nuf8s.png",
+      "coverHash": "hash",
+      "rating": 84,
+      "type": "MOVIE"
+    },
+    {
+      "id": 10622,
+      "malId": 10622,
+      "title": {
+        "romaji": "Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!",
+        "english": null,
+        "native": "天元突破 グレンラガン  俺のグレンはピッカピカ!!",
+        "userPreferred": "Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10622.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10622.jpg",
+      "coverHash": "hash",
+      "rating": 64,
+      "type": "OVA"
+    },
+    {
+      "id": 17549,
+      "malId": 17549,
+      "title": {
+        "romaji": "Non Non Biyori",
+        "english": "Non Non Biyori",
+        "native": "のんのんびより",
+        "userPreferred": "Non Non Biyori"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17549-n5m9PEt8SKIW.png",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/17549-J7bDkafpjQ0D.jpg",
+      "coverHash": "hash",
+      "rating": 78,
+      "type": "TV"
+    },
+    {
+      "id": 124786,
+      "malId": 43229,
+      "title": {
+        "romaji": "Godzilla: Singular Point",
+        "english": "Godzilla Singular Point",
+        "native": "ゴジラ S.P＜シンギュラポイント＞",
+        "userPreferred": "Godzilla: Singular Point"
+      },
+      "status": "Completed",
+      "episodes": 13,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124786-nq5AzrR1DI7z.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/124786-GlONoLulO3ws.jpg",
+      "coverHash": "hash",
+      "rating": 64,
+      "type": "ONA"
+    },
+    {
+      "id": 87458,
+      "malId": 33783,
+      "title": {
+        "romaji": "GODZILLA: Kaijuu Wakusei",
+        "english": "Godzilla: Planet of the Monsters",
+        "native": "GODZILLA -怪獣惑星-",
+        "userPreferred": "GODZILLA: Kaijuu Wakusei"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87458-pMmOHa6jN3ic.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87458-pV5VYf6KEiIJ.jpg",
+      "coverHash": "hash",
+      "rating": 62,
+      "type": "MOVIE"
+    },
+    {
+      "id": 102353,
+      "malId": 37897,
+      "title": {
+        "romaji": "GODZILLA: Hoshi wo Kuu Mono",
+        "english": "Godzilla: The Planet Eater",
+        "native": "GODZILLA -星を喰う者-",
+        "userPreferred": "GODZILLA: Hoshi wo Kuu Mono"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102353-CDQ0v6R8dgJ8.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102353-ErCzIPQ3XwuW.jpg",
+      "coverHash": "hash",
+      "rating": 60,
+      "type": "MOVIE"
+    },
+    {
+      "id": 100561,
+      "malId": 36816,
+      "title": {
+        "romaji": "GODZILLA: Kessen Kidou Zoushoku Toshi",
+        "english": "Godzilla: City on the Edge of Battle",
+        "native": "GODZILLA -決戦機動増殖都市-",
+        "userPreferred": "GODZILLA: Kessen Kidou Zoushoku Toshi"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100561-UfF71wKjNiZ3.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100561-ufEJIM2I13ho.jpg",
+      "coverHash": "hash",
+      "rating": 63,
+      "type": "MOVIE"
+    },
+    {
+      "id": 21196,
+      "malId": 28623,
+      "title": {
+        "romaji": "Koutetsujou no Kabaneri",
+        "english": "Kabaneri of the Iron Fortress",
+        "native": "甲鉄城のカバネリ",
+        "userPreferred": "Koutetsujou no Kabaneri"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21196-2PfPfIDrxKki.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21196-0aQqkn5XWmGo.jpg",
+      "coverHash": "hash",
+      "rating": 69,
+      "type": "TV"
+    },
+    {
+      "id": 130591,
+      "malId": 48414,
+      "title": {
+        "romaji": "Sabikui Bisco",
+        "english": "Sabikui Bisco",
+        "native": "錆喰いビスコ",
+        "userPreferred": "Sabikui Bisco"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130591-9O1cf7u6SfYa.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130591-JZ3bsMomOj8y.jpg",
+      "coverHash": "hash",
+      "rating": 70,
+      "type": "TV"
+    },
+    {
+      "id": 108987,
+      "malId": 38192,
+      "title": {
+        "romaji": "Sakugan",
+        "english": "SAKUGAN",
+        "native": "サクガン",
+        "userPreferred": "Sakugan"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108987-rdPglVthrZP2.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108987-eAxLtmW3TIe6.jpg",
+      "coverHash": "hash",
+      "rating": 62,
+      "type": "TV"
+    },
+    {
+      "id": 110353,
+      "malId": 40056,
+      "title": {
+        "romaji": "Deca-Dence",
+        "english": "DECA-DENCE",
+        "native": "デカダンス",
+        "userPreferred": "Deca-Dence"
+      },
+      "status": "Completed",
+      "episodes": 12,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110353-XGYSsii7qJeK.png",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/110353-ZKkmemQSFP7L.jpg",
+      "coverHash": "hash",
+      "rating": 71,
+      "type": "TV"
+    },
+    {
+      "id": 949,
+      "malId": 949,
+      "title": {
+        "romaji": "Top wo Nerae! GunBuster",
+        "english": "Gunbuster",
+        "native": "トップをねらえ! GunBuster",
+        "userPreferred": "Top wo Nerae! GunBuster"
+      },
+      "status": "Completed",
+      "episodes": 6,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx949-LDCFxDufSwTQ.png",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/949-SeKG5aRhF26j.jpg",
+      "coverHash": "hash",
+      "rating": 77,
+      "type": "OVA"
+    },
+    {
+      "id": 1002,
+      "malId": 1002,
+      "title": {
+        "romaji": "Top wo Nerae 2! DIEBUSTER",
+        "english": "Gunbuster 2: Diebuster",
+        "native": "トップをねらえ2！DIEBUSTER",
+        "userPreferred": "Top wo Nerae 2! DIEBUSTER"
+      },
+      "status": "Completed",
+      "episodes": 6,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1002-W7vQj8WSzAxf.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1002-hya3XcLe14eS.jpg",
+      "coverHash": "hash",
+      "rating": 74,
+      "type": "OVA"
+    },
+    {
+      "id": 1911,
+      "malId": 1911,
+      "title": {
+        "romaji": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!",
+        "english": null,
+        "native": "トップをねらえ！＆トップをねらえ２！合体劇場版!!",
+        "userPreferred": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!"
+      },
+      "status": "Completed",
+      "episodes": 2,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1911-nVl9IQnszHAN.png",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1911-nVl9IQnszHAN.png",
+      "coverHash": "hash",
+      "rating": 70,
+      "type": "MOVIE"
+    },
+    {
+      "id": 7248,
+      "malId": 7248,
+      "title": {
+        "romaji": "Gunbuster Renewal EX",
+        "english": "Gunbuster Renewal EX",
+        "native": "トップをねらえ！",
+        "userPreferred": "Gunbuster Renewal EX"
+      },
+      "status": "Completed",
+      "episodes": 3,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7248-ouQVoYgDIWNO.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7248-GyUKOdtxTL2F.jpg",
+      "coverHash": "hash",
+      "rating": 52,
+      "type": "SPECIAL"
+    },
+    {
+      "id": 572,
+      "malId": 572,
+      "title": {
+        "romaji": "Kaze no Tani no Nausicaä",
+        "english": "Nausicaä of the Valley of the Wind",
+        "native": "風の谷のナウシカ",
+        "userPreferred": "Kaze no Tani no Nausicaä"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx572-ZE3kHBA6U0X1.jpg",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/572-8Lz6Wwy3ySHE.jpg",
+      "coverHash": "hash",
+      "rating": 81,
+      "type": "MOVIE"
+    },
+    {
+      "id": 31,
+      "malId": 31,
+      "title": {
+        "romaji": "Shin Seiki Evangelion Movie: Shi to Shinsei",
+        "english": "Neon Genesis Evangelion: Death & Rebirth",
+        "native": "新世紀エヴァンゲリオン劇場版 シト新生",
+        "userPreferred": "Shin Seiki Evangelion Movie: Shi to Shinsei"
+      },
+      "status": "Completed",
+      "episodes": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx31-3zRThtzQH62E.png",
+      "imageHash": "hash",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/31-pYM5NdKIRa5h.jpg",
+      "coverHash": "hash",
+      "rating": 72,
+      "type": "MOVIE"
+    }
+  ],
+  "characters": [
+    {
+      "id": 180692,
+      "role": "MAIN",
+      "name": {
+        "first": "Kafka",
+        "last": "Hibino",
+        "full": "Kafka Hibino",
+        "native": "日比野カフカ",
+        "userPreferred": "Kafka Hibino"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180692-rPGXuxhcKw5N.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 107961,
+          "language": "Japanese",
+          "name": {
+            "first": "Megumi",
+            "last": "Han",
+            "full": "Megumi Han",
+            "native": "潘めぐみ",
+            "userPreferred": "Megumi Han"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 175016,
+          "language": "Japanese",
+          "name": {
+            "first": "Masaya",
+            "last": "Fukunishi",
+            "full": "Masaya Fukunishi",
+            "native": "福西勝也",
+            "userPreferred": "Masaya Fukunishi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175016-ehNBIRIxCScY.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 104091,
+          "language": "English",
+          "name": {
+            "first": "Alexis",
+            "last": "Tipton",
+            "full": "Alexis Tipton",
+            "native": null,
+            "userPreferred": "Alexis Tipton"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104091-AOshzC1ae225.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 184645,
+          "language": "English",
+          "name": {
+            "first": "Nazeeh",
+            "last": "Tarsha",
+            "full": "Nazeeh Tarsha",
+            "native": null,
+            "userPreferred": "Nazeeh Tarsha"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184645-PTLX8fE0aggb.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 157480,
+          "language": "Italian",
+          "name": {
+            "first": "Mattia",
+            "last": "Bressan",
+            "full": "Mattia Bressan",
+            "native": "Mattia Bressan",
+            "userPreferred": "Mattia Bressan"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157480-SxPNCg5EQDlK.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 175174,
+          "language": "Portuguese",
+          "name": {
+            "first": "Leonardo",
+            "last": "Santhos",
+            "full": "Leonardo Santhos",
+            "native": null,
+            "userPreferred": "Leonardo Santhos"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175174-U4IuF1DVQ0EB.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 183889,
+      "role": "MAIN",
+      "name": {
+        "first": "Kikoru",
+        "last": "Shinomiya",
+        "full": "Kikoru Shinomiya",
+        "native": "四ノ宮キコル",
+        "userPreferred": "Kikoru Shinomiya"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183889-2Ar6AHPx2mre.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 133625,
+          "language": "Japanese",
+          "name": {
+            "first": "Fairouz Ai",
+            "last": "",
+            "full": "Fairouz Ai",
+            "native": "ファイルーズあい",
+            "userPreferred": "Fairouz Ai"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n133625-YpEgKD7flV2S.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 294628,
+          "language": "English",
+          "name": {
+            "first": "Abigail",
+            "last": "Blythe",
+            "full": "Abigail Blythe",
+            "native": null,
+            "userPreferred": "Abigail Blythe"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n294628-cR2FLRm5ftfe.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 158950,
+          "language": "Italian",
+          "name": {
+            "first": "Martina",
+            "last": "Tamburello",
+            "full": "Martina Tamburello",
+            "native": null,
+            "userPreferred": "Martina Tamburello"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n158950-IhZBU2Gp4kG8.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 228768,
+          "language": "Portuguese",
+          "name": {
+            "first": "Marianna",
+            "last": "Alexandre",
+            "full": "Marianna Alexandre",
+            "native": null,
+            "userPreferred": "Marianna Alexandre"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n228768-mjmNJ9UUeX6F.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 180694,
+      "role": "MAIN",
+      "name": {
+        "first": "Reno",
+        "last": "Ichikawa",
+        "full": "Reno Ichikawa",
+        "native": "市川レノ",
+        "userPreferred": "Reno Ichikawa"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180694-Q0Ocr4aqBu4k.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 145234,
+          "language": "Japanese",
+          "name": {
+            "first": "Wataru",
+            "last": "Katou",
+            "full": "Wataru Katou",
+            "native": "加藤渉",
+            "userPreferred": "Wataru Katou"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n145234-wpbiwYFtVCWT.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 195227,
+          "language": "English",
+          "name": {
+            "first": "Adam",
+            "last": "McArthur",
+            "full": "Adam McArthur",
+            "native": null,
+            "userPreferred": "Adam McArthur"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195227-4a2bY1TzFIMQ.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 157475,
+          "language": "Italian",
+          "name": {
+            "first": "Ezio ",
+            "last": "Vivolo",
+            "full": "Ezio  Vivolo",
+            "native": "Ezio Vivolo",
+            "userPreferred": "Ezio  Vivolo"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n157475-tntPpQo6GoWM.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 153458,
+          "language": "Portuguese",
+          "name": {
+            "first": "Heitor",
+            "last": "Assali",
+            "full": "Heitor Assali",
+            "native": null,
+            "userPreferred": "Heitor Assali"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153458-QQFjowwlD4Ib.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 311251,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Soratobu Kaijuu",
+        "last": null,
+        "full": "Soratobu Kaijuu",
+        "native": "空飛ぶ怪獣",
+        "userPreferred": "Soratobu Kaijuu"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311251-VTskdodTAyr5.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 95345,
+          "language": "Japanese",
+          "name": {
+            "first": "TARAKO",
+            "last": "",
+            "full": "TARAKO",
+            "native": "鱈子",
+            "userPreferred": "TARAKO"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95345-mcIqzQn9Fmi7.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 308014,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Aoi",
+        "last": "Kaguragi",
+        "full": "Aoi Kaguragi",
+        "native": "神楽木葵",
+        "userPreferred": "Aoi Kaguragi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308014-KPQRHExrChy5.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 119185,
+          "language": "Japanese",
+          "name": {
+            "first": "Shunsuke",
+            "last": "Takeuchi",
+            "full": "Shunsuke Takeuchi",
+            "native": "武内駿輔",
+            "userPreferred": "Shunsuke Takeuchi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119185-65kkxuTRxAgo.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 308020,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Iharu",
+        "last": "Furuhashi",
+        "full": "Iharu Furuhashi",
+        "native": "古橋伊春",
+        "userPreferred": "Iharu Furuhashi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308020-IeQN9Kr4qV2j.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 153049,
+          "language": "Japanese",
+          "name": {
+            "first": "Yuuki",
+            "last": "Shin",
+            "full": "Yuuki Shin",
+            "native": "新祐樹",
+            "userPreferred": "Yuuki Shin"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153049-K0czk9NRoLWz.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 180693,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Mina",
+        "last": "Ashiro",
+        "full": "Mina Ashiro",
+        "native": "亜白ミナ",
+        "userPreferred": "Mina Ashiro"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180693-i9RZuHTDwXov.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 106787,
+          "language": "Japanese",
+          "name": {
+            "first": "Asami",
+            "last": "Seto",
+            "full": "Asami Seto",
+            "native": "瀬戸麻沙美",
+            "userPreferred": "Asami Seto"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-ojpoY7XEGYgc.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 128754,
+          "language": "English",
+          "name": {
+            "first": "Katelyn",
+            "last": "Barr",
+            "full": "Katelyn Barr",
+            "native": null,
+            "userPreferred": "Katelyn Barr"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128754-1IQL0ZCKVMQR.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 182110,
+          "language": "Portuguese",
+          "name": {
+            "first": "Luísa",
+            "last": "Viotti",
+            "full": "Luísa Viotti",
+            "native": null,
+            "userPreferred": "Luísa Viotti"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182110-qLDtMYsYOGyO.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 308023,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Haruichi",
+        "last": "Izumo",
+        "full": "Haruichi Izumo",
+        "native": "出雲ハルイチ",
+        "userPreferred": "Haruichi Izumo"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308023-QGhxAVn5vlXY.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 112915,
+          "language": "Japanese",
+          "name": {
+            "first": "Keisuke",
+            "last": "Koumoto",
+            "full": "Keisuke Koumoto",
+            "native": "河本啓佑",
+            "userPreferred": "Keisuke Koumoto"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112915-t6QiS4ax1wkO.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 241577,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Gen",
+        "last": "Narumi",
+        "full": "Gen Narumi",
+        "native": "鳴海弦",
+        "userPreferred": "Gen Narumi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b241577-Sx4ZUByR8tE2.jpg",
+      "imageHash": "hash",
+      "voiceActors": []
+    },
+    {
+      "id": 308027,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Konomi",
+        "last": "Okonogi",
+        "full": "Konomi Okonogi",
+        "native": "小此木このみ",
+        "userPreferred": "Konomi Okonogi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308027-CxQbW0wlmzLo.png",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 119616,
+          "language": "Japanese",
+          "name": {
+            "first": "Sayaka",
+            "last": "Senbongi",
+            "full": "Sayaka Senbongi",
+            "native": "千本木彩花",
+            "userPreferred": "Sayaka Senbongi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119616-Dakq7gsUo2ja.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 207068,
+          "language": "English",
+          "name": {
+            "first": "Celeste",
+            "last": "Perez",
+            "full": "Celeste Perez",
+            "native": null,
+            "userPreferred": "Celeste Perez"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n207068-1wjpAS4OSgRy.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 205579,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Soushirou",
+        "last": "Hoshina",
+        "full": "Soushirou Hoshina",
+        "native": "保科宗四郎",
+        "userPreferred": "Soushirou Hoshina"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205579-FRvVyrOIG8Yz.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 110877,
+          "language": "Japanese",
+          "name": {
+            "first": "Kengo",
+            "last": "Kawanishi",
+            "full": "Kengo Kawanishi",
+            "native": "河西健吾",
+            "userPreferred": "Kengo Kawanishi"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110877-8mqVadVTaFl4.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 130682,
+          "language": "English",
+          "name": {
+            "first": "Landon",
+            "last": "McDonald",
+            "full": "Landon McDonald",
+            "native": null,
+            "userPreferred": "Landon McDonald"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n130682-bMeCRcuIvX4D.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 139009,
+          "language": "Portuguese",
+          "name": {
+            "first": "Yan",
+            "last": "Gesteira",
+            "full": "Yan Gesteira",
+            "native": null,
+            "userPreferred": "Yan Gesteira"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139009-RCiNvh0GgNDG.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 311260,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Masahide",
+        "last": "Tokuda",
+        "full": "Masahide Tokuda",
+        "native": "徳田マサヒデ",
+        "userPreferred": "Masahide Tokuda"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311260-ZUG5G7C9AirO.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 96538,
+          "language": "Japanese",
+          "name": {
+            "first": "Yutaka",
+            "last": "Aoyama",
+            "full": "Yutaka Aoyama",
+            "native": "青山穣",
+            "userPreferred": "Yutaka Aoyama"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96538-mM7J8gp87gut.jpg",
+          "imageHash": "hash"
+        },
+        {
+          "id": 119698,
+          "language": "English",
+          "name": {
+            "first": "Marcus D.",
+            "last": "Stimac",
+            "full": "Marcus D. Stimac",
+            "native": null,
+            "userPreferred": "Marcus D. Stimac"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119698-icnqxj5DwX3N.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 257340,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Isao",
+        "last": "Shinomiya",
+        "full": "Isao Shinomiya",
+        "native": "四ノ宮功",
+        "userPreferred": "Isao Shinomiya"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b257340-jUgXEvKOSVfW.png",
+      "imageHash": "hash",
+      "voiceActors": []
+    },
+    {
+      "id": 311256,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Ichitaka",
+        "last": "Mitsuike",
+        "full": "Ichitaka Mitsuike",
+        "native": "三池イチタカ",
+        "userPreferred": "Ichitaka Mitsuike"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311256-4PQNyz9rIQK8.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 105094,
+          "language": "Japanese",
+          "name": {
+            "first": "Jun",
+            "last": "Fukushima",
+            "full": "Jun Fukushima",
+            "native": "福島潤",
+            "userPreferred": "Jun Fukushima"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105094-Udz3lBFTZa5W.png",
+          "imageHash": "hash"
+        }
+      ]
+    },
+    {
+      "id": 259598,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Kaijuu Kyuu-gou",
+        "last": null,
+        "full": "Kaijuu Kyuu-gou",
+        "native": "怪獣9号",
+        "userPreferred": "Kaijuu Kyuu-gou"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/b259598-UBuXfyAD1M2I.jpg",
+      "imageHash": "hash",
+      "voiceActors": []
+    },
+    {
+      "id": 333036,
+      "role": "SUPPORTING",
+      "name": {
+        "first": "Mizoguchi",
+        "last": null,
+        "full": "Mizoguchi",
+        "native": "溝口",
+        "userPreferred": "Mizoguchi"
+      },
+      "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+      "imageHash": "hash",
+      "voiceActors": [
+        {
+          "id": 96469,
+          "language": "Japanese",
+          "name": {
+            "first": "Mitsuru",
+            "last": "Miyamoto",
+            "full": "Mitsuru Miyamoto",
+            "native": "宮本充",
+            "userPreferred": "Mitsuru Miyamoto"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96469-uVRO2mYXvXxP.png",
+          "imageHash": "hash"
+        },
+        {
+          "id": 129490,
+          "language": "English",
+          "name": {
+            "first": "Derick",
+            "last": "Snow",
+            "full": "Derick Snow",
+            "native": null,
+            "userPreferred": "Derick Snow"
+          },
+          "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129490-L9VSJJtAl9wv.jpg",
+          "imageHash": "hash"
+        }
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "id": 120760,
+      "relationType": "ADAPTATION",
+      "malId": 127907,
+      "title": {
+        "romaji": "Kaijuu 8-gou",
+        "english": "Kaiju No.8",
+        "native": "怪獣８号",
+        "userPreferred": "Kaijuu 8-gou"
+      },
+      "status": "Ongoing",
+      "episodes": null,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx120760-Cvs9WFqtvVFE.jpg",
+      "imageHash": "hash",
+      "color": "#e44328",
+      "type": "MANGA",
+      "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/banner/120760-f81MiocMQK03.jpg",
+      "coverHash": "hash",
+      "rating": 76
+    }
+  ],
+  "episodes": [
+    {
+      "id": "kaiju-no-8-episode-1",
+      "title": "EP 1",
+      "description": null,
+      "number": 1,
+      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg",
+      "imageHash": "hash",
+      "airDate": null
+    }
+  ]
+}
