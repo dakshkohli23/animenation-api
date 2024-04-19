@@ -1,4 +1,4 @@
- [
+[
         {
             "server1": "gddkkg6n7kcm",
             "animeNameWithEP": "Date A Live V Episode 1",
@@ -6,5 +6,13 @@
             "anime_info": "date-a-live-v",
             "movie_id": "151380",
             "subOrDub": "sub"
+        },
+        {
+            "server1": "t8ww09xj5xp9",
+            "animeNameWithEP": "Date A Live V Episode 2",
+            "ep_num": "2",
+            "anime_info": "date-a-live-v",
+            "movie_id": "151380",
+            "subOrDub": "sub"
         }
-    ]
+  ]
