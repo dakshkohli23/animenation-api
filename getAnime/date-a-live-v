@@ -39,13 +39,8 @@
     "month": 6,
     "day": 26
   },
-  "nextAiringEpisode": {
-    "airingTime": 1713364200,
-    "timeUntilAiring": 527544,
-    "episode": 2
-  },
   "totalEpisodes": 12,
-  "currentEpisode": 1,
+  "currentEpisode": 2,
   "rating": 76,
   "duration": null,
   "genres": [
@@ -468,6 +463,15 @@
       "image": "https://artworks.thetvdb.com/banners/v4/episode/9533081/screencap/660c1886f0893.jpg",
       "imageHash": "hash",
       "airDate": "April 10, 2024"
+    },    
+    {
+      "id": "date-a-live-v-episode-2",
+      "title": "Final Respite",
+      "description": "The crew of Fraxinus sets about preparing for their battle against DEM with haste and high morale. The Spirits work hard to prepare snacks in order to encourage Shido and everyone else as the decisive battle draws closer by the hour...",
+      "number": 2,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10367480/screencap/661fe56d1206a.jpg",
+      "imageHash": "hash",
+      "airDate": "April 17, 2024"
     }
   ]
 }
