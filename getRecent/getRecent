@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "haikyuu",
+		"episodeId": "haikyuu-episode-1",
+		"jname": "Haikyuu!!",
+		"name": "HAIKYU!!",
+		"episodeNum": 25,
+		"sub": 25,
+		"dub": 25,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png"
+	},
+	{
 		"animeId": "kaiju-no-8",
 		"episodeId": "kaiju-no-8-episode-1",
 		"jname": "Kaijuu 8-gou",
