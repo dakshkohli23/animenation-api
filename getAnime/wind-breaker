@@ -40,13 +40,8 @@
     "month": 6,
     "day": 28
   },
-  "nextAiringEpisode": {
-    "airingTime": 1713453960,
-    "timeUntilAiring": 98685,
-    "episode": 3
-  },
   "totalEpisodes": 13,
-  "currentEpisode": 2,
+  "currentEpisode": 3,
   "rating": 77,
   "duration": 24,
   "genres": [
@@ -410,21 +405,30 @@
   "episodes": [
     {
       "id": "wind-breaker-episode-1",
-      "title": "EP 1",
-      "description": null,
+      "title": "SAKURA ARRIVES AT FURIN",
+      "description": "An admirer of strong people with a complete disinterest in the weak, Haruka Sakura, a loner and delinquent high school student, aims to be a fighter at the top of Furin High School. Coming from outside the city, Sakura enrolls in Furin High School, infamous for its delinquents.",
       "number": 1,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9701128/screencap/660d5d85213e2.jpg",
       "imageHash": "hash",
-      "airDate": null
+      "airDate": "April 5, 2024"
     },
     {
       "id": "wind-breaker-episode-2",
-      "title": "EP 2",
-      "description": null,
+      "title": "THE HERO OF MY DREAMS",
+      "description": "It is the morning of the school entrance ceremony, and Furin High School has transformed into a group that protects the town now known as the "Chime of the Wind Breaker" — Bofurin.",
       "number": 2,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10378862/screencap/6616be91e3ce4.jpg",
       "imageHash": "hash",
-      "airDate": null
+      "airDate": "April 12, 2024"
+    },
+    {
+      "id": "wind-breaker-episode-3",
+      "title": "THE MAN WHO STANDS AT THE TOP",
+      "description": "Furin High School's first-year Class 1 is infamous for its group of strong fighters. One of the students in the class, Kyotaro Sugishita, becomes furious with what Sakura said and throws a punch at him. The two begin a spectacular fight, ignoring an aloof Hayato Suo, who's carefully watching the fight, and Nirei, who's now panicking. A tremendously loud voice echoes throughout the school, interrupting the fight between the two young men. The owner of that voice that instantly changed the mood of the entire school is none other than Umemiya, the Representative of Bofurin. Sakura and the rest look nervously up at the speakers to hear Umemiya say something completely unexpected.",
+      "number": 3,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10378863/screencap/661fe0b098a61.jpg",
+      "imageHash": "hash",
+      "airDate": "April 19, 2024"
     }
   ]
 }
