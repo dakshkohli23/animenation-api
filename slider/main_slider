@@ -25,6 +25,31 @@
         "watchUrl": "/watch/remonster-episode-1"
     },
     {
+        "id": "163270",
+        "malId": 54900,
+        "title": {
+		"romaji": "WIND BREAKER",
+		"english": "WIND BREAKER",
+		"native": "WIND BREAKER"
+        },
+        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg",
+         "description": "Where the average scores are the lowest, but the fights are the strongest. Furin High School is renowned as a super school of delinquents. Haruka Sakura, a first-year student, came from outside the city to fight to the top. However, Furin High School has become a group that protects the town called the “Chime of the Wind Breaker” – Bofurin. The heroic legend of high school delinquent Sakura begins here!\n\u003Cbr\u003E\u003Cbr\u003E\n(Source: Crunchyroll)",
+		"status": "Airing",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163270-QshLCttd04s6.jpg",
+        "rating": 77,
+        "releaseDate": 2024,
+        "genres": [
+		"Action",
+		"Comedy",
+		"Drama"
+		],
+        "totalEpisodes": 13,
+        "duration": 24,
+        "type": "TV",
+        "animeUrl": "/anime/wind-breaker",
+        "watchUrl": "/watch/wind-breaker-episode-1"
+    },
+    {
         "id": "151380",
         "malId": 52196,
         "title": {
