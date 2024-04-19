@@ -40,11 +40,6 @@
     "month": 6,
     "day": 29
   },
-  "nextAiringEpisode": {
-    "airingTime": 1713621600,
-    "timeUntilAiring": 266762,
-    "episode": 2
-  },
   "totalEpisodes": 12,
   "currentEpisode": 1,
   "rating": 78,
@@ -728,12 +723,12 @@
   "episodes": [
     {
       "id": "kaiju-no-8-episode-1",
-      "title": "EP 1",
+      "title": "The Man Who Became a Kaiju",
       "description": null,
       "number": 1,
-      "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg",
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/9291143/screencap/6617df577a422.jpg",
       "imageHash": "hash",
-      "airDate": null
+      "airDate": "April 13, 2024"
     }
   ]
 }
