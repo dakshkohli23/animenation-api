@@ -631,7 +631,7 @@
             "episodeId": "date-a-live-v-episode-1",
             "jname": "Date A Live V",
             "name": "Date A Live V",
-            "sub": "1",
+            "sub": "2",
             "totalEpisodes": "12",
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151380-gvN5PjrybTw2.jpg",
             "type": "tv",
@@ -978,6 +978,20 @@
             "type": "tv",
             "episodeUrl": "anime/goblin-slayer-2",
             "genres": ["Action", "Adventure", "Fantasy"],
+            "isAdult": false
+        },
+        {
+            "animeId": "haikyuu",
+            "episodeId": "haikyuu-episode-1",
+            "jname": "Haikyuu!!",
+            "name": "HAIKYU!!",
+            "sub": "25",
+            "dub": "25",
+            "totalEpisodes": "25",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png",
+            "type": "tv",
+            "episodeUrl": "anime/haikyuu",
+            "genres": ["Comedy", "Drama", "Sports"],
             "isAdult": false
         },
         {
