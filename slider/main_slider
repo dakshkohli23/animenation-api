@@ -134,135 +134,28 @@
         "watchUrl": "/watch/demon-slayer-kimetsu-no-yaiba-hashira-training-arc-episode-1"
     },
     {
-        "id": "151807",
-        "malId": 52299,
+        "id": "153288",
+        "malId": 52588,
         "title": {
-            "romaji": "Ore dake Level Up na Ken",
-            "english": "Solo Leveling",
-            "native": "俺だけレベルアップな件"
+            "romaji": "Kaijuu 8-gou",
+			"english": "Kaiju No.8",
+			"native": "怪獣８号"
         },
-        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png",
-        "description": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.<br>\n<br>\n(Source: Crunchyroll) <br><br>",
-        "status": "Ongoing",
-        "cover": "https://artworks.thetvdb.com/banners/v4/series/389597/backgrounds/61ed3bc02a309.jpg",
-        "rating": 87,
+        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg",
+        "description": "With the highest kaiju-emergence rates in the world, Japan is no stranger to attack by deadly monsters. Enter the Japan Defense Force, a military organization tasked with the neutralization of kaiju. Kafka Hibino, a kaiju-corpse cleanup man, has always dreamed of joining the force. But when he gets another shot at achieving his childhood dream, he undergoes an unexpected transformation. How can he fight kaiju now that he’s become one himself?!\u003Cbr\u003E\n\u003Cbr\u003E\n(Source: VIZ Media)",
+		"status": "Ongoing",
+        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153288-JNsWuMPMAuJL.jpg",
+        "rating": 78,
         "releaseDate": 2024,
         "genres": [
-            "Action",
-            "Adventure",
-            "Fantasy"
-        ],
+		"Action",
+		"Adventure",
+		"Sci-Fi"
+		],
         "totalEpisodes": 12,
-        "duration": 22,
-        "type": "TV",
-        "animeUrl": "/anime/solo-leveling",
-        "watchUrl": "/watch/solo-leveling-episode-1"
-    },
-    {
-        "id": "146066",
-        "malId": 51180,
-        "title": {
-            "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
-            "english": "Classroom of the Elite Season 3",
-            "native": "ようこそ実力至上主義の教室へ 第3期"
-        },
-        "image": "https://artworks.thetvdb.com/banners/v4/series/431703/backgrounds/63fddc606feb2.jpg",
-        "description": "The third season of <i>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</i>.<br>\n<br>\nThe third semester kicks off in high gear with a special boot camp deep in the mountains. Forcibly separated into groups along grade and gender lines, the first, second and third years alike must work together to survive the rugged terrain. Even worse? The leader of the group that comes in last will be expelled. Can Class D make it back to campus intact, or is this where they finally say goodbye to one of their own?<br>\n<br>\n(Source: Seven Seas Entertainment)",
-        "status": "Ongoing",
-        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146066-gxjPUB1ofAO4.jpg",
-        "rating": null,
-        "releaseDate": 2024,
-        "genres": [
-            "Drama",
-            "Psychological"
-        ],
-        "totalEpisodes": 13,
-        "duration": 22,
-        "type": "TV",
-        "animeUrl": "/anime/classroom-of-the-elite-season-3",
-        "watchUrl": "/watch/classroom-of-the-elite-season-3-episode-1"
-    },
-    {
-        "id": "163329",
-        "malId": 54918,
-        "title": {
-            "romaji": "Tokyo Revengers: Tenjiku-hen",
-            "english": "Tokyo Revengers Season 3",
-            "native": "東京リベンジャーズ 天竺編"
-        },
-        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163329-lGJRnYV9dcjc.jpg",
-        "trailer": {
-            "id": "OTlNyYfkM1s",
-            "site": "youtube",
-            "thumbnail": "https://i.ytimg.com/vi/OTlNyYfkM1s/hqdefault.jpg"
-        },
-        "description": "Adaptation of the Tenjiku Arc.\n<br><br>\nWith a future where Toman has been destroyed by Mikey's twisted ideas and Takemichi returning to the past, he decides to become stronger in order to stop Kisaki's plans. On one side, a mysterious gang from Yokohama known as Tenjiku begins to overthrow all the Toman divisions, deciding to destroy all the gangs in Japan, becoming the most powerful and unique.\n<br><br>\nKisaki has been planning something for his purposes against Toman, now that he is banned.",
-        "status": "Airing",
-        "cover": "https://preview.redd.it/season-3-of-tokyo-revengers-tenjiku-arc-custo-poster-btw-i-v0-vqyqhbzebmoa1.png?width=872&format=png&auto=webp&s=c8f839a21550bc2045a04a2dcf3760c14edca3cf",
-        "rating": 77,
-        "releaseDate": 2023,
-        "genres": [
-            "Action",
-            "Drama",
-            "Romance",
-            "Supernatural"
-        ],
-        "totalEpisodes": 13,
         "duration": 24,
         "type": "TV",
-        "animeUrl": "/anime/tokyo-revengers-season-3",
-        "watchUrl": "/watch/tokyo-revengers-season-3-episode-1"
-    },
-    {
-        "id": "145064",
-        "malId": 51009,
-        "title": {
-            "romaji": "Jujutsu Kaisen 2nd Season",
-            "english": "JUJUTSU KAISEN Season 2",
-            "native": "呪術廻戦 第2期"
-        },
-        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145064-5fa4ZBbW4dqA.jpg",
-        "trailer": {},
-        "description": "The second season of <i>Jujutsu Kaisen</i>.<br>\n<br>\nThe past comes to light when second-year students Satoru Gojou and Suguru Getou are tasked with escorting young Riko Amanai to Master Tengen. But when a non-sorcerer user tries to kill them, their mission to protect the Star Plasma Vessel threatens to turn them into bitter enemies and cement their destinies—one as the world’s strongest sorcerer, and the other its most twisted curse user!<br>\n<br>\n(Source: Crunchyroll)",
-        "status": "Airing",
-        "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/145064-kH9vbOEitIhl.jpg",
-        "rating": 85,
-        "releaseDate": 2023,
-        "genres": [
-            "Action",
-            "Drama",
-            "Supernatural"
-        ],
-        "totalEpisodes": 23,
-        "duration": 24,
-        "type": "TV",
-        "animeUrl": "/anime/jujutsu-kaisen-season-2",
-        "watchUrl": "/watch/jujutsu-kaisen-season-2-episode-1"
-    },
-    {
-        "id": "158871",
-        "malId": 53876,
-        "title": {
-            "romaji": "Pocket Monsters (2023)",
-            "english": "Pokémon Horizons: The Series",
-            "native": "ポケットモンスター (2023)"
-        },
-        "image": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
-        "trailer": {},
-        "description": "A new dream and adventure set throughout the entire Pokémon world unfolds in a brand new Pokémon-series following a girl named Liko and a boy named Roy.",
-        "status": "Airing",
-        "cover": "https://images8.alphacoders.com/131/1313762.png",
-        "rating": 72,
-        "releaseDate": 2023,
-        "genres": [
-            "Adventure",
-            "Fantasy",
-            "Kids"
-        ],
-        "totalEpisodes": 34,
-        "duration": 22,
-        "type": "TV",
-        "animeUrl": "/anime/pokemon-horizons-the-series",
-        "watchUrl": "/watch/pokemon-horizons-the-series-episode-1"
+        "animeUrl": "/anime/kaiju-no-8",
+        "watchUrl": "/watch/kaiju-no-8-episode-1"
     }
 ]
