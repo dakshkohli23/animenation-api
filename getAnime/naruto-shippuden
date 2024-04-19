@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 46,
+    "currentEpisode": 48,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2638,5 +2638,21 @@
             "number": "46",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/347861.jpg",
             "airDate": "2008-02-28"
+        },
+        {
+            "id": "naruto-shippuden-episode-47",
+            "title": "Something Important…",
+            "description": "Kabuto fights Team Kakashi and frees Sai. However, Sai, who intends to learn more about his bond with his brother through Naruto's bond with Sasuke, betrays him. Captured, Kabuto gives a vague description of Sasuke's location to the team. Leaving Yamato's wood clone to watch over Kabuto, Team Kakashi enters Orochimaru's hideout and splits up to find Sasuke.",
+            "number": "47",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/352889.jpg",
+            "airDate": "2008-03-06"
+        },
+        {
+            "id": "naruto-shippuden-episode-48",
+            "title": "The Picture Book's Story",
+            "description": "As Team Kakashi continues their search for Sasuke, Naruto suddenly collapses due to his previous fight with Orochimaru. As Naruto wakes up, Sai begins to reveal more about his brother, but Orochimaru suddenly attacks them. Sakura and Yamato come to Naruto's aid against Orochimaru, while Sai continues the search. Just as Sai finds Sasuke, Yamato finds Sai's bingo book with Sasuke listed as a target for assassination.",
+            "number": "48",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/352890.jpg",
+            "airDate": "2008-03-13"
         }]
 }
