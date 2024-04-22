@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "naruto-shippuden",
+		"episodeId": "naruto-shippuden-episode-50",
+		"jname": "NARUTO: Shippuuden",
+		"name": "Naruto: Shippuden",
+		"episodeNum": 500,
+		"sub": 50,
+		"dub": 50,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
+	},
+	{
 		"animeId": "date-a-live-v",
 		"episodeId": "date-a-live-v-episode-2",
 		"jname": "Date A Live V",
@@ -39,17 +50,6 @@
 		"sub": 3,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg"
-	},
-	{
-		"animeId": "naruto-shippuden",
-		"episodeId": "naruto-shippuden-episode-48",
-		"jname": "NARUTO: Shippuuden",
-		"name": "Naruto: Shippuden",
-		"episodeNum": 500,
-		"sub": 48,
-		"dub": 48,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
 	},
 	{
 		"animeId": "remonster",
