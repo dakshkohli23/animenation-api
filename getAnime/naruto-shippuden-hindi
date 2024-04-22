@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 48,
+    "currentEpisode": 50,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2654,5 +2654,21 @@
             "number": "48",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/352890.jpg",
             "airDate": "2008-03-13"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-49",
+            "title": "Reunion",
+            "description": "As Team Kakashi continues their search for Sasuke, Sai approaches Sasuke's room and awakens him. Shaken by the image of Sasuke's Sharingan from earlier, Sai attempts to restrain him. A large explosion occurs and Sakura, Naruto and Yamato catch up. At first Sakura tries to restrain Sai in order to find out his true objective, but she stops, stunned at seeing her former comrade. Contrary to what the rest of the team assumed to be his mission, Sai tells them that he wishes to bring Sasuke back to Konoha.",
+            "number": "49",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/352891.jpg",
+            "airDate": "2008-03-20"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-50",
+            "title": "The Power of the Uchiha",
+            "description": "Sasuke begins to attack Naruto, but Sai restrains him only for them both to be blown away by Sasuke's Chidori Nagashi. Sakura charges at Sasuke, but Yamato intervenes and winds up being stabbed by Sasuke's unique blade infused with his Chidori. The Nine-Tailed Fox tempts Naruto with its power, but he refuses it. Sasuke sees this using his Sharingan, appearing in Naruto's mind. The Nine-Tails says that Sasuke's chakra reminds him of Madara Uchiha, then Sasuke suppresses the Nine-Tailed Fox's chakra. Before the Nine-Tailed Fox returns to its cage, it warns Sasuke not to kill Naruto, saying that he will live to regret it forever.",
+            "number": "50",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/356330.jpg",
+            "airDate": "2008-03-20"
         }]
 }
