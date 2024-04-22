@@ -2405,6 +2405,19 @@
             "isAdult": false
         },
         {
+            "animeId": "solo-leveling-hindi",
+            "episodeId": "solo-leveling-hindi-episode-1",
+            "jname": "Ore dake Level Up na Ken - Hindi",
+            "name": "Solo Leveling - Hindi",
+            "hindi": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-m1gX3iwfIsLu.png",
+            "type": "tv",
+            "episodeUrl": "anime/solo-leveling-hindi",
+            "genres": ["Action", "Adventure", "Fantasy"],
+            "isAdult": false
+        },
+        {
             "animeId": "solo-leveling-recap",
             "episodeId": "solo-leveling-recap-episode-1",
             "jname": "Ore dake Level Up na Ken - Special",
