@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "kaiju-no-8",
+		"episodeId": "kaiju-no-8-episode-1",
+		"jname": "Kaijuu 8-gou",
+		"name": "Kaiju No.8",
+		"episodeNum": 12,
+		"sub": 2,
+		"dub": 2,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
+	},
+	{
 		"animeId": "naruto-shippuden",
 		"episodeId": "naruto-shippuden-episode-50",
 		"jname": "NARUTO: Shippuuden",
@@ -30,16 +41,6 @@
 		"dub": 25,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png"
-	},
-	{
-		"animeId": "kaiju-no-8",
-		"episodeId": "kaiju-no-8-episode-1",
-		"jname": "Kaijuu 8-gou",
-		"name": "Kaiju No.8",
-		"episodeNum": 12,
-		"sub": 1,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
 	},
 	{
 		"animeId": "wind-breaker",
