@@ -1,5 +1,15 @@
 [
 	{
+		"animeId": "bocchi-the-rock",
+		"episodeId": "bocchi-the-rock-episode-1",
+		"jname": "Bocchi the Rock!",
+		"name": "BOCCHI THE ROCK!",
+		"episodeNum": 12,
+		"sub": 12,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-OBj8AZKPvnV9.png"
+	},
+	{
 		"animeId": "naruto-shippuden",
 		"episodeId": "naruto-shippuden-episode-52",
 		"jname": "NARUTO: Shippuuden",
