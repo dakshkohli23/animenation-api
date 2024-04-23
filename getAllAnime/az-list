@@ -460,19 +460,6 @@
             "isAdult": false
         },
         {
-            "animeId": "bocchi-the-rock",
-            "episodeId": "bocchi-the-rock-episode-1",
-            "jname": "Bocchi the Rock!",
-            "name": "BOCCHI THE ROCK!",
-            "sub": "12",
-            "totalEpisodes": "12",
-            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-OBj8AZKPvnV9.png",
-            "type": "tv",
-            "episodeUrl": "anime/bocchi-the-rock",
-            "genres": ["Comedy", "Music", "Slice of Life"],
-            "isAdult": false
-        },
-        {
             "animeId": "black-lagoon",
             "episodeId": "black-lagoon-episode-1",
             "jname": "BLACK LAGOON",
@@ -553,6 +540,19 @@
             "type": "tv",
             "episodeUrl": "anime/blue-lock",
             "genres": ["Action", "Drama", "Sports"],
+            "isAdult": false
+        },
+        {
+            "animeId": "bocchi-the-rock",
+            "episodeId": "bocchi-the-rock-episode-1",
+            "jname": "Bocchi the Rock!",
+            "name": "BOCCHI THE ROCK!",
+            "sub": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-OBj8AZKPvnV9.png",
+            "type": "tv",
+            "episodeUrl": "anime/bocchi-the-rock",
+            "genres": ["Comedy", "Music", "Slice of Life"],
             "isAdult": false
         },
         {
@@ -1018,6 +1018,20 @@
             "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20992-aHgNbcalVEqk.png",
             "type": "tv",
             "episodeUrl": "anime/haikyuu-second-season",
+            "genres": ["Comedy", "Drama", "Sports"],
+            "isAdult": false
+        },
+        {
+            "animeId": "haikyu-3rd-season",
+            "episodeId": "haikyu-3rd-season-episode-1",
+            "jname": "Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+            "name": "HAIKYU!! 3rd Season",
+            "sub": "10",
+            "dub": "10",
+            "totalEpisodes": "10",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21698-RL71mr1YU5Io.png",
+            "type": "tv",
+            "episodeUrl": "anime/haikyu-3rd-season",
             "genres": ["Comedy", "Drama", "Sports"],
             "isAdult": false
         },
@@ -1696,9 +1710,9 @@
             "episodeId": "pokemon-horizons-the-series-episode-1",
             "jname": "Pocket Monsters (2023)",
             "name": "Pokemon Horizons: The Series",
-            "sub": "46",
+            "sub": "47",
             "dub": "28",
-            "totalEpisodes": "46",
+            "totalEpisodes": "47",
             "imgUrl": "https://artworks.thetvdb.com/banners/v4/season/2069353/posters/64b404ea03ccd.jpg",
             "type": "tv",
             "episodeUrl": "anime/pokemon-horizons-the-series",
