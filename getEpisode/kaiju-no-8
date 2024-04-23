@@ -1,20 +1,20 @@
 [
-        {
-            "server1": "yge1trwmyh0b",
-            "server2": "e49gclhouny3",
-            "animeNameWithEP": "Kaiju No.8 Episode 1",
-            "ep_num": "1",
-            "anime_info": "kaiju-no-8",
-            "movie_id": "153288",
-            "subOrDub": "dual"
-        },
-        {
-            "server1": "fflhc80a2rwv",
-            "server2": "cdqhjulso0du",
-            "animeNameWithEP": "Kaiju No.8 Episode 2",
-            "ep_num": "2",
-            "anime_info": "kaiju-no-8",
-            "movie_id": "153288",
-            "subOrDub": "dual"
-        }
-    ]
+    {
+        "server1": "yge1trwmyh0b",
+        "server2": "e49gclhouny3",
+        "animeNameWithEP": "Kaiju No.8 Episode 1",
+        "ep_num": "1",
+        "anime_info": "kaiju-no-8",
+        "movie_id": "153288",
+        "subOrDub": "dual"
+    },
+    {
+        "server1": "fflhc80a2rwv",
+        "server2": "cdqhjulso0du",
+        "animeNameWithEP": "Kaiju No.8 Episode 2",
+        "ep_num": "2",
+        "anime_info": "kaiju-no-8",
+        "movie_id": "153288",
+        "subOrDub": "dual"
+    }
+]
