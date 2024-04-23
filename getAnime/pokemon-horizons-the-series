@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 46,
-    "currentEpisode": 46,
+    "totalEpisodes": 47,
+    "currentEpisode": 47,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1031,6 +1031,13 @@
             "description": "",
             "number": "46",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10379062/screencap/6618f0ed73ba3.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-47",
+            "title": "Liko and Floragato, Put All Your Heart Into It",
+            "description": "",
+            "number": "47",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10437494/screencap/66222d3314d9c.jpg"
         }
     ]
 }
