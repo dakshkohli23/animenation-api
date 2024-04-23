@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "naruto-shippuden",
+		"episodeId": "naruto-shippuden-episode-52",
+		"jname": "NARUTO: Shippuuden",
+		"name": "Naruto: Shippuden",
+		"episodeNum": 500,
+		"sub": 52,
+		"dub": 52,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
+	},
+	{
 		"animeId": "kaiju-no-8",
 		"episodeId": "kaiju-no-8-episode-2",
 		"jname": "Kaijuu 8-gou",
@@ -9,17 +20,6 @@
 		"dub": 2,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
-	},
-	{
-		"animeId": "naruto-shippuden",
-		"episodeId": "naruto-shippuden-episode-50",
-		"jname": "NARUTO: Shippuuden",
-		"name": "Naruto: Shippuden",
-		"episodeNum": 500,
-		"sub": 50,
-		"dub": 50,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
 	},
 	{
 		"animeId": "date-a-live-v",
