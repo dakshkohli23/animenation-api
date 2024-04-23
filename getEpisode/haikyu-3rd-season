@@ -1,122 +1,92 @@
 [
         {
-            "server1": "v4jagpk5o94a",
-            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 1 Dubbed",
+            "server1": "x1k4nb3isqxw",
+            "server2": "h71pbxsbryj2",
+            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 1",
             "ep_num": "1",
             "anime_info": "haikyu-3rd-season",
             "movie_id": "21698",
-            "alias": "haikyu-3rd-season",
-            "nextEpText": "HAIKYU!! 3rd Season Episode 2 >>",
-            "nextEpLink": "/haikyu-3rd-season-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "juzjmj9t15h6",
-            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 2 Dubbed",
+            "server1": "a7v1o8g81r13",
+            "server2": "7x3qfziqydls",
+            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 2",
             "ep_num": "2",
             "anime_info": "haikyu-3rd-season",
             "movie_id": "21698",
-            "alias": "haikyu-3rd-season",
-            "nextEpText": "HAIKYU!! 3rd Season Episode 3 >>",
-            "nextEpLink": "/haikyu-3rd-season-episode-3",
-            "prevEpText": "<< HAIKYU!! 3rd Season Episode 1",
-            "prevEpLink": "/haikyu-3rd-season-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "48didtzaxqvs",
-            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 3 Dubbed",
+            "server1": "gpjons0plls6",
+            "server2": "0brzcmmuq409",
+            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 3",
             "ep_num": "3",
             "anime_info": "haikyu-3rd-season",
             "movie_id": "21698",
-            "alias": "haikyu-3rd-season",
-            "nextEpText": "HAIKYU!! 3rd Season Episode 4 >>",
-            "nextEpLink": "/haikyu-3rd-season-episode-4",
-            "prevEpText": "<< HAIKYU!! 3rd Season Episode 2",
-            "prevEpLink": "/haikyu-3rd-season-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "sck2lge6rer5",
-            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 4 Dubbed",
+            "server1": "hirl15ynpkju",
+            "server2": "ihffqj0r8thh",
+            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 4",
             "ep_num": "4",
             "anime_info": "haikyu-3rd-season",
             "movie_id": "21698",
-            "alias": "haikyu-3rd-season",
-            "nextEpText": "HAIKYU!! 3rd Season Episode 5 >>",
-            "nextEpLink": "/haikyu-3rd-season-episode-5",
-            "prevEpText": "<< HAIKYU!! 3rd Season Episode 3",
-            "prevEpLink": "/haikyu-3rd-season-episode-3"
+            "subOrDub": "dual"
         },
         {
-            "server1": "jlqxiymzaz1d",
-            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 5 Dubbed",
+            "server1": "5kb88xrboldp",
+            "server2": "c31wtjd6jle5",
+            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 5",
             "ep_num": "5",
             "anime_info": "haikyu-3rd-season",
             "movie_id": "21698",
-            "alias": "haikyu-3rd-season",
-            "nextEpText": "HAIKYU!! 3rd Season Episode 6 >>",
-            "nextEpLink": "/haikyu-3rd-season-episode-6",
-            "prevEpText": "<< HAIKYU!! 3rd Season Episode 4",
-            "prevEpLink": "/haikyu-3rd-season-episode-4"
+            "subOrDub": "dual"
         },
         {
-            "server1": "1w4lfn3cmat6",
-            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 6 Dubbed",
+            "server1": "0q6u5ju8aj2j",
+            "server2": "09674530wzq9",
+            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 6",
             "ep_num": "6",
             "anime_info": "haikyu-3rd-season",
             "movie_id": "21698",
-            "alias": "haikyu-3rd-season",
-            "nextEpText": "HAIKYU!! 3rd Season Episode 7 >>",
-            "nextEpLink": "/haikyu-3rd-season-episode-7",
-            "prevEpText": "<< HAIKYU!! 3rd Season Episode 5",
-            "prevEpLink": "/haikyu-3rd-season-episode-5"
+            "subOrDub": "dual"
         },
         {
-            "server1": "r1a20cm432ff",
-            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 7 Dubbed",
+            "server1": "ksw5z81mu71y",
+            "server2": "1fkevxrpiwhu",
+            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 7",
             "ep_num": "7",
             "anime_info": "haikyu-3rd-season",
             "movie_id": "21698",
-            "alias": "haikyu-3rd-season",
-            "nextEpText": "HAIKYU!! 3rd Season Episode 8 >>",
-            "nextEpLink": "/haikyu-3rd-season-episode-8",
-            "prevEpText": "<< HAIKYU!! 3rd Season Episode 6",
-            "prevEpLink": "/haikyu-3rd-season-episode-6"
+            "subOrDub": "dual"
         },
         {
-            "server1": "l97esrou29qo",
-            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 8 Dubbed",
+            "server1": "wkjpyyrcl1p2",
+            "server2": "anr0fahj64q2",
+            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 8",
             "ep_num": "8",
             "anime_info": "haikyu-3rd-season",
             "movie_id": "21698",
-            "alias": "haikyu-3rd-season",
-            "nextEpText": "HAIKYU!! 3rd Season Episode 9 >>",
-            "nextEpLink": "/haikyu-3rd-season-episode-9",
-            "prevEpText": "<< HAIKYU!! 3rd Season Episode 7",
-            "prevEpLink": "/haikyu-3rd-season-episode-7"
+            "subOrDub": "dual"
         },
         {
-            "server1": "kcz9xmgyos11",
-            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 9 Dubbed",
+            "server1": "pk1ktt0lom7v",
+            "server2": "pjzay6h36150",
+            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 9",
             "ep_num": "9",
             "anime_info": "haikyu-3rd-season",
             "movie_id": "21698",
-            "alias": "haikyu-3rd-season",
-            "nextEpText": "HAIKYU!! 3rd Season Episode 10 >>",
-            "nextEpLink": "/haikyu-3rd-season-episode-10",
-            "prevEpText": "<< HAIKYU!! 3rd Season Episode 8",
-            "prevEpLink": "/haikyu-3rd-season-episode-8"
+            "subOrDub": "dual"
         },
         {
-            "server1": "pnnedmvc64l6",
-            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 10 Dubbed",
+            "server1": "zku9uf6i3229",
+            "server2": "se3p9je4wo4f",
+            "animeNameWithEP": "HAIKYU!! 3rd Season Episode 10",
             "ep_num": "10",
             "anime_info": "haikyu-3rd-season",
             "movie_id": "21698",
-            "alias": "haikyu-3rd-season",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< HAIKYU!! 3rd Season Episode 9",
-            "prevEpLink": "/haikyu-3rd-season-episode-9"
+            "subOrDub": "dual"
         }
     ]
