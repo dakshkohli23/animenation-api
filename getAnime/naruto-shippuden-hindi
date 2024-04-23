@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 50,
+    "currentEpisode": 52,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2670,5 +2670,21 @@
             "number": "50",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/356330.jpg",
             "airDate": "2008-03-20"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-51",
+            "title": "Title",
+            "description": "Orochimaru and Kabuto convince Sasuke to withdraw with them, and Naruto weeps over his failure to return Sasuke to the village, but Sakura reassures him that they will bring Sasuke back together. Naruto's team reports to Tsunade about the results of the mission, and Tsunade is greatly angered over Danzo's scheme, particularly his leaking classified information to further it. Sai asks Danzo to allow him to remain with Team Kakashi, and Danzo reluctantly agrees. Sai goes on a mission with his team, having come to see them as his friends.",
+            "number": "51",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/357733.jpg",
+            "airDate": "2008-04-03"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-52",
+            "title": "Nightmare",
+            "description": "Naruto's been having nightmares about the release of the Nine-Tail's power. Afterward, Kakashi informs Naruto that he has special training for him that will make him strong quickly. They are cut off by Team 10, who have also come to visit. Sai lunches with them and, trying to make friends by using nicknames, angers Sakura by calling Ino \"gorgeous\" after concluding that women do not like to hear how they really are.",
+            "number": "52",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/357734.jpg",
+            "airDate": "2008-04-03"
         }]
 }
