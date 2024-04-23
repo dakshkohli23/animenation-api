@@ -460,6 +460,19 @@
             "isAdult": false
         },
         {
+            "animeId": "bocchi-the-rock",
+            "episodeId": "bocchi-the-rock-episode-1",
+            "jname": "Bocchi the Rock!",
+            "name": "BOCCHI THE ROCK!",
+            "sub": "12",
+            "totalEpisodes": "12",
+            "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-OBj8AZKPvnV9.png",
+            "type": "tv",
+            "episodeUrl": "anime/bocchi-the-rock",
+            "genres": ["Comedy", "Music", "Slice of Life"],
+            "isAdult": false
+        },
+        {
             "animeId": "black-lagoon",
             "episodeId": "black-lagoon-episode-1",
             "jname": "BLACK LAGOON",
