@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 52,
+    "currentEpisode": 53,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2686,5 +2686,13 @@
             "number": "52",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/357734.jpg",
             "airDate": "2008-04-03"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-53",
+            "title": "Wind",
+            "description": "Kakashi is released from the hospital and begins Naruto's training program. Naruto learns that he has Wind-style chakra. Yamato helps by setting up the training field with his special jutsu. Naruto also learns that he can use his Multi Shadow Clone jutsu to speed up his training, since whatever the clones learn, the original user learns upon the clone's dispersal. Naruto and his mass of clones each take a leaf and attempt to slice it in half with wind chakra as the first step to creating his new jutsu.",
+            "number": "53",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/359325.jpg",
+            "airDate": "2008-04-17"
         }]
 }
