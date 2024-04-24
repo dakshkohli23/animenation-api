@@ -1,158 +1,119 @@
 [
         {
-            "server1": "9odihbgivehn",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 1 Dubbed",
+            "server1": "sfn94ej2dx0j",
+            "server2": "bx5zw2s4qpdb",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 1",
             "ep_num": "1",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 2 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "subOrDub": "dual"
         },
         {
-            "server1": "gzpemozao3kb",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 2 Dubbed",
+            "server1": "f4zgvdqd937z",
+            "server2": "rs8ctvc7jt53",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 2",
             "ep_num": "2",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 3 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-3",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 1",
-            "prevEpLink": "/haikyuu-to-the-top-episode-1"
+            "subOrDub": "dual"
         },
         {
-            "server1": "q4umrl0baoxe",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 3 Dubbed",
+            "server1": "yf0l88zz0tpp",
+            "server2": "q95ztjie116n",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 3",
             "ep_num": "3",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 4 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-4",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 2",
-            "prevEpLink": "/haikyuu-to-the-top-episode-2"
+            "subOrDub": "dual"
         },
         {
-            "server1": "zl87926k6h13",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 4 Dubbed",
+            "server1": "x0n9dbr3ldku",
+            "server2": "5highrrkvdsu",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 4",
             "ep_num": "4",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 5 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-5",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 3",
-            "prevEpLink": "/haikyuu-to-the-top-episode-3"
+            "subOrDub": "dual"
         },
         {
-            "server1": "t0r109r1omqm",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 5 Dubbed",
+            "server1": "243rd4n71pp2",
+            "server2": "8iknnaxc4fc9",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 5",
             "ep_num": "5",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 6 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-6",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 4",
-            "prevEpLink": "/haikyuu-to-the-top-episode-4"
+            "subOrDub": "dual"
         },
         {
-            "server1": "akbpmuxj32fn",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 6 Dubbed",
+            "server1": "sa04hqeiacr3",
+            "server2": "mgklbe369a8m",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 6",
             "ep_num": "6",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 7 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-7",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 5",
-            "prevEpLink": "/haikyuu-to-the-top-episode-5"
+            "subOrDub": "dual"
         },
         {
-            "server1": "vrau9datrt7e",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 7 Dubbed",
+            "server1": "dktauwwlzu19",
+            "server2": "jvqkchryyfke",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 7",
             "ep_num": "7",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 8 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-8",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 6",
-            "prevEpLink": "/haikyuu-to-the-top-episode-6"
+            "subOrDub": "dual"
         },
         {
-            "server1": "mbt3tsngdb3v",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 8 Dubbed",
+            "server1": "amv6zugvpw7g",
+            "server2": "1y8p3jlrikzx",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 8",
             "ep_num": "8",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 9 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-9",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 7",
-            "prevEpLink": "/haikyuu-to-the-top-episode-7"
+            "subOrDub": "dual"
         },
         {
-            "server1": "qpnzg548nivy",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 9 Dubbed",
+            "server1": "lywq77uoejic",
+            "server2": "gh3o64h6zcar",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 9",
             "ep_num": "9",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 10 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-10",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 8",
-            "prevEpLink": "/haikyuu-to-the-top-episode-8"
+            "subOrDub": "dual"
         },
         {
-            "server1": "53t50uz8s9zs",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 10 Dubbed",
+            "server1": "vd9c1oyfmsdy",
+            "server2": "vzonrebf0pwq",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 10",
             "ep_num": "10",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 11 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-11",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 9",
-            "prevEpLink": "/haikyuu-to-the-top-episode-9"
+            "subOrDub": "dual"
         },
         {
-            "server1": "bxu552sx1uah",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 11 Dubbed",
+            "server1": "j52l7snx85hc",
+            "server2": "i4qtyglicfil",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 11",
             "ep_num": "11",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 12 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-12",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 10",
-            "prevEpLink": "/haikyuu-to-the-top-episode-10"
+            "subOrDub": "dual"
         },
         {
-            "server1": "moij0n9sef1i",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 12 Dubbed",
+            "server1": "vg6qkb2xfis0",
+            "server2": "7kp0cykz3xl7",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 12",
             "ep_num": "12",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "HAIKYU!! TO THE TOP Episode 13 >>",
-            "nextEpLink": "/haikyuu-to-the-top-episode-13",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 11",
-            "prevEpLink": "/haikyuu-to-the-top-episode-11"
+            "subOrDub": "dual"
         },
         {
-            "server1": "45vznx4v4knf",
-            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 13 Dubbed",
+            "server1": "c9tcjrisjllv",
+            "server2": "i6kqkzugxmqo",
+            "animeNameWithEP": "HAIKYU!! TO THE TOP Episode 13",
             "ep_num": "13",
             "anime_info": "haikyuu-to-the-top",
             "movie_id": "106625",
-            "alias": "haikyuu-to-the-top",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< HAIKYU!! TO THE TOP Episode 12",
-            "prevEpLink": "/haikyuu-to-the-top-episode-12"
+            "subOrDub": "dual"
         }
     ]
