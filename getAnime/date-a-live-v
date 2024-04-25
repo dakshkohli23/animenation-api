@@ -40,7 +40,7 @@
     "day": 26
   },
   "totalEpisodes": 12,
-  "currentEpisode": 2,
+  "currentEpisode": 3,
   "rating": 76,
   "duration": 24,
   "genres": [
@@ -472,6 +472,15 @@
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10367480/screencap/661fe56d1206a.jpg",
       "imageHash": "hash",
       "airDate": "April 17, 2024"
+    },    
+    {
+      "id": "date-a-live-v-episode-3",
+      "title": "The Spirit's Resurrection",
+      "description": "A full-scale confrontation between Shido and his friends Ratatoskr and DEM has begun. Kurumi and her clone, AST led by Ryoko Kusabe, join them, and as the battle intensifies, Shido confronts a horde of pseudo-Spirits, Nibeelcole.",
+      "number": 3,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10367481/screencap/6628f7584b00c.jpg",
+      "imageHash": "hash",
+      "airDate": "April 24, 2024"
     }
   ]
 }
