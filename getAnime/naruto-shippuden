@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 53,
+    "currentEpisode": 58,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2694,5 +2694,45 @@
             "number": "53",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/359325.jpg",
             "airDate": "2008-04-17"
+        },
+        {
+            "id": "naruto-shippuden-episode-54",
+            "title": "Squirming",
+            "description": "Naruto and his clones continue to work on chakra nature manipulation by slicing leaves. After some struggling, Naruto approaches Asuma, who is also a wind type, for advice, after which Asuma gives Naruto's clone a few pointers. Naruto is subsequently able to slice a leaf in half. Asuma and Yamato head out with their teams on new missions. It is revealed that Asuma is the Third Hokage's son and that he is in a relationship with Kurenai. Meanwhile, on a hill overlooking a burnt village, four cloaked figures discuss the awakening of the Fire Country by eliminating the Leaf Village.",
+            "number": "54",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/359485.jpg",
+            "airDate": "2008-04-24"
+        },
+        {
+            "id": "naruto-shippuden-episode-55",
+            "title": "Robbed of Sleep",
+            "description": "Naruto, Sakura, Sai and Yamato head out for a new mission near the Fire Temple. When the other party fails to show up at the rendezvous point, the team gets separated and Naruto stumbles upon one of the four hidden tombs they came to protect. Due to a misunderstanding, he fights one of the monks-in-training from the Fire Temple, Sora, who also uses wind chakra based techniques. After the confusion, the monks and Team Kakashi travel to the Fire Temple, and Naruto recognizes it from his nightmare.",
+            "number": "55",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/359486.jpg",
+            "airDate": "2008-05-08"
+        },
+        {
+            "id": "naruto-shippuden-episode-56",
+            "title": "Loneliness",
+            "description": "The temple monks explain that the tombs hold the loyal bodyguards of Fire Country's feudal lord. Naruto observes Sora sparring with other monks and becomes offended upon realizing he is holding back. Naruto challenges Sora, but just as the matter is about to get serious, another monk stops him. Naruto realizes Sora is despised by the other monks as he was himself and wishes to befriend him. Naruto visits Sora again and observes him practicing his wind jutsu in earnest, hoping to get strong enough to avenge his father. They later return to the temple to receive news that another tomb has been robbed.",
+            "number": "56",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/363099.jpg",
+            "airDate": "2008-05-08"
+        },
+        {
+            "id": "naruto-shippuden-episode-57",
+            "title": "A New Enemy",
+            "description": "Tsunade suspects that Danzou is plotting something and orders an investigation of him. Team Kakashi, Chiriku and Sora notice the coffins moving on their own, but fail to intercept them. The coffins emerge on a cliff, where the leader of the enemy ninja orders his subordinates to deal with their foes. The ninjas turn the area into a maze of rocky canyons and pits, full of deadly traps. The team members are separated from each other, and begin facing off against the enemy. Yamato speculates that the ninja may have orchestrated the theft in order to target someone on his team.",
+            "number": "57",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/366323.jpg",
+            "airDate": "2008-05-15"
+        },
+        {
+            "id": "naruto-shippuden-episode-58",
+            "title": "Vicissitudes of Life",
+            "description": "Team Kakashi begins facing off against the enemy shinobi. Yamato eludes his opponent, Fudo, by faking his death. Sora, unwilling to look for Naruto, goes off on his own. Back in Konoha, Danzo reveals that he is aware that he is being watched by Tsunade's ANBU. Naruto fights Fūka, whose kiss is fatal and shows her ability to use earth, fire, water and lightning jutsus. Sai manages to escape from his attacker, Fuen, and later saves Sakura from an enormous spider, becoming injured in the process. Sora then hits upon the enemy leader, Furido, and it is revealed that he was the group's target.",
+            "number": "58",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/366324.jpg",
+            "airDate": "2008-05-22"
         }]
 }
