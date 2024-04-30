@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 58,
+    "currentEpisode": 62,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2734,5 +2734,37 @@
             "number": "58",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/366324.jpg",
             "airDate": "2008-05-22"
+        },
+        {
+            "id": "naruto-shippuden-episode-59",
+            "title": "Teammate",
+            "description": "Asuma's team returns from its mission. Team Kakashi returns to Konoha as well, with Sora replacing Sai on the team. Naruto tries to show Sora around Konoha but Sora goes his own way. Sora's insults precipitate a brawl with Kiba and Choji, with Naruto and Rock Lee joining in. Shikamaru and Asuma stop the fight. Later Asuma tells Sora he knew Sora's father, who is revealed as one of the Guardians involved in the coup attempt. He also shows Sora his chakra blade attack. Furido and the other body snatchers begin their attack on the Kohaku Clan.",
+            "number": "59",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/366325.jpg",
+            "airDate": "2008-06-05"
+        },
+        {
+            "id": "naruto-shippuden-episode-60",
+            "title": "The Two Kings",
+            "description": "Asuma supervises Naruto and Sora's wind chakra training, and notices that Sora, like Naruto, has very powerful chakra. Tsunade and Yamato learn from Chiriku that Sora was inadvertently responsible for an incident in which the Temple of Fire was destroyed. Later, Asuma gives Sora a claw made from the same materials as his chakra blades. It is revealed that Asuma killed Sora's father Kazuma, who had planned to kill the Hokage. Furido then approaches Sora, telling him that Asuma is responsible for his father's death and passing him two \"king\" pieces from a Shogi set for Asuma. Danzo mysteriously disappears. Naruto approaches a furious Sora in the training grounds, who easily throws a chakra-powered kunai through a tree and destroys the stone behind it.",
+            "number": "60",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/366326.jpg",
+            "airDate": "2008-06-19"
+        },
+        {
+            "id": "naruto-shippuden-episode-61",
+            "title": "The Jet-Black Signal Fire",
+            "description": "Danzou is brought in for questioning after being caught meeting with a young Rain ninja. Sora confronts Asuma, and Asuma admits to having killed Kazuma. He attacks Asuma, his arm once again assuming a demonic form. Afterward, Naruto gets injured while shielding Sora from the attacks of an unknown individual, presumably from Root. Furido then approaches Sora, telling him to kill both Asuma and the Hokage to avenge his father. Later on, Naruto catches Sora going after Tsunade. Sora retreats as Shizune and a few other ninja arrive, but Naruto pursues him. At that moment, a mysterious lightning storm strikes, cutting off power to the entire village.",
+            "number": "61",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/366327.jpg",
+            "airDate": "2008-07-03"
+        },
+        {
+            "id": "naruto-shippuden-episode-62",
+            "title": "Lockdown of Darkness",
+            "description": "With Konoha in complete darkness, the village struggles to defend against the four attackers who have sealed the entire village behind a barrier. The entire village is in a state of emergency. Asuma, commanded by Tsunade to follow Sora and Naruto, finally catches up to them. Asuma realizes that the four invaders plan to annihilate the entire village using the lightning powers of the corpses that they stole. The revelation shocks Sora. As Asuma leaves to help hold off the attackers, he instructs Naruto to continue pursuing Sora.",
+            "number": "62",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/370234.jpg",
+            "airDate": "2008-07-03"
         }]
 }
