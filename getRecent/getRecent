@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "kaiju-no-8",
+		"episodeId": "kaiju-no-8-episode-3",
+		"jname": "Kaijuu 8-gou",
+		"name": "Kaiju No.8",
+		"episodeNum": 12,
+		"sub": 3,
+		"dub": 3,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
+	},
+	{
 		"animeId": "naruto-shippuden",
 		"episodeId": "naruto-shippuden-episode-58",
 		"jname": "NARUTO: Shippuuden",
@@ -50,17 +61,6 @@
 		"sub": 12,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130003-OBj8AZKPvnV9.png"
-	},
-	{
-		"animeId": "kaiju-no-8",
-		"episodeId": "kaiju-no-8-episode-2",
-		"jname": "Kaijuu 8-gou",
-		"name": "Kaiju No.8",
-		"episodeNum": 12,
-		"sub": 2,
-		"dub": 2,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
 	},
 	{
 		"animeId": "haikyuu",
