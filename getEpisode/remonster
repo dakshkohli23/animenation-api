@@ -1,4 +1,4 @@
- [
+[
         {
             "server1": "6un1pdtxc1sp",
             "animeNameWithEP": "Re:Monster Episode 1",
@@ -19,6 +19,22 @@
             "server1": "3xi2fjyhppx3",
             "animeNameWithEP": "Re:Monster Episode 3",
             "ep_num": "3",
+            "anime_info": "remonster",
+            "movie_id": "1735",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "zh7sqdivm5r3",
+            "animeNameWithEP": "Re:Monster Episode 4",
+            "ep_num": "4",
+            "anime_info": "remonster",
+            "movie_id": "1735",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "micglh59byjn",
+            "animeNameWithEP": "Re:Monster Episode 5",
+            "ep_num": "5",
             "anime_info": "remonster",
             "movie_id": "1735",
             "subOrDub": "sub"
