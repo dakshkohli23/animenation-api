@@ -41,7 +41,7 @@
     "day": 29
   },
   "totalEpisodes": 12,
-  "currentEpisode": 2,
+  "currentEpisode": 3,
   "rating": 78,
   "duration": 24,
   "genres": [
@@ -738,6 +738,15 @@
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10364427/screencap/6620e1bb53ff9.jpg",
       "imageHash": "hash",
       "airDate": "April 20, 2024"
+    },
+    {
+      "id": "kaiju-no-8-episode-3",
+      "title": "Revenge Match",
+      "description": "Kafka arrives for one last shot at the Defense Force entry exam... but can he pass while keeping his Kaiju powers a secret?",
+      "number": 3,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10364428/screencap/662a32dbd4d2b.jpg",
+      "imageHash": "hash",
+      "airDate": "April 27, 2024"
     }
   ]
 }
