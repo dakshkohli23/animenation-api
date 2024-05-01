@@ -37,7 +37,7 @@
     "day": 18
   },
   "totalEpisodes": 12,
-  "currentEpisode": 3,
+  "currentEpisode": 5,
   "rating": 69,
   "duration": 24,
   "genres": [
@@ -654,6 +654,24 @@
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10405623/screencap/661b78372a015.jpg",
       "imageHash": "hash",
       "airDate": "April 19, 2024"
+    },
+    {
+      "id": "remonster-episode-4",
+      "title": "Re:Ject",
+      "description": "",
+      "number": 4,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405624/screencap/6624b52d538c4.jpg",
+      "imageHash": "hash",
+      "airDate": "April 26, 2024"
+    },
+    {
+      "id": "remonster-episode-5",
+      "title": "Re:Ady",
+      "description": "Gobrou interferes with a human plot to steal the daughter of the elven chieftain. As they continue to prepare for conflict to ensue in the woods, the villagers keep growing in strength and evolving into new forms.",
+      "number": 5,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405625/screencap/662ddddf5dede.jpg",
+      "imageHash": "hash",
+      "airDate": "May 3, 2024"
     }
   ]
 }
