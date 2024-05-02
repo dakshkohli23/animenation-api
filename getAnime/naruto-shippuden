@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 64,
+    "currentEpisode": 66,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2782,5 +2782,21 @@
             "number": "64",
             "image": "https://artworks.thetvdb.com/banners/episodes/79824/372285.jpg",
             "airDate": "2008-07-24"
+        },
+        {
+            "id": "naruto-shippuden-episode-65",
+            "title": "Moment of Awakening",
+            "description": "Naruto deduces that Fuuka's secret consists of switching bodies to use each corresponding element and that her hair preserves her youth and body. Naruto damages her hair and it takes a life of its own dispensing the body, but Naruto finally kills it with a Rasengan. Meanwhile, Asuma manages to break free of the electric barrier, catch up with Kitane and defeat him in a short fight. Realizing that Kitane is no more, and that his three other companions were killed, Furido causes the 3 other ninja guardians to disappear. But Furido has a back up plan, Sora.",
+            "number": "65",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/372286.jpg",
+            "airDate": "2008-07-31"
+        },
+        {
+            "id": "naruto-shippuden-episode-66",
+            "title": "Despair",
+            "description": "Furido releases Sora's seal, and tells him the truth: Sora is a pseudo-Jinchuuriki. The chakra that had leaked from the Nine Tailed Fox when it attacked Konoha 15 and a half years ago was harvested and implanted into Sora. Sora's father. Yamato, Sakura, Kiba, Lee, Ino, Choji and Shikamaru also turn up. Enraged, Sora wants to destroy everything, and turns into the Three-Tailed form of the Nine-tails. However, Yamato is unable to restrain him, because he does not have the First's necklace on him.",
+            "number": "66",
+            "image": "https://artworks.thetvdb.com/banners/episodes/79824/372287.jpg",
+            "airDate": "2008-07-31"
         }]
 }
