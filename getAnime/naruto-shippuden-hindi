@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 66,
+    "currentEpisode": 70,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2274,529 +2274,631 @@
     "episodes": [{
             "id": "naruto-shippuden-hindi-episode-1",
             "title": "Homecoming",
+            "Episode Title": "Homecoming ",
             "description": "An older and stronger Naruto returns from his two and a half years of training with Jiraiya. When he gets back he finds that many things have changed since he left. From Konohamaru becoming a Gennin and being under the supervision of Ebisu to Tsunade's, the Fifth Hokage, being added to the great stone faces. Now the tasks of starting things where they were left has begun. And what new danger does Jiraiya know about?\r\r\n",
             "number": "1",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/320623.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/320623.jpg",
             "airDate": "2007-02-15"
         },
         {
             "id": "naruto-shippuden-hindi-episode-2",
             "title": "The Akatsuki Makes Its Move",
+            "Episode Title": "The Akatsuki Makes Its Move",
             "description": "As Naruto gets back into the swing of things and meets back up with what is left of Team 7, Kakashi and Sakura, Jiraiya has something important to tell them. It seems a shinobi group known as Akatsuki is on the move. The things they are after are the tailed beasts like the one inside of Naruto, the Kyubi. Is Naruto prepared to defend himself from this group of Shinobi?\r\r\n",
             "number": "2",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/320624.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/320624.jpg",
             "airDate": "2007-02-15"
         },
         {
             "id": "naruto-shippuden-hindi-episode-3",
             "title": "The Results of Training",
+            "Episode Title": "The Results of Training",
             "description": "The bell test begins again while Tsunade, Jiraiya, and Shizune watch, but this time Kakashi is taking things seriously. So serious that he is using his Sharingan. Can Naruto and Sakura get the bells before the deadline? Meanwhile Gaara searches for the Akatsuki member that has invaded the village.\r\r\n",
             "number": "3",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/320625.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/320625.jpg",
             "airDate": "2007-02-22"
         },
         {
             "id": "naruto-shippuden-hindi-episode-4",
             "title": "The Jinchuriki of the Sand",
+            "Episode Title": "The Jinchūriki of the Sand",
             "description": "The bell test continues for Naruto and Sakura. Meanwhile Gaara discovers that the Akatsuki member, Deidara, has infiltrated the village. Now the battle begins between Gaara and Deidara. With Deidara after Shukaku which is sealed in Gaara, can the older and more powerful Gaara defeat this powerful foe?\r\r\n",
             "number": "4",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/320626.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/320626.jpg",
             "airDate": "2007-03-01"
         },
         {
             "id": "naruto-shippuden-hindi-episode-5",
             "title": "The Kazekage Stands Tall",
+            "Episode Title": "The Kazekage Stands Tall",
             "description": "Gaara and Deidara continue their fight with Gaara gaining the upper hand. Deidara then begins to attack the village and Gaara, the Kazekage, must protect it. Can Gaara defeat Deidara or is he playing right into his hands.\r\r\n",
             "number": "5",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/320628.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/320628.jpg",
             "airDate": "2007-03-15"
         },
         {
             "id": "naruto-shippuden-hindi-episode-6",
             "title": "Mission Cleared",
+            "Episode Title": "Mission Cleared",
             "description": "Deidara launches an attack on the village and Gaara must do his duty as Kazekage and protect it. However, Gaara's left himself wide open for an attack!",
             "number": "6",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/323113.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/323113.jpg",
             "airDate": "2007-03-29"
         },
         {
             "id": "naruto-shippuden-hindi-episode-7",
             "title": "Run, Kankuro",
+            "Episode Title": "Run, Kankurō",
             "description": "With Gaara captured and abducted, Kankuro goes after Deidara to get him back. However, his path is soon blocked by Sasori, whom doesn't plan on letting him pass.",
             "number": "7",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/323114.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/323114.jpg",
             "airDate": "2007-03-29"
         },
         {
             "id": "naruto-shippuden-hindi-episode-8",
             "title": "Team Kakashi, Deployed",
+            "Episode Title": "Team Kakashi, Deployed",
             "description": "With their leader abducted, the Hidden Sand Village requests assistance from Konoha. Tsunade sends Naruto, Sakura, and Kakashi out to help. Worried about her little brother, Temari tags along as well.",
             "number": "8",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/327595.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/327595.jpg",
             "airDate": "2007-04-12"
         },
         {
             "id": "naruto-shippuden-hindi-episode-9",
             "title": "The Jinchuriki's Tears",
+            "Episode Title": "The Jinchūriki's Tears",
             "description": "As the group travels to Hidden Sand Village, Naruto realizes that Sakura doesn't know why Akatsuki are after Gaara and himself. Has the time finally come to tell her the truth?",
             "number": "9",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/327596.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/327596.jpg",
             "airDate": "2007-04-12"
         },
         {
             "id": "naruto-shippuden-hindi-episode-10",
             "title": "Sealing Jutsu: Nine Phantom Dragons",
+            "Episode Title": "Sealing Technique: Phantom Dragons Nine Consuming Seals ",
             "description": "With Kankuro injured, Chiyo and Ebizou make an appearance in order to save his life. They try everything, but it's all in vain and Kankuro's condition is progressively getting worse. Meanwhile, Sasori and Deidara arrive at the Akatsuki hideout and begin extracting Shukaku from Gaara using a mysterious technique.",
             "number": "10",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/327597.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/327597.jpg",
             "airDate": "2007-04-19"
         },
         {
             "id": "naruto-shippuden-hindi-episode-11",
             "title": "The Medical Ninja's Student",
+            "Episode Title": "The Medical Ninja's Student",
             "description": "Upon arriving at the Sand Village's medical center, Kakashi is attacked by an elderly woman. Who is this woman and why is she attacking Kakashi? Meanwhile, Sakura does an examination on Kankuro and figures out that he's in bad shape. Can she use what Tsunade taught her in order to save Kankuro's life?",
             "number": "11",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/327598.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/327598.jpg",
             "airDate": "2007-04-26"
         },
         {
             "id": "naruto-shippuden-hindi-episode-12",
             "title": "The Retired Granny's Determination",
+            "Episode Title": "The Retired Granny's Determination",
             "description": "When Pakkun discovers the whereabouts of the Akatsuki's hideout, Kakashi orders Pakkun to find Gai and his team and lead them to the position. Meanwhile, Kakashi and his group decide to head out with Temari and other sand ninjas, but Chiyo decides to go in her place. Will this old woman help or hinder the mission?",
             "number": "12",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/328449.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/328449.jpg",
             "airDate": "2007-05-03"
         },
         {
             "id": "naruto-shippuden-hindi-episode-13",
             "title": "A Meeting With Destiny",
+            "Episode Title": "A Meeting With Destiny",
             "description": "While Gai's group must fight against Kisame in order to proceed, Kakashi's group is cut off by another familiar face...Itachi Uchiha! Kakashi and Naruto team up and face the legendary ninja, but will even that be enough?",
             "number": "13",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/328450.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/328450.jpg",
             "airDate": "2007-05-10"
         },
         {
             "id": "naruto-shippuden-hindi-episode-14",
             "title": "Naruto's Growth",
+            "Episode Title": "Naruto's Growth",
             "description": "While Gai, Lee, Tenten and Neji continue their battle against Kisame, Naruto and Kakashi work together to fight Itachi. But when Itachi puts Naruto in a genjutsu spell, can Naruto find a way to break free?",
             "number": "14",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/328451.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/328451.jpg",
             "airDate": "2007-05-17"
         },
         {
             "id": "naruto-shippuden-hindi-episode-15",
             "title": "The Secret Weapon is Called…",
+            "Episode Title": "The Secret Weapon is Called…",
             "description": "The fights against Itachi and Kisame finally come to an end, but are these the real Itachi and Kisame?",
             "number": "15",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/328452.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/328452.jpg",
             "airDate": "2007-05-24"
         },
         {
             "id": "naruto-shippuden-hindi-episode-16",
             "title": "The Secret of Jinchuriki",
+            "Episode Title": "The Secret of Jinchūriki",
             "description": "As the group draws closer to Akatsuki's hideout, Chiyo reveals some startling information about the Jinchuuriki. Naruto becomes more determined than ever to rescue Gaara, but is it too late to save him?",
             "number": "16",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/328453.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/328453.jpg",
             "airDate": "2007-05-31"
         },
         {
             "id": "naruto-shippuden-hindi-episode-17",
             "title": "The Death of Gaara!",
+            "Episode Title": "The Death of Gaara!",
             "description": "The group has finally arrived at the Akatsuki hideout, but is it already too late to save Gaara?",
             "number": "17",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/329899.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/329899.jpg",
             "airDate": "2007-06-07"
         },
         {
             "id": "naruto-shippuden-hindi-episode-18",
             "title": "Charge Tactic! Button Hook Entry!!",
+            "Episode Title": "Charge Tactic! Button Hook Entry",
             "description": "Knowing that Akatsuki's lair is protected by a powerful barrier, Kakashi and Gai decide that the teams must work together to dismantle the barrier.",
             "number": "18",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/330140.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/330140.jpg",
             "airDate": "2007-06-21"
         },
         {
             "id": "naruto-shippuden-hindi-episode-19",
             "title": "Traps Activate! Team Guy's Enemy",
+            "Episode Title": "Traps Activate! Team Guy's Enemies!",
             "description": "As Gai's team stays behind to fight a group of mysterious enemies, Kakashi's team enters the Akatsuki hideout, where Naruto makes an unhappy discovery.",
             "number": "19",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/330141.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/330141.jpg",
             "airDate": "2007-07-05"
         },
         {
             "id": "naruto-shippuden-hindi-episode-20",
             "title": "Hiruko vs. Two Kunoichi!",
+            "Episode Title": "Hiruko vs. Two Kunoichi!",
             "description": "Chiyo and Sakura team up to fight Sasori, but soon realize that if they get something even as small as scratch, it's all over. Can the two defeat this puppet master?",
             "number": "20",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/332019.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/332019.jpg",
             "airDate": "2007-07-19"
         },
         {
             "id": "naruto-shippuden-hindi-episode-21",
             "title": "Sasori's Real Face",
+            "Episode Title": "Sasori's Real Face",
             "description": "With his puppet destroyed, Sasori reveals himself to Chiyo and Sakura, looking no older than when he left his village twenty years ago. As a further bit of nostalgia, he produces a summoning scroll and calls forth the Third Kazekage, whom Sasori has made into a puppet. Using its weapons, which are even more dangerous than Hiruko's, Sasori is able to catch Sakura in a poison gas cloud. Meanwhile, Kankuro, Temari's team, and Ebizo make their way to the Akatsuki hideout.",
             "number": "21",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/332501.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/332501.jpg",
             "airDate": "2007-07-26"
         },
         {
             "id": "naruto-shippuden-hindi-episode-22",
             "title": "Chiyo's Secret Skills",
+            "Episode Title": "Chiyo's Secret Skills",
             "description": "Sakura manages to escape the poison gas cloud by using an explosive scroll on herself. Chiyo calls forth the \"Mother\" and \"Father\" puppets that Sasori created to fight him and the Third. They manage to hold down the Third for awhile until Sasori releases the Third's secret technique: Iron Sand. Meanwhile, Team Guy are having trouble fighting the clones and showing exhaustion from the battle. Naruto and Kakashi manage to avoid Deidara's clay bombs and keep up with him.",
             "number": "22",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/333121.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/333121.jpg",
             "airDate": "2007-08-02"
         },
         {
             "id": "naruto-shippuden-hindi-episode-23",
             "title": "Father and Mother",
+            "Episode Title": "Father and Mother ",
             "description": "The Iron Sand stops both puppets from moving. Chiyo's right arm (which she had turned into a puppet) gets clogged and broken as well. Chiyo thinks back to the past and remembers how Sasori created and controled his first puppets, Father and Mother. Sakura urges Chiyo to use her again as her puppet. With Chiyo's help, Sakura avoids the columns formed by the Iron Sand to attack her.",
             "number": "23",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/333122.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/333122.jpg",
             "airDate": "2007-08-02"
         },
         {
             "id": "naruto-shippuden-hindi-episode-24",
             "title": "The Third Kazekage",
+            "Episode Title": "The Third Kazekage ",
             "description": "Chiyo and Sakura must try and defeat Sasori's strongest puppet, the Third Kazekage.",
             "number": "24",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/333123.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/333123.jpg",
             "airDate": "2007-08-09"
         },
         {
             "id": "naruto-shippuden-hindi-episode-25",
             "title": "Three Minutes Between Life and Death",
+            "Episode Title": "Three Minutes Between Life and Death",
             "description": "Sakura has managed to destroy Sasori's strongest puppet, but he still has a few tricks up sleeve. And although Sakura's managed to avoid a fatal blow from the poison, she and Chiyo must defeat him in three minutes before the antidote wears off and they are vulnerable to Sasori's attacks. Can they defeat him in time?",
             "number": "25",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/333124.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/333124.jpg",
             "airDate": "2007-08-16"
         },
         {
             "id": "naruto-shippuden-hindi-episode-26",
             "title": "Puppet Fight: 10 vs. 100!",
+            "Episode Title": "Puppet Fight: 10 vs 100!",
             "description": "Chiyo uses her abilities as a master puppeteer to allow her to control ten puppets at once against Sasori. However, Sasori has gone a step ahead, and gained the ability to control one hundred puppets at once! Can Chiyo defeat the man who took down an entire country?",
             "number": "26",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/333125.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/333125.jpg",
             "airDate": "2007-08-23"
         },
         {
             "id": "naruto-shippuden-hindi-episode-27",
             "title": "Impossible Dream",
+            "Episode Title": "Impossible Dream",
             "description": "It's the final stand against Sasori, and Chiyo reveals the flaw in Sasori's \"immortality\". As Sasori breathes his last breaths, he rewards the two kunoichi for his defeat by providing them some valuable information. In ten days, they will have the opportunity to meet with one of his spies who can provide them with information on Orochimaru, and Sasuke as well.",
             "number": "27",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/333795.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/333795.jpg",
             "airDate": "2007-08-30"
         },
         {
             "id": "naruto-shippuden-hindi-episode-28",
             "title": "Beasts: Alive Again!",
+            "Episode Title": "Beasts! Alive Again!",
             "description": "As Kakashi and Naruto chase after Deidara, and Sakura and Chiyo rest from their fight with Sasori, Gai and his team continue to fight their doppelgangers. Things aren't looking good for the four as the doppelgangers remain at the same strength while Gai's team grows weaker. Can they finish things up, or will it be the end of the line for them?",
             "number": "28",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335155.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/335155.jpg",
             "airDate": "2007-09-13"
         },
         {
             "id": "naruto-shippuden-hindi-episode-29",
             "title": "Kakashi Enlightened!",
+            "Episode Title": "Kakashi Enlightened!",
             "description": "Kakashi unleashes his new Mangekyo Sharingan against Deidara, turning the tide of the battle in their favor, but when Naruto begins to act strangely, Kakashi sees him as the bigger threat.",
             "number": "29",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335156.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/335156.jpg",
             "airDate": "2007-09-27"
         },
         {
             "id": "naruto-shippuden-hindi-episode-30",
             "title": "Aesthetics of an Instant",
+            "Episode Title": "Aesthetics of an Instant!",
             "description": "Kakashi must act quickly to calm Naruto down before he releases too much of Kyubi's power. Meanwhile, Deidara is cornered by Gai's team, and when he realizes that he can't defeat them, he decides that the only way he'll die is he takes everyone else with him!",
             "number": "30",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335157.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/335157.jpg",
             "airDate": "2007-09-27"
         },
         {
             "id": "naruto-shippuden-hindi-episode-31",
-            "title": "An Unnecessary Addition",
-            "description": "Yamato takes temporary leadership of Team Kakashi while Sai insults both Naruto and Sakura. While preparing to set off, Sai receives an envelope from a Root shinobi containing secret orders from Danzo, and Sakura consults with Tsunade. Jiraiya then meets with Tsunade and Yamato in Kakashi's hospital room to brief Yamato on the demon fox within Naruto, detailing the \"demon fox's cloak\", and revealing a scar he got from Naruto when the fourth tail formed. Finally the new Team Kakashi set off on their new mission, to intercept an Akatsuki spy and gather information about Sasuke.",
+            "title": "The Legacy",
+            "Episode Title": "The Legacy!",
+            "description": "The new team Kakashi heads out for the Heaven and Earth bridge. Sai, Sakura, and Naruto come to blows after just 5 minutes on the same team due to Sai making fun of Sasuke. Therefore, Yamato decides they need to improve on teamwork and uses Mokuton to create a wooden cage threatening to lock the team up unless they behave. Given an ultimatum between being locked up or spending the night at a hot springs, the team chooses to visit the springs to improve team cohesion. Naruto still despises Sai despite this effort, and several insulting remarks from Sai worsen team relations.",
             "number": "31",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335566.jpg",
-            "airDate": "2007-11-22"
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/335567.jpg",
+            "airDate": "2007-11-29"
         },
         {
             "id": "naruto-shippuden-hindi-episode-32",
-            "title": "The Fake Smile",
-            "description": "The new team Kakashi heads out for the Heaven and Earth bridge. Sai, Sakura, and Naruto come to blows after just 5 minutes on the same team due to Sai making fun of Sasuke. Therefore, Yamato decides they need to improve on teamwork and uses Mokuton to create a wooden cage threatening to lock the team up unless they behave. Given an ultimatum between being locked up or spending the night at a hot springs, the team chooses to visit the springs to improve team cohesion. Naruto still despises Sai despite this effort, and several insulting remarks from Sai worsen team relations.",
+            "title": "Return of the Kazekage",
+            "Episode Title": "Return of the Kazekage",
+            "description": "Yamato takes temporary leadership of Team Kakashi while Sai insults both Naruto and Sakura. While preparing to set off, Sai receives an envelope from a Root shinobi containing secret orders from Danzo, and Sakura consults with Tsunade. Jiraiya then meets with Tsunade and Yamato in Kakashi's hospital room to brief Yamato on the demon fox within Naruto, detailing the \"demon fox's cloak\", and revealing a scar he got from Naruto when the fourth tail formed. Finally the new Team Kakashi set off on their new mission, to intercept an Akatsuki spy and gather information about Sasuke.",
             "number": "32",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335567.jpg",
-            "airDate": "2007-11-29"
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/335566.jpg",
+            "airDate": "2007-11-22"
         },
         {
             "id": "naruto-shippuden-hindi-episode-33",
-            "title": "Untitled",
-            "description": "Sakura sees Sai drawing by the river and finds out that Sai has artistic talent but has never given titles to anything he ever drew. Naruto and Sakura begin to realize the reason behind Sai's repulsive personality. After the hot springs, the team heads off to the bridge to meet the spy. Yamato is suspicious of traps so they go off the main road into the forest. Camping for the night, Yamato then creates a two story house by again using his Mokuton jutsu. Inside this house, the team formulates their plan.",
+            "title": "The New Target",
+            "Episode Title": "The New Target",
+            "description": "Naruto's been having nightmares about the release of the Nine-Tail's power. Afterward, Kakashi informs Naruto that he has special training for him that will make him strong quickly. They are cut off by Team 10, who have also come to visit. Sai lunches with them and, trying to make friends by using nicknames, angers Sakura by calling Ino \"gorgeous\" after concluding that women do not like to hear how they really are.",
             "number": "33",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335568.jpg",
-            "airDate": "2007-11-29"
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/357734.jpg",
+            "airDate": "2008-04-03"
         },
         {
             "id": "naruto-shippuden-hindi-episode-34",
-            "title": "Simulation",
-            "description": "Naruto is paired with Sai for the Buddy team of two, over his and Sakura's objections, while Sakura is assigned to support Yamato. Yamato conducts a simulation of the spy meeting with himself as the spy to gauge Naruto and Sai's abilities and teamwork. After Naruto makes a mistake when attacking Yamato, Sai immobilizes him and goes on to capture Yamato alone. Naruto is angry with Sai for not acting as a comrade would, but resolves to work together with him if doing so will help bring Sasuke back. Sai reveals to Sakura that he has no emotions, and little understanding of them. The group then prepares to head to the bridge.",
-            "number": "34",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/335569.jpg",
-            "airDate": "2007-12-06"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-35",
-            "title": "The Tenchi Bridge",
-            "description": "Yamato disguises himself as Sasori after creating a wood replica of Hiruko, and goes to meet the spy. The spy turns out to be Orochimaru's right-hand man, Kabuto Yakushi, who reveals the location of Orochimaru's current hideout to Yamato. Orochimaru interrupts the meeting, appearing to attack Kabuto, and while it initially appears that Orochimaru has come after Kabuto, Kabuto attacks Yamato and reveals that he is truly loyal to Orochimaru. Orochimaru calls out Naruto, Sakura and Sai from where they are hiding and observing the meeting, and prepares to fight the team.",
-            "number": "35",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/340183.jpg",
-            "airDate": "2007-12-13"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-36",
-            "title": "Nine-Tails Unleashed",
-            "description": "Immediately after Yamato signals Naruto and the others out to the bridge where Orochimaru and Kabuto are waiting, Naruto's chakra begins to boil with the chakra of the Nine-Tailed Fox. Slowly, Naruto grows more tails as Orochimaru taunts him and makes him even more angry. Meanwhile, Yamato remembers Jiraiya speaking of how many tails he has seen Naruto grow. Jiraiya explains more about what happened and more about how Naruto acts when he's in his Nine-Tails form.",
-            "number": "36",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/340184.jpg",
-            "airDate": "2007-12-20"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-37",
-            "title": "Return of the Kazekage",
-            "description": "Now that Gaara's been revived, the Hidden Sand Village slowly begins to return to normal. It's time for the ninja of Konoha to take their leave, and Naruto shows Gaara how friends say goodbye. Meanwhile, a mysterious ninja tries to join Akatsuki.",
-            "number": "37",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/340333.jpg",
-            "airDate": "2007-10-25"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-38",
-            "title": "The Legacy",
-            "description": "Gaara's body has finally been recovered, and Chiyo determines that there is only one way to save him. It's up to her and the entire village to prove to Gaara that he is loved, and Naruto shows Gaara that he does have a friend.",
-            "number": "38",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/342665.jpg",
-            "airDate": "2007-10-18"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-39",
-            "title": "The Top-Secret Mission Begins",
-            "description": "Naruto continues to get even more enraged and easily counters Kabuto's attack, flinging him away. Naruto's counter throws Kabuto into Sakura, knocking her unconscious. Orochimaru continues to watch Naruto become more enraged, eventually destroying the Bridge of Heaven and Earth. As the bridge collapses, Sakura slides off the edge. Sai draws a bird to fly, but chooses to follow Naruto and Orochimaru instead of saving Sakura. Yamato saves her at the last second, and creates a wood clone to catch up to the battle. Eventually the fourth tail appears, allowing the vile chakra to completely control Naruto's body, forming him into a miniature Nine-Tailed Fox.",
-            "number": "39",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/342938.jpg",
-            "airDate": "2007-12-20"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-40",
-            "title": "Orochimaru vs. Jinchuuriki",
-            "description": "Naruto, in the four-tailed state, begins attacking Orochimaru with incredible force, devastating the surrounding landscape and preventing Sai and Yamato's wood clone from approaching him. The majority of Orochimaru's attacks prove to be ineffective, but Naruto also fails to kill Orochimaru as he regenerates from any injuries he sustains. Meanwhile, Kabuto advances toward Sakura and Yamato, deducing that Sasori has died. Orochimaru finally manages to strike Naruto with a sword blade from his mouth, and Sakura reacts in horror when she sees Naruto's four-tailed state.",
-            "number": "40",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/342939.jpg",
-            "airDate": "2008-01-10"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-41",
-            "title": "Sakura's Tears",
-            "description": "Kabuto comments that Naruto's state is a consequence of his desperation to bring back Sasuke. Sakura begins to cry and approaches Naruto but is injured when his attention turns to her. Yamato uses the mokuton jutsu to bind Naruto before he does any more harm. Kabuto heals Sakura, reasoning that the Konoha ninja are not Orochimaru's enemies because they are also fighting Akatsuki. Yamato uses the abilities of the 1st Hokage to forcibly return Naruto to his normal state. Meanwhile Sai confronts Orochimaru with a message from Danzo. Orochimaru responds by piercing Sai with Kusanagi.",
-            "number": "41",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/342940.jpg",
-            "airDate": "2008-01-17"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-42",
-            "title": "The Secret of the Battle!",
-            "description": "Yamato uses the first Hokage's chakra to suppress the demon fox's chakra and Naruto returns to normal, but with severe injuries. Sakura begins to heal him, but notes that medical ninjutsu has little effect on his wounds. Orochimaru's sword is revealed to have only pierced one of Sai's clones. The real Sai emerges, talks to Orochimaru and gives him a letter from Danzo. Sai then leaves with Orochimaru and Kabuto but Yamato's wood clone stays close on their trail. Naruto comes to his senses and wonders what happened but Sakura decides not to tell him the truth. They reach the meeting spot, picking up the picture book Sai left behind. Yamato infers that Danzo seeks to destroy and remake Konoha by collaborating with Orochimaru.",
-            "number": "42",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/343709.jpg",
-            "airDate": "2008-01-24"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-43",
-            "title": "The Consequence of Betrayal",
-            "description": "Kabuto creates a fake corpse that resembles Sai, containing hidden traps to slow down Yamato's clone after sensing it. Naruto hasn't completely recovered from using the Demon Fox's chakra, and Yamato says that he will be left behind if he cannot keep up. Naruto is determined to finish his mission and not slow the team down. However Team Kakashi is forced to take a break when it's clear that Sakura has not fully recovered from her own injuries. Yamato then uses this opportunity to talk to Naruto alone and reveals to him that the one who hurt Sakura was Naruto himself. Naruto is shocked by what Yamato says to him.",
-            "number": "43",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/343710.jpg",
-            "airDate": "2008-01-31"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-44",
-            "title": "The Unfinished Page",
-            "description": "Naruto finally makes sense of the destruction he witnessed around him earlier. Yamato tells Naruto not to rely on the demon because Naruto is strong enough to withstand the demon's terrible chakra. Sai discovers the loss of his book while resting. Team Kakashi browse Sai's book, and they notice that the book (which can be read from both ends) contains different paths of two boys who meet in the middle. Each page has the boys fighting someone new, each time collecting the opponent's armor and weapons into the next page. The pages where the two boys would meet are unfinished. Orochimaru's group reach their base, not realizing that Yamato's wood clone trailed them there. Sai gets a glimpse of Sasuke's silhouette and eyes and discovers that he is the man Naruto and Sakura are looking for.",
-            "number": "44",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/347859.jpg",
-            "airDate": "2008-02-07"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-45",
-            "title": "Infiltration: The Den of the Snake!",
-            "description": "Sai receives a chilling glare from Sasuke's Sharingan that frightens him. Sai gives Orochimaru a bundle with information about Konoha's ANBU. Yamato gives Sakura and Naruto seeds with his chakra that enables him to track them inside the lair, and reveals that he was able to track Sai because he put a seed in Sai's clothing and food during the visit to the hot springs. Kabuto locks Sai in a room, and the boy summons a bingo book from scrolls he carries. Yamato uses a jutsu to open a tunnel into Orochimaru's hideout, and he, Naruto and Sakura travel to Sai's room undetected.",
-            "number": "45",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/347860.jpg",
-            "airDate": "2008-02-14"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-46",
-            "title": "Bonds",
-            "description": "Yamato and the team enter Sai's room and confront him while Kabuto makes his way there as well. Sai tells Team Kakashi that not only was he to help with Konoha's destruction but also act as a spy against Orochimaru. Yamato reveals the secret of \"Root\"- its members were trained like Kirigakure's students in that they had to kill their friends so as to eliminate their emotions. Sakura returns Sai's book to him, remarking that he still has emotions because he treasures it. Sai then tells the group about his bond with his brother. Finally the team decides what to do about Sai's betrayal outside the lair. In doing so, Naruto tells the group about his own bonds and about how far he's willing to go to bring Sasuke back.",
-            "number": "46",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/347861.jpg",
-            "airDate": "2008-02-28"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-47",
-            "title": "Something Important…",
-            "description": "Kabuto fights Team Kakashi and frees Sai. However, Sai, who intends to learn more about his bond with his brother through Naruto's bond with Sasuke, betrays him. Captured, Kabuto gives a vague description of Sasuke's location to the team. Leaving Yamato's wood clone to watch over Kabuto, Team Kakashi enters Orochimaru's hideout and splits up to find Sasuke.",
-            "number": "47",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/352889.jpg",
-            "airDate": "2008-03-06"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-48",
-            "title": "The Picture Book's Story",
-            "description": "As Team Kakashi continues their search for Sasuke, Naruto suddenly collapses due to his previous fight with Orochimaru. As Naruto wakes up, Sai begins to reveal more about his brother, but Orochimaru suddenly attacks them. Sakura and Yamato come to Naruto's aid against Orochimaru, while Sai continues the search. Just as Sai finds Sasuke, Yamato finds Sai's bingo book with Sasuke listed as a target for assassination.",
-            "number": "48",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/352890.jpg",
-            "airDate": "2008-03-13"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-49",
-            "title": "Reunion",
-            "description": "As Team Kakashi continues their search for Sasuke, Sai approaches Sasuke's room and awakens him. Shaken by the image of Sasuke's Sharingan from earlier, Sai attempts to restrain him. A large explosion occurs and Sakura, Naruto and Yamato catch up. At first Sakura tries to restrain Sai in order to find out his true objective, but she stops, stunned at seeing her former comrade. Contrary to what the rest of the team assumed to be his mission, Sai tells them that he wishes to bring Sasuke back to Konoha.",
-            "number": "49",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/352891.jpg",
-            "airDate": "2008-03-20"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-50",
-            "title": "The Power of the Uchiha",
-            "description": "Sasuke begins to attack Naruto, but Sai restrains him only for them both to be blown away by Sasuke's Chidori Nagashi. Sakura charges at Sasuke, but Yamato intervenes and winds up being stabbed by Sasuke's unique blade infused with his Chidori. The Nine-Tailed Fox tempts Naruto with its power, but he refuses it. Sasuke sees this using his Sharingan, appearing in Naruto's mind. The Nine-Tails says that Sasuke's chakra reminds him of Madara Uchiha, then Sasuke suppresses the Nine-Tailed Fox's chakra. Before the Nine-Tailed Fox returns to its cage, it warns Sasuke not to kill Naruto, saying that he will live to regret it forever.",
-            "number": "50",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/356330.jpg",
-            "airDate": "2008-03-20"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-51",
-            "title": "Title",
-            "description": "Orochimaru and Kabuto convince Sasuke to withdraw with them, and Naruto weeps over his failure to return Sasuke to the village, but Sakura reassures him that they will bring Sasuke back together. Naruto's team reports to Tsunade about the results of the mission, and Tsunade is greatly angered over Danzo's scheme, particularly his leaking classified information to further it. Sai asks Danzo to allow him to remain with Team Kakashi, and Danzo reluctantly agrees. Sai goes on a mission with his team, having come to see them as his friends.",
-            "number": "51",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/357733.jpg",
-            "airDate": "2008-04-03"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-52",
-            "title": "Nightmare",
-            "description": "Naruto's been having nightmares about the release of the Nine-Tail's power. Afterward, Kakashi informs Naruto that he has special training for him that will make him strong quickly. They are cut off by Team 10, who have also come to visit. Sai lunches with them and, trying to make friends by using nicknames, angers Sakura by calling Ino \"gorgeous\" after concluding that women do not like to hear how they really are.",
-            "number": "52",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/357734.jpg",
-            "airDate": "2008-04-03"
-        },
-        {
-            "id": "naruto-shippuden-hindi-episode-53",
-            "title": "Wind",
+            "title": "Formation! New Team Kakashi",
+            "Episode Title": "Formation! New Team Kakashi!",
             "description": "Kakashi is released from the hospital and begins Naruto's training program. Naruto learns that he has Wind-style chakra. Yamato helps by setting up the training field with his special jutsu. Naruto also learns that he can use his Multi Shadow Clone jutsu to speed up his training, since whatever the clones learn, the original user learns upon the clone's dispersal. Naruto and his mass of clones each take a leaf and attempt to slice it in half with wind chakra as the first step to creating his new jutsu.",
-            "number": "53",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/359325.jpg",
+            "number": "34",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/359325.jpg",
             "airDate": "2008-04-17"
         },
         {
+            "id": "naruto-shippuden-hindi-episode-35",
+            "title": "An Unnecessary Addition",
+            "Episode Title": "An Unnecessary Addition",
+            "description": "Sakura sees Sai drawing by the river and finds out that Sai has artistic talent but has never given titles to anything he ever drew. Naruto and Sakura begin to realize the reason behind Sai's repulsive personality. After the hot springs, the team heads off to the bridge to meet the spy. Yamato is suspicious of traps so they go off the main road into the forest. Camping for the night, Yamato then creates a two story house by again using his Mokuton jutsu. Inside this house, the team formulates their plan.",
+            "number": "35",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/335568.jpg",
+            "airDate": "2007-11-29"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-36",
+            "title": "The Fake Smile",
+            "Episode Title": "The Fake Smile",
+            "description": "Naruto is paired with Sai for the Buddy team of two, over his and Sakura's objections, while Sakura is assigned to support Yamato. Yamato conducts a simulation of the spy meeting with himself as the spy to gauge Naruto and Sai's abilities and teamwork. After Naruto makes a mistake when attacking Yamato, Sai immobilizes him and goes on to capture Yamato alone. Naruto is angry with Sai for not acting as a comrade would, but resolves to work together with him if doing so will help bring Sasuke back. Sai reveals to Sakura that he has no emotions, and little understanding of them. The group then prepares to head to the bridge.",
+            "number": "36",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/335569.jpg",
+            "airDate": "2007-12-06"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-37",
+            "title": "Untitled",
+            "Episode Title": "Untitled ",
+            "description": "Yamato disguises himself as Sasori after creating a wood replica of Hiruko, and goes to meet the spy. The spy turns out to be Orochimaru's right-hand man, Kabuto Yakushi, who reveals the location of Orochimaru's current hideout to Yamato. Orochimaru interrupts the meeting, appearing to attack Kabuto, and while it initially appears that Orochimaru has come after Kabuto, Kabuto attacks Yamato and reveals that he is truly loyal to Orochimaru. Orochimaru calls out Naruto, Sakura and Sai from where they are hiding and observing the meeting, and prepares to fight the team.",
+            "number": "37",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/340183.jpg",
+            "airDate": "2007-12-13"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-38",
+            "title": "Simulation",
+            "Episode Title": "Simulation",
+            "description": "Immediately after Yamato signals Naruto and the others out to the bridge where Orochimaru and Kabuto are waiting, Naruto's chakra begins to boil with the chakra of the Nine-Tailed Fox. Slowly, Naruto grows more tails as Orochimaru taunts him and makes him even more angry. Meanwhile, Yamato remembers Jiraiya speaking of how many tails he has seen Naruto grow. Jiraiya explains more about what happened and more about how Naruto acts when he's in his Nine-Tails form.",
+            "number": "38",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/340184.jpg",
+            "airDate": "2007-12-20"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-39",
+            "title": "The Tenchi Bridge",
+            "Episode Title": "The Tenchi Bridge ",
+            "description": "Now that Gaara's been revived, the Hidden Sand Village slowly begins to return to normal. It's time for the ninja of Konoha to take their leave, and Naruto shows Gaara how friends say goodbye. Meanwhile, a mysterious ninja tries to join Akatsuki.",
+            "number": "39",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/340333.jpg",
+            "airDate": "2007-10-25"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-40",
+            "title": "Nine-Tails Unleashed",
+            "Episode Title": "Nine-Tails Unleashed!",
+            "description": "Gaara's body has finally been recovered, and Chiyo determines that there is only one way to save him. It's up to her and the entire village to prove to Gaara that he is loved, and Naruto shows Gaara that he does have a friend.",
+            "number": "40",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/342665.jpg",
+            "airDate": "2007-10-18"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-41",
+            "title": "The Top-Secret Mission Begins",
+            "Episode Title": "The Top-Secret Mission Begins!",
+            "description": "Naruto continues to get even more enraged and easily counters Kabuto's attack, flinging him away. Naruto's counter throws Kabuto into Sakura, knocking her unconscious. Orochimaru continues to watch Naruto become more enraged, eventually destroying the Bridge of Heaven and Earth. As the bridge collapses, Sakura slides off the edge. Sai draws a bird to fly, but chooses to follow Naruto and Orochimaru instead of saving Sakura. Yamato saves her at the last second, and creates a wood clone to catch up to the battle. Eventually the fourth tail appears, allowing the vile chakra to completely control Naruto's body, forming him into a miniature Nine-Tailed Fox.",
+            "number": "41",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/342938.jpg",
+            "airDate": "2007-12-20"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-42",
+            "title": "Orochimaru vs. Jinchuuriki",
+            "Episode Title": "Orochimaru vs. Jinchūriki",
+            "description": "Naruto, in the four-tailed state, begins attacking Orochimaru with incredible force, devastating the surrounding landscape and preventing Sai and Yamato's wood clone from approaching him. The majority of Orochimaru's attacks prove to be ineffective, but Naruto also fails to kill Orochimaru as he regenerates from any injuries he sustains. Meanwhile, Kabuto advances toward Sakura and Yamato, deducing that Sasori has died. Orochimaru finally manages to strike Naruto with a sword blade from his mouth, and Sakura reacts in horror when she sees Naruto's four-tailed state.",
+            "number": "42",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/342939.jpg",
+            "airDate": "2008-01-10"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-43",
+            "title": "Sakura's Tears",
+            "Episode Title": "Sakura's Tears",
+            "description": "Kabuto comments that Naruto's state is a consequence of his desperation to bring back Sasuke. Sakura begins to cry and approaches Naruto but is injured when his attention turns to her. Yamato uses the mokuton jutsu to bind Naruto before he does any more harm. Kabuto heals Sakura, reasoning that the Konoha ninja are not Orochimaru's enemies because they are also fighting Akatsuki. Yamato uses the abilities of the 1st Hokage to forcibly return Naruto to his normal state. Meanwhile Sai confronts Orochimaru with a message from Danzo. Orochimaru responds by piercing Sai with Kusanagi.",
+            "number": "43",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/342940.jpg",
+            "airDate": "2008-01-17"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-44",
+            "title": "The Secret of the Battle!",
+            "Episode Title": "The Secret of the Battle",
+            "description": "Yamato uses the first Hokage's chakra to suppress the demon fox's chakra and Naruto returns to normal, but with severe injuries. Sakura begins to heal him, but notes that medical ninjutsu has little effect on his wounds. Orochimaru's sword is revealed to have only pierced one of Sai's clones. The real Sai emerges, talks to Orochimaru and gives him a letter from Danzo. Sai then leaves with Orochimaru and Kabuto but Yamato's wood clone stays close on their trail. Naruto comes to his senses and wonders what happened but Sakura decides not to tell him the truth. They reach the meeting spot, picking up the picture book Sai left behind. Yamato infers that Danzo seeks to destroy and remake Konoha by collaborating with Orochimaru.",
+            "number": "44",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/343709.jpg",
+            "airDate": "2008-01-24"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-45",
+            "title": "The Consequence of Betrayal",
+            "Episode Title": "The Consequences of Betrayal",
+            "description": "Kabuto creates a fake corpse that resembles Sai, containing hidden traps to slow down Yamato's clone after sensing it. Naruto hasn't completely recovered from using the Demon Fox's chakra, and Yamato says that he will be left behind if he cannot keep up. Naruto is determined to finish his mission and not slow the team down. However Team Kakashi is forced to take a break when it's clear that Sakura has not fully recovered from her own injuries. Yamato then uses this opportunity to talk to Naruto alone and reveals to him that the one who hurt Sakura was Naruto himself. Naruto is shocked by what Yamato says to him.",
+            "number": "45",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/343710.jpg",
+            "airDate": "2008-01-31"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-46",
+            "title": "The Unfinished Page",
+            "Episode Title": "The Unfinished Page",
+            "description": "Naruto finally makes sense of the destruction he witnessed around him earlier. Yamato tells Naruto not to rely on the demon because Naruto is strong enough to withstand the demon's terrible chakra. Sai discovers the loss of his book while resting. Team Kakashi browse Sai's book, and they notice that the book (which can be read from both ends) contains different paths of two boys who meet in the middle. Each page has the boys fighting someone new, each time collecting the opponent's armor and weapons into the next page. The pages where the two boys would meet are unfinished. Orochimaru's group reach their base, not realizing that Yamato's wood clone trailed them there. Sai gets a glimpse of Sasuke's silhouette and eyes and discovers that he is the man Naruto and Sakura are looking for.",
+            "number": "46",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/347859.jpg",
+            "airDate": "2008-02-07"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-47",
+            "title": "Infiltration: The Den of the Snake!",
+            "Episode Title": "Infiltration: The Den of the Snake!",
+            "description": "Sai receives a chilling glare from Sasuke's Sharingan that frightens him. Sai gives Orochimaru a bundle with information about Konoha's ANBU. Yamato gives Sakura and Naruto seeds with his chakra that enables him to track them inside the lair, and reveals that he was able to track Sai because he put a seed in Sai's clothing and food during the visit to the hot springs. Kabuto locks Sai in a room, and the boy summons a bingo book from scrolls he carries. Yamato uses a jutsu to open a tunnel into Orochimaru's hideout, and he, Naruto and Sakura travel to Sai's room undetected.",
+            "number": "47",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/347860.jpg",
+            "airDate": "2008-02-14"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-48",
+            "title": "Bonds",
+            "Episode Title": "Bonds",
+            "description": "Yamato and the team enter Sai's room and confront him while Kabuto makes his way there as well. Sai tells Team Kakashi that not only was he to help with Konoha's destruction but also act as a spy against Orochimaru. Yamato reveals the secret of \"Root\"- its members were trained like Kirigakure's students in that they had to kill their friends so as to eliminate their emotions. Sakura returns Sai's book to him, remarking that he still has emotions because he treasures it. Sai then tells the group about his bond with his brother. Finally the team decides what to do about Sai's betrayal outside the lair. In doing so, Naruto tells the group about his own bonds and about how far he's willing to go to bring Sasuke back.",
+            "number": "48",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/347861.jpg",
+            "airDate": "2008-02-28"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-49",
+            "title": "Something Important…",
+            "Episode Title": "Something Important…",
+            "description": "Kabuto fights Team Kakashi and frees Sai. However, Sai, who intends to learn more about his bond with his brother through Naruto's bond with Sasuke, betrays him. Captured, Kabuto gives a vague description of Sasuke's location to the team. Leaving Yamato's wood clone to watch over Kabuto, Team Kakashi enters Orochimaru's hideout and splits up to find Sasuke.",
+            "number": "49",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/352889.jpg",
+            "airDate": "2008-03-06"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-50",
+            "title": "The Picture Book's Story",
+            "Episode Title": "The Picture Book's Story",
+            "description": "As Team Kakashi continues their search for Sasuke, Naruto suddenly collapses due to his previous fight with Orochimaru. As Naruto wakes up, Sai begins to reveal more about his brother, but Orochimaru suddenly attacks them. Sakura and Yamato come to Naruto's aid against Orochimaru, while Sai continues the search. Just as Sai finds Sasuke, Yamato finds Sai's bingo book with Sasuke listed as a target for assassination.",
+            "number": "50",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/352890.jpg",
+            "airDate": "2008-03-13"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-51",
+            "title": "Reunion",
+            "Episode Title": "Reunion ",
+            "description": "As Team Kakashi continues their search for Sasuke, Sai approaches Sasuke's room and awakens him. Shaken by the image of Sasuke's Sharingan from earlier, Sai attempts to restrain him. A large explosion occurs and Sakura, Naruto and Yamato catch up. At first Sakura tries to restrain Sai in order to find out his true objective, but she stops, stunned at seeing her former comrade. Contrary to what the rest of the team assumed to be his mission, Sai tells them that he wishes to bring Sasuke back to Konoha.",
+            "number": "51",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/352891.jpg",
+            "airDate": "2008-03-20"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-52",
+            "title": "The Power of the Uchiha",
+            "Episode Title": "The Power of the Uchiha",
+            "description": "Sasuke begins to attack Naruto, but Sai restrains him only for them both to be blown away by Sasuke's Chidori Nagashi. Sakura charges at Sasuke, but Yamato intervenes and winds up being stabbed by Sasuke's unique blade infused with his Chidori. The Nine-Tailed Fox tempts Naruto with its power, but he refuses it. Sasuke sees this using his Sharingan, appearing in Naruto's mind. The Nine-Tails says that Sasuke's chakra reminds him of Madara Uchiha, then Sasuke suppresses the Nine-Tailed Fox's chakra. Before the Nine-Tailed Fox returns to its cage, it warns Sasuke not to kill Naruto, saying that he will live to regret it forever.",
+            "number": "52",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/356330.jpg",
+            "airDate": "2008-03-20"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-53",
+            "title": "The Leaves Sprout",
+            "Episode Title": "Title ",
+            "description": "Orochimaru and Kabuto convince Sasuke to withdraw with them, and Naruto weeps over his failure to return Sasuke to the village, but Sakura reassures him that they will bring Sasuke back together. Naruto's team reports to Tsunade about the results of the mission, and Tsunade is greatly angered over Danzo's scheme, particularly his leaking classified information to further it. Sai asks Danzo to allow him to remain with Team Kakashi, and Danzo reluctantly agrees. Sai goes on a mission with his team, having come to see them as his friends.",
+            "number": "53",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/357733.jpg",
+            "airDate": "2008-04-03"
+        },
+        {
             "id": "naruto-shippuden-hindi-episode-54",
-            "title": "Squirming",
+            "title": "Nightmare",
+            "Episode Title": "Nightmare",
             "description": "Naruto and his clones continue to work on chakra nature manipulation by slicing leaves. After some struggling, Naruto approaches Asuma, who is also a wind type, for advice, after which Asuma gives Naruto's clone a few pointers. Naruto is subsequently able to slice a leaf in half. Asuma and Yamato head out with their teams on new missions. It is revealed that Asuma is the Third Hokage's son and that he is in a relationship with Kurenai. Meanwhile, on a hill overlooking a burnt village, four cloaked figures discuss the awakening of the Fire Country by eliminating the Leaf Village.",
             "number": "54",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/359485.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/359485.jpg",
             "airDate": "2008-04-24"
         },
         {
             "id": "naruto-shippuden-hindi-episode-55",
-            "title": "Robbed of Sleep",
+            "title": "Wind",
+            "Episode Title": "Wind ",
             "description": "Naruto, Sakura, Sai and Yamato head out for a new mission near the Fire Temple. When the other party fails to show up at the rendezvous point, the team gets separated and Naruto stumbles upon one of the four hidden tombs they came to protect. Due to a misunderstanding, he fights one of the monks-in-training from the Fire Temple, Sora, who also uses wind chakra based techniques. After the confusion, the monks and Team Kakashi travel to the Fire Temple, and Naruto recognizes it from his nightmare.",
             "number": "55",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/359486.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/359486.jpg",
             "airDate": "2008-05-08"
         },
         {
             "id": "naruto-shippuden-hindi-episode-56",
-            "title": "Loneliness",
+            "title": "Squirming",
+            "Episode Title": "Writhe",
             "description": "The temple monks explain that the tombs hold the loyal bodyguards of Fire Country's feudal lord. Naruto observes Sora sparring with other monks and becomes offended upon realizing he is holding back. Naruto challenges Sora, but just as the matter is about to get serious, another monk stops him. Naruto realizes Sora is despised by the other monks as he was himself and wishes to befriend him. Naruto visits Sora again and observes him practicing his wind jutsu in earnest, hoping to get strong enough to avenge his father. They later return to the temple to receive news that another tomb has been robbed.",
             "number": "56",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/363099.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/363099.jpg",
             "airDate": "2008-05-08"
         },
         {
             "id": "naruto-shippuden-hindi-episode-57",
-            "title": "A New Enemy",
+            "title": "Robbed of Sleep",
+            "Episode Title": "Robbed of Sleep",
             "description": "Tsunade suspects that Danzou is plotting something and orders an investigation of him. Team Kakashi, Chiriku and Sora notice the coffins moving on their own, but fail to intercept them. The coffins emerge on a cliff, where the leader of the enemy ninja orders his subordinates to deal with their foes. The ninjas turn the area into a maze of rocky canyons and pits, full of deadly traps. The team members are separated from each other, and begin facing off against the enemy. Yamato speculates that the ninja may have orchestrated the theft in order to target someone on his team.",
             "number": "57",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/366323.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/366323.jpg",
             "airDate": "2008-05-15"
         },
         {
             "id": "naruto-shippuden-hindi-episode-58",
-            "title": "Vicissitudes of Life",
+            "title": "Loneliness",
+            "Episode Title": "Loneliness",
             "description": "Team Kakashi begins facing off against the enemy shinobi. Yamato eludes his opponent, Fudo, by faking his death. Sora, unwilling to look for Naruto, goes off on his own. Back in Konoha, Danzo reveals that he is aware that he is being watched by Tsunade's ANBU. Naruto fights Fūka, whose kiss is fatal and shows her ability to use earth, fire, water and lightning jutsus. Sai manages to escape from his attacker, Fuen, and later saves Sakura from an enormous spider, becoming injured in the process. Sora then hits upon the enemy leader, Furido, and it is revealed that he was the group's target.",
             "number": "58",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/366324.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/366324.jpg",
             "airDate": "2008-05-22"
         },
         {
             "id": "naruto-shippuden-hindi-episode-59",
-            "title": "Teammate",
+            "title": "A New Enemy",
+            "Episode Title": "A New Enemy",
             "description": "Asuma's team returns from its mission. Team Kakashi returns to Konoha as well, with Sora replacing Sai on the team. Naruto tries to show Sora around Konoha but Sora goes his own way. Sora's insults precipitate a brawl with Kiba and Choji, with Naruto and Rock Lee joining in. Shikamaru and Asuma stop the fight. Later Asuma tells Sora he knew Sora's father, who is revealed as one of the Guardians involved in the coup attempt. He also shows Sora his chakra blade attack. Furido and the other body snatchers begin their attack on the Kohaku Clan.",
             "number": "59",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/366325.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/366325.jpg",
             "airDate": "2008-06-05"
         },
         {
             "id": "naruto-shippuden-hindi-episode-60",
-            "title": "The Two Kings",
+            "title": "Vicissitudes of Life",
+            "Episode Title": "Impermanence",
             "description": "Asuma supervises Naruto and Sora's wind chakra training, and notices that Sora, like Naruto, has very powerful chakra. Tsunade and Yamato learn from Chiriku that Sora was inadvertently responsible for an incident in which the Temple of Fire was destroyed. Later, Asuma gives Sora a claw made from the same materials as his chakra blades. It is revealed that Asuma killed Sora's father Kazuma, who had planned to kill the Hokage. Furido then approaches Sora, telling him that Asuma is responsible for his father's death and passing him two \"king\" pieces from a Shogi set for Asuma. Danzo mysteriously disappears. Naruto approaches a furious Sora in the training grounds, who easily throws a chakra-powered kunai through a tree and destroys the stone behind it.",
             "number": "60",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/366326.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/366326.jpg",
             "airDate": "2008-06-19"
         },
         {
             "id": "naruto-shippuden-hindi-episode-61",
-            "title": "The Jet-Black Signal Fire",
-            "description": "Danzou is brought in for questioning after being caught meeting with a young Rain ninja. Sora confronts Asuma, and Asuma admits to having killed Kazuma. He attacks Asuma, his arm once again assuming a demonic form. Afterward, Naruto gets injured while shielding Sora from the attacks of an unknown individual, presumably from Root. Furido then approaches Sora, telling him to kill both Asuma and the Hokage to avenge his father. Later on, Naruto catches Sora going after Tsunade. Sora retreats as Shizune and a few other ninja arrive, but Naruto pursues him. At that moment, a mysterious lightning storm strikes, cutting off power to the entire village.",
+            "title": "Contact",
+            "Episode Title": "Contact",
+            "description": "The second stage of Naruto's training continues, while Tsunade sends out twenty teams composed of four ninja each to deal with the Akatsuki members in the Fire Country. Shikamaru leaves with Asuma, Izumo and Kotetsu, whereas Ino and Choji leave with Raido and Aoba. After putting in considerable effort, Naruto clears the second stage of his training, but collapses from hunger and exhaustion almost immediately afterward.",
             "number": "61",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/366327.jpg",
-            "airDate": "2008-07-03"
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/380332.jpg",
+            "airDate": "2008-09-04"
         },
         {
             "id": "naruto-shippuden-hindi-episode-62",
-            "title": "Lockdown of Darkness",
-            "description": "With Konoha in complete darkness, the village struggles to defend against the four attackers who have sealed the entire village behind a barrier. The entire village is in a state of emergency. Asuma, commanded by Tsunade to follow Sora and Naruto, finally catches up to them. Asuma realizes that the four invaders plan to annihilate the entire village using the lightning powers of the corpses that they stole. The revelation shocks Sora. As Asuma leaves to help hold off the attackers, he instructs Naruto to continue pursuing Sora.",
+            "title": "Teammate",
+            "Episode Title": "Teammate",
+            "description": "Danzou is brought in for questioning after being caught meeting with a young Rain ninja. Sora confronts Asuma, and Asuma admits to having killed Kazuma. He attacks Asuma, his arm once again assuming a demonic form. Afterward, Naruto gets injured while shielding Sora from the attacks of an unknown individual, presumably from Root. Furido then approaches Sora, telling him to kill both Asuma and the Hokage to avenge his father. Later on, Naruto catches Sora going after Tsunade. Sora retreats as Shizune and a few other ninja arrive, but Naruto pursues him. At that moment, a mysterious lightning storm strikes, cutting off power to the entire village.",
             "number": "62",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/370234.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/366327.jpg",
             "airDate": "2008-07-03"
         },
         {
             "id": "naruto-shippuden-hindi-episode-63",
-            "title": "Revived Souls",
-            "description": "Konoha's ninja fight off the revived zombie members of the Kohaku clan. The four Guardian Ninjas, Seito, Tōu, Nauma and Kitane, are also revived. Asuma realizes that they are planning to use Limelight, a jutsu in which the four create a lightning blast powerful enough to destroy Konoha. Asuma sends Sakura and Yamato after the other three while he remains behind to battle Kitane, but Fuen tackles Sakura and Fudo fights Yamato. Meanwhile, Naruto catches up to Sora, but Sora runs off in search of Furido. Naruto tries to pursue him, but is assailed by Fuuka. Soon after, Sora reaches Furido, who admits that he had planned to destroy Konoha.",
+            "title": "The Two Kings",
+            "Episode Title": "The Two Kings",
+            "description": "With Konoha in complete darkness, the village struggles to defend against the four attackers who have sealed the entire village behind a barrier. The entire village is in a state of emergency. Asuma, commanded by Tsunade to follow Sora and Naruto, finally catches up to them. Asuma realizes that the four invaders plan to annihilate the entire village using the lightning powers of the corpses that they stole. The revelation shocks Sora. As Asuma leaves to help hold off the attackers, he instructs Naruto to continue pursuing Sora.",
             "number": "63",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/370235.jpg",
-            "airDate": "2008-07-10"
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/370234.jpg",
+            "airDate": "2008-07-03"
         },
         {
             "id": "naruto-shippuden-hindi-episode-64",
-            "title": "Everyone's Struggle to the Death",
-            "description": "Sora refuses to let Furido destroy the village despite his grudge against Asuma and the Hokage. He is beaten up by Furido, who claims that his father had a similar flaw. Asuma gets trapped by Kitane in a force field of lightning. Meanwhile, Yamato and Sakura kill their opponents, and Shikamaru heads to the battlefield with a plan to defeat the zombies. Just as he puts it into motion, however, Fuen's barrier falls and Fudo's revival technique ends, and the zombies turn to dust.",
+            "title": "The Jet-Black Signal Fire",
+            "Episode Title": "The Jet-Black Signal Fire",
+            "description": "Konoha's ninja fight off the revived zombie members of the Kohaku clan. The four Guardian Ninjas, Seito, Tōu, Nauma and Kitane, are also revived. Asuma realizes that they are planning to use Limelight, a jutsu in which the four create a lightning blast powerful enough to destroy Konoha. Asuma sends Sakura and Yamato after the other three while he remains behind to battle Kitane, but Fuen tackles Sakura and Fudo fights Yamato. Meanwhile, Naruto catches up to Sora, but Sora runs off in search of Furido. Naruto tries to pursue him, but is assailed by Fuuka. Soon after, Sora reaches Furido, who admits that he had planned to destroy Konoha.",
             "number": "64",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/372285.jpg",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/370235.jpg",
+            "airDate": "2008-07-10"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-65",
+            "title": "Lockdown of Darkness",
+            "Episode Title": "Lockdown of Darkness",
+            "description": "Sora refuses to let Furido destroy the village despite his grudge against Asuma and the Hokage. He is beaten up by Furido, who claims that his father had a similar flaw. Asuma gets trapped by Kitane in a force field of lightning. Meanwhile, Yamato and Sakura kill their opponents, and Shikamaru heads to the battlefield with a plan to defeat the zombies. Just as he puts it into motion, however, Fuen's barrier falls and Fudo's revival technique ends, and the zombies turn to dust.",
+            "number": "65",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/372285.jpg",
             "airDate": "2008-07-24"
         },
         {
-            "id": "naruto-shippuden-episode-65",
-            "title": "Moment of Awakening",
+            "id": "naruto-shippuden-hindi-episode-66",
+            "title": "Revived Souls",
+            "Episode Title": "Revived Souls",
             "description": "Naruto deduces that Fuuka's secret consists of switching bodies to use each corresponding element and that her hair preserves her youth and body. Naruto damages her hair and it takes a life of its own dispensing the body, but Naruto finally kills it with a Rasengan. Meanwhile, Asuma manages to break free of the electric barrier, catch up with Kitane and defeat him in a short fight. Realizing that Kitane is no more, and that his three other companions were killed, Furido causes the 3 other ninja guardians to disappear. But Furido has a back up plan, Sora.",
-            "number": "65",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/372286.jpg",
+            "number": "66",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/372286.jpg",
             "airDate": "2008-07-31"
         },
         {
-            "id": "naruto-shippuden-episode-66",
-            "title": "Despair",
+            "id": "naruto-shippuden-hindi-episode-67",
+            "title": "Everyone's Struggle to the Death",
+            "Episode Title": "Everyone's Struggle to the Death",
             "description": "Furido releases Sora's seal, and tells him the truth: Sora is a pseudo-Jinchuuriki. The chakra that had leaked from the Nine Tailed Fox when it attacked Konoha 15 and a half years ago was harvested and implanted into Sora. Sora's father. Yamato, Sakura, Kiba, Lee, Ino, Choji and Shikamaru also turn up. Enraged, Sora wants to destroy everything, and turns into the Three-Tailed form of the Nine-tails. However, Yamato is unable to restrain him, because he does not have the First's necklace on him.",
-            "number": "66",
-            "image": "https://artworks.thetvdb.com/banners/episodes/79824/372287.jpg",
+            "number": "67",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/372287.jpg",
             "airDate": "2008-07-31"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-68",
+            "title": "Moment of Awakening",
+            "Episode Title": "Moment of Awakening",
+            "description": "The chakra of the Nine-tails rages out of control within Sora, preventing Naruto and the others from subduing him. Asuma and Kazuma resume their old battle, while Kazuma justifies his actions with his duty as a pawn to the \"King\" of the Fire Country. Naruto is repeatedly knocked down in his attempts to restrain Sora, and the chakra seeps into him and transforms him as well. Yamato is unable to suppress the Nine-tails' chakra in both Jinchūriki, being prevented by an unknown outside force. Sora's fourth tail emerges, causing the Nine-tails's Cloak to envelop his body. He temporarily gains his own consciousness when he witnesses Naruto stab himself in the leg and successfully prevent the original Nine-tails' Cloak from emerging.",
+            "number": "68",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/376851.jpg",
+            "airDate": "2008-08-07"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-69",
+            "title": "Despair",
+            "Episode Title": "Despair",
+            "description": "The struggle between Naruto and Sora continues. Asuma and Kazuma fight. Sai arrives, having snuck out of hospital, and binds Kazuma with an ink snake. Kazuma breaks out of Sai's jutsu and charges Asuma, but is killed. Naruto eventually reaches Sora, who manages to release the Nine Tails's chakra. Sora then leaves the village to travel the world. Asuma and Shikamaru play shogi and discuss who the king of Konoha is. Elsewhere, two Akatsuki members, Hidan and Kakuzu, appear chasing the Two Tails Jinchūriki.",
+            "number": "69",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/377959.jpg",
+            "airDate": "2008-08-14"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-70",
+            "title": "Resonance",
+            "Episode Title": "Resonance ",
+            "description": "Asuma apologizes at the grave of the Third Hokage for not understanding his advice concerning what the \"king\" of the Fire Country is. At the hospital, Naruto and Sai recover, despite Naruto's desire to resume his training. Tsunade receives a report from Kakashi that Akatsuki is on the move. Elsewhere, Yugito Nii, the Two Tails Jinchūriki, struggles against Hidan and Kakuzu and unleashes the Two Tails, but is defeated and captured. Hidan and Kakuzu then turn their attention to the Fire Country for their next target.",
+            "number": "70",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/377960.jpg",
+            "airDate": "2008-08-21"
         }]
 }
