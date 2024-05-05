@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 47,
-    "currentEpisode": 47,
+    "totalEpisodes": 48,
+    "currentEpisode": 48,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1038,6 +1038,13 @@
             "description": "",
             "number": "47",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10437494/screencap/66222d3314d9c.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-48",
+            "title": "Shine! The Glimmer of Fire and Art",
+            "description": "",
+            "number": "48",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10445888/screencap/663504175d56d.jpg"
         }
     ]
 }
