@@ -1,5 +1,26 @@
 [
 	{
+		"animeId": "kaiju-no-8",
+		"episodeId": "kaiju-no-8-episode-4",
+		"jname": "Kaijuu 8-gou",
+		"name": "Kaiju No.8",
+		"episodeNum": 12,
+		"sub": 4,
+		"dub": 4,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
+	},
+	{
+		"animeId": "wind-breaker",
+		"episodeId": "wind-breaker-episode-5",
+		"jname": "WIND BREAKER",
+		"name": "WIND BREAKER",
+		"episodeNum": 13,
+		"sub": 5,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg"
+	},
+	{
 		"animeId": "naruto-shippuden",
 		"episodeId": "naruto-shippuden-episode-70",
 		"jname": "NARUTO: Shippuuden",
@@ -40,27 +61,6 @@
 		"sub": 4,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151380-gvN5PjrybTw2.jpg"
-	},
-	{
-		"animeId": "kaiju-no-8",
-		"episodeId": "kaiju-no-8-episode-3",
-		"jname": "Kaijuu 8-gou",
-		"name": "Kaiju No.8",
-		"episodeNum": 12,
-		"sub": 3,
-		"dub": 3,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
-	},
-	{
-		"animeId": "wind-breaker",
-		"episodeId": "wind-breaker-episode-4",
-		"jname": "WIND BREAKER",
-		"name": "WIND BREAKER",
-		"episodeNum": 13,
-		"sub": 4,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg"
 	},
 	{
 		"animeId": "bocchi-the-rock",
