@@ -41,7 +41,7 @@
     "day": 28
   },
   "totalEpisodes": 13,
-  "currentEpisode": 4,
+  "currentEpisode": 5,
   "rating": 77,
   "duration": 24,
   "genres": [
@@ -438,6 +438,15 @@
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10378864/screencap/66292ec0d6834.jpg",
       "imageHash": "hash",
       "airDate": "April 26, 2024"
+    },
+    {
+      "id": "wind-breaker-episode-5",
+      "title": "A GENTLEMAN",
+      "description": "'That’s why I'm going to take all of Furin…and you for myself!' declares Shishitoren's leader, Choji Tomiyama, as he makes his way onto Furin High School grounds. Finally, it's a one-on-one showdown between Bofurin and Shishitoren!",
+      "number": 5,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10378865/screencap/663412e44ed83.jpg",
+      "imageHash": "hash",
+      "airDate": "May 3, 2024"
     }
   ]
 }
