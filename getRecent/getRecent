@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "naruto-shippuden",
+		"episodeId": "naruto-shippuden-episode-70",
+		"jname": "NARUTO: Shippuuden",
+		"name": "Naruto: Shippuden",
+		"episodeNum": 500,
+		"sub": 70,
+		"dub": 70,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
+	},
+	{
 		"animeId": "pokemon-horizons-the-series",
 		"episodeId": "pokemon-horizons-the-series-episode-48",
 		"jname": "Pocket Monsters (2023)",
@@ -9,17 +20,6 @@
 		"dub": 28,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
-	},
-	{
-		"animeId": "naruto-shippuden",
-		"episodeId": "naruto-shippuden-episode-66",
-		"jname": "NARUTO: Shippuuden",
-		"name": "Naruto: Shippuden",
-		"episodeNum": 500,
-		"sub": 66,
-		"dub": 66,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
 	},
 	{
 		"animeId": "remonster",
