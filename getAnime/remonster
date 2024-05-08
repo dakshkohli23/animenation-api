@@ -37,7 +37,7 @@
     "day": 18
   },
   "totalEpisodes": 12,
-  "currentEpisode": 5,
+  "currentEpisode": 6,
   "rating": 69,
   "duration": 24,
   "genres": [
@@ -672,6 +672,15 @@
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10405625/screencap/662ddddf5dede.jpg",
       "imageHash": "hash",
       "airDate": "May 3, 2024"
+    },
+    {
+      "id": "remonster-episode-6",
+      "title": "Re:Medy",
+      "description": "The human army finally advances on the Kudel Woods, and the Parabellum Mercenary company goes to meet them. Their training, power, and most importantly tactics are put to the test against organized forces of humans.",
+      "number": 6,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405626/screencap/663725e455d48.jpg",
+      "imageHash": "hash",
+      "airDate": "May 10, 2024"
     }
   ]
 }
