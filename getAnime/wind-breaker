@@ -41,7 +41,7 @@
     "day": 28
   },
   "totalEpisodes": 13,
-  "currentEpisode": 5,
+  "currentEpisode": 6,
   "rating": 77,
   "duration": 24,
   "genres": [
@@ -447,6 +447,15 @@
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10378865/screencap/663412e44ed83.jpg",
       "imageHash": "hash",
       "airDate": "May 3, 2024"
+    },
+    {
+      "id": "wind-breaker-episode-6",
+      "title": "VOW TO FOLLOW",
+      "description": "Tomiyama and Togame, far from worrying about their teammate who lost the battle, expel him from their team. While this peculiar spectacle shakes Sakura and the rest, Suo becomes unexpectedly emotional and wins against Minoru Kanuma, earning another win for Bofurin.",
+      "number": 6,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10378866/screencap/663bf21abf756.jpg",
+      "imageHash": "hash",
+      "airDate": "May 10, 2024"
     }
   ]
 }
