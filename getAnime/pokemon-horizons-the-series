@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 48,
-    "currentEpisode": 48,
+    "totalEpisodes": 49,
+    "currentEpisode": 49,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1045,6 +1045,13 @@
             "description": "",
             "number": "48",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10445888/screencap/663504175d56d.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-49",
+            "title": "Dot & Nidothing",
+            "description": "",
+            "number": "49",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10445889/screencap/663ebf239baaf.jpg"
         }
     ]
 }
