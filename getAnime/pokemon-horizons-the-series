@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 49,
-    "currentEpisode": 49,
+    "totalEpisodes": 50,
+    "currentEpisode": 50,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1052,6 +1052,13 @@
             "description": "",
             "number": "49",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10445889/screencap/663ebf239baaf.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-50",
+            "title": "Terastallize for Social Media! Dance Dance Quaxly!!",
+            "description": "",
+            "number": "50",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10461636/screencap/664820a91f5e6.jpg"
         }
     ]
 }
