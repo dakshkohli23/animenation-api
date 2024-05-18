@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 70,
+    "currentEpisode": 74,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2900,5 +2900,41 @@
             "number": "70",
             "image": "https://artworks.thetvdb.com/banners/episode/79824/377960.jpg",
             "airDate": "2008-08-21"
+        },
+        {
+            "id": "naruto-shippuden-episode-71",
+            "title": "My Friend",
+            "Episode Title": "My Friend",
+            "description": "Naruto proceeds to the next step of his training, the cutting of a waterfall. Hidan and Kakuzu reach the Fire Temple and fight Chiriku, so as to obtain the bounty on his head. After defeating him, they move out to claim the bounty and thereafter target the Nine Tails Jinchūriki Naruto.",
+            "number": "71",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/379111.jpg",
+            "airDate": "2008-08-28"
+        },
+        {
+            "id": "naruto-shippuden-episode-72",
+            "title": "The Quietly Approaching Threat",
+            "Episode Title": "The Quietly Approaching Threat",
+            "description": "Asuma mourns Chiriku's death, and realizes that Hidan and Kakuzu are trying to claim the bounty on his head. Meanwhile, Hidan and Kakuzu take Chiriku in for their payment. Meanwhile, Kakashi shows Naruto what the true goal of his training will be. It is also revealed that Kakashi can perform the Rasengan.",
+            "number": "72",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/380333.jpg",
+            "airDate": "2008-09-11"
+        },
+        {
+            "id": "naruto-shippuden-episode-73",
+            "title": "Akatsuki's Invasion",
+            "Episode Title": "Akatsuki's Invasion",
+            "description": "Kakashi reveals that while he knows how to perform Rasengan, he cannot combine his own lightning-based chakra. He adds that even the Fourth Hokage, who created the move, could not combine his elemental chakra with the technique, but that Naruto might be able to. Asuma sends word to other teams about Akatsuki’s location and proceeds on despite his concern about Akatsuki’s strength. Kakuzu turns in Chiriku’s corpse despite Hidan’s complaints, and says that he is partnered with Hidan because he cannot kill him. The stress of the training causes Naruto to be enveloped in the Nine-tails's \"Demon Fox's Cloak\", but Yamato suppresses it.",
+            "number": "73",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/380334.jpg",
+            "airDate": "2008-09-25"
+        },
+        {
+            "id": "naruto-shippuden-episode-74",
+            "title": "Under the Starry Sky",
+            "Episode Title": "Under the Starry Sky",
+            "description": "Asuma’s team reaches the bounty station and ambushes Hidan. Izumo and Kotetsu attack Hidan, but are unable to kill him despite stabbing his vital organs. Asuma tells his teammates that if they retreat they will be killed and Konoha will be endangered. Shikamaru realizes that Asuma is considering sacrificing himself to help defeat the enemy, based on what he knows of Asuma's shogi strategy. Asuma begins fighting Hidan, while Shikamaru distracts him by forcing him to dodge Shadow Sewing. Hidan cuts Asuma on the cheek and steps into a circle of blood as Asuma uses a jutsu to engulf Hidan in a cloud of ash. Asuma then sets the cloud ablaze, supposedly killing Hidan.",
+            "number": "74",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/380335.jpg",
+            "airDate": "2008-09-25"
         }]
 }
