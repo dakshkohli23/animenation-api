@@ -1,4 +1,4 @@
- [
+[
         {
             "server1": "b8z43ascqqou",
             "animeNameWithEP": "WIND BREAKER Episode 1",
@@ -43,6 +43,14 @@
             "server1": "5k1tcbnr22bm",
             "animeNameWithEP": "WIND BREAKER Episode 6",
             "ep_num": "6",
+            "anime_info": "wind-breaker",
+            "movie_id": "163270",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "9960jhds9hh1",
+            "animeNameWithEP": "WIND BREAKER Episode 7",
+            "ep_num": "7",
             "anime_info": "wind-breaker",
             "movie_id": "163270",
             "subOrDub": "sub"
