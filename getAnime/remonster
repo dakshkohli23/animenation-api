@@ -37,7 +37,7 @@
     "day": 18
   },
   "totalEpisodes": 12,
-  "currentEpisode": 6,
+  "currentEpisode": 7,
   "rating": 69,
   "duration": 24,
   "genres": [
@@ -681,6 +681,15 @@
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10405626/screencap/663725e455d48.jpg",
       "imageHash": "hash",
       "airDate": "May 10, 2024"
+    },
+    {
+      "id": "remonster-episode-7",
+      "title": "Re:Sist",
+      "description": "Parabellum and their elven benefactors put all their effort into ending the conflict with the humans as quickly as possible. However, the humans bolster their forces with a Brave blessed by the gods, who quickly finds himself crossing paths with Ogrou.",
+      "number": 7,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405627/screencap/66406c2c37c62.jpg",
+      "imageHash": "hash",
+      "airDate": "May 17, 2024"
     }
   ]
 }
