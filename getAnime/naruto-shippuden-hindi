@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 74,
+    "currentEpisode": 79,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2936,5 +2936,50 @@
             "number": "74",
             "image": "https://artworks.thetvdb.com/banners/episode/79824/380335.jpg",
             "airDate": "2008-09-25"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-75",
+            "title": "The Old Monk's Prayer",
+            "Episode Title": "The Old Monk's Prayer",
+            "description": "Furido taunts Sora until Sora unleashes his true powers, before informing Sora that he is planning to use the four corpses to save the Land of Fire. Naruto continues his fight with F?ka and learns that she can use all five elements. F?ka manages to kiss Naruto and begins draining his chakra. Realizing that Naruto is in trouble from extra-sensory perception, Sora rushes to rescue him. Sakura, Sai and Yamato arrive to help but are trapped by Fudo and Fuen. F?ka drains Naruto's chakra until she begins drawing on the Nine-tails's, which is too unnatural for her to successfully absorb. The enemy team retreats when Chiriku brings reinforcements.",
+            "number": "75",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/392124.jpg",
+            "airDate": "2008-05-29"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-76",
+            "title": "The Next Step",
+            "Episode Title": "The Next Step",
+            "description": "Hidan’s immortality enables him to stay alive even with his head cut off, although he cannot move his body. Kakuzu sews Hidan's head back on with threads that sprout from his body. Izumo and Kotetsu try to attack Kakuzu, but he manages to grab them both by using his body threads, restraining them and suffocating them as well. Hidan, now able to move again, returns to the circle and stabs himself with the blades of his scythe; he finishes it off by stabbing himself in the chest with another spike, fatally wounding Asuma.",
+            "number": "76",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/392125.jpg",
+            "airDate": "2008-10-02"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-77",
+            "title": "Climbing Silver",
+            "Episode Title": "Climbing Silver",
+            "description": "A call from the Akatsuki leader forces Hidan and Kakuzu to fall back, but in the wake of the aftermath, not everyone makes it back to Konoha alive.",
+            "number": "77",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/392126.jpg",
+            "airDate": "2008-10-16"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-78",
+            "title": "The Judgment",
+            "Episode Title": "The Judgment",
+            "description": "Naruto, Choji and Shikamaru attempt to capture and interrogate Sai, but Sai withdraws after insulting Naruto. Shortly afterward, Ino appears. Concerned that the demon fox could fall into Akatsuki hands, the village elders challenge Tsunade's plan to send Naruto out of the village without the still bedridden Kakashi. Tsunade promises to protect Konoha with her own life if Naruto is captured, but is still forced to compromise with Danzo by adding Sai to Team Kakashi. She also temporarily replaces Kakashi with ANBU member Yamato and warns him to keep an eye on Sai. Naruto and Sakura finally meet their new team members, and Naruto is immediately angered upon Sai's appearance.",
+            "number": "78",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/403517.jpg",
+            "airDate": "2007-11-15"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-79",
+            "title": "Unfulfilled Scream",
+            "Episode Title": "Unfulfilled Scream",
+            "description": "While Akatsuki discusses the true goals of their organization, Naruto continues his training. Meanwhile, Tsunade receives the tragic news.",
+            "number": "79",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/392127.jpg",
+            "airDate": "2008-10-23"
         }]
 }
