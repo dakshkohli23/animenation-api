@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 50,
-    "currentEpisode": 50,
+    "totalEpisodes": 51,
+    "currentEpisode": 51,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1059,6 +1059,13 @@
             "description": "",
             "number": "50",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10461636/screencap/664820a91f5e6.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-51",
+            "title": "A Prickly Floragato?! The Mysterious Flower Pillar",
+            "description": "",
+            "number": "51",
+            "image": "https://thetvdb.com/images/missing/episode.jpg"
         }
     ]
 }
