@@ -630,8 +630,6 @@
             "subOrDub": "dual"
         },
         {
-            "server1": "l0nhth4royb7",
-            "server2": "7evnajbb01s3",
             "animeNameWithEP": "Naruto: Shippuden Episode 71",
             "ep_num": "71",
             "anime_info": "naruto-shippuden",
@@ -639,8 +637,8 @@
             "subOrDub": "dual"
         },
         {
-            "server1": "r64ljjla8r24",
-            "server2": "3wmffjp9mo90",
+            "server1": "l0nhth4royb7",
+            "server2": "7evnajbb01s3",
             "animeNameWithEP": "Naruto: Shippuden Episode 72",
             "ep_num": "72",
             "anime_info": "naruto-shippuden",
@@ -648,8 +646,8 @@
             "subOrDub": "dual"
         },
         {
-            "server1": "p70nss2ra5cw",
-            "server2": "rkiz8fbzum62",
+            "server1": "r64ljjla8r24",
+            "server2": "3wmffjp9mo90",
             "animeNameWithEP": "Naruto: Shippuden Episode 73",
             "ep_num": "73",
             "anime_info": "naruto-shippuden",
@@ -657,8 +655,8 @@
             "subOrDub": "dual"
         },
         {
-            "server1": "ezxzjqpdjoi7",
-            "server2": "owp3nuq4aixm",
+            "server1": "p70nss2ra5cw",
+            "server2": "rkiz8fbzum62",
             "animeNameWithEP": "Naruto: Shippuden Episode 74",
             "ep_num": "74",
             "anime_info": "naruto-shippuden",
@@ -666,8 +664,8 @@
             "subOrDub": "dual"
         },
         {
-            "server1": "ytys7tg3ybom",
-            "server2": "cobc4v2xxtyj",
+            "server1": "ezxzjqpdjoi7",
+            "server2": "owp3nuq4aixm",
             "animeNameWithEP": "Naruto: Shippuden Episode 75",
             "ep_num": "75",
             "anime_info": "naruto-shippuden",
@@ -675,8 +673,8 @@
             "subOrDub": "dual"
         },
         {
-            "server1": "f6mzcbkvbhuq",
-            "server2": "aezjlhac49cj",
+            "server1": "ytys7tg3ybom",
+            "server2": "cobc4v2xxtyj",
             "animeNameWithEP": "Naruto: Shippuden Episode 76",
             "ep_num": "76",
             "anime_info": "naruto-shippuden",
@@ -684,8 +682,8 @@
             "subOrDub": "dual"
         },
         {
-            "server1": "zt64nikdulmj",
-            "server2": "1otdkws6se4x",
+            "server1": "f6mzcbkvbhuq",
+            "server2": "aezjlhac49cj",
             "animeNameWithEP": "Naruto: Shippuden Episode 77",
             "ep_num": "77",
             "anime_info": "naruto-shippuden",
@@ -693,8 +691,8 @@
             "subOrDub": "dual"
         },
         {
-            "server1": "xyqc65y7qtuz",
-            "server2": "5nnopltt203o",
+            "server1": "zt64nikdulmj",
+            "server2": "1otdkws6se4x",
             "animeNameWithEP": "Naruto: Shippuden Episode 78",
             "ep_num": "78",
             "anime_info": "naruto-shippuden",
@@ -702,8 +700,8 @@
             "subOrDub": "dual"
         },
         {
-            "server1": "dh7hl472odqu",
-            "server2": "uxull2pxt48h",
+            "server1": "xyqc65y7qtuz",
+            "server2": "5nnopltt203o",
             "animeNameWithEP": "Naruto: Shippuden Episode 79",
             "ep_num": "79",
             "anime_info": "naruto-shippuden",
@@ -711,10 +709,28 @@
             "subOrDub": "dual"
         },
         {
-            "server1": "tn61nodcd7pq",
-            "server2": "bg50q733ttmw",
+            "server1": "dh7hl472odqu",
+            "server2": "uxull2pxt48h",
             "animeNameWithEP": "Naruto: Shippuden Episode 80",
             "ep_num": "80",
+            "anime_info": "naruto-shippuden",
+            "movie_id": "1735",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "tn61nodcd7pq",
+            "server2": "bg50q733ttmw",
+            "animeNameWithEP": "Naruto: Shippuden Episode 81",
+            "ep_num": "81",
+            "anime_info": "naruto-shippuden",
+            "movie_id": "1735",
+            "subOrDub": "dual"
+        },
+        {
+            "server1": "yqbr2sg7tzhk",
+            "server2": "1cl40gu632lu",
+            "animeNameWithEP": "Naruto: Shippuden Episode 82",
+            "ep_num": "82",
             "anime_info": "naruto-shippuden",
             "movie_id": "1735",
             "subOrDub": "dual"
