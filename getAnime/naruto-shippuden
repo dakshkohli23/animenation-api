@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 80,
+    "currentEpisode": 82,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -2990,5 +2990,23 @@
             "number": "80",
             "image": "https://artworks.thetvdb.com/banners/episode/79824/392128.jpg",
             "airDate": "2008-10-30"
+        },
+        {
+            "id": "naruto-shippuden-episode-81",
+            "title": "The Sad News",
+            "Episode Title": "Sad News",
+            "description": "Asuma’s fire jutsu strikes Hidan, but much to the team's surprise, Asuma is also burned. Hidan reveals his ability: By ingesting an opponent’s blood and standing in a ritual circle drawn with blood, the \"curse\" links him to his opponent and all damage inflicted on him is also inflicted on the opponent. Asuma rushes at Hidan but collapses after Hidan stabs himself in the leg. Shikamaru realizes Hidan needs to be in the circle for the curse to take effect, and uses his shadow possession jutsu to force Hidan to step out of it. Asuma forces himself to stand up and beheads the restrained Hidan.",
+            "number": "81",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/398511.jpg",
+            "airDate": "2008-10-02"
+        },
+        {
+            "id": "naruto-shippuden-episode-82",
+            "title": "Team Ten",
+            "Episode Title": "Team 10 ",
+            "description": "Teams Kakashi and Guy return home to Konoha. As Kakashi rests in the infirmary, Sakura tells Tsunade about the information Sasori gave her as a reward for defeating him. Sasori had a meeting scheduled with a spy from within Orochimaru's ranks in 10 days. 4 days have passed since Sakura received this information, and now Naruto and Sakura need to recruit a new team member to go and investigate. As Naruto searches Konoha for a willing recruit, he meets some of his old friends. Just as Choji agrees to help, Shikamaru, Choji and Naruto are attacked by a Konoha shinobi unknown to them, Sai.",
+            "number": "82",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/403516.jpg",
+            "airDate": "2007-11-08"
         }]
 }
