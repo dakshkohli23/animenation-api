@@ -560,7 +560,6 @@
             "subOrDub": "sub"
         },
         {
-            "server1": "3hfbicae3kul",
             "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 71",
             "ep_num": "71",
             "anime_info": "naruto-shippuden-hindi",
@@ -568,7 +567,7 @@
             "subOrDub": "sub"
         },
         {
-            "server1": "42iw5g6lyk4c",
+            "server1": "3hfbicae3kul",
             "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 72",
             "ep_num": "72",
             "anime_info": "naruto-shippuden-hindi",
@@ -576,7 +575,7 @@
             "subOrDub": "sub"
         },
         {
-            "server1": "04mxwfh3vnxb",
+            "server1": "42iw5g6lyk4c",
             "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 73",
             "ep_num": "73",
             "anime_info": "naruto-shippuden-hindi",
@@ -584,7 +583,7 @@
             "subOrDub": "sub"
         },
         {
-            "server1": "tv3rn84hkq4t",
+            "server1": "04mxwfh3vnxb",
             "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 74",
             "ep_num": "74",
             "anime_info": "naruto-shippuden-hindi",
@@ -592,7 +591,7 @@
             "subOrDub": "sub"
         },
         {
-            "server1": "uc28iglewbsu",
+            "server1": "tv3rn84hkq4t",
             "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 75",
             "ep_num": "75",
             "anime_info": "naruto-shippuden-hindi",
@@ -600,7 +599,7 @@
             "subOrDub": "sub"
         },
         {
-            "server1": "b6j7jwcb2hja",
+            "server1": "uc28iglewbsu",
             "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 76",
             "ep_num": "76",
             "anime_info": "naruto-shippuden-hindi",
@@ -608,7 +607,7 @@
             "subOrDub": "sub"
         },
         {
-            "server1": "q40d7kwz1702",
+            "server1": "b6j7jwcb2hja",
             "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 77",
             "ep_num": "77",
             "anime_info": "naruto-shippuden-hindi",
@@ -616,7 +615,7 @@
             "subOrDub": "sub"
         },
         {
-            "server1": "gqbkjo1laolc",
+            "server1": "q40d7kwz1702",
             "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 78",
             "ep_num": "78",
             "anime_info": "naruto-shippuden-hindi",
@@ -624,7 +623,7 @@
             "subOrDub": "sub"
         },
         {
-            "server1": "1sspui02xka9",
+            "server1": "gqbkjo1laolc",
             "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 79",
             "ep_num": "79",
             "anime_info": "naruto-shippuden-hindi",
@@ -632,9 +631,25 @@
             "subOrDub": "sub"
         },
         {
-            "server1": "a1aj0caoybxe",
+            "server1": "1sspui02xka9",
             "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 80",
             "ep_num": "80",
+            "anime_info": "naruto-shippuden-hindi",
+            "movie_id": "1735",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "a1aj0caoybxe",
+            "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 81",
+            "ep_num": "81",
+            "anime_info": "naruto-shippuden-hindi",
+            "movie_id": "1735",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "2xs3mw9p5d5b",
+            "animeNameWithEP": "Naruto: Shippuden - Hindi Episode 82",
+            "ep_num": "82",
             "anime_info": "naruto-shippuden-hindi",
             "movie_id": "1735",
             "subOrDub": "sub"
