@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 82,
+    "currentEpisode": 83,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -3008,5 +3008,14 @@
             "number": "82",
             "image": "https://artworks.thetvdb.com/banners/episode/79824/403516.jpg",
             "airDate": "2007-11-08"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-83",
+            "title": "Target: Locked On",
+            "Episode Title": "Target: Locked On",
+            "description": "With careful planning, the group manages to find and trap Hidan and Kakuzu. However, things seem to be going a bit too smoothly.",
+            "number": "83",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/403853.jpg",
+            "airDate": "2008-11-06"
         }]
 }
