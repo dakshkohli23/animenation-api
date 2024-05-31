@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 83,
+    "currentEpisode": 85,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -3017,5 +3017,23 @@
             "number": "83",
             "image": "https://artworks.thetvdb.com/banners/episode/79824/403853.jpg",
             "airDate": "2008-11-06"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-84",
+            "title": "Kakuzu's Abilities",
+            "Episode Title": "Kakuzu's Abilities",
+            "description": "When Kakashi strikes Kakuzu through the heart, the battle seems to be over. However, when Kakuzu not only survives the attack, but also manages to escape from Shikamaru's trap, it soon becomes clear that the fight is only just beginning..",
+            "number": "84",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/403854.jpg",
+            "airDate": "2008-11-13"
+        },
+        {
+            "id": "naruto-shippuden-hindi-episode-85",
+            "title": "Terrifying Secret",
+            "Episode Title": "Terrifying Secret",
+            "description": "As Kakashi and the others continue to struggle against the Akatsuki duo, Kakuzu reveals that he has not one, but five hearts! In order to kill him, one must take out all five of his hearts. Meanwhile, Shikamaru decides to challenge Hidan alone, and forces him away from his partner.",
+            "number": "85",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/403855.jpg",
+            "airDate": "2008-11-20"
         }]
 }
