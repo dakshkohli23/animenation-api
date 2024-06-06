@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 85,
+    "currentEpisode": 89,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -3035,5 +3035,41 @@
             "number": "85",
             "image": "https://artworks.thetvdb.com/banners/episode/79824/403855.jpg",
             "airDate": "2008-11-20"
+        },
+        {
+            "id": "naruto-shippuden-episode-86",
+            "title": "Shikamaru's Genius",
+            "Episode Title": "Shikamaru's Genius",
+            "description": "Shikamaru continues his fight with Hidan. Hidan manages to injure Shikamaru and curses him the same way he did Asuma, but when Shikamaru survives Hidan's attack, Hidan realizes something isn't quite right.",
+            "number": "86",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/408980.jpg",
+            "airDate": "2008-12-04"
+        },
+        {
+            "id": "naruto-shippuden-episode-87",
+            "title": "When You Curse Someone, You Dig Your Own Grave",
+            "Episode Title": "When You Curse Someone, You Dig Your Own Grave",
+            "description": "Hidan falls into Shikamaru's trap, but now that he has Hidan cornered, can he find a way to defeat Hidan's immortality? Elsewhere, things are looking grim for Kakashi, Choji, and Ino as they continue fighting Kakuzu, but a surprise back-up unit arrives on the scene to provide some much needed assistance.",
+            "number": "87",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/408981.jpg",
+            "airDate": "2008-12-04"
+        },
+        {
+            "id": "naruto-shippuden-episode-88",
+            "title": "Wind Style: Rasen Shuriken!",
+            "Episode Title": "Wind Release: Rasenshuriken!",
+            "description": "Naruto challenges Kakuzu with his new technique, the Rasen Shuriken, but can he defeat Kakuzu when his technique isn't even complete yet?",
+            "number": "88",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/408982.jpg",
+            "airDate": "2008-12-11"
+        },
+        {
+            "id": "naruto-shippuden-episode-89",
+            "title": "Compensation for Power",
+            "Episode Title": "The Price of Power",
+            "description": "In the aftermath of the battle, Teams 7 and 10 return to Konoha. After examining Naruto, Tsunade officially classifies Naruto's new technique as a Forbidden Jutsu and warns Kakashi never to let him use it again. What is the terrible secret of the Rasen Shuriken that has left even Tsunade stunned by its power? Meanwhile, Orochimaru orders Kabuto to search for a woman who will help him reach his goal.",
+            "number": "89",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/408983.jpg",
+            "airDate": "2008-12-18"
         }]
 }
