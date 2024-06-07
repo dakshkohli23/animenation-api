@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 51,
-    "currentEpisode": 51,
+    "totalEpisodes": 52,
+    "currentEpisode": 52,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1065,6 +1065,13 @@
             "title": "A Prickly Floragato?! The Mysterious Flower Pillar",
             "description": "",
             "number": "51",
+            "image": "https://thetvdb.com/images/missing/episode.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-52",
+            "title": "Storm Warning for Wattrell!",
+            "description": "",
+            "number": "52",
             "image": "https://thetvdb.com/images/missing/episode.jpg"
         }
     ]
