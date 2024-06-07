@@ -37,7 +37,7 @@
         "day": 23
     },
     "totalEpisodes": 500,
-    "currentEpisode": 89,
+    "currentEpisode": 90,
     "rating": 81,
     "duration": 23,
     "genres": [
@@ -3071,5 +3071,14 @@
             "number": "89",
             "image": "https://artworks.thetvdb.com/banners/episode/79824/408983.jpg",
             "airDate": "2008-12-18"
+        },
+        {
+            "id": "naruto-shippuden-episode-90",
+            "title": "A Shinobi's Determination",
+            "Episode Title": "A Shinobi's Determination",
+            "description": "As Naruto recovers from his injury, Kakashi prepares to tell him the grim news about his new technique. Meanwhile, Sasuke secretly trains and has an encounter with a strange young girl.",
+            "number": "90",
+            "image": "https://artworks.thetvdb.com/banners/episode/79824/416834.jpg",
+            "airDate": "2008-12-25"
         }]
 }
