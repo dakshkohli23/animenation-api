@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 52,
-    "currentEpisode": 52,
+    "totalEpisodes": 53,
+    "currentEpisode": 53,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1072,6 +1072,13 @@
             "title": "Storm Warning for Wattrell!",
             "description": "As Liko, Roy and Dot continue observing wild Pokémon for their report, Kaiden gets frustrated with its inability to fly properly in strong wind to the point of getting into a fight with Hogator. That night, it secretly sneaks out of the tent to practice flying by itself, but when Roy and Hogator notices it's gone, they go searching for it. However, unnoticed by them all, a shadow draws near...",
             "number": "52",
+            "image": "https://thetvdb.com/images/missing/episode.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-53",
+            "title": "Hatenna and the Unworldly",
+            "description": "Liko, Roy and Dot go into a forest to search for something called "the unworldly" that a mysterious person told Roy about. As they cautiously head through the forest, they meet three people that look just like them?! Apparently these three Trainers have also encountered "the unworldly"... But just what IS "the unworldly"?",
+            "number": "53",
             "image": "https://thetvdb.com/images/missing/episode.jpg"
         }
     ]
