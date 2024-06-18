@@ -113,16 +113,5 @@
 		"type": "special",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162314-ocaEhYmvznFO.jpg",
 		"episodeUrl": "anime/attack-on-titan-the-final-season-part-4"
-	},
-	{
-		"animeId": "pokemon-ultimate-journeys",
-		"episodeId": "pokemon-ultimate-journeys-episode-1",
-		"name": "Pokémon Ultimate Journeys: The Series",
-		"jname": "Pocket Monsters (2019)",
-		"episodeNum": "38",
-		"subOrDub": "dub",
-		"type": "tv",
-		"imgUrl": "cover/pokemon-ultimate-journeys.jpg",
-		"episodeUrl": "anime/pokemon-ultimate-journeys"
 	}
 ]
