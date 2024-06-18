@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 53,
-    "currentEpisode": 53,
+    "totalEpisodes": 54,
+    "currentEpisode": 54,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1079,6 +1079,13 @@
             "title": "Hatenna and the Unworldly",
             "description": "Liko, Roy and Dot go into a forest to search for something called 'the unworldly' that a mysterious person told Roy about. As they cautiously head through the forest, they meet three people that look just like them?! Apparently these three Trainers have also encountered 'the unworldly'... But just what IS 'the unworldly'?",
             "number": "53",
+            "image": "https://thetvdb.com/images/missing/episode.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-54",
+            "title": "Eternal Blessings",
+            "description": "Having completed their tests, Liko and the others return to Naranja Academy. Meanwhile, Friede pursues the mystery of Terapagos.",
+            "number": "54",
             "image": "https://thetvdb.com/images/missing/episode.jpg"
         }
     ]
