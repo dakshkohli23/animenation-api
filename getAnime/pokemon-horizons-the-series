@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 54,
-    "currentEpisode": 54,
+    "totalEpisodes": 55,
+    "currentEpisode": 55,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1086,6 +1086,13 @@
             "title": "Eternal Blessings",
             "description": "Having completed their tests, Liko and the others return to Naranja Academy. Meanwhile, Friede pursues the mystery of Terapagos.",
             "number": "54",
+            "image": "https://thetvdb.com/images/missing/episode.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-55",
+            "title": "Showdown! The Paldea Elite Four",
+            "description": "",
+            "number": "55",
             "image": "https://thetvdb.com/images/missing/episode.jpg"
         }
     ]
