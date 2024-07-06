@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 56,
-    "currentEpisode": 56,
+    "totalEpisodes": 57,
+    "currentEpisode": 57,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1101,6 +1101,13 @@
             "description": "",
             "number": "56",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10537015/screencap/667fe3bb41912.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-57",
+            "title": "A Terapagos I Don't Know",
+            "description": "",
+            "number": "57",
+            "image": "https://thetvdb.com/images/missing/episode.jpg"
         }
     ]
 }
