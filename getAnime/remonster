@@ -24,7 +24,7 @@
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169417-NaD0wR83gTbm.jpg",
   "coverHash": "hash",
   "description": "After meeting an untimely death, Tomokui Kanata is reincarnated as a lowly goblin, but he’s worked up a monstrous appetite. Thanks to his new ability that allows him to grow stronger the more he feeds, his feeble status quickly changes, and he rises to become the goblin leader. With a mix of his past memories, new body, and strong stomach, he’s taking a bite out of this new fantastical world!",
-  "status": "Ongoing",
+  "status": "Completed",
   "releaseDate": 2024,
   "startDate": {
     "year": 2024,
@@ -37,7 +37,7 @@
     "day": 18
   },
   "totalEpisodes": 12,
-  "currentEpisode": 7,
+  "currentEpisode": 12,
   "rating": 69,
   "duration": 24,
   "genres": [
@@ -627,69 +627,100 @@
       "rating": 69
     }
   ],
-  "episodes": [
-    {
-      "id": "remonster-episode-1",
-      "title": "Re:Born",
-      "description": "After being brutally murdered, Tomokui Kanata awakens in the body of a tiny green baby. He now has to begin a new life as a goblin in a brutal world, but fortunately, he has retained his special ability from his previous life.",
-      "number": 1,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10031590/screencap/6606b7bf9de5d.jpg",
-      "imageHash": "hash",
-      "airDate": "April 5, 2024"
-    },
-    {
-      "id": "remonster-episode-2",
-      "title": "Re:D Bear",
-      "description": "While Gobrou organizes and trains the goblins of his generation, the generation that fathered them returns from their raiding. When he sees that they've captured a band of human women, he challenges the existing authority for control of their fates.",
-      "number": 2,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405622/screencap/661246c736131.jpg",
-      "imageHash": "hash",
-      "airDate": "April 12, 2024"
-    },
-    {
-      "id": "remonster-episode-3",
-      "title": "Re:Use",
-      "description": "Gobe brings a small injured creature to Gobrou, who promises a great reward to him and the other goblins if they help reclaim her master's treasury. Afterward, Gobrou gets in trouble with the village women after falling to external temptation.",
-      "number": 3,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405623/screencap/661b78372a015.jpg",
-      "imageHash": "hash",
-      "airDate": "April 19, 2024"
-    },
-    {
-      "id": "remonster-episode-4",
-      "title": "Re:Ject",
-      "description": "",
-      "number": 4,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405624/screencap/6624b52d538c4.jpg",
-      "imageHash": "hash",
-      "airDate": "April 26, 2024"
-    },
-    {
-      "id": "remonster-episode-5",
-      "title": "Re:Ady",
-      "description": "Gobrou interferes with a human plot to steal the daughter of the elven chieftain. As they continue to prepare for conflict to ensue in the woods, the villagers keep growing in strength and evolving into new forms.",
-      "number": 5,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405625/screencap/662ddddf5dede.jpg",
-      "imageHash": "hash",
-      "airDate": "May 3, 2024"
-    },
-    {
-      "id": "remonster-episode-6",
-      "title": "Re:Medy",
-      "description": "The human army finally advances on the Kudel Woods, and the Parabellum Mercenary company goes to meet them. Their training, power, and most importantly tactics are put to the test against organized forces of humans.",
-      "number": 6,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405626/screencap/663725e455d48.jpg",
-      "imageHash": "hash",
-      "airDate": "May 10, 2024"
-    },
-    {
-      "id": "remonster-episode-7",
-      "title": "Re:Sist",
-      "description": "Parabellum and their elven benefactors put all their effort into ending the conflict with the humans as quickly as possible. However, the humans bolster their forces with a Brave blessed by the gods, who quickly finds himself crossing paths with Ogrou.",
-      "number": 7,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10405627/screencap/66406c2c37c62.jpg",
-      "imageHash": "hash",
-      "airDate": "May 17, 2024"
-    }
-  ]
+  "episodes": [{
+            "id": "remonster-episode-1",
+            "title": "Re:Born",
+            "description": "After being brutally murdered, Tomokui Kanata awakens in the body of a tiny green baby. He now has to begin a new life as a goblin in a brutal world, but fortunately, he has retained his special ability from his previous life.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10031590/screencap/6606b7bf9de5d.jpg",
+            "airDate": "2024-04-05"
+        },
+        {
+            "id": "remonster-episode-2",
+            "title": "Re:D Bear",
+            "description": "While Gobrou organizes and trains the goblins of his generation, the generation that fathered them returns from their raiding. When he sees that they've captured a band of human women, he challenges the existing authority for control of their fates.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10405622/screencap/661246c736131.jpg",
+            "airDate": "2024-04-12"
+        },
+        {
+            "id": "remonster-episode-3",
+            "title": "Re:Use",
+            "description": "Gobe brings a small injured creature to Gobrou, who promises a great reward to him and the other goblins if they help reclaim her master's treasury. Afterward, Gobrou gets in trouble with the village women after falling to external temptation.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10405623/screencap/661b78372a015.jpg",
+            "airDate": "2024-04-19"
+        },
+        {
+            "id": "remonster-episode-4",
+            "title": "Re:Ject",
+            "description": "A band of elves calls upon Gobrou to help defend the forest from invading humans. However, the arrogance of the elves makes them difficult to negotiate with. Terrified kobolds run to the goblins out of desperation, bringing trouble right to their door.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10405624/screencap/6624b52d538c4.jpg",
+            "airDate": "2024-04-26"
+        },
+        {
+            "id": "remonster-episode-5",
+            "title": "Re:Ady",
+            "description": "Gobrou interferes with a human plot to steal the daughter of the elven chieftain. As they continue to prepare for conflict to ensue in the woods, the villagers keep growing in strength and evolving into new forms.",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10405625/screencap/662ddddf5dede.jpg",
+            "airDate": "2024-05-03"
+        },
+        {
+            "id": "remonster-episode-6",
+            "title": "Re:Medy",
+            "description": "The human army finally advances on the Kudel Woods, and the Parabellum Mercenary company goes to meet them. Their training, power, and most importantly tactics are put to the test against organized forces of humans.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10405626/screencap/663725e455d48.jpg",
+            "airDate": "2024-05-10"
+        },
+        {
+            "id": "remonster-episode-7",
+            "title": "Re:Sist",
+            "description": "Parabellum and their elven benefactors put all their effort into ending the conflict with the humans as quickly as possible. However, the humans bolster their forces with a Brave blessed by the gods, who quickly finds himself crossing paths with Ogrou.",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10405627/screencap/66406c2c37c62.jpg",
+            "airDate": "2024-05-17"
+        },
+        {
+            "id": "remonster-episode-8",
+            "title": "Re:Organization",
+            "description": "With the conflict with the humans behind them, Parabellum Mercenary Company releases what prisoners remain and offers them a provisional place in the mercenary company. However, several of these potential recruits think they deserve better treatment.",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10405628/screencap/6649a88e81fb5.jpg",
+            "airDate": "2024-05-24"
+        },
+        {
+            "id": "remonster-episode-9",
+            "title": "Re:Stive",
+            "description": "Ogrou and his group arrive at Trient, and he gives the abducted humans the chance to leave and live among their own people. A chance encounter with some ruffians gives Parabellum Mercenary Company an opportunity for a lucrative job.",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10405629/screencap/6652e75bc03ea.jpg",
+            "airDate": "2024-05-31"
+        },
+        {
+            "id": "remonster-episode-10",
+            "title": "Re:Fulgent",
+            "description": "Ogrou and his group arrive at a small human village called Mason. Out in the country, demi-human prejudices run even deeper. Shortly after their stop at the village, the two chef sisters start feeling strange.",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10405630/screencap/665c2708478f3.jpg",
+            "airDate": "2024-06-07"
+        },
+        {
+            "id": "remonster-episode-11",
+            "title": "Re:Match",
+            "description": "Ogrou's travels are once again interrupted by unexpected childbirth. After checking up on the other groups of traveling Parabellum mercenaries, he becomes concerned after not hearing back from Ogrekichi.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10405631/screencap/6665440a0483d.jpg",
+            "airDate": "2024-06-14"
+        },
+        {
+            "id": "remonster-episode-12",
+            "title": "Re:Start",
+            "description": "Ogrou's group finally arrives at the royal capital and completes their job escorting the princess. They then decide to return home. However, they find that things are not as they had left them a mere month ago.",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10405632/screencap/666fdeb51ec52.jpg",
+            "airDate": "2024-06-21"
+        }]
 }
