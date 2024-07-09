@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "remonster",
+		"episodeId": "remonster-episode-12",
+		"jname": "Re:Monster",
+		"name": "Re:Monster",
+		"episodeNum": 12,
+		"sub": 12,
+		"dub": 12,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png"
+	},
+	{
 		"animeId": "pokemon-horizons-the-series",
 		"episodeId": "pokemon-horizons-the-series-episode-57",
 		"jname": "Pocket Monsters (2023)",
@@ -30,16 +41,6 @@
 		"sub": 7,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg"
-	},
-	{
-		"animeId": "remonster",
-		"episodeId": "remonster-episode-7",
-		"jname": "Re:Monster",
-		"name": "Re:Monster",
-		"episodeNum": 12,
-		"sub": 7,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169417-izsfKg0hasRd.png"
 	},
 	{
 		"animeId": "kaiju-no-8",
