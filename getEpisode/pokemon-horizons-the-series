@@ -1,4 +1,4 @@
- [
+[
         {
             "server1": "ovf8jo0b436b",
             "server2": "3f8yqm8qnwzb",
@@ -483,6 +483,14 @@
             "server1": "xiqrwze8ig7l",
             "animeNameWithEP": "Pokémon Horizons: The Series Episode 57",
             "ep_num": "57",
+            "anime_info": "pokemon-horizons-the-series",
+            "movie_id": "1564",
+            "subOrDub": "sub"
+        },
+        {
+            "server1": "678p7zrl2wx2",
+            "animeNameWithEP": "Pokémon Horizons: The Series Episode 58",
+            "ep_num": "58",
             "anime_info": "pokemon-horizons-the-series",
             "movie_id": "1564",
             "subOrDub": "sub"
