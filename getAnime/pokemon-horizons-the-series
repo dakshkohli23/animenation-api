@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 57,
-    "currentEpisode": 57,
+    "totalEpisodes": 58,
+    "currentEpisode": 58,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1108,6 +1108,13 @@
             "description": "",
             "number": "57",
             "image": "https://thetvdb.com/images/missing/episode.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-58",
+            "title": "The Mascot Pokémon Is Kingambit?!",
+            "description": "",
+            "number": "58",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10559754/screencap/669217e93cbec.jpg"
         }
     ]
 }
