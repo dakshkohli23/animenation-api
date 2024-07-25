@@ -1,218 +1,166 @@
-[
+{
+    "Sheet1": [
         {
-            "server1": "5hpbv9m17zxq",
+            "server1": "ya2ybj20nh9m",
+            "server2": "ya2ybj20nh9m",
             "animeNameWithEP": "Pokémon Generations Episode 1",
             "ep_num": "1",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 2 >>",
-            "nextEpLink": "/pokemon-generations-episode-2",
-            "prevEpText": "",
-            "prevEpLink": ""
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "6qsm921fbtai",
+            "server1": "jfpp7xqdctu6",
+            "server2": "jfpp7xqdctu6",
             "animeNameWithEP": "Pokémon Generations Episode 2",
             "ep_num": "2",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 3 >>",
-            "nextEpLink": "/pokemon-generations-episode-3",
-            "prevEpText": "<< Pokémon Generations Episode 1",
-            "prevEpLink": "/pokemon-generations-episode-1"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "whsbxsd4uvrl",
+            "server1": "75yss70hxnhf",
+            "server2": "75yss70hxnhf",
             "animeNameWithEP": "Pokémon Generations Episode 3",
             "ep_num": "3",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 4 >>",
-            "nextEpLink": "/pokemon-generations-episode-4",
-            "prevEpText": "<< Pokémon Generations Episode 2",
-            "prevEpLink": "/pokemon-generations-episode-2"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "3bf4j0jun794",
+            "server1": "judzujde5uqz",
+            "server2": "judzujde5uqz",
             "animeNameWithEP": "Pokémon Generations Episode 4",
             "ep_num": "4",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 5 >>",
-            "nextEpLink": "/pokemon-generations-episode-5",
-            "prevEpText": "<< Pokémon Generations Episode 3",
-            "prevEpLink": "/pokemon-generations-episode-3"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "4iqoyqnvjkay",
+            "server1": "oo92z4c0r1im",
+            "server2": "oo92z4c0r1im",
             "animeNameWithEP": "Pokémon Generations Episode 5",
             "ep_num": "5",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 6 >>",
-            "nextEpLink": "/pokemon-generations-episode-6",
-            "prevEpText": "<< Pokémon Generations Episode 4",
-            "prevEpLink": "/pokemon-generations-episode-4"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "y4xlauraxzhw",
+            "server1": "sbrqbunxmqzv",
+            "server2": "sbrqbunxmqzv",
             "animeNameWithEP": "Pokémon Generations Episode 6",
             "ep_num": "6",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 7 >>",
-            "nextEpLink": "/pokemon-generations-episode-7",
-            "prevEpText": "<< Pokémon Generations Episode 5",
-            "prevEpLink": "/pokemon-generations-episode-5"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "5j87x4kvxntt",
+            "server1": "7fnlqd763g01",
+            "server2": "7fnlqd763g01",
             "animeNameWithEP": "Pokémon Generations Episode 7",
             "ep_num": "7",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 8 >>",
-            "nextEpLink": "/pokemon-generations-episode-8",
-            "prevEpText": "<< Pokémon Generations Episode 6",
-            "prevEpLink": "/pokemon-generations-episode-6"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "qtxrlnlmk19n",
+            "server1": "wgp4r5jw0dom",
+            "server2": "wgp4r5jw0dom",
             "animeNameWithEP": "Pokémon Generations Episode 8",
             "ep_num": "8",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 9 >>",
-            "nextEpLink": "/pokemon-generations-episode-9",
-            "prevEpText": "<< Pokémon Generations Episode 7",
-            "prevEpLink": "/pokemon-generations-episode-7"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "2aheyp98ilk3",
+            "server1": "jyy8vn51hyzb",
+            "server2": "jyy8vn51hyzb",
             "animeNameWithEP": "Pokémon Generations Episode 9",
             "ep_num": "9",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 10 >>",
-            "nextEpLink": "/pokemon-generations-episode-10",
-            "prevEpText": "<< Pokémon Generations Episode 8",
-            "prevEpLink": "/pokemon-generations-episode-8"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "lxhd8pp3fqjo",
+            "server1": "x41ibreb97jk",
+            "server2": "x41ibreb97jk",
             "animeNameWithEP": "Pokémon Generations Episode 10",
             "ep_num": "10",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 11 >>",
-            "nextEpLink": "/pokemon-generations-episode-11",
-            "prevEpText": "<< Pokémon Generations Episode 9",
-            "prevEpLink": "/pokemon-generations-episode-9"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "idvyd0iac070",
+            "server1": "kubjlkrqz7hr",
+            "server2": "kubjlkrqz7hr",
             "animeNameWithEP": "Pokémon Generations Episode 11",
             "ep_num": "11",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 12 >>",
-            "nextEpLink": "/pokemon-generations-episode-12",
-            "prevEpText": "<< Pokémon Generations Episode 10",
-            "prevEpLink": "/pokemon-generations-episode-10"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "fsdwmmyx4vl8",
+            "server1": "os8s7lzhcv4c",
+            "server2": "os8s7lzhcv4c",
             "animeNameWithEP": "Pokémon Generations Episode 12",
             "ep_num": "12",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 13 >>",
-            "nextEpLink": "/pokemon-generations-episode-13",
-            "prevEpText": "<< Pokémon Generations Episode 11",
-            "prevEpLink": "/pokemon-generations-episode-11"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "rq4cuc19i7uh",
+            "server1": "knyqkh8hurnj",
+            "server2": "knyqkh8hurnj",
             "animeNameWithEP": "Pokémon Generations Episode 13",
             "ep_num": "13",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 14 >>",
-            "nextEpLink": "/pokemon-generations-episode-14",
-            "prevEpText": "<< Pokémon Generations Episode 12",
-            "prevEpLink": "/pokemon-generations-episode-12"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "cm2rats09ar9",
+            "server1": "dr7cgr303aqu",
+            "server2": "dr7cgr303aqu",
             "animeNameWithEP": "Pokémon Generations Episode 14",
             "ep_num": "14",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 15 >>",
-            "nextEpLink": "/pokemon-generations-episode-15",
-            "prevEpText": "<< Pokémon Generations Episode 13",
-            "prevEpLink": "/pokemon-generations-episode-13"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "jm7acxwbxnpe",
+            "server1": "n5edmn3irsoq",
+            "server2": "n5edmn3irsoq",
             "animeNameWithEP": "Pokémon Generations Episode 15",
             "ep_num": "15",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 16 >>",
-            "nextEpLink": "/pokemon-generations-episode-16",
-            "prevEpText": "<< Pokémon Generations Episode 14",
-            "prevEpLink": "/pokemon-generations-episode-14"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "zg0mg8w00bxa",
+            "server1": "saa9k06zmmim",
+            "server2": "saa9k06zmmim",
             "animeNameWithEP": "Pokémon Generations Episode 16",
             "ep_num": "16",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 17 >>",
-            "nextEpLink": "/pokemon-generations-episode-17",
-            "prevEpText": "<< Pokémon Generations Episode 15",
-            "prevEpLink": "/pokemon-generations-episode-15"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "ghilzbkgy4m6",
+            "server1": "5pf87b1sgute",
+            "server2": "5pf87b1sgute",
             "animeNameWithEP": "Pokémon Generations Episode 17",
             "ep_num": "17",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "Pokémon Generations Episode 18 >>",
-            "nextEpLink": "/pokemon-generations-episode-18",
-            "prevEpText": "<< Pokémon Generations Episode 16",
-            "prevEpLink": "/pokemon-generations-episode-16"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         },
         {
-            "server1": "j6dvls1t5mcz",
+            "server1": "v1c4hmk8ni8m",
+            "server2": "v1c4hmk8ni8m",
             "animeNameWithEP": "Pokémon Generations Episode 18",
             "ep_num": "18",
             "anime_info": "pokemon-generations",
-            "movie_id": "131518",
-            "alias": "pokemon-generations",
-            "nextEpText": "",
-            "nextEpLink": "",
-            "prevEpText": "<< Pokémon Generations Episode 17",
-            "prevEpLink": "/pokemon-generations-episode-17"
+            "movie_id": "97635",
+            "subOrDub": "dub"
         }
     ]
+}
