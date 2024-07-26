@@ -28,7 +28,7 @@
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163270-QshLCttd04s6.jpg",
   "coverHash": "hash",
   "description": "Where the average scores are the lowest, but the fights are the strongest. Furin High School is renowned as a super school of delinquents. Haruka Sakura, a first-year student, came from outside the city to fight to the top. However, Furin High School has become a group that protects the town called the 'Chime of the Wind Breaker' – Bofurin. The heroic legend of high school delinquent Sakura begins here!\n\u003Cbr\u003E\u003Cbr\u003E\n(Source: Crunchyroll)",
-  "status": "Ongoing",
+  "status": "Completed",
   "releaseDate": 2024,
   "startDate": {
     "year": 2024,
@@ -41,7 +41,7 @@
     "day": 28
   },
   "totalEpisodes": 13,
-  "currentEpisode": 7,
+  "currentEpisode": 13,
   "rating": 77,
   "duration": 24,
   "genres": [
@@ -404,67 +404,108 @@
   ],
   "episodes": [
     {
-      "id": "wind-breaker-episode-1",
-      "title": "SAKURA ARRIVES AT FURIN",
-      "description": "An admirer of strong people with a complete disinterest in the weak, Haruka Sakura, a loner and delinquent high school student, aims to be a fighter at the top of Furin High School. Coming from outside the city, Sakura enrolls in Furin High School, infamous for its delinquents.",
-      "number": 1,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/9701128/screencap/660d5d85213e2.jpg",
-      "imageHash": "hash",
-      "airDate": "April 5, 2024"
-    },
-    {
-      "id": "wind-breaker-episode-2",
-      "title": "THE HERO OF MY DREAMS",
-      "description": "It is the morning of the school entrance ceremony, and Furin High School has transformed into a group that protects the town now known as the 'Chime of the Wind Breaker' — Bofurin.",
-      "number": 2,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10378862/screencap/6616be91e3ce4.jpg",
-      "imageHash": "hash",
-      "airDate": "April 12, 2024"
-    },
-    {
-      "id": "wind-breaker-episode-3",
-      "title": "THE MAN WHO STANDS AT THE TOP",
-      "description": "Furin High School's first-year Class 1 is infamous for its group of strong fighters. One of the students in the class, Kyotaro Sugishita, becomes furious with what Sakura said and throws a punch at him. The two begin a spectacular fight, ignoring an aloof Hayato Suo, who's carefully watching the fight, and Nirei, who's now panicking. A tremendously loud voice echoes throughout the school, interrupting the fight between the two young men. The owner of that voice that instantly changed the mood of the entire school is none other than Umemiya, the Representative of Bofurin. Sakura and the rest look nervously up at the speakers to hear Umemiya say something completely unexpected.",
-      "number": 3,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10378863/screencap/661fe0b098a61.jpg",
-      "imageHash": "hash",
-      "airDate": "April 19, 2024"
-    },
-    {
-      "id": "wind-breaker-episode-4",
-      "title": "CLASH",
-      "description": "A fight breaks out between Bofurin and Shishitoren as Bofurin tries to protect the town's middle schoolers. Sakura receives a declaration of war from the group's second-in-command, Jo Togame. Sakura and one of the Four Kings of Bofurin, Toma Hiragi, tell Umemiya what happened.",
-      "number": 4,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10378864/screencap/66292ec0d6834.jpg",
-      "imageHash": "hash",
-      "airDate": "April 26, 2024"
-    },
-    {
-      "id": "wind-breaker-episode-5",
-      "title": "A GENTLEMAN",
-      "description": "'That’s why I'm going to take all of Furin…and you for myself!' declares Shishitoren's leader, Choji Tomiyama, as he makes his way onto Furin High School grounds. Finally, it's a one-on-one showdown between Bofurin and Shishitoren!",
-      "number": 5,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10378865/screencap/663412e44ed83.jpg",
-      "imageHash": "hash",
-      "airDate": "May 3, 2024"
-    },
-    {
-      "id": "wind-breaker-episode-6",
-      "title": "VOW TO FOLLOW",
-      "description": "Tomiyama and Togame, far from worrying about their teammate who lost the battle, expel him from their team. While this peculiar spectacle shakes Sakura and the rest, Suo becomes unexpectedly emotional and wins against Minoru Kanuma, earning another win for Bofurin.",
-      "number": 6,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10378866/screencap/663bf21abf756.jpg",
-      "imageHash": "hash",
-      "airDate": "May 10, 2024"
-    },
-    {
-      "id": "wind-breaker-episode-7",
-      "title": "FIGHT TO WIN",
-      "description": "It’s now time for the battle of those second-in-command: Sakura versus Togame — a fight that will set things on fire!",
-      "number": 7,
-      "image": "https://artworks.thetvdb.com/banners/v4/episode/10378867/screencap/6645cfcabf0c0.jpg",
-      "imageHash": "hash",
-      "airDate": "May 17, 2024"
-    }
+            "id": "wind-breaker-episode-1",
+            "title": "SAKURA ARRIVES AT FURIN",
+            "description": "An admirer of strong people with a complete disinterest in the weak, Haruka Sakura, a loner and delinquent high school student, aims to be a fighter at the top of Furin High School. Coming from outside the city, Sakura enrolls in Furin High School, infamous for its delinquents.",
+            "number": "1",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/9701128/screencap/660d5d85213e2.jpg",
+            "airDate": "2024-04-05"
+        },
+        {
+            "id": "wind-breaker-episode-2",
+            "title": "THE HERO OF MY DREAMS",
+            "description": "It is the morning of the school entrance ceremony, and Furin High School has transformed into a group that protects the town now known as the \"Chime of the Wind Breaker\" — Bofurin.",
+            "number": "2",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10378862/screencap/6616be91e3ce4.jpg",
+            "airDate": "2024-04-12"
+        },
+        {
+            "id": "wind-breaker-episode-3",
+            "title": "THE MAN WHO STANDS AT THE TOP",
+            "description": "Furin High School's first-year Class 1 is infamous for its group of strong fighters.\r\n\r\nOne of the students in the class, Kyotaro Sugishita, becomes furious with what Sakura said and throws a punch at him. The two begin a spectacular fight, ignoring an aloof Hayato Suo, who's carefully watching the fight, and Nirei, who's now panicking.\r\n\r\n\r\n\r\nA tremendously loud voice echoes throughout the school, interrupting the fight between the two young men. The owner of that voice that instantly changed the mood of the entire school is none other than Umemiya, the Representative of Bofurin. Sakura and the rest look nervously up at the speakers to hear Umemiya say something completely unexpected.",
+            "number": "3",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10378863/screencap/661fe0b098a61.jpg",
+            "airDate": "2024-04-19"
+        },
+        {
+            "id": "wind-breaker-episode-4",
+            "title": "CLASH",
+            "description": "A fight breaks out between Bofurin and Shishitoren as Bofurin tries to protect the town's middle schoolers. Sakura receives a declaration of war from the group's second-in-command, Jo Togame. Sakura and one of the Four Kings of Bofurin, Toma Hiragi, tell Umemiya what happened.",
+            "number": "4",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10378864/screencap/66292ec0d6834.jpg",
+            "airDate": "2024-04-26"
+        },
+        {
+            "id": "wind-breaker-episode-5",
+            "title": "A GENTLEMAN",
+            "description": "\"That’s why I'm going to take all of Furin…and you for myself!\" declares Shishitoren's leader, Choji Tomiyama, as he makes his way onto Furin High School grounds. Finally, it's a one-on-one showdown between Bofurin and Shishitoren!",
+            "number": "5",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10378865/screencap/663412e44ed83.jpg",
+            "airDate": "2024-05-03"
+        },
+        {
+            "id": "wind-breaker-episode-6",
+            "title": "VOW TO FOLLOW",
+            "description": "Tomiyama and Togame, far from worrying about their teammate who lost the battle, expel him from their team. While this peculiar spectacle shakes Sakura and the rest, Suo becomes unexpectedly emotional and wins against Minoru Kanuma, earning another win for Bofurin.",
+            "number": "6",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10378866/screencap/663bf21abf756.jpg",
+            "airDate": "2024-05-10"
+        },
+        {
+            "id": "wind-breaker-episode-7",
+            "title": "FIGHT TO WIN",
+            "description": "It’s now time for the battle of those second-in-command: Sakura versus Togame — a fight that will set things on fire!",
+            "number": "7",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10378867/screencap/6645cfcabf0c0.jpg",
+            "airDate": "2024-05-17"
+        },
+        {
+            "id": "wind-breaker-episode-8",
+            "title": "SUCCEEDING THE PAST",
+            "description": "Togame can no longer hide the fact he's feeling lost. He remembers when he met Tomiyama, the fun days he had with Shishitoren, how the team changed when Tomiyama became the leader, and the things he's done himself.",
+            "number": "8",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10378868/screencap/664e976c7cb1a.jpg",
+            "airDate": "2024-05-24"
+        },
+        {
+            "id": "wind-breaker-episode-9",
+            "title": "UMEMIYA'S STYLE",
+            "description": "It's now time for a one-on-one fight between Umemiya and Tomiyama. Tomiyama believed that by winning against Umemiya, he would obtain Furin High School, freedom, and a sense of fun that would rival no other.",
+            "number": "9",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10378869/screencap/665758b92addc.jpg",
+            "airDate": "2024-05-31"
+        },
+        {
+            "id": "wind-breaker-episode-10",
+            "title": "DIALOGUE",
+            "description": "Admitting defeat, Tomiyama tries to pass Shishitoren on to Umemiya — to which Umemiya declares, \"Instead of taking over your team, we'll be friends!\" Bofurin and Shishitoren are dumbfounded at this turn of events but talks progress, food is brought, and a celebratory afterparty starts.",
+            "number": "10",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10378870/screencap/66604b397af2e.jpg",
+            "airDate": "2024-06-07"
+        },
+        {
+            "id": "wind-breaker-episode-11",
+            "title": "NEW CLASSMATES",
+            "description": "With the fights against Shishitoren over, Class 1 enthusiastically welcomes Sakura, Nirei, and Suo's return. Their classmates, brimming with interest in the details of the fights, surround them, asking questions. Sakura can't hide his bashfulness.",
+            "number": "11",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10378871/screencap/6669bf4aab905.jpg",
+            "airDate": "2024-06-14"
+        },
+        {
+            "id": "wind-breaker-episode-12",
+            "title": "THE DEPENDABLE ONE",
+            "description": "Ren Kaji, Yuto Kusumi, and Takeshi Enomoto, second-year students from the Tamon Team, start their ruling on who will be Grade Captain for first-year Class 1. Suo is the first to raise his hand, immediately nominating Sakura as the other classmates vote for him one after the other.",
+            "number": "12",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10378872/screencap/66731c53b2696.jpg",
+            "airDate": "2024-06-21"
+        },
+        {
+            "id": "wind-breaker-episode-13",
+            "title": "FOR A FRIEND",
+            "description": "Sakura, Nirei, and Suo finish their meeting with Umemiya, the other members of the Four Kings, and other prominent leading figures and join up with Kiryu and Tsugeura on their way home.",
+            "number": "13",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10466551/screencap/667cc77aa9ed4.jpg",
+            "airDate": "6/28/24"
+        }
   ]
 }
