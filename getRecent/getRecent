@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "pokemon-horizons-the-series",
+		"episodeId": "pokemon-horizons-the-series-episode-59",
+		"jname": "Pocket Monsters (2023)",
+		"name": "Pokémon Horizons: The Series",
+		"episodeNum": 59,
+		"sub": 59,
+		"dub": 32,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
+	},
+	{
 		"animeId": "wind-breaker",
 		"episodeId": "wind-breaker-episode-13",
 		"jname": "WIND BREAKER",
@@ -9,17 +20,6 @@
 		"dub": 13,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg"
-	},
-	{
-		"animeId": "pokemon-horizons-the-series",
-		"episodeId": "pokemon-horizons-the-series-episode-58",
-		"jname": "Pocket Monsters (2023)",
-		"name": "Pokémon Horizons: The Series",
-		"episodeNum": 58,
-		"sub": 58,
-		"dub": 32,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg"
 	},
 	{
 		"animeId": "remonster",
