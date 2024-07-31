@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 58,
-    "currentEpisode": 58,
+    "totalEpisodes": 59,
+    "currentEpisode": 59,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1115,6 +1115,13 @@
             "description": "",
             "number": "58",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10559754/screencap/669217e93cbec.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-59",
+            "title": "Seeing Snow for the First Time! Fue-Fuecoco!!",
+            "description": "",
+            "number": "59",
+            "image": "https://thetvdb.com/images/missing/episode.jpg"
         }
     ]
 }
