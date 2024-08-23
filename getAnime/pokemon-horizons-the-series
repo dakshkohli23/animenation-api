@@ -30,8 +30,8 @@
         "month": 4,
         "day": 14
     },
-    "totalEpisodes": 60,
-    "currentEpisode": 60,
+    "totalEpisodes": 62,
+    "currentEpisode": 62,
     "rating": 72,
     "duration": 22,
     "genres": [
@@ -1129,6 +1129,20 @@
             "description": "",
             "number": "60",
             "image": "https://artworks.thetvdb.com/banners/v4/episode/10559756/screencap/66a4a89bcf715.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-61",
+            "title": "Resound, My Soul! Challenging Ryme",
+            "description": "",
+            "number": "61",
+            "image": "https://artworks.thetvdb.com/banners/v4/episode/10587467/screencap/66c04badbb508.jpg"
+        },
+        {
+            "id": "pokemon-horizons-the-series-episode-62",
+            "title": "Me and Fuecoco's Song",
+            "description": "",
+            "number": "62",
+            "image": "https://thetvdb.com/images/missing/episode.jpg"
         }
     ]
 }
