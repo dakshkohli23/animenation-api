@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "kaiju-no-8",
+		"episodeId": "kaiju-no-8-episode-12",
+		"jname": "Kaijuu 8-gou",
+		"name": "Kaiju No.8",
+		"episodeNum": 12,
+		"sub": 12,
+		"dub": 12,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
+	},
+	{
 		"animeId": "pokemon-horizons-the-series",
 		"episodeId": "pokemon-horizons-the-series-episode-62",
 		"jname": "Pocket Monsters (2023)",
@@ -42,17 +53,6 @@
 		"dub": 110,
 		"type": "tv",
 		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-Az5gbEdWeotG.png"
-	},
-	{
-		"animeId": "kaiju-no-8",
-		"episodeId": "kaiju-no-8-episode-6",
-		"jname": "Kaijuu 8-gou",
-		"name": "Kaiju No.8",
-		"episodeNum": 12,
-		"sub": 6,
-		"dub": 6,
-		"type": "tv",
-		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153288-tD2OmKy5CJab.jpg"
 	},
 	{
 		"animeId": "date-a-live-v",
