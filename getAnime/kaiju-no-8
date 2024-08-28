@@ -28,7 +28,7 @@
   "cover": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153288-JNsWuMPMAuJL.jpg",
   "coverHash": "hash",
   "description": "With the highest kaiju-emergence rates in the world, Japan is no stranger to attack by deadly monsters. Enter the Japan Defense Force, a military organization tasked with the neutralization of kaiju. Kafka Hibino, a kaiju-corpse cleanup man, has always dreamed of joining the force. But when he gets another shot at achieving his childhood dream, he undergoes an unexpected transformation. How can he fight kaiju now that he’s become one himself?!\u003Cbr\u003E\n\u003Cbr\u003E\n(Source: VIZ Media)",
-  "status": "Ongoing",
+  "status": "Completed",
   "releaseDate": 2024,
   "startDate": {
     "year": 2024,
@@ -41,7 +41,7 @@
     "day": 29
   },
   "totalEpisodes": 12,
-  "currentEpisode": 6,
+  "currentEpisode": 12,
   "rating": 78,
   "duration": 24,
   "genres": [
@@ -774,6 +774,60 @@
       "image": "https://artworks.thetvdb.com/banners/v4/episode/10364431/screencap/6646267e2d25a.jpg",
       "imageHash": "hash",
       "airDate": "May 18, 2024"
+    },
+    {
+      "id": "kaiju-no-8-episode-7",
+      "title": "Kaiju No. 9",
+      "description": "Reno and Iharu encounter a powerful humanoid Kaiju that quickly overwhelms them. Can help arrive in time?",
+      "number": 7,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10364432/screencap/664f2fca7db1a.jpg",
+      "imageHash": "hash",
+      "airDate": "May 25, 2024"
+    },
+    {
+      "id": "kaiju-no-8-episode-8",
+      "title": "Welcome to the Defense Force",
+      "description": "After transforming into a Kaiju to rescue Reno and Iharu, Kafka is found by Hoshina, who immediately attacks him.",
+      "number": 8,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10364433/screencap/66584b6e26b32.jpg",
+      "imageHash": "hash",
+      "airDate": "June 1, 2024"
+    },
+    {
+      "id": "kaiju-no-8-episode-9",
+      "title": "Raid on Tachikawa Base",
+      "description": "Tachikawa base comes under attack from the air, as a powerful Kaiju has its sights set on the Defense Force.",
+      "number": 9,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10364434/screencap/6661bc393dd2b.jpg",
+      "imageHash": "hash",
+      "airDate": "June 8, 2024"
+    },
+    {
+      "id": "kaiju-no-8-episode-10",
+      "title": "Secret Revealed",
+      "description": "When the Defense Force is in danger, Kafka is forced to choose between keeping his secret and saving his comrades.",
+      "number": 10,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10364435/screencap/666ac4fc831e0.jpg",
+      "imageHash": "hash",
+      "airDate": "June 15, 2024"
+    },
+    {
+      "id": "kaiju-no-8-episode-11",
+      "title": "Kaiju No. 8 Captured",
+      "description": "Kaiju No. 8 is captured, and Kafka is at the mercy of the Defense Force's most important leaders.",
+      "number": 11,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10364436/screencap/6673f89039936.jpg",
+      "imageHash": "hash",
+      "airDate": "June 22, 2024"
+    },
+    {
+      "id": "kaiju-no-8-episode-12",
+      "title": "Kafka Hibino",
+      "description": "Kafka's final fate is determined as the monster within him tries to take control.",
+      "number": 12,
+      "image": "https://artworks.thetvdb.com/banners/v4/episode/10364437/screencap/667d5333c7389.jpg",
+      "imageHash": "hash",
+      "airDate": "June 29, 2024"
     }
   ]
 }
