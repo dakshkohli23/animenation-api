@@ -1,5 +1,16 @@
 [
 	{
+		"animeId": "undead-unluck",
+		"episodeId": "undead-unluck-episode-1",
+		"jname": "Undead Unluck",
+		"name": "Undead Unluck",
+		"episodeNum": 24,
+		"sub": 24,
+		"dub": 24,
+		"type": "tv",
+		"imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154116-ypBL1uGj3qMG.png"
+	},
+	{
 		"animeId": "kaiju-no-8",
 		"episodeId": "kaiju-no-8-episode-12",
 		"jname": "Kaijuu 8-gou",
